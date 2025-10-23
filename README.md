@@ -4,7 +4,7 @@ This repository contains the digitized version of Kale's 'A Higher Sanskrit Gram
 
 ## Current Version
 
-**`kales_sanskrit_grammar_v7_final.md`** - Latest cleaned and processed version
+**`kales_sanskrit_grammar_v7.md`** - Latest cleaned and processed version
 
 ## Version History
 
@@ -16,7 +16,7 @@ All intermediate versions are preserved in `versions_archive/` for potential rep
 - **v4**: `kales_sanskrit_grammar_v4_nlp_standardized.md` - NLP-based standardization
 - **v5**: `kales_sanskrit_grammar_v5_iast.md` - IAST standardization with Sanskrit term mapping
 - **v6**: `kales_sanskrit_grammar_v6_spacy_improved.md` - spaCy-based improvements with intelligent paragraph merging
-- **v7**: `kales_sanskrit_grammar_v7_final.md` - Final polished version (18,080 lines)
+- **v7**: `kales_sanskrit_grammar_v7.md` - Latest polished version (18,080 lines)
 
 ## Processing Pipeline
 
@@ -46,7 +46,7 @@ All intermediate versions are preserved in `versions_archive/` for potential rep
 
 ```
 ocr/
-├── kales_sanskrit_grammar_v7_final.md    # Current version
+├── kales_sanskrit_grammar_v7.md           # Current version
 ├── versions_archive/                      # All intermediate versions (v1-v6)
 ├── docs_archive/                          # Process documentation
 ├── chunks/                                # OCR processing chunks
@@ -68,7 +68,7 @@ ocr/
 
 ## Usage
 
-The final version can be used for:
+The current version can be used for:
 
 - Digital reading and research
 - Text analysis and linguistic studies
