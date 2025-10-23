@@ -1,0 +1,13 @@
+# Section extraction configuration
+sections:
+  - id: "01-alphabet"
+    title: "The Alphabet"
+    start_pattern: "^# Chapter I\\.$"
+    end_pattern: "^# CHAPTER II\\.$"
+    output: "01_alphabet/01_alphabet.md"
+  
+  - id: "02-sandhi"
+    title: "Rules of Sandhi"
+    start_pattern: "^# CHAPTER II\\.$"
+    end_pattern: "^# Chapter III\\.$"
+    output: "02_sandhi/01_all_sandhi.md"
