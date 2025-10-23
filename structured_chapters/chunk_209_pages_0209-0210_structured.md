@@ -1,0 +1,19 @@
+§ 340 ] TAPPURRA AFFIXES. 203
+
+inserted; @[svakīya] 'one's own,' @[janadīya] 'of the people,' @[parakīya], @[rājakīya], @[veṇukīya] 'of a bamboo,' @[caitrakīya].
+
+@[eṣya]—प्रा @[varṣeṇya] 'produced in or relating to the rainy season,' fr. @[varṣā].
+
+@[eya] (ढञ्, ञञ्, टञ्) is chiefly added (1) to words ending in fem. affix in the sense of 'the child or offspring of'; @[vainateya] 'the son of Vinatā' i.e. Garuda; @[bhāgineya] 'the son of a sister'; when added to @[kulāṭā] meaning 'a poor woman', @[uk] is inserted optionally, @[kaulāṭukeya] or @[kaulāṭineya]; when @[kulāṭā] means 'a harlot' or 'an adulteress' @[er] is optionally substituted for @[ya]; @[kaulāṭeya] or @[kaulāṭera] 'the son of an adulteress'; it is optionally changed to @[er] when added to words denoting 'a female having some kind of defect', @[kāṇeya-ra] 'son of a one-eyed woman,' @[dāsīputra-ra] 'son of a female slave'.—(2) to words of two syllables ending in @[i] but not formed by the affix @[i] (@[iñ]), to @[maṇḍūka] and words included in the @[jyugrādi] group*; @[ātreya] 'son of Atri', @[māṇḍūkeya] 'son of Maṇḍūka', @[saubhreya] 'son of Subhra (Name of a sage)', @[jyugra] &c.:—(3) and to @[mātṛsvasṛ] and @[pitṛsvasṛ], the final @[ṛ] being dropped before it; @[mātṛsvaseya], @[pitṛsvaseya], (4) added to @[agni] and @[kali] it has various senses; @[āgneya] 'son of Agni', 'relating to fire', 'having Agni for the presiding deity', &c.; it is affixed to—(5) @[nadi] and other words in the sense of 'produced from,' &c.; @[nadi] इदं @[nadyāṃ] भवं वा @[nadeya] 'riverborn'; 'rock-salt'; @[pārthiva] fr. @[pṛthivī] 'produced from the earth', @[vārāṇaseya] &c.; (6) @[vrīhi] and @[śāli] in the sense of 'a field of'; @[vrīhi], @[śāli] अत्र @[vārṇeyaṃ, śāleyaṃ];—(7) @[kula], @[kośi], @[grāma], and words included in
+
+* @[jyugra, para, brahmaputra, rodiṇī, rukmaparṇī, dhariṇī, dhimātu, kakṣa, dvīpa, viśa, śakuni, agni, bandhakī], &c.
+
+204 SANSKRIT GRAMMAR. [§ 340
+
+the @[karādi] group*, with different significations and with @[ka] added to it, @[kauleyaka] 'a dog', 'pertaining to a noble family'; @[kośeyaka] 'a sword', @[grāmeyaka] 'a neck ornament', @[kuśitāyāṃ] अयं @[bhavaḥ kuśiteyaḥ], @[grāmeyaka] 'village-born, rustic'; @[nāgareyaka], &c. (8) @[kośa] in the sense of 'made of'; @[kośeyaṃ] 'a silken garment';—(9) @[puruṣa] in different senses; @[pauruṣeya] 'man-slaughter', 'human work', 'derived from or incidental to man,' 'composed or propounded by man'; and (10) to @[pathin], @[atithi], @[vasati] and @[svapati] in the sense of 'useful in, good for'; @[pathi] साधु @[pathyādi pātheyaḥ] 'what is useful on the way' i.e. 'provisions for a journey': @[atithiṣu] साधु @[ātitheyaḥ] 'attentive to guests, hospitable'; @[vasato] साधु @[vāsateya] 'hospitable':—@[dyūtaṃ rājiḥ]; @[svapateḥ] ... गतं @[svāpateyaṃ] (धनं) 'wealth, property'; vide Kir. XIV. 8.
+
+@[ka] (कन्)—is affixed (1) to words expressive of countries in the sense of 'born or produced in'; @[mādraka] 'born or produced in the Madra country';—(2) to @[pīta] in the sense of 'dyed with'; @[pītaka] 'dyed yellow';—(3) in the sense of 'belonging to'; @[matka], @[tvatka], &c.—(4) 'bought for'; @[pañcaka] 'bought for five rupees';—(5) in the sense of 'acting'; @[śītaka] 'one who is cold' i.e. 'slow in action,' 'a dilatory or lazy man'; @[uṣṇaka] 'an active man';—(6, 7, 8.) to express pity or diminution, or depreciation—@[putraka] 'poor son', @[devadattaka] 'unhappy Devadatta'; @[vṛkṣo'lpaḥ rakṣakaḥ] 'a small or stunted tree'; @[aśvaka] 'a bad horse, a hack'; @[śūdraka] 'a wicked Śūdra,' (9) and sometimes with no signification; @[avikṣa] i.e. @[aviḥ] 'a ram'; @[maṇika] 'a jewel', @[bālaka] 'a young boy'; &c.
+
+@[kaṭa] (कटच्)—is affixed (1) to words denoting names of beasts, in the sense of 'a collection of'; @[avikaṭa] 'a flock of sheep';
+
+* @[kākī, puṣkara, gopāla, gola, kuṇḍina, jāmbu], &c.

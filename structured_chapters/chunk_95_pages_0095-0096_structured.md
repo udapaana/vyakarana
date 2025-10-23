@@ -1,0 +1,67 @@
+I'll proceed to fix the OCR errors in the provided text. Let me clean this up:
+
+---
+
+<!-- Page 95 -->
+
+§§ 133-184 ] PRONOUNS AND THEIR DECLENSION. 89
+
+@[bhavat] to be declined like @[bhavat]; @[bhavān] @[bhavantau] @[bhavantaḥ] N. @[bhavantaḥ] @[bhavantam] @[bhavantau] @[bhavataḥ] A. &c. अत्र @[bhavat], तत्र @[bhavat] (see Syntax 'Pronouns') are similarly declined.
+
+§ 184. (a) The optional shorter forms of the pronouns @[asmad] and @[yuṣmad] are never used at the beginning of a sentence or of a foot of a metre; nor can they be used immediately before the particles @[ca], @[vā], @[ha] or @[hā], @[api] and @[eva]; as मम गृहम् my house, and not मे गृहम्; वेदैरशेषैः संभाव्योस्मान् कृष्णः सर्वदाऽवतु ( Sid. Kau. ), 'may Kṛṣṇa, revered throughout or capable of being known properly from all the Vedas, always protect us'; and not नः कृष्णः &c.; तवैव कृत्यमेतत् 'this is surely your deed,' and not ते एव &c. But if these particles do not connect these forms they may be used with them; as हरो हरिश्च मे स्वामी ( Sid. Kau.) 'Hara and Hari are my lords', &c.
+
+Obs.—(b) The shorter forms may be used in a sentence having one verb; शालीनां ते ओदनं पचिष्यामि; but ओदनं पच तव भविष्यति as there are two verbs.
+
+(c) These shorter forms are not also used immediately after the Vocative case except when a qualifying adjective follows it; as देवोत्तमान् (and not नः) पाहि सर्वदा (Sid. Kau.) 'O God! do thou protect us always', but हे दयालो नः पाहि (Sid. Kau.) 'Oh merciful Hari, protect us.'
+
+*पदादौ । अनुदात्तं स्वमपादादौ । Pāṇ. VIII.1. 17. 18. The following couplets illustrate the use of these short forms:—@[svastyastu naḥ] मापीह ते वा मेऽपि शर्म सः । स्वामी ते मेऽपि स हरिः पतिर्वामपि नो हरिः ॥ @[eva] वां नो ददात्वीशः पतिर्वामपि नो हरिः । @[api] एवं नः शिवं वो नो दद्यात्सेव्योऽस्तु वः स नः ॥ Sid. Kaum. † न चवाहाड्येषु युक्ते । Pāṇ. VIII. 1. 24.
+
+‡ युक्तप्रयोगात्साक्षायोगेऽयं निषेधः । परम्परासम्बन्धे तु आदेशः भवति ॥ Sid. Kau.
+
+§ समानाधिकरणे निर्दिष्टयुष्मदस्मदादेशा न भवन्ति । Vart.
+
+¶ Pāṇ. VIII. 1. 72. 73.
+
+<!-- Page 96 -->
+
+90 GRAMMAR. [ § 134-135
+
+(d) The shorter forms may or may not be used when there is no @[anvādeśa] ( the subsequent mention of a thing already mentioned ); धाता ते मुक्तोऽस्ति, धाता तव मुक्तोऽस्ति, इति वा ; but must be used when there is @[anvādeśa], अतः ते नमः 'bow to thee ( already described ) only.'
+
+2—Demonstrative Pronouns.
+
+§ 135. The pronouns @[tad] 'that or he, she, it,' @[etad] 'this,' @[idam] 'this' and @[adas] 'that there'. The Nom. sing of the first two is respectively @[saḥ] and @[eṣaḥ] mas. and @[sā] and @[eṣā] fem. In other cases they become @[ta] and @[eta] and are declined like nouns in @[a] except in the Nom. pl., D. Ab. sings., G. pl. and L. sing. the terminations of which are @[e], @[smai], @[smāt], @[eṣām] and @[smin] mas. and @[āḥ], @[syai], @[syāḥ], @[āsām] and @[syām] fem. respectively. All pronouns ending in @[a] are similarly declined.
+
+@[tad] mas.
+
+N. @[saḥ] @[tau] @[te]
+
+A. @[tam] @[tau] @[tān]
+
+I. @[tena] @[tābhyām] @[taiḥ]
+
+D. @[tasmai] " @[tebhyaḥ]
+
+Ab. @[tasmāt] " "
+
+G. @[tasya] @[tayoḥ] @[teṣām]
+
+L. @[tasmin] " @[teṣu]
+
+Fem.
+
+N. @[sā] @[te] @[tāḥ]
+
+A. @[tām] " "
+
+I. @[tayā] @[tābhyām] @[tābhiḥ]
+
+D. @[tasyai] " @[tābhyaḥ]
+
+Ab. @[tasyāḥ] " "
+
+G. " @[tayoḥ] @[tāsām]
+
+L. @[tasyām] " @[tāsu]
+
+* एते वानावादेशे युष्मदस्मदादेशा वा वक्तव्याः । Vart.

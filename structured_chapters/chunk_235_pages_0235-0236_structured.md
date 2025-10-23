@@ -1,0 +1,96 @@
+# Chunk 235: Pages 235-236
+
+**Source:** Higher-Sanskrit-Grammar.pdf
+**Pages in chunk:** 2
+
+---
+
+<!-- Page 235 -->
+
+§ 372-373 ] INDECLINABLES. 229
+
+Acc. sing. neu. of nouns and adjectives; and sometimes the sing. of other cases also; @[satyam] 'truthfully', @[mṛdu] 'softly', @[sukham] 'happily', @[āśu] 'quickly', @[nirbharam], @[avaśyam], @[atyantam], @[dṛḍham] 'strongly,' @[bhūyaḥ], 'again' &c.; @[duḥkhena], 'painfully,' @[sukhenа], @[dharmeṇa] 'virtuously, justly,' @[dakṣiṇena], @[paścāt], @[aśokena], @[cireṇa] 'after a long time,' @[kṣaṇena] &c.; @[cirāya], @[cirarātrāya] 'for a long time,' @[arthāya] 'for the sake of,' @[balāt] 'forcibly,' @[harṣāt], @[śokāt], @[dūrāt], @[tasmāt], @[kasmāt] &c.; @[cirāt] 'for a long time,' @[samāt], @[uttarāt] &c.; @[sthāne] 'properly,' @[dūre], @[ante], @[prāte], @[agre], @[ekapade] 'at once,' @[sapadi], @[ṛte], @[prati], @[abhyāśe] 'near,' &c.
+
+N.B. Adverbs formed from pronouns and numerals are given in their proper places; while those formed from nouns are given in Chapter IX.
+
+§ 373. In the following list are alphabetically arranged almost all the words used adverbially in Sanskrit:—
+
+@[akasmāt] Suddenly, all at once.
+@[agrataḥ] In front of, before.
+@[agre] In front of, before, ahead, at first.
+@[agrenī]
+@[acirāt] Not long since, recently, quickly.
+@[acire]
+@[acirāya]
+@[ajasram] Ever, constantly.
+@[ajñānataḥ] Through ignorance.
+@[añjasā] Rightly, correctly, properly.
+@[antar] In, into.
+@[ataḥ] From this, on this account &c.
+
+@[atīva] Exceedingly, rising superior to, with the Acc. @[atīvānyān bhaviṣyāvaḥ] M. B.
+@[atra] Here.
+@[atha] Then, afterwards.
+@[atha vā] Yes.
+@[addhā] Truly, certainly, indeed.
+@[adya] To-day, this day.
+@[adyatve] Now, now-a-days.
+@[adhaḥ] Below, down.
+@[adhastaāt]
+@[adharam] Again, moreover.
+@[adhasparaḥ] On the following day.
+@[adhunā] Now, at this time.
+
+<!-- Page 236 -->
+
+230 SANSKRIT GRAMMAR. [ § 373
+
+@[aniśam] Incessantly, ceaselessly.
+@[antareṇa] Except, without.
+@[antarā] Inside.
+@[antarāle]
+@[anyac ca] Again, moreover, besides.
+@[anyat]
+@[anyatra] Elsewhere, in another place.
+@[anyathā] Otherwise, in a different manner.
+@[abhitaḥ] Near, close by, in the proximity of.
+@[abhīkṣṇam] Frequently, repeatedly.
+@[amu] Quickly, little.
+@[amā] Together with, in company with.
+@[amutra] There, in the next world, above.
+@[aram] Quickly.
+@[arvāk] Before.
+@[alam] Enough, sufficient for. It is a prefix also.
+@[abahiḥ] Without, on the outside.
+@[asakṛt] Repeatedly, often and often.
+@[asakṛdbahiḥ]
+@[asa] Improperly, unfitly.
+@[asāmprataṃ] Instantly, speedily.
+@[asāṅkāśam] Uninterruptedly, one after another.
+@[asakyām]
+
+@[ārāt] Near, in the vicinity of, at a distance.
+@[ārabdham] Forcibly [ Pan. I. I. 47 ].
+@[itaḥ] Hence.
+@[itastataḥ] Hither and thither, to and fro, here and there, &c.
+@[iti] In this manner, so.
+@[itaraḥ] Again.
+@[itaredyuḥ] On another day, the other day.
+@[itihā] Thus, indeed, quite in conformity to tradition.
+@[ittham] Thus, so, in this manner.
+@[idānīm] Just now, at this moment.
+@[idam] Truly.
+@[iha] Here.
+@[īṣat] Slightly, little.
+@[uccaiḥ] Loudly.
+@[uttarataḥ] Then.
+@[uttaratra]
+@[uttarasyām] On the day following.
+@[upāṃśu] Secretly, in private.
+@[ubhayataḥ] From both sides.
+@[ubhayatra] On both days.
+@[ubhayasmin]
+@[ubhayedyuḥ]
+@[uṣasi] Early in the morning, at dawn.
+@[ṛjuḥ] Truly, truthfully.
+@[ṛte]

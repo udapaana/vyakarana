@@ -1,0 +1,100 @@
+# Chunk 699: Pages 699-700
+
+**Source:** Higher-Sanskrit-Grammar.pdf
+**Pages in chunk:** 2
+
+<!-- RAW OCR - Needs cleanup and structuring -->
+
+---
+
+<!-- Page 699 -->
+
+§ 1-5] APPENDIX. }
+PROSODY. *
+
+§ 1. † Poetical composition in Sanskrit may be in the
+form of ‘ajay’ prose, or ‘qa’ verse or metrical composition.
+
+§ 2. Prosody treats of the laws of versification or metri-
+cal composition, Sanskrit verse is regulated by quantity, not
+by accent,
+
+§ 3. A qq or stanza consists of four lines each called a
+pada or quarter, A pada is regulated either by the number of
+syllables ( अक्षर ) or by the number of syllabic instants (मानश्च).
+
+(a) Asyllable is as much oraword as can be uttered
+distinctly by one effort of the voice $, «. a single vowel with
+or without one or more consonants .
+
+(5) A "3४74 ( मात्रा ) is the measare of time required to
+pronounce a short vowel,
+
+§ 4. + 85119715 is gy ‘light,’ or ae ‘heavy’ according as
+its vowel is short or long,
+
+(2) The vowels अ, इ, उ, % and w are short and the
+vowels आ, ह, ऊ, चह, ए, दे, ओ, and ओ are long. ¢ When ashort
+vowel is followed by an Anusw&ra or Visarg. or by a conjanct
+consonant, it is converted into what is called ‘a prosodially
+long vowel;’ as गन्ध, अच्छ, &c,
+
+§ 6. The last syllable of a pada is either heavy or light
+according as the exigence of the matre requires it, whatever be
+
+* The 69711638 writer on Prosody is Pingala&chirya. His word
+ia known as “The Pingalachbandas-sistra.” It is written in
+80४1858 and ia divided into eight books, The Agni Purdaoa also
+deala with the subject very fully. The present chapter, however,
+is chiefly based on the Vrittaratnakar and Chandomanjari.
+
+† काव्यं मरं च षदं च तदद्विधेव व्यवस्थितख । Dandin Kav. Pr. I.
+‡ साचस्वारश्च दीरधंश्च विसमा च छरुमवेत्‌ ।
+
+
+<!-- Page 700 -->
+
+2 SANSERIT GRAMMAB. [ § 5-7
+its natural length;* as in बक्षःस्यरी tag सा sated, &e.
+( Vik. 1. ); तस्याः @rearaqiawatgy ( Rag. 11. 2. )
+
+~ § 6. Inthe case of metres regulated by syllables each line
+is divided into groups of three syllables each, called Ganas or
+syllabic feet, named a3 @, 4, भ, य, FH, र, स, anda, The names
+and the Schemes of these are given iu the following stanza.
+मल्ञिखरुलिलपुश्च नकारो मादिखरूः पनरादिलयुरयः |
+जो शरुमध्वमतो रलमध्यः सोऽन्तखरूः कथितोन्तलघुरतः ॥
+$. 9. म 085 a)l ite syllables long; न has all its syllables short, म
+has its firet syllable long, य has its first syllable short; ज has
+1४8 middle syllable long ; ¢ has its middle syllable short, q has
+its lest syllable long and @ has its last syllable short. ¢
+
+The eymbol — stands for a short or light syllable; the sym-
+bol—denotee a Jong vowel or a heavy syllable. Symbollically
+represented these Ganas wil] stand as under:—
+
+म---- wee r
+I~ ww श्- हि मि
+भ- `~ `~ स `~ ~
+
++ य ~---- त - ~~~
+
+Bimilarly the letter gis used to denote a short syllable and
+शे & lobg one at the close of a live.
+
+§ 7. In the case of metres regulated by syllabic inatants
+each line is divided into groups of four ०02६745 called the Matr&
+Ganas; one श्चा or instant is allotted to a short vowel and two
+to a long one. The M4tr4 ganas are fivein number. These
+may be eymbollically represented thus:—
+
+म -- -, स `~ ~~ ~, ज ` -- ~~, भ - ~ ~, न ~~ ~ ~ ~
+
+* Vide ए rittaratnakara I. 9. ‘ `
+
+वर्णः संयोगपूर्वश्च तथा पादान्तगे।ऽपि वा ॥ Chhandomanjari,
+
+{ The following verse is easier to remember than one given
+above; आदिमध्यावसानेषु यरता यान्ति लाधिवम्‌ । भजसा ales यान्ति
+मनौ तु यरुलाघव्‌ ॥
+

@@ -1,114 +1,76 @@
-# Kale's Higher Sanskrit Grammar - Digital Edition Project
+# Kale's Sanskrit Grammar - Digital Edition
 
-**Source:** M. R. Kale, "A Higher Sanskrit Grammar" (Bombay, 1894)
-**Goal:** Create a machine-readable, AST-parseable digital edition
-**Status:** v7 Complete → Starting v8 (AST-ready semantic markup)
+OCR digitization and structured extraction of Kale's "A Higher Sanskrit Grammar" (1894).
 
-## Current Version
+## Contents
 
-**`output/kales_sanskrit_grammar_v7.md`** - Latest cleaned version (99% accurate)
-**Next:** v8 with semantic markup for AST generation (see `MARKUP_SPECIFICATION.md`)
-
-## Version History
-
-All intermediate versions are preserved in `versions_archive/` for potential reprocessing:
-
-- **v1**: `kales_sanskrit_grammar_v1_raw_ocr.md` - Raw OCR aggregation from PDF (19,145 lines)
-- **v2**: `kales_sanskrit_grammar_v2_standardized.md` - First standardization pass
-- **v3**: `kales_sanskrit_grammar_v3_standardized_improved.md` - Improved standardization (18,733 lines)
-- **v4**: `kales_sanskrit_grammar_v4_nlp_standardized.md` - NLP-based standardization
-- **v5**: `kales_sanskrit_grammar_v5_iast.md` - IAST standardization with Sanskrit term mapping
-- **v6**: `kales_sanskrit_grammar_v6_spacy_improved.md` - spaCy-based improvements with intelligent paragraph merging
-- **v7**: `kales_sanskrit_grammar_v7.md` - Latest polished version (18,080 lines)
-
-## Processing Pipeline
-
-### Initial OCR Pipeline
-
-1. `ocr_pages.py` - Extract pages from PDF via Tesseract OCR (eng+san)
-2. `create_chunks.py` - Create 2-page overlapping chunks for processing
-3. `cleanup_chunks.sh` - Semantic cleanup via Claude CLI
-4. `aggregate_cleaned_chunks.py` - Aggregate chunks into complete book
-
-### Standardization Scripts
-
-5. `standardize_format.py` - First cleanup attempt
-6. `standardize_format_v2.py` - Improved cleanup with better paragraph logic
-7. `nlp_standardizer.py` - spaCy proof of concept
-8. `nlp_standardizer_v2.py` - Production spaCy version
-9. `fast_iast_converter.py` - Fast IAST converter (0.4s runtime)
-10. `claude_spacy_improver.py` - Final intelligent processing with spaCy
-
-## Documentation
-
-- `STRUCTURE.md` - Book structure and organization
-- `QUALITY_REPORT.md` - Quality metrics and improvements applied to final version
-- `docs_archive/` - Older documentation from intermediate processing stages
+- **966 rules** from Kale's original text, individually extracted
+- Clean markdown format with YAML front matter
+- IAST transliteration and Devanagari in structured notation
+- Automated OCR cleanup pipeline using Claude AI
 
 ## Repository Structure
 
 ```
-ocr/
-├── source/                                # Source materials
-│   └── 2015.105411.Higher-Sanskrit-Grammar.pdf
-├── output/                                # Generated outputs
-│   └── kales_sanskrit_grammar_v7.md
-├── versions_archive/                      # All intermediate versions (v1-v6)
-├── scripts/
-│   ├── ocr/                              # PDF → Text extraction
-│   ├── processing/                       # Cleaning & standardization
-│   └── validation/                       # (Future) AST validation
-├── docs_archive/                          # Process documentation
-├── MARKUP_SPECIFICATION.md                # **READ THIS** - v8 format spec
-└── README.md                              # This file
+├── raw_pages/           # Original OCR text files (729 pages)
+├── output/              # Processed markdown (v7)
+├── rules/               # Extracted rules (001.md - 972.md)
+├── rules_cleaned/       # Claude-cleaned rules (in progress)
+├── scripts/             # Processing scripts
+│   ├── extract_simple.py
+│   ├── process_rules_batch.py
+│   └── processing/      # Section extraction scripts
+├── MARKDOWN_SPEC.md     # Formatting specification
+└── PROCESSING_READY.md  # Processing guide
 ```
 
-**Note:** Raw OCR data (`raw_pages/`, `chunks/`, `structured_chapters/`) retained but not shown. Can be regenerated from source PDF.
+## Extraction Status
 
-## Quality Metrics (v7)
+✅ **966/966 rules extracted** (6 rule numbers don't exist in original)
+🔄 **Claude cleanup in progress** - OCR correction and formatting
 
-- **Completeness**: 100% (all 728 pages processed)
-- **Structure**: 85% (proper heading hierarchy, formatted TOC)
-- **IAST Standardization**: 70% (major Sanskrit terms converted)
-- **Sanskrit Tagging**: 65% (common terms tagged with `@[...]`)
-- **Cleanliness**: 80% (OCR artifacts removed)
-- **Line Count**: 18,080 lines (optimized from 19,145 original)
+## Markdown Format
 
-## Next Steps: v7 → v8 Transformation
+Each rule file follows this structure:
 
-### v8 Goals (AST-Ready Semantic Markup)
+```markdown
+---
+rule: §N
+---
 
-- 🎯 **Machine-readable structure** for AST generation
-- 🎯 **Consistent Sanskrit markup** (`@[...]` inline, `@:...:@` blocks)
-- 🎯 **Standardized citations** (`@cite{Work:Reference}`)
-- 🎯 **Typed grammar rules** (`@rule{type: "sandhi.vowel.guna"}`)
-- 🎯 **Structured examples** (`@[a] + @[b] → @[c]`)
-- 🎯 **Metadata for tables** (`@declension{word: "rāma"}`)
+[Rule content with IAST in @[...] and Devanagari in @deva[...]]
+```
 
-### Read the Specification
+### Notation
+- **IAST**: `@[saṃskṛta]`, `@[pāṇini]`, `@[guṇa]`
+- **Devanagari**: `@deva[संस्कृत]`, `@deva[पाणिनि]`, `@deva[गुण]`
 
-See **[`MARKUP_SPECIFICATION.md`](MARKUP_SPECIFICATION.md)** for complete format details before starting section processing.
+## Processing
 
-### Processing Approach
+Process rules through Claude for cleanup:
 
-1. Extract sections from v7 by chapter/topic
-2. Apply semantic markup via Claude (section by section)
-3. Validate parseability
-4. Reassemble into v8
-5. Generate AST/JSON output
+```bash
+# Test batch
+python3 scripts/process_rules_batch.py 1 10
 
-## Usage
+# Process in batches
+python3 scripts/process_rules_batch.py 1 100
+python3 scripts/process_rules_batch.py 101 200
+```
 
-**Current v7** can be used for:
+See `PROCESSING_READY.md` for detailed instructions.
 
-- Digital reading and research
-- Text analysis and linguistic studies
-- Integration with Sanskrit learning tools
+## Non-existent Rules
 
-**Future v8** will enable:
+The following rule numbers are skipped in Kale's original:
+- §134, §433, §631-632, §635, §637
 
-- Programmatic querying of grammar rules
-- AST-based analysis and transformations
-- Database storage with relationships
-- Interactive web applications
-- Multiple output formats (JSON, GraphQL, SQL)
+Total actual rules: **966**
+
+## Source
+
+Kale, M.R. (1894). *A Higher Sanskrit Grammar*. Bombay Education Society's Press.
+
+## License
+
+This is a digitization of a public domain work.

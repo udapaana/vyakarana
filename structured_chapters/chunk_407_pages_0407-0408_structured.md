@@ -1,0 +1,29 @@
+§ 663. The causals of the roots @[कृ], @[युज्], @[जन्], @[इ] with @[अभि], @[धा], @[भू], and @[ध्रा] are @[णिज्]; @[बोधयति] @[पद्मम्], @[योजयति] @[काष्ठानि], @[नाशयति] @[पापम्], @[जनयति] @[सुखम्], @[अध्यापयति], @[धावयति] @[भाजयतीत्यर्थः] (Sid. Kau.); @[द्रावयति] @[विलापयतीत्यर्थः] (Sid. Kau.); @[स्यन्दयति] @[स्यन्दयतीत्यर्थः] (Sid. Kau.)
+
+§ 664. The following is an alphabetical list of the roots that change their proper Pada after certain prepositions under the circumstances given in each case.
+
+@[अस्]—when preceded by a preposition is conjugated in either Pada; @[बन्धं] @[निरस्यति]-@[ते].
+
+with @[प्रति]—in the causal takes the Parasm. @[प्रत्यासयति].
+
+@[अह्]—when preceded by a preposition is conjugated in either Pada; @[पापे] @[अपोहति]-@[ते] 'he destroys sin;' @[तदपोहति] 'discards,' @[आरोहति]-@[ते] 'he gathers together.'
+
+with @[सम्] is Atm. @[समारन्] @[ममामीषाः] Bh. VII. 16; 'all my desires have come to me i. e. are gratified.'
+
+@[ऋच्छ्] with @[सम्]—is Par. when used transitively, and Atm. when used intransitively; @[समूर्छति] 'he collects; @[समूर्छते] 'is collected.'
+
+@[कृ]—without a preposition admits of either Pada. It is Parasm. with @[अनु] and @[आ]*; @[अनुकरोति] @[ममतो] @[नारायणस्य] (Kd), @[आं] @[चकुरुर्लज्जितम्] &c. (Bhatti. VIII. 50.); it is Atm. with a preposition in following senses:—(1) @[हिंसन] † or 'hurting,' 'killing,' as @[उत्कुरुते] 'informs against (with a view to injure);' (2) @[अवलेपन] or 'censuring, overcoming;' @[उद्राकुरुते] @[येनो] @[वर्तिकाम्] 'the hawk reproves the snail;' (3) @[सेवन] or 'serving, attending
+
+* @[अनुपराभ्यां] @[कृञः] । Pan. I. 3. 79.
+† @[हिंसनावलेपनसेवनसाहसिक्यप्रतियत्नप्रकथनोपयोगेषु] @[चः] Pan. I. 3. 32.
+H. S. G. 26
+
+upon,' as @[हरिं] @[उपकुरुते] 'he serves Hari;' (4) @[साहसिक्यम्] or 'acting violently,' 'outraging,' as @[परदारान्] @[प्रकुरुते] 'outrages another's wife;' (5) @[प्रतियत्न] or 'imparting an additional quality' (@[सतो] @[गुणान्तराधानम्] Kashika), as @[एधः] @[उदकस्य] @[उपकुरुते] 'fuel imparts heat to water;' (6) @[प्रकथन] or 'reciting,' as @[गाथाः] @[प्रकुरुते] 'recites stories from the Vedas;' (7) @[उपयोग] or 'applying to use,' as @[शतम्] @[उपकुरुते] (@[धर्मे] @[शतं] @[विनियुङ्क्ते] @[इत्यर्थः]) 'devotes a hundred (Rupees, &c.) to holy purposes,' cf. also Bhatti. VIII. 18.—with @[क्षम्] it is Atm. in the sense of 'forgiving or overpowering;' @[शत्रुम्] @[अधिकुरुते] 'forgives or overpowers his enemy,' @[नान्] @[मनुष्यानधिकुरोति] @[यज्ञः] 'the sacrifice authorises men.' With @[वि] it is Atm. when used transitively, @[छात्राः] @[विकुर्वते] 'pupils study,' @[स्वरान्] @[विकुरुते] @[भावकः] 'the musician varies the tones;' but @[चित्तं] @[विकरोति] @[कामः] 'Love affects the mind,' @[विचक्रुः] @[अन्यस्य] Bh. VIII. 21. & with @[उप] in the sense of 'helping or doing good to' is used in both the Padas; @[न] @[हि] @[प्रदीपो] @[परस्परस्य] @[उपकरोति] (So Cr. Us.) 'two strong lights do not indeed help (i. e. serve to intensify) each other;' @[सा] @[चोपकुरुते] @[यया] @[परेषाम्] 'that is wealth by means of which one obliges another' (Kir. VII. 28.).
+
+The Causal of @[कृ] is Atm. when @[वि] is prefixed to it; @[पदं] @[विकारयते] 'mispronounces the accent on the syllable.'
+
+@[कॄ]—'to scatter' with @[अप] is Atm. in the sense of 'turning up or scratching with joy,' or turning up with the intention of making an abode or for maintenance (by quadrupeds or birds);' in this sense @[शम्] is prefixed to @[कॄ]; @[अपस्किरते] @[वृषो] @[हर्षात्] 'the bull turns up the ground in joy;' similarly @[अपस्किरते] @[कुक्कुटो] @[ग्रासे]; @[भूमिं] @[अपस्किरते] (digs a hole for lying in) @[वा] @[आश्रयार्थं] or @[छायापस्किरमाणः] @[इति] &c. (Up. II. 9).
+
+* @[अचेः] @[प्रहसने] Pan. I. 3. 33.
+† @[शयो] @[गतौ] । @[अकर्मकाच्] । Pan. I. 3. 34-35.
+‡ @[अपश्चतुष्पाच्छकुनिष्वालेखने] Pan. VI. 3. 142. @[अलेखने] @[इति] @[शब्दः] @[स्यात्] । @[हर्षादिभिश्चैव] @[अलेखने] @[स्मृतः] । Sid. Kau.

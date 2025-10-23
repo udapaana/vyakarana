@@ -1,0 +1,77 @@
+§ 660-661 ] PARASMAIPADA & ĀTMANEPADA. 399
+
+@[lekhā]--@[lelāyati] he shines, @[rekhā]--@[rekhāyati] he approaches.
+@[uṣat]--@[uṣasyati] it dawns. @[mahī]--@[mahīyate] he is adored, &c.
+@[medhā]--@[medhāyati] he is quick in @[tiras]--@[tirasyati] he disappears.
+understanding. @[anagha]--@[anaghayati] he becomes healthy.
+@[sukha]--@[sukhyati] feels happy. @[uras]--@[urasyati] becomes powerful.
+@[duḥkha]--@[duḥkhyati] feels unhappy. @[payas]--@[payasyati] it spreads.
+
+CHAPTER XIII.
+
+Parasmaipada and Ātmanepada.
+
+§ 661.--As already remarked there are two Padas in Sans-
+krit, the Parasmaipada and the Ātmanepada. The Parasm.
+denotes that the fruit of the action accrues to some one different
+from the agent, as @[pacati] 'he cooks for another,' @[kārayati] 'makes
+some one do something for another, &c.' The Atm. denotes
+that the fruit of the action is @[ātmane] i. e. it accrues to the agent,
+@[pacate] 'he cooks for himself,' @[kārayate] 'he makes another do some-
+thing for himself,' &c.
+
+(a) If, however, there be a word showing the accrual of the
+fruit of the action to the agent, the Atm. is optionally used, as
+@[svaṃ yajñaṃ yajate] or @[yajati] 'he offers his own sacrifice,' @[svaṃ kaṭaṃ kurute] or
+@[karoti] 'he weaves his own mat,' @[svaṃ yajñaṃ kārayati-te] &c.
+
+(b) When the causal form of a transitive verb is used re-
+flexively, or when the object in the primitive sense becomes
+
+* This distinction, however, seems to be very little observed
+in practice. Even the best Sanskrit writers are found using
+both the Padas promiscuously. It cannot even be supposed
+that this distinction is meant to be observed where a root
+admits of both the Padas. The Daśakumāracarita and the
+Kādambarī afford several instances in which the two Padas are
+used exactly in the same sense.
+
+400 SANSKRIT GRAMMAR. [ § 661-662
+
+the agent in the causal, the Atm. is used except in the sense of
+'remembering with eagerness, &c.' @[bhaktāḥ śivaṃ paśyanti] 'devotees see
+Bhava;' @[śivaḥ bhaktān paśyate] 'Bhava shows himself to his devotees,'
+e.g. @[kānte pratyaṅmukhaṃ kokilāḥ smarayanti vanamukham] (BilSs); @[tasyāṃ priyāṃ
+praveśayate śivapitṛbhyaḥ] (Sid. Kau.). Vide Sid Kau. on Pāṇ. I. 3, 67.
+
+(c) When the agent of the action denoted by a verb cannot
+be other than an animal, the causal of the verb takes the Par.
+even when the action refers to the agent as @[kṛṣṇaḥ śete] 'Krishna
+sleeps,' @[gopī kṛṣṇaṃ śāyayati] 'the cowherdess lulls Krishna to sleep,'
+but @[phalaṃ patati] 'the fruit falls down,' @[vāyuḥ phalaṃ pātayati] 'the wind
+causes the fruit to fall down,' &c.
+
+(d) In the case of verbs meaning 'to eat,' except @[aś], and
+'to move,' their causals take the Parasm. even when the fruit of
+the action refers to the agent; @[bhakṣayati], @[āśayati] 'makes another
+eat,' @[khañjayati], @[kampayati], 'he shakes' &c.
+
+Exceptions to (c) and (d)—to (c) @[śam] 'to pacify,' @[vā] with
+@[ā] 'to draw in,' @[yat] with @[ā] 'to endeavour,' @[parihṛ] 'to faint,'
+@[bhṛś] 'to shine,' @[lap] 'to speak,' @[vas] 'to dwell,' and @[pā] 'to
+drink;' to (d)—@[nṛt] 'to drink,' @[nṛt] 'to dance;' in the case
+of these roots the usual rule holds good; @[śamayati], @[śamayate];
+@[kampayati-te] &c.
+
+§ 662. When the sense of @[akartavyatikāra] i. e. doing what is not
+proper for one to do, or the exchange of duties is to be implied,
+the Atm. is used, @[brāhmaṇaḥ sasyāni vartrāyuṇīte] 'the Brāhmaṇa reaps
+corn' (which is the work of a Śūdra and not his); @[dharmaḥ vyatiṣṭate]
+'the religious duty is changed' (as when a Śūdra discharges
+the duties enjoined upon a Vaiśya, &c.); @[vyatihrante rājānaḥ] 'the kings
+exchange blows.'
+
+(a) But verbs implying motion, or meaning to kill, the
+roots @[has] and other similar roots do not take the Atm. even
+when an exchange of action is implied, @[vyatiricchanti], @[vyatiśranti];
+@[vyatihasanti], @[vyatijighnaṇti].

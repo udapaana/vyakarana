@@ -2,9 +2,9 @@
 
 The present Grammar has been prepared with a view to meet the growing wants of the Indian University students. The University examiners have been, of late, evincing a desire to exact a more thorough knowledge of the obscurer and therefore more difficult parts of Sanskrit Grammar, than was required formerly. In fact, a student of the present day, with Sanskrit for his second language, must, if he wishes to pass his University Examinations with credit, acquire more than a general knowledge of the various departments of Sanskrit Grammar, while none of the grammars now accessible to the Indian student, with the exception of one or two, supply him with the necessary information on the various topics discussed in the original Sanskrit works. Dr. Bhandarkar's books, though ingeniously sketched and admirably executed, are admittedly meant to introduce a student to the vast field of Sanskrit Grammar. Dr. Kielhorn's Grammar aims more at brevity and perspicuity than at fullness of treatment with conciseness. Prof. Whitney's grammar is too elaborate, and therefore too high for the ordinary student. Prof. Monier Williams' grammar and others, though excellent in themselves, are expressly written for European students and are more suited to them than to the Indian students. I have, therefore, done my best to bring the present Grammar upto the requirements of the high standard.
 
-Now, a few words on the scope and arrangement of the work and I will conclude. As remarked by Dr. (Now Sir) Bhandarkar* "Grammar was not an empiric study with @[Pāṇini] and the other ancient grammarians of India." In fact in the hands of the ancient Grammarians of India, Sanskrit Grammar rose to the dignity of a science and must
+Now, a few words on the scope and arrangement of the work and I will conclude. As remarked by Dr. (Now Sir) Bhandarkar\* "Grammar was not an empiric study with @[Pāṇini] and the other ancient grammarians of India." In fact in the hands of the ancient Grammarians of India, Sanskrit Grammar rose to the dignity of a science and must
 
-*Introduction to the 3rd Ed. of the 2nd Book of Sanskrit.
+\*Introduction to the 3rd Ed. of the 2nd Book of Sanskrit.
 
 ---
 
@@ -27,9 +27,7 @@ Lastly I beg to say that I shall be very grateful for any corrections and sugges
 Bombay,
 30th April 1894. M. R. KALE.
 
-
 ## Table of Contents
-
 
 # Chapter. Page.
 
@@ -138,34 +136,41 @@ The two futures and conditional
 5th " – 352
 
 # Chapter Page
- (e) benedictive 356
+
+(e) benedictive 356
 Section II 359
- (a) Passives 359
- (b) Non-conjugational tenses and moods 364 1 perfect 364 2 aorist 365 2 Derivative Verbs (Section III) 367 (a) causals 368 (b) desideratives 376 (c) frequentatives 384 (d) Nominal Verbs 392
+(a) Passives 359
+(b) Non-conjugational tenses and moods 364 1 perfect 364 2 aorist 365 2 Derivative Verbs (Section III) 367 (a) causals 368 (b) desideratives 376 (c) frequentatives 384 (d) Nominal Verbs 392
+
 ### III. @[parasmaipada] and @[Ātmanepada] 399
+
 ### IV. Verbal Derivatives or Primary Nominal
- Bases 416
+
+Bases 416
+
 ### V. Syntax:— 468
- 1 Concord 470
- 2 Government 475
- 3 Pronouns 508
- 4 Participles 510
- 5 Tenses and moods 518
- 6 Indeclinables 532
+
+1 Concord 470
+2 Government 475
+3 Pronouns 508
+4 Participles 510
+5 Tenses and moods 518
+6 Indeclinables 532
 APPENDIX I:—Prosody 1
- 1 @[Samavṛttas] 3
- 2 @[Viṣama Vṛttas] 24
+1 @[Samavṛttas] 3
+2 @[Viṣama Vṛttas] 24
 APPENDIX II:— 24
- @[Dhātukoṣa] 15-61
+@[Dhātukoṣa] 15-61
 
 ## Abbreviations Used In The Work.
+
 ### Of The Names Of The Works And Grammatical, &C.
 
 Amara.—@[Amarakoṣa]. Sis.—@[Śiśupālavadha].
 Bhatt. or Bhaṭṭi—@[Bhaṭṭi- Uttar.—@[Uttararāmacarita].
- kāvya]. Vop. or Bop.—@[Vopadeva].
+kāvya]. Vop. or Bop.—@[Vopadeva].
 Bh.—@[Bhartṛhari]. Ni. Sa.— A. or Atm.—@[Ātmanepada].
- @[Nītiśataka]. Vai. Sa.— Abl.—Ablative.
+@[Nītiśataka]. Vai. Sa.— Abl.—Ablative.
 @:
 Vairāgyaśataka. Acc.—Accusative.
 Dev.—Devībhāgavata Purāṇa. Adj.—Adjective.
@@ -178,7 +183,7 @@ Kir.—Kirātārjunīya. Comp.—Compound.
 Mal.—Mālavikāgnimitra. Dat.—Dative.
 :@
 Mb. or Mah. Bhas.—@[Mahā- Den.—Denominative.
- bhāṣya] of @[Patañjali]. Des.—desiderative.
+bhāṣya] of @[Patañjali]. Des.—desiderative.
 Mah. Bhar.—@[Mahābhārata]. Freq.—frequentative.
 @:
 Meg.—Meghadūta. Indecl.—Indeclinable.
@@ -188,32 +193,33 @@ dāsa]. Nom.—Nominative.
 :@
 Ram. ch.—@[Rāmacarita]. P. or Par.—@[parasmaipada].
 Sak.—@[Abhijñānaśākuntala] Pass.—passive.
- of @[Kālidāsa]. Pot. P.—Potential participle.
+of @[Kālidāsa]. Pot. P.—Potential participle.
 Sid. Kau.—@[Siddhāntakau- P. P.—Past passive participle.
- mudī], @[Bhaṭṭoji Dīk- Pres. p.—Present participle.
- @[ṣita]]'s Commentary on Pron.—Pronouns.
- @[Pāṇini]'s @[sūtras].
+mudī], @[Bhaṭṭoji Dīk- Pres. p.—Present participle.
+@[ṣita]]'s Commentary on Pron.—Pronouns.
+@[Pāṇini]'s @[sūtras].
 
 # Chapter I.
+
 ## THE ALPHABET.
 
-#### § 1. Sanskrit, or the refined language, is the language of @[Deva]s or gods* and the alphabet in which it is written is called @[Devanāgarī], or that employed in the cities of gods.
+#### § 1. Sanskrit, or the refined language, is the language of @[Deva]s or gods\* and the alphabet in which it is written is called @[Devanāgarī], or that employed in the cities of gods.
 
 (a) The correct name for the @[Saṃskṛt] alphabet is @[Daiva-Nāgarī] sometimes abbreviated into @[Nāgarī]. Perhaps in the word @[Devanāgarī] we have a history of the times when the Aryans entered and settled in Northem India. The Aryans who were much fairer in colour than the aborigines of India are the @[Deva]s referred to in the name @[Devanāgarī] (from @[div] to shine, those of a brilliant complexion); and @[Nāgarī] means the Aryan settlements within the precincts of which the sacred language was spoken.
 
 The Sanskrit language is generally written in different parts of the country, in that alphabet which is used for the vernacular (e.g., Bengali, Marathi &c.). That character, however, in which the earliest monuments are written (such as the inscriptions containing the edicts of Asoka) and which is employed throughout Upper India is generally considered to be the real @[Devanāgarī].
 
-* @[saṃskṛtaṃ nāma daivī vāg anvākhyātā mahārṣibhiḥ] | Dandin.
+- @[saṃskṛtaṃ nāma daivī vāg anvākhyātā mahārṣibhiḥ] | Dandin.
 
 ---
 
-#### § 2. The @[Devanāgarī] alphabet consists of forty-eight letters or @[varṇa]s, nine vowels or @[svara]s, and thirty-three consonants or @[vyañjana]s.*
+#### § 2. The @[Devanāgarī] alphabet consists of forty-eight letters or @[varṇa]s, nine vowels or @[svara]s, and thirty-three consonants or @[vyañjana]s.\*
 
 (a) These express nearly every gradation of sound, and every letter stands for a particular and invariable sound.
 
 Note:—This explains why there are no names, as in Greek, for the different letters of the alphabet.
 
-* Thus given by @[Pāṇini]:—
+- Thus given by @[Pāṇini]:—
 
 Vowels:—@[a i u ṇ] | @[ṛ ḷ k] | @[e o ṅ] | @[ai au c] |
 
@@ -237,7 +243,7 @@ N. B.—As the @[Pluta] or protracted vowels are not commonly to be met with in 
 
 (c) Each of these vowels may be again of two kinds, @[अनुनासिक] or nasalised, and @[अननुनासिक] or without a nasal sound.†
 
-(d) Vowels are also further discriminated into @[उदात्त] or acute, @[अनुदात्त] or grave, and @[स्वरित] or circumflex. @[उदात्त] is that which proceeds from the upper part of the vocal organs, @[अनुदात्त] that which proceeds from their lower part, while @[स्वरित] arises out of a mixture of these two.* But these are ignored in classical Sanskrit. They are marked only in Vedic works: the Udātta is left unmarked; the Anudātta is marked with a horizontal line underneath; and Svarita has a perpendicular stroke above it. e. g. @[क्व नु वोऽश्वाः] &c. Ṛg. X. 61. 2 @[वय॑शः] &c. Ṛg. I. 78. 4. @[शतचक्रं यो॑ऽश्विनः] &c. Ṛg. X. 161. 4.
+(d) Vowels are also further discriminated into @[उदात्त] or acute, @[अनुदात्त] or grave, and @[स्वरित] or circumflex. @[उदात्त] is that which proceeds from the upper part of the vocal organs, @[अनुदात्त] that which proceeds from their lower part, while @[स्वरित] arises out of a mixture of these two.\* But these are ignored in classical Sanskrit. They are marked only in Vedic works: the Udātta is left unmarked; the Anudātta is marked with a horizontal line underneath; and Svarita has a perpendicular stroke above it. e. g. @[क्व नु वोऽश्वाः] &c. Ṛg. X. 61. 2 @[वय॑शः] &c. Ṛg. I. 78. 4. @[शतचक्रं यो॑ऽश्विनः] &c. Ṛg. X. 161. 4.
 
 Thus there are eighteen different modifications of each of the vowels @[अ], @[इ], @[उ], @[ऋ], and twelve of @[ए], @[ऐ], @[ओ] and @[औ]; for there is no long @[लृ] and the last four have not their corresponding short vowels.
 
@@ -257,7 +263,7 @@ These are represented by thirty-three syllabic signs arranged as below:—
 
 ---
 
-* @[उच्चैरुदात्तः] । @[नीचैरनुदात्तः] । @[समाहारः स्वरितः] । Pāṇ. 1. 2. 29, 31.
+- @[उच्चैरुदात्तः] । @[नीचैरनुदात्तः] । @[समाहारः स्वरितः] । Pāṇ. 1. 2. 29, 31.
 
 † @[यञ्ञनासिकावचनोऽनुनासिकः] Pāṇ. 1. 1. 8.
 
@@ -265,7 +271,7 @@ These are represented by thirty-three syllabic signs arranged as below:—
 
 @[उच्चारणार्थं स्वरा मात्राश्च] । Pāṇ. 1. 2. 27. The crowing of the cock in the morning represents in its three stages these three kinds of vowels. The time required to pronounce a short vowel is called a mātrā. A long vowel has two mātrās and a @[Pluta] vowel three.
 
-that which proceeds from the upper part of the vocal organs, @[अनुदात्त] that which proceeds from their lower part, while @[स्वरित] arises out of a mixture of these two.* But these are ignored in classical Sanskrit. They are marked only in Vedic works: the Udātta is left unmarked; the Anudātta is marked with a horizontal line underneath; and Svarita has a perpendicular stroke above it. e. g. @[क्व नु वोऽश्वाः] &c. Ṛg. X. 61. 2 @[वय॑शः] &c. Ṛg. I. 78. 4. @[शतचक्रं यो॑ऽश्विनः] &c. Ṛg. X. 161. 4.
+that which proceeds from the upper part of the vocal organs, @[अनुदात्त] that which proceeds from their lower part, while @[स्वरित] arises out of a mixture of these two.\* But these are ignored in classical Sanskrit. They are marked only in Vedic works: the Udātta is left unmarked; the Anudātta is marked with a horizontal line underneath; and Svarita has a perpendicular stroke above it. e. g. @[क्व नु वोऽश्वाः] &c. Ṛg. X. 61. 2 @[वय॑शः] &c. Ṛg. I. 78. 4. @[शतचक्रं यो॑ऽश्विनः] &c. Ṛg. X. 161. 4.
 
 Thus there are eighteen different modifications of each of the vowels @[अ], @[इ], @[उ], @[ऋ], and twelve of @[ए], @[ऐ], @[ओ] and @[औ]; for there is no long @[लृ] and the last four have not their corresponding short vowels.
 
@@ -285,7 +291,7 @@ These are represented by thirty-three syllabic signs arranged as below:—
 
 ---
 
-* @[उच्चैरुदात्तः] । @[नीचैरनुदात्तः] । @[समाहारः स्वरितः] । Pāṇ. 1. 2. 29, 31.
+- @[उच्चैरुदात्तः] । @[नीचैरनुदात्तः] । @[समाहारः स्वरितः] । Pāṇ. 1. 2. 29, 31.
 
 These are also called the five classes designated as @[Kavarga], @[Cavarga], @[Ṭavarga], @[Tavarga], and @[Pavarga] respectively.
 
@@ -475,17 +481,17 @@ And also in the case of an onomatopoetic word ending in @[t] followed by @[iti] 
 
 of bad character; @[sīman] + @[antaḥ] = @[sīmāntaḥ] (the white line left by the parting of the hair on each side of the head); but @[sīmāntaḥ] when the meaning of the word is 'the last line or limit of a boundary.' @[manas] + @[īṣā] = @[manīṣā] wish; so @[halīṣā] or @[halīṣā] the pole of a plough; @[halīṣā]; @[patan] + @[jaliḥ] = @[patañjaliḥ] etc. of the celebrated author of the @[Mahābhāṣya] (a vast commentary on the @[sūtras] of @[Pāṇini]); lit. fit to be adored with joined hands; or according to tradition 'who fell down from the hands of a certain sage as he was offering water to the sun at the time of @[sandhyā] adoration.' @[sāra] + @[aṅgaḥ] = @[sāraṅgaḥ] an antelope with a spotted skin or a kind of bird; but @[sarāṅgaḥ] one with a beautiful skin. This is an @[Āditigaṇa] i.e. words of similar formation and requiring grammatical explanation but not actually found in the @[gaṇa] may be classed under it; e.g. @[māta] + @[aṇḍaḥ] = @[mārtāṇḍaḥ] (derived from @[māraṇḍa]) lit. bom of a dead egg, the sun.
 
-@[§ 22.] When @[i], @[u], @[ṛ] and @[ḷ], short or long, are followed by a dissimilar vowel, @[y], @[v], @[r] and @[l] are respectively substituted for them*; e.g. @[iti] + @[āha] = @[ityāha]; @[dhī] + @[upāsyaḥ] = @[dhyupāsyaḥ] adored by the wise, @[madhu] + @[ariḥ] = @[madhvariḥ] the enemy of @[madhu], i.e. @[Viṣṇu], @[dhātṛ] + @[aṃśaḥ] = @[dhātrāṃśaḥ] a portion of the creator; @[lū] + @[ākṛtiḥ] = @[lvākṛtiḥ] a figure like that of @[lū] etc.
+@[§ 22.] When @[i], @[u], @[ṛ] and @[ḷ], short or long, are followed by a dissimilar vowel, @[y], @[v], @[r] and @[l] are respectively substituted for them\*; e.g. @[iti] + @[āha] = @[ityāha]; @[dhī] + @[upāsyaḥ] = @[dhyupāsyaḥ] adored by the wise, @[madhu] + @[ariḥ] = @[madhvariḥ] the enemy of @[madhu], i.e. @[Viṣṇu], @[dhātṛ] + @[aṃśaḥ] = @[dhātrāṃśaḥ] a portion of the creator; @[lū] + @[ākṛtiḥ] = @[lvākṛtiḥ] a figure like that of @[lū] etc.
 
 N.B.—Several of the above words may have more than one form when combined; e.g. @[dhī] + @[upāsyaḥ] = @[dhī] + @[upāsyaḥ] by the general rule:—
 
 N.B. The following rules and the two (a), (b) given under @[§ 20], though they properly form the subject of the next section, are given here to avoid confusion. Ordinary students may pass over these except sec. (d) of the present art.
 
-* @[iko yaṇ] @[Pāṇ]. VI. 1. 77. | † @[Ib]. VI. 1. 2
+- @[iko yaṇ] @[Pāṇ]. VI. 1. 77. | † @[Ib]. VI. 1. 2
 
 ---
 
-(a) A consonant except @[y], preceded by a vowel, is optionally doubled, if no vowel follows*; @[dhī] + @[upāsyaḥ] = @[dhiyyupāsyaḥ] and @[dhyupāsyaḥ].
+(a) A consonant except @[y], preceded by a vowel, is optionally doubled, if no vowel follows\*; @[dhī] + @[upāsyaḥ] = @[dhiyyupāsyaḥ] and @[dhyupāsyaḥ].
 
 (b) When a consonant, except a nasal or a semivowel, is followed by a soft unaspirate or aspirate (3rd or 4th letter of a class) it is changed to the soft unaspirate (3rd letter) of its class†; @[dhī] + @[upāsyaḥ] = @[dhiyupāsyaḥ].
 
@@ -495,15 +501,15 @@ Similarly @[madhu] + @[ariḥ] = @[madhvvariḥ], @[madhvariḥ], @[madhuvariḥ
 
 (d) A consonant except @[y], coming after @[r] or @[ṛ] preceded by a vowel is optionally doubled‡; e.g. @[hari] + @[anubhavaḥ] = @[hari] + @[anubhavaḥ] = @[haryanubhavaḥ] by the general rule, and optionally @[hariy] + @[anubhavaḥ] = @[hariyyanubhavaḥ] (@[Hari's] experience) by this rule; so @[na hi] + @[asti] = @[na hyasti] and @[na hyyasti].
 
-@[§ 23.] (a) @[i], @[u], @[ṛ] or @[ḷ], short or long, at the end of a word followed by a dissimilar vowel except in a compound, are optionally combined, and when so they are shortened if long**; e.g. @[cakri] + @[iha] = @[cakriha], @[Viṣṇu] here, and @[cakri iha]; but @[vāpī] + @[aśvaḥ] = @[vāpyaśvaḥ] a horse in a well, @[gaurī] + @[iti] (a term.) = @[gauryiti].
+@[§ 23.] (a) @[i], @[u], @[ṛ] or @[ḷ], short or long, at the end of a word followed by a dissimilar vowel except in a compound, are optionally combined, and when so they are shortened if long\*\*; e.g. @[cakri] + @[iha] = @[cakriha], @[Viṣṇu] here, and @[cakri iha]; but @[vāpī] + @[aśvaḥ] = @[vāpyaśvaḥ] a horse in a well, @[gaurī] + @[iti] (a term.) = @[gauryiti].
 
-* @[halyaghośḥ ca] @[Pāṇ]. VIII. 4. 47.
+- @[halyaghośḥ ca] @[Pāṇ]. VIII. 4. 47.
 
 † @[śānte vā]। @[Pāṇ]. VIII. 4. 53. § @[yo 'ci ca] @[dvitīyāyāḥ] @[Vārt].
 
 ‡ @[aco rahābhyāṃ] @[dve]। @[Pāṇ]. VIII. 4. 46.
 
-** @[iko 'savarṇe śākalyasya hrasvāś ca]। @[Pāṇ]. I. 4. 5, 6.
+\*\* @[iko 'savarṇe śākalyasya hrasvāś ca]। @[Pāṇ]. I. 4. 5, 6.
 
 (@) @[a], @[ā], @[i] and @[ū], short or long, at the end of a word followed by a short @[a], are also optionally not combined, and when not combined are shortened if long; e. g. @[brahma] + @[ṛṣi] = @[brahmarṣi] A brāhmaṇa saint, and @[sapta] + @[ṛṣi] = @[saptarṣi] the seven sages, and @[saptarṣīṇām] (a comp. expression).
 
@@ -519,7 +525,7 @@ N. B. This rule holds good, in the case of roots, only when the @[e] or @[o] is 
 
 (c) The @[o] of the word @[go] is also changed to @[av] when followed
 
-* @[ekāco dve pratīye] Pan. VII. 1. 127.
+- @[ekāco dve pratīye] Pan. VII. 1. 127.
 
 † @[eco'yavāyāvaḥ] Pan. VI. 1. 78. § @[lopaḥ śāklyasya] Pan. VI. 1. 19. ¶ @[vānto yi pratyaye] | @[dhātoś ca] Pan. VI. 1. 79. 80. |
 
@@ -537,7 +543,7 @@ by the word @[yuti] (in the veda and) in ordinary language when it means a parti
 
 (a) When a dual form (whether of a noun, pronoun or verb) ends in @[ī], @[ū], or @[e]; e. g. @[harī etau]; @[viṣṇū imau]; @[te ete]; @[te imau].
 
-* @[go strī yutir dvayoḥ upasaṃkhyānam] | @[adhvapramāṇe ca] | Vārttikas.
+- @[go strī yutir dvayoḥ upasaṃkhyānam] | @[adhvapramāṇe ca] | Vārttikas.
 
 † @[cayya jayyau śakyārthe] | Pan. VII. 1. 81.
 
@@ -577,9 +583,9 @@ But if the sentence end in the word भोः or in the name of a Kṣatriya or 
 
 Exception:—(I) Dentals coming after र् are not changed into the corresponding palatals, e. g. विरिञ्चिः that which spreads lustre; पूर्त्यः.
 
-* अदसो मा । @[Pāṇ]. I. 1. 12.
-† निपातैकाजनाद् । ओत् । संबुद्धौ शाकल्यस्येनावनर्षि । &c. @[Pāṇ]. I. 1. 14-16.
-‡ वाक्यस्य टेः प्लुत उद् । अः । प्रत्यभिवादे ऽन्ते । @[Pāṇ]. VIII. 2. 82-83; क्षत्रान्नमस्ययनोन्तस्य च । @[Śūdrान्] न । अब्राजन्यविशां वेति वाच्यम् । @[Vārttikas] on the latter @[sūtra]. दूरात्संभवे च । हैहेप्रयोगे हैहयोः । Pāṇ. VIII. 2. 84-85.
+- अदसो मा । @[Pāṇ]. I. 1. 12.
+  † निपातैकाजनाद् । ओत् । संबुद्धौ शाकल्यस्येनावनर्षि । &c. @[Pāṇ]. I. 1. 14-16.
+  ‡ वाक्यस्य टेः प्लुत उद् । अः । प्रत्यभिवादे ऽन्ते । @[Pāṇ]. VIII. 2. 82-83; क्षत्रान्नमस्ययनोन्तस्य च । @[Śūdrान्] न । अब्राजन्यविशां वेति वाच्यम् । @[Vārttikas] on the latter @[sūtra]. दूरात्संभवे च । हैहेप्रयोगे हैहयोः । Pāṇ. VIII. 2. 84-85.
 
 § आयुष्मान् वा अः । &c. VIII. 3. 38.
 || स्तोः श्चुना श्चुः । चोः कुः । Pāṇ. VIII. 4. 40, 44, 63.
@@ -596,13 +602,13 @@ N. B. If the nasal belong to a termination the change is necessary; @[tanmāyam]
 
 #### § 31. A letter of the dental class, followed by @[l] is changed
 
-* @[na padāntaṭora nām]. Pān. VIII. 4. 42. @[anāmyāvā vyavāyasya] @[vācyaḥ] + Vart.
+- @[na padāntaṭora nām]. Pān. VIII. 4. 42. @[anāmyāvā vyavāyasya] @[vācyaḥ] + Vart.
 
 † @[lasyaṇaḥ]. Pān. VIII. 4. 43.
 
 ‡ @[movasargāt saṃyogādervā]. Pān. VIII. 4. 45.
 
-to @[ḍ], the nasalised @[l] taking the place of @[n]*; @[tat] + @[layaḥ] = @[taḍlayaḥ] the destruction of that; @[vidvān] + @[likhati] = @[vidvāḻlikhati] a learned man writes.
+to @[ḍ], the nasalised @[l] taking the place of @[n]\*; @[tat] + @[layaḥ] = @[taḍlayaḥ] the destruction of that; @[vidvān] + @[likhati] = @[vidvāḻlikhati] a learned man writes.
 
 #### § 32. The @[s] of @[sthā] and @[stambh] is changed into @[ṭ] when after the preposition @[ud]; @[utsthānam] = @[ud] + @[sthānam] = @[udyānam] and @[uttyānam] (see § 20. a), and then @[utyānam], @[uttyānam] rising up; similarly @[utstambhanam] and @[uttambhanam] upholding.
 
@@ -614,7 +620,7 @@ to @[ḍ], the nasalised @[l] taking the place of @[n]*; @[tat] + @[layaḥ] = @
 
 #### § 36. @[m] at the end of a word is changed into an Anusvāra
 
-* @[lolaḥ]. Pān. VIII. 4. 60.
+- @[lolaḥ]. Pān. VIII. 4. 60.
 
 † @[udaḥ sthāstambhoḥ pūrvasya]. Pān. VIII. 4. 61.
 
@@ -632,17 +638,17 @@ when followed by a consonant, e.g. @[harim] + @[vande] = @[hariṃ vande] I salu
 
 (3) This change is optional in the case of @[m] when @[h] followed by any consonant comes after it; e.g. @[kim] + @[kampayati] = @[kiṃkampayati] and @[kiṅkampayati] what does he shake?; but if this @[h] be followed by @[n], and if by a @[c], a @[ṭ], the nasalised @[ñ], @[ṇ], @[ṅ], are optionally substituted for @[m]; e.g. @[kim] + @[hrade] = @[kiṃhrade] or @[kiṅhrade] what does he see?; @[kim] + @[hyaḥ] = @[kiṃhyaḥ] and @[kiṅhyaḥ] what! yesterday!; so @[kiṃcakāra], @[kiñcakāra]; @[kiṃṭaṅkāra], @[kiṇṭaṅkāra]; but @[aham] + @[āgataḥ] = @[ahamāgataḥ].
 
-#### § 37. An Anusvāra followed by any consonant except @[y], @[v], @[l] or @[h] is changed to the nasal of the class to which the following letter belongs, necessarily when in the middle, and optionally when at the end of a word*; e.g. @[aṅkitaḥ] = @[aṃ] + @[k] + @[itaḥ] (by the preceding rule and then) @[aṅkitaḥ] marked (by this); so @[añcitaḥ] = @[añcitaḥ] honoured; @[aṇḍitaḥ] obstructed; @[śāntaḥ] calmed; @[anveṣaḥ] search; @[tvam] + @[karoṣi] = @[tvaṃ karoṣi] or @[tvaṅkaroṣi] thou doest; similarly @[saṃyantā] or @[saṃyantā] a restrainer; @[saṃvatsaraḥ] or @[saṃvatsaraḥ] a year; @[yaṃ lokam] or @[yallokam] to which people.
+#### § 37. An Anusvāra followed by any consonant except @[y], @[v], @[l] or @[h] is changed to the nasal of the class to which the following letter belongs, necessarily when in the middle, and optionally when at the end of a word\*; e.g. @[aṅkitaḥ] = @[aṃ] + @[k] + @[itaḥ] (by the preceding rule and then) @[aṅkitaḥ] marked (by this); so @[añcitaḥ] = @[añcitaḥ] honoured; @[aṇḍitaḥ] obstructed; @[śāntaḥ] calmed; @[anveṣaḥ] search; @[tvam] + @[karoṣi] = @[tvaṃ karoṣi] or @[tvaṅkaroṣi] thou doest; similarly @[saṃyantā] or @[saṃyantā] a restrainer; @[saṃvatsaraḥ] or @[saṃvatsaraḥ] a year; @[yaṃ lokam] or @[yallokam] to which people.
 
 #### § 38. If @[ṅ] and @[ṇ] be followed by a sibilant, @[k] and @[ṭ] respectively are suffixed to them optionally; and hard unaspirates are optionally changed into hard aspirates when followed by a
 
-* @[anusvārasya yayi parasavarṇaḥ | vā padāntasya] Pāṇ. VIII. 4. 48-52.
+- @[anusvārasya yayi parasavarṇaḥ | vā padāntasya] Pāṇ. VIII. 4. 48-52.
 
 ---
 
-sibilant**; @[prāṅ] + @[ṣaṣṭhaḥ] = @[prākṣaṣṭhaḥ], @[prāṅkṣaṣṭhaḥ], @[prāḍḍhaṣṭhaḥ]; the sixth man gone before; @[sugaṇ] + @[ṣaṣṭhaḥ] = @[sugaṇṣaṣṭhaḥ], @[sugaṇṭṣaṣṭhaḥ], @[sugaḍḍhaṣṭhaḥ], the sixth good counter.
+sibilant\*\*; @[prāṅ] + @[ṣaṣṭhaḥ] = @[prākṣaṣṭhaḥ], @[prāṅkṣaṣṭhaḥ], @[prāḍḍhaṣṭhaḥ]; the sixth man gone before; @[sugaṇ] + @[ṣaṣṭhaḥ] = @[sugaṇṣaṣṭhaḥ], @[sugaṇṭṣaṣṭhaḥ], @[sugaḍḍhaṣṭhaḥ], the sixth good counter.
 
-#### § 39. If @[ṭ] or @[t] at the end of a word be followed by @[s], @[ṭ] (changed to @[ḍ]) is optionally inserted between them; * e.g. @[ṣaṭ] + @[santaḥ] = @[ṣaṭsantaḥ] or @[ṣaḍḍsantaḥ] = @[ṣaḍḍhasantaḥ] six good men; so @[sat] + @[puruṣaḥ] = @[satpuruṣaḥ] or @[saddhapuruṣaḥ] that good man.
+#### § 39. If @[ṭ] or @[t] at the end of a word be followed by @[s], @[ṭ] (changed to @[ḍ]) is optionally inserted between them; \* e.g. @[ṣaṭ] + @[santaḥ] = @[ṣaṭsantaḥ] or @[ṣaḍḍsantaḥ] = @[ṣaḍḍhasantaḥ] six good men; so @[sat] + @[puruṣaḥ] = @[satpuruṣaḥ] or @[saddhapuruṣaḥ] that good man.
 
 (4) @[ñ], @[ṇ] and @[n] at the end of a word and preceded by a short vowel double themselves when followed by a vowel†; e.g. @[pratipaṇ] + @[ātmā] = @[pratipaṇṇātmā] the individual soul; so @[sugaṇṇīḥ] the best reckoner; @[sannnacyutaḥ] good Achyuta.
 
@@ -650,7 +656,7 @@ sibilant**; @[prāṅ] + @[ṣaṣṭhaḥ] = @[prākṣaṣṭhaḥ], @[prāṅ
 
 #### § 41. @[n] coming after @[ṛ], @[r], or @[ṣ] short or long, in the same word is changed to @[ṇ] even though a vowel, a semi-vowel except @[r], a nasal, or a letter of the guttural or labial class or @[h] comes between @[ṛ], @[r] or @[ṣ] and @[n];—e.g. @[kṛṣṇa] = @[kṛṣṇa]; @[kṛ] + @[na] = @[kṛṇā] by the sun, @[triṇava], &c.; but @[rāma] + @[nāma] = @[rāma nāma] (as these are two separate words). This change does not take place when @[ṇ] is at the end of a word x @[rāmān].
 
-** @[ṣṭunā ṣṭuḥ | khaś ca] Pāṇ. VIII. 3. 28. * @[ṭaḥ ṣaṣṭuḥ | ṭaś ca] Pāṇ. VIII. 3. 22, 23.
+\*_ @[ṣṭunā ṣṭuḥ | khaś ca] Pāṇ. VIII. 3. 28. _ @[ṭaḥ ṣaṣṭuḥ | ṭaś ca] Pāṇ. VIII. 3. 22, 23.
 † @[ño ṇaś ca hrasvāt padāntāt] Pāṇ. VIII. 4. 3.
 ‡ @[n tu] Pāṇ. VIII. 3. 31.
 ~ @[raṣābhyāṃ no ṇaḥ samānapade | aṭkupvāṅnumvyavāyepi] Pāṇ. VIII. 4. 1, 2.
@@ -734,8 +740,8 @@ Exception:—The @[visarga] of the particles @[bho], @[namaḥ] and @[agre] obey
 
 (b) The @[s] of @[ahas], not followed by a declensional termination, is always changed to @[h]; but if followed by @[pati] and other words such as @[kāra], @[gṛha] &c. the change is optional and if by
 
-* @[adhaḥśirasī raloḥ] Pan. VIII. 3. 47.
-† @[ohāṅoś ca] where @[ṣa reḥ] Vart.
+- @[adhaḥśirasī raloḥ] Pan. VIII. 3. 47.
+  † @[ohāṅoś ca] where @[ṣa reḥ] Vart.
 
 and @[ādya], @[visarga] is substituted for @[s]; @[ahaḥ], @[aharhaḥ] day by day; @[ahaḥpatiḥ] or @[aharpatiḥ] the lord of the day, the sun; @[gṛhaḥpatiḥ] or @[gṛharpatiḥ] Bṛhaspati; @[durgapatiḥ] or @[durgarpatiḥ] a leader; but @[ahobhyām] Inst. dual; @[ahorūpam] the form of the day; @[gṛham aho] whither; @[ahorātraḥ] day and night, @[aharganam] a protection of a man to be chanted by day.
 
@@ -755,8 +761,8 @@ and @[ādya], @[visarga] is substituted for @[s]; @[ahaḥ], @[aharhaḥ] day by
 
 #### § 52. The crude form of a noun (any declinable word) as yet uninflected is technically called a Prātipadika (@[prātipadikam]).
 
-* @[ror] @[ṇi] @[lope] @[pūrvasya] @[dīrgho'ṇaḥ] Pan. VIII. 3. 14. S. S. 114.
-† @[saitadoḥ su lope'koranaṃsamase hali] Par. @[lope ca] Vart. Pan. VI. 1. 132, 134.
+- @[ror] @[ṇi] @[lope] @[pūrvasya] @[dīrgho'ṇaḥ] Pan. VIII. 3. 14. S. S. 114.
+  † @[saitadoḥ su lope'koranaṃsamase hali] Par. @[lope ca] Vart. Pan. VI. 1. 132, 134.
 
 # § 53-56 || DECLENSION.
 
@@ -783,9 +789,13 @@ G. S. G. 3
 Mas. and Fem. Neu.
 Sing. Dual Plural. Sing. Dual Plural.
 N. @[s] @[au] @[as] @[m] @[ī] @[i]
+
 ### V. — — — — — —
+
 A. @[m] @[au] @[as] V. like N.
+
 ### I. @[ā] @[bhyām] @[bhis] The rest like the mas.
+
 D. @[e] " @[bhyas]
 Ab. @[as] " "
 G. @[as] @[os] @[ām]
@@ -804,6 +814,7 @@ L. @[i] " @[su]
 #### § 60. The declension of adjectives does not, in general, differ from that of substantives. It will not, therefore, be given here separately; the points of difference only will be noted.
 
 ## SECTION II.
+
 ### I. BASES ENDING IN VOWELS.
 
 Note:—The variations and modifications, which the general terminations given above undergo when applied to several of the vowel bases are so numerous, that it has been thought
@@ -816,13 +827,13 @@ Nouns ending in @[a] Mas. and Neu.
 
 #### § 61. @[rāma] m. Rāma. @[jñāna] n. knowledge.
 
-|            | Sing.      | Dual.          | Plural.        |            | Sing.        | Dual.          | Plural.          | |------------|------------|----------------|----------------|------------|--------------|----------------|------------------|
-| N.         | @[rāmaḥ]   | @[rāmau]       | @[rāmāḥ]       | N.         | @[jñānam]    | @[jñāne]       | @[jñānāni]       |
-| V.         | @[rāma]    | ,,             | ,,             | V.         | @[jñāna]     | ,,             | ,,               | | A.         | @[rāmam]   | ,,             | @[rāmān]       | A.         | @[jñānam]    | ,,             | ,,               |
-| I.         | *@[rāmeṇa] | @[rāmābhyām]   | @[rāmaiḥ]      |            | The rest like @[rāma].        |
-| D.         | @[rāmāya]  | ,,             | @[rāmebhyaḥ]   |            |              |                |                  | | Ab.        | @[rāmāt]   | ,,             | ,,             |            |              |                |                  |
-| G.         | @[rāmasya] | @[rāmayoḥ]     | @[rāmāṇām]     |            |              |                |                  |
-| L.         | @[rāme]    | @[rāmayoḥ]     | @[rāmeṣu]      |            |              |                |                  |
+| | Sing. | Dual. | Plural. | | Sing. | Dual. | Plural. | |------------|------------|----------------|----------------|------------|--------------|----------------|------------------|
+| N. | @[rāmaḥ] | @[rāmau] | @[rāmāḥ] | N. | @[jñānam] | @[jñāne] | @[jñānāni] |
+| V. | @[rāma] | ,, | ,, | V. | @[jñāna] | ,, | ,, | | A. | @[rāmam] | ,, | @[rāmān] | A. | @[jñānam] | ,, | ,, |
+| I. | \*@[rāmeṇa] | @[rāmābhyām] | @[rāmaiḥ] | | The rest like @[rāma]. |
+| D. | @[rāmāya] | ,, | @[rāmebhyaḥ] | | | | | | Ab. | @[rāmāt] | ,, | ,, | | | | |
+| G. | @[rāmasya] | @[rāmayoḥ] | @[rāmāṇām] | | | | |
+| L. | @[rāme] | @[rāmayoḥ] | @[rāmeṣu] | | | | |
 
 #### § 62. Decline all nouns ending in @[a] mas. and neu. similarly.
 
@@ -836,14 +847,14 @@ Nouns ending in @[ā] Mas. and Fem.
 
 ---
 
-* The @[n] of @[in] is changed to @[ṇ] by § 41. Ins. sing. of @[rāma] is @[rāmeṇa].
+- The @[n] of @[in] is changed to @[ṇ] by § 41. Ins. sing. of @[rāma] is @[rāmeṇa].
 
-|      | Sing.        | Dual.          | Plural.        | |------|--------------|----------------|----------------|
-| N.   | @[gopāḥ]     | @[gopau]       | @[gopāḥ]       |
-| V.   | @[gopāḥ]     | ,,             | ,,             | | A.   | @[gopām]     | ,,             | @[gopāḥ]       |
-| I.   | @[gopā]      | @[gopābhyām]   | @[gopābhiḥ]    |
-| D.   | @[gopā]      | ,,             | @[gopābhyaḥ]   | | Ab.  | @[gopāḥ]     | ,,             | ,,             |
-| G.   | ,,           | @[gopoḥ]       | @[gopām]       | | L.   | @[gopi]      | ,,             | @[gopāsu]      |
+| | Sing. | Dual. | Plural. | |------|--------------|----------------|----------------|
+| N. | @[gopāḥ] | @[gopau] | @[gopāḥ] |
+| V. | @[gopāḥ] | ,, | ,, | | A. | @[gopām] | ,, | @[gopāḥ] |
+| I. | @[gopā] | @[gopābhyām] | @[gopābhiḥ] |
+| D. | @[gopā] | ,, | @[gopābhyaḥ] | | Ab. | @[gopāḥ] | ,, | ,, |
+| G. | ,, | @[gopoḥ] | @[gopām] | | L. | @[gopi] | ,, | @[gopāsu] |
 
 #### § 64. Decline similarly @[jagattrā] the protector of the world, @[śaṅkhadhmā] a conch-shell-blower, @[somapā] one who quaffs the soma-juice, @[dhūmapā] one who inhales smoke, @[baladā] strength-giver or Indra, and other comp. nouns derived from roots ending in @[ā].
 
@@ -851,12 +862,12 @@ Nouns ending in @[ā] Mas. and Fem.
 
 #### § 65. @[ramā] fem. the goddess of wealth.
 
-|      | Sing.        | Dual.          | Plural.         | |------|--------------|----------------|-----------------|
-| N.   | @[ramā]      | @[rame]        | @[ramāḥ]        |
-| V.   | @[rame]      | ,,             | ,,              | | A.   | @[ramām]     | ,,             | ,,              |
-| I.   | @[ramayā]    | @[ramābhyām]   | @[ramābhiḥ]     |
-| D.   | @[ramāyai]   | ,,             | @[ramābhyaḥ]    | | Ab.  | @[ramāyāḥ]   | ,,             | ,,              |
-| G.   | ,,           | @[ramayoḥ]     | @[ramāṇām]      | | L.   | @[ramāyām]   | ,,             | @[ramāsu]       |
+| | Sing. | Dual. | Plural. | |------|--------------|----------------|-----------------|
+| N. | @[ramā] | @[rame] | @[ramāḥ] |
+| V. | @[rame] | ,, | ,, | | A. | @[ramām] | ,, | ,, |
+| I. | @[ramayā] | @[ramābhyām] | @[ramābhiḥ] |
+| D. | @[ramāyai] | ,, | @[ramābhyaḥ] | | Ab. | @[ramāyāḥ] | ,, | ,, |
+| G. | ,, | @[ramayoḥ] | @[ramāṇām] | | L. | @[ramāyām] | ,, | @[ramāsu] |
 
 #### § 66. Decline all other fem. nouns ending in @[ā] similarly.
 
@@ -865,22 +876,35 @@ Nouns ending in @[ā] Mas. and Fem.
 @[हरि] mas. Hari.
 
 Sing. Dual. Plural.
+
 ## N. हरिः हरी हरयः
+
 V. हरे " "
+
 ## A. हरिम्‌ " हरीन्‌
+
 ## I. हरिणा हरिभ्याम्‌ हरिभिः
+
 ## D. हरये " हरिभ्यः
+
 Ab. हरेः " "
+
 ## G. " हर्योः हरीणाम्‌
+
 ## L. हरौ " हरिषु
 
 @[मति] fem. intellect.
 
 Sing. Dual. Plural.
+
 ## N. मतिः मती मतयः
+
 V. मते " "
+
 ## A. मतिम्‌ " मतीः
+
 ## I. मत्या मतिभ्याम्‌ मतिभिः
+
 D. मत्यै or मतये " मतिभ्यः
 Ab. मतेः or मत्याः " "
 G. मतेः or मत्याः मत्योः मतीनाम्‌ L. मतौ or मत्याम्‌ " मतिषु
@@ -888,34 +912,54 @@ G. मतेः or मत्याः मत्योः मतीनाम्�
 @[गुरु] mas. preceptor.
 
 ## N. गुरुः गुरू गुरवः
+
 ## V. गुरो " "
+
 ## A. गुरुम्‌ " गुरून्‌
+
 ## I. गुरुणा गुरुभ्याम्‌ गुरुभिः
+
 ## D. गुरवे " गुरुभ्यः
+
 Ab. गुरोः " "
+
 ## G. " गुर्वोः गुरूणाम्‌
+
 ## L. गुरौ " गुरुषु
 
 @[धेनु] fem. a cow.
 
 ## N. धेनुः धेनू धेनवः
+
 ## V. धेनो " "
+
 ## A. धेनुम्‌ " धेनूः
+
 ## I. धेन्वा धेनुभ्याम्‌ धेनुभिः
+
 D. धेनवे or धेन्वै " धेनुभ्यः
 Ab. धेनोः or धेन्वाः " "
+
 ## G. " धेन्वोः धेनूनाम्‌
+
 L. धेनौ or धेन्वाम्‌ " धेनुषु
 
 @[वारि] neu. water.
 
 ## N. वारि वारिणी वारीणि
+
 V. वारि or वारे " "
+
 ## A. वारि " "
+
 ## I. वारिणा वारिभ्याम्‌ वारिभिः
+
 ## D. वारिणे " वारिभ्यः
+
 Ab. वारिणः " "
+
 ## G. वारिणः वारिणोः वारीणाम्‌
+
 ## L. वारिणि " वारिषु
 
 इकोऽनुनासिके विभक्तौ। Pan. VII. 1. 73. Neu. nouns ending in इ, उ, ऋ or ऌ take the augment नुक्‌ before vowel case terminations.
@@ -923,9 +967,13 @@ Ab. वारिणः " "
 @[मधु] neu. honey.
 
 N. @[मधु] @[मधुनी] @[मधूनि]
+
 ### V. @[मधो] @[मधुनी] @[मधूनि]
+
 A. @[मधु] " "
+
 ### I. @[मधुना] @[मधुभ्याम्] @[मधुभिः]
+
 D. @[मधुने] " @[मधुभ्यः]
 Ab. @[मधुनः] " "
 G. " @[मधुनोः] @[मधूनाम्]
@@ -936,9 +984,13 @@ L. @[मधुनि] " @[मधुषु]
 @[शुचि] neu.
 
 N. @[शुचि] @[शुचिनी] @[शुचीनि]
+
 ### V. @[शुचि] or @[शुचे] " "
+
 Ac. @[शुचि] " "
+
 ### I. @[शुचिना] @[शुचिभ्याम्] @[शुचिभिः]
+
 D. @[शुचये] or @[शुचिने] " @[शुचिभ्यः] Ab. @[शुचयः] or @[शुचिनः] " "
 G. " @[शुचयोः] or @[शुचिनोः] @[शुचीनाम्] L. @[शुचौ] or @[शुचिनि] " @[शुचिषु]
 
@@ -946,7 +998,9 @@ G. " @[शुचयोः] or @[शुचिनोः] @[शुचीनाम�
 
 N. @[गुरु] @[गुरुणी] @[गुरूणि]
 Ac. @[गुरु] @[गुरुणी] @[गुरूणि]
+
 ### I. @[गुरुणा] @[गुरुभ्याम्] @[गुरुभिः]
+
 D. @[गुरवे] or @[गुरुणे] " @[गुरुभ्यः] Ab. @[गुरोः] or @[गुरुणः] " "
 G. " @[गुरोः] or @[गुरुणोः] @[गुरूणाम्] L. @[गुरौ] or @[गुरुणि] " @[गुरुषु]
 
@@ -957,9 +1011,13 @@ G. " @[गुरोः] or @[गुरुणोः] @[गुरूणाम्] 
 @[सखि] mas. friend.
 
 N. @[सखा] @[सखायौ] @[सखायः]
+
 ### V. @[सखे] " "
+
 A. @[सखायम्] " @[सखीन्]
+
 ### I. @[सख्या] @[सखिभ्याम्] @[सखिभिः]
+
 D. @[सख्ये] " @[सखिभ्यः]
 Ab. @[सख्युः] " "
 G. @[सख्युः] @[सख्योः] @[सख्यानाम्] L. @[सख्यौ] " @[सखिषु]
@@ -969,15 +1027,21 @@ Obs. (a) The words @[सुसखि] = good friend ( @[शोभनः सख�
 @[पति] mas. a master.
 
 N. @[पतिः] @[पती] @[पतयः]
+
 ### V. @[पते] " "
+
 A. @[पतिम्] " @[पतीन्]
 
 #### § 73-75]. DECLENSION 41
 
 ## I. त्वा पतिभ्याम् पतिभिः
+
 ## D. पत्ये पतिभ्याम् पतिभ्यः
+
 Ab. पत्युः
+
 ## G. पत्युः पत्योः पतीनाम्
+
 ## L. पत्यौ पतिषु
 
 #### § 73. Compound nouns ending with @[पति] such as @[भूपति] &c. are declined like @[हरि] regularly. @[प्रियपति] (@[प्रियाः] @[पतिः] @[यस्य] @[यस्या] @[वा]) is declined like @[हरि] mas. & @[मति] fem.; the Gen. plu. is optionally like that of @[पति]; @[प्रियपतीनाम्] or @[प्रियपत्युसरोणाम्].
@@ -991,12 +1055,16 @@ Words ending in @[ई] and @[ऊ] mas. and fem.
 #### § 75. @[नदी] f. river; @[वधू] f. a woman, a bride.
 
 N. @[नदी] @[नद्यौ] @[नद्यः]
+
 ### V. @[नदि]
+
 A. @[नदीम्] @[नद्यौ] @[नदीः]
+
 ### I. @[नद्या] @[नदीभ्याम्] @[नदीभिः]
+
 D. @[नद्यै] @[नदीभ्याम्] @[नदीभ्यः] Ab. @[नद्याः]
 
-* From @[उडुलोमन्] name of a sage, + @[इञ्] (@[इ]) added @[अपत्ये] by '@[प्राह्वादिभ्यश्च]' Pān. IV. 1. 96, the final being dropped (Pān. VI. 4. 144).
+- From @[उडुलोमन्] name of a sage, + @[इञ्] (@[इ]) added @[अपत्ये] by '@[प्राह्वादिभ्यश्च]' Pān. IV. 1. 96, the final being dropped (Pān. VI. 4. 144).
 
 42 SAME GRAMMAR. [§§ 75-76
 
@@ -1009,9 +1077,13 @@ Decline all other fem. nouns in @[ई] similarly.
 @[वधू] f.
 
 N. @[वधूः] @[वध्वौ] @[वध्वः]
+
 ### V. @[वधु]
+
 A. @[वधूम्] @[वध्वौ] @[वधूः]
+
 ### I. @[वध्वा] @[वधूभ्याम्] @[वधूभिः]
+
 D. @[वध्वै] @[वधूभ्याम्] @[वधूभ्यः] Ab. @[वध्वाः]
 G. @[वध्वाः] @[वध्वोः] @[वधूनाम्] L. @[वध्वाम्] @[वध्वोः] @[वधूषु]
 
@@ -1024,10 +1096,12 @@ Decline @[श्वश्रू] f. mother-in-law, @[चमू] an army, @[क�
 Etr. @[वात]+@[प्रमा]+@[ई] Uṇādi IV. 1.—
 
 N. V. @[वातप्रमीः] @[वातप्रम्यौ] @[वातप्रम्यः] A. @[वातप्रमीम्] @[वातप्रम्यौ] @[वातप्रमीन्]
+
 ### I. @[वातप्रम्या] @[वातप्रमीभ्याम्] @[वातप्रमीभिः]
+
 D. @[वातप्रम्ये] @[वातप्रमीभ्याम्] @[वातप्रमीभ्यः] Ab. @[वातप्रम्यः]
 
-* @[रजस्वीनन्तरीटक्ष्मीधूमश्रीवीणापादिषु] । @[हलि] @[चासन्नकालायां] @[न] @[सर्वत्र] @[ईकारलोपः] ॥
+- @[रजस्वीनन्तरीटक्ष्मीधूमश्रीवीणापादिषु] । @[हलि] @[चासन्नकालायां] @[न] @[सर्वत्र] @[ईकारलोपः] ॥
 
 | G. @[vātapriye] @[vātapriyayoḥ] @[vātapriyayām] | L. @[vātapriyaye] " @[vātapriyeṣu]
 
@@ -1039,7 +1113,7 @@ The word @[pratidhī], derived with the affix @[ṅīṣ], is declined like @[pr
 
 #### § 77. Root nouns in @[i] or @[ū] M. F.
 
-Rule of @[sandhi]—(a) The ending @[i] or @[u], short or long, of nouns derived from roots with the affix @[kvin] (क्विन्‌) and of @[dhī], is changed to @[iy] or @[uv] before the vowel terminations*; the fem.
+Rule of @[sandhi]—(a) The ending @[i] or @[u], short or long, of nouns derived from roots with the affix @[kvin] (क्विन्‌) and of @[dhī], is changed to @[iy] or @[uv] before the vowel terminations\*; the fem.
 nouns of this description are optionally declined like @[nadī] in the Du. Ab. Gen. and Loc. singulars and the Gen. plu.
 
 (b) But if the ending @[i] or @[u] of a many-voweled noun having a root at the end be not preceded by a radical conjunct conso- nant or the root noun has a preposition termed @[gati] (i. e. @[upasarga] added to the root) or a word governed by the root preceding it, it is changed to @[ī] or @[ū], except in the case of @[sudhī] and roots ending in @[jū].
@@ -1047,13 +1121,16 @@ nouns of this description are optionally declined like @[nadī] in the Du. Ab. G
 @[dhī] fem. @[bhū].
 
 N. @[dhīḥ] @[dhiyau] @[dhiyaḥ] N. @[bhūḥ] @[bhuvau] @[bhuvaḥ]
+
 ### V. " " " V. " " "
+
 A. @[dhiyam] " " A. @[bhuvam] " "
 
-* @[aci dhnutoḥ chuvāṃ vārivaḥ] Pāṇ. VI. 4. 77.
-† @[eṅkakācca māyogapūrvasya yaṇ vā pari] Pāṇ. VI. 4. 82. 83. @[gatikārakebhyaḥ parapadadasya yaṇ neṣyate] Vār. @[na bhūsaḥ] Pāṇ. VI. 4. 85.
+- @[aci dhnutoḥ chuvāṃ vārivaḥ] Pāṇ. VI. 4. 77.
+  † @[eṅkakācca māyogapūrvasya yaṇ vā pari] Pāṇ. VI. 4. 82. 83. @[gatikārakebhyaḥ parapadadasya yaṇ neṣyate] Vār. @[na bhūsaḥ] Pāṇ. VI. 4. 85.
 
 ### I. @[dhiyā] @[dhībhyām] @[dhibhiḥ] I. @[bhuvā] @[bhūbhyām] @[bhūbhiḥ]
+
 D. @[dhiye]-@[dhiyai] " @[dhibhyaḥ] D. @[bhuve]-@[bhuvai] " @[bhūbhyaḥ] Ab. @[dhiyaḥ]-@[dhiyāḥ] " " Ab. @[bhuvaḥ]-@[bhuvāḥ] " " G. @[dhiyaḥ]-@[dhiyāḥ] @[dhiyoḥ] @[dhiyām]-@[dhīnām] G. @[bhuvaḥ]-@[bhuvāḥ] @[bhuvoḥ] @[bhuvām]-@[bhūnām]
 L. @[dhiyā]-@[dhiyām] " @[dhīṣu] L. @[bhuvi]-@[bhuvām] " @[bhūṣu]
 
@@ -1063,22 +1140,26 @@ Decline similarly @[hrī], @[śrī], @[gī], Decline similarly @[sū], @[jū], @
 @[pradhī] mas. (@[prakṛṣṭam dhyāyati]).
 
 N.V. @[pradhīḥ] @[pradhiyau] @[pradhiyaḥ] A. @[pradhiyam] @[pradhiyau] @[pradhiyaḥ]
+
 ### I. @[pradhiyā] @[pradhībhyām] @[pradhibhiḥ]
+
 D. @[pradhiye] " "
 Ab. @[pradhiyaḥ] " "
 G. " @[pradhiyoḥ] @[pradhīnām]
 
 Decline similarly @[netrī] (@[nayati icchati]), @[jalapī], @[uṣṭrī], @[grāmaṇī], @[senānī],
-&c. mas. and fem.; the Loc. sing. of nouns ending in @[nī] is made up by adding @[ām]* i. e. @[uṣṭryām], @[grāmaṇyām], @[senānyām], &c.
+&c. mas. and fem.; the Loc. sing. of nouns ending in @[nī] is made up by adding @[ām]\* i. e. @[uṣṭryām], @[grāmaṇyām], @[senānyām], &c.
 
 @[khalaprū] mas. (@[khalān punāti]).
 
 N.V. @[khalaprūḥ] @[khalapruvau] @[khalapruvāḥ] A. @[khalapruvam] " "
+
 ### I. @[khalapruvā] @[khalaprūbhyām] @[khalaprubhiḥ]
+
 D. @[khalapruve] " @[khalaprubhyaḥ] Ab. @[khalapruvāḥ] " "
 G. " @[khalaprūvoḥ] @[khalaprūnām]
 
-* See * on page 45.
+- See \* on page 45.
 
 @[priyā] @[ātmanepada]
 
@@ -1094,7 +1175,8 @@ N.A. @[priyā] @[priyaṇī] @[priyāṇi] N.A. @[śuci] @[śucīnī] @[śucīni
 
 G. @[priya-ṇaḥ] " " V. @[śuce-śucī] " "
 
-### I. @[priyā-priyaṇā] &c. option-          I. @[śucyā-śucinā] &c. option-
+### I. @[priyā-priyaṇā] &c. option- I. @[śucyā-śucinā] &c. option-
+
 ally like the mas. before the ally like the mas. before the vowel terminations. vowel terminations.
 
 @[priyā] fem. mas.
@@ -1105,24 +1187,30 @@ Voc. sing., Da. Ab. Gen. and Loc. sings. Gen. plu. like @[nadī].
 the rest like @[priyā] mas.; e. g.
 
 N. @[dhīḥ] @[dhiyo] @[dhiyaḥ]
-### V. @[dhīḥ] "   "
+
+### V. @[dhīḥ] " "
+
 A. @[dhiyam] " "
+
 ### I. @[dhiyā] @[dhībhyām] @[dhibhiḥ]
+
 D. @[dhiye] " @[dhibhyaḥ]
 Ab. @[dhiyaḥ] " "
 G. " @[dhiyoḥ] @[dhiyām]
-L. @[dhiyām]* " @[dhīṣu]
+L. @[dhiyām]\* " @[dhīṣu]
 
 Decline similarly @[kumārī] (@[kumārīm icchati iti kumārī vā ācarati iti] @[vā]) except in the Nom. sing. which is @[kumārī].
 
-* @[ṅerāpniyāpnībhyaḥ] | Pāṇ. VII. 3. 116. @[ām] is substituted for the loc. sing. in the case of words ending in @[nadī], @[ī] and the word @[dhī].
+- @[ṅerāpniyāpnībhyaḥ] | Pāṇ. VII. 3. 116. @[ām] is substituted for the loc. sing. in the case of words ending in @[nadī], @[ī] and the word @[dhī].
 
-+ @[hrasvo napuṃsake prātipadikasya] | Pāṇ. I. 2. 47. A prātipadika ending in a long vowel has a short vowel substituted for it when becoming neu.
+* @[hrasvo napuṃsake prātipadikasya] | Pāṇ. I. 2. 47. A prātipadika ending in a long vowel has a short vowel substituted for it when becoming neu.
 
 @[sudhī] (@[sudhī dhyāyati]) m. and f. also according to Kaiyaṭa.
 
 N. @[sudhīḥ] @[sudhiyo] @[sudhiyaḥ] A. @[sudhiyam] " "
+
 ### I. @[sudhiyā] @[sudhībhyām] @[sudhibhiḥ]
+
 D. @[sudhiye] " @[sudhibhyaḥ]
 Ab. @[sudhiyaḥ] " "
 G. " @[sudhiyoḥ] @[sudhiyām]
@@ -1134,7 +1222,9 @@ The L. sing. of @[nī] is @[niyām].
 @[svabhū] mas. (@[svena bhavati]) self-existent.
 
 N. S. @[svabhūḥ] @[svabhuvo] @[svabhuvaḥ] A. @[svabhuvam] " "
+
 ### I. @[svabhuvā] @[svabhūbhyām] @[svabhūbhiḥ]
+
 D. @[svabhuve] " @[svabhūbhyaḥ] Ab. @[svabhuvaḥ] " "
 G. " @[svabhuvoḥ] @[svabhuvām]
 L. @[svabhuvi] " @[svabhūṣu]
@@ -1144,18 +1234,25 @@ Decline similarly @[prabhū], @[vibhū], (@[paramaścāso bhūḥ]) @[babhru], @
 @[svabhū] neu. like @[vāri].
 
 N. S. @[svabhū] @[svabhuṇī] @[svabhūni]
-### V. @[svabhu-ū] "   "
+
+### V. @[svabhu-ū] " "
+
 ### I. @[svabhuvā-svabhūnā] &c. optionally like the mas. before the vowel terminations. G. Dual @[svabhuvoḥ-uvoḥ].
 
 @[svabhū-ū]
+
 ### I. @[svabhuvā-ūnā] &c. optionally like the mas. before the vowel termination.
 
 @[चर्षाभू] fem.
 
 N. @[वर्षाः] @[वर्षाभ्वौ] @[वर्षाभुवः]
+
 ### V. @[वर्षाभुः] " "
+
 A. @[वर्षाभुवम्] " @[वर्षाभुवः]
+
 ### I. @[वर्षाभ्वा] @[वर्षाभूभ्याम्] @[वर्षाभूभिः]
+
 D. @[वर्षाभुवे] " @[वर्षाभूभ्यः] Ab. @[वर्षाभ्वाः] " "
 G. " @[वर्षाभ्वोः] @[वर्षाभूनाम्] L. @[वर्षाभ्वाम्] " @[वर्षाभूषु]
 
@@ -1166,9 +1263,13 @@ Decline similarly @[प्रसू], @[विम्], @[पुनर्भू] 
 @[सखी] (@[सखायमिच्छतीति]).
 
 N. @[सखा] @[सख्यौ] @[सख्यः]
+
 ### V. @[सखि] " "
+
 A. @[सखायम्] " @[सख्यः]
+
 ### I. @[सख्या] @[सखीभ्याम्] @[सखीभिः]
+
 D. @[सख्यै] " @[सखीभ्यः]
 Ab. @[सख्याः] " "
 G. " @[सख्योः] @[सख्याम्]
@@ -1185,12 +1286,16 @@ Words like @[चितौषधी], @[पूर्वरात्री] should
 
 ---
 
-#### § 79. @[जि] fem. a woman.*
+#### § 79. @[जि] fem. a woman.\*
 
 N. @[जिः] @[जियौ] @[जियः]
+
 ### V. @[जि] " "
+
 A. @[जियम्-जिम्] " @[जियः-जीनः]
+
 ### I. @[जिया] @[जीभ्याम्] @[जीभिः]
+
 D. @[जियै-ज्यै] " @[जीभ्यः]
 Ab. @[जियाः-ज्याः] " "
 G. @[जियाः-ज्याः] @[जियोः] @[जीनाम्] L. @[जियाम्-ज्याम्] " @[जीषु]
@@ -1200,9 +1305,13 @@ Obs. @[अतिजि] = very @[जि].
 mas.
 
 N. @[अतिजिः] @[अतिजियौ] @[अतिजियः]
+
 ### V. @[अतिजि] " "
+
 A. @[अतिजियम्-अतिजिम्] " @[अतिजियः-अतिजीनः]
+
 ### I. @[अतिजिना] @[अतिजीभ्याम्] @[अतिजिभिः]
+
 D. @[अतिजिये] " @[अतिजीभ्यः]
 Ab. @[अतिजीनः] " "
 G. " @[अतिजियोः] @[अतिजीनाम्]
@@ -1222,14 +1331,17 @@ Like @[युवति] except in the Gen. and Loc. duals forms which are @[अ�
 
 N.V. @[हुः] @[हू] @[हवः]
 A. @[हुवम्] " @[हूनः]
+
 ### I. @[हुवा] @[हूभ्याम्] @[हूभिः]
+
 D. @[हुवे] " @[हूभ्यः]
 Ab. @[हुवः] " "
 G. " @[हुवोः] @[हूनाम्]
 
-*Pan. VI. 4. 79. 80.
+\*Pan. VI. 4. 79. 80.
 
 ### V. @[धर्तः] (र) " "
+
 A. @[धर्तुम्] " "
 
 Declining similarly @[ग्रन्थि] (@[ग्रन्थति] @[इति] one who strings together).
@@ -1240,35 +1352,35 @@ Nouns ending in @[ऋ] mas. fem. and neu.
 
 @[धातृ] mas. the creator.
 
-| | Singular | Dual | Plural |
-|---|----------|------|--------|
-| N. | @[धाता] | @[धातारौ] | @[धातारः] |
-| V. | @[धातः] (र) | " | " |
-| A. | @[धातारम्] | " | " |
-| I. | @[धात्रा] | @[धातृभ्याम्] | @[धातृभिः] |
-| D. | @[धात्रे] | " | @[धातृभ्यः] |
-| Ab. | @[धातुः] | " | " |
-| G. | " | @[धात्रोः] | @[धातॄणाम्] |
-| L. | @[धातरि] | " | @[धातृषु] |
+|     | Singular    | Dual          | Plural      |
+| --- | ----------- | ------------- | ----------- |
+| N.  | @[धाता]     | @[धातारौ]     | @[धातारः]   |
+| V.  | @[धातः] (र) | "             | "           |
+| A.  | @[धातारम्]  | "             | "           |
+| I.  | @[धात्रा]   | @[धातृभ्याम्] | @[धातृभिः]  |
+| D.  | @[धात्रे]   | "             | @[धातृभ्यः] |
+| Ab. | @[धातुः]    | "             | "           |
+| G.  | "           | @[धात्रोः]    | @[धातॄणाम्] |
+| L.  | @[धातरि]    | "             | @[धातृषु]   |
 
 Decline similarly @[कर्तृ], @[नेतृ], @[दातृ], @[शास्तृ], @[प्रशास्तृ] &c.
 
 @[धातृ] neu.
 
-| | Singular | Dual | Plural |
-|---|----------|------|--------|
-| N. | @[धातृ] | @[धातृणी] | @[धातॄणि] |
-| V. | @[धातः-तृ] | " | " |
-| A. | @[धातृ] | " | " |
-| I. | @[धात्रा-त्रीभ्याम्] | @[धातृभ्याम्] | @[धातृभिः] |
-| D. | @[धात्रे-त्रिभे] | " | @[धातृभ्यः] |
+|     | Singular             | Dual          | Plural      |
+| --- | -------------------- | ------------- | ----------- |
+| N.  | @[धातृ]              | @[धातृणी]     | @[धातॄणि]   |
+| V.  | @[धातः-तृ]           | "             | "           |
+| A.  | @[धातृ]              | "             | "           |
+| I.  | @[धात्रा-त्रीभ्याम्] | @[धातृभ्याम्] | @[धातृभिः]  |
+| D.  | @[धात्रे-त्रिभे]     | "             | @[धातृभ्यः] |
 
 ---
 
-| | | | |
-|---|---|---|---|
-| Ab. | @[धातुः-त्रिभ्यः] | @[धातृभ्याम्] | @[धातृभ्यः] |
-| G. | " | @[धात्रोः-त्रिणोः] | @[धातॄणाम्] | | L. | @[धातरि] | " | @[धातृषु] |
+|     |                   |                    |             |
+| --- | ----------------- | ------------------ | ----------- | --- | --- | -------- | --- | --------- |
+| Ab. | @[धातुः-त्रिभ्यः] | @[धातृभ्याम्]      | @[धातृभ्यः] |
+| G.  | "                 | @[धात्रोः-त्रिणोः] | @[धातॄणाम्] |     | L.  | @[धातरि] | "   | @[धातृषु] |
 
 Decline similarly @[नेतृ], @[नेत्रृ], @[ज्ञातृ], &c.
 
@@ -1276,21 +1388,21 @@ Decline similarly @[नेतृ], @[नेत्रृ], @[ज्ञातृ],
 
 #### § 82. Nouns expressive of relationship like @[पितृ] m. a father, @[मातृ] f. a mother, @[देवृ] m. a husband's brother, &c. with the exception @[नप्तृ] a grandson, @[पति] a husband and @[स्वसृ] a sister, as also the words @[शंस्तृ] one who praises (Un. I. 92), @[पुमान्] man (Un. II. 98) and @[सूत] a charioteer, do not change their @[ऋ] to @[आर्] in the N. dual and plural and Acc. sing. and dual; e.g.
 
-| | Singular | Dual | Plural |
-|---|----------|------|--------|
-| N. | @[पिता] | @[पितरौ] | @[पितरः] |
-| V. | @[पितः] (र) | " | " |
-| A. | @[पितरम्] | " | @[पितॄन्] |
+|     | Singular    | Dual     | Plural    |
+| --- | ----------- | -------- | --------- |
+| N.  | @[पिता]     | @[पितरौ] | @[पितरः]  |
+| V.  | @[पितः] (र) | "        | "         |
+| A.  | @[पितरम्]   | "        | @[पितॄन्] |
 
 The rest like @[धातृ].
 
 Decline similarly @[भ्रातृ], @[जामातृ], @[देवृ], @[शंस्तृ], @[पुमान्] and @[सूत]. The Gen. plu. of @[पुमान्] is @[पुंसाम्] or @[पुमांसाम्].
 
-| | Singular | Dual | Plural |
-|---|----------|------|--------|
-| N. | @[माता] | @[मातरौ] | @[मातरः] |
-| V. | @[मातः] (र) | " | " |
-| A. | @[मातरम्] | " | @[मातॄः] |
+|     | Singular    | Dual     | Plural   |
+| --- | ----------- | -------- | -------- |
+| N.  | @[माता]     | @[मातरौ] | @[मातरः] |
+| V.  | @[मातः] (र) | "        | "        |
+| A.  | @[मातरम्]   | "        | @[मातॄः] |
 
 The rest like @[धातृ].
 
@@ -1301,9 +1413,13 @@ Decline similarly @[यातृ] a husband's brother's wife, @[दुहित�
 @[णट्‌] (§ 83-84) DECLENSION—51
 
 N. @[क्रोष्टा] @[क्रोष्टारौ] @[क्रोष्टारः]
+
 ### V. @[क्रोष्ट] " "
+
 A. @[क्रोष्टारम्] " @[क्रोष्टॄन्]
+
 ### I. @[क्रोष्ट्रा] @[क्रोष्टृभ्याम्] @[क्रोष्टृभिः]
+
 D. @[क्रोष्ट्रे] " @[क्रोष्टृभ्यः] Ab. @[क्रोष्टुः] @[क्रोष्टृभ्याम्] "
 G. " @[क्रोष्ट्रोः-ष्टोः] @[क्रोष्टॄणाम्] L. @[क्रोष्टरि-र्यि] " @[क्रोष्टृषु]
 
@@ -1318,8 +1434,11 @@ Words ending in @[ऌ] and @[लू].
 @[कॢ] m.
 
 N. @[कॢः], @[कः] @[कॢरौ], @[करौ] @[कॢरः], @[करः]
+
 ### V. @[कॢः], @[कः] " "
+
 ### I. @[कॢरा], @[करा] @[कॢर्भ्याम्], @[कॄभ्याम्], @[कर्भ्याम्] @[कॢर्भिः], @[कॄभिः], @[कर्भिः]
+
 D. @[कॢरि], @[कॢरे], @[करि], @[करे] " @[कॢर्भ्यः], @[कॄभ्यः], @[कर्भ्यः] Ab. @[कॢरः], @[करः] " "
 G. @[कॢरि], @[करि] @[कॢरोः], @[करोः] @[कॢराम्], @[कॄराम्], @[कराम्] L. @[कॢरि], @[कॢर्यि], @[करि], @[कर्यि] " @[कॢर्षु], @[कॄषु], @[कर्षु]
 
@@ -1328,9 +1447,13 @@ Decline @[गॢ] similarly.
 @[गम्लू] m.
 
 N. @[गम्लाः] @[गम्लावौ] @[गम्लावः]
+
 ### V. @[गम्लौः] " "
+
 A. @[गम्लावम्] " @[गम्लून्]
+
 ### I. @[गम्लुवा] @[गम्लूभ्याम्] @[गम्लूभिः]
+
 D. @[गम्लुवे] " @[गम्लूभ्यः]
 Ab. @[गम्लोः] " "
 G. " @[गम्लुवोः] @[गम्लूनाम्]
@@ -1345,9 +1468,13 @@ Words ending in @[ए] and @[ओ].
 @[से] (शिखायाः इवाऽऽकारेण कामेन वर्तते इति से) m. wealth.
 
 N. @[सेः] @[सयौ] @[सयः]
+
 ### V. @[से] " "
+
 A. @[सयम्] " "
+
 ### I. @[सया] @[सेभ्याम्] @[सेभिः]
+
 D. @[सये] " @[सेभ्यः]
 Ab. @[सेः] " "
 G. " @[सयोः] @[सयाम्]
@@ -1356,31 +1483,39 @@ L. @[सयि] " @[सेषु]
 @[रै] (रयिः) m. wealth.
 
 N. @[राः] @[रायौ] @[रायः]
+
 ### V. @[रायम्] " "
+
 A. " " "
+
 ### I. @[राया] @[राभ्याम्] @[राभिः]
+
 D. @[राये] " @[राभ्यः]
 Ab. @[रायः] " "
 G. " @[रायोः] @[रायाम्]
 L. @[रायि] " @[रासु]
 
-*The Kau. does not specially mention this form. Just as it stops after giving the Nom. forms in the case of words like @[गो], @[नौ] @[द्यौ] &c., so does it do in the case of @[से] also, implying thereby that the Voc. forms of @[से] are also like the Nom. ones. But the Sūtra @[एतेर्नित्यम्] Pāṇ. VI. 1. 69 (@[एकारान्तात्‌] @[आकारोपधस्य] @[सम्बुद्धौ] @[हकारः] @[लुप्यते] @[नित्यम्] @[इति] @[एतेर्नित्यम्]) (Kau.) seems to apply in the present case and by dropping the final @[ः] we get the form @[से].
+\*The Kau. does not specially mention this form. Just as it stops after giving the Nom. forms in the case of words like @[गो], @[नौ] @[द्यौ] &c., so does it do in the case of @[से] also, implying thereby that the Voc. forms of @[से] are also like the Nom. ones. But the Sūtra @[एतेर्नित्यम्] Pāṇ. VI. 1. 69 (@[एकारान्तात्‌] @[आकारोपधस्य] @[सम्बुद्धौ] @[हकारः] @[लुप्यते] @[नित्यम्] @[इति] @[एतेर्नित्यम्]) (Kau.) seems to apply in the present case and by dropping the final @[ः] we get the form @[से].
 
 The neu. @[prare] (@[prayaḥ yasmin tat]) changed to @[prara] (by @[eṅaḥ padāntāt] VI. 1. 93.) should be declined like @[vāri] except before the consonantal terminations, when it should be declined like @[dhi].
 
 N. & V. @[prara] @[praraṇī] @[praraṇi]
+
 ### I. @[praraṇā] @[prarabhyām] @[prarabhiḥ] &c.
 
 Words ending in @[go] and @[glo]
 
 #### § 86. Vṛddhi (@[ā]) is substituted for the @[o] of words ending
-in @[go] in the first five inflections except the Acc. sing.; @[ām] is substituted for @[aḥ] in the Acc. sing. and plural.* Nouns ending in @[glo] are regularly declined.
+
+in @[go] in the first five inflections except the Acc. sing.; @[ām] is substituted for @[aḥ] in the Acc. sing. and plural.\* Nouns ending in @[glo] are regularly declined.
 
 @[go] mas. fem. @[glo] mas.
 a bull or a cow. the moon.
 
 N. & V. @[gauḥ] @[gāvau] @[gāvaḥ] N. & V. @[glauḥ] @[glāvau] @[glāvaḥ] A. @[gām] @[gāvau] @[gāḥ] A. @[glām] @[glāvau] @[glāḥ]
+
 ### I. @[gavā] @[gobhyām] @[gobhiḥ] I. @[glovā] @[globhyām] @[globhiḥ]
+
 @:
 D. gave gobhyām gobhyaḥ D. glove globhyām globhyaḥ
 Ab. goḥ gobhyām gobhyaḥ Ab. gloḥ globhyām globhyaḥ
@@ -1392,12 +1527,14 @@ Decline similarly @[dyo] Decline similarly @[rai], a donor,
 (@[dyauḥ ūrdhvaḥ śaṅkatulyaḥ yena]) and @[yo] @[rai] (masc. @[raiyaḥ yadu- i.e. the sky. The neu. @[rayo] yasyāṃ]). The neu. @[rayo] (@[rayodha- (@[rayo rayaḥ yasmin tat]) nau yasyāṃ]). changed to @[raya] should changed to @[raya] should be be declined like @[prara].
 declined like @[vāri].
 
-* @[go] to @[gauḥ] VI. 1. 87. @[oḥ] to @[ām] VI. 1. 90. VI. 1. 93.
+- @[go] to @[gauḥ] VI. 1. 87. @[oḥ] to @[ām] VI. 1. 90. VI. 1. 93.
 
 ## SECTION II.
+
 Bases Ending in Consonants.
 
 #### § 87. Bases ending in any of the first four letters of a class,
+
 and in @[k], @[ṭ], @[t], @[p], @[ś], @[ṣ] and @[s]. The declension of these bases consists, for the most part, in adding the general case terminations and observing the rules of @[sandhi].
 
 #### § 88. Bases ending @[l], @[r] and @[n].
@@ -1411,7 +1548,9 @@ and in @[k], @[ṭ], @[t], @[p], @[ś], @[ṣ] and @[s]. The declension of these
 Mas. and Fem.
 
 N. & V. @[kamalaḥ] @[kamalau] @[kamalāḥ] A. @[kamalam] @[kamalau] @[kamalān]
+
 ### I. @[kamalena] @[kamalābhyām] @[kamalaiḥ]
+
 D. @[kamalāya] @[kamalābhyām] @[kamalābhyaḥ] Ab. @[kamalāt] @[kamalābhyām] @[kamalābhyaḥ]
 G. @[kamalasya] @[kamalayor] @[kamalānām] L. @[kamale] @[kamalayor] @[kamaleṣu]
 
@@ -1425,7 +1564,7 @@ N. V. & A. @[kamalam] @[kamale] @[kamalāni]
 
 The rest like the mas.
 
-* See § 91 c.
+- See § 91 c.
 
 #### § 89-92 ]: DECLENSION. 55
 
@@ -1434,7 +1573,9 @@ Decline similarly @[gau], @[etad] and other words ending in @[aṇ] or @[al].
 @[vāri] n. water.
 
 N. @[vāri vāriṇī vārīṇi]
+
 ### I. @[vāriṇā vāribhyām vāribhiḥ]
+
 D. @[vāriṇe vāribhyām vāribhyaḥ]
 
 #### § 90. Bases ending in @[k], @[kh], @[g], @[gh], @[ṅ], @[c], @[ch], @[j], @[jh], @[ñ], @[ṭ], @[ṭh], @[ḍ], @[ḍh], @[ṇ], @[t], @[th], @[d], @[dh], @[n], @[p], @[ph], @[b], @[bh], @[m], @[y], and @[r], @[l], @[v].
@@ -1477,8 +1618,8 @@ The rest like the mas. So @[cecchidit] N. V. A. pl. &c.
 
 (c) But the @[j] of the root-nouns @[dhvan], @[kṛṣ], @[tviṣ] and @[sṛj] is changed to @[ṭ] as also the @[j] of @[dhṛṣ], 'a bold or impudent man' and the @[j] of such words as @[vivrāj] & @[suvrāj]. The @[j] of @[nij] is optionally changed to @[ṭ] or @[ṭ], as also the @[j] of @[tyaj] and @[srij]. The @[j] of @[ṛtvij] is changed to @[k].
 
-* @[coḥ kuḥ]. Sū. VIII, 2. 30. † @[vyoḥ śṛrājasnaṣrāyiyajārājabhṛjāṃ coḥ śaḥ].
-@[Sū]. VIII, 2. 36.
+- @[coḥ kuḥ]. Sū. VIII, 2. 30. † @[vyoḥ śṛrājasnaṣrāyiyajārājabhṛjāṃ coḥ śaḥ].
+  @[Sū]. VIII, 2. 36.
 
 @[§] 94-97] DECLENSION. 57
 
@@ -1486,7 +1627,7 @@ The rest like the mas. So @[cecchidit] N. V. A. pl. &c.
 
 (e) Before vowel terminations final @[क्] may optionally be changed to @[ग्].
 
-@[§] 95. (a) @[स्] is changed to @[ष्] when at the end of a @[pada] or when followed by a consonant except a nasal or a semi-vowel. (b) In the case of roots beginning with @[ऋ] it is changed to @[र्] under the same circumstances; (c) when forming part of the roots @[द्विष्], @[द्वेष्], @[द्रुह्] and @[दुह्], it is optionally changed to @[ढ्] i. e. to @[ड्] or @[ढ्]; (d) and in the case of the root @[नह्] it is changed to @[ध्] under the above-mentioned circumstances.*
+@[§] 95. (a) @[स्] is changed to @[ष्] when at the end of a @[pada] or when followed by a consonant except a nasal or a semi-vowel. (b) In the case of roots beginning with @[ऋ] it is changed to @[र्] under the same circumstances; (c) when forming part of the roots @[द्विष्], @[द्वेष्], @[द्रुह्] and @[दुह्], it is optionally changed to @[ढ्] i. e. to @[ड्] or @[ढ्]; (d) and in the case of the root @[नह्] it is changed to @[ध्] under the above-mentioned circumstances.\*
 
 (e) The @[ह्] of @[उष्णिह्] = a kind of metre is changed to @[क्] when followed by a hard consonant or by nothing, and to @[ग्] before a soft consonant (Pāṇ. III. 2. 59).
 
@@ -1508,7 +1649,7 @@ D. @[वाचे] " @[वाग्भ्यः] D. @[राजे] " @[रा�
 
 Ab. @[वाचः] " " Ab. @[राजः] " "
 
-* @[स्तोः श्चुना श्चुः । षा रुषसृक्षुसृञ्छुहाम् । नहे धः] । Sid. Kau. VII. 2. 31-34.
+- @[स्तोः श्चुना श्चुः । षा रुषसृक्षुसृञ्छुहाम् । नहे धः] । Sid. Kau. VII. 2. 31-34.
 
 † @[ञ्चौ बको यण् कवर्गस्य वा] Sid. Kau. VIII. 2. 37.
 
@@ -1516,7 +1657,7 @@ G. @[वाचः] @[वाचोः] @[वाचाम्] G. @[राजः] @
 
 L. @[वाचि] " @[वाक्षु] L. @[राजि] @[राजोः] @[राट्-ड्त्सु]
 
-Decline similarly @[पयोधुच्], @[ऋत्विज्], Decline similarly @[सुभृज्], @[आनुषज्], @[उदञ्च्], @[उषः], @[ऋज्], @[ऋभुक्ष्], @[भिषज्], @[भुरिज्], @[भृज्], @[रज्], @[विराज्], @[शमीरुज्], @[सभाज्], @[खज्], @[सुधृज्], @[भिभ्राज्],* @[समुद्भिज्], @[परिव्राज्], @[प्रतिसूर्य्], @[देवयज्], @[विभ्राज्] and words ending in @[ज्]. Root and words ending in @[श्] and @[ष्]. nouns in @[ग्], @[घ्], @[द्], @[ध्], @[ब्], @[भ्], @[विश्], @[निश्], @[दिश्], @[द्विष्], @[पुष्], the sun, @[विष्], @[वेश्], @[द्वेष्], @[विदुष्], @[विश्], and words ending in @[श्] and @[ष्].
+Decline similarly @[पयोधुच्], @[ऋत्विज्], Decline similarly @[सुभृज्], @[आनुषज्], @[उदञ्च्], @[उषः], @[ऋज्], @[ऋभुक्ष्], @[भिषज्], @[भुरिज्], @[भृज्], @[रज्], @[विराज्], @[शमीरुज्], @[सभाज्], @[खज्], @[सुधृज्], @[भिभ्राज्],\* @[समुद्भिज्], @[परिव्राज्], @[प्रतिसूर्य्], @[देवयज्], @[विभ्राज्] and words ending in @[ज्]. Root and words ending in @[श्] and @[ष्]. nouns in @[ग्], @[घ्], @[द्], @[ध्], @[ब्], @[भ्], @[विश्], @[निश्], @[दिश्], @[द्विष्], @[पुष्], the sun, @[विष्], @[वेश्], @[द्वेष्], @[विदुष्], @[विश्], and words ending in @[श्] and @[ष्].
 
 E. g.
 
@@ -1544,7 +1685,7 @@ N. Sing. N. dual I. dual. Loc. plu.
 
 @[विश्वसृज्] @[विश्वसृजौ] @[विश्वसृजो] @[विश्वसृड्भ्याम्] @[विश्वसृट्सु]
 
-* @[भ्राज्] derived from @[भञ्] mentioned along with @[अञ्] &c. @[अञो रतनभ्रजृभातुदिमाकरिति वस्य कुत्वमव] । Sid. Kau. The other @[भ्राज्], is derived from @[भर्ज्] mentioned in the @[कणाहि] group.
+- @[भ्राज्] derived from @[भञ्] mentioned along with @[अञ्] &c. @[अञो रतनभ्रजृभातुदिमाकरिति वस्य कुत्वमव] । Sid. Kau. The other @[भ्राज्], is derived from @[भर्ज्] mentioned in the @[कणाहि] group.
 
 † Hereafter only the first letter will be given, the third letter should always be supposed to be understood.
 
@@ -1636,7 +1777,7 @@ L. @[विश्वराजि] @[विश्वराजोः] @[विश�
 
 #### § 100. The @[अ] of root-nouns ending in @[वाह्] is changed to @[ओ] before the vowel terminations beginning with the Acc. s.; e.g. @[विश्ववाह] m. the sustainer of the universe, a lord:—
 
-* @[Pāṇ]. VIII. 3. 56.
+- @[Pāṇ]. VIII. 3. 56.
 
 † @[विश्वस्य राजतौ] | Pāṇ. VI. 3. 128.
 
@@ -1719,7 +1860,9 @@ Bases derived from the root @[añc] 'to go' to worship.
 @[prāñc] mas.
 
 N. V. @[prāṅ] @[prāñcau] @[prāñcaḥ] A. @[prāñcam] " "
+
 ### I. @[prācā] @[prāgbhyām] @[prāgbhiḥ]
+
 D. @[prāce] " @[prāgbhyaḥ]
 Ab. @[prācaḥ] " "
 G. " @[prācoḥ] @[prācām]
@@ -1728,7 +1871,9 @@ L. @[prāci] " @[prākṣu]
 @[pratyañc] mas.
 
 N. V. @[pratyaṅ] @[pratyañcau] @[pratyañcaḥ] A. @[pratyañcam] " @[pratīcaḥ]
+
 ### I. @[pratīcā] @[pratyagbhyām] @[pratyagbhiḥ]
+
 D. @[pratīce] " @[pratyagbhyaḥ] Ab. @[pratīcaḥ] " "
 G. " @[pratīcoḥ] @[pratīcām]
 L. @[pratīci] " @[pratīkṣu]
@@ -1736,7 +1881,9 @@ L. @[pratīci] " @[pratīkṣu]
 @[tiryañc] mas.
 
 N. @[tiryaṅ] " @[tirañcaḥ]
+
 ### I. @[tiryacā] @[tiryagbhyām] @[tiryagbhiḥ]
+
 L. @[tiryaci] @[tirañcoḥ] @[tiryakṣu]
 
 The forms of the rest should be similarly made up; e. g.
@@ -1790,14 +1937,18 @@ The rest like the mas.
 
 @[त]. @[ए]. we @[सतः] @[स्याः]
 A. @[सतम्] @[सतो] @[सतः]
+
 ### I. @[सता] @[सद्भ्याम्] @[सद्भिः]
+
 D. @[सते] @[सद्भ्याम्] @[सद्भ्यः] &c., &c.
 L. @[सति] @[सतोः] @[सत्सु] or @[सद्भ्यः]
 
 @[तिर्यञ्च्] m.
 
 N.V. @[तिर्यङ्] @[तिर्यञ्चौ] @[तिर्यञ्चः] A. @[तिर्यञ्चम्] " "
+
 ### I. @[तिर्यचा] @[तिर्यग्भ्याम्] @[तिर्यग्भिः]
+
 &c., &c.
 L. @[तिर्यचि] @[तिर्यञ्चोः] @[तिर्यक्षु] or @[तिर्यग्भ्यः]
 
@@ -1830,14 +1981,16 @@ The rest like the mas.
 
 Neu.
 
-N.V.A. @[ऊर्क्] - " "; *the rest like the mas.
+N.V.A. @[ऊर्क्] - " "; \*the rest like the mas.
 
-* @[विभज— विभक्‌] or @[विभजि] or @[विभक्तिषु] or @[विभक्षु]
+- @[विभज— विभक्‌] or @[विभजि] or @[विभक्तिषु] or @[विभक्षु]
 
 #### § 107. Nouns ending in @[स्]. There are a few nouns derived from the roots ending in @[म्]. They have no other peculiarity than this, that they change their @[म्] to @[न्] before consonantal terminations, e. g. @[प्रशाम्] m. = one who is tranquil.
 
 N. @[प्रशान्] @[प्रशान्तौ] @[प्रशान्तः] A. @[प्रशान्तम्] " "
-### I. @[प्रशान्ता]     @[प्रशान्भ्याम्]     @[प्रशान्भिः]
+
+### I. @[प्रशान्ता] @[प्रशान्भ्याम्] @[प्रशान्भिः]
+
 L. @[प्रशान्ति] @[प्रशान्तोः] @[प्रशान्सु] or @[प्रशांसु]
 
 Neu.
@@ -1853,10 +2006,12 @@ Bases ending in @[स्]:—
 @[चन्द्रमस्] m. the moon.
 
 N. @[चन्द्रमाः] @[चन्द्रमसो] @[चन्द्रमसः]
-### V. @[चन्द्रमस्]     @[चन्द्रमसौ]     "
+
+### V. @[चन्द्रमस्] @[चन्द्रमसौ] "
+
 A. @[चन्द्रमसम्] @[चन्द्रमसो] @[चन्द्रमसः]
 
-* @[नूर्जाम्] @[नूर्जः] | Sid. Kau. @[ऊर्जः] @[तुप्रतिषेधः] ॥ @[अन्ता] @[वा] Vārt.
+- @[नूर्जाम्] @[नूर्जः] | Sid. Kau. @[ऊर्जः] @[तुप्रतिषेधः] ॥ @[अन्ता] @[वा] Vārt.
 
 † @[अत्वसन्तस्य] @[चाधातोः] | Pāṇ. VI. 4. 14. The penultimate vowel of nouns ending in @[मत्] or @[वत्] and in @[अस्] not belonging to a root is lengthened when followed by @[सु] (@[स्]) not belonging to the Vocative
 
@@ -1897,18 +2052,23 @@ The rest like @[चन्द्रमस्]. The rest like @[मनस्].
 Decline similarly @[पिशङ्गवस्] @[पिण्डवस्] &c.
 
 #### § 109. The Nom. sing. of @[अनेहस्] time, @[पुरुहूतस्] name of
+
 Indra, and @[उशनस्] name of Śukrāchārya is @[अनेहा], @[पुरुहूता] and @[उशना] respectively; the Voc. sing. of @[उशनस्] is @[उशनस्], @[उशनन्] and @[उशनः]; the other forms are regular.
 
 #### § 110. To feminine nouns ending in @[स्] simply add the
+
 terminations.
 
 @[भास्] splendour.
 
 N. @[भाः] @[भासौ] @[भासः]
+
 ### I. @[भासा] @[भाभ्याम्] @[भाभिः]
+
 L. @[भासि] @[भासोः] @[भास्सु]
 
 #### § 111. Obs. The @[स्] of @[उक्थशास्] uttering hymns, becomes
+
 @[श्] before the consonantal terminations, except that of the Nom.
 sing, e.g. Nom. @[उक्थशाः] sing. @[उक्थशासौ] dual.; Instr. sing.
 @[उक्थशासा]; dual @[उक्थशोभ्याम्]; Loc. plu. @[उक्थशःसु].
@@ -1916,6 +2076,7 @@ sing, e.g. Nom. @[उक्थशाः] sing. @[उक्थशासौ] dual.
 Irregular bases.
 
 #### § 112. @[पतस्] that falls, @[ध्वसत्] a destroyer, @[उद्भिस्] one who kills
+
 well, @[जिघांसुस्] desirous of killing. The first two change their @[स्] to @[त्] before consonantal terminations while the last two change their @[स्] to @[ष्] under the same circumstances, the preceding nasal being dropped.
 
 Mas.
@@ -2006,7 +2167,7 @@ The remaining forms like those of the mas. or fem.
 
 Nouns ending in @[at], @[mat], and @[vat]:—
 
-#### § 115. @[a] is lengthened in the Nom. sing.*, and @[n] is inserted between @[a] and the final @[t] in the first five inflections. The final @[t] is dropped in the Nom. sing.; the @[a] of @[mat] is lengthened before this @[n] except in the Voc. sing.
+#### § 115. @[a] is lengthened in the Nom. sing.\*, and @[n] is inserted between @[a] and the final @[t] in the first five inflections. The final @[t] is dropped in the Nom. sing.; the @[a] of @[mat] is lengthened before this @[n] except in the Voc. sing.
 
 @[śrīmat] mas. talented.
 
@@ -2016,7 +2177,7 @@ N. @[śrīmān] @[śrīmantau] @[śrīmantaḥ]
 
 A. @[śrīmantam] @[śrīmantau] @[śrīmataḥ]
 
-* See ft. note p. 66.
+- See ft. note p. 66.
 
 @[धीमता] @[धीमद्भ्याम्‌] @[धीमद्भिः] @[धीमते] @[धीमद्भ्याम्‌] @[धीमद्भ्यः]
 @[धीमतः] @[धीमद्भ्याम्‌] @[धीमद्भ्यः] @[धीमतः] @[धीमतोः] @[धीमताम्‌]
@@ -2032,7 +2193,9 @@ Decline similarly @[गोमत्‌] having cows, @[धनमत्‌], @[�
 
 @[महत्‌] mas. great.
 N. @[महान्‌] @[महान्तौ] @[महान्तः]
+
 ### V. @[महन्‌] " "
+
 A. @[महान्तम्‌] @[महान्तौ] @[महतः]
 
 The rest like @[धीमत्‌].
@@ -2105,9 +2268,13 @@ Nouns ending in @[an].
 @[brahman] mas. the creator.
 
 N. @[brahmā] @[brahmāṇau] @[brahmāṇaḥ]
+
 ### V. @[brahman] " "
+
 A. @[brahmāṇam] @[brahmāṇau] @[brahmāṇaḥ]
+
 ### I. @[brahmaṇā] @[brahmabhyām] @[brahmabhiḥ]
+
 D. @[brahmaṇe] @[brahmabhyām] @[brahmabhyaḥ] Ab. @[brahmaṇaḥ] " "
 G. " @[brahmaṇoḥ] @[brahmāṇām]
 L. @[brahmaṇi] " @[brahmasū]
@@ -2117,10 +2284,13 @@ Decline similarly @[ātman] the self, @[yajvan] a sacrificer, @[śvan] a dog, @[
 @[rājan] mas. a king.
 
 N. @[rājā] @[rājānau] @[rājānaḥ]
+
 ### V. @[rājan] " "
 
 A. @[rājānam] @[rājānau] @[rājñaḥ]
+
 ### I. @[rājñā] @[rājabhyām] @[rājabhiḥ]
+
 D. @[rājñe] " @[rājabhyaḥ]
 Ab. @[rājñaḥ] " "
 G. " @[rājñoḥ] @[rājñām]
@@ -2146,6 +2316,7 @@ pratidivan pratidīvā pratidīnaḥ pratidīni-pratidivani
 neu.
 
 N.V. @[brahma] @[brahmaṇī] @[brahmāṇi]
+
 ### V. @[brahman] " "
 
 The rest like the mas.
@@ -2256,25 +2427,33 @@ G. " @[śvunoḥ] @[śvunām]
 
 L. @[śvuni] @[śvabhyām] @[śvasu]
 
-* @[ā yuvamghonāmani na didhīte] Pāṇ. VI. 4, 133.
+- @[ā yuvamghonāmani na didhīte] Pāṇ. VI. 4, 133.
 
 #### § 119-120 117
 
 @[bhavant] etc.
 
 N. @[maghavān] @[maghavānau] @[maghavānaḥ]
+
 ### V. @[maghavan] " "
+
 A. @[maghavānam] " @[maghavataḥ]
+
 ### I. @[maghavatā] @[maghavadbhyām] @[maghavadbhiḥ]
+
 &c. &c.
 L. @[maghavati] @[maghavatoḥ] @[maghavatsu]
 
 @[yuvan].
 
 N. @[yuvā] @[yuvānau] @[yuvānaḥ]
+
 ### V. @[yuvan] " "
+
 A. @[yuvānam] " @[yuvataḥ]
+
 ### I. @[yuvatā] @[yuvabhyām] @[yuvabhiḥ]
+
 &c. &c.
 L. @[yuvati] @[yuvanoḥ] @[yuvasu]
 
@@ -2289,12 +2468,14 @@ The rest like the mas.
 #### § 120. @[ahan] n. meaning 'a day' changes its final to @[as] (and finally to @[visarga]) when followed by consonantal terminations or by nothing; in other cases it is declined like @[rājan].
 
 N.V.A. @[ahaḥ] @[ahnī] @[ahāni]
+
 ### I. @[ahnā] @[ahobhyām] @[ahobhiḥ]
+
 D. @[ahne] " @[ahobhyaḥ]
 Ab. @[ahnaḥ] " "
 G. @[ahnaḥ] @[ahnoḥ] @[ahnām]
 
-* Also the optional forms in @[nau] in the Voc. sing.
+- Also the optional forms in @[nau] in the Voc. sing.
 
 ---
 
@@ -2302,10 +2483,14 @@ L. @[ahni-ahani] " @[ahassu]
 
 Obs:—@[dīrghāhan] when mas. is declined like @[rājan] when it takes the consonantal terminations and like @[rājānam] when it takes the vowel terminations; when neu. it is declined like @[ahan].
 
-N. @[dīrghāhāḥ] @[dīrghāhāṇau]* @[dīrghāhāṇaḥ]
+N. @[dīrghāhāḥ] @[dīrghāhāṇau]\* @[dīrghāhāṇaḥ]
+
 ### V. @[dīrghāhaḥ] " "
+
 A. @[dīrghāhāṇam] " @[dīrghāhṇaḥ]
+
 ### I. @[dīrghāhṇā] @[dīrghāhabhyām] @[dīrghāhobhiḥ]
+
 Ab. @[dīrghāhṇaḥ] " "
 G. @[dīrghāhṇaḥ] @[dīrghāhṇoḥ] @[dīrghāhṇām] L. @[dīrghāhṇi] " @[dīrghāhassu]
 
@@ -2321,13 +2506,17 @@ The rest like the mas.
 
 #### § 122. Words ending in @[in]—
 
-*The @[nau] may be optionally retained (@[dīrghāhāṇau] &c.) by Pāṇ. VIII. 4. 11.
+\*The @[nau] may be optionally retained (@[dīrghāhāṇau] &c.) by Pāṇ. VIII. 4. 11.
 
 @[करिन्] mas. an elephant
 N. @[करी] @[करिणौ] @[करिणः]
+
 ### V. @[करिन्] " "
+
 A. @[करिणम्] " "
+
 ### I. @[करिणा] @[करिभ्याम्] @[करिभिः]
+
 D. @[करिणे] " @[करिभ्यः]
 Ab. @[करिणः] " "
 G. " @[करिण्योः] @[करिणाम्]
@@ -2337,6 +2526,7 @@ Decline similarly @[चन्द्रिन्] the moon, @[दण्डिन�
 
 @[दण्डिन्] neu.
 N.A. @[दण्डि] @[दण्डिनी] @[दण्डीनि]
+
 ### V. @[दण्डिन्] " "
 
 The rest like the mas. Decline similarly @[वाचस्] n., @[वाग्मिन्] n., eloquent, @[मेधाविन्] n. &c.
@@ -2347,10 +2537,12 @@ Irregular Bases.
 
 @[पथिन्]
 N. @[पन्थाः] @[पन्थानौ] @[पन्थानः] A. @[पन्थानम्] " @[पथः]
+
 ### I. @[पथा] @[पथिभ्याम्] @[पथिभिः]
+
 D. @[पथे] " @[पथिभ्यः]
 
-* @[पथिमन्थ्यृभुक्षाम्मान्] । P.VI.1. 85. । @[मनोऽन्यः] । @[ऋभ्वन्तात्] । P.VI.1.74.
+- @[पथिमन्थ्यृभुक्षाम्मान्] । P.VI.1. 85. । @[मनोऽन्यः] । @[ऋभ्वन्तात्] । P.VI.1.74.
 
 Ab. @[पथः] @[पथिभ्याम्] @[पथिभ्यः] G. @[पथः] @[पथोः] @[पथाम्]
 L. @[पथि] " @[पथिषु]
@@ -2363,9 +2555,13 @@ Bases ending in @[वत्] or @[वस्]—
 
 @[विद्वस्] m. a learned man.
 N. @[विद्वान्] @[विद्वांसौ] @[विद्वांसः]
+
 ### V. @[विद्वन्] " "
+
 A. @[विद्वांसम्] " @[विदुषः]
+
 ### I. @[विदुषा] @[विद्वद्भ्याम्] @[विद्वद्भिः]
+
 D. @[विदुषे] " @[विद्वद्भ्यः]
 Ab. @[विदुषः] " "
 G. " @[विदुषोः] @[विदुषाम्]
@@ -2414,7 +2610,7 @@ H. S. G. 6
 
 ## WORDS OF IRREGULAR DECLENSION.
 
-#### § 126. @[asthi] n. a bone, @[dadhi] n. curds, @[sakthi] n. a thigh and @[akṣi] n. an eye, become @[asthan], @[dadhan], @[sakthan], and @[akṣan] respectively before the vowel terminations beginning with the I. sing.* and then they follow the declension of nouns in @[an]; in other respects they are declined like @[vāri].
+#### § 126. @[asthi] n. a bone, @[dadhi] n. curds, @[sakthi] n. a thigh and @[akṣi] n. an eye, become @[asthan], @[dadhan], @[sakthan], and @[akṣan] respectively before the vowel terminations beginning with the I. sing.\* and then they follow the declension of nouns in @[an]; in other respects they are declined like @[vāri].
 
 @[asthi]
 
@@ -2458,14 +2654,16 @@ G. " " "
 
 L. @[jarāyām], @[jarasi] " @[jarāsu]
 
-*@[asthidadhisakthnpadebhyo'nanṅ kācaḥ]. VII. 1. 75.
+\*@[asthidadhisakthnpadebhyo'nanṅ kācaḥ]. VII. 1. 75.
 
 G. @[जरायाः], @[जरसः] = Ab. @[जरसोः] Att. @[जरसाभ्याम्] L. @[जरायाम्], @[जरसि] " @[जरासु]
 
 Decline @[निर्जर] &c. like @[राम] and @[चन्द्रमस्]—
 
 N. @[निर्जरः] @[निर्जरौ]-@[निर्जरसौ] @[निर्जराः]-@[निर्जरसः] A. @[निर्जरम्]-@[निर्जरसम्] " @[निर्जरान्]-@[निर्जरसः]
+
 ### I. @[निर्जरेण]-@[निर्जरसा] @[निर्जराभ्याम्] @[निर्जरैः]-@[निर्जरसैः]
+
 D. @[निर्जराय]-@[निर्जरसे] @[निर्जराभ्याम्] @[निर्जरेभ्यः]-@[निर्जरसेभ्यः] Ab. @[निर्जरात्]-@[निर्जरसः] @[निर्जराभ्याम्] @[निर्जरेभ्यः]-@[निर्जरसेभ्यः]
 G. @[निर्जरस्य]-@[निर्जरसः] @[निर्जरयोः]-@[निर्जरसोः] @[निर्जराणाम्]-@[निर्जरसाम्] L. @[निर्जरे]-@[निर्जरसि] " @[निर्जरेषु]-@[निर्जरसु]
 
@@ -2474,23 +2672,29 @@ G. @[निर्जरस्य]-@[निर्जरसः] @[निर्ज�
 @[अजर] n.
 
 N. @[अजरम्] @[अजरे]-@[अजरसी] @[अजराणि], @[अजरांसि]
+
 ### V. @[अजर] " "
+
 A. " " "
 
 The rest like the mas.
 
-#### § 129. The words @[पाद्], @[दन्त], @[नासिका], @[मास], @[हृदय], @[निशा], @[अस्], @[खर्ज], @[दास्], @[यक्], @[शक], @[उदक], @[आस्य], @[मांस], @[पूषन्], and @[सानु] * optionally assume the forms @[पद्], @[दत्], @[नस्], @[मास्], @[हद्], @[निश्], @[असन्], @[खर्जन्], @[दोषन्], @[यकन्], @[शकन्], @[उदन्], @[आसन्], @[मंसन्], @[पुंसन्], and @[स्नु] before all terminations beginning with the Acc. plu.
+#### § 129. The words @[पाद्], @[दन्त], @[नासिका], @[मास], @[हृदय], @[निशा], @[अस्], @[खर्ज], @[दास्], @[यक्], @[शक], @[उदक], @[आस्य], @[मांस], @[पूषन्], and @[सानु] \* optionally assume the forms @[पद्], @[दत्], @[नस्], @[मास्], @[हद्], @[निश्], @[असन्], @[खर्जन्], @[दोषन्], @[यकन्], @[शकन्], @[उदन्], @[आसन्], @[मंसन्], @[पुंसन्], and @[स्नु] before all terminations beginning with the Acc. plu.
 
 @[दोस्] m. an arm.
 
 N. @[दोः] @[दोषौ] @[दोषः]
+
 ### V. @[दोः] " @[दोषः]-@[दोसः]
+
 A. @[दोषम्]-@[दोसम्] " @[दोषान्]-@[दोसः]
+
 ### I. @[दोषा]-@[दोसा] @[दोर्भ्याम्]-@[दोभ्याम्] @[दोर्भिः]-@[दोभिः]
+
 D. @[दोषे]-@[दोसे] @[दोर्भ्याम्]-@[दोभ्याम्] @[दोर्भ्यः]-@[दोभ्यः] Ab. @[दोषः]-@[दोसः] " "
 G. " @[दोषोः]-@[दोसोः] @[दोषाम्]-@[दोसाम्] L. @[दोषि]-@[दोसि]-@[दशि] " @[दोःषु]-@[दोषु]-@[दोसु]
 
-* @[पादमासहृदयासनदोषन्यकशकनुदन्नासमांस] VI. 1. 63.
+- @[पादमासहृदयासनदोषन्यकशकनुदन्नासमांस] VI. 1. 63.
 
 † @[मांसपूषननासानां मासहृदसनो वात्स्याः] |
 
@@ -2503,18 +2707,26 @@ The rest like mas.
 @[निशा] f. night.
 
 N. @[निशा] @[निशे] @[निशाः]
+
 ### V. @[निशे] " "
+
 A. @[निशाम्] " @[निशाः]-@[निशः]
+
 ### I. @[निशया]-@[निशा] @[निशाभ्याम्], @[निद्भ्याम्]-@[निग्भ्याम्] @[निशाभिः], @[निद्भिः]-@[निग्भिः]
+
 D. @[निशायै]-@[निशे] @[निशाभ्याम्], @[निद्भ्याम्]-@[निग्भ्याम्] @[निशाभ्यः], @[निद्भ्यः]-@[निग्भ्यः] Ab. @[निशायाः]-@[निशः] " "
 G. " @[निशयोः]-@[निशोः] @[निशानाम्]-@[निशाम्] L. @[निशायाम्]-@[निशि] " @[निशासु], @[निट्सु], @[निक्षु]-@[निग्सु]
 
 @[सानु] Neu. a summit, a table-land.
 
 N. @[सानु] @[सानुनी] @[सान्वानि]
+
 ### V. @[सानु]-@[सानो] " "
+
 A. @[सानु] " @[सानूनि]-@[स्नूनि]
+
 ### I. @[सानुना]-@[स्नुना] @[सानुभ्याम्]-@[स्नुभ्याम्] @[सानुभिः]-@[स्नुभिः]
+
 D. @[सानुने]-@[स्नुने] @[सानुभ्याम्]-@[स्नुभ्याम्] @[सानुभ्यः]-@[स्नुभ्यः] Ab. @[सानुनः]-@[स्नुनः] " "
 G. " @[सानुनोः]-@[स्नुनोः] @[सानूनाम्]-@[स्नूनाम्] L. @[सानुनि], @[सानौ] " @[सानुषु]-@[स्नुषु]
 
@@ -2525,9 +2737,13 @@ The remaining words should be declined according to the declensions which their 
 @[पाद्] m. a foot.
 
 N. @[पादः] @[पादौ] @[पादाः]
+
 ### V. @[पाद] " "
+
 A. @[पादम्] " @[पादान्]-@[पदः]
+
 ### I. @[पादेन]-@[पदा] @[पादाभ्याम्]-@[पद्भ्याम्] @[पादैः]-@[पद्भिः]
+
 L. @[पादे]-@[पदि] @[पादयोः]-@[पदोः] @[पादेषु]-@[पत्सु]
 
 दन्त m. a tooth,
@@ -2724,9 +2940,9 @@ L. @[पृतनायाम्‌], @[पृतनान्‌] @[पृतन
 
 #### § 130. The following suffixes are sometimes added to nominal bases to express the meanings of cases.
 
-(a) The suffix @[तस्‌] added to the base of a noun gives it the sense of the Ab.*; as @[प्रमादतः], 'from carelessness', @[वस्तुतः] 'from the real state of the thing, in reality', @[ज्ञानतः] 'from knowledge', @[अत्र] &c.
+(a) The suffix @[तस्‌] added to the base of a noun gives it the sense of the Ab.\*; as @[प्रमादतः], 'from carelessness', @[वस्तुतः] 'from the real state of the thing, in reality', @[ज्ञानतः] 'from knowledge', @[अत्र] &c.
 
-(b) The suffix @[त्र] is used to denote the meaning of the Loc.* case, and is generally added to pronominal adjectives; as @[अत्र] 'in that place, there'; @[सर्वत्र] 'in every place, everywhere', &c.
+(b) The suffix @[त्र] is used to denote the meaning of the Loc.\* case, and is generally added to pronominal adjectives; as @[अत्र] 'in that place, there'; @[सर्वत्र] 'in every place, everywhere', &c.
 
 #### § 131. A few nouns such as @[पाताल] 'the lowest world', @[स्वर्‌] 'heaven', @[संवत्‌] 'a year of an era', @[अस्तम्‌] 'setting', @[शब्द] 'word', @[धनुस्‌] 'a bow', @[स्वस्ति] 'hail, farewell' &c. are indeclinables.
 
@@ -2736,7 +2952,7 @@ L. @[पृतनायाम्‌], @[पृतनान्‌] @[पृतन
 
 #### § 132. The following 35 words are termed 'Pronouns' in Sanskrit:—@[तद्‌], @[यद्‌], @[एतद्‌], @[इदम्‌], @[अदस्‌], @[एक], @[द्वि], @[युष्मद्‌], @[अस्मद्‌], @[भवत्‌], @[किम्‌], @[उभ], @[उभय], @[इतर], @[अन्यतर] (i. e. the word formed by the addition of the terminations @[अतर] and @[अतम] to the
 
-* @[पञ्चम्यास्तसिल्‌] Pāṇ. V. 4. 42. ** By @[सप्तम्यास्त्रल्‌] Pāṇ. V. 3. 10. @[त्र], @[तस्‌] &c. may stand for all cases except the Nom. (though they may be used for the Nom. also).
+- @[पञ्चम्यास्तसिल्‌] Pāṇ. V. 4. 42. \*\* By @[सप्तम्यास्त्रल्‌] Pāṇ. V. 3. 10. @[त्र], @[तस्‌] &c. may stand for all cases except the Nom. (though they may be used for the Nom. also).
 
 pronouns @[किम्‌], @[यद्‌]; and @[तद्‌] which become @[क], @[य] and @[त] respectively before these; e. g. @[कतर], @[कतम], @[यतर], @[यतम], and @[ततर], @[ततम]) @[अन्य], @[अन्यतर], @[इतर], @[त्वत्‌], @[त्व], @[नेम], @[सम], @[सिम], @[पूर्व], @[पर], @[अवर], @[दक्षिण], @[उत्तर], @[अपर], @[अधर], @[स्व], @[अन्तर्य] @[त्यद्‌], @[तद्‌] @[एतद्‌], @[इदम्‌], @[अदस्‌], @[एक], @[द्वि], @[युष्मद्‌], @[अस्मद्‌], @[भवत्‌] and @[किम्‌].
 
@@ -2778,7 +2994,7 @@ G. @[तव], @[ते] @[युवयोः], @[वाम्‌] @[युष्
 
 L. @[त्वयि] @[युवयोः] @[युष्मासु]
 
-* @[युष्मदस्मदोः षष्ठी चतुर्थी द्वितीयास्त्रयो वा नावौ। द्विवचनस्य वा वसौ। ते मे इत्येकवचनस्य। त्वाम्‌ इति द्विवचनस्य।] Pāṇ. VIII. 1. 20-23.
+- @[युष्मदस्मदोः षष्ठी चतुर्थी द्वितीयास्त्रयो वा नावौ। द्विवचनस्य वा वसौ। ते मे इत्येकवचनस्य। त्वाम्‌ इति द्विवचनस्य।] Pāṇ. VIII. 1. 20-23.
 
 I'll proceed to fix the OCR errors in the provided text. Let me clean this up:
 
@@ -2792,7 +3008,7 @@ Obs.—(b) The shorter forms may be used in a sentence having one verb; शा�
 
 (c) These shorter forms are not also used immediately after the Vocative case except when a qualifying adjective follows it; as देवोत्तमान् (and not नः) पाहि सर्वदा (Sid. Kau.) 'O God! do thou protect us always', but हे दयालो नः पाहि (Sid. Kau.) 'Oh merciful Hari, protect us.'
 
-*पदादौ । अनुदात्तं स्वमपादादौ । Pāṇ. VIII.1. 17. 18. The following couplets illustrate the use of these short forms:—@[svastyastu naḥ] मापीह ते वा मेऽपि शर्म सः । स्वामी ते मेऽपि स हरिः पतिर्वामपि नो हरिः ॥ @[eva] वां नो ददात्वीशः पतिर्वामपि नो हरिः । @[api] एवं नः शिवं वो नो दद्यात्सेव्योऽस्तु वः स नः ॥ Sid. Kaum. † न चवाहाड्येषु युक्ते । Pāṇ. VIII. 1. 24.
+\*पदादौ । अनुदात्तं स्वमपादादौ । Pāṇ. VIII.1. 17. 18. The following couplets illustrate the use of these short forms:—@[svastyastu naḥ] मापीह ते वा मेऽपि शर्म सः । स्वामी ते मेऽपि स हरिः पतिर्वामपि नो हरिः ॥ @[eva] वां नो ददात्वीशः पतिर्वामपि नो हरिः । @[api] एवं नः शिवं वो नो दद्यात्सेव्योऽस्तु वः स नः ॥ Sid. Kaum. † न चवाहाड्येषु युक्ते । Pāṇ. VIII. 1. 24.
 
 ‡ युक्तप्रयोगात्साक्षायोगेऽयं निषेधः । परम्परासम्बन्धे तु आदेशः भवति ॥ Sid. Kau.
 
@@ -2840,7 +3056,7 @@ G. " @[tayoḥ] @[tāsām]
 
 L. @[tasyām] " @[tāsu]
 
-* एते वानावादेशे युष्मदस्मदादेशा वा वक्तव्याः । Vart.
+- एते वानावादेशे युष्मदस्मदादेशा वा वक्तव्याः । Vart.
 
 @[arg] which means the same thing as @[etad], similarly.
 
@@ -2892,7 +3108,7 @@ A. @[etat-enat] @[ete-ene] @[etāni-enāni]
 
 The rest like the mas.
 
-* @[etadidamostadeneṣu] Pan. II. 4. 34. @[ena] is optionally substituted for @[idam] and @[etad] in the Acc. Inst. Sing. and Gen. and Loc. Duals when there is @[anvādeśa] (see § 137).
+- @[etadidamostadeneṣu] Pan. II. 4. 34. @[ena] is optionally substituted for @[idam] and @[etad] in the Acc. Inst. Sing. and Gen. and Loc. Duals when there is @[anvādeśa] (see § 137).
 
 ---
 
@@ -2959,11 +3175,17 @@ L. @[amusmin] " @[amīṣu]
 Fem.
 
 ## N. अमू अमू अमूः
+
 ## A. अमूम् " "
+
 ## I. अमुया अमूभ्याम् अमूभिः
+
 ## D. अमुस्यै " अमूभ्यः
+
 Ab. अमुस्याः " "
+
 ## G. " अमुयोः अमूषाम्
+
 ## L. अमुस्याम् " अमूषु
 
 Neu.
@@ -2978,32 +3200,44 @@ The rest like the mas.
 
 @[idam] is used with reference to a person or thing near at hand, and @[etad] to one nearer still; @[adas] is used of a person or thing at a distance, while @[tad] is used of one that is absent.
 
-#### § 137. The optional forms of @[idam] and @[etad] in the Acc., Inst. Sing. and Gen. & Loc. Duals are to be used when there is @[anvādeśa]*, i. e., their proper forms have already been used in a previous clause; e. g. @[anena vyākaraṇam adhītaṃ enaṃ chando'dhyāpaya] 'he has studied grammar, teach him prosody', @[anayoḥ śuddhaṃ kulaṃ enayoḥ prabhūtaṃ dhanam] 'The family of them both is pure, and their wealth ample.'
+#### § 137. The optional forms of @[idam] and @[etad] in the Acc., Inst. Sing. and Gen. & Loc. Duals are to be used when there is @[anvādeśa]\*, i. e., their proper forms have already been used in a previous clause; e. g. @[anena vyākaraṇam adhītaṃ enaṃ chando'dhyāpaya] 'he has studied grammar, teach him prosody', @[anayoḥ śuddhaṃ kulaṃ enayoḥ prabhūtaṃ dhanam] 'The family of them both is pure, and their wealth ample.'
 
 3—The Relative Pronouns.
 
 #### § 138. The pronouns @[yad] 'who, which'; mas. fem. and neu.; mas. base @[ya], fem. base @[yā].
 
-* @[kiṃcit kāryaṃ vidhātum upāttasya śabdasya punar upādānam anvādeśaḥ] । Sid. Kau.
+- @[kiṃcit kāryaṃ vidhātum upāttasya śabdasya punar upādānam anvādeśaḥ] । Sid. Kau.
 
 @[yad] mas.
 
 ## N. यः यौ ये
+
 ## A. यम् यौ यान्
+
 ## I. येन याभ्याम् यैः
+
 ## D. यस्मै याभ्याम् येभ्यः
+
 Ab. यस्मात् " "
+
 ## G. यस्य ययोः येषाम्
+
 ## L. यस्मिन् " येषु
 
 Fem.
 
 ## N. या ये याः
+
 ## A. याम् " "
+
 ## I. यया याभ्याम् याभिः
+
 ## D. यस्यै " याभ्यः
+
 Ab. यस्याः " "
+
 ## G. " ययोः यासाम्
+
 ## L. यस्याम् " यासु
 
 Neu.
@@ -3019,16 +3253,23 @@ The rest like the mas.
 Mas.
 
 ## N. कः कौ के
+
 ## A. कम् " कान्
+
 ## I. केन काभ्याम् कैः
+
 ## D. कस्मै " केभ्यः
+
 Ab. कस्मात् " "
+
 ## G. कस्य कयोः केषाम्
+
 ## L. कस्मिन् " केषु
 
 Fem.
 
 ## N. का के काः
+
 ## A. काम् " "
 
 @[कया] @[काभ्याम्‌] @[काभिः]
@@ -3043,6 +3284,7 @@ The remaining cases like the mas.
 5—Reflexive Pronouns.
 
 #### § 140. The sense of the reflexive pronoun is, in Sanskrit, expressed by the word @[आत्मन्‌] 'self', which is invariably used in the masculine gender and singular number, and by the reflexive adverb @[स्वयम्‌] e.g. @[ताः सर्वाः स्वप्नेषु वामनैः]
+
 "they all (the wives of Daśaratha) saw in dreams that they were guarded by dwarfs," @[स] or @[सा कृतापराधः] (or @[कृतापराधा]) @[राजा स्वयं क्षमां याचते] or @[जगाम], &c.
 
 6—Indefinite Pronouns.
@@ -3074,7 +3316,6 @@ Sing. Plural.
 @[मदीया] 'my, mine' @[अस्मदीया] 'our, ours' @[मामकी] " @[आस्माकी] " @[मामकीना] " @[आस्माकीना] "
 
 ```markdown
-
 @[yuṣmad]
 
 Mas. fem.
@@ -3099,6 +3340,7 @@ N. B. These are declined like nouns ending in @[a], @[ā] regularly. @[ka] is a 
 10—Pronominal Adjectives.
 
 #### § 147. @[anya] 'another,' @[anyatara] 'either of two,' @[apara] 'other,'
+
 @[ekatama] 'one of many,' @[katara] 'who or which of two,' @[katama] 'who or which of many,' @[yatara] 'who or which of two,' @[yatama] 'who or which of many,' @[tatara] 'that one (of two),' @[tatama] 'that one (of many),' are declined in all the three genders like @[yad]; e. g.
 
 mas.
@@ -3118,6 +3360,7 @@ N. & A. @[katarat] @[katare] @[katarāṇi]
 N. B. @[a] is not a pronoun, as it is not mentioned in the @[sūtra] @[sarvādi] (@[sarva-ādi-nī pratyayāḥ pariṇābhāvāt saṃjñā]. Sid. Kau.). It is, therefore, declined like nouns ending in @[a].
 
 #### § 148. Decline @[sarva], @[viśva], @[ubha] and @[vibha] all having the same
+
 meaning, @[ubhā] (declined in the dual only) and @[ubhaya] (which has no dual according to Kaiyaṭa and other grammarians) both meaning 'both,' @[eka] and @[ekatara] 'one of two,' like @[yad] except in the Nom. and Acc. sing. of the neu. which is formed by adding @[m]; e. g.,
 
 H.S.G. 7
@@ -3127,7 +3370,9 @@ H.S.G. 7
 @[sarva] mas. 'all'
 
 N. @[sarvaḥ] @[sarvau] @[sarve] A. @[sarvam] @[sarvau] @[sarvān]
+
 ### I. @[sarveṇa] @[sarvābhyām] @[sarvaiḥ]
+
 D. @[sarvasmai],, @[sarvebhyaḥ] Ab. @[sarvasmāt],,,,
 G. @[sarvasya] @[sarvayoḥ] @[sarveṣām] L. @[sarvasmin],, @[sarveṣu]
 
@@ -3135,7 +3380,9 @@ Fem.
 
 N. @[sarvā] @[sarve] @[sarvāḥ]
 A. @[sarvām] @[sarve] @[sarvāḥ]
+
 ### I. @[sarvayā] @[sarvābhyām] @[sarvābhiḥ]
+
 D. @[sarvasyai],, @[sarvābhyaḥ] Ab. @[sarvasyāḥ] @[sarvābhyām],,
 G.,, @[sarvayoḥ] @[sarvāsām]
 L. @[sarvasyām],, @[sarvāsu]
@@ -3150,20 +3397,22 @@ The rest like the mas.
 sing., @[samānām] G. plu. as in the Sūtra of Pāṇ. @[yathāsaṃkhyam-anudeśaḥ samānām] || 1. 3. 10.
 
 #### § 149. Obs.:—@[sva] and @[tva] (the 10th and 11th @[sarvādi]s) the one
+
 @[udātta] (udātta), the other @[anudātta] (anudātta), both synonyms of @[anya] are declined like @[yad]. The former is of the form @[svat] regularly by adding
 the terminations; e. g. @[svat] @[svatau] @[svataḥ] Nom. &c.
 
 #### § 150. @[sva] when it does not mean "a class" or "wealth" is
-a pronoun and is declined like @[yad]* m. f. n., but it forms its
 
-* @[svaṃ-jñāti-dhana-artheṣu] | Pāṇ. 1. 1. 35.
+a pronoun and is declined like @[yad]\* m. f. n., but it forms its
+
+- @[svaṃ-jñāti-dhana-artheṣu] | Pāṇ. 1. 1. 35.
 ```
 
 #### § 150-154 } PRONOUNS AND THEIR DECLENSION. 99
 
 Nom. plu. and Ab. and Loc. sing. optionally like @[sarva] when mas.; as @[sve] or @[svāḥ] 'one's own' Nom. plu; but @[svāḥ] 'people of one's class' only (declined like @[sarva])
 
-#### § 151. @[antara] is a pronoun (and therefore declined like @[sarva] m. f.) when it means 'exterior, outer; or what is to be worn out-side, as a garment'* except when followed by @[ca]; it is optionally declined like nouns ending in @[a] in the Nom. pl. and Ab. and Loc. sing. of the mas., e.g. @[antare] @[antarā] @[vā] @[śāṭakāḥ]; @[antare-antarā] @[vā] @[śāṭakāḥ] (garments). But @[antarāyām] only.
+#### § 151. @[antara] is a pronoun (and therefore declined like @[sarva] m. f.) when it means 'exterior, outer; or what is to be worn out-side, as a garment'\* except when followed by @[ca]; it is optionally declined like nouns ending in @[a] in the Nom. pl. and Ab. and Loc. sing. of the mas., e.g. @[antare] @[antarā] @[vā] @[śāṭakāḥ]; @[antare-antarā] @[vā] @[śāṭakāḥ] (garments). But @[antarāyām] only.
 
 #### § 152. @[ardhā] meaning 'half' is a pronoun, but it is optionally declined like @[sarva] in the Nom. plu. mas.; in other respects it is declined like @[sarva].
 
@@ -3174,12 +3423,15 @@ Nom. plu. and Ab. and Loc. sing. optionally like @[sarva] when mas.; as @[sve] o
 @[eka] @[dvi].
 Mas. fem. mas. fem. &c. neu.
 N. @[ekaḥ] @[ekā] @[ekam] @[dvau] @[dve]
+
 ### V. @[eka] @[eke] @[ekam] " "
 
-* @[antaraṃ bahiryogopasaṃkhyānayoḥ] | Pāṇ. 1. 1. 36. @[antaraṃ bahiryoge iti sarvādiprakṛtitve yuṣmadādi ca] | Kāś. ॥ † @[pūrvāparāvaradakṣiṇottarāparādharāṇāṃ vyavasthāyām asaṃjñāyām] | Pāṇ. 1. 1. 34.
+- @[antaraṃ bahiryogopasaṃkhyānayoḥ] | Pāṇ. 1. 1. 36. @[antaraṃ bahiryoge iti sarvādiprakṛtitve yuṣmadādi ca] | Kāś. ॥ † @[pūrvāparāvaradakṣiṇottarāparādharāṇāṃ vyavasthāyām asaṃjñāyām] | Pāṇ. 1. 1. 34.
 
 A. @[ekam] @[ekām] @[ekam] @[dvau] @[dve]
+
 ### I. @[ekena] @[ekayā] @[dvābhyām] The rest like
+
 D. @[ekasmai] @[ekasyai] " the mas.
 Ab. @[ekasmāt] @[ekasyāḥ] "
 G. @[ekasya] " @[dvayoḥ]
@@ -3200,7 +3452,7 @@ II—Pronominal Adverbs.
 
 #### § 157. The pronominal adverbs that are most commonly met with are derived from the pronouns @[tad], @[etad], @[yad], @[idam], @[kim], and @[sarva] and the pronominal adjectives @[eka], @[para] &c. by means of such suffixes as @[tas], @[tra], @[thā], @[thā] &c. added in the sense of the Ab. or the Loc., @[dā], @[dānīm], @[dā] &c. showing time, @[rhil] showing point of time, place or direction, @[ā], @[āt], @[āhi] &c. expressing direction, @[thā], @[vat] &c. expressing way or manner &c.; e.g.
 
-* See § 130.
+- See § 130.
 
 † @[sarvaikānekayostadoḥ kāle dā] | @[idamo rhil] | @[adhunā dānīṃ ca] | @[tadoḥ ṣaṣ] | @[anekayostadarhanilanyatarasyām] | Pāṇ. 5. 3. 15-19. 21.
 
@@ -3258,13 +3510,13 @@ mas. = fem.
 13 १३ @[त्रयोदशन्] @[त्रयोदश], ०@[शी] 14 १४ @[चतुर्दशन्] @[चतुर्दश], ०@[शी]
 15 १५ @[पञ्चदशन्] @[पञ्चदश], ०@[शी] 16 १६ @[षोडशन्] @[षोडश], ०@[शी]
 
-* @[विभाषा द्वन्द्वे] । Pan. 1. 1. 32.
-† The word @[पदम्] also denotes ten. Cf. Rag. IX. 74.
-‡ @[षष्] becomes @[षो] necessarily when followed by @[डश्] (substituted for @[दशन्]) and @[डशानाम्], optionally when followed by @[धा], after which @[ड्] is changed to @[ळ] and @[ध्] to @[ढ]; e.g. @[षोडा] (vide § 169. 8.)
+- @[विभाषा द्वन्द्वे] । Pan. 1. 1. 32.
+  † The word @[पदम्] also denotes ten. Cf. Rag. IX. 74.
+  ‡ @[षष्] becomes @[षो] necessarily when followed by @[डश्] (substituted for @[दशन्]) and @[डशानाम्], optionally when followed by @[धा], after which @[ड्] is changed to @[ळ] and @[ध्] to @[ढ]; e.g. @[षोडा] (vide § 169. 8.)
 
 ---
 
-* @[सर्वादीनि सर्वनामानि] @[न सर्वादयः] । Vart. @[तृतीयासमासे] । @[द्वन्द्वे च] ॥ Pan. 1. 1. 30. 31.
+- @[सर्वादीनि सर्वनामानि] @[न सर्वादयः] । Vart. @[तृतीयासमासे] । @[द्वन्द्वे च] ॥ Pan. 1. 1. 30. 31.
 
 @[saptadaśa] or @[saptadaśan], seventeen
 
@@ -3415,13 +3667,13 @@ ekānnatriṃśat ekānnatriṃśaḥ, ekānnatriṃśī, ekānnatriṃśattama,
 200 २०० @[dviśata] neu. or @[dve śate] 300 ३०० @[triśata] neu. or @[trīṇi śatāni]
 1000 १००० @[sahasra] neu. or @[sahasratama] @[°mī] @[daśaśata] neu. or @[daśaśatī]
 
-10,000 @[ayuta] neu. 100,000 @[lakṣa] neu. or @[lakṣā] f.; @[prayuta] neu. @[koṭi] fem., @[arbuda] neu, @[abja] neu, @[kharva] mas. neu. (@[nikharva] mas. neu. @[mahāpadma] mas., @[śaṅku] mas., @[samudra] mas., @[antya] neu. @[madhya] neu., and @[parārdha] neu. Each of these is ten times as great as the preceding.*
+10,000 @[ayuta] neu. 100,000 @[lakṣa] neu. or @[lakṣā] f.; @[prayuta] neu. @[koṭi] fem., @[arbuda] neu, @[abja] neu, @[kharva] mas. neu. (@[nikharva] mas. neu. @[mahāpadma] mas., @[śaṅku] mas., @[samudra] mas., @[antya] neu. @[madhya] neu., and @[parārdha] neu. Each of these is ten times as great as the preceding.\*
 
 #### § 160. The cardinal numbers between @[viṃśati] and @[triṃśat], @[triṃśat] and @[catvāriṃśat], it will be seen, are made up by prefixing @[eka], @[dvi], &c. up to @[navan] to the lower. The ninth intermediate number may also be made up by prefixing @[ekona], @[ūna] or @[ekānna] to the higher. In these compounds @[dvi], @[tri] and @[aṣṭan] are changed to @[dvā], @[trayaḥ], and @[aṣṭā] necessarily before @[viṃśati] and @[triṃśat], and optionally before the rest except @[aśīti] before which they remain unchanged.
 
-* @[ekadaśakasahasrāyutalakṣaprayutakoṭayaḥ kramāt] । @[ayutamabjaṃ kharvanikharvamadhāpadmakaśaṅkavastasmat] ॥ @[jaldhiścāntaṃ madhyaṃ parārdhamiti dakṣakramauttarāḥ saṃjñāḥ] । @[saṃkhyāyāḥ sthānānāṃ yadāsāṃ kṛtāḥ pūrvaiḥ] ॥
+- @[ekadaśakasahasrāyutalakṣaprayutakoṭayaḥ kramāt] । @[ayutamabjaṃ kharvanikharvamadhāpadmakaśaṅkavastasmat] ॥ @[jaldhiścāntaṃ madhyaṃ parārdhamiti dakṣakramauttarāḥ saṃjñāḥ] । @[saṃkhyāyāḥ sthānānāṃ yadāsāṃ kṛtāḥ pūrvaiḥ] ॥
 
-+ @[trayaḥ saṃkhyāyāmabahuvacane aśītyoḥ vākyārthaḥ] । @[viṃśāsaṃkhyāyāmaviśastryaṣṭaśatprabḥṛto vā] । Pāṇ. VI. 3. 47-49 @[varttika]
+* @[trayaḥ saṃkhyāyāmabahuvacane aśītyoḥ vākyārthaḥ] । @[viṃśāsaṃkhyāyāmaviśastryaṣṭaśatprabḥṛto vā] । Pāṇ. VI. 3. 47-49 @[varttika]
 
 #### § 161. The cardinal numbers between 100 and 200, 200 and 300, &c. are generally expressed by means of @[ādhika] added to the number showing the excess and then optionally prefixing the whole to 100, 200, &c., e. g. @[ekādhikaṃ śatam] or @[ekādhi­kaśatam] 101, @[dvādaśādhikaṃ śatam] or @[dvādaśādhikaśatam] 112, @[pañcāśadādhikaṃ śatam] 150, &c. After 1000 this @[ādhika] may be repeated with every multiple of ten or hundred; e. g. @[dvi­navatyādhikāṣṭāśatādhikasahasram] 1892, @[eko­nacatvāriṃśadādhikaṣaṭśatādhikasaptasaptatisahasrādhikaṃ lakṣam] 177639, &c. Similarly @[uttara] may also be used instead of @[ādhika] e. g. @[catuḥpañcā­śaduttaraṃ saptaśatam] 754. Or these may also be, at times, expressed by the copulative particle @[ca] as @[sapta ca śatāni viṃśatiś ca] 720.
 
@@ -3437,11 +3689,13 @@ ekānnatriṃśat ekānnatriṃśaḥ, ekānnatriṃśī, ekānnatriṃśattama,
 
 @[tri] @[catur] mas. fem. mas. fem.
 N. @[trayaḥ] @[tisraḥ] N. @[catvāraḥ] @[catasraḥ] A. @[trīn] @[tisraḥ] A. @[caturaḥ] @[catasraḥ]
-### I.      @[tribhiḥ]     @[tisṛbhiḥ]       I.      @[caturbhiḥ]   @[catasṛbhiḥ]
+
+### I. @[tribhiḥ] @[tisṛbhiḥ] I. @[caturbhiḥ] @[catasṛbhiḥ]
+
 @:
-D. Ab.  tribhyaḥ    tisṛbhyaḥ      D. Ab.  caturbhyaḥ  catasṛbhyaḥ
-G.      trayāṇām    tisṛṇām        G.      caturṇām    catasṛṇām
-L.      triṣu       tisṛṣu         L.      caturṣu     catasṛṣu
+D. Ab. tribhyaḥ tisṛbhyaḥ D. Ab. caturbhyaḥ catasṛbhyaḥ
+G. trayāṇām tisṛṇām G. caturṇām catasṛṇām
+L. triṣu tisṛṣu L. caturṣu catasṛṣu
 :@
 
 neu.
@@ -3456,14 +3710,16 @@ The rest like the mas. The rest like the mas.
 @[pañcan] @[ṣaṣ] @[aṣṭan]
 
 N.V.A. @[pañca] @[ṣaṭ] @[aṣṭau]
-### I.        @[pañcabhiḥ]          @[ṣaḍbhiḥ]              @[aṣṭabhiḥ-aṣṭābhiḥ]
+
+### I. @[pañcabhiḥ] @[ṣaḍbhiḥ] @[aṣṭabhiḥ-aṣṭābhiḥ]
+
 Dat. & Ab. @[pañcabhyaḥ] @[ṣaḍbhyaḥ] @[aṣṭabhyaḥ-aṣṭābhyaḥ]
 
-*@[dvitryoḥ triyāṃ tisṛ ca] Pan. VII. 2. 99.
+\*@[dvitryoḥ triyāṃ tisṛ ca] Pan. VII. 2. 99.
 
 ---
 
-*@[ādhikāntarasyena daśāntād ḍaḥ] | @[śatāntarviṃśateś ca] | Pan. V. 2. 46, 47. @[śatasahasrayoreva neṣyate] | V. 2. 58.
+\*@[ādhikāntarasyena daśāntād ḍaḥ] | @[śatāntarviṃśateś ca] | Pan. V. 2. 46, 47. @[śatasahasrayoreva neṣyate] | V. 2. 58.
 
 †@[ṣaṭ katipayacaturāṃ thuk] | Pan. V. 2. 51; so @[katipaḥ], @[caturthaḥ] &c.; @[caturadaśayoś cāturīyaś ca] V. 2. 54. @[turīya], @[turya] | @[dvitīyaḥ] | @[traḥ samprasāraṇaṃ ca] Pan. V. 2. 54, 55.
 
@@ -3475,6 +3731,7 @@ L. @[षट्सु] @[अष्टसु-अष्टाषु] @[च]
 @[सप्तन्], @[नवन्] and the following cardinals up to @[नवदशन्] ought to be declined like @[अष्टन्], @[नवन्].
 
 #### § 167. @[एकादशन्], @[विंशति] and other cardinal numbers up to
+
 @[नवनवति] are all feminine substantives, the numerals @[शत], @[सहस्र],
 &c. are all neuter, with the exception of @[लक्ष] which is masc. and fem. @[कोटि] which is fem. and @[अर्बुद] and @[जलधि] both of which are masc. and have no declensional peculiarities. They are declined in the sing. and so used with a plural noun; e. g.
 @[पञ्चविंशतिर्ब्राह्मणाः] 25 Brahmanas; @[एकादशाधिकशतेन] or @[एका- दशोत्तरशतेन] @[नरैः] or @[नारीभिः] by 111 men or women; @[एकोनसहस्रेण] @[रूपकैः] with Rs. 999 &. They may be made to have duals and plurals by being used as fixed standards of counting; e. g.
@@ -3488,12 +3745,13 @@ e. g. @[द्वितीयस्मै-द्वितीयाय], &c. @[�
 ## NUMERAL ADVERBS.
 
 #### § 169. (a) @[सकृत्] once, @[द्विः] twice, @[त्रिः] thrice, @[चतुः] four
+
 times; from @[पञ्चन्] onwards adverbs of frequency are formed by adding @[कृत्वः] before which final @[न्] is dropped e. g. @[पञ्चकृत्वः] five times, @[सप्तकृत्वः] seven times, &c.
 
 (b) @[एकधा] or @[एकध्यम्] in one way or part, @[द्विधा] or @[द्वयम्] or @[द्वे] in two ways or parts, @[त्रिधा] or @[त्रेधा] or @[त्रिध्यम्] in three ways, &c.;
 @[चतुर्धा] in four ways, @[षट्] or @[षड्धा] in six ways, @[सप्तधा], @[नवधा], &c.
 
-*@[संख्यायाः विधार्थे धा। अधिकरणविचारे च। एकाद्द्वयो ध्यच्छ्रन्यतरस्याम्।] @[द्वित्रयोश्च धञ्चञ। त्रेधा] Pan. 5. 3. 42-46.
+\*@[संख्यायाः विधार्थे धा। अधिकरणविचारे च। एकाद्द्वयो ध्यच्छ्रन्यतरस्याम्।] @[द्वित्रयोश्च धञ्चञ। त्रेधा] Pan. 5. 3. 42-46.
 
 (c) @[एकैकशः] one by one; @[द्विद्विशः] two and two, by twos; so @[त्रित्रिशः] @[चतुश्चतुःशः] &c.
 
@@ -3507,22 +3765,24 @@ times; from @[पञ्चन्] onwards adverbs of frequency are formed by add
 
 (c) by means of @[क] and @[त्] e. g. @[षट्क], a collection of six, @[पञ्चत्] collection of five, @[दशत्] a collection of ten, a decade, &c.
 
-Chapter VI
+# Chapter VI.
+
 ## DEGREE OF COMPARISON.
 
 #### § 171. @[तर] and @[तम] are the most common terminations of the
+
 comparative and the superlative degrees respectively. They are added to that crude form of words which they assume, be- fore the Inst. dual termination; e. g. @[अयमेताभ्यां लघुतरः], @[अयं] @[लघुतरः], @[अयमेषामतिशयेन लघुतमः]; similarly @[गुरुतर], @[-युवतर], @[वृद्धतर];
 
-* See Chap. IX. Intro. rules.
+- See Chap. IX. Intro. rules.
 
-* @[अतिशायने तमबिष्ठनौ। द्विवचनविभजो यस्षडोः तरबीयसुनौ। तरबीयसुनौ।] @[तरबमपौ धः] Pan. 5. 3. 55. 57. 58; 1. 1. 22. When @[अतिशय] or excess of the one thing over many is to be shown @[तर] and @[तम]
-are the affixes used; and when out of two things one is to be separated as possessing some quality in excess @[तर] and @[ईयसुन्] are affixed. @[तर] and @[तम] may also added to verbs.
+- @[अतिशायने तमबिष्ठनौ। द्विवचनविभजो यस्षडोः तरबीयसुनौ। तरबीयसुनौ।] @[तरबमपौ धः] Pan. 5. 3. 55. 57. 58; 1. 1. 22. When @[अतिशय] or excess of the one thing over many is to be shown @[तर] and @[तम]
+  are the affixes used; and when out of two things one is to be separated as possessing some quality in excess @[तर] and @[ईयसुन्] are affixed. @[तर] and @[तम] may also added to verbs.
 
 @[विद्वस्]—@[विद्वत्तर], @[विद्वत्तम]; @[धनिन्]—@[धनितर], @[धनितम]; @[धर्मज्ञ]—@[धर्मज्ञत्तर], @[धर्मज्ञत्तम]; @[गुरु]—@[गुरुतर], @[गुरुतम], &c.; @[अति]—@[अतितर], @[अतितम]; @[उत्]—@[उत्तर], @[उत्तम], &c.
 
 #### § 172. Before these the long @[ī] and @[ū] of a @[pratipadika] are optionally shortened, e. g. @[भीतरा] or @[भितरा], @[भीतमा] or @[भितमा]; @[चेष्टुतरा] (more lame) or @[चेष्ठुतरा], @[चेष्टुतमा], @[चेष्ठुतमा], &c.
 
-#### § 173. @[तर] and @[तम] when attached to verbs, and indeclinables forming adverbs, assume the forms of @[तराम्] and @[तमाम्]*; @[वदतितराम्], @[पचतितमाम्]; @[उच्चैस्तराम्]; @[प्रागतराम्]; @[सनातनतमाम्]; or @[सदातमाम्] &c.; but @[उच्चैस्तरः] adj. (higher).
+#### § 173. @[तर] and @[तम] when attached to verbs, and indeclinables forming adverbs, assume the forms of @[तराम्] and @[तमाम्]\*; @[वदतितराम्], @[पचतितमाम्]; @[उच्चैस्तराम्]; @[प्रागतराम्]; @[सनातनतमाम्]; or @[सदातमाम्] &c.; but @[उच्चैस्तरः] adj. (higher).
 
 #### § 174. @[ईयस्] is another termination of the comparative degree and @[इष्ठ] of the superlative. These are added to adjectives of quality only†. Before these the last vowel of a word with the following consonant if any is dropped; e. g. @[लघु]—@[लघीयस्], @[लघिष्ठ]; @[पटु]—@[पटीयस्], @[पटिष्ठ]; @[महत्]—@[महीयस्], @[महिष्ठ]; &c. but @[पाक]—@[पाकतर], @[पाकतम] only.
 
@@ -3530,7 +3790,7 @@ are the affixes used; and when out of two things one is to be separated as posse
 
 #### § 176. § @[ar] is substituted for the @[ṛ] (short) of a base preceded by a consonant before @[ईयस्], @[इष्ठ] and the Tad. aff. @[इमन्] e.g.
 
-* @[तिङ्येत्तङ्ययघःपादाम्बद्रव्यप्रकृषम्] । Pāṇ. 5. 4. 11. @[आम्] is added to @[तर] and @[तम] after @[तिङ्], or a word ending in @[स्] or @[म्] @[subanta] or @[tiṅanta] (@[तिङन्त]) except when they form adjectives.
+- @[तिङ्येत्तङ्ययघःपादाम्बद्रव्यप्रकृषम्] । Pāṇ. 5. 4. 11. @[आम्] is added to @[तर] and @[तम] after @[तिङ्], or a word ending in @[स्] or @[म्] @[subanta] or @[tiṅanta] (@[तिङन्त]) except when they form adjectives.
 
 † @[अजादीयणचेेव] (i. e. @[ईयस्] and @[इष्ठ]) । Pāṇ. V. 3. 58.
 
@@ -3549,7 +3809,7 @@ are the affixes used; and when out of two things one is to be separated as posse
 Positive Comparative Superlative
 
 @:
-antika 'near'* nedīyas nediṣṭha
+antika 'near'\* nedīyas nediṣṭha
 alpa 'little'† alpīyas alpiṣṭha
 " kanīyas kaniṣṭha
 uru 'wide'‡ varīyas variṣṭha
@@ -3557,7 +3817,7 @@ kṣipra 'quick'§ kṣepiṣṭha kṣepiṣṭha
 kṣudra 'mean,' 'small' kṣodīyas kṣodiṣṭha
 guru 'heavy' garīyas gariṣṭha
 :@
- 'restless or anxious'
+'restless or anxious'
 @:
 tṛpta 'satisfied' trapīyas trapiṣṭha
 dīrgha 'long' drāghīyas drāghiṣṭha
@@ -3566,11 +3826,11 @@ dūra 'distant' davīyas daviṣṭha
 @[bahu] 'much'|| @[bhūyas] or @[bhūyaḥ] @[bheṣṭha] or @[jyeṣṭha]
 @[priya] 'dear' @[preyas] @[preṣṭha]
 
-* @[antikabāḍhayorneḍsādhanaḥ] । Pāṇ. V. 3. 36.
-† @[yuvalpakaṇinantarasthe] । Pāṇ. V. 3. 64.
-‡ @[bṛsthirasphiraurupṛthulavasuṅṛdvṛddhavṛndārṇakanakaānāṃ baṃsthakvaavarahivaḥsūtrapraḍhavṛndaraṇāḥ] । Pāṇ. VI. 4. 157. @[baṃś], @[sthak], @[sphak], &c. are substituted for @[bṛś], @[sthira], @[sphira], &c. respectively.
-§ @[śvalyṛjukṣipraṃdhrāṇāṃ yaṇādiparāṃguṇaśca yaṇaḥ] । Pāṇ. VI. 4. 156. The words @[śva] &c. drop their final portion beginning with @[yaṇ] (@[ya], @[ra], @[la] or @[va]) and the preceding vowel takes @[guṇa].
-|| @[baherjyaṅgaḥ] । @[jyaṅ] is substituted for @[bahu]. Pāṇ. V. 3. 60-62. @[bahorlopaḥ] @[īṣṭhadhaḥ] । @[īṣṭhasya pūṭ ca] । Pāṇ. VI. 4. 158-159.
+- @[antikabāḍhayorneḍsādhanaḥ] । Pāṇ. V. 3. 36.
+  † @[yuvalpakaṇinantarasthe] । Pāṇ. V. 3. 64.
+  ‡ @[bṛsthirasphiraurupṛthulavasuṅṛdvṛddhavṛndārṇakanakaānāṃ baṃsthakvaavarahivaḥsūtrapraḍhavṛndaraṇāḥ] । Pāṇ. VI. 4. 157. @[baṃś], @[sthak], @[sphak], &c. are substituted for @[bṛś], @[sthira], @[sphira], &c. respectively.
+  § @[śvalyṛjukṣipraṃdhrāṇāṃ yaṇādiparāṃguṇaśca yaṇaḥ] । Pāṇ. VI. 4. 156. The words @[śva] &c. drop their final portion beginning with @[yaṇ] (@[ya], @[ra], @[la] or @[va]) and the preceding vowel takes @[guṇa].
+  || @[baherjyaṅgaḥ] । @[jyaṅ] is substituted for @[bahu]. Pāṇ. V. 3. 60-62. @[bahorlopaḥ] @[īṣṭhadhaḥ] । @[īṣṭhasya pūṭ ca] । Pāṇ. VI. 4. 158-159.
 
 @:
 priyaḥ 'much' priyatarañ preṣṭhaḥ
@@ -3589,6 +3849,7 @@ sphuṭaḥ 'much' sphīyaḥ spheṣṭhaḥ
 #### § 178. Sometimes the terminations @[tara] and @[tama] are added to the comp. and super. in @[īyas] and @[iṣṭha] to intensify the meaning; as @[pāpīyastara], @[pāpīyastamaḥ] @[jyāyastara], @[jyāyastamaḥ].
 
 # Chapter VII.
+
 ## COMPOUNDS.
 
 #### § 179. @[Vṛtti] (@[वृत्तिः]) is the general term for any complex formation in Sanskrit requiring explanation or resolution. These @[Vṛtti]s are five in number; @[viz.] @[kṛdanta] or the formation of words from roots by primary affixes; @[taddhitānta] or the formation of derivative bases from nouns by secondary affixes; @[dhātujānta] or the formation of derivative verbs from primitive roots; @[samāsānta] or the formation of a compound word by the composition of several words; and @[ekasaṃjñānta] or the composition of words in which one of several nouns generally alike in form is retained. The first three will be treated in their proper places. We will treat of the last two in this Chapter.
@@ -3612,6 +3873,7 @@ sphuṭaḥ 'much' sphīyaḥ spheṣṭhaḥ
 (a) When the @[Vigrahavākya] cannot be given, or cannot be given by using the words actually compounded, the compound is called @[nityasamāsa] @[नित्यसमासः] (@[avigrahō nityasamāsaḥ asaṃpadavigrahō vā]).
 
 #### § 185. Compounds are divided into four principal classes:—
+
 (1) @[dvandva] or copulative, (2) @[Tatpuruṣa] or determinative,
 (3) @[bahuvrīhi] or attributive, and (4) @[Avyayībhāva] or adverbial.
 
@@ -3621,12 +3883,13 @@ They are simply proper names distinguishing the various classes from one another
 ## DVANDVA OR THE COPULATIVE COMPOUNDS.
 
 #### § 186. A @[dvandva] compound consists of two or more nouns
+
 which, if not compounded, would be connected by the copulative particle @[ca] (and), as @[rāmakṛṣṇau] which is equal to @[rāmaḥ ca kṛṣṇaḥ ca];
 @[pāṇipādam] which is the same as @[pāṇī ca pādau ca]. There are three species of the @[dvandva], viz. @[Itaretaradvandva], @[Samāhāra] and @[Ekaśeṣa].
 
-* This is true only generally speaking. For there is a fifth class of compounds, viz. @[avyaya]-compounds not governed by any of the rules given under the four classes but explained on the general principle that any @[subanta @[pada]] may be compounded with any other @[subanta @[pada]]. According to some there are six
-kinds of compounds, viz. @[subanta subantena @[subanta] nāmnā dhātu nāmnā tiḍantena tiḍantena | avyayantena iti vijñeyaḥ samāsaḥ ṣaḍvidho bhavet ||] e. g. @[subanta subantena rāja- puruṣaḥ | @[subanta] nāmnā | nāmnā kumbhakāraḥ | dhātunā kaṭabhūḥ, ajanma | tiḍantena pibanmā-dantā, svādanmedantā | tiḍantena avyayantena yasyāṃ kriyāyāṃ sā ekānta-
-vicakṣaṇaḥ | ehīti ādayonyaṣadārtha iti madhyamasakādo vyāpāt samāsaḥ |] Sid. K.
+- This is true only generally speaking. For there is a fifth class of compounds, viz. @[avyaya]-compounds not governed by any of the rules given under the four classes but explained on the general principle that any @[subanta @[pada]] may be compounded with any other @[subanta @[pada]]. According to some there are six
+  kinds of compounds, viz. @[subanta subantena @[subanta] nāmnā dhātu nāmnā tiḍantena tiḍantena | avyayantena iti vijñeyaḥ samāsaḥ ṣaḍvidho bhavet ||] e. g. @[subanta subantena rāja- puruṣaḥ | @[subanta] nāmnā | nāmnā kumbhakāraḥ | dhātunā kaṭabhūḥ, ajanma | tiḍantena pibanmā-dantā, svādanmedantā | tiḍantena avyayantena yasyāṃ kriyāyāṃ sā ekānta-
+  vicakṣaṇaḥ | ehīti ādayonyaṣadārtha iti madhyamasakādo vyāpāt samāsaḥ |] Sid. K.
 
 † @[ca-arthe dvandvaḥ] Pāṇ. II. 2. 29.
 
@@ -3634,28 +3897,31 @@ vicakṣaṇaḥ | ehīti ādayonyaṣadārtha iti madhyamasakādo vyāpāt sam�
 Sanskrit grammarians do not regard it as a @[dvandva], though it may be so regarded for the sake of convenience. 'It is not a @[dvandva],' remarks Bhaṭṭoji Dīkṣita, 'as it does not contain more than one @[subanta] (@[aneka-subantāśrayād dvandvaḥ]).' It should be further remembered that since it is not a @[samāsa], its final vowel does not become @[udātta], as in the case of a @[dvandva] compound.
 
 #### § 187. When the several members of a @[dvandva] compound
+
 are viewed separately, it is called @[Itaretara @[dvandva]], e. g.
 @[dhavakhadirau chindhi], 'cut down the Dhava and the Khadira trees.' In this species each member is of equal importance i. e. has its own independent meaning. It takes the dual or the plural according as the objects denoted by it are two or more in num- ber; the gender of the final noun is the gender of the whole; as @[kukkuṭaś ca] a cock @[ca mayūrī ca] and a pea-hen @[ca kukkuṭamayūryau ime] (fem. dual of @[mayūrī]); but @[mayūrī ca kukkuṭaś ca mayūrīkukkuṭau imau]; @[rāmaś ca] Rāma @[ca nalas ca] and Nala @[ca bharataś ca] and Bharata @[rāmanalakumarabharatāḥ etc.]
 
 Exception—@[aśvaś ca] a horse @[vaḍabā ca] and a mare @[aśvavaḍavau] (mas. dual) a horse and a mare; @[ahaś ca] day @[rātriś ca] and night @[ahorātram] (mas. sing.) day and night.
 
 #### § 188. @[Samāhāra @[dvandva]] is that species of @[dvandva]
+
 which implies an aggregate or the things enumerated in which constitute a complex idea. It is always singular and neuter.
 Thus @[āhāra-nidrā-bhaya-maithunam] does not merely mean 'food, sleep and fear' but all that characterises animal life. In this species the meaning of the different members is subordinate to the collective sense of the whole compound.
 
 #### § 189. A @[dvandva] compound of words denoting limbs of
+
 the body of an animal, players on musical instruments, parts of an army, inanimate objects (things or days and not qualities) names of rivers differing in gender, as also of countries (and not villages), and insects, and animals between which there is natural antipathy, is always of this nature; @[pāṇī ca pādau ca pāṇipādam] hands and feet, @[rathikāś ca] chariot-warriors @[aśvārohāś ca] and horse-men @[rathikāśvārohām]
 and horse-men @[vaiṇikāś ca] players @[mārdaṅgikāś ca] and drummers @[vaiṇikamārdaṅgikam] players on
 
-* @[uttarapada-liṅgaṃ dvandve] | Pāṇ. II. 4. 26.
+- @[uttarapada-liṅgaṃ dvandve] | Pāṇ. II. 4. 26.
 
-† @[teṣām prāṇitūrya-senāṅgānām] | Pāṇ. II. 4. 2.; @[jātiṃ aprāṇinām] Pāṇ. II. 4. 6.; @[dikṣu liṅgaṃ nadīnām ayāmāḥ |] Pāṇ. II. 4. 7., @[śatrauddṛṅghre] Pāṇ. II.
-4. 8.; @[teṣāṃ ca viṣaye deśaḥ] @[grāmāḥ] Pāṇ. II. 4. 9.
+† @[teṣām prāṇitūrya-senāṅgānām] | Pāṇ. II. 4. 2.; @[jātiṃ aprāṇinām] Pāṇ. II. 4. 6.; @[dikṣu liṅgaṃ nadīnām ayāmāḥ |] Pāṇ. II. 4. 7., @[śatrauddṛṅghre] Pāṇ. II. 4. 8.; @[teṣāṃ ca viṣaye deśaḥ] @[grāmāḥ] Pāṇ. II. 4. 9.
 
 #### § 189-192 | Compounds. 117
+
 @[mṛdaṅga] and @[paṇava] (kinds of tabors); @[vrīhi] fried barley or rice @[apūpa] a kind of sweetmeat @[śarkarā]; but @[rūpaṃ] @[ca] @[rasaḥ] @[ca] @[rūparasau] form and flavour, as these denote qualities; @[gaṅgā] @[ca] @[śoṇaḥ] @[ca] @[gaṅgāśoṇau] the rivers Ganges and Sona, but @[gaṅgāyamunau] as these do not differ in gender, @[kuravaḥ] @[ca] @[pāñcālāḥ] @[ca] @[kurupāñcālāḥ] names of countries; but @[aṅgamagadhau] (two villages of that name), @[madrāḥ] @[ca] @[kekayāḥ] @[ca] @[madrakekayāḥ] (two names of the same gender) @[yūkā] @[ca] @[likṣā] a nit @[ca] @[yūkālikṣe], @[ahiḥ] @[ca] @[nakulaḥ] @[ca] @[ahinakulam] a snake and an ichneumon, &c.
 
-#### § 190. Names of trees, deer, grass, corn, condiments, beasts, birds, the pairs of words—@[pūrva] and @[apara], @[adhas] and @[uttara], @[para] and @[avara]—and words of opposite import not qualifying things (@[andhikaraṇa]), are optionally compounded into a Samāhāra Dwandwa,* instances in order—@[aśvatthanyagrodhau] @[nyagrodhāśvatthau] @[aśvatthanyagrodhāḥ]; similarly @[ruruprāṣatāḥ] (kinds of deer), @[kuśakāśāḥ] kinds of grass, @[vrīhiyavam] @[vrīhiyavāḥ] kinds of corn, @[haridrākuṅkumam], @[gobhiśṛṅgaverāḥ], @[śukaśārikam] @[śukaśārikāḥ], @[pūrvāparaṃ] @[re], @[adharottaram] @[re]; but @[hātoṣṇe] @[jale]
+#### § 190. Names of trees, deer, grass, corn, condiments, beasts, birds, the pairs of words—@[pūrva] and @[apara], @[adhas] and @[uttara], @[para] and @[avara]—and words of opposite import not qualifying things (@[andhikaraṇa]), are optionally compounded into a Samāhāra Dwandwa,\* instances in order—@[aśvatthanyagrodhau] @[nyagrodhāśvatthau] @[aśvatthanyagrodhāḥ]; similarly @[ruruprāṣatāḥ] (kinds of deer), @[kuśakāśāḥ] kinds of grass, @[vrīhiyavam] @[vrīhiyavāḥ] kinds of corn, @[haridrākuṅkumam], @[gobhiśṛṅgaverāḥ], @[śukaśārikam] @[śukaśārikāḥ], @[pūrvāparaṃ] @[re], @[adharottaram] @[re]; but @[hātoṣṇe] @[jale]
 
 #### § 191. The names of fruits, parts of an army, herbs, deer, birds, insects, corn and grass; form a Samāhāra-Dwandwa, only when they are taken in the plural;† as @[badarāṇi] @[ca] @[āmalakāni] @[ca] @[badarāmalakam], but @[badaram] @[ca] @[āmalakam] @[ca] @[badarāmalake] @[rathikam] @[ca] @[adhvārohaḥ] @[ca] @[rathikādhvārohaḥ], &c.
 
@@ -3663,7 +3929,7 @@ and horse-men @[vaiṇikāś ca] players @[mārdaṅgikāś ca] and drummers @[v
 
 (a) Samāhāra Dwandwas—@[devamanuṣyaḥ] @[kabandhayavaḥ] @[aṅgadapādau]; @[udakadadhiḥ]
 
-* @[vṛkṣamṛgasumatṛṇadhānyavyañjanāmṛgadvijānāṃ] @[pūrvāparādharottarāṇāṃ] @[ca] @[anyonyapratiṣiddhaṃ] @[cānādhikaraṇavāci] | Pan. II. 4. 12, 13.
+- @[vṛkṣamṛgasumatṛṇadhānyavyañjanāmṛgadvijānāṃ] @[pūrvāparādharottarāṇāṃ] @[ca] @[anyonyapratiṣiddhaṃ] @[cānādhikaraṇavāci] | Pan. II. 4. 12, 13.
 
 † @[phalanāsenāvanaspatimṛgaśakunikīṭadhānyatṛṇānāṃ] @[bahuprayogaireva] @[ekavaditi] @[jñāpakam] | Vārtika.
 
@@ -3671,15 +3937,15 @@ and horse-men @[vaiṇikāś ca] players @[mārdaṅgikāś ca] and drummers @[v
 
 (b) Itaretara Dwandwas:— @[dadhi] @[ca] @[payaḥ] @[ca] @[dadhikṣīram] curds and milk, @[idhmasāmidhenī] holy sticks and grass, @[sarpiṣmadhu], @[sarpiṣmadhūnī] honey and ghee, @[ājinamājināni], @[adhyayanatapaḥ], @[āyurvāsanau], @[ulūkhaladroṇau], @[ṛkṣāman] (@[ṛc] + @[sāman]) Rik and the Sāman verses; @[vāṅmanasī] (@[vāc] + @[manas]) speech and mind (the @[c] of @[sāman] dropped and @[ī] added to @[manas] irregularly by Pan. V. 4. 77)
 
-#### § 193. When words ending in a and implying relationship by blood or literary vocation are compounded together, the last but one word changes its a to @[ā]. The same happens when the word @[udyāj] follows a word ending in a under the same circumstances;* @[hotā] @[ca] @[potā] @[ca] @[hotāpotārau] two priests so called, @[hotā] @[ca] @[potā] @[ca] @[neṣṭā] @[ca] @[udgātā] @[ca] @[hotṛpotṛneṣṭodgātāraḥ], (but if two words be taken at a time the a may, at every step, be changed into @[ā]; as @[hotā] @[ca] @[potā] @[ca] @[hotāpotau] @[tau] @[ca] @[udgātā] @[ca] @[hotāpotodgātāraḥ] &c.); @[pitā] @[ca] @[duhitā] @[ca] @[pitāduhitarau], @[mātā] @[ca] @[pitā] @[ca] @[mātāpitarau], also @[mātarapitarau] (vide § 197 a), and @[pitarau] (vide § 197 a).
+#### § 193. When words ending in a and implying relationship by blood or literary vocation are compounded together, the last but one word changes its a to @[ā]. The same happens when the word @[udyāj] follows a word ending in a under the same circumstances;\* @[hotā] @[ca] @[potā] @[ca] @[hotāpotārau] two priests so called, @[hotā] @[ca] @[potā] @[ca] @[neṣṭā] @[ca] @[udgātā] @[ca] @[hotṛpotṛneṣṭodgātāraḥ], (but if two words be taken at a time the a may, at every step, be changed into @[ā]; as @[hotā] @[ca] @[potā] @[ca] @[hotāpotau] @[tau] @[ca] @[udgātā] @[ca] @[hotāpotodgātāraḥ] &c.); @[pitā] @[ca] @[duhitā] @[ca] @[pitāduhitarau], @[mātā] @[ca] @[pitā] @[ca] @[mātāpitarau], also @[mātarapitarau] (vide § 197 a), and @[pitarau] (vide § 197 a).
 
-#### § 194. (a) When the names of deities well known to be in constant association with each other are compounded, @[ā] is substituted for the final vowel of the preceding word, except in the case of the word @[vāyu]* viz. e. g. @[mitrāvaruṇau], @[dyāvāpṛthivyau], @[indrāmarutau], &c. but @[agnivāyū] or @[vāyuagnī].
+#### § 194. (a) When the names of deities well known to be in constant association with each other are compounded, @[ā] is substituted for the final vowel of the preceding word, except in the case of the word @[vāyu]\* viz. e. g. @[mitrāvaruṇau], @[dyāvāpṛthivyau], @[indrāmarutau], &c. but @[agnivāyū] or @[vāyuagnī].
 
 (b) The word @[agni] followed by the word @[soma] or @[varuṇa] lengthens its @[i]; as @[agnīṣomau], @[agnīvaruṇau].
 
-* @[āṅ] @[ca] @[ṛto] @[udaje] | Pan. VI. 3. 25. @[dvayoḥ] @[ṣaṣṭhyantayoḥ] @[sagotrabhūyasāṃ] @[ca] @[gavaṃ] @[hotāpotrodgātāraḥ] | Sid. Kau.
+- @[āṅ] @[ca] @[ṛto] @[udaje] | Pan. VI. 3. 25. @[dvayoḥ] @[ṣaṣṭhyantayoḥ] @[sagotrabhūyasāṃ] @[ca] @[gavaṃ] @[hotāpotrodgātāraḥ] | Sid. Kau.
 
-* @[devatādvandvaśca] | Pan. VI. 3. 26. @[vāyukṛtayoḥ] @[pratiṣedhaḥ] | Vārt. @[idamaḥ] @[somavaruṇayoḥ] | Pan. VI. 3. 27.
+- @[devatādvandvaśca] | Pan. VI. 3. 26. @[vāyukṛtayoḥ] @[pratiṣedhaḥ] | Vārt. @[idamaḥ] @[somavaruṇayoḥ] | Pan. VI. 3. 27.
 
 #### § 195. When a Samāhāra-Dwandwa ends in a consonant of the palatal class or g, q, or g, n is added to it: @[tvak] च @[vāk] च @[vāktvacam] speech and skin, @[tvagdāmaḥ] a bark and a garland, @[śāmīkuṣadam], @[vāṅmṛṇālaṃ], @[chatrāpānahau] an umbrella and shoes, &c. But @[agnīṣomau] (as it is not a S.S. Dwa.).
 
@@ -3693,7 +3959,7 @@ and horse-men @[vaiṇikāś ca] players @[mārdaṅgikāś ca] and drummers @[v
 
 #### § 197. When several words of the same form (or dissimilar in form but of the same import) are compounded together, only one of them is retained with the necessary number-
 
-* @[dyaścudaṣahāntāssamāhāre] | Pan. V. 4. 106.
+- @[dyaścudaṣahāntāssamāhāre] | Pan. V. 4. 106.
 
 † @[divo dyāvā] | @[divasaś ca pṛthivyāḥ] | Vār. VI. 3. 29, 30.
 
@@ -3707,7 +3973,7 @@ x @[virūpāṇāmapi samānārthānām] | Vār. V. 4. 78. @[vakradaṇḍaś ca
 
 120 Sanskrit Grammar. §§ 197-198
 
-e.g. @[rāmaś] च @[rāmaḥ] @[rāmau], @[rāmaś] च @[rāmaś] च @[rāmaś] च @[rāmāḥ]. This is called @[ekādhyuktaḥ]. In the case of the mas. and fem. genders the one of the mas. gender is retained;* as @[haṃsī] च @[haṃsaś] च @[haṃsau]; similarly @[goṇau], @[śyenau], @[ajau], &c.
+e.g. @[rāmaś] च @[rāmaḥ] @[rāmau], @[rāmaś] च @[rāmaś] च @[rāmaś] च @[rāmāḥ]. This is called @[ekādhyuktaḥ]. In the case of the mas. and fem. genders the one of the mas. gender is retained;\* as @[haṃsī] च @[haṃsaś] च @[haṃsau]; similarly @[goṇau], @[śyenau], @[ajau], &c.
 
 (a) This principle is further extended to some words dissimilar in form, as in the following examples:— @[svasā] च @[svasāraś] च @[svasārau], @[duhitā] च @[svasā] च @[svasārau]; @[mātā] च @[pitā] च @[pitarau] (see also § 193), @[śvā] च @[śvāś] च @[śvānau] (see @[śvaśrūśvaśurau]); @[tad] च @[devadattaś] च @[tau], @[sā] च @[yajñadattaś] च @[tau], @[tad] च @[yajñadattaś] च @[yau] or @[tau]. In the case of words of the mas., fem. and neu. gender that of the neu. gender is retained, as @[tad] च @[devadattaś] च @[te]; @[tad] च @[devadattaś] च @[tāni] or @[tāni].
 
@@ -3719,7 +3985,7 @@ e.g. @[rāmaś] च @[rāmaḥ] @[rāmau], @[rāmaś] च @[rāmaś] च @[rāma
 
 (c) A word that has fewer syllables should be placed
 
-* @[pumānprājñuāyām] | Pan. I. 2. 67.
+- @[pumānprājñuāyām] | Pan. I. 2. 67.
 
 † @[mātāpitarau svasāduhitṛbhyām] | @[pitā-mātā] | Pan. II. 2. 68, 70.
 
@@ -3737,7 +4003,7 @@ first and in case there are more words than one having an equal number of syllab
 
 (c) Names of the four castes of men should be arranged according to their order, beginning from the highest and so should be the names of brothers beginning from the eldest; e.g. @[brāhmaṇakṣatriyavaiśyaśūdrāḥ]; @[yudhiṣṭhirabhīmārjunau].
 
-#### § 199. In the case of words of the @[rājadantādi] class that which ought to be placed first is placed last; while in the case of words of the @[dharmādi] group (a sub-division of @[rājadantādi]) the rule is observed optionally*; @[śūdraḥ āryaśca] a Śūdra and an Ārya, @[śūdrāryau]; @[arthaśca dharmaśca] or @[arthādharma]; so @[arthaḥ kāmaśca] or @[arthakāmau], @[arthaḥ kāmaśca] or @[kāmārthau], &c.
+#### § 199. In the case of words of the @[rājadantādi] class that which ought to be placed first is placed last; while in the case of words of the @[dharmādi] group (a sub-division of @[rājadantādi]) the rule is observed optionally\*; @[śūdraḥ āryaśca] a Śūdra and an Ārya, @[śūdrāryau]; @[arthaśca dharmaśca] or @[arthādharma]; so @[arthaḥ kāmaśca] or @[arthakāmau], @[arthaḥ kāmaśca] or @[kāmārthau], &c.
 
 ### II. TATPURUṢA OR THE DETERMINATIVE COMPOUNDS.
 
@@ -3747,9 +4013,9 @@ first and in case there are more words than one having an equal number of syllab
 
 #### § 202. The final vowel of a feminine noun ending in any of
 
-* @[rājadantādilope pūrvam] | @[bhrāturājyāyasaḥ] || Vārttikas on the above sūtra. † @[rājadantādiṣu prāk] | Pāṇ. II. 2. 34. @[dharmādiṣvāniyamaḥ] | Vārtt.
+- @[rājadantādilope pūrvam] | @[bhrāturājyāyasaḥ] || Vārttikas on the above sūtra. † @[rājadantādiṣu prāk] | Pāṇ. II. 2. 34. @[dharmādiṣvāniyamaḥ] | Vārtt.
 
-the affixes @[ā], @[ī] or @[ū] and forming the second member of a compound used adjectively is shortened; the @[o] of @[go] is changed to @[u] under the same circumstances*; e.g. @[prāñc] + @[jīvikā] = @[prāgjīvikaḥ] (Tat.), @[atimālaḥ] (Tat.); @[pañcaguḥ] something bought for five cows; @[bahavo nāḍyo yasmin bahuṇāḍiḥ] many-veined leaf (Bah.); @[citrakā gāvaḥ yasya citraguḥ] having variegated cows, &c.—but @[kalpānupaścimīkaḥ] as the @[ī] is not final.
+the affixes @[ā], @[ī] or @[ū] and forming the second member of a compound used adjectively is shortened; the @[o] of @[go] is changed to @[u] under the same circumstances\*; e.g. @[prāñc] + @[jīvikā] = @[prāgjīvikaḥ] (Tat.), @[atimālaḥ] (Tat.); @[pañcaguḥ] something bought for five cows; @[bahavo nāḍyo yasmin bahuṇāḍiḥ] many-veined leaf (Bah.); @[citrakā gāvaḥ yasya citraguḥ] having variegated cows, &c.—but @[kalpānupaścimīkaḥ] as the @[ī] is not final.
 
 (a) If the final @[ī] or @[ū] be not a fem. termination, it remains unchanged; e.g. @[iṣṭā devī sā devatā], @[bahutantubahunāḍī].
 
@@ -3763,7 +4029,7 @@ N.B. @[prāpta] and @[āpanna] may also be placed first; as @[prāpto jīvikā�
 
 (b) A word expressive of the duration of an action or state is compounded with another expressive of the action or state, in the
 
-* @[ñījyorūpasarjanasya] | Pāṇ. I. 2. 48. † @[dvitīyā bhītātītapatitagatātyastaprāptāpannaiḥ] | Pāṇ. II. 1. 24. @[gamyādīnāśca tapaḥsamākhyānām] | Vārttika.
+- @[ñījyorūpasarjanasya] | Pāṇ. I. 2. 48. † @[dvitīyā bhītātītapatitagatātyastaprāptāpannaiḥ] | Pāṇ. II. 1. 24. @[gamyādīnāśca tapaḥsamākhyānām] | Vārttika.
 
 #### § 204-205] Compounds. 123
 
@@ -3781,7 +4047,7 @@ Accusative case; e. g. @[kṣaṇaṃ] @[sukham] 'happiness lasting for a moment
 
 (c) with the words @[pūrva], @[saha], @[sadṛśa], @[sama] and words having the sense of @[ūna], @[kalaha], @[nipuṇa], @[miśra], @[vṛddha] and @[avara]; as @[māsena] @[pūrvaḥ] @[māsapūrvaḥ]; @[mātṛā] @[sahaḥ] @[mātṛsahaḥ] like his mother; @[pitṛsadṛśaḥ] equal to his
 
-* @[atyantasaṃyoge] @[ca] | Pāṇ. II. 1. 29.
+- @[atyantasaṃyoge] @[ca] | Pāṇ. II. 1. 29.
 
 † @[upasarjanāt] | Kāś. II. 1. 26.
 
@@ -3809,7 +4075,7 @@ father; @[māṣeṇa] @[ūnam] @[māṣonam]; so @[māṣikonam] (less by one @
 
 (b) and with the words @[artha], @[bali], @[hita], @[rakṣa] and @[rakṣita]. The compound with @[artha] is a @[nityasamāsa] and takes the gender and number of the noun it qualifies; @[dvijāya] @[bhayam] @[dvijārthaṃ] @[bhayam]
 
-* @[annena] @[vyañjanenaikadeśena] @[vā] @[miśrīkaraṇam] | Kāś. II. 1. 34. 35.
+- @[annena] @[vyañjanenaikadeśena] @[vā] @[miśrīkaraṇam] | Kāś. II. 1. 34. 35.
 
 † @[ojaḥsahorabhasasvāstu] @[tṛtīyāyāḥ] | Pāṇ. VI. 3. 3. @[atra] @[upasaṃkhyānam] | Vārt.
 
@@ -3843,7 +4109,7 @@ Exceptions.
 
 (1) If the word denoting a quality ends in @[tara] it does combine with a noun in the Genitive, and the @[tara] is dropped; @[sarveṣāṃ śvetatarḥ sarvaśvetaḥ] whiter than all others; similarly @[sarveṣāṃ mahattaraḥ sarvamahān] &c.
 
-(2)* The words @[dvitīya], @[tṛtīya], @[caturtha] and @[turya] are compounded with nouns signifying the whole of which they are parts, and are optionally placed first; @[dvitīyaṃ bhikṣāyāḥ dvitīyabhikṣā], @[bhikṣādvitīyam] half of the quantity of alms; but @[dvitā bhikṣāyāḥ] (begging alms a second time) @[bhikṣukaḥ].
+(2)\* The words @[dvitīya], @[tṛtīya], @[caturtha] and @[turya] are compounded with nouns signifying the whole of which they are parts, and are optionally placed first; @[dvitīyaṃ bhikṣāyāḥ dvitīyabhikṣā], @[bhikṣādvitīyam] half of the quantity of alms; but @[dvitā bhikṣāyāḥ] (begging alms a second time) @[bhikṣukaḥ].
 
 Note.—Compounds like @[dvitīyabhikṣā], @[pūrvakāyaḥ] (see further on) &c, are not strictly Gen. Tat, as the case of the first word determines the name, but mere Tat.; some call these Nom. Tat. (@[prāthamikatatpuruṣa]).
 
@@ -3853,7 +4119,7 @@ Note.—Compounds like @[dvitīyabhikṣā], @[pūrvakāyaḥ] (see further on) 
 
 N. B. In order that the above rule should hold the noun expressive of the whole must denote a single object; hence @[pūrvaḥ]
 
-* @[dvitīyatṛtīyacaturthaturyāṇyanyatarasyām] | Pan. II. 2. 3.
+- @[dvitīyatṛtīyacaturthaturyāṇyanyatarasyām] | Pan. II. 2. 3.
 
 † @[karmaṇi ca] | Pan. II. 2. 14.
 
@@ -3861,7 +4127,7 @@ N. B. In order that the above rule should hold the noun expressive of the whole 
 
 the first among pupils, @[ardhaṃ pippalīnām] half of a number of pippalis &c, and not @[pūrvaśiṣyaḥ] &c.
 
-#### § 213. * A word expressive of a part is compounded with another signifying a period of time and is placed first: @[madhyaṃ ahnaḥ madhyāhnaḥ] mid-day, @[pūrvāhnaḥ], @[madhyarātram] &c.
+#### § 213. \* A word expressive of a part is compounded with another signifying a period of time and is placed first: @[madhyaṃ ahnaḥ madhyāhnaḥ] mid-day, @[pūrvāhnaḥ], @[madhyarātram] &c.
 
 #### § 214. † A word expressive of a period of time that has passed since a certain occurrence is compounded with another expressive of the occurrence; as @[māso jātaḥ yasya saḥ māsajātaḥ] 'one since whose birth a month has elapsed'; @[saṃvatsarajātaḥ]; @[dvimāsajātaḥ] &c.
 
@@ -3875,13 +4141,13 @@ the first among pupils, @[ardhaṃ pippalīnām] half of a number of pippalis &c
 
 (d) and optionally when followed by @[putra] and censure is implied; @[dāsyāḥ putraḥ] or @[dāsīputraḥ] a bastard, a knave; but @[brāhmaṇīputraḥ]
 
-* @[kālādhvanortyādibhāge] | Pan. II. 2. 5.
+- @[kālādhvanortyādibhāge] | Pan. II. 2. 5.
 
 † @[prāgdīvyatorupapade samānādhikaraṇaḥ] | Pan. II. 2. 6.
 
 ‡ @[ṣaṣṭhī ca ākrośe] | Pan. VI. 3. 21. @[dvākānāṃ priya iti ca mūrkhe vācādīdaṇḍahareyoḥ] | @[yuktidaṇḍaharāḥ tu kāśipatipadahvādiliṅgoḥ śunaḥ] | @[divaśca dāse] | Vartikas. '@[prāthamikatatpuruṣa]' Pan. VI. 3. 22.
 
-(c)* When a word ending in @[ṛ] is compounded with another and there is the relation by blood or some kind of learning, the aluk is necessary; and optional when it is followed by @[svasṛ] and @[pati]. The initial @[s] of @[svasṛ] is optionally changed to @[ṣ] when preceded by any or its and when there is aluk, and necessarily when there is no aluk in a compound; e. g. @[hotṛpuṭraḥ], @[hotṛśrāvaḥ], a pupil of the Hotṛ; @[mātuḥsvasā], or @[mātuḥṣvasā] and @[mātṛṣvasā]; so @[pituḥsvasā], &c. (but @[mātuḥ svasā], @[pituḥ svasā] when uncompounded); @[svasupatiḥ] or @[svasṛpatiḥ]; but @[hotṛdhanam].
+(c)\* When a word ending in @[ṛ] is compounded with another and there is the relation by blood or some kind of learning, the aluk is necessary; and optional when it is followed by @[svasṛ] and @[pati]. The initial @[s] of @[svasṛ] is optionally changed to @[ṣ] when preceded by any or its and when there is aluk, and necessarily when there is no aluk in a compound; e. g. @[hotṛpuṭraḥ], @[hotṛśrāvaḥ], a pupil of the Hotṛ; @[mātuḥsvasā], or @[mātuḥṣvasā] and @[mātṛṣvasā]; so @[pituḥsvasā], &c. (but @[mātuḥ svasā], @[pituḥ svasā] when uncompounded); @[svasupatiḥ] or @[svasṛpatiḥ]; but @[hotṛdhanam].
 
 #### § 216. A noun in the Locative is compounded—
 
@@ -3891,7 +4157,7 @@ the first among pupils, @[ardhaṃ pippalīnām] half of a number of pippalis &c
 
 There are a few Loc. Tat. compounds given in the list @[kūpasamitādi] having a similar sense; e. g. @[kūpe maṇḍūka iva kūpamaṇḍūkaḥ] a well-abiding frog i. e. one who knows nothing of the world
 
-* @[ṛtaḥ vidyāyonisambandhebhyaḥ | vidyāyāḥ pitṛvyayoḥ] Pāṇ. VI. 3. 23, 24. @[mātṛpitṛbhyāṃ svasṛ ṣuk yāmanyatarasyām | mātṛpitṛbhyāṃ svasā] Pāṇ. VIII. 3. 84, 85.
+- @[ṛtaḥ vidyāyonisambandhebhyaḥ | vidyāyāḥ pitṛvyayoḥ] Pāṇ. VI. 3. 23, 24. @[mātṛpitṛbhyāṃ svasṛ ṣuk yāmanyatarasyām | mātṛpitṛbhyāṃ svasā] Pāṇ. VIII. 3. 84, 85.
 
 † @[saptamī śikṣitādiṣu | siddhaśuṣkapakvabandhebhyaśca] Pāṇ. II. 1. 40, 41.
 
@@ -3905,13 +4171,13 @@ outside the pale of his own village; so @[kūpa-udaka-pāna-maṇḍūkaḥ]; @[
 
 Note:—Words of this class do not enter into further combination with other words.
 
-(c) * with another, when they both imply a name (@[saṃjñā]); there is an aluk of the Loc. term. when the noun ends in a consonant or @[a]; as @[araṇye tilakāḥ] lit. 'wild sesamum yielding no oil, hence anything not answering to one's expectations:' similarly @[vane kaṭukaḥ]; @[svacchi sāraḥ] 'a bamboo' (also @[aścarāḥ], vide Si. IV. 61.). These compounds are @[nitya] (obligatory) as remarked by Bhaṭṭoji (@[vākyena saṃjñānavagatānnityasamāsa ayam]).
+(c) \* with another, when they both imply a name (@[saṃjñā]); there is an aluk of the Loc. term. when the noun ends in a consonant or @[a]; as @[araṇye tilakāḥ] lit. 'wild sesamum yielding no oil, hence anything not answering to one's expectations:' similarly @[vane kaṭukaḥ]; @[svacchi sāraḥ] 'a bamboo' (also @[aścarāḥ], vide Si. IV. 61.). These compounds are @[nitya] (obligatory) as remarked by Bhaṭṭoji (@[vākyena saṃjñānavagatānnityasamāsa ayam]).
 
 (d) with potential p. participles in @[ya] implying an obligation, @[kartavya] (@[rātre]); @[purastaddheya] (@[vane]); the aluk by § 217 (a) below.
 
 (e) † with p. p. participles when it expresses a part of the day or night; @[ṣaṣṭhī] may take the place of the Loc; as @[prātaḥ channa prātaśchanna]; @[avararātre channa avarārātrachanna]; but also @[prātaśca]; and with the p. p. participles when reproach is implied, with an aluk of the Loc; as "@[avatattre nakule sthitaṃ tavaitad]" 'this thy action is similar to that of a mongoose on the hot ground.' @[avatattre nakule sthitam] is used to express the inconstancy of a person.
 
-* @[saṃjñāyām | halantācca] Pāṇ. II. 1. 44, 45. @[gavisamidhiṣabhyāṃ sthiraḥ] Pāṇ. II. 1. 9. Śā. S. 9. d.
+- @[saṃjñāyām | halantācca] Pāṇ. II. 1. 44, 45. @[gavisamidhiṣabhyāṃ sthiraḥ] Pāṇ. II. 1. 9. Śā. S. 9. d.
 
 † @[kālāhne yatayaḥ | ṣaṣṭhī | kṣepe] Pāṇ. II. 2. 45-47.
 
@@ -3953,7 +4219,7 @@ N. B. The difference between the @[Tatpuruṣa] proper and @[Karmadhāraya] is t
 
 (b) Similarly a noun denoting the person or thing compared (@[upameyam]) may be compounded with words indicative of excellence, such as @[vyāghraḥ], @[siṃhaḥ], @[ṛṣabhaḥ], @[vṛṣaḥ], &c. no mention
 
-* @[tatpuruṣaḥ samānādhikaraṇaḥ karmadhārayaḥ] | Pā. II. 1. 2. 42.
+- @[tatpuruṣaḥ samānādhikaraṇaḥ karmadhārayaḥ] | Pā. II. 1. 2. 42.
 
 † @[upamānāni sāmānyavacanaiḥ] | Pan. II. 1. 55.
 
@@ -3971,7 +4237,7 @@ Note. 2.—The above Karmadhārayas may be dissolved as @[candraḥ iva mukhaṃ
 
 As a general rule in such compounds the qualifying word is placed first; but there are several exceptions which are given below.
 
-* So when the common attribute is applicable in its expressed (@[abhihita]) sense to the @[upameyam] as in @[prabhātaṃ sahasram] dissolve the comp. as @[mukhaṃ padmam iva] and when to the @[upamānam] as in @[vikastaṃ padmam] dissolve as @[mukham iva padmam]
+- So when the common attribute is applicable in its expressed (@[abhihita]) sense to the @[upameyam] as in @[prabhātaṃ sahasram] dissolve the comp. as @[mukhaṃ padmam iva] and when to the @[upamānam] as in @[vikastaṃ padmam] dissolve as @[mukham iva padmam]
 
 † @[viśeṣaṇaṃ viśeṣyeṇa bahulaṃ] | Pan. II. 1. 57.
 
@@ -4015,13 +4281,13 @@ or reproached are placed first; as @[kutsitavyākaraṇaḥ] 'a bad grammarian',
 
 #### § 222-223 ] KARMADHĀRAYA. 137
 
-The words @[para], @[apara], @[uttara], @[adya] 'hindmost,' @[antyа], @[madhya], @[madhyama] and @[jaghanya] are always placed first in a Karmadhāraya compound. @[Para] when followed by @[eka] is changed to @[parva]; as @[ekavīraḥ] 'sole master or lord', @[ekārṇavaḥ], @[jaradvaitavādī] 'an old logician,' @[purāṇamīmāṃsā] 'old mīmāṃsā philosophers' @[navapāṭhakāḥ], @[pūrvavvaiyākaraṇāḥ] 'the old grammarians,' @[aparādhyāpakaḥ] @[aparaścāsau] @[aṅgaśca] @[tasmāt] 'the hinder part or side of the body;' @[uttamarājaḥ] the last king, @[samānādhikaraṇam] 'being in the same category or predicament'; @[ekavīraḥ] 'a sole warrior i.e. a eminent warrior', &c. The form @[ekavīra] (found used by great writers) also may be defended.*
+The words @[para], @[apara], @[uttara], @[adya] 'hindmost,' @[antyа], @[madhya], @[madhyama] and @[jaghanya] are always placed first in a Karmadhāraya compound. @[Para] when followed by @[eka] is changed to @[parva]; as @[ekavīraḥ] 'sole master or lord', @[ekārṇavaḥ], @[jaradvaitavādī] 'an old logician,' @[purāṇamīmāṃsā] 'old mīmāṃsā philosophers' @[navapāṭhakāḥ], @[pūrvavvaiyākaraṇāḥ] 'the old grammarians,' @[aparādhyāpakaḥ] @[aparaścāsau] @[aṅgaśca] @[tasmāt] 'the hinder part or side of the body;' @[uttamarājaḥ] the last king, @[samānādhikaraṇam] 'being in the same category or predicament'; @[ekavīraḥ] 'a sole warrior i.e. a eminent warrior', &c. The form @[ekavīra] (found used by great writers) also may be defended.\*
 
 (A) † The words @[vara], @[śreṣṭha], @[parama], @[ukṛṣṭa] and @[pradhāna] are compounded with another noun when they are used as terms of praise or excellence; @[varabhiṣak] 'an excellent physician' @[śreṣṭhabrāhmaṇaḥ] &c, but @[uddhṛta hasta] where @[uddhṛta] means 'uplifted, or 'drawn out of.'
 
 #### § 223. ‡ Names of quarters and numerals form a Karm.compound with any @[subanta] (a declinable word) but only when the whole compound is an appellation; e.g. @[uttarāhā] 'Name of a constellation of stars, 'Ursa Major; @[pañcajanāḥ] † &c., @[pūrvataraupakāgrāmaḥ]
 
-* @[katham] @[ekaḥ] @[vīra] @[iti] @[pūrvaikatiketi] @[bādhitvā] @[paratvādanena] @[samāsaḥ] @[vīre] @[prāptaḥ] @[hi] @[syāt] । @[bahulaṃ] @[grāhyam] @[iti] @[bhāṣyati] । How do you justify the form @[ekavīra]? For the Sūtra @[pūrvāpara] &c. being a subsequent one ought to have preference over the preceding Sūtra @[pūrvaikatike] &c. and we should have @[vīraikaḥ]. We reply.—The form may be justified by supposing that the rule operates in most cases only @[bahulagrahaṇāt] and not in a few).
+- @[katham] @[ekaḥ] @[vīra] @[iti] @[pūrvaikatiketi] @[bādhitvā] @[paratvādanena] @[samāsaḥ] @[vīre] @[prāptaḥ] @[hi] @[syāt] । @[bahulaṃ] @[grāhyam] @[iti] @[bhāṣyati] । How do you justify the form @[ekavīra]? For the Sūtra @[pūrvāpara] &c. being a subsequent one ought to have preference over the preceding Sūtra @[pūrvaikatike] &c. and we should have @[vīraikaḥ]. We reply.—The form may be justified by supposing that the rule operates in most cases only @[bahulagrahaṇāt] and not in a few).
 
 † @[vara] @[mahāt] @[paramo] @[ttamaḥ] @[ukṛṣṭāḥ] @[pūjyamānaḥ] । Pāṇ. II. 1. 61
 
@@ -4031,7 +4297,7 @@ The words @[para], @[apara], @[uttara], @[adya] 'hindmost,' @[antyа], @[madhya]
 
 'Name of a town in the east,' @[uttare drumāḥ] 'Northem trees; @[pañca brāhmaṇāḥ] &c. The compound is forbidden in other cases.
 
-(a) * But words denoting a cardinal point or numerals may be compounded with any other noun when a @[Taddhita] termination is to be affixed to the compound so formed (or it conveys in addition to its sense as a Karm. a derivative meaning such as is usually denoted by a Tad. aff.) or when the compound itself becomes the first member of another compound or when the compound forms a proper name; @[pūrvā śālā] @[pūrvaśālā]; @[pūrvaśālāyāṃ] @[bhavaḥ] @[paurvaśālaḥ] 'being in the eastem hall' from @[pūrvaśālā] + @[a] (a Tad. aff. @[a] added by @[tasmin] @[iti] @[nirdiṣṭe] @[pūrvasya] @[aḥ] । Pāṇ. IV. 2. 107), so @[ṣaṣ] + @[mātā] = @[ṣaṇmātṛ] 'six mothers' + Tad. @[a] = @[ṣāṇmāturahḥ] the son of six mothers, @[pūrvā kālā] @[pūrvaśālā] @[priyā] @[yasya] @[saḥ] @[pūrvaśālāpriyaḥ] where @[pūrvaśālā] is a @[pūrvapada] and not used independently: @[uttarādharmāḥ], @[uttaravediḥ] &c. which are names.
+(a) \* But words denoting a cardinal point or numerals may be compounded with any other noun when a @[Taddhita] termination is to be affixed to the compound so formed (or it conveys in addition to its sense as a Karm. a derivative meaning such as is usually denoted by a Tad. aff.) or when the compound itself becomes the first member of another compound or when the compound forms a proper name; @[pūrvā śālā] @[pūrvaśālā]; @[pūrvaśālāyāṃ] @[bhavaḥ] @[paurvaśālaḥ] 'being in the eastem hall' from @[pūrvaśālā] + @[a] (a Tad. aff. @[a] added by @[tasmin] @[iti] @[nirdiṣṭe] @[pūrvasya] @[aḥ] । Pāṇ. IV. 2. 107), so @[ṣaṣ] + @[mātā] = @[ṣaṇmātṛ] 'six mothers' + Tad. @[a] = @[ṣāṇmāturahḥ] the son of six mothers, @[pūrvā kālā] @[pūrvaśālā] @[priyā] @[yasya] @[saḥ] @[pūrvaśālāpriyaḥ] where @[pūrvaśālā] is a @[pūrvapada] and not used independently: @[uttarādharmāḥ], @[uttaravediḥ] &c. which are names.
 
 #### § 224. The particle @[ku] forms a Karm. compound with any other @[prātipadika]; @[kupuruṣaḥ] (@[kutsitaḥ] @[puruṣaḥ]) a bad man; @[kupaṭhaḥ] &c.
 
@@ -4039,7 +4305,7 @@ The words @[para], @[apara], @[uttara], @[adya] 'hindmost,' @[antyа], @[madhya]
 
 (2) To @[kā] when followed by @[pathin] and @[akṣa] and when meaning 'a little,' and optionally when prefixed to @[puruṣa]; @[kāpathaḥ], @[kākṣaḥ] 'a sidelong look or a frown of displeasure,' see Bh.V. 54 (@[akṣaśabdena]
 
-* @[taddhitārthottarapada] @[samāhāre] @[ca] । Pāṇ. II. 1. 51.
+- @[taddhitārthottarapada] @[samāhāre] @[ca] । Pāṇ. II. 1. 51.
 
 † @[koḥ] @[kaṭ] @[kuṇḍibhyo] @[aci] । (@[ca] @[caḥ] Vārt:) @[rathavācośca] । @[tṛṇe] @[ca] @[jātau] । @[kāpathyakṣayoḥ] । @[iṣatti] । @[vibhāṣā] @[puruṣe] । @[kavaṃ] @[coṣṇe] । Pāṇ. VI. 3. 101-107.
 
@@ -4081,7 +4347,7 @@ Dwigu or Numeral appositional Compounds.
 
 (b) And when the compound denotes an aggregate, in this case it is singular; as @[trayāṇāṃ] @[bhuvanānāṃ] @[samāhāraḥ] @[tribhuvanam] 'the three worlds (taken collectively)'; so @[pañca] @[kapālam], @[pañcagavam], &c.
 
-* @[śākapārthivādīnāṃ] @[siddhaye] @[uttarapadalopasyopasaṃkhyānam]. Vārt. on Pāṇ. II. 1. 60.
+- @[śākapārthivādīnāṃ] @[siddhaye] @[uttarapadalopasyopasaṃkhyānam]. Vārt. on Pāṇ. II. 1. 60.
 
 † @[saṃkhyāpūrvo] @[dviguḥ]. Pāṇ. II. 1. 52.
 
@@ -4103,13 +4369,13 @@ Prepositional Compounds.
 
 (b) Onomatopoetic words not followed by @[iti], as @[khaṭkṛtya]; but @[khaṭ] @[iti] @[kṛtvā] (@[nirāṭśīvat]).
 
-* @[kugatiprādayaḥ]. Pāṇ. II. 2. 18. @[pra] @[ādayaḥ] @[samānāya] @[prathamayā]. @[upa] @[ādayaḥ] @[karmaṇy] @[arthe] @[dvitīyayā]. @[ati] @[ādayaḥ] @[ṣaṣṭhy] @[arthe] @[tṛtīyayā]. @[pari] @[ādayaḥ] @[glāna] @[arthe] @[caturthyā]. @[nir] @[ādayaḥ] @[krāntāḥ] @[pañcamyā]. @[karmapravacanīyānāṃ] @[pratiṣedhaḥ]. Vārtikas.
+- @[kugatiprādayaḥ]. Pāṇ. II. 2. 18. @[pra] @[ādayaḥ] @[samānāya] @[prathamayā]. @[upa] @[ādayaḥ] @[karmaṇy] @[arthe] @[dvitīyayā]. @[ati] @[ādayaḥ] @[ṣaṣṭhy] @[arthe] @[tṛtīyayā]. @[pari] @[ādayaḥ] @[glāna] @[arthe] @[caturthyā]. @[nir] @[ādayaḥ] @[krāntāḥ] @[pañcamyā]. @[karmapravacanīyānāṃ] @[pratiṣedhaḥ]. Vārtikas.
 
 † @[ūrṇādiṣu] @[ca]. Pāṇ. I. 4. 61. @[kārikāśabdasyopasaṃkhyānam]. Bhāṣyas.
 
 ‡ @[avyayībhāvaś] @[ca] @[śabdāt] @[anīti] @[parat]. Pāṇ. I. 4. 62.
 
-(c) *The words @[sat] and @[asat] showing respect and disrespect, respectively, the prepositions @[alaṃ] in the sense of 'adorning,' @[puraḥ], @[prāk], @[ataḥ], @[kaṇe], @[manaḥ], @[astaṃ], @[accha], and @[tiraḥ]; as @[alaṃkṛtya] 'having adorned', but @[alaṃ kṛtvā] doing enough (@[paryāptitvārthaḥ] Sid. Kau.); @[puraskṛtya] 'placing in the front'; @[prākkṛtya] (@[pūrvatara]); @[antarkṛtya] (@[madhye kṛtvā] Sid. Kau.); @[kaṇekṛtya], as @[kaṇekṛtya payaḥ pibati] 'he drinks milk to his heart's content'; @[acchoktvā] 'having gone up to and spoken' (@[abhimukhaṃ gatvā uktvā ca ityarthaḥ] Sid. Kau.); @[tirobhūya], @[manobhūya] (till disgust is produced); @[astaṃgatya], @[acchagatya] 'going towards.'
+(c) \*The words @[sat] and @[asat] showing respect and disrespect, respectively, the prepositions @[alaṃ] in the sense of 'adorning,' @[puraḥ], @[prāk], @[ataḥ], @[kaṇe], @[manaḥ], @[astaṃ], @[accha], and @[tiraḥ]; as @[alaṃkṛtya] 'having adorned', but @[alaṃ kṛtvā] doing enough (@[paryāptitvārthaḥ] Sid. Kau.); @[puraskṛtya] 'placing in the front'; @[prākkṛtya] (@[pūrvatara]); @[antarkṛtya] (@[madhye kṛtvā] Sid. Kau.); @[kaṇekṛtya], as @[kaṇekṛtya payaḥ pibati] 'he drinks milk to his heart's content'; @[acchoktvā] 'having gone up to and spoken' (@[abhimukhaṃ gatvā uktvā ca ityarthaḥ] Sid. Kau.); @[tirobhūya], @[manobhūya] (till disgust is produced); @[astaṃgatya], @[acchagatya] 'going towards.'
 
 (2) †The words @[haste], @[pāṇau] and @[prādvam]; as @[hastekṛtya], @[pāṇikṛtya] 'having married'; @[prādvaṃ kṛtya] 'having forced to yield.'
 
@@ -4121,13 +4387,13 @@ Prepositional Compounds.
 
 ---
 
-* @[Pāṇ]. I. 4. 63-71.
-† @[Pāṇ]. I. 4. 77-78.
-‡ Pāṇ. I. 4. 73-76. (@[anatyayāt urasimanasī]).
+- @[Pāṇ]. I. 4. 63-71.
+  † @[Pāṇ]. I. 4. 77-78.
+  ‡ Pāṇ. I. 4. 73-76. (@[anatyayāt urasimanasī]).
 
 ## 6. @[upapada] Compounds.
 
-#### § 235. When the second member of a Tat. Comp. is a root-noun derived from a root which takes a particular Kṛit affix by virtue of the presence of the first member, it is called an @[upapada] Tat.; as @[kumbhaṃ karotīti kumbhakāraḥ] 'a potter,' so @[sāma gāyatīti sāmagaḥ] 'one who chants a verse of the Sāman veda,' @[māṃsaṃ kāmayatī māṃsakāmā] 'desirous of meat'; similarly @[aśvakreyī] (@[aśvena krītā]) 'bought for a horse', @[kacchapī] 'a female tortoise,' &c. The noun prefixed to the last member, such as @[kumbha], is called an @[upapada].*
+#### § 235. When the second member of a Tat. Comp. is a root-noun derived from a root which takes a particular Kṛit affix by virtue of the presence of the first member, it is called an @[upapada] Tat.; as @[kumbhaṃ karotīti kumbhakāraḥ] 'a potter,' so @[sāma gāyatīti sāmagaḥ] 'one who chants a verse of the Sāman veda,' @[māṃsaṃ kāmayatī māṃsakāmā] 'desirous of meat'; similarly @[aśvakreyī] (@[aśvena krītā]) 'bought for a horse', @[kacchapī] 'a female tortoise,' &c. The noun prefixed to the last member, such as @[kumbha], is called an @[upapada].\*
 
 N.B. The latter member of such compounds must neither be the conjugated form of a root nor a separate verbal derivative i.e. formed independently of the last member; e.g. @[payodharaḥ] is not an @[upapada] Tat., as the word @[dhara] can be independently formed; it is a Gen. Tat. @[dharatīti dharaḥ payaḥ dharaḥ payodharaḥ] 'a cloud' or 'the female breast.'
 
@@ -4137,17 +4403,20 @@ N.B. The latter member of such compounds must neither be the conjugated form of 
 
 ---
 
-* @[tatraupappadaṃ suptinām] | Pāṇ. III. 1. 92. @[ktamyantante pade karmaṇītyādau sādhyatvena sthitaṃ prātipadikam tadvācakaṃ padaṃ upapadasaṃjñaṃ syāt] | Sid. Kau.
+- @[tatraupappadaṃ suptinām] | Pāṇ. III. 1. 92. @[ktamyantante pade karmaṇītyādau sādhyatvena sthitaṃ prātipadikam tadvācakaṃ padaṃ upapadasaṃjñaṃ syāt] | Sid. Kau.
 
 #### § 238-239 ] TATPURUṢA COMPOUNDS. 145
 
 ## General Rules Applicable To The
+
 ## Tatpuruṣa Compounds.
 
 #### § 238. The word @[aṅgula] at the end of a Tatpuruṣa compound
+
 changes its final to @[a] when preceded by a numeral or an inde- clinable, as @[dvy-aṅgulam] @[prabhāmānasya] @[kāṣṭhasya] 'a piece of wood measuring two fingers,' @[try-aṅgulam] @[nir-aṅgulam] &c.
 
 #### § 239. The following words, when at the end of a Tatpu-
+
 ruṣa, drop the final vowel, together with the following consonant if there be any, and add @[a] under the circumstances mentioned:—
 
 (a) @[rātri] when preceded by a numeral, an indeclinable, a word expressive of a part of the whole, such as @[pūrva], @[apara], &c.,
@@ -4162,9 +4431,9 @@ The same happens when @[rātri] is preceded by @[ahan] in a Dwandwa; as @[ahaś 
 
 (c) Exception:—@[ahan] when preceded by an indeclinable, or a
 
-* @[aṅgulaś ca numud avyayāt] | Pan. V. 4. 86. † @[ahaḥ sarvaika-deśa-saṃkhyāta-puṇyāś ca rātreḥ] | Pan. V. 4. 87.
-‡ @[rājñaḥ sakhībhyaṣ ṭac] | Pan. V. 4. 91. § @[addho 'ṅga etebhyaḥ] | Pan. V. 4. 88.
-H. S. G. 10.
+- @[aṅgulaś ca numud avyayāt] | Pan. V. 4. 86. † @[ahaḥ sarvaika-deśa-saṃkhyāta-puṇyāś ca rātreḥ] | Pan. V. 4. 87.
+  ‡ @[rājñaḥ sakhībhyaṣ ṭac] | Pan. V. 4. 91. § @[addho 'ṅga etebhyaḥ] | Pan. V. 4. 88.
+  H. S. G. 10.
 
 word denoting a part of the whole, or by @[sarva] or by a numeral with a @[taddhita] affix added to the whole compound, becomes @[addha]; @[atikrāntam ahaḥ] exceeding a day (in duration) @[aty-addham], @[pūrv-addham] forenoon, @[sarv-addham] the whole day, @[dvy-addham], @[try-addham] @[dvāv ahnī] @[dvy-addhikam]
 (adj. fem.), @[dvy-addhakam] &c.; with @[saṃkhyāta], the change is optional;
@@ -4181,19 +4450,20 @@ bad or unlucky throw of dice,' but @[vānara-śvā] 'a monkey like a dog'.
 (f) A numeral when compounded in a Tat. @[nirgatāni triṃśataḥ] @[nirgatāni dravyāṇi] (weight) more than thirty; @[nirgataḥ triṃśatād aṅgulyaḥ] @[nir-triṃśad-aṅgulaḥ khargaḥ] a sword more than thirty fingers in length.
 
 #### § 240. The following words have an @[a] added to them when
+
 at the end of a @[Tatpuruṣa] compound:—
 
 (a) @[go] except when a Tad. aff. is added and then dropped; e. g.
 
-* @[addho ṇ-tāt] | Pāṇ. VIII. 4. 7. † @[grāma-kauṭābhyāṃ ca takṣṇaḥ] | @[ateḥ śvanaḥ] | @[uccam-rāṇād aghrāṇiṣu] | Pan. V. 4.
-96-97.
-‡ @[uccam-rāṇāt pūrvād aghrāṇiṣu sakthnah] | Pan. V. 4. 98. § @[go-ṇas tad-dhita-vat-kañi] | Pan. V. 4. 92.
+- @[addho ṇ-tāt] | Pāṇ. VIII. 4. 7. † @[grāma-kauṭābhyāṃ ca takṣṇaḥ] | @[ateḥ śvanaḥ] | @[uccam-rāṇād aghrāṇiṣu] | Pan. V. 4.
+  96-97.
+  ‡ @[uccam-rāṇāt pūrvād aghrāṇiṣu sakthnah] | Pan. V. 4. 98. § @[go-ṇas tad-dhita-vat-kañi] | Pan. V. 4. 92.
 
 #### § 240-241 } Tatpuruṣa Compounds. 147
 
 @[paramagavaḥ] an excellent bull, @[pañcagavam]—(a collection of five cows) @[dhanam], but @[dvigauḥ] exchanged or bartered for two cows.
 
-(c) * @[Śreṣṭha] meaning 'chief' or 'eminent'. @[andhānām uṣṭra iva aśvottamaḥ] 'the chief of horses i. e. an excellent horse.'
+(c) \* @[Śreṣṭha] meaning 'chief' or 'eminent'. @[andhānām uṣṭra iva aśvottamaḥ] 'the chief of horses i. e. an excellent horse.'
 
 (d) † The words @[anas], @[adaman], @[añjali] and @[saras] when they denote a class or form names; @[upānasam] (@[upagatam anaḥ]) 'a cart-load,' @[mahānasaḥ] 'a kitchen'; @[aśvāśmanam] 'a kind of stone like the moon-stone' [in this case the final @[an] is dropped]; @[mahāśman] 'black iron', @[maṇḍūkarasam] 'a lake full of frogs'; @[jalasarasam] 'a lake of that name.'
 
@@ -4205,17 +4475,18 @@ at the end of a @[Tatpuruṣa] compound:—
 
 #### § 241. 11 The @[n] of @[brahman] is optionally dropped when preced-
 
-* @[śreṣṭhākhyāyāḥ ca saraḥ]. Pān. V. 4. 93.
-† @[anosca samasyaḥ sarasāṃ skandhanāmni]. Pān. V. 4. 94.
-‡ @[nāvo dvigoḥ]. @[ardhāt] Pān. V. 4. 99. 100 § @[khāryāḥ ca]. Pān. V. 4. 101.
-+ @[dvitribhyām añjaleḥ]. Pān. V. 4. 102.
-11 @[alpo brahmaṇo jānapadākhyāyām]. @[kumahaddghāmanyantatasyārthāt]. 242. V. 4. 104. 105.
+- @[śreṣṭhākhyāyāḥ ca saraḥ]. Pān. V. 4. 93.
+  † @[anosca samasyaḥ sarasāṃ skandhanāmni]. Pān. V. 4. 94.
+  ‡ @[nāvo dvigoḥ]. @[ardhāt] Pān. V. 4. 99. 100 § @[khāryāḥ ca]. Pān. V. 4. 101.
+
+* @[dvitribhyām añjaleḥ]. Pān. V. 4. 102.
+  11 @[alpo brahmaṇo jānapadākhyāyām]. @[kumahaddghāmanyantatasyārthāt]. 242. V. 4. 104. 105.
 
 148 Sanskrit Grammar. { § 241-244
 
 ed by @[ku] and @[mahat]; @[kubrahmā-brahmaḥ] a bad Brāhmaṇa, @[mahābrahmā-brahmaḥ]. The @[n] is dropped necessarily when the compound implies the country in which the Brāhmaṇa dwells; e. g. @[saurāṣṭrabrahmā] a Brāhmaṇa dwelling in Surāṣṭra.
 
-#### § 242. * The word @[mahat] is changed to @[mahā] when it forms the first member of a Karmadhāraya or a @[bahuvrīhi] compound, or when the termination @[jātīya] follows, as @[mahādevaḥ] the great god, @[mahābāhuḥ] a great arm (Tat.) or one having a great arm (Bah.); @[mahājātīyaḥ]; but @[mahataḥ sevā mahatsevā] (Gen. Tat.).
+#### § 242. \* The word @[mahat] is changed to @[mahā] when it forms the first member of a Karmadhāraya or a @[bahuvrīhi] compound, or when the termination @[jātīya] follows, as @[mahādevaḥ] the great god, @[mahābāhuḥ] a great arm (Tat.) or one having a great arm (Bah.); @[mahājātīyaḥ]; but @[mahataḥ sevā mahatsevā] (Gen. Tat.).
 
 Exception:— When it is followed by @[chāga], @[kara] and @[viśiṣṭa] the change takes place necessarily; @[mahato mahato vā chāgasya karaḥ mahācchāgaḥ]; similarly @[mahākharaḥ], @[mahāviśiṣṭaḥ].
 
@@ -4225,10 +4496,10 @@ Exception:— When it is followed by @[chāga], @[kara] and @[viśiṣṭa] the 
 
 (a) But in the case of the word @[pathin] the final @[in] is optionally dropped and @[a] added; @[apatham] or @[apathāḥ] 'absence of a road'. @[Pathin] when so modified in a Tat. is neu.; § (but @[mārgaḥ śreṣṭhaḥ]).
 
-* @[ānmahataḥ samānādhikaraṇajātīyayoḥ]. Kāś. VI. 3. 46. and the Vārtikas on it.
-† @[aṣṭanaḥ kapāle hotavyaḥ]. @[gavi ca yāne] Vārtikas.
-‡ @[nañsamāsāttapuruṣāt]. @[patho'pathe]. Kāś. V. 4. 71, 79.
-§ @[apathaṃ napuṃsakam]. Pān. II. 4. 3.
+- @[ānmahataḥ samānādhikaraṇajātīyayoḥ]. Kāś. VI. 3. 46. and the Vārtikas on it.
+  † @[aṣṭanaḥ kapāle hotavyaḥ]. @[gavi ca yāne] Vārtikas.
+  ‡ @[nañsamāsāttapuruṣāt]. @[patho'pathe]. Kāś. V. 4. 71, 79.
+  § @[apathaṃ napuṃsakam]. Pān. II. 4. 3.
 
 [ § 246 ] @[TATPURUṢA]. 149
 
@@ -4244,8 +4515,8 @@ Exceptions:—
 
 (c) A collective @[dvigu] is neu.; but that ending in @[ī] is generally feminine, and that ending in @[a] is optionally so in which case it takes the termination @[ī]; @[pañcagavaṃ] collection of five cows, @[trayāṇāṃ] @[lokānāṃ] @[samāhāraḥ] @[trailokam]; but @[pañcapāyam], @[pañcadaśam], @[caturyugam] &c.; @[ṣaṇṇāṃ] @[bhadrāṇāṃ] @[samāhāraḥ] @[ṣaḍbhadraṃ], @[ṣaḍbhadrī]. The @[a] of final @[ana] is dropped and the @[dvigu] is optionally feminine @[pañcatakṣī-kam], (e. @[pañca] + @[takṣa] a carpenter)
 
-* @[strīliṅgaṃ] @[dviṣattaddhumupasarjanayoḥ] | Pāṇ. II. 4. 26
-@[liṅgaṃ] @[prādisamāsebhyo] @['nyadekṣālaṅpūrvam] @[atisamāseṣu] | Vārt @[satrāhāhāḥ] @[pumsi] Pāṇ. II. 4. 29. @[asaṅkhyā] @[pathā] @[bā] | Sid. Kau. @[gaṇarājaḥ] @[pumān] @[ahanyadipathā] | @[pathā] @[saṅkhyā] @['vyayādi] | Vārtikas.
+- @[strīliṅgaṃ] @[dviṣattaddhumupasarjanayoḥ] | Pāṇ. II. 4. 26
+  @[liṅgaṃ] @[prādisamāsebhyo] @['nyadekṣālaṅpūrvam] @[atisamāseṣu] | Vārt @[satrāhāhāḥ] @[pumsi] Pāṇ. II. 4. 29. @[asaṅkhyā] @[pathā] @[bā] | Sid. Kau. @[gaṇarājaḥ] @[pumān] @[ahanyadipathā] | @[pathā] @[saṅkhyā] @['vyayādi] | Vārtikas.
 
 † @[napuṃsakam] | Pāṇ. II. 4. 17. @[īstrīrāntā] @['cakaraṇo] @[dviguḥ] @[prāyam] @[iṣṭaḥ] | @[ānto] @['pi] @[ano] @[nalopaś] @[ca] @[vā] @[ṛdantaś] @[ca] @[striyām] | @[satakṣam] @[na] | Vārtikas on ibid.
 
@@ -4259,7 +4530,7 @@ Exceptions:—
 
 N. B. These rules hold good in the case of Tat. alone; so @[dṛḍhaseno] @[rājā] (Bah.); @[asenā] (Neg. Tat.), @[paramasenā] (Karm.).
 
-* @[upajñopakrame] @[prathamādhyāyine] Pāṇ. II. 4. 21. @[upajñā] @[jñānam] @[ādyaṃ] | @[syāt] @[ārambhārtham] @[upakramaḥ] | Amara.
+- @[upajñopakrame] @[prathamādhyāyine] Pāṇ. II. 4. 21. @[upajñā] @[jñānam] @[ādyaṃ] | @[syāt] @[ārambhārtham] @[upakramaḥ] | Amara.
 
 § @[chāyā] @[bāhulye] | Pāṇ. II. 4. 20.
 
@@ -4279,23 +4550,23 @@ N. B. The difference between a Karm. and Bah. comp. is this:—In the former, on
 
 #### § 247. @[bahuvrīhi] compounds are divided into two classes, @[samānādhikaraṇabahuvrīhi] and @[vyādhikaraṇabahuvrīhi].†
 
-* @[anekam anyapadārthe]. Pāṇ. II. 2. 24. @[samasyamānapadātiriktasya padasya arthaḥ ityarthaḥ]. Ib.
+- @[anekam anyapadārthe]. Pāṇ. II. 2. 24. @[samasyamānapadātiriktasya padasya arthaḥ ityarthaḥ]. Ib.
 
 † Strictly speaking this is not a division of the B. but an exception to the general rule. We have given it as a separate division to avoid confusion.
 
 (a) That is a Samānādhikaraṇa Bah. in which both the members are in apposition to each other i. e. have the same case relation when dissolved. There are six kinds of this according as the @[yat] is in any one of the six oblique cases; e. g. @[prāptam udakaṃ yena saḥ prāptodakaḥ śāpaḥ], @[sthitaḥ rathaḥ yena saḥ sthirathaḥ arjunaḥ], @[dattaṃ vittaṃ yasmai saḥ dattavittaḥ rudraḥ], @[uddhṛtaḥ odanaḥ yasyāḥ sā uddhṛtodanā sthālī], @[pītaṃ ambaraṃ asya saḥ pītāmbaraḥ hariḥ], @[vīrāḥ puruṣāḥ yasmin saḥ vīrapuruṣaḥ grāmaḥ].
 
-#### § 248. A Vyādhikaraṇa Bah. is that whose members are not in apposition to each other i. e. are in different cases when dissolved. A Vyādhikaraṇa Bah. is not allowed in any case except in the Genitive and the Locative:* as @[cakraṃ pāṇau yasya saḥ cakrapāṇiḥ hariḥ], @[candrasya iva kāntiḥ yasya saḥ candrakāntiḥ]; so @[padmagarbhaḥ], @[śaṅkhapāṇiḥ], &c., @[śaśau śekharaḥ yasya asau śaśiśekharaḥ] &c.; but @[aśvaḥ gṛhād āgataḥ yasya pañcakaḥ] is not allowed.
+#### § 248. A Vyādhikaraṇa Bah. is that whose members are not in apposition to each other i. e. are in different cases when dissolved. A Vyādhikaraṇa Bah. is not allowed in any case except in the Genitive and the Locative:\* as @[cakraṃ pāṇau yasya saḥ cakrapāṇiḥ hariḥ], @[candrasya iva kāntiḥ yasya saḥ candrakāntiḥ]; so @[padmagarbhaḥ], @[śaṅkhapāṇiḥ], &c., @[śaśau śekharaḥ yasya asau śaśiśekharaḥ] &c.; but @[aśvaḥ gṛhād āgataḥ yasya pañcakaḥ] is not allowed.
 
 #### § 249 Obs.—The Bah. compounds are also further divided into two kinds; @[tadguṇasaṃjñānabahuvrīhiḥ] and @[atadguṇasaṃjñānabahuvrīhiḥ]. That in which the sense of the attributive member is also present is called Tadguṇasaṃjñāna, @[pītāmbaraṃ harim ānaya] is an instance of the first; here such a @[hariḥ] is meant as has the yellow silk garment actually on. @[cikraṃ rākṣasaṃ ānaya] is of the other;
 
-* @[saptamyāḥ śiṣyate bahuvrīhau]. Pāṇ. II. 2. 35. In a Bah. the noun in the Loc. and an adjectival word are placed first; @[ata eva jñāpakāt vyādhikaraṇapadaḥ pūrvapadaṃ bhavati]. Sid Kau.
+- @[saptamyāḥ śiṣyate bahuvrīhau]. Pāṇ. II. 2. 35. In a Bah. the noun in the Loc. and an adjectival word are placed first; @[ata eva jñāpakāt vyādhikaraṇapadaḥ pūrvapadaṃ bhavati]. Sid Kau.
 
 † This is allowed by the Vārt, '@[saptamyupamānapūrvapadasyottarapadalopaḥ vaktavyaḥ]. In a Bah. comp. the word following a noun in the Loc. or an upamānapada (a noun denoting a standard of comparison) is dropped; so this ought to be properly analysed as @[candrasya kāntiḥ candrakāntiḥ candrasya kāntiḥ iva kāntiḥ yasya asau candrakāntiḥ]. But later grammarians, such as Vāmana, Bhaṭṭoji &c., have rejected this Vārt. altogether as of no practical value.
 
 here what is meant is @[herusman] only and not his variegated cows.
 
-#### § 250. *The negative particle @[na] or @[an] and prepositions, may, sometimes, form Bah. compounds with substantives, the verbal derivatives used to express their sense may be optionally retained; @[apatya] @[putraḥ] @[yasya] @[sa] @[aputraḥ], @[prapatitāni] @[parṇāni] @[yasya] @[sa] @[praparṇaḥ] a tree with its leaves dropped; @[nirgatā] @[dayā] @[yasya] @[sa] @[nirdayaḥ] ruthless; @[udgatā] @[kandharā] @[yasya] @[sa] @[utkandharaḥ] with the neck uplifted, @[asti] @[jīvitaṃ] @[yasya] @[sa] @[sajīvitaḥ] &c.; Also @[aniyataprāṇaḥ], @[aprapatitaparṇaḥ] &c.; @[asti] @[kṣīraṃ] @[yasyāḥ] @[sā] @[attikṣīrā] @[gauḥ] a milk-cow (where @[atti] is an indeclinable meaning 'having').
+#### § 250. \*The negative particle @[na] or @[an] and prepositions, may, sometimes, form Bah. compounds with substantives, the verbal derivatives used to express their sense may be optionally retained; @[apatya] @[putraḥ] @[yasya] @[sa] @[aputraḥ], @[prapatitāni] @[parṇāni] @[yasya] @[sa] @[praparṇaḥ] a tree with its leaves dropped; @[nirgatā] @[dayā] @[yasya] @[sa] @[nirdayaḥ] ruthless; @[udgatā] @[kandharā] @[yasya] @[sa] @[utkandharaḥ] with the neck uplifted, @[asti] @[jīvitaṃ] @[yasya] @[sa] @[sajīvitaḥ] &c.; Also @[aniyataprāṇaḥ], @[aprapatitaparṇaḥ] &c.; @[asti] @[kṣīraṃ] @[yasyāḥ] @[sā] @[attikṣīrā] @[gauḥ] a milk-cow (where @[atti] is an indeclinable meaning 'having').
 
 #### § 251. † The particle @[saha] may be compounded with a noun in the Instrumental case in a @[bahuvrīhi] when there is equal participation in some action; in this case @[saha] optionally becomes @[sa]; as @[putreṇa] @[saha] @[vartate] or @[saputraḥ].
 
@@ -4303,7 +4574,7 @@ here what is meant is @[herusman] only and not his variegated cows.
 
 #### § 252. ‡ A compound of an indeclinable or a numeral or of @[upa], @[adūra] or @[adhika] with a numeral is a @[bahuvrīhi]. In the
 
-* @[prādibhyo] @[dhātujasya] @[vācyo] @[vā] @[cottarapadalopaḥ] | @[nañoḥ] @[astyarthānāṃ] @[ca] @[yoge] @[ca] @[cottarapadalopaḥ] | Vārtikas on Pāṇ. II. 2. 24.
+- @[prādibhyo] @[dhātujasya] @[vācyo] @[vā] @[cottarapadalopaḥ] | @[nañoḥ] @[astyarthānāṃ] @[ca] @[yoge] @[ca] @[cottarapadalopaḥ] | Vārtikas on Pāṇ. II. 2. 24.
 
 † @[tena] @[saheti] @[tulyayoge] | Pāṇ. II. 2. 28. @[sasajuṣaḥ] | @[pratyāsattau] | Pāṇ. VI. 3. 82-83. @[abho] @[vatsahaleṣviti] @[kāśyam] | Vārt. The restriction @[tulyayoge] is not universal as there are instances in which there is no equal participation; e. g. @[sagarbhaḥ], @[salomakam], @[sapaścakam] &c.; hence the Vṛttikāra says, @[prāyikaṃ] @[tulyayoge] @[iti] @[viśeṣaṇaṃ] @[anyathā] @[atulyayoge] @[api] @[samāso] @[dṛśyate] | Dikshit also says @[tulyayogaśravane] @[prāyikam] |
 
@@ -4317,7 +4588,7 @@ formation of such compounds the final vowel except that of @[ṣaṣ] and @[catu
 
 (a) § @[akṣi] and @[sakthi] both meaning parts of the body; @[jalajam] @[iva] @[akṣiṇī] @[yasya] @[sa] @[jalajākṣaḥ] 'one whose eyes are like lotuses', @[dīrghe] @[sakthinī] @[yasya] @[sa] @[dīrghasakthaḥ] 'one having long thighs', 'spindlelegged'; @[kamale] @[iva] @[akṣiṇī] @[yasyāḥ] @[sā] @[kamalākṣī] (@[strī]);
 
-* @[bahuvvīhau] @[saṃkhyeye] @[ḍajabahudaścanāt] | @[triviṃśateḥ] @[itiḥ] | Pāṇ. V. 4. 75, VI. 4. 142. @[upocābhyāṃ] @[caturo] @[jadiṣyate] | Vārt. under Pāṇ. V. 4. 77. (see art. § 284).
+- @[bahuvvīhau] @[saṃkhyeye] @[ḍajabahudaścanāt] | @[triviṃśateḥ] @[itiḥ] | Pāṇ. V. 4. 75, VI. 4. 142. @[upocābhyāṃ] @[caturo] @[jadiṣyate] | Vārt. under Pāṇ. V. 4. 77. (see art. § 284).
 
 † @[pūrvapadasyāvare] @[viśeṣaḥ] | Sid. Kav. (for the form is the same in both cases.)
 
@@ -4329,7 +4600,7 @@ but द्विदेशा @[शकटम्] 'a cart with long poles'; स्
 
 N.B. The fem. of Bah. compounds ending in @[अक्ष] is formed by adding आ when it qualifies an inanimate object.
 
-(c) * @[अच], when the compound is an attribute of @[दारु]; @[यत् अङ्गुलयो यस्य तत् पञ्चाङ्गुलं दारु] (@[अङ्गुलिसङ्ख्यावयवं धान्यादिक्षिप्तेकमाकाहम्]); but @[पञ्चाङ्गुलिः हस्तः] the hand having five fingers.
+(c) \* @[अच], when the compound is an attribute of @[दारु]; @[यत् अङ्गुलयो यस्य तत् पञ्चाङ्गुलं दारु] (@[अङ्गुलिसङ्ख्यावयवं धान्यादिक्षिप्तेकमाकाहम्]); but @[पञ्चाङ्गुलिः हस्तः] the hand having five fingers.
 
 (d) † The words @[मूर्धन्] preceded by @[द्वि] or @[त्रि], @[लोमन्] preceded by @[अन्तर्] and @[बहिः], and @[नेतृ] used in apposition to the name of a constellation of stars, e.g. @[द्वौ मूर्धानौ यस्य स द्विमूर्धा] two-headed; @[त्रिमूर्धा], but @[बहु मूर्धा]; @[अन्तर्लोमा]; @[बहिर्लोमा], @[या नेत्री यासां ताः मृगनेत्राः रात्रयः] 'nights of which the Mriga constellation is the leader' i.e. 'whose position in the heavens marks their advance,' so @[पुष्यनेत्राः] &c.
 
@@ -4337,7 +4608,7 @@ N.B. The fem. of Bah. compounds ending in @[अक्ष] is formed by adding �
 
 (f) § @[ऊरु] and @[सक्थि] optionally become @[ऊर्] and @[सक्थ्] when preceded by @[न], @[दुस्] or @[सु]; @[अऊरः-रुः] having no plough, @[असक्थः-थिः] 'one who has no thighs,' @[दुः सक्थः-थिः] 'one having deformed thighs', @[सूरुः-रूः]; &c. @[हासक्थि] is another reading for @[असक्थि] in the @[सूत्र]; so @[अङ्गाकः-क्षिः] &c.
 
-(g) * @[प्रजा] and @[मेधा] under similar circumstances drop their @[आ] and take @[अस्]; as @[अजनिप्रजानां यत्र यस्य असौ अप्रजाः] having no progeny, @[ना प्रजा यस्य स दुष्प्रजाः] having bad progeny, @[शोभना मेधा यस्य स सुमेधाः] of good intellect; similarly @[कुप्रजाः], @[अमेधाः].
+(g) \* @[प्रजा] and @[मेधा] under similar circumstances drop their @[आ] and take @[अस्]; as @[अजनिप्रजानां यत्र यस्य असौ अप्रजाः] having no progeny, @[ना प्रजा यस्य स दुष्प्रजाः] having bad progeny, @[शोभना मेधा यस्य स सुमेधाः] of good intellect; similarly @[कुप्रजाः], @[अमेधाः].
 
 #### § 255. (a) † @[धर्म] when preceded by a single member in a @[bahuvrīhi] becomes @[धर्मन्]; @[कल्याणं धर्मः यस्य स कल्याणधर्मा]; similarly @[समानधर्मा] (see Mal. Mad. Act. I Intro.); but @[परः स्वः धर्मः यस्य स परस्वधर्मा]; @[परस्वधर्मा] may also be correct if @[परस्व] be regarded as one word compounded in a @[karmadhāraya]. @[संदिग्धताद्वधर्मा], @[विविक्ताहेलिधर्मा], @[अव्यवस्थितधर्मा] are to be similarly explained.
 
@@ -4351,12 +4622,12 @@ This change is optional when the whole compound is a name; @[शतधन्व�
 
 ---
 
-* @[अङ्गुलादारुणि] । Pan. V. 4. 114.
-† @[त्रिमूर्धा मूर्धादौः] । @[अन्तर्बहिर्भ्यां च लोमनः] । Pan. V. 4. 115, 117. @[नेतृनक्षत्रे अस्यक्तव्यः] । Vart.
-‡ @[अपूरणीप्रमाण्योः] । Pan. V. 4. 116.
-@[नञ्दुःसुभ्यो ऊरि सक्थ्योरन्यतरस्याम्] । Pan. V. 4. 121, @[सक्थ्योशिति पाठान्तरम्] । Sid. Kau.
-* @[प्रजामेधयोः प्रजामेधयोः] । Pan. V. 4. 122.
-† @[धर्मप्रियपू धर्मादिषु] @[सामासान्ताः] । Pan. V. 4. 124. @[धनुषश्च] । @[वा संज्ञायाम्] । @[दम्भा सुहरितवर्णसोमेभ्यः] । @[दक्षिणे व्यध्ययोगे] । Pan. V. 4. 132, 133, 125, 126.
+- @[अङ्गुलादारुणि] । Pan. V. 4. 114.
+  † @[त्रिमूर्धा मूर्धादौः] । @[अन्तर्बहिर्भ्यां च लोमनः] । Pan. V. 4. 115, 117. @[नेतृनक्षत्रे अस्यक्तव्यः] । Vart.
+  ‡ @[अपूरणीप्रमाण्योः] । Pan. V. 4. 116.
+  @[नञ्दुःसुभ्यो ऊरि सक्थ्योरन्यतरस्याम्] । Pan. V. 4. 121, @[सक्थ्योशिति पाठान्तरम्] । Sid. Kau.
+- @[प्रजामेधयोः प्रजामेधयोः] । Pan. V. 4. 122.
+  † @[धर्मप्रियपू धर्मादिषु] @[सामासान्ताः] । Pan. V. 4. 124. @[धनुषश्च] । @[वा संज्ञायाम्] । @[दम्भा सुहरितवर्णसोमेभ्यः] । @[दक्षिणे व्यध्ययोगे] । Pan. V. 4. 132, 133, 125, 126.
 
 #### § 256. At the end of a Bah. compound—
 
@@ -4374,7 +4645,7 @@ This change is optional when the whole compound is a name; @[शतधन्व�
 
 (b) @[pāda] becomes @[pad] and the comp. takes @[ī] in the fem. in the case of the words @[kūrmapadī] and others (i. e. @[kūrmapadī], @[ekapadī], @[jālapadī], @[maṇḍapadī], @[hāsapadī], @[vipadī], @[supadī], @[supadī], @[dāsīpadī], @[viṣṇupadī], @[supadī], &c.;) but @[kūrmapadaḥ] Mas.
 
-* @[dvābhyāṃ supyājñoḥ] Pāṇ. V. 4. 129. 130.
+- @[dvābhyāṃ supyājñoḥ] Pāṇ. V. 4. 129. 130.
 
 † @[jāyāyā ṇiḥ] Pāṇ. V. 4. 134. @[lopaḥ ṇyor vaci] Pāṇ. VI. 1. 66. @[jāyā] at the end of a Bah. substitutes @[ṇi] for its final @[ā]. The preceding @[y] or @[v] is dropped before a consonant except @[y].
 
@@ -4384,7 +4655,7 @@ This change is optional when the whole compound is a name; @[शतधन्व�
 
 ¶ @[ac nāsikāyāḥ saṃjñāyāṃ nasaṃ cāśalāt] | @[upasargāc ca] Pāṇ. V. 4. 118. 119. @[naḥ vaktavyaḥ] | @[khayoḥ] Vārtikas.
 
-** @[pūrvapadasya saṃjñāyām agoḥ] | @[khapasargād rahalam] Pāṇ. VIII. 4. 3. 28.
+\*\* @[pūrvapadasya saṃjñāyām agoḥ] | @[khapasargād rahalam] Pāṇ. VIII. 4. 3. 28.
 
 †† @[padasya lopo'hastyādibhyaḥ] | @[saṃkhyā supaśca] Pāṇ. V. 4. 138. 140.
 
@@ -4400,7 +4671,7 @@ This change is optional when the whole compound is a name; @[शतधन्व�
 
 #### § 258. @[hṛdaya] is changed to @[hṛt-] when preceded by @[su] or @[duḥ] 'Meaning 'a friend', or an 'enemy' respectively; @[sundaraṃ] @[hṛdayaṃ] @[yasya] @[sa] @[suhṛt-] ' a friend', @[durhṛt-] 'an enemy'; but @[suhṛdayaḥ] 'one who has got a good heart' i. e. 'one who is able to appreciate merits', &c.; @[durhṛdayaḥ] 'a man of wicked intentions.'
 
-* @[vyavāye] @[dantasya] @[datu] । @[strīsaṃjñāyām] । @[vibhāṣā] @[ṛjyāvārokābhyām] । @[suvibhaktau] @[strīsaṃjñāyāṃ] @[ca] @[vibhāṣā] । Pāṇ. V. 4. 141, 143-145.
+- @[vyavāye] @[dantasya] @[datu] । @[strīsaṃjñāyām] । @[vibhāṣā] @[ṛjyāvārokābhyām] । @[suvibhaktau] @[strīsaṃjñāyāṃ] @[ca] @[vibhāṣā] । Pāṇ. V. 4. 141, 143-145.
 
 † See Foot-note p. 102.
 
@@ -4412,13 +4683,13 @@ This change is optional when the whole compound is a name; @[शतधन्व�
 
 160 SANSKRIT GRAMMAR, [ § 259-260
 
-#### § 259. * Two nouns alike in form in the Loc, and meaning 'something that can be seized,' or in the Instrumental, meaning ' weapons or things used as weapons,' may be compounded in a Bah. when the sense is 'the fight thus began' and the idea of an exchange of action is to be implied. In such compounds the final vowel of the first member is lengthened and that of the second is changed to @[i]. The compounds so formed are of the nature of Avyayībhāvas and are indeclinable. The final @[c] takes Guṇa substitute before the final @[i]. i. e. @[keśeṣu] @[keśeṣu] @[gṛhītvā] @[yuddhaṃ] @[pravṛttaṃ] @[keśākeśi] 'a battle in which the warriors fight seizing each other's hair'; @[daṇḍaiḥ] @[daṇḍeṣu] @[gṛhītvā] @[yuddhaṃ] @[pravṛttaṃ] @[daṇḍādaṇḍi]; similarly @[laguḍālaguḍi], @[hastāhasti], @[bāhubāhvi], @[carmācarmī], &c.; but if the instruments used by both the parties be not the same, no compound is possible; @[śaktilaguḍi] will, therefore, be wrong.
+#### § 259. \* Two nouns alike in form in the Loc, and meaning 'something that can be seized,' or in the Instrumental, meaning ' weapons or things used as weapons,' may be compounded in a Bah. when the sense is 'the fight thus began' and the idea of an exchange of action is to be implied. In such compounds the final vowel of the first member is lengthened and that of the second is changed to @[i]. The compounds so formed are of the nature of Avyayībhāvas and are indeclinable. The final @[c] takes Guṇa substitute before the final @[i]. i. e. @[keśeṣu] @[keśeṣu] @[gṛhītvā] @[yuddhaṃ] @[pravṛttaṃ] @[keśākeśi] 'a battle in which the warriors fight seizing each other's hair'; @[daṇḍaiḥ] @[daṇḍeṣu] @[gṛhītvā] @[yuddhaṃ] @[pravṛttaṃ] @[daṇḍādaṇḍi]; similarly @[laguḍālaguḍi], @[hastāhasti], @[bāhubāhvi], @[carmācarmī], &c.; but if the instruments used by both the parties be not the same, no compound is possible; @[śaktilaguḍi] will, therefore, be wrong.
 
 Obs.—( a ) The following words also change their final to @[i] as @[daṇḍau] @[yasmin] @[praharaṇe] @[tad] @[vidaṇḍi]; similarly @[nirbāhuvi], @[ubhā-ubhayabāhvi], @[ubhāhasti], @[ubhayahasti], @[ubhā-ubhaya-pāṇi], @[ubhayapāṇi] &c.
 
 #### § 260. † The following Bahuvrīhis are laid down as irregular. @[śobhanaṃ] @[prātarasya] @[suprātaḥ] i. 'one having an auspicious morning or a day having an auspicious dawn'; see Bhaṭṭi, II. 49. @[śobhanaṃ] @[śvaḥ] @[asya] @[suśvaḥ] 'having an auspicious morrow;' @[śobhanaṃ] @[divam] @[asya] @[sudivaḥ] 'one who has passed a happy day', @[śāri] @[iva] @[kukṣirasya] @[śārikukṣaḥ] 'having a round belly;' @[catvāri] @[aśrāṇi] @[asya] @[caturasra] 'four-cornered, quadrangular,' @[eṇyā] (of a female black deer) @[iva] @[pādau] @[asya] @[eṇīpat]. @[ajapadaḥ], @[vṛṣasya] @[iva] @[pādau] @[asya] @[vṛṣapadaḥ] having the feet like those of a bull'.
 
-* @[ādhāre] @[tenedam] @[iti] @[samākhye] । Pāṇ. II. 2. 27. @[saptamyante] @[grahaṇaviṣaye] @[samākhye] @[tṛtīyānte] @[ca] @[praharaṇaviṣaye] @[idaṃ] @[gṛhītvā] @[idaṃ] @[gṛhītvā] @[yuddham] @[iva] @[atraivaṃ] @[samasyete] @[karmavyatihāre] @[vācye] @[sa] @[bahuvrīhiḥ] । Sid. Kau. ।
+- @[ādhāre] @[tenedam] @[iti] @[samākhye] । Pāṇ. II. 2. 27. @[saptamyante] @[grahaṇaviṣaye] @[samākhye] @[tṛtīyānte] @[ca] @[praharaṇaviṣaye] @[idaṃ] @[gṛhītvā] @[idaṃ] @[gṛhītvā] @[yuddham] @[iva] @[atraivaṃ] @[samasyete] @[karmavyatihāre] @[vācye] @[sa] @[bahuvrīhiḥ] । Sid. Kau. ।
 
 † @[anyeṣām] @[api] @[dṛśyate] । @[it] @[karmavyatihāre] । Pāṇ. VI. 3. 137. V. 4. 127. @[tiṣṭhad] @[rūpaṃ] @[tivac] @[pratyayasya] @[paṭhād] @[anyatra] @[vibhaktir] @[anyatra] @[ca] । Sid. Kau. @[luci] @[guṇaḥ] । Pāṇ. VI. 4. 146.
 
@@ -4436,7 +4707,7 @@ Obs.—( a ) The following words also change their final to @[i] as @[daṇḍau
 
 #### § 264. But if the last word of a Bah. compound be a fem. noun ending in @[ī] or @[ū] not capable of being changed into @[iv] or @[uv] before the vowel case termination, or if it ends in @[ṛ], @[ka] is necessarily affixed; @[nalinīṃ kartā iva karoti yat puṣkaraṃ jagat], @[bahunadīko deśaḥ], @[prauḍhā vadhūḥ yasya sa prauḍhavadhūkaḥ], &c.; but @[pitṛ] and @[mātṛ] are exceptions; @[bahipitṛkaḥ], @[bahimātṛkaḥ] &c.
 
-* @[uraḥprabhṛtibhyaḥ kap] Pāṇ. V. 4. 161. @[iṣ pumān upānah dāri goḥ śālilakṣmīriti ekavacanāntāni paryantaḥ | divacanāntebhyastu śeṣādvibhāṣā] Kāv. @[kalkalpena kap |] Sid. Kau. @[anarthādanyatarasyām |] Vārtika.
+- @[uraḥprabhṛtibhyaḥ kap] Pāṇ. V. 4. 161. @[iṣ pumān upānah dāri goḥ śālilakṣmīriti ekavacanāntāni paryantaḥ | divacanāntebhyastu śeṣādvibhāṣā] Kāv. @[kalkalpena kap |] Sid. Kau. @[anarthādanyatarasyām |] Vārtika.
 
 † @[inaḥ strīsaṃjñāyām |] Pāṇ. V. 4. 152.
 
@@ -4460,7 +4731,7 @@ H. S. G. 11
 
 #### § 267. In the formation of a @[samānādhikaraṇabahuvrīhi], if the first member be a fem. noun derived from the mas. the affix @[ā] or @[ī] of the mas. is restored if followed by another fem. noun; e.g.: @[citrarūpā aśvā yasya sa citrarūpāśvaḥ], @[jaratī bhāryā yasya sa jaradbhāryaḥ], @[rūpavatī bhāryā yasya sa rūpavadbhāryaḥ]; but @[geyā māyā yat puṣpaṃ sa geyamāyam]; @[vāmorūmāryaḥ]; @[kalyāṇī pānī yasya sa kalyāṇīṣpāṇiḥ].
 
-* @[āpo'nyatarasyām |] Pāṇ. VII. 4. 15.
+- @[āpo'nyatarasyām |] Pāṇ. VII. 4. 15.
 
 † @[na saṃjñāyām |] @[īyasaḥ |] @[bhrāturiti prahāstaḥ |] @[nāḍītantyoḥ śarīre |] @[niṣpravāṇiśca |] Pāṇ. V. 4. 156-57, 159-60.
 
@@ -4484,7 +4755,7 @@ Exception:—(a) This change in the first member does not take place, when it is
 
 (b) The final @[au] of masc. and fem. nouns in @[au] is dropped; and optionally that of neuter nouns ending in @[as]; @[uparājam]; @[udaśvam]-@[asvam].
 
-* @[etadādīnāṃ vā iḍ indrābhaktiḥ] Sid. Kau. @[vyadhikaraṇe indrabhaktiḥ samānādhikaraṇe indrābhaktirityetadanyathāsiddhametat]
+- @[etadādīnāṃ vā iḍ indrābhaktiḥ] Sid. Kau. @[vyadhikaraṇe indrabhaktiḥ samānādhikaraṇe indrābhaktirityetadanyathāsiddhametat]
 
 † @[janasaṃjñāyām] @[ajanapadadevajāterabhrādibhyaśca] Pāṇ. V. 4. 108, 109.
 
@@ -4496,10 +4767,10 @@ Exception:—(a) This change in the first member does not take place, when it is
 
 #### § 270. The indeclinables forming Avyayībhāva compounds have various senses; e. g. (1) the meaning of case; as @[gām gopayati iti upagopaṃ] 'in the protector of the earth'; so @[harau upaharau], @[adhyātmam] &c.; (2) @[sāmīpya] or 'vicinity'; as @[kṛṣṇasya samīpe upakṛṣṇam] near Kṛṣṇa; so @[upagavam] &c. (3) @[saṛddhi] or 'prosperity' as @[madrāṇāṃ ṛddhiḥ sumadrām], 'in a country wherein the Madras are in a prosperous condition,' (4) @[vṛddhi] (@[aṛddhiḥ]) or 'bad condition,' as @[yavanānāṃ aṛddhiḥ duryyavanam] 'when the Yavanas are in a bad condition' (5) @[abhāva] or absence; as @[makṣikāṇām abhāvaḥ nirmakṣikam] 'where flies are
 
-* @[nadyoṣaṇamāsyārgrahāyaṇībhyaḥ] @[amiti senakaḥ] Pāṇ. II. 4. 110, 112.
-† @[cavagaḥ] &c. II. 4. 111.
-‡ @[amīnādyantāt suptaṅantāt] &c. II. 4. 107.
-§ @[upasargādṛte vibhaktisamīpasaṛddhivyṛddhisāhityaviyogābhāvaparikampapūjyogarupasamadhikasākalyanty avacaneṣu] Pāṇ. II. 1. 6.
+- @[nadyoṣaṇamāsyārgrahāyaṇībhyaḥ] @[amiti senakaḥ] Pāṇ. II. 4. 110, 112.
+  † @[cavagaḥ] &c. II. 4. 111.
+  ‡ @[amīnādyantāt suptaṅantāt] &c. II. 4. 107.
+  § @[upasargādṛte vibhaktisamīpasaṛddhivyṛddhisāhityaviyogābhāvaparikampapūjyogarupasamadhikasākalyanty avacaneṣu] Pāṇ. II. 1. 6.
 
 #### § 270-271] @[Avyayībhāva]. 165
 
@@ -4507,7 +4778,7 @@ utterly absent' &c., 'perfect loneliness', or 'quiet'; so @[nirjanam] &c. (6) @[
 
 #### § 271. (1) @[yāvat] showing a definite measure may be com-
 
-* 10-13. are the senses of @[yathā]; @[yogyatādīṣu āparyantānātivṛtti- rāditryāni yathārthāḥ] | Sid. Kau.
+- 10-13. are the senses of @[yathā]; @[yogyatādīṣu āparyantānātivṛtti- rāditryāni yathārthāḥ] | Sid. Kau.
 
 † @[sahacarye ca] 2. 1. 7, @[saha] 18 not compounded when it indicates similarity; @[yathā haris tathā ayam] &c.
 
@@ -4523,7 +4794,7 @@ pounded with any word; e. g. @[yāvantaḥ lokāḥ tāvantaḥ jaghanyapraṇā
 
 (2) @[ā] showing limit, inclusive and exclusive, is optionally compounded with a noun in the Ablative; and so are @[abhi], @[anu], and @[prati] all meaning 'towards' with a noun in the Accusative. @[āmukti] or @[āmukteḥ] 'until final liberation' @[saṃsāraḥ]; @[ākumāram] or @[ākumārāt] up to the child; @[ādmuktāt]; @[abhyagnim] or @[abhyagniṃ] towards the fire @[gacchati dhūmaḥ]; @[anuvanam] or @[anuvanam patati]; @[prativanam] or @[vanaṃ prati].
 
-* @[yasmāt vidhīyate tatsamāsaḥ] | Pāṇ. 2. 1. 9.
+- @[yasmāt vidhīyate tatsamāsaḥ] | Pāṇ. 2. 1. 9.
 
 † @[parāparamitīcās saṃkhyāyāḥ pariḥ] | 2. 1. 10. @[aparapariḥ devadattasya parājayārtham paridvādaśa] | Sid. Kau.
 
@@ -4535,25 +4806,29 @@ pounded with any word; e. g. @[yāvantaḥ lokāḥ tāvantaḥ jaghanyapraṇā
 
 (c) @[anu] meaning 'towards' or 'alongside of,' 'lengthwise,' is also similarly compounded; @[anuvanam] (@[vanasya samīpaṃ aśaniḥ gatā] 'the thunderbolt passed) towards the forest'; @[anuśaṅgaṃ gaṅgāyāḥ vārāṇasī] 'Varanasi is alongside the Ganges' (@[gaṅgātīrānusāriṇīvārāṇasī prasiddhā tattvārthaḥ] S. K.)
 
-#### § 275. *The words @[pāra] and @[madhya] optionally form Avys. com-
+#### § 275. \*The words @[pāra] and @[madhya] optionally form Avys. com-
+
 pounds with any nominal base, and are placed first, the final a being changed to e when thus compounded; e. g. @[gaṅgā-pāre-dhāre] 'from the middle of the Gangetic stream;' optionally of course,
 the Gen. Tat.; also @[gaṅgāpārāt], @[gaṅgāmadhyāt]. In this case the Ab.
 termination is irregularly retained. If the final noun has the sense of the Loc. the final vowel may be changed to e; as @[pāre-madhye-gaṅge]; cf. @[gaṅgāyām] Bhaṭṭi. I. 4.
 
 #### § 276. (a) † @[Ānantaryam] may optionally be compounded
+
 with a noun, showing relation by blood or by some kind of learning, to form an Avya. comp.; @[dvau vaktārau tanayau siddhānti], @[vyākaraṇasya siddhānti]; e. g. @[siddhānti ānantaryaṃ] 'Sans. Grammar of which the three sages,—Pāṇini, Kātyāyana and Patañjali, are the authors in succession.'
 
 (b) ‡ and with names of rivers, this comp. also shows an aggregate; @[sapta gaṅgā], @[daśa gaṅgā].
 
 #### § 277. †† Any noun may be compounded with the name of a
+
 river, into an Avya. comp. to form a name; @[unmattā-gaṅgā], 'a place where the Ganges is very boisterous.' So @[lohita-gaṅgā], &c.
 
 #### § 278. The indeclinables @[samayā], @[nikaṣā], @[ārāt], @[abhitaḥ], @[paritaḥ],
+
 @[paścāt], do not combine with any noun; @[samayā grāmaṃ], @[nikaṣā grāmaṃ] &c.
 
 #### § 279. The following Avys. compounds are anomalous ¶:—
 
-* @[pāreṃadhye ṅyāp ca] | Pan. II. 1. 18.
+- @[pāreṃadhye ṅyāp ca] | Pan. II. 1. 18.
 
 † @[ānantaryam ādhvayena] | Pān. II. 1. 19. @[vaṃśo vidyā vaktṛjanyānā ca] | Ibid. Kar.
 
@@ -4569,16 +4844,17 @@ river, into an Avya. comp. to form a name; @[unmattā-gaṅgā], 'a place where 
 @[pāpasama] 'in an evil year;' @[puṇyasama], @[prāyam], @[bharatham] 'when the chariots move forth,' @[prasṛtam] 'when the deer comes,' @[viṣagam],
 @[śradakṣiṇam], @[śrutam] and @[sutam].
 
-N. B.—According to all followers of Pān. compounds of this group are precluded from being * @[para] compounded though poets do not seem to respect the prohibition except in so far as to place such words at the end of these comps.; cf. @[aharahar- kriyānvāyam] | Rag. I. 76; also IV. 25, VII. 24, &c.
+N. B.—According to all followers of Pān. compounds of this group are precluded from being \* @[para] compounded though poets do not seem to respect the prohibition except in so far as to place such words at the end of these comps.; cf. @[aharahar- kriyānvāyam] | Rag. I. 76; also IV. 25, VII. 24, &c.
 
 ## GENERAL RULES APPLICABLE TO ALL COMPOUNDS.
 
-#### § 280. * The words @[ṛc], @[pur], @[saras], @[yuga] when it does not mean
+#### § 280. \* The words @[ṛc], @[pur], @[saras], @[yuga] when it does not mean
+
 'the yoke of a carriage', and @[pathin], † at the end of any compound take the suffix @[ac]; @[arddharcam] 'half a Rik;' @[viṣṇupuram] 'the town of Viṣṇu;' @[vimalāmbu saraḥ] 'a lake with pure water;' @[rājyadhurā] 'the yoke of a kingdom', i. e. 'the heavy responsibilities of governing it' &c. @[ramyapathā deśaḥ] 'a country with pleasant roads', &c.
 
 (a) But in the case of @[ṛc] preceded by @[asu] or @[bahu] the @[a] is added only when the compound denotes a student of the Rig veda§; @[anṛcaḥ] 'one who does not study the Rig veda,' @[bahuṛcaḥ] 'one that has studied the Rig veda;' but @[asṛk sāma], 'the Sāma veda that contains no riks,' @[bahvṛk sūktam] 'a hymn consisting of many riks.'
 
-* @[ṛkpuraṃdhdhsamānaṃ] | Pan. V. 4. 74.
+- @[ṛkpuraṃdhdhsamānaṃ] | Pan. V. 4. 74.
 
 † Substituted for @[pathin] | ‡ @[apathāt lokāt] | Sid. Kau.
 
@@ -4598,7 +4874,7 @@ N. B.—According to all followers of Pān. compounds of this group are preclude
 
 (d) @[akṣi] when used in a metaphorical sense, and not meaning
 
-* @[ṛtyatāntarupasargebyho'pa īt]. @[ūrṇaudeśaḥ]. Pāṇ. VI. 3. 97-98.
+- @[ṛtyatāntarupasargebyho'pa īt]. @[ūrṇaudeśaḥ]. Pāṇ. VI. 3. 97-98.
 
 † @[nānāṭṭamaṅkaṭāvīruñcerapāntakuṭṭanaiḥ]. @[banevya upam anūpaṃ tatra sasyavṛthivavādibhiḥ].
 
@@ -4628,7 +4904,7 @@ the eye'; as @[vṛṣākṣam vṛṣasya akṣivat] 'resembling the eye of a b
 
 (e) @[vṛṣan] preceded by @[anu], when length is implied; @[anuvṛṣaṃ yānam] 'a vehicle measuring as much as a bull in length'.
 
-* @[ajidhyogavibhāgādanyatrāpi]. Sid. Kau.; this is obtained by separating the portion @[ac] from the Sūtra '@[ac casyandvāpūrvāt'] &c. But this is no sanction for forming new compounds ending in @[nāma]. It is only a device used by grammarians to explain such words as @[naṭanāmam] &c.
+- @[ajidhyogavibhāgādanyatrāpi]. Sid. Kau.; this is obtained by separating the portion @[ac] from the Sūtra '@[ac casyandvāpūrvāt'] &c. But this is no sanction for forming new compounds ending in @[nāma]. It is only a device used by grammarians to explain such words as @[naṭanāmam] &c.
 
 † @[brahmahastibhyāṃ yaśasaḥ]. @[avatamasaṃtamasāndhatamasāni]. @[anavavapīārahāsaḥ]. @[pratyuraḥsam samīsthāt]. @[anuvṛṣam āyāme]. Pāṇ. V. 4. 78, 79; 81-83.
 
@@ -4650,7 +4926,7 @@ the eye'; as @[vṛṣākṣam vṛṣasya akṣivat] 'resembling the eye of a b
 
 water-meal; @[udakayugaḥ] or @[udakavāhaḥ], 'a yoke for carrying water;' @[udakāgāhaḥ] or @[udakagāhaḥ] 'plunging or bathing in water' &.
 
-#### § 289. (a) * When the first member of a compound ends in @[i] or @[ū] not capable of changing into @[iy] or @[uv] and not belonging to a fem. termination or an indeclinable, the @[i] or @[ū] is optionally shortened; @[grāmaṇīputraḥ] or @[grāmaṇiputraḥ] the son of a leader of a village; &c.; but @[gorīpatih], @[bhīmadaḥ], @[bhrūbhaṅgaḥ], @[ārdradāruḥ] &c.
+#### § 289. (a) \* When the first member of a compound ends in @[i] or @[ū] not capable of changing into @[iy] or @[uv] and not belonging to a fem. termination or an indeclinable, the @[i] or @[ū] is optionally shortened; @[grāmaṇīputraḥ] or @[grāmaṇiputraḥ] the son of a leader of a village; &c.; but @[gorīpatih], @[bhīmadaḥ], @[bhrūbhaṅgaḥ], @[ārdradāruḥ] &c.
 
 (b) But the word @[śrū] followed by @[ka] and @[kaṭa] is an exception, @[śrīveṣadhārī]—@[kaveśaḥ] (@[kā eva kaṃsaḥ kañcuko vā śobhā vā yasya sa śrīveṣadhārī nartakaḥ] Sid. Kau.) an actor; @[bhrūkaṭaḥ] the knit eyebrow; according to some, @[ū] optionally becomes @[u] when followed by @[ka] or @[kaṭa]: as @[śrukaraḥ] and @[bhrūkaṭaḥ] (see ft. note).
 
@@ -4658,7 +4934,7 @@ water-meal; @[udakayugaḥ] or @[udakavāhaḥ], 'a yoke for carrying water;' @[
 
 #### § 291. Obs.—‡ The words @[iṣṭakā], @[īṣīkā] and @[mālā] shorten their final when followed by @[maya], @[tūla] and @[mālin] respectively; @[iṣṭakāmayam] made of bricks, @[īṣīkāmayam]; @[īṣīkatūlaḥ] 'the point of a reed,' @[īṣīkatūlam], @[mālāmālin] having or wearing garlands; @[utpalamālamālin], (cf. 241. Mad. IX. 2.) &.
 
-* @[ikaḥ guṇavṛddhī śākalyasya] | Pāṇ. VI. 3. 61. @[iyaṅuvāṅunāmavyayānāṃ ca] @[na] iti vācyam | @[acaḥ sāvideṣu] iti vaktavyam | Vārttikas. @[akāro'nena gṛhyate] iti @[bhāṣyāntaram] | Sid. Kau.
+- @[ikaḥ guṇavṛddhī śākalyasya] | Pāṇ. VI. 3. 61. @[iyaṅuvāṅunāmavyayānāṃ ca] @[na] iti vācyam | @[acaḥ sāvideṣu] iti vaktavyam | Vārttikas. @[akāro'nena gṛhyate] iti @[bhāṣyāntaram] | Sid. Kau.
 
 † @[striyāḥ saṃjñāyām chandasi hrasvam] | @[svaṃ ca] Pāṇ. VI. 3. 63. 64.
 
@@ -4666,7 +4942,7 @@ water-meal; @[udakayugaḥ] or @[udakavāhaḥ], 'a yoke for carrying water;' @[
 
 174 Sanskrit Grammar. [ § 292-294
 
-§. 292. Obs.—* A nasal is inserted in the case of the following words:—@[satya], @[āyus] and @[astu] followed by @[kāraḥ]; @[āyuṣ] by @[bhavya], @[loka] by @[paṇa]; @[anabhyāsa] by @[itya]; @[ādra] and @[yajña] by @[indha], @[timi] by @[gila] or @[gilagila]; and @[uṣṇa] and @[śrī] by @[karaṇa]; as @[satyaṅkāraḥ], 'making true, earnest money,' &c; cf. Kir. XI. 50. @[āyuṅbhavyaḥ] 'a physician,' @[astuṅkāraḥ] 'efficacious,' 'admittance' (@[abhyupagamaḥ] Tat. B.); @[āyuṅbhavyaḥ] (@[bhaviṣyatīṃ vaṅguṇaṃ] Tat. B.); @[lokaṃpaṇaḥ] 'pervading or filling the world,' @[anabhyāsaṃityaḥ] 'not to be approached, to be shunned from afar,' (@[dūrataḥ parihartavya upakāraḥ] Sid. Kau.); @[ādraṃindhaḥ], 'one who fries or roasts in a frying-pan,' @[yajñaṃindhaḥ], 'one who kindles fire,' @[timiṅgilaḥ] 'a monstrous fish that swallows down Timi (a large fish said to be 100 Yojanas in length);' @[timiṅgilanigadaḥ] 'a very large fish that swallows even a Timiṅgila;' @[uṣṇaṅkaraṇam] heating; @[śrīṅkaraṇam] conferring prosperity.
+§. 292. Obs.—\* A nasal is inserted in the case of the following words:—@[satya], @[āyus] and @[astu] followed by @[kāraḥ]; @[āyuṣ] by @[bhavya], @[loka] by @[paṇa]; @[anabhyāsa] by @[itya]; @[ādra] and @[yajña] by @[indha], @[timi] by @[gila] or @[gilagila]; and @[uṣṇa] and @[śrī] by @[karaṇa]; as @[satyaṅkāraḥ], 'making true, earnest money,' &c; cf. Kir. XI. 50. @[āyuṅbhavyaḥ] 'a physician,' @[astuṅkāraḥ] 'efficacious,' 'admittance' (@[abhyupagamaḥ] Tat. B.); @[āyuṅbhavyaḥ] (@[bhaviṣyatīṃ vaṅguṇaṃ] Tat. B.); @[lokaṃpaṇaḥ] 'pervading or filling the world,' @[anabhyāsaṃityaḥ] 'not to be approached, to be shunned from afar,' (@[dūrataḥ parihartavya upakāraḥ] Sid. Kau.); @[ādraṃindhaḥ], 'one who fries or roasts in a frying-pan,' @[yajñaṃindhaḥ], 'one who kindles fire,' @[timiṅgilaḥ] 'a monstrous fish that swallows down Timi (a large fish said to be 100 Yojanas in length);' @[timiṅgilanigadaḥ] 'a very large fish that swallows even a Timiṅgila;' @[uṣṇaṅkaraṇam] heating; @[śrīṅkaraṇam] conferring prosperity.
 
 #### § 293. @[śrī] followed by a @[kṛt] affix inserts a nasal optionally; @[rātriṃcaraḥ] or @[rātricaraḥ], 'a night-rover,' 'a demon;' @[pāpiṃṣṭhaḥ] or @[pāpiṣṭhaḥ] &.
 
@@ -4676,7 +4952,7 @@ water-meal; @[udakayugaḥ] or @[udakavāhaḥ], 'a yoke for carrying water;' @[
 
 (b) when it means 'including a certain literary work,' or 'in addition to;' as @[sajyotiṣam] (Avyy. comp.) @[adhīte] 'he studies the science of astronomy, including that of finding out the auspicious times,' @[sadroṇā khārī] 'a khārī with a droṇa in addition to it,'
 
-* @[kāre satyāyudyastuṣu] | Pāṇ. VI. 3. 70. @[astu] @[ca] @[eva] iti vaktavya | @[bhave] @[āyuṣaḥ] @[bhavyasya] | @[lokasya paṇe] | @[ityau] @[anabhyāsasya] | @[ādrayajñayoḥ] @[indhane] | @[gilau] @[timilasya] | @[gilau] @[gile ca] | @[uṣṇaśriyoḥ karaṇe] | Vārttikas |
+- @[kāre satyāyudyastuṣu] | Pāṇ. VI. 3. 70. @[astu] @[ca] @[eva] iti vaktavya | @[bhave] @[āyuṣaḥ] @[bhavyasya] | @[lokasya paṇe] | @[ityau] @[anabhyāsasya] | @[ādrayajñayoḥ] @[indhane] | @[gilau] @[timilasya] | @[gilau] @[gile ca] | @[uṣṇaśriyoḥ karaṇe] | Vārttikas |
 
 † Vide Ragh. XIII. 10. and Mallinātha on it. 'yataḥ matsyaḥ @[timir nāma kaṭhinojanaṃ] āyataḥ | @[timiṅgilo nilo'pyasti tadgilopi aṇyatī] tamaḥ |'
 
@@ -4698,13 +4974,13 @@ water-meal; @[udakayugaḥ] or @[udakavāhaḥ], 'a yoke for carrying water;' @[
 
 (e) ‡ and in the case of compounds like @[sapakṣa], @[sādharmya], @[sajātīya], &c.|,
 
-* @[jyotir-janapada-rāji-nābhi-nāma-rūpa-sthāna-varṇa-vayo-'yana-bandhuṣu | caraṇe cāśiṇi | tīrthye ca | vibhāṣodare] | Pan. VI. 3. 85-89. @[śākhādi prāgdivāt | Kāś].
+- @[jyotir-janapada-rāji-nābhi-nāma-rūpa-sthāna-varṇa-vayo-'yana-bandhuṣu | caraṇe cāśiṇi | tīrthye ca | vibhāṣodare] | Pan. VI. 3. 85-89. @[śākhādi prāgdivāt | Kāś].
 
 † @[caraṇaḥ śākhā, tasya adhyāyī śākhādhyāyī | tad-adhyayanāt sabrahmacārī iti vigrahaḥ] | Sk:
 
 ‡ @[samānasya saḥ pakṣa-dharma-jātiṣu] | Pan. VI. 3. 84. The proper meaning of this sūtra is that the word @[samāna] is changed to @[sa] in the veda when followed by any other word than @[pakṣa], @[dharma],
 
-#### § 296. @[s] + changed to @[ṣ] when the following words are compounded*:
+#### § 296. @[s] + changed to @[ṣ] when the following words are compounded\*:
 
 (@) @[aṅguli] and @[saṅga]; @[aṅguliṣaṅgaḥ] |
 
@@ -4718,7 +4994,7 @@ water-meal; @[udakayugaḥ] or @[udakavāhaḥ], 'a yoke for carrying water;' @[
 
 ' as compounds like @[sapakṣa] &c., cannot be properly explained by any of the sūtras following this, grammarians like Vāmana think that the portion @[samānasya] ought to be separated from this sūtra and considered as a separate sūtra by itself; Bhaṭṭoji Dīkṣita conform to this opinion of Vāmana, but following Haradatta suggests that the @[sa] in compounds like @[sapakṣa] may also be taken to be a substitute for @[saha] meaning like or similar to,' the compounds being considered as Bahuvrīhis. @[samānasya saḥ ity atra vibhajyate | tena sapakṣaḥ, sādharmyaṃ sajātīyam ity ādi siddham iti kāśikā]. Tat. @[saha-śabdaḥ sadṛśārthako 'py asti | sapakṣaḥ sakhyā tulyaḥ pakṣo yasya | tena ayam asya ca vigrahaḥ bahuvrīhiḥ | samānaḥ pakṣo asya iti] | Sid. Kau.
 
-* @[aṅguli-saṅge ca ṣaḥ | bhīroḥ sthānam | jyotir-āyuṣṭomaḥ kṣapāmādiṣu ca] | Pan. VIII. 3. 80-81, 83. 98.
+- @[aṅguli-saṅge ca ṣaḥ | bhīroḥ sthānam | jyotir-āyuṣṭomaḥ kṣapāmādiṣu ca] | Pan. VIII. 3. 80-81, 83. 98.
 
 † @[abahucāturthyāsyasyānyasya tad-āśiṣ-ājñ-āsthāsthita-utsuk-ūti-kāra-aṅga-rāgeṣu saḥ | ayaṃ vibhāṣā] | Pan. VI. 3. 99. 100.
 
@@ -4732,11 +5008,11 @@ water-meal; @[udakayugaḥ] or @[udakavāhaḥ], 'a yoke for carrying water;' @[
 
 #### § 299. The vowel of the first member is lengthened in the following cases:—
 
-* @[pṛṣodarādīni yathopadiṣṭam] Pan. VI. 3. 109.
-† @[mrṇḍāntagamāddhamaḥ siṃho vaṇebiṣayāt] | @[ulūkhaṃ barṇabharutarbhanākṣatpṛṣodarāya] || Sid. Kau. ‡ @[diṅśabdebhyastīrasya taraḥ syād vā] | Vartika.
-§ @[duro ḍāṅnākaśamaṣyeṣṛtvadbattaraṣadāveḥ kvip ca] | Vartika.
-¶ @[nahukṣatiravyayirucisahitaniṣu ktau] | @[batau, mato bahucoraja kirādīnām ca] | @[śarādīnāṃ ca] | @[upasargasya ṣaḍupamanuṣye bahulam] | @[ikaḥ pratyayāt aṣṭanaḥ senāyām] |
-@[ṛṣau saṃjñāyām] | @[mito dhañaḥ] Pan. VI. 3. 116; 118-119, 122, 123, 125, 129, 130.
+- @[pṛṣodarādīni yathopadiṣṭam] Pan. VI. 3. 109.
+  † @[mrṇḍāntagamāddhamaḥ siṃho vaṇebiṣayāt] | @[ulūkhaṃ barṇabharutarbhanākṣatpṛṣodarāya] || Sid. Kau. ‡ @[diṅśabdebhyastīrasya taraḥ syād vā] | Vartika.
+  § @[duro ḍāṅnākaśamaṣyeṣṛtvadbattaraṣadāveḥ kvip ca] | Vartika.
+  ¶ @[nahukṣatiravyayirucisahitaniṣu ktau] | @[batau, mato bahucoraja kirādīnām ca] | @[śarādīnāṃ ca] | @[upasargasya ṣaḍupamanuṣye bahulam] | @[ikaḥ pratyayāt aṣṭanaḥ senāyām] |
+  @[ṛṣau saṃjñāyām] | @[mito dhañaḥ] Pan. VI. 3. 116; 118-119, 122, 123, 125, 129, 130.
 
 H. S. G. 12.
 
@@ -4758,7 +5034,7 @@ H. S. G. 12.
 
 #### § 300. @[tuk] is inserted in the case of the following compounds:—
 
-* @[aparasparāḥ varau] | @[āśvaryamamṛtve] | @[varcasyevakṣaraḥ] | @[apaścurau samāse] | @[iṣkāraḥ śakuniḥ iṣṭiro vā] | @[vyāsāt kuleḥ] | @[maskaramaskarāno vā] | @[veṣṭhaparihājakayor] | @[kārastraro dvaḥ] | @[pāraḥ karāt pramatīni ca saṃjñāyām] | Pan. VI. 1. 144, 147, 148-152, 154, 156, 157. @[latbhartṛbhyāṃ karapatyośvārte tasyogradaravoraśca] | Vart. @[prāyasya citticiccayoḥ] | Vart.
+- @[aparasparāḥ varau] | @[āśvaryamamṛtve] | @[varcasyevakṣaraḥ] | @[apaścurau samāse] | @[iṣkāraḥ śakuniḥ iṣṭiro vā] | @[vyāsāt kuleḥ] | @[maskaramaskarāno vā] | @[veṣṭhaparihājakayor] | @[kārastraro dvaḥ] | @[pāraḥ karāt pramatīni ca saṃjñāyām] | Pan. VI. 1. 144, 147, 148-152, 154, 156, 157. @[latbhartṛbhyāṃ karapatyośvārte tasyogradaravoraśca] | Vart. @[prāyasya citticiccayoḥ] | Vart.
 
 [ §§ 300-302 ] COMPOUNDS. 179
 
@@ -4770,11 +5046,11 @@ H. S. G. 12.
 
 (f) and when the words @[dyu] and @[gṛha] are followed by @[kara] and @[pati] and the meaning is 'a thief', and 'a deity' respectively, and @[u] and @[ṛ] being dropped before @[s]; @[dyukaraḥ], @[gṛhaspati] Also @[prāyaścaḥ], @[prāyaścittaḥ], @[vanaspatiḥ] &c.
 
-#### § 301. *When the words @[pura], @[mṛṣa], @[śīghra], @[sāri] and @[koṭara] are followed by @[vana] in a compound they lengthen their ending vowel, and the @[na] of @[vana] is changed to @[ṇa] (also after @[agra]); @[purāvaṇam], @[mṛṣāvaṇam], @[śīghrāvaṇam], @[sāryāvaṇam], @[koṭarāvaṇam]; but @[asipuravanam]; @[vṛkṣasya agre vanam āgṛvaṇam] |
+#### § 301. \*When the words @[pura], @[mṛṣa], @[śīghra], @[sāri] and @[koṭara] are followed by @[vana] in a compound they lengthen their ending vowel, and the @[na] of @[vana] is changed to @[ṇa] (also after @[agra]); @[purāvaṇam], @[mṛṣāvaṇam], @[śīghrāvaṇam], @[sāryāvaṇam], @[koṭarāvaṇam]; but @[asipuravanam]; @[vṛkṣasya agre vanam āgṛvaṇam] |
 
 #### § 302. (a) The @[na] of @[vana] is changed to @[ṇa] necessarily when preceded by @[r], and optionally when compounded with names of herbs or plants containing two or three vowels; @[kāṇḍavaṇam], @[kāpyavaṇam], &c. @[dūrvāvaṇam]-@[vanam], @[ikṣuvāvaṇam]-@[vanam]; but @[devadāravanam] (as the word contains more than three vowels); @[eraṇḍavanam]-@[ikṣurikāvaṇam], @[ikṣurikāvaṇam], and @[ikṣutikāvaṇam] |
 
-#### § 303. *The @[na] of @[vāhana] is changed to @[ṇa] when preceded by a word denoting an object that can be borne; @[ikṣuvāhaṇam]; but @[indravāhanam] (@[indrasya svābhikaṃ vāhanam ity arthaḥ] Sid. Kau.).
+#### § 303. \*The @[na] of @[vāhana] is changed to @[ṇa] when preceded by a word denoting an object that can be borne; @[ikṣuvāhaṇam]; but @[indravāhanam] (@[indrasya svābhikaṃ vāhanam ity arthaḥ] Sid. Kau.).
 
 #### § 304. † The @[na] of @[pāna] is changed to @[ṇa] necessarily when the compound implies a country and optionally when it signifies merely the act of drinking; as @[durāpāṇāḥ] (@[prācyāḥ]); @[kṣīrapāṇāḥ] (@[uśīnarāḥ]); but @[kṣīrapāṇam] or @[pānam] |
 
@@ -4790,7 +5066,7 @@ H. S. G. 12.
 
 (a) nouns ending in consonants assume that form which they take before the termination of Inst. sing.; @[pratyañc]-@[pratīcī], @[rajan]-@[rājñī], @[maghavan]-@[maghonī], @[an]-@[anyā], @[aryaman]-@[aryamṇī], @[vidvas]-@[viduṣī], &c. There are some exceptions, @[arvan]-@[arvaṇī] &c.
 
-* @[vanañca puratvam] | Pāṇ. VIII. 4. 4.
+- @[vanañca puratvam] | Pāṇ. VIII. 4. 4.
 
 † @[vane rastre dveṣu triṣvavakṣubhrātṛkāpyāñ khadiraṇḍīyasāñ abhyo'sañjñāyām api] | Vārt.
 
@@ -4798,7 +5074,7 @@ H. S. G. 12.
 
 (b) The @[na] of @[han] is changed to @[ghn] in @[vadhūḥ-vadhūṭī]; but @[ghnī] alone in the senses of @[jighāṃsā] &c.
 
-#### § 307. *The @[na] of @[yuvan] is changed to @[ṇa] when preceded by a word denoting time; @[cirayuvaṇī]; but @[strīyuvanī].
+#### § 307. \*The @[na] of @[yuvan] is changed to @[ṇa] when preceded by a word denoting time; @[cirayuvaṇī]; but @[strīyuvanī].
 
 #### § 308. Before @[ī] added to words ending in @[an]—
 
@@ -4822,7 +5098,7 @@ H. S. G. 12.
 
 (a) But if the @[prātipadika] end in @[ka] (the member of the
 
-* @[halastaddhitasya] । Pāṇ. VI. 4. 150. For the meaning of the term @[prātipadika] vide § 52.
+- @[halastaddhitasya] । Pāṇ. VI. 4. 150. For the meaning of the term @[prātipadika] vide § 52.
 
 † @[kharyāntiṣyāgastyamatsyānāṃ ya upadhāyāḥ] । Pāṇ. IV. 4. 149.
 
@@ -4846,7 +5122,7 @@ Exceptions:—The @[a] is not changed to @[i] when the @[ka] is added to the pro
 
 (3) when the @[ka] follows upon the fem. termination @[ā] shortened to @[a] and is preceded by @[ya] or @[ṭa]; as @[āryā] + @[ka] = @[āryaka] + @[ā] = @[āryikā] or @[āryakā]; @[chaṭakā] + @[ka] = @[chaṭakaka] + @[ā] = @[chaṭakikā] or @[chaṭakakā] &c. but @[asmākam], @[yuṣmākam], @[sāṅkāśikā], @[adhikā], @[bahūparikrājikā] @[nagarī]; @[ajñātā] @[kulaśīlā]; @[subhagikā].
 
-* @[na yuṣmadasmadyoḥ] । Pāṇ. VII. 3. 45. @[syakanasya samaset] । @[kṣipakādīnāṃ ca] । Vārtikās.
+- @[na yuṣmadasmadyoḥ] । Pāṇ. VII. 3. 45. @[syakanasya samaset] । @[kṣipakādīnāṃ ca] । Vārtikās.
 
 † The following words are included in the @[kṣipakādi]:— @[kṣipā] 'an archer,' @[dhanikā], @[carakā] 'a spy', @[sevaraḥ], @[karakaḥ] 'a kind of bird, hail,' @[chaṭakaḥ]; @[avakaḥ] 'a kind of plant', @[pañcikā], @[alakāḥ], @[kanyakā], and @[eḍakaḥ].
 
@@ -4862,7 +5138,7 @@ Exceptions:—The @[a] is not changed to @[i] when the @[ka] is added to the pro
 
 (c) Words indicative of the stages of life except the last take the fem. @[ई]; @[कुमारी], @[किशोरी], @[वटुकरी], @[युवती], @[तरुणी] (both meaning a 'young woman'); but @[वृद्धा], @[स्थविरा] &c. as these imply old age; @[कन्या] is an exception.
 
-* @[टिङाणञद्वयसज्दन्नमतालाञ्च्चायमट्ठक्ठञ्चकूठञ्जतृ] । Pan. IV. 1. 15.
+- @[टिङाणञद्वयसज्दन्नमतालाञ्च्चायमट्ठक्ठञ्चकूठञ्जतृ] । Pan. IV. 1. 15.
 
 † Vide the @[Kāśikā] on Pan. III. 2. 21.
 
@@ -4870,7 +5146,7 @@ Exceptions:—The @[a] is not changed to @[i] when the @[ka] is added to the pro
 
 @[वयसि प्रथमे] । Pan. IV. 1. 20. @[वयस्यचरम] @[इति] @[वाच्यम्] । Vart.
 
-(d) Obs.—*The words @[केवल], @[मामक], @[भाग], @[पाप], @[अपर], @[समान], @[आय], @[सुमङ्गल] and @[भेषज] form their fem. in @[ई] when they are used as names (or in the veda), @[केवली], @[मामकी], @[समानी], @[आयती] &c.; but @[केवला] @[उभामा], &c. when they are not names.
+(d) Obs.—\*The words @[केवल], @[मामक], @[भाग], @[पाप], @[अपर], @[समान], @[आय], @[सुमङ्गल] and @[भेषज] form their fem. in @[ई] when they are used as names (or in the veda), @[केवली], @[मामकी], @[समानी], @[आयती] &c.; but @[केवला] @[उभामा], &c. when they are not names.
 
 (e) The words @[नप्तृ], @[खनक], @[नट] and @[नर्त], those derived by adding the Kṛt affixes @[आक], and @[च] (added to certain roots) and the words included in the @[गौरादि] @[गण] † form their fem. in @[इ]; @[नप्ती], @[रजकी] &c. @[कुटी] one who divides or cuts; @[चोरी] robbing or stealing, @[भौरी], &c.; @[गौरी], @[लोहिती], @[शर्वरी], @[हरिणी], @[मातामही], @[पितामही] &c.; @[स्त्री] has @[स्त्री] and @[वध्री].
 
@@ -4878,7 +5154,7 @@ Exceptions:—The @[a] is not changed to @[i] when the @[ka] is added to the pro
 
 #### § 310. The following eleven @[प्रातिपदिक]s form their feminine in @[आ] under the circumstances mentioned §—@[जानपद] when it qualifies @[वृत्ति] or 'maintenance', @[कुण्ड] when it means 'a vessel' or 'a man of mixed class', @[गोण] 'a full sack', @[स्थल] 'natural site', @[भाज] 'boiled', @[नाग] 'a huge elephant', and @[काल] 'a particular colour', @[नील] when it does not refer to a garment (or rather refers to an animal) or means 'indigo', @[रूक्ष] when it means 'something
 
-* Vide Pan. IV. 4. 30.
+- Vide Pan. IV. 4. 30.
 
 † @[गौरादिभ्यश्च] । Pan. IV. 1. 41. The following are the more important of the words included in the @[गौरादि] group—@[गौर], @[मत्स्य], @[शर्वर], @[कर], @[हरिण], @[रजन], @[आमलक], @[गर्भ], @[गिरि], @[जम्बू], @[शिखण्डिन्], @[उश्मन्], @[आलिन्द], @[आढक], @[अश्वत्थ], @[उभय], @[शार्ङ्ग], @[मह], @[भट], @[योग], @[दण्ड], @[विद्याधर], @[अनड्वाह], @[देव], @[देवटी], @[रजक], @[आरट], @[नट], @[आस्तरण], @[आग्रहायण], @[जङ्घ], @[मन्थर], @[मण्डल], @[पिण्ड], @[यत्], @[पक्ष], @[महत्], @[सोम], @[सौधर्म] &c.
 
@@ -4898,8 +5174,8 @@ made of iron. @[bhogya] 'desirous of enjoyment,' and @[śikhā] 'a knot of hair'
 
 #### § 312. The words @[indra], @[varuṇa], @[bhava], @[śarva], @[rudra], @[mṛḍa], and @[ājagaraḥ]. @[hima] and @[araṇya] both implying 'vastness'; @[yava] meaning 'bad or spoiled barley', @[yavana] when the feminine denotes the alphabet of the Yavanas, @[mātula] and @[ācārya] form their fem. in @[ī] but insert @[ān] before this @[ī] e.g. @[indrāṇī] 'the wife of Indra;' @[varuṇānī] 'the wife of Varuṇa', &c.; @[himānī] 'a vast sheet of ice,' @[araṇyānī] 'an immense expanse of forests,' @[yavaḥ] @[yavo yavānī], @[yavanānāṃ] @[lipiryavānī], but @[yavanī] 'the wife of a Yavana or Yavana woman,' @[mātulānī] @[ācāryāṇī] (and not off) 'the wife of an Ācārya or a holy
 
-* @[puṃyogādākhyāyām] P. IV. 1. 48. @[gaveritīti] @[vācyaḥ].
-@[strīdvyatyayācāryācca] Vārtika.
+- @[puṃyogādākhyāyām] P. IV. 1. 48. @[gaveritīti] @[vācyaḥ].
+  @[strīdvyatyayācāryācca] Vārtika.
 
 † @[indravaruṇabhavaśarvarudramṛḍahimāraṇyayavayavanamātulācāryāṇāmānuk] Pāṇ. IV. 1. 49. @[himāraṇyayorviśālatve] @[yavājāt] @[yavanāllipiām] Vārtikas.
 
@@ -4915,7 +5191,7 @@ teacher', but @[ācāryā] 'a woman who teaches; a spiritual preceptress'.
 
 (b) Also words ending in @[a] and denoting mankind, @[dākṣī] 'a woman of the @[dakṣa] family,' @[audumbarī] (@[udumbarasya apatyaṃ]), but @[tiktā].
 
-* @[mātulопādhyāyayorājurvā] @[tatra svayamevādhyāpikā yā sā aṇatvaṃ ī vācyaḥ] @[vaiśyakṣatriyābhyāṃ vā svārthe] Vārtikāni.
+- @[mātulопādhyāyayorājurvā] @[tatra svayamevādhyāpikā yā sā aṇatvaṃ ī vācyaḥ] @[vaiśyakṣatriyābhyāṃ vā svārthe] Vārtikāni.
 
 † @[jāterastrīviṣayāddevopadhāt] Pāṇ. IV. 1. 63. @[aupagavakauṭsayadevadattāt hayagavayachagamanūṣyamatsyānāmapavādakatvam] Vārtikāni. @[pākakarṇaparṇapuṣphaphalakaṭubālottarapadācca ī tā manūṣyajāteḥ] Pāṇ. IV. 1. 64, 65.
 
@@ -4959,9 +5235,9 @@ Based on the OCR text provided, here is the cleaned version:
 
 N. B. Words like @[svasṛ], @[nanāndṛ], @[duhitṛ], @[yātṛ], @[svasuḥ] &c, being themselves feminine do not take this termination.
 
-* @[ūrū ūru-padād] @[upamye] | @[saṃdha-hita-śapha-lakṣaṇa-vāmādeśca] | Pāṇ. IV. 1. 69, 70. @[sahita-sahābhyāṃ ca] @[iti vaktavyam] | Vārtika.
-† @[vṛṣākapi-arṣi-ṅ-kusita-ñ-sidānām] @[ātaḥ] | Pāṇ. IV. 1. 37. ‡ @[manoḥ] @[au] |
-‡ @[manoḥ] @[au] @[vā] | Pāṇ. IV. 1. 38. @[manu-ṅ-ṛṣi-d-sthoḥ] @[ā-kārādeśaḥ] @[auṅ-pratyaye] Sid. Kau. § @[atanu-nemi-oḥ] @[ḍīp] | Pāṇ. IV. 1. 5.
+- @[ūrū ūru-padād] @[upamye] | @[saṃdha-hita-śapha-lakṣaṇa-vāmādeśca] | Pāṇ. IV. 1. 69, 70. @[sahita-sahābhyāṃ ca] @[iti vaktavyam] | Vārtika.
+  † @[vṛṣākapi-arṣi-ṅ-kusita-ñ-sidānām] @[ātaḥ] | Pāṇ. IV. 1. 37. ‡ @[manoḥ] @[au] |
+  ‡ @[manoḥ] @[au] @[vā] | Pāṇ. IV. 1. 38. @[manu-ṅ-ṛṣi-d-sthoḥ] @[ā-kārādeśaḥ] @[auṅ-pratyaye] Sid. Kau. § @[atanu-nemi-oḥ] @[ḍīp] | Pāṇ. IV. 1. 5.
 
 190 Sanskrit Grammar. [ § 325-328
 
@@ -4977,7 +5253,7 @@ Exception.—But if a base end in @[vat] applied to roots ending in a soft conso
 
 #### § 328. If a Bah. end in @[udhas] it takes the suffix @[ī] in the fem. before which @[n] is substituted for the final @[as]; @[pīnaṃ] @[udhaḥ] @[yasyāḥ] @[sā] @[pīnodhnī] having a large udder: @[kuṇḍodhnī] (see Rag. I. 84.); also when it is preceded by a numeral or an indeclinable,
 
-* @[ḍū-naḥ] @[tiḥ] | † @[vanaḥ] @[racā] | Pāṇ. IV. 1. 7, 7.
+- @[ḍū-naḥ] @[tiḥ] | † @[vanaḥ] @[racā] | Pāṇ. IV. 1. 7, 7.
 
 ‡ @[anaḥ] @[bahu-vrīheḥ] | @[anaḥ] @[upadhālopinaḥ] @[anyatarasyām] | Pāṇ. IV. 1. 12, 13.
 
@@ -4995,7 +5271,7 @@ as @[ayant], @[atyūdarī] having an udder exceedingly large; but @[acaḥ prath
 
 N. B.—the @[n] of @[hāyana] is changed to @[ṇ] after @[tri] and @[catur] only when it takes @[ī], @[caturhāyaṇī bālā]; but @[trihāyanā], @[caturhāyanā śālā].
 
-#### § 329. * When a compound has for its second member a word denoting a limb of the body of an animal and having no conjunct consonant preceding its final vowel, the fem. is formed by the addition of @[ā] or @[ī]; @[bahūromasī-mā]; 'a women having abundant hair;' @[sukeśā-śī], @[suromā-mī]; but @[suguḍphā] having beautiful ankles; @[sustanī] or @[sustanā] ( @[strī vā pratimā vā]; ) @[surūpā śālā] 'an edifice with a beautiful front'.
+#### § 329. \* When a compound has for its second member a word denoting a limb of the body of an animal and having no conjunct consonant preceding its final vowel, the fem. is formed by the addition of @[ā] or @[ī]; @[bahūromasī-mā]; 'a women having abundant hair;' @[sukeśā-śī], @[suromā-mī]; but @[suguḍphā] having beautiful ankles; @[sustanī] or @[sustanā] ( @[strī vā pratimā vā]; ) @[surūpā śālā] 'an edifice with a beautiful front'.
 
 (c) † If the word, denoting the limb, however, be one of the words @[kroḍa], @[jaṭā] @[kakud], @[ukhā], @[śikhā], @[vāla], @[roma], @[aśru], @[sthūlā], @[karṇa] &c. or have more than two syllables, the fem. is formed in @[ā] alone; @[kalyāṇakroḍā] ( @[kalyāṇīkoḍā] Sid, Kan. ), @[pṛthujaghanā], having large hips; @[suvedikā], &c.
 
@@ -5005,9 +5281,9 @@ N. B.—the @[n] of @[hāyana] is changed to @[ṇ] after @[tri] and @[catur] on
 
 ---
 
-* @[svāṅgāccopasarjanādasaṃyogāt] | Pāṇ. IV: 1. 54. † @[na kroḍādibahuṣu] | Pāṇ. IV. 1. 56.
-‡ @[susahaviṣasamāś ca] | Pāṇ. IV. 1. 57.
-†† @[nāsikāudarauṣṭhāṅghrimanidantakarṇaśaṅkhaś ca] | Pāṇ. IV. 1. 55. @[jaṅghāpakṣāṅgapucchakavarādayaś ca] @[tathā] | @[pucchaś ca] | @[kavarādiniḥ pakṣaḥ] | @[upamānāt pakṣaḥ pucchaḥ]— Vārttikas.
+- @[svāṅgāccopasarjanādasaṃyogāt] | Pāṇ. IV: 1. 54. † @[na kroḍādibahuṣu] | Pāṇ. IV. 1. 56.
+  ‡ @[susahaviṣasamāś ca] | Pāṇ. IV. 1. 57.
+  †† @[nāsikāudarauṣṭhāṅghrimanidantakarṇaśaṅkhaś ca] | Pāṇ. IV. 1. 55. @[jaṅghāpakṣāṅgapucchakavarādayaś ca] @[tathā] | @[pucchaś ca] | @[kavarādiniḥ pakṣaḥ] | @[upamānāt pakṣaḥ pucchaḥ]— Vārttikas.
 
 ---
 
@@ -5017,7 +5293,7 @@ one of the words @[nāsikā], @[udara], @[oṣṭha], @[aṅghri], @[danta], @[k
 
 (a) But if @[puccha] be preceded by @[kavara], @[maṇi] and @[bara], or if @[puccha] and @[pakṣa] be used in a Bah. involving comparison, the fem. is formed in @[ī] only; @[kavarapucchī], 'one having a variegated plumage' i. e., 'pea-hen'; @[ulūkapakṣī śālā] 'a hall having its sides like the wings of an owl'; @[ulūkapucchī senā] 'an army with its rear arrayed in the shape of the tail of an owl'
 
-#### § 331. * A Bah. ending in @[nakha] and @[mukha] and used as proper names forms fem. in @[ā]; @[śyenī], @[morā]; but @[tāmramukhī] a girl having a ruddy face.
+#### § 331. \* A Bah. ending in @[nakha] and @[mukha] and used as proper names forms fem. in @[ā]; @[śyenī], @[morā]; but @[tāmramukhī] a girl having a ruddy face.
 
 #### § 332. † Names of the limbs of the body, preceded by words denoting a cardinal point in a compound, form their fem. in @[ī] @[pūrvapādī], &c.
 
@@ -5027,14 +5303,14 @@ one of the words @[nāsikā], @[udara], @[oṣṭha], @[aṅghri], @[danta], @[k
 
 ---
 
-* @[nakhamukhasamyoge saṃjñāyām] | Pāṇ. IV. 1. 58. † @[diksaṃkhyātāṅgāt strī] | Pāṇ. IV. 1. 60.
-‡ @[pādo'nyatarasyām] | @[strīpūrvādibhyaḥ ṅīp] | Pāṇ. IV. 1. 8. 9.
+- @[nakhamukhasamyoge saṃjñāyām] | Pāṇ. IV. 1. 58. † @[diksaṃkhyātāṅgāt strī] | Pāṇ. IV. 1. 60.
+  ‡ @[pādo'nyatarasyām] | @[strīpūrvādibhyaḥ ṅīp] | Pāṇ. IV. 1. 8. 9.
 
 #### § 338-336 ] @[hasta] Bases. 193
 
 (3) In other cases the fem. of pratipadikas ending in @[pad] is formed by adding @[ā]; @[tripadā], @[ajapadā], &c.
 
-#### § 334. * A Dwigu ending in @[a] forms its fem. in @[ī]; as @[trivarṣī]; but if the ending word be one of those included in the @[ādi sūtra] (see foot-note on p. 108) its fem. is formed in @[ā] also; @[triguṇā senā] (consisting of three battalions), &c.
+#### § 334. \* A Dwigu ending in @[a] forms its fem. in @[ī]; as @[trivarṣī]; but if the ending word be one of those included in the @[ādi sūtra] (see foot-note on p. 108) its fem. is formed in @[ā] also; @[triguṇā senā] (consisting of three battalions), &c.
 
 #### § 335. (a) A Dwigu ending in @[kāṇḍa] (a particular measure) and qualifying a word denoting 'a field' has its fem. formed by the addition of @[ā], but when a @[taddhita] affix has been first added to it and then dropped; as @[dve kāṇḍe pramāṇaṃ yasyāḥ asau dvikāṇḍa + mātrā = dvikāṇḍā avaṭiḥ] 'a piece of land 30 hands in extent'; but @[dvikaṇḍaṃ rajjuḥ] 'a rope, 30 hands in length'; also when the ending word is one that does not denote a measure, except the words @[niṣka] 'a tola', @[āhita] 'the load of a cart,' and @[kaṃbalyā] (a weight equal to 35 tolas); @[pañcabhiḥ palaiḥ krītā asau pañcapalā], but @[vimṣatyā niṣkabhiḥ krītā asau viṃśaniṣkā sthālī]; so @[tripalā], @[dvikṃbalyā].
 
@@ -5042,7 +5318,7 @@ one of the words @[nāsikā], @[udara], @[oṣṭha], @[aṅghri], @[danta], @[k
 
 #### § 336. Participles (those of the Pres. and Fut.) of Parasmai. roots take @[ī] in the fem., @[y] being inserted before as in the Nom. or Acc. dual of the Neu. (see § 116) and so do adjectives ending in a consonant; @[pacantī]; @[yantī-ntī], @[śāsatī], @[dadatī], @[dīvyantī], @[mahatī], &c.
 
-* @[dvigoḥ | apariṃāṇavistārāhitakaṃbalyebhyo na taditaluki] | Pāṇ. IV. 1. 21. 22.
+- @[dvigoḥ | apariṃāṇavistārāhitakaṃbalyebhyo na taditaluki] | Pāṇ. IV. 1. 21. 22.
 
 † @[kāṇḍāntātkṣetre] | Pāṇ. IV. 1. 23.
 
@@ -5077,6 +5353,7 @@ N. B.—Other changes the student will easily note from the instances given.
 #### § 340. The following is a list of such of the @[taddhita] affixes as are commonly to be met with.
 
 ## SECTION I.
+
 ## MISCELLANEOUS AFFIXES.
 
 @[a]—is added in the sense of:—(1) 'the son of'; as @[upagoḥ apatyam upagavaḥ iti upagavaḥ] 'the son of Upagu', so @[vāsudevaḥ] from @[vasudeva]; @[parvatasya apatyam putri pārvatī] 'the daughter of the mountain,'
@@ -5085,13 +5362,13 @@ N. B.—Other changes the student will easily note from the instances given.
 
 @[aka]—forms derivatives with various significations:—(1) @[uṣṭre bhavaḥ auṣṭrakaḥ] 'produced from or relating to a camel', @[grīṣme bhavaḥ graiṣmikāḥ] 'produced in the hot season', (2) @[kulālena kṛtam kaulālikam] 'made by a potter,' @[brahmaṇā kṛtam brāhmakam] 'made by brāhmaṇa;' (3) @[āraṇyakaḥ] 'a forester,' 'a wild
 
-* For the declension of such words vide § 74. a., b.
+- For the declension of such words vide § 74. a., b.
 
-man', (4) @[etat yogya rājanyakaṃ] 'a place fit for kings to live in'; @[mānuṣyakaṃ] 'a country fit for men to live in'; @[kuruṣu jātaḥ kauravakaḥ] (also @[kauravaḥ]*) 'an inhabitant of Kuru'; @[yugandhareṣu jātaḥ yaugandhrakaḥ] (also @[yaugandhraḥ]*) 'inhabiting Yugandhara'; (6) @[pathi jātaṃ pauthikaṃ] 'grown on a way'; (7) @[panthānaṃ vrajatīti pathikaḥ] 'a traveller'; (8) @[pūrvāhne bhavaḥ pārvāhṇikaḥ] 'happening in the forenoon'; similarly @[aparāhṇikaḥ] 'happening in the afternoon'; (9) is added to denote 'enmity' @[kākaśyena yoḥ vairaṃ kākaśyenakam] 'the antipathy between the crow and the owl'; similarly @[devasurāṇāṃ vairam], &c.; (10) when added to words ending in the Tad. affixes signifying 'the child or the descendant', and to the words @[ukṣan] 'ox', @[go] 'cow', @[urann] 'ram', @[rājan], @[rājanya], @[vatsaḥ], @[aja], @[manuṣya] and @[aja], it has the sense of 'a collection of'; @[upaguṇāṃ samūhaḥ aupaguṇakaṃ] 'a number of the descendants of Upagu'; @[gaukaṃ] 'a herd of cattle'; @[rājakaṃ] 'a collection of kings', @[rājanyakaṃ] 'an assemblage of kshatriyas'; @[vatsakaṃ] 'a number of calves'; @[mānuṣyakaṃ], @[ajakaṃ] &c.; (11) it is also added to @[nāṭya], @[śākhā], @[śikṣā], and @[mīmāṃsā] in the sense of 'one who has studied them'; @[śākhikaḥ] 'a student who goes through a regular course of study, or one who has studied the branch arrangement of a sacred text'; @[mīmāṃsakaḥ] 'a student of the mīmāṃsā philosophy', &c.
+man', (4) @[etat yogya rājanyakaṃ] 'a place fit for kings to live in'; @[mānuṣyakaṃ] 'a country fit for men to live in'; @[kuruṣu jātaḥ kauravakaḥ] (also @[kauravaḥ]_) 'an inhabitant of Kuru'; @[yugandhareṣu jātaḥ yaugandhrakaḥ] (also @[yaugandhraḥ]_) 'inhabiting Yugandhara'; (6) @[pathi jātaṃ pauthikaṃ] 'grown on a way'; (7) @[panthānaṃ vrajatīti pathikaḥ] 'a traveller'; (8) @[pūrvāhne bhavaḥ pārvāhṇikaḥ] 'happening in the forenoon'; similarly @[aparāhṇikaḥ] 'happening in the afternoon'; (9) is added to denote 'enmity' @[kākaśyena yoḥ vairaṃ kākaśyenakam] 'the antipathy between the crow and the owl'; similarly @[devasurāṇāṃ vairam], &c.; (10) when added to words ending in the Tad. affixes signifying 'the child or the descendant', and to the words @[ukṣan] 'ox', @[go] 'cow', @[urann] 'ram', @[rājan], @[rājanya], @[vatsaḥ], @[aja], @[manuṣya] and @[aja], it has the sense of 'a collection of'; @[upaguṇāṃ samūhaḥ aupaguṇakaṃ] 'a number of the descendants of Upagu'; @[gaukaṃ] 'a herd of cattle'; @[rājakaṃ] 'a collection of kings', @[rājanyakaṃ] 'an assemblage of kshatriyas'; @[vatsakaṃ] 'a number of calves'; @[mānuṣyakaṃ], @[ajakaṃ] &c.; (11) it is also added to @[nāṭya], @[śākhā], @[śikṣā], and @[mīmāṃsā] in the sense of 'one who has studied them'; @[śākhikaḥ] 'a student who goes through a regular course of study, or one who has studied the branch arrangement of a sacred text'; @[mīmāṃsakaḥ] 'a student of the mīmāṃsā philosophy', &c.
 
 @[māhaka]—is added to the words @[pitṛ] and @[mātṛ] in the sense of 'the father of'; @[piturbhāvaḥ pitā pitāmahaḥ] 'a paternal grandfather'; @[mātāmahaḥ] 'a maternal grandfather'. (1) @[tulya] is added to @[mātṛ] in the sense of 'the brother of'; @[mātuḥ tulyaḥ mātā mātulya-ḥ]
 
-* @[vibhāṣā kuruyugandhārābhyām] | Pan. IV. 2. 30.
+- @[vibhāṣā kuruyugandhārābhyām] | Pan. IV. 2. 30.
 
 † Vide supra, § 306. ‡ These are generally fem. @[vairam] and there are exceptions, as @[devasurāṇāṃ] 'the enmity between the gods and the demons' &c.,
 
@@ -5103,7 +5380,7 @@ man', (4) @[etat yogya rājanyakaṃ] 'a place fit for kings to live in'; @[mān
 
 @[ika] [ @[ṭhak], @[ṭhañ], @[ṭhan] ]—has various senses:—(1) @[revatyāḥ apatyaṃ ekaṃ revatikaḥ] 'the son of Revati; (2) 'happening or given once a month, monthly, lasting for a month', &c. @[māse māse dīyate iti māsikaṃ vetanaṃ paṭaṃ vā]; similarly @[vārṣikaṃ vaiṣuvataṃ] &c. (3) 'gathering together', @[sainikaḥ] (4) 'asking;' @[susnatām ācaritavān pṛcchatitiḥ susnātikaḥ] 'one who asks another whether he had an auspicious ablution'; @[susvapnānta svapitavān pṛcchatīti susvapnāyantikaḥ] 'one who asks another whether he had comfortable sleep'. (see Rag. VI. 61 X. 14.); @[sukhādhikaḥ] &c.; (5) 'using an instrument', @[asiḥ praharaṇam asya asikaḥ] 'one who strikes with a sword, a swordsman', @[dhānuṣkaḥ] 'an archer;' (6) 'mixed with,'
 
-* In this sense it is added to a few words only.
+- In this sense it is added to a few words only.
 
 #### §340] (ठिक्‌ ) Affixes. 199
 
@@ -5111,14 +5388,14 @@ man', (4) @[etat yogya rājanyakaṃ] 'a place fit for kings to live in'; @[mān
 
 200 संस्कृत GRAMMAR. [§340
 
-'one who lives upon wages'.—(19) to words denoting musical instruments in the sense of 'playing upon'; @[मृदङ्गवादनं शिल्पमस्य मार्दङ्गिकः] 'one whose profession is to play on a tabor'; so @[वीणिकः] fr. @[वीणा]; similarly @[वेणविकः], @[पाणविकः] or @[पणविकः], @[भेरिकः], &c.—(20) to @[पर्वन्‌] and the remaining words* of that group in the sense of 'walking with the assistance of;' @[पर्विकः] [@[पर्वणा चरति इति], @[येन वा पदङ्गवश्चरन्ति स पर्वा] Sid. Kau.]; @[येन वा अन्विकः], @[दण्डिकः] &c. @[पथा चरति पथिकः] 'a traveller'; this is also added to words denoting inanimate things. @[वाह्यमाणं वारि] 'wood carried on by the force of water'. (21) to words included in the @[मुण्डादि]† group in the sense of 'bears or carries by means of' @[मुण्डेन हरति मौण्डिकः], and to the word @[विवीवध]; @[विवीवधेन हरति विवीवधिकः]; also @[वैवाधिकः]—(22) to @[कुसीद] and @[एकादशकङ्ग] in the sense of 'lending on interest' @[कुसीदिकः] 'a usurer', @[एकादशकङ्गिकः] 'one who lends another ten rupees in order to get back eleven &c.' 'a usurer'; and (23) to @[आकर्ष]; @[आकर्षेण चरति आकर्षिकः] 'magnetic, attractive'.
+'one who lives upon wages'.—(19) to words denoting musical instruments in the sense of 'playing upon'; @[मृदङ्गवादनं शिल्पमस्य मार्दङ्गिकः] 'one whose profession is to play on a tabor'; so @[वीणिकः] fr. @[वीणा]; similarly @[वेणविकः], @[पाणविकः] or @[पणविकः], @[भेरिकः], &c.—(20) to @[पर्वन्‌] and the remaining words\* of that group in the sense of 'walking with the assistance of;' @[पर्विकः] [@[पर्वणा चरति इति], @[येन वा पदङ्गवश्चरन्ति स पर्वा] Sid. Kau.]; @[येन वा अन्विकः], @[दण्डिकः] &c. @[पथा चरति पथिकः] 'a traveller'; this is also added to words denoting inanimate things. @[वाह्यमाणं वारि] 'wood carried on by the force of water'. (21) to words included in the @[मुण्डादि]† group in the sense of 'bears or carries by means of' @[मुण्डेन हरति मौण्डिकः], and to the word @[विवीवध]; @[विवीवधेन हरति विवीवधिकः]; also @[वैवाधिकः]—(22) to @[कुसीद] and @[एकादशकङ्ग] in the sense of 'lending on interest' @[कुसीदिकः] 'a usurer', @[एकादशकङ्गिकः] 'one who lends another ten rupees in order to get back eleven &c.' 'a usurer'; and (23) to @[आकर्ष]; @[आकर्षेण चरति आकर्षिकः] 'magnetic, attractive'.
 
 @[इनिः]—(1) Added to @[श्राद्ध] or words ending in @[पूर्व] and to @[श्राद्ध] it has the sense of 'done and eaten by' respectively. @[अपरपूर्वः पूर्विणः]; @[श्राद्धमनेन भुक्तं श्राद्धी] 'one who has eaten at a Śrāddha'; (2) it is added to a few words, such as @[खल], @[कुटुम्ब], &c. in the sense of 'a collection of' with fem. term. @[ई] added to it; @[खलानां समूहः खलिनी] 'a multitude of thrashing floors or wicked men', @[कुटुम्बिनी] 'a number
 
 ---
 
-* These are @[मनु], @[अनु], @[रथ], @[दण्ड], @[व्यास], and @[पाद].
-† @[मुण्ड], @[कूट], @[मरण], @[हिरण्यमार], @[अंसमार], @[कक्ष].
+- These are @[मनु], @[अनु], @[रथ], @[दण्ड], @[व्यास], and @[पाद].
+  † @[मुण्ड], @[कूट], @[मरण], @[हिरण्यमार], @[अंसमार], @[कक्ष].
 
 of families'. @[ḍākinī] 'a host of female goblins or imps,' @[śākinī], &c.
 
@@ -5134,23 +5411,23 @@ goes to both sides or one who crosses the sea': @[avārapārīṇaḥ] 'crossing
 
 @[iya] (@[cha], @[chaṇ])-(1) is added in the sense of 'of or belonging to', @[śālāyāḥ] @[ayaṃ] @[śālīyaḥ] fr. @[śālā]; @[mālīyaḥ] fr. @[mālā]; @[pāṇinīyaḥ] 'belonging to the school of Pāṇini'; it is added to (2) @[bhāginī] and @[svasṛ] and @[bhrātṛ] in the senses of 'the son of' and 'relating to,' respectively; @[bhāgineyaḥ] 'a sister's son' @[bhrātṛsvasrīyaḥ]; @[bhrātṛmīyaḥ] 'fraternal',-(3) @[aśva] in the sense of 'relating to or a number of' @[aśvīyaṃ] (also @[āśvi]) 'relating to horses, a number of horses';-(4) when added to the words @[sva], @[jana], @[para] @[deśa], @[rājanya], @[kṣaya] and @[vṛṣala], @[i] is
 
-* @[Pān]. V. 2. 23. and Sid. Kau. II @[tantuḥ] @[haiyaṅgavīnaṃ] @[yad] @[dvayogodohodbhavaṃ] @[ghṛtam] | Amara.
+- @[Pān]. V. 2. 23. and Sid. Kau. II @[tantuḥ] @[haiyaṅgavīnaṃ] @[yad] @[dvayogodohodbhavaṃ] @[ghṛtam] | Amara.
 
 inserted; @[svakīya] 'one's own,' @[janadīya] 'of the people,' @[parakīya], @[rājakīya], @[veṇukīya] 'of a bamboo,' @[caitrakīya].
 
 @[eṣya]—प्रा @[varṣeṇya] 'produced in or relating to the rainy season,' fr. @[varṣā].
 
-@[eya] (ढञ्, ञञ्, टञ्) is chiefly added (1) to words ending in fem. affix in the sense of 'the child or offspring of'; @[vainateya] 'the son of Vinatā' i.e. Garuda; @[bhāgineya] 'the son of a sister'; when added to @[kulāṭā] meaning 'a poor woman', @[uk] is inserted optionally, @[kaulāṭukeya] or @[kaulāṭineya]; when @[kulāṭā] means 'a harlot' or 'an adulteress' @[er] is optionally substituted for @[ya]; @[kaulāṭeya] or @[kaulāṭera] 'the son of an adulteress'; it is optionally changed to @[er] when added to words denoting 'a female having some kind of defect', @[kāṇeya-ra] 'son of a one-eyed woman,' @[dāsīputra-ra] 'son of a female slave'.—(2) to words of two syllables ending in @[i] but not formed by the affix @[i] (@[iñ]), to @[maṇḍūka] and words included in the @[jyugrādi] group*; @[ātreya] 'son of Atri', @[māṇḍūkeya] 'son of Maṇḍūka', @[saubhreya] 'son of Subhra (Name of a sage)', @[jyugra] &c.:—(3) and to @[mātṛsvasṛ] and @[pitṛsvasṛ], the final @[ṛ] being dropped before it; @[mātṛsvaseya], @[pitṛsvaseya], (4) added to @[agni] and @[kali] it has various senses; @[āgneya] 'son of Agni', 'relating to fire', 'having Agni for the presiding deity', &c.; it is affixed to—(5) @[nadi] and other words in the sense of 'produced from,' &c.; @[nadi] इदं @[nadyāṃ] भवं वा @[nadeya] 'riverborn'; 'rock-salt'; @[pārthiva] fr. @[pṛthivī] 'produced from the earth', @[vārāṇaseya] &c.; (6) @[vrīhi] and @[śāli] in the sense of 'a field of'; @[vrīhi], @[śāli] अत्र @[vārṇeyaṃ, śāleyaṃ];—(7) @[kula], @[kośi], @[grāma], and words included in
+@[eya] (ढञ्, ञञ्, टञ्) is chiefly added (1) to words ending in fem. affix in the sense of 'the child or offspring of'; @[vainateya] 'the son of Vinatā' i.e. Garuda; @[bhāgineya] 'the son of a sister'; when added to @[kulāṭā] meaning 'a poor woman', @[uk] is inserted optionally, @[kaulāṭukeya] or @[kaulāṭineya]; when @[kulāṭā] means 'a harlot' or 'an adulteress' @[er] is optionally substituted for @[ya]; @[kaulāṭeya] or @[kaulāṭera] 'the son of an adulteress'; it is optionally changed to @[er] when added to words denoting 'a female having some kind of defect', @[kāṇeya-ra] 'son of a one-eyed woman,' @[dāsīputra-ra] 'son of a female slave'.—(2) to words of two syllables ending in @[i] but not formed by the affix @[i] (@[iñ]), to @[maṇḍūka] and words included in the @[jyugrādi] group\*; @[ātreya] 'son of Atri', @[māṇḍūkeya] 'son of Maṇḍūka', @[saubhreya] 'son of Subhra (Name of a sage)', @[jyugra] &c.:—(3) and to @[mātṛsvasṛ] and @[pitṛsvasṛ], the final @[ṛ] being dropped before it; @[mātṛsvaseya], @[pitṛsvaseya], (4) added to @[agni] and @[kali] it has various senses; @[āgneya] 'son of Agni', 'relating to fire', 'having Agni for the presiding deity', &c.; it is affixed to—(5) @[nadi] and other words in the sense of 'produced from,' &c.; @[nadi] इदं @[nadyāṃ] भवं वा @[nadeya] 'riverborn'; 'rock-salt'; @[pārthiva] fr. @[pṛthivī] 'produced from the earth', @[vārāṇaseya] &c.; (6) @[vrīhi] and @[śāli] in the sense of 'a field of'; @[vrīhi], @[śāli] अत्र @[vārṇeyaṃ, śāleyaṃ];—(7) @[kula], @[kośi], @[grāma], and words included in
 
-* @[jyugra, para, brahmaputra, rodiṇī, rukmaparṇī, dhariṇī, dhimātu, kakṣa, dvīpa, viśa, śakuni, agni, bandhakī], &c.
+- @[jyugra, para, brahmaputra, rodiṇī, rukmaparṇī, dhariṇī, dhimātu, kakṣa, dvīpa, viśa, śakuni, agni, bandhakī], &c.
 
-the @[karādi] group*, with different significations and with @[ka] added to it, @[kauleyaka] 'a dog', 'pertaining to a noble family'; @[kośeyaka] 'a sword', @[grāmeyaka] 'a neck ornament', @[kuśitāyāṃ] अयं @[bhavaḥ kuśiteyaḥ], @[grāmeyaka] 'village-born, rustic'; @[nāgareyaka], &c. (8) @[kośa] in the sense of 'made of'; @[kośeyaṃ] 'a silken garment';—(9) @[puruṣa] in different senses; @[pauruṣeya] 'man-slaughter', 'human work', 'derived from or incidental to man,' 'composed or propounded by man'; and (10) to @[pathin], @[atithi], @[vasati] and @[svapati] in the sense of 'useful in, good for'; @[pathi] साधु @[pathyādi pātheyaḥ] 'what is useful on the way' i.e. 'provisions for a journey': @[atithiṣu] साधु @[ātitheyaḥ] 'attentive to guests, hospitable'; @[vasato] साधु @[vāsateya] 'hospitable':—@[dyūtaṃ rājiḥ]; @[svapateḥ]... गतं @[svāpateyaṃ] (धनं) 'wealth, property'; vide Kir. XIV. 8.
+the @[karādi] group\*, with different significations and with @[ka] added to it, @[kauleyaka] 'a dog', 'pertaining to a noble family'; @[kośeyaka] 'a sword', @[grāmeyaka] 'a neck ornament', @[kuśitāyāṃ] अयं @[bhavaḥ kuśiteyaḥ], @[grāmeyaka] 'village-born, rustic'; @[nāgareyaka], &c. (8) @[kośa] in the sense of 'made of'; @[kośeyaṃ] 'a silken garment';—(9) @[puruṣa] in different senses; @[pauruṣeya] 'man-slaughter', 'human work', 'derived from or incidental to man,' 'composed or propounded by man'; and (10) to @[pathin], @[atithi], @[vasati] and @[svapati] in the sense of 'useful in, good for'; @[pathi] साधु @[pathyādi pātheyaḥ] 'what is useful on the way' i.e. 'provisions for a journey': @[atithiṣu] साधु @[ātitheyaḥ] 'attentive to guests, hospitable'; @[vasato] साधु @[vāsateya] 'hospitable':—@[dyūtaṃ rājiḥ]; @[svapateḥ]... गतं @[svāpateyaṃ] (धनं) 'wealth, property'; vide Kir. XIV. 8.
 
 @[ka] (कन्)—is affixed (1) to words expressive of countries in the sense of 'bom or produced in'; @[mādraka] 'bom or produced in the Madra country';—(2) to @[pīta] in the sense of 'dyed with'; @[pītaka] 'dyed yellow';—(3) in the sense of 'belonging to'; @[matka], @[tvatka], &c.—(4) 'bought for'; @[pañcaka] 'bought for five rupees';—(5) in the sense of 'acting'; @[śītaka] 'one who is cold' i.e. 'slow in action,' 'a dilatory or lazy man'; @[uṣṇaka] 'an active man';—(6, 7, 8.) to express pity or diminution, or depreciation—@[putraka] 'poor son', @[devadattaka] 'unhappy Devadatta'; @[vṛkṣo'lpaḥ rakṣakaḥ] 'a small or stunted tree'; @[aśvaka] 'a bad horse, a hack'; @[śūdraka] 'a wicked Śūdra,' (9) and sometimes with no signification; @[avikṣa] i.e. @[aviḥ] 'a ram'; @[maṇika] 'a jewel', @[bālaka] 'a young boy'; &c.
 
 @[kaṭa] (कटच्)—is affixed (1) to words denoting names of beasts, in the sense of 'a collection of'; @[avikaṭa] 'a flock of sheep';
 
-* @[kākī, puṣkara, gopāla, gola, kuṇḍina, jāmbu], &c.
+- @[kākī, puṣkara, gopāla, gola, kuṇḍina, jāmbu], &c.
 
 #### § 340 } TADDHITA AFFIXES. 205
 
@@ -5188,9 +5465,9 @@ the @[karādi] group*, with different significations and with @[ka] added to it,
 
 @[maya] (@[mayaṭ])—@[ṭa] is added in the sense of (1) 'made of' @[tasya vikāraḥ], @[mṛdmaya] 'made of earth', @[dārumaya] 'made of wood' &c.; and (2) in that of profusion or excess; @[annamaya] @[prācuryam].
 
-* @[pramāṇe dvandve ca tadarthye yāñ ṭañ matup ca] Pāṇ. V. 2, 37.
-† @[strīpuṃsābhyāṃ nañsnañau tad bhāvanāt] Pāṇ. IV. 1, 87.
-‡ @[akac ca etayormṛnmayāmaya syānmayavanayoḥ] Pāṇ. IV. 3, 143.
+- @[pramāṇe dvandve ca tadarthye yāñ ṭañ matup ca] Pāṇ. V. 2, 37.
+  † @[strīpuṃsābhyāṃ nañsnañau tad bhāvanāt] Pāṇ. IV. 1, 87.
+  ‡ @[akac ca etayormṛnmayāmaya syānmayavanayoḥ] Pāṇ. IV. 3, 143.
 
 #### § 340 } TADDHITA AFFIXES. 207
 
@@ -5204,7 +5481,7 @@ I. यस्मिन्‌ घृतमयो यज्ञः 'a sacrifice cons
 
 #### § 341. The @[matvarṭhīya] affixes or affixes expressive of possession have the following additional senses:—भूमन्‌ or 'greatness, eminence,' निन्दा or 'depreciation,' प्रशंसा or 'praise', नित्ययोग or 'constant connection', अतिशायन or 'excess over,' सम्बन्ध or 'being in connection with,' and सामान्यवचन or 'to express the meaning
 
-of 'Possession'*. The instances in order are—@[guṇin], @[śakti-vat], @[rūpa-vat], @[hāriṇī gāḥ], @[udariṇo kanyā], @[daṇḍī].
+of 'Possession'\*. The instances in order are—@[guṇin], @[śakti-vat], @[rūpa-vat], @[hāriṇī gāḥ], @[udariṇo kanyā], @[daṇḍī].
 
 ## SECTION II.
 
@@ -5218,7 +5495,7 @@ AFFIXES SHOWING POSSESSION. (@[tad-dhita-prakaraṇa]).
 
 @[ita]—is added to @[tārakā] and other words‡ in the sense of 'that
 
-* @[rūpa-nindā-parākāsād nitya-yoge-avijñāyane | lamba-anyeṣu-iṅ-vak-ṣāyāṃ bhavanti matup-ādayaḥ ||] (Sid. Kav.)
+- @[rūpa-nindā-parākāsād nitya-yoge-avijñāyane | lamba-anyeṣu-iṅ-vak-ṣāyāṃ bhavanti matup-ādayaḥ ||] (Sid. Kav.)
 
 † @[arśas], @[uras], @[aṭas], @[caturas], @[palita], @[jaṭā], @[ghaṭā], @[agha], @[kardama], @[amla], @[lavaṇa], and words expressive of the deformed limbs of the body and of colour.
 
@@ -5230,13 +5507,13 @@ N. S. G. 14.
 
 is obtained or possessed by'; @[tārakāḥ asya saṃjātāḥ iti tārakitaḥ] 'the sky studded with stars'; @[kalāni asya saṃjātāni iti kalitaḥ dakṣaḥ]; similarly @[puṣpita], @[kṣamita], @[duḥkhita] &c.
 
-@[ina] and @[ika] (@[ini], @[ṭhan])—are added* to words ending in @[a], and to the words of the @[vrīhy-ādi] group†; @[daṇḍaḥ asyāsti iti daṇḍī] or @[daṇḍikaḥ] 'one who has a staff.' @[sukhinaḥ], @[sukhinī], @[duḥkhinī] &c.; @[vrīhiṇī], @[yavī], @[godhūmī], @[māṣī], @[śālīnī], @[mālī], &c., when added to @[vāta] and @[atisāra], @[ra] is prefixed to it, @[vātardhiṇī] 'suffering from gout, rheumatic'; @[atisāradhiṇī] 'one suffering from diarrhoea'; it is added to @[puṣkara] and other words‡ when the place is meant; @[puṣkariṇī] 'the place where lotuses grow'; hence 'a tank or a lake'; similarly @[kumudinī], @[paṅkinī] &c.; it is also added to @[artha] and words ending in @[artha]; @[arthī] 'one having some object in view'; @[dhānyārthī] &c.; and to @[varaṇa]—@[varaṇī] 'an ascetic.'
+@[ina] and @[ika] (@[ini], @[ṭhan])—are added\* to words ending in @[a], and to the words of the @[vrīhy-ādi] group†; @[daṇḍaḥ asyāsti iti daṇḍī] or @[daṇḍikaḥ] 'one who has a staff.' @[sukhinaḥ], @[sukhinī], @[duḥkhinī] &c.; @[vrīhiṇī], @[yavī], @[godhūmī], @[māṣī], @[śālīnī], @[mālī], &c., when added to @[vāta] and @[atisāra], @[ra] is prefixed to it, @[vātardhiṇī] 'suffering from gout, rheumatic'; @[atisāradhiṇī] 'one suffering from diarrhoea'; it is added to @[puṣkara] and other words‡ when the place is meant; @[puṣkariṇī] 'the place where lotuses grow'; hence 'a tank or a lake'; similarly @[kumudinī], @[paṅkinī] &c.; it is also added to @[artha] and words ending in @[artha]; @[arthī] 'one having some object in view'; @[dhānyārthī] &c.; and to @[varaṇa]—@[varaṇī] 'an ascetic.'
 
 @[ila]—is affixed to @[phala], @[barha] and @[mala]; @[phalinaḥ] 'bearing fruit, fruitful', @[barhiṇaḥ] 'a peacock'; @[malinaḥ] 'dusky'.
 
 @[iya]—is added to @[tunda], @[udara], @[picaṇḍa], @[yava], @[basti]§ optionally.
 
-* @[ata iṇi ṭhanoḥ |] Pāṇ. V. 2. 115. The words belonging to this group are:—@[vrīhi], @[māṣa], @[śāli], @[śikhā], @[mālā], @[mekhalā], @[keśa], @[pṛṣṭha], @[patākā], @[camas], @[karman], @[vana], @[daṣṭā], @[saṃjñā], @[hetu], @[sitā], @[asi], @[vāṇā], @[balāka], and words ending in @[śoka].
+- @[ata iṇi ṭhanoḥ |] Pāṇ. V. 2. 115. The words belonging to this group are:—@[vrīhi], @[māṣa], @[śāli], @[śikhā], @[mālā], @[mekhalā], @[keśa], @[pṛṣṭha], @[patākā], @[camas], @[karman], @[vana], @[daṣṭā], @[saṃjñā], @[hetu], @[sitā], @[asi], @[vāṇā], @[balāka], and words ending in @[śoka].
 
 † @[puṣkara], @[kumuda], @[utpala], @[tamāla], @[paṅka], @[naḍa], @[kapittha], @[nara], @[kunda], @[śveta], @[raktotpala], @[vikarṇa], @[karāla], @[viśāla], @[cakra], @[hiraṇya], @[kavaca], @[carma], @[ambara], @[utkaṭa], @[unmukha], @[hasta], @[aṅgada], @[saroruha], @[indīvara], @[kahlāra], @[ambhoja], @[paṅkaja], @[kamala] and @[payasa].
 
@@ -5308,10 +5585,11 @@ Exceptions:—@[म] is not changed to @[व] in the case of the words @[यव]
 
 N.B.—These affixes are prohibited after @[Karmadhāraya] compounds.
 
-* @[अस्मायामेधास्रजो विनिः] Pāṇ. V. 2. 121. @[आमयादिभ्यो ह्रस्वस्य दीर्घश्च].
-† @[न कर्मधारयान्मत्वर्थीयः].
+- @[अस्मायामेधास्रजो विनिः] Pāṇ. V. 2. 121. @[आमयादिभ्यो ह्रस्वस्य दीर्घश्च].
+  † @[न कर्मधारयान्मत्वर्थीयः].
 
 ## SECTION III.
+
 ## AFFIXES FORMING ADVERBS.
 
 @[अक] (@[अकन्])—is inserted before the final vowel of indeclinables without any change of meaning; @[यदा]—@[यदाक]; @[नीचैः]—@[नीचैक].
@@ -5328,7 +5606,7 @@ N.B.—These affixes are prohibited after @[Karmadhāraya] compounds.
 
 @[स्यम्]—is added to nouns or indeclinables to express that a person or thing, not being like what is denoted by the base to which it is added, becomes or is made like it.
 
-* @[तेन तुल्यं क्रिया यावता स तस्येव]. @[तदर्हम्]. Pāṇ. V. 1. 115-117. @[समानाश्च तुल्ययोगे संप्रदानकर्तरि स्यादिः]. Pāṇ. V. 4. 50. @[अभूततद्भाव इति वक्तव्यम्] Vārt.
+- @[तेन तुल्यं क्रिया यावता स तस्येव]. @[तदर्हम्]. Pāṇ. V. 1. 115-117. @[समानाश्च तुल्ययोगे संप्रदानकर्तरि स्यादिः]. Pāṇ. V. 4. 50. @[अभूततद्भाव इति वक्तव्यम्] Vārt.
 
 Before this the ending @[म] or @[आ] is changed to @[इ], but not that of indeclinables, @[इ] or @[उ] is lengthened and @[अ] changed to @[ई]; final @[न] and the ending consonant of @[अरुस्], @[आयुस्], @[वयस्], @[तपस्], @[रहस्], and @[रजस्], are dropped; and then the preceding rules are applied to the penultimate vowel. After this the termination is dropped and the verbal or other forms of @[कृ], @[भू] and @[अस्] are added to the base regarded as a preposition, e.g.: @[कृष्णः सम्पद्यते] or @[करोति] (@[कृष्ण + च्वि = कृष्ण – अ = कृष्णी + करोति]) @[कृष्णीकरोति]; @[न ब्रह्मा अब्रह्मा अब्रह्मी ब्रह्मा सम्पद्यते अब्रह्मीकरोति]; similarly @[गङ्गीभवति]; @[दोषायते अहः] 'the day is changed into the night', @[अहायते रात्रिः] 'the night has become like the day'; @[अश्वीभवति, अश्वीभूतः, अश्वीभूयात्]; @[मात्रीभवतीः मात्रीकरोति], &c., @[अरुकरोति, उन्नयीभूयात्, उच्चीकरोति, पुत्रीकरोति, विरजीकरोति], &c.
 
@@ -5336,7 +5614,7 @@ Before this the ending @[म] or @[आ] is changed to @[इ], but not that of in
 
 @[सात्]—is optionally affixed like @[च्वि] but when the change meant is complete; (@[अग्निः भवति अयम्] or @[अग्निः सम्पद्यते]) @[अग्निसाद्भवति] 'is
 
-* @[अस्य च्वौ] | Pan. VII. 4. 32. @[अवर्णस्य ईत्वं च्वौ] | Sid. Kau; @[अन्त्यस्य च्वावीत्वं नेति वाच्यम्] | ibid. @[सस्य च] | Pan. VII. 4. 6. @[अरुर्मनश्चसहस्रजहोरजसां लोपश्च] | Pan. V. 4. 51.
+- @[अस्य च्वौ] | Pan. VII. 4. 32. @[अवर्णस्य ईत्वं च्वौ] | Sid. Kau; @[अन्त्यस्य च्वावीत्वं नेति वाच्यम्] | ibid. @[सस्य च] | Pan. VII. 4. 6. @[अरुर्मनश्चसहस्रजहोरजसां लोपश्च] | Pan. V. 4. 51.
 
 216 INDECLINABLES. [Chap. X. § 343-344
 
@@ -5352,7 +5630,7 @@ Gender.
 
 #### § 344. No definite rules can be laid down for the determination of the gender of words in Sanskrit. It can best be studied
 
-* @[संभावयति सात्] Sid. | Pan. V. 4. 52. @[री]
+- @[संभावयति सात्] Sid. | Pan. V. 4. 52. @[री]
 
 #### § 344-346 ] 160
 
@@ -5446,7 +5724,7 @@ Exception:—@[hala], 'a plough', @[artha] 'wealth', @[odana] 'cooked rice', @[�
 
 #### § 360. @[agha], @[hṛdaya], @[dūrvā] 'a kind of grass (also @[dūrva])', @[ceṣṭita] 'play, joke, tremor,' @[puṭabhedana], @[puttā] 'a wooden or earthen doll', @[bhakṣya] 'roasted meat,', @[lohita] 'blood', @[śṛṅga], @[naḥ], @[nidāgha], @[udyama], @[niyama], @[paṭa], @[vraja] 'the name of Gokula,' @[kuca], @[kuṭa], @[śmaśru] 'a peacock's feather, the beard.' &c., @[kavaca], @[darpa], @[añjana] 'a kind of eye disease', @[ardha], @[mukha], @[śukla], @[kabandha], @[oṣadha], @[āyudha], @[anta], @[daṇḍa], @[maṇḍa] 'the scum of boiled rice,' @[khaṇḍa], @[śava], @[saindhava], @[upavana], @[āvāpa], @[kuśa], @[kāñcana], @[aṅgāra], @[kulikā], @[vīra], @[meha], @[barha] 'a peacock's feather,' @[deha], @[paṭa], @[paṭaha], @[aṣṭāpada], @[suvarṇa] 'gold' @[abhraka], @[drava], @[kakud], @[uṭaja] 'name of an aquatic bird' @[ṛjra], @[sīdhu], @[sindhu], @[sānu], @[kamaṇḍalu], @[saktu] 'the flour of barley first fried and then ground' (used in the pl.), @[bisa] 'the root of the water lily', @[kaṇṭaka], @[anīka], @[saraka], @[madya] 'spirituous liquor,' also 'the act of drinking liquor (vide. Sis. XV. 80), @[mādaka], @[caṣaka] 'a drinking cup', @[mastaka], @[pustaka], @[taṭāka], @[niṣka], @[śleṣma], @[ojas] 'lustre, vigour' @[pināka], 'a bow, the bow of Śiva,' @[dhūpaka], @[bindu] 'incense', &c., @[piṇḍa] 'a lump of boiled rice', @[moda], @[aṃśa], @[mūtra], @[paṭa] @[lavaṇa], @[kapāṭa], @[karpaṭa] 'a rage,' @[dhanaka] 'a kind of plant', @[kīṭa], @[cīra], @[gharma], @[toraṇa], @[kārṣāpaṇa] 'a particular coin,' @[svarṇa], @[mūtra], @[śravaṇa], @[caraṇa], @[taru], @[śilā], @[tṛṇa], @[tīrtha] (n.) 'a holy place' 'a descent into water, the stairs of a landing place. &c. (m.) 'a respectable person' (generally used as an affix, as @[bhāratītīrtha], &c.), @[prāya] 'the nose or nostrils of a horse' @[praṇava], @[uttara], @[māna], @[yāna], @[abhidhāna], @[nalina], @[pulina], @[udyāna], @[rayana], @[āsana], @[sthāna], @[śmaśāna], @[ālāna] 'the tie-post or the tie-chain of an elephant, @[samāna] m. a friend, n. a letter having the same organ of utterance, @[bhavana], @[vasana], @[saṃbhāvana], @[vitāna] 'a canopy, @[vimāna], @[chatra], 'a winnowing basket, @[caṅkramaṇa], 'the eighth
 
-* @[adhvano bhāgam ekaṃ ca vikhyātā yā priyā ca sā sarvadā | sahasrāṇi hato yaḥ sa kālaḥ kuṭapaḥ smṛtaḥ ||]
+- @[adhvano bhāgam ekaṃ ca vikhyātā yā priyā ca sā sarvadā | sahasrāṇi hato yaḥ sa kālaḥ kuṭapaḥ smṛtaḥ ||]
 
 @[muhūrta] of the day, (mostly mas.), 'a musical instrument'; @[śarīra], 'a corpse,' @[udadhi], @[vāridhi], @[udanvat] a small boat or the moon; @[śayana], a bed, @[vijṛmbhā] 'yawning,' @[vimarda], @[saṃgrāma], @[dāḍima] n. the pomegranate tree; f. its fruit, @[abhijña], @[āśrama], @[āsana], @[kusuma], @[homa], @[udanvat] (n.) 'Varuna,' @[gomaya], @[kaṣāya] astringent flavour or taste, @[malayaḥ], @[anvaya], @[atyaya], @[kiśalaya], @[cakra], @[vapra], @[toya], @[sāraḥ], @[vāraḥ] n. a vessel for holding liquor, a mass of water; @[pāra], @[kīra], @[tāmra] 'an iron club, a javelin,' @[karaṅka] 'a kind of vessel' (Mar. @[karaṃde]), @[mandāra], @[uśīra] 'a kind of fragrant grass' (Mar. @[vāḷā]), @[timira] n. f. darkness, blindness iron-rust, @[jihīrṣa], @[kandara], @[udara], @[karīṣa], 'dry cowdung,' @[māṣa], @[śiraḥ], @[veda], @[camaṣa] 'sacrificial vessel of a particular shape', @[astra], @[rasa], @[niryāsa] exudation of trees, @[upavāsa], @[kārpāsa] 'anything made of cotton', @[vāsa], @[kośa], @[kāsa], @[pātra] 'a drinking cup,' @[taru], @[droṇa] a wooden vessel or cup, @[śastra], @[khaṇḍa], @[kāṇḍa], @[liṅga], @[araṇya], @[gāṇḍīva] 'the bow of Arjuna,' @[pannaga] n. 'a large serpent,' @[dhana], @[vyoma], @[sāla], @[kamala] n. the sarasa bird, name of Brahma; @[tala], @[taru], @[śveta], @[śava] m. 'a demon' n. flesh', @[śītoṣṇa], @[vāla], @[grīvā] 'a horse's neck,' @[cāritra] 'forage', @[viḍāla] a cat, the eye-ball, @[khila] a piece of waste or uncultivated land, @[jāla], @[padma], @[aśana] n. a kind of plant, @[tāta], @[ayuta], @[ayana], @[dhāra] the blade of a sword, a knife, @[pātra], @[pavitra], @[sthala], @[śara], and @[chatra] m. a mushroom, n. a parasol, an umbrella.
 
@@ -5472,8 +5750,8 @@ The Avyayas may be divided into simple and compound ones. The latter are treated
 
 #### § 365. A preposition, styled '@[Upasarga] or @[Gati],' in Sanskrit is an indeclinable word, having an independent meaning and prefixed to verbs and also to their derivatives. These prepositions modify, intensify and sometimes totally alter the senses of roots:
 
-* @[yasya liṅgaṃ ca vacanaṃ ca sarveṣu kāleṣu ca] @[sadṛśaṃ tad avyayam ityucyate]
- @[svārādinipātamavyayam] | Pāṇ. I, 1. 37.
+- @[yasya liṅgaṃ ca vacanaṃ ca sarveṣu kāleṣu ca] @[sadṛśaṃ tad avyayam ityucyate]
+  @[svārādinipātamavyayam] | Pāṇ. I, 1. 37.
 
 † @[svārthāṃ vācyaṃ kvacitkvacillamanuvarttate] @[dhātoreva viśiṣṭārthānyathā upasargagatirvidhiḥ]
 
@@ -5501,7 +5779,7 @@ This prep. is more commonly used as an independent adverb having a cumulative fo
 
 @[ava]—(sometimes @[va] see @[api] and @[vi], note) 'away, down,' &c.; @[ava] or @[vagāh] 'to plunge into,' @[avarohaṇam] 'descent,' @[avamata] 'reproached,' @[avaman] 'to disrespect,' &c.
 
-* Cf. @[kāraṇena apigacchati kāryam], &c. Sharira Bhashya. According to the grammarian Bhaguri the prepositions @[api] and @[ava] may optionally lose their @[i]—@[vā madaro'daloṣam avāpyor upasargayoḥ]. (Sid. Kau.)
+- Cf. @[kāraṇena apigacchati kāryam], &c. Sharira Bhashya. According to the grammarian Bhaguri the prepositions @[api] and @[ava] may optionally lose their @[i]—@[vā madaro'daloṣam avāpyor upasargayoḥ]. (Sid. Kau.)
 
 S. S. G. 15.
 
@@ -5535,11 +5813,11 @@ S. S. G. 15.
 
 #### § 369. There are several other words, also styled Gati by Sanskrit grammarians, used prepositionally. These are prefixed to certain roots only. We give the more important of them below.
 
-(a) @[accha]* 'towards' is prefixed to @[vad] and to roots implying motion; @[acchagamya-gatya] 'going near,' @[acchapatat] 'flying towards' @[acchodya] 'having spoken to.'
+(a) @[accha]\* 'towards' is prefixed to @[vad] and to roots implying motion; @[acchagamya-gatya] 'going near,' @[acchapatat] 'flying towards' @[acchodya] 'having spoken to.'
 
 (b) (1) @[anveṣa] 'giving strength to the weak,' @[alaṅ] in the sense of 'decorating,' @[oṃ], @[ām], @[hāṃ] all implying 'assent, acceptance or promise,' @[svāhā] or similar imitative sounds, @[asad] and @[sat] in the sense of 'dishonouring or honouring,' @[prādhva] denoting 'fastening,' &c. are prefixed to @[kṛ]; @[anveṣakaraṇam], @[alaṃkaraṇam], @[asatkāraḥ], @[satkāraḥ], @[svāhākāraḥ], @[prādhvaṃkaraṇam], &c.
 
-* @[accha gatyarthāveśe] Pāṇ. I. 4. 69.
+- @[accha gatyarthāveśe] Pāṇ. I. 4. 69.
 
 (2) @[namaḥ], @[prāduḥ], @[mithyā], @[vaśo], @[sākṣāt] and some other words may be optionally prefixed to @[kṛ] or remain separate; @[namaskāraḥ], @[vaśīkṛ] or @[vaśe kṛ] 'to bring under subjection,' @[sākṣātkṛ] or @[sākṣāt kṛ] 'to make manifest,' &c.
 
@@ -5697,7 +5975,7 @@ N.B. Adverbs formed from pronouns and numerals are given in their proper places;
 @[tāvat] Then, at that time.
 @[tāvatā] In the first place, &c.
 @[tiras] Across, indirectly, badly.
-@[tiryak] 
+@[tiryak]
 @[tuṣṇīm] Silently, without speaking or noise.
 @[tuṣṇīkam]
 @[tena] By that, on that account.
@@ -5760,7 +6038,7 @@ N.B. Adverbs formed from pronouns and numerals are given in their proper places;
 @[sadaiva] Always. | @[sadā] Always. |
 @[sadyaḥ] At once. |
 
-*When @[purā] and @[yāvat] are prefixed to a personal form of the Present Tense, it has the sense of the Future Tense.
+\*When @[purā] and @[yāvat] are prefixed to a personal form of the Present Tense, it has the sense of the Future Tense.
 
 @[adhunā] Now, at present, fitly, properly.
 @[sāyam] In the evening.
@@ -5789,11 +6067,11 @@ N.B. Adverbs formed from pronouns and numerals are given in their proper places;
 
 @[cit]—@[kiṃcit], @[kaścit], @[kaścana], @[kiṃcana] &c.
 
-@[a]—is generally changed to @[a] or @[an] when prefixed to words beginning with a consonant or a vowel respectively. This particle has six different senses:* (1) @[sādṛśya] 'likeness' or 'resemblance'; as @[abrāhmaṇaḥ] 'one not a Brāhmaṇa, but resembling a Brāhmaṇa' (wearing the sacred thread, &c.) i.e. 'a Kṣatriya or a Vaiśya'; (2) @[abhāva] 'absence or negation'; @[ajñānam] 'the absence of knowledge'; (3) @[anyatva] 'difference from'; as @[ayam apaṭaḥ] 'this is something different from a cloth' i.e. 'a jar' or so; (4) @[alpatā] 'little-
+@[a]—is generally changed to @[a] or @[an] when prefixed to words beginning with a consonant or a vowel respectively. This particle has six different senses:\* (1) @[sādṛśya] 'likeness' or 'resemblance'; as @[abrāhmaṇaḥ] 'one not a Brāhmaṇa, but resembling a Brāhmaṇa' (wearing the sacred thread, &c.) i.e. 'a Kṣatriya or a Vaiśya'; (2) @[abhāva] 'absence or negation'; @[ajñānam] 'the absence of knowledge'; (3) @[anyatva] 'difference from'; as @[ayam apaṭaḥ] 'this is something different from a cloth' i.e. 'a jar' or so; (4) @[alpatā] 'little-
 
 ---
 
-* These are given in the following couplet:— @[sādṛśyam abhāvaśca tadanyatvaṃ tadalpatā] @[aprāśastyaṃ virodhaśca narthāḥ ṣaṭ prakīrtitāḥ]
+- These are given in the following couplet:— @[sādṛśyam abhāvaśca tadanyatvaṃ tadalpatā] @[aprāśastyaṃ virodhaśca narthāḥ ṣaṭ prakīrtitāḥ]
 
 ---
 
@@ -5889,13 +6167,13 @@ Note:—The ten tenses and moods are technically called the ten @[Lakāras] in S
 
 (c) Three Voices ( @[प्रयोगाः] ), the active Voice ( @[कर्तरिप्र°] ) as @[रामः सत्यं भाषते], the passive Voice (@[कर्मणिप्र°]), as @[हारिणा कथा उच्यते], and the Impersonal Construction ( @[भावे°] ) @[रामेण गम्यते].
 
-* These technical names are given in the following @[Kārikā],
+- These technical names are given in the following @[Kārikā],
 
 @[वर्तमाने लट् वेदे लेट् लङ् लुङ् लिटस्तथा । विध्याशिषोस्तु लिङ् लोटो लुट् लृट् लृङ् च भविष्यति ॥]
 
 This terminology of Pāṇini, it will be seen, is artificial. Other grammarians use different names. The ten Lakāras of Pāṇini are according to their nomenclature, as follow:—@[वर्तमानी] ( @[इतिः] ), @[अद्यतनी], @[ह्यस्तनी], @[परोक्षा], @[अतीता], @[भविष्यन्ती], @[पश्चिमा], @[सद्यः], @[करियातिषयी] and @[आशीः].
 
-* Apte's Guide.
+- Apte's Guide.
 
 # CONJUGATION OF VERBS. 239
 
@@ -5909,23 +6187,28 @@ This terminology of Pāṇini, it will be seen, is artificial. Other grammarians
 
 #### § 381. In each tense and mood there are three numbers, singular, dual and plural, with three persons in each.
 
-#### § 382. In four of the tenses and moods given above, viz, the Present, the Imperfect, the imperative and the Potential, the verbs undergo peculiar modifications (@[vikaraṇa]) and these are therefore called Conjugational (@[sārvadhātuka])* or special tenses and moods; and
+#### § 382. In four of the tenses and moods given above, viz, the Present, the Imperfect, the imperative and the Potential, the verbs undergo peculiar modifications (@[vikaraṇa]) and these are therefore called Conjugational (@[sārvadhātuka])\* or special tenses and moods; and
 
-* Strictly the term @[sārvadhātuka] (belonging to the form of the verbal base) is given by @[Pāṇini] to the terminations of all the tenses and moods; except those of the perfect and the benedictive, and to the affixes distinguished by an indicatory @[i] (@[śit]) i.e. the various conjugational signs of the 9 classes (except that of the eighth), and the terminations of the Present Participle Pars. and Atm. All other verbal affixes i.e. the conjugational signs of the 8th and 10th classes, the affixes added to form the causal base and a few denominatives, the affixes @[sya], @[iṣya], @[sa], and @[ya] added to the bases of the two futures, the desiderative and the Aor., and the passive and the frequentative respectively, and those forming the Past Participle (Act. and Pass.), the infinitive and the verbal indeclinables, and some others are called @[ārdhadhātuka], the remaining Non-Conjo-
+- Strictly the term @[sārvadhātuka] (belonging to the form of the verbal base) is given by @[Pāṇini] to the terminations of all the tenses and moods; except those of the perfect and the benedictive, and to the affixes distinguished by an indicatory @[i] (@[śit]) i.e. the various conjugational signs of the 9 classes (except that of the eighth), and the terminations of the Present Participle Pars. and Atm. All other verbal affixes i.e. the conjugational signs of the 8th and 10th classes, the affixes added to form the causal base and a few denominatives, the affixes @[sya], @[iṣya], @[sa], and @[ya] added to the bases of the two futures, the desiderative and the Aor., and the passive and the frequentative respectively, and those forming the Past Participle (Act. and Pass.), the infinitive and the verbal indeclinables, and some others are called @[ārdhadhātuka], the remaining Non-Conjo-
 
 ---
 
 gational (@[ārdhadhātuka]) or general. In the former the characteristic marks and terminations of each are mostly added to a special base formed from the roots in various ways, while in the latter they are combined with the roots itself.
 
-(*) The base (@[aṅga]) of a root is that form which it assumes before the personal terminations.
+(\*) The base (@[aṅga]) of a root is that form which it assumes before the personal terminations.
 
 #### § 383. When a root is capable of taking either @[pada], the @[parasmaipada] (lit. word for another) should be used when the fruit or result of the action of the verb accrues to any other person or thing than the agent, and the @[ātmanepada] (lit. word for self) when it refers to the agent. Thus @[devadattaḥ yajati] will mean 'Devadatta sacrifices for another (i.e. his @[yajamāna]);' while @[devadattaḥ yajate] will mean 'Devadatta sacrifices for himself.'
 
 ## SECTION I.
+
 ## ACTIVE VOICE.
+
 ### I. CONJUGATIONAL
+
 OR
+
 ## SPECIAL TENSES AND MOODS.
+
 PRESENT, IMPERFECT, IMPERATIVE and POTENTIAL.
 
 #### § 384. With reference to the various moods the verbs are divided into ten conjugational classes by Sanskrit grammarians, each class being denominated after the root which begins it viz.
@@ -5940,16 +6223,18 @@ PRESENT, IMPERFECT, IMPERATIVE and POTENTIAL.
 
 #### § 390. @[a] is added on to the roots of the sixth or @[tudādi] class before which the penultimate vowel remains unchanged, and the final @[i], @[u], short or long, @[ṛ] and @[ṝ] are changed to @[iye], @[uve], @[ri]
 
-* @[kartari śap divādibhyaḥ śyan | tudādibhyaḥ śaḥ] P. III. 1. 68; 69; 77.
-† Of about 2000 roots occurring in the Sanskrit language nearly about 1075 belong to the first class.
-‡ Vide § 24.
+- @[kartari śap divādibhyaḥ śyan | tudādibhyaḥ śaḥ] P. III. 1. 68; 69; 77.
+  † Of about 2000 roots occurring in the Sanskrit language nearly about 1075 belong to the first class.
+  ‡ Vide § 24.
 
 242 A HIGHER SANSKRIT GRAMMAR. [Book III
 
- Potential.
+Potential.
 
- Par. Atm.
-### S.        D.        P.           S.        D.        P.
+Par. Atm.
+
+### S. D. P. S. D. P.
+
 1. @[eyam] @[eva] @[ema] @[eya] @[evahi] @[emahi]
 2. @[eḥ] @[etam] @[eta] @[ethāḥ] @[eyāthām] @[edhvam]
 3. @[et] @[etām] @[eyuḥ] @[eta] @[eyātām] @[eran]
@@ -5958,7 +6243,7 @@ Note:—Terminations beginning with vowels may be called Vowel terminations; tho
 
 Formation of the base of the roots of the first group:—
 
-#### § 388. @[a] (@[śāp]) is added on to the roots of the First or @[bhu-ādi] class* before the terminations. Before this @[a] the penultimate short and the final vowel of a root take their @[guṇa] substitute†; e.g.
+#### § 388. @[a] (@[śāp]) is added on to the roots of the First or @[bhu-ādi] class\* before the terminations. Before this @[a] the penultimate short and the final vowel of a root take their @[guṇa] substitute†; e.g.
 
 @[budh] + @[ti] = @[budh] + @[a] + @[ti] = @[bodh] + @[a] + @[ti] = @[bodhati]; @[ji] + @[a] + @[ti] = @[jay] + @[a] + @[ti] = @[jayati], &c.
 
@@ -5966,15 +6251,15 @@ Formation of the base of the roots of the first group:—
 
 #### § 390. @[a] is added on to the roots of the sixth or @[tudādi] class before which the penultimate vowel remains unchanged, and the final @[i], @[u], short or long, @[ṛ] and @[ṝ] are changed to @[iye], @[uve], @[ri]
 
-* @[kartari śap divādibhyaḥ śyan | tudādibhyaḥ śaḥ] P. III. 1. 68; 69; 77.
-† Of about 2000 roots occurring in the Sanskrit language nearly about 1075 belong to the first class.
-‡ Vide § 24.
+- @[kartari śap divādibhyaḥ śyan | tudādibhyaḥ śaḥ] P. III. 1. 68; 69; 77.
+  † Of about 2000 roots occurring in the Sanskrit language nearly about 1075 belong to the first class.
+  ‡ Vide § 24.
 
 #### § 390. CONJUGATION OF @[भू], 243
 
 and @[यज्‌] respectively; e.g. @[दिव्‌]+ @[ति] = @[दिव्‌] + @[अ]+ @[ति] = @[दीव्यति]; @[धू] + @[ति] = @[धू] + @[अ]+ @[ति] = @[ध्यति]; @[रि]+@[च्‌]+ @[ति] = @[रिच्यति]; @[विद्‌]+@[अ]+@[ते]= @[विद्यते]; @[निविद्‌] + @[अ]+ @[ति] = @[विद्यति], &c.
 
-#### § 391. Roots of the tenth or @[चुरादि] class* add @[अय] before the personal terminations. Before @[अय] (1) the penultimate short vowel (except @[अ]) takes the @[guṇa] substitute; and the final vowel and the penultimate @[अ] not prosodially long, take their Vriddhi substitute; e.g. @[चुद्‌]+@[ति]=@[चुद्‌]+ @[अय] + @[ति]= @[चोदयति]; @[लुड्‌] + @[ति] = @[लोडयति], @[पद्‌]+ @[अय] + @[ति]= @[पाद्‌]+@[अय]+@[ति]=@[पादयति]; @[ताड्‌] + @[अय] + @[ति]=@[ताड्‌]+ @[अय] + @[ति] = @[ताडयति]; but @[दण्ड्‌]+ @[अय] + @[ति] = @[दण्डयति], &c.
+#### § 391. Roots of the tenth or @[चुरादि] class\* add @[अय] before the personal terminations. Before @[अय] (1) the penultimate short vowel (except @[अ]) takes the @[guṇa] substitute; and the final vowel and the penultimate @[अ] not prosodially long, take their Vriddhi substitute; e.g. @[चुद्‌]+@[ति]=@[चुद्‌]+ @[अय] + @[ति]= @[चोदयति]; @[लुड्‌] + @[ति] = @[लोडयति], @[पद्‌]+ @[अय] + @[ति]= @[पाद्‌]+@[अय]+@[ति]=@[पादयति]; @[ताड्‌] + @[अय] + @[ति]=@[ताड्‌]+ @[अय] + @[ति] = @[ताडयति]; but @[दण्ड्‌]+ @[अय] + @[ति] = @[दण्डयति], &c.
 
 #### § 392. (2) The preceding @[अ] is lengthened before a conjugational termination beginning with a semivowel, a nasal or @[सर्व] @[व]; e.g. @[चोदयावः] &c.
 
@@ -5992,7 +6277,7 @@ Par. Atm.
 2. @[नयसि] @[नयथः] @[नयथ] @[नयसे] @[नयेथे] @[नयध्वे]
 3. @[नयति] @[नयतः] @[नयन्ति] @[नयते] @[नयेते] @[नयन्ते]
 
-*This class contains a few primitive verbs, almost all the roots belonging to it being derivative; besides, all causals and some Nominal verbs may be regarded as belonging to it.
+\*This class contains a few primitive verbs, almost all the roots belonging to it being derivative; besides, all causals and some Nominal verbs may be regarded as belonging to it.
 
 1 @[वयोः] 2811 Pāṇ. VII, 3. 101.
 
@@ -6002,7 +6287,7 @@ Imperfect.
 
 #### § 393. The augment @[अ] is prefixed to roots in this tense.
 
-This @[अ] is replaced by @[आ] in the case of roots beginning with a vowel*. This @[आ] forms Vriddhi with an initial vowel; e.g. @[इर्य्‌]+@[अ]+@[त्‌] = @[आ] + @[इर्य्‌] + @[अ] + @[त्‌] = @[ऐरयत्‌]; similarly @[ईक्ष्‌]-@[ऐक्षत्‌]; @[ओक्ष्‌]-@[औक्षत्‌]; @[उह्‌]-@[औहत्‌]; @[ऋच्छ्‌]-@[आर्च्छत्‌] &c.
+This @[अ] is replaced by @[आ] in the case of roots beginning with a vowel\*. This @[आ] forms Vriddhi with an initial vowel; e.g. @[इर्य्‌]+@[अ]+@[त्‌] = @[आ] + @[इर्य्‌] + @[अ] + @[त्‌] = @[ऐरयत्‌]; similarly @[ईक्ष्‌]-@[ऐक्षत्‌]; @[ओक्ष्‌]-@[औक्षत्‌]; @[उह्‌]-@[औहत्‌]; @[ऋच्छ्‌]-@[आर्च्छत्‌] &c.
 
 (2) When a preposition (@[उपसर्ग]) is prefixed to a root, the augment @[अ] or @[आ] comes between the prep. and the root; e.g. @[हृ] with @[आ], @[आहरत्‌].
 
@@ -6012,9 +6297,7 @@ This @[अ] is replaced by @[आ] in the case of roots beginning with a vowel*. 
 2. @[अबोधः] @[अबोधतम्‌] @[अबोधत] @[ऐक्षथाः] @[ऐक्षेथाम्‌] @[ऐक्षध्वम्‌]
 3. @[अबोधत्‌] @[अबोधताम्‌] @[अबोधन्‌] @[ऐक्षत] @[ऐक्षेताम्‌] @[ऐक्षन्त]
 
-@[नी] 1. @[अनयम्‌] @[अनयाव] @[अनयाम] @[अनये] @[अनयावहि] @[अनयामहि]
-2. @[अनयः] @[अनयतम्‌] @[अनयत] @[अनयथाः] @[अनयेथाम्‌] @[अनयध्वम्‌]
-3. @[अनयत्‌] @[अनयताम्‌] @[अनयन्‌] @[अनयत] @[अनयेताम्‌] @[अनयन्त]
+@[नी] 1. @[अनयम्‌] @[अनयाव] @[अनयाम] @[अनये] @[अनयावहि] @[अनयामहि] 2. @[अनयः] @[अनयतम्‌] @[अनयत] @[अनयथाः] @[अनयेथाम्‌] @[अनयध्वम्‌] 3. @[अनयत्‌] @[अनयताम्‌] @[अनयन्‌] @[अनयत] @[अनयेताम्‌] @[अनयन्त]
 
 imperative.
 
@@ -6047,20 +6330,22 @@ Present.
 Imperfect.
 
 @line:
+
 1. atuṣyam atuṣyāva atuṣyāma ayudhye ayudhyāvahi ayudhyāmahi
 2. atuṣyaḥ atuṣyatam atuṣyata ayudhyathāḥ ayudhyethām ayudhyadhvam
 3. atuṣyat atuṣyatām atuṣyan ayudhyata ayudhyetām ayudhyanta
-:@
+   :@
 
 imperative.
 
 @line:
+
 1. tuṣyāni tuṣyāva tuṣyāma yudhyai yudhyāvahai yudhyāmahai
 2. tuṣya tuṣyatam tuṣyata yudhyasva yudhyethām yudhyadhvam
 3. tuṣyatu tuṣyatām tuṣyantu yudhyatām yudhyetām yudhyantām
-:@
+   :@
 
-* Hereafter the optional form in @[tāt] will not be given as the student can easily form them by adding @[tāt] to the base if he has to express the sense of the benedictive.
+- Hereafter the optional form in @[tāt] will not be given as the student can easily form them by adding @[tāt] to the base if he has to express the sense of the benedictive.
 
 246 CONJUGATION OF VERBS. [§ 393
 
@@ -6077,36 +6362,40 @@ Potential.
 P. Present. A.
 
 @line:
+
 1. kṣipāmi kṣipāvaḥ kṣipāmaḥ kṣipe kṣipāvahe kṣipāmahe
 2. kṣipasi kṣipathaḥ kṣipatha kṣipase kṣipethe kṣipadhve
 3. kṣipati kṣipataḥ kṣipanti kṣipate kṣipete kṣipante
-:@
+   :@
 
 Imperfect.
 
 @line:
+
 1. akṣipam akṣipāva akṣipāma akṣipe akṣipāvahi akṣipāmahi
 2. akṣipaḥ akṣipatam akṣipata akṣipathāḥ akṣipethām akṣipadhvam
 3. akṣipat akṣipatām akṣipan akṣipata akṣipetām akṣipanta
-:@
+   :@
 
 imperative.
 
 @line:
+
 1. kṣipāni kṣipāva kṣipāma kṣipai kṣipāvahai kṣipāmahai
 2. kṣipa kṣipatam kṣipata kṣipasva kṣipethām kṣipadhvam
 3. kṣipatu kṣipatām kṣipantu kṣipatām kṣipetām kṣipantām
-:@
+   :@
 
 Potential.
 
 @line:
+
 1. kṣipeyam kṣipeva kṣipema kṣipeya kṣipevahi kṣipemahi
 2. kṣipeḥ kṣipetam kṣipeta kṣipethāḥ kṣipeyāthām kṣipedhvam
 3. kṣipet kṣipetām kṣipeyuḥ kṣipeta kṣipeyātām kṣiperan
-:@
+   :@
 
-* For the change of @[p] to @[v] see § 41.
+- For the change of @[p] to @[v] see § 41.
 
 @[चोर्‌] 10th Class.
 
@@ -6148,7 +6437,7 @@ The forms of other roots should be similarly made.
 
 ---
 
-#### § 394. * The @[ऋ] ( long ) of a root, penultimate or final, when it does not take @[guṇa] or @[vṛddhi], is changed to @[रि], and to @[रु] if a labial or @[व्] precedes; and the @[इ] or @[उ] is lengthened when @[रि] or @[रु] is followed by a consonant; e. g. @[जॄ] 4. P. 'to become old,' @[जीर्यति] @[अजीर्यत्], &c.; @[कॄ] 6. P. @[किरति], @[अकिरत्], &c.; here @[कि] does not become long as @[रि] is followed by @[अ]; @[कॄत्] 10. P. A. @[कीर्तयति-ते], @[अकीर्तयत्-त], &c.
+#### § 394. \* The @[ऋ] ( long ) of a root, penultimate or final, when it does not take @[guṇa] or @[vṛddhi], is changed to @[रि], and to @[रु] if a labial or @[व्] precedes; and the @[इ] or @[उ] is lengthened when @[रि] or @[रु] is followed by a consonant; e. g. @[जॄ] 4. P. 'to become old,' @[जीर्यति] @[अजीर्यत्], &c.; @[कॄ] 6. P. @[किरति], @[अकिरत्], &c.; here @[कि] does not become long as @[रि] is followed by @[अ]; @[कॄत्] 10. P. A. @[कीर्तयति-ते], @[अकीर्तयत्-त], &c.
 
 #### § 395. The penultimate @[अ], @[इ], @[ऋ] or @[उ] of a root, followed by a @[घञ्] is lengthened when a consonant follows; i. e. † @[मिव्] 1. A. to measure, to play, @[मीवते]; similarly @[दिव्], @[रिव्], @[निव्] all A. and meaning to play, @[जिव्] to act dishonestly, to be crooked, @[शिव्] to faint, @[स्यिव्] to spread, to forget; @[स्कुन्] to thunder, to shine; @[उश], @[तुद्], @[रुद्], @[मुष्], @[युध्] all meaning to kill, @[युत्] to try, @[मुद्], &c., all Parasm. and belonging to the 1st class, lengthen their penultimate vowel; @[दिव्] 4. P. @[दीव्यति]; similarly @[सिव्] has @[सीव्यति], @[रिव्] @[रीव्यति], &c.
 
@@ -6161,7 +6450,7 @@ ROOTS OF THE 1ST, 4TH, 6TH, AND 10TH CLASSES WHICH FORM THEIR BASES IRREGULARLY.
 
 ---
 
-* @[अत इद्धातोः] । @[उरण् रपरः] । Pan. VII. 1. 100, I. 1. 51. @[हलि च] । I. 2. 26. VII. 2. 77.
+- @[अत इद्धातोः] । @[उरण् रपरः] । Pan. VII. 1. 100, I. 1. 51. @[हलि च] । I. 2. 26. VII. 2. 77.
 
 † @[घञ् च] । Pan. VII. 3. 36. Meaning: @[धातोः उपधाया इको दीर्घः स्यात् घञि] । 81a. Kan.
 
@@ -6215,7 +6504,7 @@ ROOTS OF THE 1ST, 4TH, 6TH, AND 10TH CLASSES WHICH FORM THEIR BASES IRREGULARLY.
 
 @[ऋ] P. 'to go,' @[ऋच्छति]।
 
-* @[उदूपधाया मोर्वा]। Pāṇ. VI. 4. 89. The penultimate @[उ] of @[ऋ] is lengthened in the Special Tenses and before a strong termination beginning with a vowel.
+- @[उदूपधाया मोर्वा]। Pāṇ. VI. 4. 89. The penultimate @[उ] of @[ऋ] is lengthened in the Special Tenses and before a strong termination beginning with a vowel.
 
 † @[हिबहसचमाम्‌] @[शिनि]। Pāṇ. VII. 3. 75. @[एते चम इति वक्तव्यम्‌]। Vār. These roots lengthen their vowel in the Special Tenses.
 
@@ -6227,13 +6516,13 @@ ROOTS OF THE 1ST, 4TH, 6TH, AND 10TH CLASSES WHICH FORM THEIR BASES IRREGULARLY.
 
 ¶ @[इषुगमियमाम्‌] @[छः] (@[छे च]। see § 44.) Pāṇ. VII. 3. 77.
 
-** @[पाघ्राव्यास्पाशदहकथदीरिशसदां पिबजिघ्रधमथितिष्ठमनयच्छ पयरिच्छधारीयतीदाः]। Pāṇ. VII. 3. 78.
+\*\* @[पाघ्राव्यास्पाशदहकथदीरिशसदां पिबजिघ्रधमथितिष्ठमनयच्छ पयरिच्छधारीयतीदाः]। Pāṇ. VII. 3. 78.
 
 250 GRAMMAR PRACTICE. [§ 396-397
 
 @[ध्] P. 'to run,' @[धावति]।
 
-@[ह्री] P. (*A.) 'to perish,' @[ह्रीयते]।
+@[ह्री] P. (\*A.) 'to perish,' @[ह्रीयते]।
 
 @[सद्‌] P. to sit, to wither, &c., @[सीदति]।
 
@@ -6269,7 +6558,7 @@ ROOTS OF THE 1ST, 4TH, 6TH, AND 10TH CLASSES WHICH FORM THEIR BASES IRREGULARLY.
 
 @[तम्‌] P. 'to desire' @[ताम्यति]।
 
-* @[शदेः] @[क्रियासु]। Pāṇ. I. 3. 60. @[शद्‌] is Atm. in the Special Tenses.
+- @[शदेः] @[क्रियासु]। Pāṇ. I. 3. 60. @[शद्‌] is Atm. in the Special Tenses.
 
 † @[वंशसंश्वसजसां] @[लुक्]। Pāṇ. VI. 4. 25-26. These roots drop their nasal in the Special Tenses.
 
@@ -6298,9 +6587,9 @@ or @[pratiskirati]. @[vyaj] P. to deceive @[vyajati].
 @[tuñj] P. to cut @[tuñjati], @[jaṭati]. @[muc] P. to release @[muñcati-te].
 @[prach] P. to ask @[pṛcchati]. @[lip] to anoint @[limpati-te].
 
-* @[etaḥ iṣini]. Pāṇ. 3. 71. These four roots drop their @[e] before @[ya].
+- @[etaḥ iṣini]. Pāṇ. 3. 71. These four roots drop their @[e] before @[ya].
 
-@[lup] U. to break or cut @[lumpati-te] @[sic] P. to sprinkle @[siñcati-te] @[vid]* P. to obtain @[vindati-te] @[piṇḍ] P. to form @[piṇḍati].
+@[lup] U. to break or cut @[lumpati-te] @[sic] P. to sprinkle @[siñcati-te] @[vid]\* P. to obtain @[vindati-te] @[piṇḍ] P. to form @[piṇḍati].
 
 #### § 399. (a) The following roots belong optionally to the 1st and 6th Classes:—@[kṛṣ] 1. P. 6. P. to plough, to draw, @[vṛt] 1. A. to return, 6. P. to strike against, @[ghuṭ] 1. A. 6. P. to roll, to whirl; 1. A. to take, to receive, @[cak] 1. A. 6. P. to roll, whirl round, move to and fro, @[dā] 1. P. to divide, 6. P. to envelope, @[tan], @[sav] P. to kill @[sañj] P. to sit down, @[spṛś] P. 1. to sprinkle, 6. to open the eyes, @[mand] P. 1. to stir, to churn, 6. to cover, to adhere, @[vaṅk] 1. A. to cheat, 6 P. to release, to leave etc.
 
@@ -6312,14 +6601,15 @@ or @[pratiskirati]. @[vyaj] P. to deceive @[vyajati].
 @[arth]—@[arthayati]. @[arthāpayati]. @[gaṇ]—@[gaṇayati]. @[gaṇāpayati].
 @[lajj]—@[lajjayati]. @[lajjāpayati]. @[baṇṭ]—@[baṇṭayati]. @[baṇṭāpayati].
 
-* This root belongs to the 2nd, 4th, 6th, and 7th classes, with different senses. All these are given in the following couplet:
-@[vetti dvau vidyate jñāne vitte vindati ṣaṣṭhage] @[vinde saptamage prokto'nūkaśamodhvid karmāt]
+- This root belongs to the 2nd, 4th, 6th, and 7th classes, with different senses. All these are given in the following couplet:
+  @[vetti dvau vidyate jñāne vitte vindati ṣaṣṭhage] @[vinde saptamage prokto'nūkaśamodhvid karmāt]
 
 † The following stanza from the 'Kavirahasya' gives the various classes to which this root belongs:— @[ādhūnoti campakadalāni dhunoty aśokaṃ dhūnaṃ dhunāti dhuvati sphuṭetātiprakampe] @[curādi dhūnayati campakapuṣpareṇūn yatkānane dhavati tatpavanodhvid uktaḥ]
 
 ‡ These optional forms are according to @[Śākaṭāyana] and others.
 
 #### § 400. The following roots of the 10th class preserve their
+
 vowel unchanged: @[pāp] to sin, @[kath] to tell, @[preṣ] to send, to pass,
 @[gaṇ] to count, @[jangg] A. to filter, @[kṣip] A. to throw, @[grah] to choose or seek, to get, @[vin] to sound, @[arch] to honour, @[rach] to compose, @[ras] to taste, @[ric] to forsake, @[vyāj] to speak ill of, deceive, @[trās] to scream,
 @[paṭ] to weave, (but @[pāṭayati] when it means to tear &c.), @[stan] to thunder, @[svan] to sound, @[pat] to go, @[kan] to count, @[tan] to sound,
@@ -6328,6 +6618,7 @@ to be weak or lax, @[kṣip] to give, to spend, @[īps] to desire, @[mṛg] to s
 to astonish, to deceive, @[grath] to bind or string together, @[sphur] to become manifest, @[suṣv] to make happy, and others less common.
 
 #### § 401. Some roots of the 10th class exclusively take the
+
 Atmanepads i. e. even when the fruit of the action expressed by them does not accrue to the agent. These are— @[arth] to request, to desire, @[kuh] to astonish, to deceive, @[cit] to be conscious of,
 to think, @[daṃś] to bite, @[dṛś] (or @[paś] according to some) to see,
 to bite, @[iṣ] or @[eṣ] to accumulate, @[tantr] to support a family, @[mantr] to counsel secretly, @[mṛg] to search, to hunt, to seek, @[grath] to take,
@@ -6339,6 +6630,7 @@ to measure, @[vāñch] to desire, @[kaṇḍ] to itch, @[tuṇḍ] to grieve, @[
 @[tuṣ] to gratify, @[dih] to bewail, @[jñā] to know, @[vid] to know, to be conscious of, @[sthā] to stop, @[nī] to censure, and @[smay] to smile improperly.
 
 #### § 402. The following roots belong to the 1st and the
+
 10th classes:—
 
 @[añj], @[ac] to unite, to restrain, @[arh] to worship, @[kṣip] to throw,
@@ -6348,10 +6640,13 @@ to measure, @[vāñch] to desire, @[kaṇḍ] to itch, @[tuṇḍ] to grieve, @[
 to remember with regret, @[śudh] to clean, @[sah] to endure, @[abhibhū] to brave, to overcome, @[druh] to hurt, to injure, @[diś] 10 A, 1. P. to torment, to beg, @[av] to aver, and some others.
 
 ### II. GROUP II.
+
 ## ROOTS WITH CHANGEABLE BASE.
+
 (2nd, 3rd, 5th, 7th, 8th, and 9th Classes.)
 
 #### § 403. Terminations:—
+
 @[parasmaipada].
 
 The terminations of the Present, the Imperfect and the imperative are the same as those of the first group, the termi-
@@ -6410,7 +6705,7 @@ Present.
 
 1. सुनोमि सुनुवः, सुन्वः सुनुमः, सुन्मः सुनवे, सुनुवे सुनुमहे, सुन्महे 2. सुनोषि सुनुथः, सुन्थः सुनुथ, सुन्थ सुनुषे सुन्वाथे सुनुध्वे, सुन्ध्वे 3. सुनोति सुनुतः सुन्वन्ति सुनुते सुन्वाते सुनवते
 
-* @[सुनोत्यादयः]। @[तनादिदशभ्यः उः]। पा० III. 1. 73, 79। @[क्र्यादिभ्यः नः]। पा० III. 1. 81.
+- @[सुनोत्यादयः]। @[तनादिदशभ्यः उः]। पा० III. 1. 73, 79। @[क्र्यादिभ्यः नः]। पा० III. 1. 81.
 
 #### § 409 } CONJUGATION OF VERBS. 257
 
@@ -6442,7 +6737,7 @@ imperative.
 
 1. साध्नवानि साध्नवाव साध्नवाम अश्नवै अश्नवावहै अश्नवामहै 2. साध्नु साध्नुतम्‌ साध्नुत अश्नुष्व अश्नुवाथाम्‌ अश्नुध्वम्‌ 3. साध्नोतु साध्नुताम्‌ साध्नुवन्तु अश्नुताम्‌ अश्नुवाताम्‌ अश्नुवताम्‌
 
-* H. S. G. 17
+- H. S. G. 17
 
 258 SANSKRIT GRAMMAR. { § 409
 
@@ -6474,7 +6769,8 @@ Potential.
 
 Present.
 
-## P.                                          A.
+## P. A.
+
 1. @[karomi] @[kuruvaḥ] @[kurumaḥ] @[kurve] @[kurvavahe] @[kurmahe]
 2. @[karoṣi] @[kuruthaḥ] @[kurutha] @[kuruṣe] @[kuruvāthe] @[kurudhve]
 3. @[karoti] @[kurutaḥ] @[kurvanti] @[kurute] @[kurvāte] @[kurvate]
@@ -6494,10 +6790,11 @@ imperative.
 Potential.
 
 @line:
-1. kuryām kuryāva kuryāma   kurvīya kurvīvahi kurvīmahi
-2. kuryāḥ kuryātam kuryāta   kurvīthāḥ kurvīyāthām kurvīdhvam
-3. kuryāt kuryātām kuryuḥ   kurvīta kurvīyātām kurvīran
-:@
+
+1. kuryām kuryāva kuryāma kurvīya kurvīvahi kurvīmahi
+2. kuryāḥ kuryātam kuryāta kurvīthāḥ kurvīyāthām kurvīdhvam
+3. kuryāt kuryātām kuryuḥ kurvīta kurvīyātām kurvīran
+   :@
 
 9th Class.
 
@@ -6505,54 +6802,61 @@ Potential.
 
 Present.
 
-## P.                                          A.
+## P. A.
+
 @line:
-1. krīṇāmi krīṇīvaḥ krīṇīmaḥ   krīṇe krīṇīvahe krīṇīmahe
-2. krīṇāsi krīṇīthaḥ krīṇītha   krīṇīṣe krīṇāthe krīṇīdhve
-3. krīṇāti krīṇītaḥ krīṇanti   krīṇīte krīṇāte krīṇate
-:@
+
+1. krīṇāmi krīṇīvaḥ krīṇīmaḥ krīṇe krīṇīvahe krīṇīmahe
+2. krīṇāsi krīṇīthaḥ krīṇītha krīṇīṣe krīṇāthe krīṇīdhve
+3. krīṇāti krīṇītaḥ krīṇanti krīṇīte krīṇāte krīṇate
+   :@
 
 Imperfect.
 
 @line:
-1. akrīṇām akrīṇīva akrīṇīma   akrīṇi akrīṇīvahi akrīṇīmahi
-2. akrīṇāḥ akrīṇītam akrīṇīta   akrīṇīthāḥ akrīṇāthām akrīṇīdhvam
-3. akrīṇāt akrīṇītām akrīṇan   akrīṇīta akrīṇātām akrīṇata
-:@
+
+1. akrīṇām akrīṇīva akrīṇīma akrīṇi akrīṇīvahi akrīṇīmahi
+2. akrīṇāḥ akrīṇītam akrīṇīta akrīṇīthāḥ akrīṇāthām akrīṇīdhvam
+3. akrīṇāt akrīṇītām akrīṇan akrīṇīta akrīṇātām akrīṇata
+   :@
 
 imperative.
 
 @line:
-1. krīṇāni krīṇāva krīṇāma   krīṇai krīṇāvahai krīṇāmahai
-2. krīṇīhi krīṇītam krīṇīta   krīṇīṣva krīṇīthām krīṇīdhvam
-3. krīṇātu krīṇītām krīṇantu   krīṇītām krīṇātām krīṇatām
-:@
+
+1. krīṇāni krīṇāva krīṇāma krīṇai krīṇāvahai krīṇāmahai
+2. krīṇīhi krīṇītam krīṇīta krīṇīṣva krīṇīthām krīṇīdhvam
+3. krīṇātu krīṇītām krīṇantu krīṇītām krīṇātām krīṇatām
+   :@
 
 Potential.
 
 @line:
-1. krīṇīyām krīṇīyāva krīṇīyāma   krīṇīya krīṇīvahi krīṇīmahi
-2. krīṇīyāḥ krīṇīyātam krīṇīyāta   krīṇīthāḥ krīṇīyāthām krīṇīdhvam
-3. krīṇīyāt krīṇīyātām krīṇīyuḥ   krīṇīta krīṇīyātām krīṇīran
-:@
+
+1. krīṇīyām krīṇīyāva krīṇīyāma krīṇīya krīṇīvahi krīṇīmahi
+2. krīṇīyāḥ krīṇīyātam krīṇīyāta krīṇīthāḥ krīṇīyāthām krīṇīdhvam
+3. krīṇīyāt krīṇīyātām krīṇīyuḥ krīṇīta krīṇīyātām krīṇīran
+   :@
 
 @[stambh] P. 'to obstruct,' or 'to stop.'
 
 Present. Imperfect.
 
 @line:
-1. stabhnāmi stabhnīvaḥ stabhnīmaḥ   astabhnām astabhnīva astabhnīma
-2. stabhnāsi stabhnīthaḥ stabhnītha   astabhnāḥ astabhnītam astabhnīta
-3. stabhnāti stabhnītaḥ stabhnanti   astabhnāt astabhnītām astabhnan
-:@
+
+1. stabhnāmi stabhnīvaḥ stabhnīmaḥ astabhnām astabhnīva astabhnīma
+2. stabhnāsi stabhnīthaḥ stabhnītha astabhnāḥ astabhnītam astabhnīta
+3. stabhnāti stabhnītaḥ stabhnanti astabhnāt astabhnītām astabhnan
+   :@
 
 imperative. Potential.
 
 @line:
-1. stabhnāni stabhnāva stabhnāma   stabhnīyām stabhnīyāva stabhnīyāma
-2. stabhnīhi stabhnītam stabhnīta   stabhnīyāḥ stabhnīyātam stabhnīyāta
-3. stabhnātu stabhnītām stabhnanti   stabhnīyāt stabhnīyātām stabhnīyuḥ
-:@
+
+1. stabhnāni stabhnāva stabhnāma stabhnīyām stabhnīyāva stabhnīyāma
+2. stabhnīhi stabhnītam stabhnīta stabhnīyāḥ stabhnīyātam stabhnīyāta
+3. stabhnātu stabhnītām stabhnanti stabhnīyāt stabhnīyātām stabhnīyuḥ
+   :@
 
 ### Special Bases Of The 9Th Class.
 
@@ -6606,7 +6910,7 @@ Second (or @[अद्‌आदि]) Class.
 
 #### § 420. In the case of roots ending in @[आ], the terminations of the third person plural of the Imperfect is optionally @[उस्‌].
 
-* @[दुह्रुभ्यो हेर्धिः] । Pāṇ. VI. 4. 101.
+- @[दुह्रुभ्यो हेर्धिः] । Pāṇ. VI. 4. 101.
 
 #### § 420-421] CONJUGATION OF @[adādi] 263
 
@@ -6617,18 +6921,20 @@ Second (or @[अद्‌आदि]) Class.
 Present. Imperfect.
 
 @line:
+
 1. yāmi yāvaḥ yāmaḥ ayām ayāva ayāma
 2. yāsi yāthaḥ yātha ayāḥ ayātam ayāta
 3. yāti yātaḥ yānti ayāt ayātam ayān
-:@
+   :@
 
 imperative. Potential.
 
 @line:
+
 1. yāni yāva yāma yāyām yāyāva yāyāma
 2. yāhi yātam yāta yāyāḥ yāyātam yāyāta
 3. yātu yātām yāntu yāyāt yāyātām yāyuḥ
-:@
+   :@
 
 Conjugate similarly @[khyā] P. 'to tell,' @[dā] P. 'to cut,' @[vā] P. 'to protect,' @[pā] P. 'to fill,' @[ghrā] P. 'to eat,' @[ḍī] P. 'to fly,' @[drā] P. 'to shine,' @[mā] P. 'to measure,' @[sthā] P. 'to stand,' @[hā] P. 'to give or take,' @[dhā] P. 'to blow,' @[mnā] P. 'to cook' and @[snā] P. 'to bathe'.
 
@@ -6645,10 +6951,11 @@ Present. Imperfect.
 imperative. Potential.
 
 @line:
+
 1. vayāni vayāva vayāma vīyām vīyāva vīyāma
 2. vīhi vītam vīta vīyāḥ vīyātam vīyāta
 3. vetu vītām viyantu vīyāt vīyātām vīyuḥ
-:@
+   :@
 
 @[nu] P. 'to praise'
 
@@ -6671,29 +6978,33 @@ Conjugate similarly @[ṛu] P. 'to sound,' @[gṛu] P. 'to seize,' @[tṛu] P. '
 Present. Imperfect.
 
 @line:
+
 1. jāgarmi jāgṛvaḥ jāgṛmaḥ ajāgaram ajāgṛva ajāgṛma
 2. jāgarṣi jāgṛthaḥ jāgṛtha ajāgaḥ ajāgṛtam ajāgṛta
 3. jāgarti jāgṛtaḥ jāgrati ajāgaḥ ajāgṛtām ajāgran
-:@
+   :@
 
 imperative. Potential.
 
 @line:
+
 1. jāgarāṇi jāgarāva jāgarāma jāgṛyām jāgṛyāva jāgṛyāma
 2. jāgṛhi jāgṛtam jāgṛta jāgṛyāḥ jāgṛyātam jāgṛyāta
 3. jāgartu jāgṛtām jāgratu jāgṛyāt jāgṛyātām jāgṛyuḥ
-:@
+   :@
 
-* See note p. 272.
+- See note p. 272.
 
 @[ईर्‌] A, 'to go.'
 
 Present. Imperfect.
+
 1. @[ईर्मि] @[ईर्वः] @[ईर्मः] @[ऐर्षि] @[ऐर्व] @[ऐर्म]
 2. @[ईर्षि] @[ईर्थः] @[ईर्थ] @[ऐर्षीः] @[ऐर्तम्‌] @[ऐर्त]
 3. @[ईर्ति] @[ईर्तः] @[ईर्ते] @[ऐर्त्‌] @[ऐर्ताम्‌] @[ऐर्न्‌]
 
 imperative. Potential.
+
 1. @[ईराणि] @[ईराव] @[ईराम] @[ईरीयाम्‌] @[ईरीव] @[ईरीम]
 2. @[ईर्हि] @[ईर्तम्‌] @[ईर्त] @[ईरीयाः] @[ईरीयातम्‌] @[ईरीत]
 3. @[ईर्तु] @[ईर्ताम्‌] @[ईर्न्तु] @[ईरीयात्‌] @[ईरीयाताम्‌] @[ईरीयुः]
@@ -6701,11 +7012,13 @@ imperative. Potential.
 @[चक्ष्‌] A. 'to speak.'
 
 Present. Imperfect.
+
 1. @[चक्षे] @[चक्ष्वहे] @[चक्ष्महे] @[अचक्षि] @[अचक्ष्वहि] @[अचक्ष्महि]
 2. @[चक्षसे] @[चक्षाथे] @[चक्ष्ध्वे] @[अचक्षथाः] @[अचक्षाथाम्‌] @[अचक्ष्ध्वम्‌]
 3. @[चष्टे] @[चक्षाते] @[चक्षते] @[अचष्ट] @[अचक्षाताम्‌] @[अचक्षत]
 
 imperative. Potential.
+
 1. @[चक्षै] @[चक्षावहै] @[चक्षामहै] @[चक्षीय] @[चक्षीवहि] @[चक्षीमहि]
 2. @[चक्ष्व] @[चक्षाथाम्‌] @[चक्ष्ध्वम्‌] @[चक्षीथाः] @[चक्षीयाथाम्‌] @[चक्षीध्वम्‌]
 3. @[चक्ष्ताम्‌] @[चक्षाताम्‌] @[चक्षताम्‌] @[चक्षीत] @[चक्षीयाताम्‌] @[चक्षीरन्‌]
@@ -6713,11 +7026,13 @@ imperative. Potential.
 @[कद्‌] A. 'to go.'
 
 Present. Imperfect.
+
 1. @[कदे] @[कद्वहे] @[कद्महे] @[अकदि] @[अकद्वहि] @[अकद्महि]
 2. @[कत्से] @[कदाथे] @[कद्ध्वे] @[अकत्थाः] @[अकदाथाम्‌] @[अकद्ध्वम्‌]
 3. @[कत्ते] @[कदाते] @[कदते] @[अकत्त] @[अकदाताम्‌] @[अकदत]
 
 imperative. Potential.
+
 1. @[कदै] @[कदावहै] @[कदामहै] @[कदीय] @[कदीवहि] @[कदीमहि]
 2. @[कत्स्व] @[कदाथाम्‌] @[कद्ध्वम्‌] @[कदीथाः] @[कदीयाथाम्‌] @[कदीध्वम्‌]
 3. @[कत्ताम्‌] @[कदाताम्‌] @[कदताम्‌] @[कदीत] @[कदीयाताम्‌] @[कदीरन्‌]
@@ -6726,21 +7041,25 @@ imperative. Potential.
 
 Present.
 P. A.
+
 1. @[दोह्मि] @[दुह्वः] @[दुह्मः] @[दुहे] @[दुह्वहे] @[दुह्महे]
 2. @[दोक्षि] @[दुग्धः] @[दुग्ध] @[दुक्षे] @[दुहाथे] @[दुग्ध्वे]
 3. @[दोग्धि] @[दुग्धः] @[दुहन्ति] @[दुग्धे] @[दुहाते] @[दुहते]
 
 Imperfect.
+
 1. @[अदोहम्‌] @[अदुह्व] @[अदुह्म] @[अदुहि] @[अदुह्वहि] @[अदुह्महि]
 2. @[अदोः] @[अदुग्धम्‌] @[अदुग्ध] @[अदुग्धाः] @[अदुहाथाम्‌] @[अदुग्ध्वम्‌]
 3. @[अधोक्‌] @[अदुग्धाम्‌] @[अदुहन्‌] @[अदुग्ध] @[अदुहाताम्‌] @[अदुहत]
 
 imperative.
+
 1. @[दोहानि] @[दोहाव] @[दोहाम] @[दुहै] @[दोहावहै] @[दोहामहै]
 2. @[दुग्धि] @[दुग्धम्‌] @[दुग्ध] @[दुक्ष्व] @[दुहाथाम्‌] @[दुग्ध्वम्‌]
 3. @[दोग्धु] @[दुग्धाम्‌] @[दुहन्तु] @[दुग्धाम्‌] @[दुहाताम्‌] @[दुहताम्‌]
 
 Potential.
+
 1. @[दुह्याम्‌] @[दुह्याव] @[दुह्याम] @[दुहीय] @[दुहीवहि] @[दुहीमहि]
 2. @[दुह्याः] @[दुह्यातम्‌] @[दुह्यात] @[दुहीथाः] @[दुहीयाथाम्‌] @[दुहीध्वम्‌]
 3. @[दुह्यात्‌] @[दुह्याताम्‌] @[दुह्युः] @[दुहीत] @[दुहीयाताम्‌] @[दुहीरन्‌]
@@ -6750,38 +7069,45 @@ Potential.
 @[लिह्] 2. A. 'to lick.'
 
 Present.
-## P.                              A.
+
+## P. A.
+
 1. @[लेढि] @[लिद्वः] @[लिद्मः] @[लिहे] @[लिद्वहे] @[लिद्महे]
 2. @[लेक्षि] @[लिद्धः] @[लिद्ध] @[लीढसे] @[लिहाथे] @[लिड्ढ्वम्]
 3. @[लेढि] @[लिद्धः] @[लिहन्ति] @[लीढे] @[लिहाते] @[लिहते]
 
 Imperfect.
+
 1. @[अलेढम्] @[अलिद्व] @[अलिद्म] @[अलिहि] @[अलिद्वहि] @[अलिद्महि]
 2. @[अलेट्] @[अलिद्धम्] @[अलिद्ध] @[अलीढाः] @[अलिहाथाम्] @[अलीढ्वम्]
 3. @[अलेट्] @[अलिद्धाम्] @[अलिहन्] @[अलीढ] @[अलिहाताम्] @[अलिहत]
 
 imperative.
+
 1. @[लेढानि] @[लेढाव] @[लेढाम] @[लेढै] @[लेढावहै] @[लेढामहै]
 2. @[लीढि] @[लिद्धम्] @[लिद्ध] @[लीढस्व] @[लिहाथाम्] @[लीढ्वम्]
 3. @[लेढु] @[लिद्धाम्] @[लीढाम्] @[लीढाम्] @[लिहाताम्] @[लिहताम्]
 
 Potential.
+
 1. @[लिह्याम्] @[लिह्याव] @[लिह्याम] @[लिहीय] @[लिहीवहि] @[लिहीमहि]
 2. &c. &c.
 
 @[निज्] 4. A. 'to purify'
 
 Present. Imperfect.
+
 1. @[निन्जे] @[निञ्ज्वहे] @[निञ्जमहे] @[अनिञ्जि] @[अनिञ्ज्वहि] @[अनिञ्जमहि]
 2. @[निङ्क्षे] @[निञ्जाथे] @[निङ्ग्ध्वम्] @[अनिङ्क्थाः] @[अनिञ्जाथाम्] @[अनिङ्ग्ध्वम्]
 3. @[निङ्क्ते] @[निञ्जाते] @[निञ्जते] @[अनिङ्क्त] @[अनिञ्जाताम्] @[अनिञ्जत]
 
 imperative. Potential.
+
 1. @[निञ्जै] @[निञ्जावहै] @[निञ्जामहै] @[निञ्जीय] @[निञ्जीवहि] @[निञ्जीमहि]
 2. @[निङ्क्ष्व] @[निञ्जाथाम्] @[निङ्ग्ध्वम्] @[निञ्जीथाः] @[निञ्जीयाथाम्] @[निञ्जीध्वम्]
 3. @[निङ्क्ताम्] @[निञ्जाताम्] @[निञ्जताम्] @[निञ्जीत] @[निञ्जीयाताम्] @[निञ्जीरन्]
 
-* @[सिञ्ज्], @[पिञ्च्], @[रिच्], @[भृञ्ज्], @[वृञ्ज्], @[रिच्] &c. A. should be similarly conjugated.
+- @[सिञ्ज्], @[पिञ्च्], @[रिच्], @[भृञ्ज्], @[वृञ्ज्], @[रिच्] &c. A. should be similarly conjugated.
 
 IRREGULAR Bases.
 
@@ -6790,11 +7116,13 @@ Many of the roots of the 2nd class are of irregular conjugation. We will treat o
 #### § 422. @[अद्] P. 'to eat' forms the 2 & 3 sing. Imperf. as @[आदः] and @[आदत्] respectively. In other respects it is regular.
 
 Present. Imperfect.
+
 1. @[अद्मि] @[अद्वः] @[अद्मः] 1. @[आदम्] @[आद्व] @[आद्म]
 2. @[अत्सि] @[अत्थः] @[अत्थ] 2. @[आदः] @[आत्तम्] @[आत्त]
 3. @[अत्ति] @[अत्तः] @[अदन्ति] 3. @[आदत्] @[आत्ताम्] @[आदन्]
 
 imperative. Potential.
+
 1. @[अदानि] @[अदाव] @[अदाम] 1. @[अद्याम्] @[अद्याव] @[अद्याम]
 2. @[अद्धि] @[अत्तम्] @[अत्त] 2. @[अद्याः] @[अद्यातम्] @[अद्यात]
 3. @[अत्तु] @[अत्ताम्] @[अदन्तु] 3. @[अद्यात्] @[अद्याताम्] @[अद्युः]
@@ -6804,18 +7132,20 @@ imperative. Potential.
 @[अन्] P. 'to breathe.'
 
 Present. Imperfect.
+
 1. @[अनिमि] @[अनिवः] @[अनिमः] @[आनम्] @[आनिव] @[आनिम]
 2. @[अनिषि] @[अनिथः] @[अनिथ] @[आनीः]-@[आनः] @[आनितम्] @[आनित]
 3. @[अनिति] @[अनितः] @[अनन्ति] @[आनीत्]-@[आनत्] @[आनिताम्] @[आनन्]
 
 imperative. Potential.
+
 1. @[अनानि] @[अनाव] @[अनाम] @[अन्याम्] @[अन्याव] @[अन्याम]
 2. @[अनिहि] @[अनितम्] @[अनित] @[अन्याः] @[अन्यातम्] @[अन्यात]
 3. @[अनतु] @[अनिताम्] @[अनन्तु] @[अन्यात्] @[अन्याताम्] @[अन्युः]
 
 Conjugate @[svap], @[śvas] and @[rud] similarly; as @[svapiti] 3 sing. Pre., @[asvapiḥ-paḥ] 2. sing. Imperf.; @[asvapit-pat] 3 sing. Imperf.; @[svapāni] 1. sing. Imp. @[svapiti] 2 sing. Imp.; @[svapyām] 1. sing. Pot.; &c.. @[śvasiti] 3. sing. Pre: @[aśvasiḥ-saḥ] 2 sing. Imperf.; @[aśvasit-sat] 3 sing. Imperf.; @[śvasāni] 1. sing. Imp. @[śvasihi] 2. sing. Imp. @[śvasitu] 3. sing. Imp., @[śvasyām] 1. sing. Pot., &c.; @[rodimi], @[rudivaḥ rudimaḥ] 1 Pre.; @[arodam] 1 sing. Imperf. @[arodiḥ-daḥ] 2 sing. Imperf. @[arodit-dat] 3. sing. Imperf.; @[rodāni] 1. sing. Imp. @[rudihi] 2. sing. Imp. @[roditu] 3. sing. Imp.; @[rudyām] 1. sing. Pot. &c.
 
-#### § 424. @[as] P. ( A.* rare) 'to be'—drops its @[a] before weak terminations and @[s] before a termination beginning with @[s] and @[dh]. Before 2 and 3 Imperf. it takes the augment @[ī]. It is irregular in many respects.
+#### § 424. @[as] P. ( A.\* rare) 'to be'—drops its @[a] before weak terminations and @[s] before a termination beginning with @[s] and @[dh]. Before 2 and 3 Imperf. it takes the augment @[ī]. It is irregular in many respects.
 
 Present.
 P. A.
@@ -6826,17 +7156,19 @@ P. A.
 
 Imperfect.
 @line:
+
 1. āsam asva asma āsi āsvahi āsmahi
 2. āsiḥ āstam āsta āsthāḥ āsāthām ādhvam
 3. āsit āstām āsan āsta āsātām āsata
-:@
+   :@
 
 imperative.
+
 1. @[asāni asāva asāma] @[asai asāvahai asāmahai]
 2. @[edhi stam sta] @[sva sāthām dhvam]
 3. @[astu stām santu] @[astām satām satām]
 
-* @[as] is Atmanepadi in a few cases. Cf. Bhaṭṭikāvya II. 35 '@[anyo vyatiste tu mamāpi dharmaḥ]' &c. where it implies @[karmavyatihāra] or an exchange of duty.
+- @[as] is Atmanepadi in a few cases. Cf. Bhaṭṭikāvya II. 35 '@[anyo vyatiste tu mamāpi dharmaḥ]' &c. where it implies @[karmavyatihāra] or an exchange of duty.
 
 Potential.
 
@@ -6849,62 +7181,68 @@ Potential.
 Present. Imperfect.
 
 @line:
+
 1. āse āsvahe āsmahe āsi āsvahi āsmahi
 2. āsse āsāthe ādhve āsthāḥ āsāthām ādhvam
 3. āste āsāte āsate āsta āsātām āsata
-:@
+   :@
 
 imperative. Potential.
 
 @line:
+
 1. āsai āsāvahai āsāmahai āsiya āsivahi āsimahi
 2. āsva āsāthām ādhvam āsithāḥ āsiyāthām āsidhvam
 3. āstām āsātām āsatām āsita āsiyātām āsiran
-:@
+   :@
 
 Conjugate @[vas] A. 'to dress' similarly.
 
-#### § 426. The @[a] of the root @[i] P.* 'to go' is changed to @[y] before a weak vowel termination: @[eti itaḥ yanti] 3 pers. Pre., @[aiyam aiva aima] 1st Pers. Imperf.; @[aiḥ] 2 sing. Imperf.; @[ayāni], @[ihi], @[etu] 1. 2. 3. sing. Imp. @[yantu] 3. pl. Imp.
+#### § 426. The @[a] of the root @[i] P.\* 'to go' is changed to @[y] before a weak vowel termination: @[eti itaḥ yanti] 3 pers. Pre., @[aiyam aiva aima] 1st Pers. Imperf.; @[aiḥ] 2 sing. Imperf.; @[ayāni], @[ihi], @[etu] 1. 2. 3. sing. Imp. @[yantu] 3. pl. Imp.
 
 @[i] with @[adhi] A. † 'to study.' &c. is regularly conjugated; as—
 
-* @[i] P. 'to go' is conjugated regularly like @[div]—@[eti itaḥ iyanti] 3rd Pers. Pre.; @[ihi] 2 sing. Imp. @[iyantu] 3. plural. Imp.
+- @[i] P. 'to go' is conjugated regularly like @[div]—@[eti itaḥ iyanti] 3rd Pers. Pre.; @[ihi] 2 sing. Imp. @[iyantu] 3. plural. Imp.
 
 † @[i] with @[adhi] P. 'to remember' should be conjugated like @[i], @[adhiyanti] 3rd pl. Pre. Some think that it is to be conjugated like @[i] in the Non-conjugational tenses only. According to them the third pers. plu. will be @[adhīyanti]. The line of Bhaṭṭi '@[lasitayo rākṣasayo'dhīyan]' III. 18. &c. is quoted in support of this opinion. @[kecit ādhyāyanukāyi kaścit svastasya atideśamāhuḥ | tanmate yat |] Sid. Kau.
 
 Present. Imperfect.
 
 @line:
+
 1. adhīye adhīvahe adhīmahe adhīyi adhīvahi adhīmahi
 2. adhīṣe adhīyāthe adhīdhve adhyaiṣṭhāḥ adhyaiyāthām adhyaiḍhvam
 3. adhīte adhīyāte adhīyate adhyaiṣṭa adhyaiyātām adhyaiṣata
-:@
+   :@
 
 imperative. Potential.
 
 @line:
+
 1. adhīyai adhīyāvahai adhīyāmahai adhīyīya adhīyīvahi adhīyīmahi
 2. adhīṣva adhīyāthām adhīdhvam adhīyīthāḥ adhīyīyāthām adhīyīḍhvam
 3. adhītām adhīyātām adhīyatām adhīyīta adhīyīyātām adhīyīran
-:@
+   :@
 
 #### § 427. @[īḍ] A. 'to praise,' and @[īś] A. 'to rule' have @[iṣ] added to them before terminations beginning with @[ṣ] or @[dhv] except that of the Imperf. 2. plu.
 
 Present Imperfect.
 
 @line:
+
 1. īḍe īḍiṣvahe īḍiṣmahe aiḍiṣi aiḍiṣvahi aiḍiṣmahi
 2. īḍiṣe īḍethe īḍiḍhve aiḍiṣṭhāḥ aiḍethām aiḍiḍhvam
 3. īṭṭe īḍete īḍate aiḍiṣṭa aiḍetām aiḍata
-:@
+   :@
 
 imperative. Potential.
 
 @line:
+
 1. īḍai īḍāvahai īḍāmahai īḍīya īḍīvahi īḍīmahi
 2. īḍiṣva īḍethām īḍiḍhvam īḍīṣṭhāḥ īḍīyāthām īḍīḍhvam
 3. īṭṭām īḍetām īḍatām īḍīta īḍīyātām īḍīran
-:@
+   :@
 
 @[īś] to be similarly conjugated, @[īśiṣe] @[īśethe] @[īśiḍhve] 2. Pre.; @[aiśiṣi] 1. sing. Imperf. @[aiśiṣṭhāḥ] 2. sing. Imperf. @[aiśiṣṭa] 3. sing. Imperf. @[aiśiḍhvam] 2. pl. Imperf; @[īśai] 1. sing. Imp. @[īśiḍhvam] 2. pl. Imp. @[īśīta] 3. sing. Pot. &c.
 
@@ -6913,34 +7251,38 @@ imperative. Potential.
 P. A.
 
 @line:
+
 1. ūrṇomi-aurṇomi ūrṇuvaḥ ūrṇumaḥ ūrṇve ūrṇuvahe ūrṇumahe
 2. ūrṇoṣi ūrṇuthaḥ ūrṇutha ūrṇuṣe ūrṇvāthe ūrṇudhve
 3. ūrṇoti-aurṇoti ūrṇutaḥ ūrṇvanti ūrṇute ūrṇvāte ūrṇvate
-:@
+   :@
 
 Imperfect.
 
 @line:
+
 1. aurṇavam aurṇuvāva aurṇuvāma aurṇuvi aurṇuvahi aurṇumahi
 2. aurṇoḥ aurṇutam aurṇuta aurṇuthāḥ aurṇuvāthām aurṇudhvam
 3. aurṇot aurṇutām aurṇuvan aurṇuta aurṇuvātām aurṇuvata
-:@
+   :@
 
 imperative.
 
 @line:
+
 1. ūrṇavāni ūrṇavāva ūrṇavāma ūrṇavai ūrṇavāvahai ūrṇavāmahai
 2. ūrṇu ūrṇutam ūrṇuta ūrṇuṣva ūrṇuvāthām ūrṇudhvam
 3. ūrṇotu-aurṇotu ūrṇutām ūrṇuvantu ūrṇutām ūrṇuvātām ūrṇuvatām
-:@
+   :@
 
 Potential.
 
 @line:
+
 1. ūrṇuyām ūrṇuyāva ūrṇuyāma ūrṇuvīya ūrṇuvīvahi ūrṇuvīmahi
 2. ūrṇuyāḥ ūrṇuyātam ūrṇuyāta ūrṇuvīthāḥ ūrṇuvīyāthām ūrṇuvīdhvam
 3. ūrṇuyāt ūrṇuyātām ūrṇuyuḥ ūrṇuvīta ūrṇuvīyātām ūrṇuvīran
-:@
+   :@
 
 #### § 429 @[cakās], P. 'to shine,' @[cakās]; @[śās], @[jā], @[daridrā] and @[śās] drop the @[n] of the 3rd pers. plu. termination when added to them. In the Imperf. they take @[uḥ] as 3. pl. termination. Imp. 2. sing. of @[cakās] is @[cakādhi-dhi].
 
@@ -6949,17 +7291,19 @@ Paradigms.
 Present Imperfect.
 
 @line:
+
 1. cakāsmi cakāsvaḥ cakāsmaḥ acakāsam acakāsva acakāsma
 2. cakāsi cakāsthaḥ cakāstha acakāḥ-acakāt-s acakāstam acakāsta
 3. cakāsti cakāstaḥ cakāsati acakāt-s acakāstām acakāsuḥ
-:@
+   :@
 
 imperative Potential
 @line:
+
 1. cakāsāṇi cakāsāva cakāsāma cakāsyām cakāsyāva cakāsyāma
 2. cakāsa cakāstam cakāsta cakāsyāḥ cakāsyātam cakāsyāta
 3. cakāstu cakāstām cakāsatu cakāsyāt cakāsyātām cakāsyuḥ
-:@
+   :@
 
 @[as] P.—see @[an] and @[cakās] above—
 
@@ -6967,28 +7311,32 @@ Paradigms.
 
 Present. Imperfect.
 @line:
+
 1. jakṣimi jakṣiva jakṣimaḥ ajakṣam ajakṣiva ajakṣma
 2. jakṣiṣi jakṣithaḥ jakṣitha ajakṣīḥ-ajakṣaḥ ajakṣitam ajakṣita
 3. jakṣiti jakṣitaḥ jakṣati ajakṣīt-ajakṣat ajakṣitām ajakṣuḥ
-:@
+   :@
 
 imperative. Potential.
 @line:
+
 1. jakṣāṇi jakṣāva jakṣāma jakṣyām jakṣyāva jakṣyāma
 2. jakṣihi jakṣitam jakṣita jakṣyāḥ jakṣyātam jakṣyāta
 3. jakṣitu jakṣitām jakṣatu jakṣyāt jakṣyātām jakṣyuḥ
-:@
+   :@
 
 #### § 430. @[daridra] P. 'to be poor'—drops its @[ā] before weak terminations beginning with a vowel and changes it to @[i] before those with an initial consonant.
 
 Paradigms.
 
 Present. Imperfect.
+
 1. @[daridrimi] @[daridrivaḥ] @[daridrimaḥ] @[adaridrām] @[adaridrivi] @[adaridrima]
 2. @[daridāsi] @[daridrithaḥ] @[daridritha] @[adaridāḥ] @[adaridrītam] @[adaridrīta]
 3. @[daridrāti] @[daridritaḥ] @[daridriti] @[adaridāt] @[adaridrītām] @[adaridrīuḥ]
 
 imperative. Potential.
+
 1. @[dadriāṇi] @[dadrīva] @[dadrīāma] @[daridriyām] @[daridrīyāva] @[daridrīyāma]
 
 2. @[daridrihi] @[daridritam] @[daridrata] @[daridriyāḥ] @[daridriyātam] @[daridriyāta]
@@ -6998,35 +7346,40 @@ imperative. Potential.
 
 Present.
 @line:
+
 1. dviṣmi dviṣvaḥ dviṣmaḥ dviṣe dviṣvahe dviṣmahe
 2. dvekṣi dviṣṭhaḥ dviṣṭha dvikṣe dviṣāthe dviḍḍhve
 3. dveṣṭi dviṣṭaḥ dviṣanti dviṣṭe dviṣāte dviṣate
-:@
+   :@
 
 Imperfect.
 @line:
+
 1. adviṣam adviṣva adviṣma adviṣi adviṣvahi adviṣmahi
 2. adveṭ adviṣṭam adviṣṭa adviṣṭhāḥ adviṣāthām adviḍḍhvam
 3. adveṭ-adviṭ adviṣṭām adviṣan-adviṣuḥ adviṣṭa adviṣātām adviṣata
-:@
+   :@
 
 imperative.
 @line:
+
 1. dveṣāṇi dveṣāva dveṣāma dviṣai dviṣāvahai dviṣāmahai
 2. dviḍḍhi dviṣṭam dviṣṭa dviṣasva dviṣāthām dviḍḍhvam
 3. dveṣṭu dviṣṭām dviṣantu dviṣṭām dviṣātām dviṣatām
-:@
+   :@
 
 Potential.
 @line:
+
 1. dviṣyām dviṣyāva dviṣyāma dviṣīya dviṣīvahi dviṣīmahi
 2. dviṣyāḥ dviṣyātam dviṣyāta dviṣīthāḥ dviṣīyāthām dviṣīdhvam
 3. dviṣyāt dviṣyātām dviṣyuḥ dviṣīta dviṣīyātām dviṣīran
-:@
+   :@
 
 #### § 432. @[brū] P. A. 'to speak'—takes the augment @[ī] before consonantal strong terminations.
 
 Present.
+
 1. @[bravīmi] @[brūvaḥ] @[brūmaḥ] @[bruve] @[brūvahe] @[brūmahe]
 
 #### § 482-433 } CONJUGATION OF VERBS. 275
@@ -7059,12 +7412,12 @@ imperative. Potential.
 
 2. मार्द्धि मृष्टम् मृष्ट मृज्याः मृज्यातम् मृज्यात 3. मार्ष्टु मृष्टाम् मार्जन्तु-मृजन्तु मृज्यात् मृज्याताम् मृज्युः
 
-#### § 434. @[वच्] P. 'to speak'—is deficient in the 3 plu. Pres. according to some in the whole Pres., and according to others in all the third person plurals.*
+#### § 434. @[वच्] P. 'to speak'—is deficient in the 3 plu. Pres. according to some in the whole Pres., and according to others in all the third person plurals.\*
 
 Present. Imperfect.
 
 1. वच्मि वच्वः वच्मः अवचम् अवच्व अवच्म
-2. वक्षि वक्थः वक्थ अवक्-क् अवक्तम् अवक्त 3. वक्ति वक्तः...* अवक्-क् अवक्ताम् अवचन्
+2. वक्षि वक्थः वक्थ अवक्-क् अवक्तम् अवक्त 3. वक्ति वक्तः...\* अवक्-क् अवक्ताम् अवचन्
 
 imperative. Potential.
 
@@ -7082,7 +7435,7 @@ imperative. Potential.
 
 1. वशानि वशाव वशाम उश्याम् उश्याव उश्याम 2. उड्ढि उष्टम् उष्ट उश्याः उश्यातम् उश्यात 3. वष्टु उष्टाम् उशन्तु उश्यात् उश्याताम् उश्युः
 
-* अवचन्तिपदं न प्रयुज्यते । बहुवचनपदमित्यन्ये । त्रिपुरुषबहुवचनमित्यपरे । (Sid. Kau)
+- अवचन्तिपदं न प्रयुज्यते । बहुवचनपदमित्यन्ये । त्रिपुरुषबहुवचनमित्यपरे । (Sid. Kau)
 
 [ § 436-437 ] CONJUGATION OF VERBS. 277
 
@@ -7103,26 +7456,28 @@ imperative.
 Potential.
 
 @line:
+
 1. vidyām vidyāva vidyāma
 2. vidyāḥ vidyātam vidyāta
 3. vidyāt vidyātām vidyuḥ
-:@
+   :@
 
 #### § 437. @[śās] P. + A. 'to govern, to teach,' &c.—changes its vowel to @[i] before consonantal weak terminations. See @[cakās] also p. 242
 
 Present. Imperfect.
 
 @line:
+
 1. śāsmi śiṣvas śiṣmas aśāsam aśiṣva aśiṣma
 2. śāssi śiṣṭas śiṣṭa aśās aśiṣṭam aśiṣṭa
 3. śāsti śiṣṭas śāsati aśās aśiṣṭām aśiṣus
-:@
+   :@
 
 imperative. Potential.
 
 1. @[śāsāni] @[śāsāva] @[śāsāma] @[śiṣyām] @[śiṣyāva] @[śiṣyāma]
 
-* @[śās] with @[ātm] A. should be conjugated like @[bhās]
+- @[śās] with @[ātm] A. should be conjugated like @[bhās]
 
 2. @[śādhi] @[śiṣṭam] @[śiṣṭa] @[śiṣyāḥ] @[śiṣyātam] @[śiṣyāta]
 3. @[śāstu] @[śiṣṭām] @[śāsatu] @[śiṣyāt] @[śiṣyātām] @[śiṣyuḥ]
@@ -7132,18 +7487,20 @@ imperative. Potential.
 Present. Imperfect.
 
 @line:
+
 1. śaye śayāvahe śayāmahe aśayi aśayāvahi aśayāmahi
 2. śayase śayethe śayadhve aśayathāḥ aśayāthām aśayadhvam
 3. śete śayete śerate aśeta aśayetām aśerata
-:@
+   :@
 
 imperative. Potential.
 
 @line:
+
 1. śaye śayāvahai śayāmahai śayīya śayīvahi śayīmahi
 2. śayasva śayethām śayadhvam śayīthāḥ śayīyāthām śayīdhvam
 3. śetām śayetām śeratām śayīta śayīyātām śayīran
-:@
+   :@
 
 #### § 439. @[sū] A. 'to give birth to'—does not change its vowel to @[guṇa] before strong terminations.
 
@@ -7155,14 +7512,16 @@ Present. Imperfect.
 imperative. Potential.
 
 @line:
+
 1. savai savāvahai savāmahai suvīya suvīvahi suvīmahi
 2. sūṣva suvāthām suvadhvam suvīthāḥ suvīyāthām suvīdhvam
 3. sūtām suvātām suvatām suvīta suvīyātām suvīran
-:@
+   :@
 
 #### § 440. @[stu] P. A. 'to praise,' @[tu] P. 'to grow' and @[ru] P. 'to sound' have @[ī] optionally prefixed to the consonantal terminations.
 
 # 1° bd
+
 : § 440] CONJUGATION OF VERBS. 279
 
 @[स्तु] P. A.
@@ -7291,22 +7650,27 @@ Present. Imperfect.
 $ 449-451} CONJUGATION OF VERBS. 283
 
 imperative. Potential.
+
 1. चिक्रियाणि चिक्रियाव चिक्रियाम चिक्रियाम्‌ चिक्रियाव चिक्रियाम 2. चिक्रीषि चिक्रीतम्‌ चिक्रीत चिक्रियाः चिक्रियातम्‌ चिक्रियात 3. चिक्रीतु चिक्रीताम्‌ चिक्रियतु चिक्रियात्‌ चिक्रियाताम्‌ चिक्रियुः
 
 हु 'to sacrifice.'
 
 Present. Imperfect.
+
 1. जुहोमि जुहुवः जुहुमः अजुहवम्‌ अजुहुव अजुहुम 2. जुहोषि जुहुथः जुहुथ अजुहोः अजुहुतम्‌ अजुहुत 3. जुहोति जुहुतः जुहुवति अजुहोत्‌ अजुहुताम्‌ अजुहवुः
 
 imperative. Potential.
+
 1. जुहवानि जुहवाव जुहवाम जुहुयाम्‌ जुहुयाव जुहुयाम 2. जुहुधि जुहुतम्‌ जुहुत जुहुयाः जुहुयातम्‌ जुहुयात 3. जुहोतु जुहुताम्‌ जुहवतु जुहुयात्‌ जुहुयाताम्‌ जुहुयुः
 
 ह्री 'to be ashamed.'
 
 Present. Imperfect.
+
 1. जिह्रेमि जिह्रीवः जिह्रीमः अजिह्रयम्‌ अजिह्रीव अजिह्रीम 2. जिह्रेषि जिह्रीथः जिह्रीत अजिह्रेः अजिह्रीतम्‌ अजिह्रीत 3. जिह्रेति जिह्रीतः जिह्रियति अजिह्रेत्‌ अजिह्रीताम्‌ अजिह्रयुः
 
 imperative. Potential.
+
 1. जिह्रयाणि जिह्रयाव जिह्रयाम जिह्रीयाम्‌ जिह्रीयाव जिह्रीयाम 2. जिह्रीहि जिह्रीतम्‌ जिह्रीत जिह्रीयाः जिह्रीयातम्‌ जिह्रीयात 3. जिह्रीतु जिह्रीताम्‌ जिह्रियतु जिह्रीयात्‌ जिह्रीयाताम्‌ जिह्रीयुः
 
 ## Irregular Bases:—
@@ -7332,11 +7696,13 @@ Paradigms.
 @[इ] Par. 'to go.'
 
 Present. Imperfect.
+
 1. एमि इवः इमः एयम्‌ एयव एयम
 2. एषि इथः इथ एः एयतम्‌ एयत
 3. एति इतः यति एत्‌ एयताम्‌ एयुः
 
 imperative. Potential.
+
 1. इयाणि इयाव इयाम इयाम्‌ इयाव इयाम
 2. इहि इतम्‌ इत इयाः इयातम्‌ इयात
 3. एतु इताम्‌ यतु इयात्‌ इयाताम्‌ इयुः
@@ -7344,6 +7710,7 @@ imperative. Potential.
 @[धा] P. A. 'to place, to hold.'
 
 Present.
+
 1. दधामि दध्वः दध्मः दधे दध्वहे दध्महे
 
 @[§ 464. Conjugation of Verbs.] 285
@@ -7429,40 +7796,45 @@ See @[§ 394.]
 
 imperative. Potential.
 @line:
+
 1. piparāṇi piparāva piparāma pipūryām pipūryāva pipūryāma
 2. pipṛhi pipṛtam pipṛta pipūryāḥ pipūryātam pipūryāt
 3. pipartu pipṛtām pipṛantu pipūryāt pipūryātām pipūryuḥ
-:@
+   :@
 
 @[bhī] P. 'to fear.'
 
 Present. Imperfect.
 @line:
+
 1. bibhemi bibhivaḥ bibhīmaḥ abibhayam abibhīva abibhīma
-bibhimaḥ bibhivaḥ bibhimaḥ abibhim abibhiva abibhima
+   bibhimaḥ bibhivaḥ bibhimaḥ abibhim abibhiva abibhima
 2. bibheṣi bibhīthaḥ bibhītha abibhayaḥ abibhītam abibhīta
-:@
- @[bibhiṣi] @[bibhithaḥ] @[bibhitha] @[abibhitam] @[abibhita]
+   :@
+   @[bibhiṣi] @[bibhithaḥ] @[bibhitha] @[abibhitam] @[abibhita]
 3. @[bibheti] @[bibhītaḥ] @[bibhyati] @[abibhet] @[abibhītām] @[abibhayuḥ] @[bibhīte] @[abibhitām]
 
 imperative. Potential.
 @line:
+
 1. bibhayāni bibhayāva bibhayāma bibhīyām bibhīyāva bibhīyāma
-bibhiyāni bibhiyāva bibhiyāma
+   bibhiyāni bibhiyāva bibhiyāma
 2. bibhīhi bibhītam bibhīta bibhīyāḥ bibhīyātam bibhīyāt
-bibhihi bibhitam bibhita bibhiyāḥ bibhiyātam bibhiyāt
+   bibhihi bibhitam bibhita bibhiyāḥ bibhiyātam bibhiyāt
 3. bibhetu bibhītām bibhyatu bibhīyāt bibhīyātām bibhīyuḥ
-bibhitām bibhiyāt bibhiyātām bibhiyuḥ
-:@
+   bibhitām bibhiyāt bibhiyātām bibhiyuḥ
+   :@
 
 @[bhṛ] P. A. 'to hold; to maintain.'
 
 Present.
+
 1. @[bibharmi] @[bibhṛvaḥ] @[bibhṛmaḥ] @[bibhre] @[bibhṛvahe] @[bibhṛmahe]
 2. @[bibharṣi] @[bibhṛthaḥ] @[bibhṛtha] @[bibhṛṣe] @[bibhṛāthe] @[bibhṛdhve]
 3. @[bibharti] @[bibhṛtaḥ] @[bibhrati] @[bibhṛte] @[bibhṛāte] @[bibhrate]
 
 Imperfect.
+
 1. @[abibharam] @[abibhṛva] @[abibhṛma] @[abibhre] @[abibhṛvahi] @[abibhṛmahi]
 
 288 Sanskrit Grammar. [§ 454.
@@ -7472,84 +7844,94 @@ Imperfect.
 
 imperative.
 @line:
+
 1. bibharāṇi bibharāva bibharāma bibharāṇi bibharāvahe bibharāmahai
 2. bibhṛhi bibhṛtam bibhṛta bibhṛṣva bibhṛāthām bibhṛdhvam
 3. bibhartu bibhṛtām bibhrantu bibhṛtām bibhṛātām bibhratām
-:@
+   :@
 
 Potential.
 @line:
+
 1. bibhṛyām bibhṛyāva bibhṛyāma bibhṛīya bibhṛīvahi bibhṛīmahi
 2. bibhṛyāḥ bibhṛyātam bibhṛyāta bibhṛīthāḥ bibhṛīyāthām bibhṛīdhvam
 3. bibhṛyāt bibhṛyātām bibhṛyuḥ bibhṛīta bibhṛīyātām bibhṛīran
-:@
+   :@
 
 @[mā] A. 'to measure, to sound.'
 
 Present. Imperfect.
 @line:
+
 1. mīme mīmīvahe mīmīmahe amīmi amīmīvahi amīmīmahi
 2. mīmīṣe mīmāthe mīmīdhve amīmīthāḥ amīmāthām amīmīdhvam
 3. mīmīte mīmāte mīmate amīmīta amīmātām amīmata
-:@
+   :@
 
 imperative. Potential.
 @line:
+
 1. mīmāni mīmāvahai mīmāmahai mīmīya mīmīvahi mīmīmahi
 2. mīmīṣva mīmāthām mīmīdhvam mīmīyāḥ mīmīyāthām mīmīdhvam
 3. mīmītām mīmātām mīmatām mīmīta mīmīyātām mīmīran
-:@
+   :@
 
 @[viś] P. A. 'to pervade.'
 
 Present.
 @line:
+
 1. viveśmi viveśvaḥ viveśmaḥ viveśe viveśvahe viveśmahe
 2. viveśṣi viveśṣthaḥ viveśṣṭha viveśṣe viveśāthe viveśdhve
 3. viveṣṭi viveṣṭaḥ viveśanti viveṣṭe viveṣāte viveśate
-:@
+   :@
 
 Imperfect.
 @line:
+
 1. avevidhvam aveviṣma aveviṣi aveviṣvahi aveviṣmahi
 2. aveviṣṭhāḥ aveviṣṭhām aveviṣṭa aveviṣāthām aveviḍḍhvam
 3. avevīt aveviṣṭām aveviṣuḥ aveviṣṭa aveviṣātām aveviṣata
-:@
+   :@
 
 imperative.
 @line:
+
 1. veviṣāṇi veviṣāva veviṣāma veviṣai veviṣāvahai veviṣāmahai
 2. veviṣva veviṣṭam veviṣṭa veviṣasva veviṣāthām veviḍḍhvam
 3. veviṣṭu veviṣṭām veviṣatu veviṣṭām veviṣātām veviṣatām
-:@
+   :@
 
 Potential.
 @line:
+
 1. veviṣyām veviṣyāva veviṣyāma veviṣīya veviṣīvahi veviṣīmahi
 2. veviṣyāḥ veviṣyātam veviṣyāta veviṣīyāḥ veviṣīyāthām veviṣīdhvam
 3. veviṣyāt veviṣyātām veviṣyuḥ veviṣīta veviṣīyātām veviṣīran
-:@
+   :@
 
 @[jahā] P. 'to abandon'
 
 Present. Imperfect.
 @line:
+
 1. jahāmi jahāvaḥ jahīmaḥ ajahām ajahīva ajahīma
-jahīvaḥ jahimaḥ ajahīva ajahima
+   jahīvaḥ jahimaḥ ajahīva ajahima
 2. jahāsi jahīthaḥ jahītha ajahāḥ ajahītam ajahīta
-jahīthāḥ jahīta ajahītam ajahīta
+   jahīthāḥ jahīta ajahītam ajahīta
 3. jahāti jahītaḥ jahati ajahāt ajahītām ajahuḥ
-jahītaḥ ajahitām
-:@
+   jahītaḥ ajahitām
+   :@
 
 imperative. Potential.
 @line:
+
 1. jahāni jahāva jahāma jahyām jahyāva jahyāma
 2. jahāhi jahītam jahīta jahyāḥ jahyātam jahyāta
-jahīhi jahītam jahīta
+   jahīhi jahītam jahīta
 3. jahātu jahītām jahatu jahyāt jahyātām jahyuḥ
-jahitām
-:@
+   jahitām
+   :@
 
 H. S. G. 19
 
@@ -7567,33 +7949,37 @@ Paradigms.
 
 Present. Imperfect.
 @line:
+
 1. anajmi añjvaḥ añjmaḥ ānajam ānañjva ānañjma
 2. anakṣi añkthaḥ añkta ānakḥ ānaktam ānakta
 3. anakti añktaḥ añjanti ānak ānaktām ānañjan
-:@
+   :@
 
 imperative. Potential.
 @line:
+
 1. anajāni anajāva anajāma añjyām añjyāva añjyāma
 2. aṅgdhi añktam añkta añjyāḥ añjyātam añjyāta
 3. anaktu añktām añjantu añjyāt añjyātām añjyuḥ
-:@
+   :@
 
 @[indh] A. 'to anoint,' &c.
 
 Present. Imperfect.
+
 1. @[indhe] @[indhvahe] @[indhmahe] @[ainddhi] @[aindhvahi] @[aindhmahi]
 2. @[intse] @[indhāthe] @[inddhve] @[aintthāḥ] @[aindhāthām] @[aintdhvam]
 3. @[intte] @[indhāte] @[indhate] @[aintta] @[aindhātām] @[aindhata]
 
 imperative. Potential.
 @line:
+
 1. indhai indhāvahai indhāmahai indhīya indhīvahi indhīmahi
 2. intsva indhāthām inddhvam indhīthāḥ indhīyāthām indhīdhvam
 3. intām indhātām indhatām indhīta indhīyātām indhīran
-:@
+   :@
 
-* Also @[indhe], @[aindhāḥ], @[aindhāt], @[inddhasva], @[inddhām], &c. See § 20 (a)
+- Also @[indhe], @[aindhāḥ], @[aindhāt], @[inddhasva], @[inddhām], &c. See § 20 (a)
 
 #### § 456] CONJUGATION OF VERBS 291
 
@@ -7602,34 +7988,38 @@ imperative. Potential.
 Present.
 
 @line:
+
 1. śuṇḍāmi śuṇḍāvaḥ śuṇḍāmaḥ śuṇḍe śuṇḍāvahe śuṇḍāmahe
 2. śuṇḍāsi śuṇḍathaḥ śuṇḍatha śuṇḍase śuṇḍāthe śuṇḍadhve
 3. śuṇḍāti śuṇḍataḥ śuṇḍanti śuṇḍate śuṇḍāte śuṇḍante
-:@
+   :@
 
 Imperfect.
 
 @line:
+
 1. aśuṇḍam aśuṇḍāva aśuṇḍāma aśuṇḍi aśuṇḍāvahi aśuṇḍāmahi
 2. aśuṇḍāḥ aśuṇḍatam aśuṇḍata aśuṇḍāḥ aśuṇḍāthām aśuṇḍadhvam
 3. aśuṇḍāt aśuṇḍatām aśuṇḍan aśuṇḍata aśuṇḍātām aśuṇḍanta
-:@
+   :@
 
 imperative.
 
 @line:
+
 1. śuṇḍāni śuṇḍāva śuṇḍāma āśai śuṇḍāvahai śuṇḍāmahai
 2. śuṇḍa śuṇḍatam śuṇḍata śuṇḍasva śuṇḍāthām śuṇḍadhvam
 3. śuṇḍātu śuṇḍatām śuṇḍantu śuṇḍatām śuṇḍātām śuṇḍantām
-:@
+   :@
 
 Potential.
 
 @line:
+
 1. śuṇḍyām śuṇḍyāva śuṇḍyāma śuṇḍīya śuṇḍīvahi śuṇḍīmahi
 2. śuṇḍyāḥ śuṇḍyātam śuṇḍyāta śuṇḍīthāḥ śuṇḍīyāthām śuṇḍīdhvam
 3. śuṇḍyāt śuṇḍyātām śuṇḍyuḥ śuṇḍīta śuṇḍīyātām śuṇḍīran
-:@
+   :@
 
 @[bhid] P. A. to break, @[und] P. to be wet, @[kṣid] A. to suffer pain, @[chid] P. A. to cut, @[vid] P. A. to shine, to play; @[vyadh] P. to spin, to surround; @[han] P. A. to kill, to disregard, and @[vid] P. A. to know, to consider, should be similarly conjugated. @[unatti] 3rd. sing. Pre. of @[und]; @[vidyati] 3 sing. Pre. of @[vyadh], &c.
 
@@ -7645,28 +8035,31 @@ Present. Imperfect.
 imperative. Potential.
 
 @line:
+
 1. vṛdhāni vṛdhāva vṛdhāma vṛdhyām vṛdhyāva vṛdhyāma
 2. vṛddhi vṛddham vṛddhā vṛdhyāḥ vṛdhyātam vṛdhyāta
 3. vṛddhu vṛddham vṛdhantu vṛdhyāt vṛdhyātām vṛdhyuḥ
-:@
+   :@
 
 @[piṣ] P. 'to grind.'
 
 Present. Imperfect.
 
 @line:
+
 1. pinaṣmi pinaṣvaḥ pinaṣmaḥ apinaṣam apinaṣva apinaṣma
 2. pinakṣi pinaṣṭhaḥ pinaṣṭha apinakṣaḥ apinaṣṭam apinaṣṭa
 3. pinaṣṭi pinaṣṭaḥ pinanti apinaṭ apinaṣṭām apinaṣan
-:@
+   :@
 
 imperative. Potential.
 
 @line:
+
 1. pinaṣāni pinaṣāva pinaṣāma piṣyām piṣyāva piṣyāma
 2. pinaḍḍhi pinaṣṭam pinaṣṭa piṣyāḥ piṣyātam piṣyāta
 3. pinaṣṭu pinaṣṭām pinantu piṣyāt piṣyātām piṣyuḥ
-:@
+   :@
 
 @[riṣ] 'to distinguish' should be similarly conjugated.
 
@@ -7675,10 +8068,11 @@ imperative. Potential.
 Present.
 
 @line:
+
 1. yunajmi yuñjvaḥ yuñjmaḥ yuñje yuñjvahe yuñjmahe
 2. yunakṣi yuṅkthaḥ yuṅktha yuṅkṣe yuñjāthe yuṅgdhve
 3. yunakti yuṅktaḥ yuñjanti yuṅkte yuñjāte yuñjate
-:@
+   :@
 
 Imperfect.
 
@@ -7759,7 +8153,7 @@ Potential.
 2. @[रुन्ध्याः] @[रुन्ध्यातम्] @[रुन्ध्यात] @[रुन्धीथाः] @[रुन्धीयाथाम्] @[रुन्धीध्वम्]
 3. @[रुन्ध्यात्] @[रुन्ध्यातम्] @[रुन्ध्युः] @[रुन्धीत] @[रुन्धीयाताम्] @[रुन्धीरन्]
 
-* Or @[रुन्धः] &c.; see note * p. 290.
+- Or @[रुन्धः] &c.; see note \* p. 290.
 
 Present. Imperfect.
 
@@ -7774,7 +8168,9 @@ imperative. Potential.
 3. @[hinastu] @[hinastām] @[hiṃsantu] @[hiṃsyāt] @[hiṃsyātām] @[hiṃsyuḥ]
 
 ### II. GENERAL
+
 OR
+
 ## NON-CONJUGATIONAL TENSES AND MOODS.
 
 #### § 457. In the General Tenses and Moods and in the formation of verbal derivatives generally, the augment @[iṭ] is prefixed (necessarily or optionally) to terminations beginning with any consonant except @[y] in the case of certain roots. Such roots as take the augment @[iṭ] necessarily are called @[seṭ] (@[sa] + @[iṭ] i. e. with @[iṭ]); such as take it optionally are called @[veṭ] (@[vā] + @[iṭ]), and those that do not, are called @[aniṭ] (@[a] + @[iṭ] i. e. without @[iṭ]).
@@ -7819,7 +8215,7 @@ The first line gives the ending consonants and thus enables the students to know
 
 #### § 463. Neither @[guṇa] nor @[vṛddhi] is substituted for the vowel of a few roots of the 6th class even before a strong termination except the @[ār] of the 1st and 3rd person sing. of the perfect, the @[āya] of the causal and the @[i] of the 3rd pers. sing. of the passive
 
-* These couplets as well as those bearing on the 2nd variety of the aorist are composed by Mr. @[Chintāmaṇa] @[Ātmārām] Kelkar, the present learned @[Śāstri] at the Poona Training College.
+- These couplets as well as those bearing on the 2nd variety of the aorist are composed by Mr. @[Chintāmaṇa] @[Ātmārām] Kelkar, the present learned @[Śāstri] at the Poona Training College.
 
 ---
 
@@ -7844,28 +8240,32 @@ Also called Periphrastic Future.
 Parasm. Atm.
 
 @line:
+
 1. tāsmi tāsvaḥ tāsmaḥ 1. tāhe tāsvahe tāsmahe
 2. tāsi tāsthaḥ tāstha 2. tāse tāsāthe tādhve
 3. tā tārau tāraḥ 3. tā tārau tāraḥ
-:@
+   :@
 
 #### § 469. To these terminations the augment @[i] is prefixed in the
 
-* The forms of the First Future may be derived by adding to the Nom. sing. of the noun of agency derived with the affix @[tṛ] the forms of the Present Tense of the root @[as] 'to be' in the 1st and 2nd persons. The forms of the Nom. are the forms of the 3rd pers.
+- The forms of the First Future may be derived by adding to the Nom. sing. of the noun of agency derived with the affix @[tṛ] the forms of the Present Tense of the root @[as] 'to be' in the 1st and 2nd persons. The forms of the Nom. are the forms of the 3rd pers.
 
 case of @[seṭ] roots, optionally in the case of @[veṭ] roots, and not fixed at all in that of @[aniṭ] roots.
 
 #### § 470. All these terminations are strong. The final vowel
+
 and the penultimate short @[a] of a root therefore take their @[guṇa] substitute before these.
 
 #### § 471. @[Aniṭ] roots with a penultimate @[a] change it to @[ī] op-
+
 tionally before a strong termination beginning with any con- sonant except a nasal or a semi-vowel; @[dā] P. A. 'to give &c.',
 
 @line:
+
 1. dātāsmi dātāsvaḥ dātāsmaḥ 1. dātāhe dātāsvahe dātāsmahe
 2. dātāsi dātāsthaḥ dātāstha 2. dātāse dātāsāthe dātādhve
 3. dātā dātārau dātāraḥ 3. dātā dātārau dātāraḥ
-:@
+   :@
 
 @[nī] P. A. 'carry'—@[netāsmi, netāsvaḥ, netāsmaḥ] &c., @[netāhe,
 @[netāsvahe], @[netāsmahe]], &c.
@@ -7877,16 +8277,20 @@ tionally before a strong termination beginning with any con- sonant except a nas
 ## IRREGULAR CASES.
 
 #### § 472. The roots @[i, sah] 'to bear', @[lubh], @[riṣ] and @[ruṣ] admit @[iṭ]
+
 optionally in the First Future; e. g. @[i]—@[etāsmi, eṣyāsmi];
 @[sah]—@[sahitāsmi, soḍhāsmi]; @[lubh]—@[lobhitāsmi, lobdhāsmi]; @[riṣ]—@[reṣitāsmi, rekṣyāsmi]; @[ruṣ]—@[roṣi- tāsmi, rokṣyāsmi].
 
 #### § 473. @[kḷp] is optionally Parasm. in the First Future and
+
 when so it rejects @[iṭ]; @[kalpitāhe, kalptāhe]; @[kalptāsmi] 1 sing. &c.
 
 #### § 474. The augment @[iṭ] added to @[hā] is long in all Non-
+
 conjugational Tenses, except in the perfect; @[hātāsmi] 1 sing.
 
 #### § 475. The intermediate @[i] is optionally lengthened in the
+
 case of @[kṛ] and roots ending in @[ṝ], except in the perfect, the
 
 300 SECOND ATMANE.—[ § 475-480
@@ -7895,10 +8299,12 @@ Second Atm. and the aorist Par.; @[vṛ]—@[varitāsmi, varītāsmi],
 1 sing. @[kṛ]—@[karitāsmi, karītāsmi] 1 sing.
 
 #### § 476. @[n] is inserted before the ending consonant of the root
+
 @[han] before which @[a] is dropped, and after the vowel of @[vac],
 when they are followed by any consonant except a nasal or a semi-vowel; @[han]—@[hantā] &c.; @[vac]—@[vaktā, vakti]. The @[a] of @[vac] is changed to @[u] when not dropped.
 
 #### § 477. @[i] is substituted for @[gam] 1 P. 'to go' necessarily
+
 before any non-conjugational termination, and optionally before such as begin with any consonant except @[y]; @[gantā, gamiṣyati];
 @[gantā, gantāhe] &c.
 
@@ -7907,6 +8313,7 @@ before any non-conjugational termination, and optionally before such as begin wi
 #### § 478. Terminations of the Second Future:—
 
 Parasm. @[Ātmane].
+
 1. @[syāmi syāvaḥ syāmaḥ] 1. @[sye syāvahe syāmahe]
 2. @[syasi syathaḥ syatha] 2. @[syase syethe syadhve]
 3. @[syati syataḥ syanti] 3. @[syate syete syante]
@@ -7918,9 +8325,10 @@ Parasm. @[Ātmane].
 3. @[asyat asyatām asyan] 3. @[asyata asyetām asyanta]
 
 #### § 480. @[t] is substituted for the ending @[d] of a root when fol-
+
 lowed by any non-conjugational termination beginning with @[s].
 
-* These terminations, it will be seen, are obtained by adding those of the Present to @[sya] with its @[a] lengthened before initial @[m] and @[v], and dropped before a vowel.
+- These terminations, it will be seen, are obtained by adding those of the Present to @[sya] with its @[a] lengthened before initial @[m] and @[v], and dropped before a vowel.
 
 † These are obtained similarly by adding the terminations of the Imperfect to @[sya] the usual rules of @[sandhi] being observed.
 
@@ -7957,7 +8365,7 @@ Paradigms.
 1. अध्यैष्ये अध्यैष्यावहि अध्यैष्यामहि
 2. अध्यैष्यथाः अध्यैष्येथाम् अध्यैष्यध्वम् 3. अध्यैष्यत अध्यैष्येताम् अध्यैष्यन्त
 
-1. अध्यगीष्ये अध्यगीष्यावहि अध्यगीष्यामहि 2. अध्यगीष्यथाः अध्यगीष्येथाम् अध्यगीष्यध्वम् 3. अध्यगीष्यत अध्यगीष्येताम् अध्यगीष्यन्त
+3. अध्यगीष्ये अध्यगीष्यावहि अध्यगीष्यामहि 2. अध्यगीष्यथाः अध्यगीष्येथाम् अध्यगीष्यध्वम् 3. अध्यगीष्यत अध्यगीष्येताम् अध्यगीष्यन्त
 
 #### § 487. We give below the first pers. sing. of some of the roots of more difficult conjugation. The student should find out the various rules by which he should arrive at them.
 
@@ -7981,7 +8389,7 @@ Roots. 1st Future. 2nd Future. conditional.
 
 Roots 1st Future. 2nd Future. conditional.
 @[वस्] to dwell @[वस्तास्मि] @[वत्स्यामि] @[अवत्स्यम्] @[दह्] @[दग्धास्मि] @[धक्ष्यामि] @[अधक्ष्यम्]
-@[नह्] @[नद्धास्मि] @[नत्स्यामि] @[अनत्स्यम्] @[बध्] @[बद्धास्मि]* @[वत्स्यामि] @[अवत्स्यम्]
+@[नह्] @[नद्धास्मि] @[नत्स्यामि] @[अनत्स्यम्] @[बध्] @[बद्धास्मि]\* @[वत्स्यामि] @[अवत्स्यम्]
 
 Weak roots:—
 @[भञ्ज्] @[अञ्जितास्मि] @[अञ्जिष्यामि] @[आञ्जिष्यम्] @[अङ्क्] @[अङ्क्तास्मि] @[अङ्क्ष्यामि] @[आङ्क्ष्यम्]
@@ -7995,7 +8403,7 @@ Weak roots:—
 @[गुह्] @[गूढास्मि] @[गूह्यामि] @[अगूह्यम्] @[तक्ष्] @[तक्षितास्मि] @[तक्षिष्यामि] @[अतक्षिष्यम्]
 @[तक्ष्] @[तष्टास्मि] @[तक्ष्यामि] @[अतक्ष्यम्]
 
-* For the change of @[अ] to @[ओ] in this and in @[मोक्तास्मि] see ft.-note p. 317.
+- For the change of @[अ] to @[ओ] in this and in @[मोक्तास्मि] see ft.-note p. 317.
 
 **§ 487 | CONJUGATION OF VERBS. 305**
 
@@ -8024,8 +8432,8 @@ Weak roots:—
 | @[lā] | लातितास्मि @[lātitāsmi], लातास्मि @[lātāsmi] | लेष्यामि @[leṣyāmi], लास्यामि @[lāsyāmi] | अलेष्यम्‌ @[aleṣyam], अलास्यम्‌ @[alāsyam] |
 | @[cart] | चर्तितास्मि @[cartitāsmi] | चर्तिष्यामि @[cartiṣyāmi], चत्स्यामि @[catsyāmi] | अचर्तिष्यम्‌ @[acartiṣyam], अचत्स्यम्‌ @[acatsyam] |
 
-* See ft. note p. 320. † See ft. note p. 323. ‡ @[svar] is set in the 2nd Fut. and the Condi.
-H. S. G. 20.
+- See ft. note p. 320. † See ft. note p. 323. ‡ @[svar] is set in the 2nd Fut. and the Condi.
+  H. S. G. 20.
 
 ---
 
@@ -8070,9 +8478,11 @@ Terminations.—
 2.@[अथुम्‌] @[अथे] @[अथे] 3@[आ] 3.@[अ] @[अतुस्‌] @[उस्‌] @[ए] @[अति] @[इरे]
 
 #### § 494. The @[parasmaipada] singular terminations are strong;
+
 the rest weak. Before the strong terminations the penultimate short vowel takes its @[guṇa] substitute. The final vowel and penultimate @[अ] take @[vṛddhi] necessarily in the third and optionally in the first person singular. In the 2nd person singular the final vowel takes @[guṇa] and the penultimate @[अ] remains unchanged.
 
 #### § 495. Special rules about the admission of the intermedi-
+
 ate @[इ] before the terminations @[च], @[म], @[थ], @[से], @[वहे], @[महे], @[ध्वे]; see (§ 457).
 
 (@[a]) All roots, whether set or anit, except @[ह], @[वा], @[म्ना], @[मा], @[स्तु],
@@ -8083,33 +8493,40 @@ ate @[इ] before the terminations @[च], @[म], @[थ], @[से], @[वह�
 (@[c]) Anit roots with a final vowel or with a penultimate @[अ] admit it optionally before @[य].
 
 #### § 496. When initial @[इ] or @[उ] of a root takes @[guṇa] or @[vṛddhi]
+
 substitute, the reduplicative @[इ] or @[उ] is changed to @[इय्‌] or @[उव्‌];
 otherwise the two vowels combine to form long @[इ] or @[उ]; as @[इएष + अ = इयेष], @[उओस्व + अ = उवोष]; etc.
 
 #### § 497. The final @[उ], short or long, is changed to @[अव्‌] before a
+
 vowel weak termination and @[इ] to @[अय्‌] or @[याय्‌] as it is preceded by a conjunct consonant or not; as @[दुधू + इव = दुधुविव] 1 dual; @[निनी + इव = निन्य + इव = निन्विव]. @[चिकित् + इत्र = चिकित्रियिर], etc.
 
 ---
 
 #### § 498. Roots ending in @[आ] take @[औ] instead of @[आ] in the 1st
+
 and 3rd per. sing. and drop their final @[आ] before vowel weak terminations, and before such @[आ] take the augment @[इ]; as @[ददौ],
 @[दधौ], @[ददिम] 1st Per. @[ददाथ], @[ददिथ] 2. Per. sing. of @[दा].
 
 #### § 499. @[guṇa] is substituted for the final vowel of roots end-
+
 ing in @[अ] preceded by a conjunct consonant, and in long @[ऋ] and of the roots @[हृ], @[ऋच्छ्‌] and @[स्मृ]; as @[सस्मरिव] 1 dual of @[स्मृ], etc.
 @[जु] and @[श्रु] optionally take the @[guṇa] substitute before the weak terminations, and shorten their vowel when they do not;
 as @[जुजुविव], @[जुजुविव]; 1 dual of @[जु], etc.
 
 #### § 500. Monosyllabic roots, having a short @[अ] for their
+
 penultimate, change it to @[ए] and drop the reduplicative syllable before the weak terminations and before @[थ] when it takes @[इ],
 provided their initial letter undergoes no change in the reduplication, e. g. @[पत्‌] 1st dual @[पपत्‌ + इव = पेत्‌ + इव = पेतिव], @[पेतिथ] 2 sing, etc. @[शक्रिथ] 2. sing. of @[क्रम्], but @[नन्दिथ] 2nd dual of @[नद्] as the @[अ] here is prosodially long.
 
 Exceptions:—Roots beginning with @[य] and the roots @[स्वप्] and @[वच्].
 
 #### § 501. @[अ] is inserted after the reduplicative syllable in the
+
 case of roots beginning with @[अ] and ending in a conjunct consonant and in that of @[व्यध्] 'to pervade' and @[ऋच्छ] 'to go.' The reduplicative @[अ] is changed to @[आ]; @[अअञ्ज्‌ - अअञ्ज्‌ + अ = आ + अ + अञ्ज्‌ + अ = आनञ्ज्‌ + अ = आनञ्ज]; similarly @[आनञ्ज] 1 sing. of @[अञ्ज्], @[आनद्] of @[अन्द्], etc.
 
 #### § 502. The change of a semi-vowel to its corresponding
+
 vowel is called Samprasarana. Samprasarana generally takes place before weak terminations in the case of the following roots—@[वच्‌], @[वद्], @[वप्‌], @[वह], @[वस्‌] 'to dwell,' @[स्वप्], @[यज्], @[वज्], @[वध्], @[स्वप्‌],
 @[ज्या], @[व्यध्‌], @[व्ये], @[प्रच्छ्‌], @[ब्रज्‌], @[भ्रस्ज्‌], @[अह्‌] and @[व्यध्‌]. In the case of the perfect the roots @[वेव्], @[व्रश्च्] and @[व्येध्] form an exception.
 
@@ -8124,22 +8541,24 @@ vowel is called Samprasarana. Samprasarana generally takes place before weak ter
 @[kṛ] P. A. 'to do'
 
 @line:
+
 1. cakāra, cakara cakṛva cakṛma cakre cakṛvahe cakṛmahe
 2. cakartha cakrathāḥ cakra cakṛṣe cakrāthe cakṛdhve
 3. cakāra cakratuḥ cakruḥ cakre cakrāte cakrire
-:@
+   :@
 
 Conjugate similarly @[hṛ], @[gṛ], and @[vṛ] except in the 2nd per. sing. which is @[vavartha].
 
-But @[kṛ] with @[sam]*
+But @[kṛ] with @[sam]\*
 
 @line:
+
 1. saṃscakāra, saṃskarива saṃskarima saṃskare saṃskarivahe saṃskarimahe
 2. saṃskaritha saṃskarathāḥ saṃskara saṃskariṣe saṃskarāthe saṃskaridhve
 3. saṃskarāra saṃskaratuḥ saṃskakṛuḥ saṃskare saṃskarāte saṃskarire
-:@
+   :@
 
-* @[saṃskaroti] @[bhūṣaṇe]. @[sam] @[ca]. @[upāt pratiyatnataḥ ṛtavākyā āhareṣu ca]
+- @[saṃskaroti] @[bhūṣaṇe]. @[sam] @[ca]. @[upāt pratiyatnataḥ ṛtavākyā āhareṣu ca]
 
 Pan. VI. 1. 137—139. @[s] is prefixed to the root @[kṛ] after the prepositions @[sam] and @[nis] when it means to ornament or collect together; and after the preposition @[upa] in the above sense, as well as in the senses of 'imparting an additional quality to a thing without destroying the thing itself (@[sato guṇāntarādhānaṃ pratiyatnaḥ] Kas. on Pan. III. 3, 53.) or preparing as food, or supplying what is implied.'
 
@@ -8154,10 +8573,11 @@ When the intermediate @[i] is added, this change is optional, if the @[i] be pre
 @[vṛ] A.
 
 @line:
+
 1. vavāra vavṛva vavṛma vavre vavṛvahe vavṛmahe
 2. vavṛtha vavṛathāḥ vavṛa vavṛṣe vavrāthe vavṛdhve
 3. vavāra vavṛatuḥ vavṛuḥ vavre vavrāte vavrire
-:@
+   :@
 
 Conjugate similarly @[tṛ], @[spṛ], @[dṛ].
 
@@ -8176,10 +8596,11 @@ Conjugate similarly @[tṛ], @[spṛ], @[dṛ].
 @[dṛ] P. 'to tear,' etc. @[śṛ] P. 'to sharpen.'
 
 @line:
+
 1. dadāra dadariva dadarima 1. cuśāra cuśarva cuśarima
 2. dadaritha dadarathāḥ dadara 2. cuśaritha cuśarathāḥ cuśara
 3. dadāra dadaratuḥ dadaruḥ 3. cuśāra cuśaratuḥ cuśaruḥ
-:@
+   :@
 
 @[dhṛ], @[bhṛ], @[mṛ], @[smṛ] are similarly conjugated—@[dadhāra], @[dadhara] etc.
 
@@ -8188,10 +8609,11 @@ Conjugate similarly @[pṛ] and @[tṛ].
 @[ru] P. A. 'to warble, to go,' etc.
 
 @line:
+
 1. rurāva rurūva rurūvima 1. rurūve rurūvivahe rurūvimahe
 2. rurāvitha rurūvathāḥ rurūva 2. rurūviṣe rurūvāthe rurūvidhve
 3. rurāva rurūvatuḥ rurūvuḥ 3. rurūve rurūvāte rurūvire
-:@
+   :@
 
 Conjugate similarly @[stu] P. @[snu] P.
 
@@ -8359,7 +8781,7 @@ Conjugate @[mad] A. @[sad] P. @[svap] P., A. @[yam] P., @[labh] A., @[kṣam] A.
 @[vam] P. 'to vomit.' @[dā] A. 'to give.' 1 @[vavāma-vavama] @[vavamivaḥ] @[vavamima] 1 @[dadade] @[dadadivahe] @[dadadimahe] 2 @[vavamitha] @[vavamathuḥ] @[vavama] 2 @[dadadiṣe] @[dadadāthe] @[dadadiṣve]
 3 @[vavāma] @[vavamatuḥ] @[vavamuḥ] 3 @[dadade] @[dadadāte] @[dadadire]
 
-@[kuṭ] 6. P. 'to be crooked.' @[sphur] 6. P. 'to flash forth.' 'to cheat.' 'to throb.' 1 @[cukoṭa, cukuṭa]* @[cukuṭivaḥ] @[cukuṭima] 1 @[pusphora] @[pusphurīvaḥ] @[pusphurima] 2 @[cukuṭitha] @[cukuṭathuḥ] @[cukuṭa] 2 @[pusphuritha] @[pusphurathuḥ] @[pusphura]
+@[kuṭ] 6. P. 'to be crooked.' @[sphur] 6. P. 'to flash forth.' 'to cheat.' 'to throb.' 1 @[cukoṭa, cukuṭa]\* @[cukuṭivaḥ] @[cukuṭima] 1 @[pusphora] @[pusphurīvaḥ] @[pusphurima] 2 @[cukuṭitha] @[cukuṭathuḥ] @[cukuṭa] 2 @[pusphuritha] @[pusphurathuḥ] @[pusphura]
 3 @[cukoṭa] @[cukuṭatuḥ] @[cukuṭuḥ] 3 @[pusphora] @[pusphurathuḥ] @[pusphuruḥ]
 
 #### § 506. Roots taking @[saṃprasāraṇa] (regular and irregular)—
@@ -8373,7 +8795,7 @@ Conjugate @[mad] A. @[sad] P. @[svap] P., A. @[yam] P., @[labh] A., @[kṣam] A.
 
 @[vac] † 1. 2. P. 'to speak.' @[vas] 1. P. 'to dwell.' 1 @[uvāca, uvaca, ūca] @[ūcivaḥ] @[ūcima] 1 @[uvāsa-uvasa] @[ūṣivaḥ] @[ūṣima]
 
-* Roots of the @[kuṭādi] class (see § 463) retain their vowel unchanged optionally in the 1st pers. sing. of the Perf.; @[juhava], @[junava] 1st sing.
+- Roots of the @[kuṭādi] class (see § 463) retain their vowel unchanged optionally in the 1st pers. sing. of the Perf.; @[juhava], @[junava] 1st sing.
 
 † @[ūc] as a substitute for @[vac] may also be conjugated in At. 1. 3. @[ūce], @[ūcire], @[ūcimahe], 1 Per &c.
 
@@ -8391,7 +8813,7 @@ Conjugate @[mad] A. @[sad] P. @[svap] P., A. @[yam] P., @[labh] A., @[kṣam] A.
 
 @:
 1 uvāha-uvaha ūhiva ūhima 1 ūhe ūhivahe ūhimahe
-2 uvahitha uvoḍha* ūhatuḥ ūha 2 ūhiṣe ūḍhve ūhiṣve-ḍhe
+2 uvahitha uvoḍha\* ūhatuḥ ūha 2 ūhiṣe ūḍhve ūhiṣve-ḍhe
 3 uvāha ūhatuḥ ūhuḥ 3 ūhe ūhāte ūhire
 :@
 
@@ -8412,7 +8834,7 @@ Conjugate @[mad] A. @[sad] P. @[svap] P., A. @[yam] P., @[labh] A., @[kṣam] A.
 
 1 @[uvāśa]-@[uvaśca] @[ūśiva] @[ūśima] 1 @[vivyāca] @[viviciva] @[vivicima] @[vivyac]
 
-*When the @[ḍha] substituted for the @[ha] of the root @[vah] and @[vad] is dropped, the preceding @[a] is changed to @[o] and not to @[ā]:
+\*When the @[ḍha] substituted for the @[ha] of the root @[vah] and @[vad] is dropped, the preceding @[a] is changed to @[o] and not to @[ā]:
 @[vavadha] + @[tha] = @[uvada] + @[tha] = @[uvad] + @[dha], by § 416, 3, 4 = @[uvad] + @[a] = @[uvoḍha].
 
 2 @[uvaśitha] @[ūśathuḥ] @[ūśa] 2 @[vivyacitha] @[vivicathuḥ] @[vivica] 3 @[uvāśa] @[ūśatuḥ] @[ūśuḥ] 3 @[vivyāca] @[vivicatuḥ] @[vivicuḥ]
@@ -8430,7 +8852,7 @@ Conjugate @[mad] A. @[sad] P. @[svap] P., A. @[yam] P., @[labh] A., @[kṣam] A.
 1 @[vivyādha]-@[vivyadha] @[vividhiva] @[vividhima] 2 @[vividhitha] @[vividhathuḥ] @[vividha]
 3 @[vivyādha] @[vividhatuḥ] @[vividhuḥ]
 
-@[śvi]* 1. P. 'to swell.'
+@[śvi]\* 1. P. 'to swell.'
 
 @:
 1 śiśvāya śiśvaya śiśviyiva śiśviyima
@@ -8448,7 +8870,7 @@ Conjugate @[mad] A. @[sad] P. @[svap] P., A. @[yam] P., @[labh] A., @[kṣam] A.
 
 1 @[uvāya] @[ūyiva] @[ūyima] 1 @[ūye] @[ūyivahe] @[ūyimahe] @[uvaya] @[ūviva] @[ūvima] @[ūve] @[ūvivahe] @[ūvimahe]
 
-*@[śvi] is to be optionally considered as @[śū] in the perfect.
+\*@[śvi] is to be optionally considered as @[śū] in the perfect.
 †@[vā] optionally assumes the form @[vāy] before the strong, and @[ūy] or @[ūv] before the weak terminations of the perfect.
 
 @[vye] P. A.
@@ -8474,7 +8896,7 @@ Conjugate @[mad] A. @[sad] P. @[svap] P., A. @[yam] P., @[labh] A., @[kṣam] A.
 
 @[śvaś] is similarly conjugated.
 
-* @[vye] becomes @[vibhyay] before strong terminations and @[bibhī] before the weak ones in the Perf. † @[bhī] is to be considered as @[ghu] in the Perf.
+- @[vye] becomes @[vibhyay] before strong terminations and @[bibhī] before the weak ones in the Perf. † @[bhī] is to be considered as @[ghu] in the Perf.
 
 @[mṛj] 1. 2. P. 'to purify.' @[añj] 7. P. 'to anoint.'
 
@@ -8484,7 +8906,7 @@ Conjugate @[mad] A. @[sad] P. @[svap] P., A. @[yam] P., @[labh] A., @[kṣam] A.
 
 1 चिकिदिव चिकिद चिकिदिम 1 सस्यन्दे सस्यन्दिवहे सस्यन्दिमहे सस्यन्द्वहे सस्यन्द्महे 2 चिकिदिथ चिकिदथुः चिकिद 2 सस्यन्दिषे सस्यन्दाथे सस्यन्दिध्वे चित्य सस्यन्द्से सस्यन्द्ध्वे 3 चिकिद चिकिदतुः चिकिदुः 3 सस्यन्दे सस्यन्दाते सस्यन्दिरे
 
-@[radh]* 4. P. 'to destroy.' @[sidh] 1. P.
+@[radh]\* 4. P. 'to destroy.' @[sidh] 1. P.
 
 1 रराधिव रराध रराधिम 1 सिषेधिव सिषिधिव सिषिधिम रराद्व रराद्म सिषध्व सिषध्म 2 रराधिथ रराधथुः रराध 2 सिषेधिथ सिषिधथुः सिषिध ररद्ध सिषद्ध 3 रराध रराधतुः रराधुः 3 सिषेध सिषिधतुः सिषिधुः
 
@@ -8494,7 +8916,7 @@ Conjugate @[mad] A. @[sad] P. @[svap] P., A. @[yam] P., @[labh] A., @[kṣam] A.
 
 @[gṛdh] is similarly conjugated.
 
-* @[syand] and @[grah] insert a nasal when their final is followed by a vowel. @[radh], however, does not do it in the aorist or when it takes @[iṭ], except in the Perf. † See § 471.
+- @[syand] and @[grah] insert a nasal when their final is followed by a vowel. @[radh], however, does not do it in the aorist or when it takes @[iṭ], except in the Perf. † See § 471.
 
 @[trap] 1. A. 'to be ashamed.' @[kṣam] 4. P. 'to forgive.' 1 @[trapē] @[trapivahe] @[trapimahē] 1 @[cakṣāma] @[cakṣiva] @[cakṣima] @[trapsvahe] @[trapmahē] @[cakṣa] @[cakṣa] @[cakṣa]
 2 @[trapiṣē] @[trapāthē] @[trapidhvē] 2 @[cakṣamiṭha] @[cakṣamathūḥ] @[cakṣama] @[trapsē] @[trapadhvē] @[cakṣanṭha]
@@ -8523,9 +8945,9 @@ ciśitsē nanaśṭha
 
 @[gam] 'to go' and @[grah] 'to seize' should be similarly conjugated.
 
-* See § 512.
-† Roots ending in @[m] change to @[n] when followed by @[ṣ] or @[ḍh].
-‡ See § 476.
+- See § 512.
+  † Roots ending in @[m] change to @[n] when followed by @[ṣ] or @[ḍh].
+  ‡ See § 476.
 
 ---
 
@@ -8557,7 +8979,7 @@ juguhsē juguḍḍhē
 
 @[duh] 4. P. 'to bear malice.' @[tṛp] 6. P. 'to hurt, to kill.' 1 @[dudoha] @[duduhiva] @[duduhima] 1 @[tatrāpa] @[tatṛpiva] @[tatṛpima] @[duduhva] @[dudoha] @[tatṛpva] @[tatrāpa]
 
-* When @[ḍh] or @[ṭh] is dropped, the preceding @[a], @[i] or @[u] is lengthened.
+- When @[ḍh] or @[ṭh] is dropped, the preceding @[a], @[i] or @[u] is lengthened.
 
 @[duh] 1. P. 'to milk.' @[vah] 1. U. 'to carry.'
 
@@ -8596,7 +9018,7 @@ siṣṇihe siṣṇihivahe siṣṇihmhe
 2 @[sasvaṅktha] @[sasvajathuh] @[sasvaña] 2 @[dadastha] @[dadasmathuh] @[dadasma] @[sasvañjiṣe] @[sasvajāthe] @[sasvañḍḍhe] @[dadaśiṣe] @[dadaśāthe] @[dadaḍḍhe]
 3 @[sasvañ] @[sasvajathuh] @[sasvajuh] 3 @[dadasma] @[dadasmathuh] @[dadasmuh] @[sasvañje] @[sasvajāte] @[sasvajire] @[dadaśe] @[dadaśāte] @[dadaśire]
 
-* The @[a] of the roots @[man], @[han], @[jan], @[khan] and @[ghas] is changed to @[i] when followed by any consonant except a nasal or a semi-vowel or by nothing.
+- The @[a] of the roots @[man], @[han], @[jan], @[khan] and @[ghas] is changed to @[i] when followed by any consonant except a nasal or a semi-vowel or by nothing.
 
 @[dam] @[svañj] A.
 
@@ -8734,7 +9156,7 @@ cicicitha—ciciṣṭha cicyathuḥ cicya
 3 ādāt ādatuḥ āduḥ
 :@
 
-@[maṃs].*
+@[maṃs].\*
 1 @[mamada] @[mamadiva] @[mamadima] 2 @[mamaditha], @[mamaṅktha] @[mamadathuḥ] @[mamada]
 3 @[mamada] @[mamadatuḥ] @[mamaduḥ]
 
@@ -8753,7 +9175,7 @@ For the forms see p. 311.
 
 #### § 518. @[ūh] forms its base as @[ūnuh]. Its vowel is optionally not guṇated before a strong termination when it takes @[a].
 
-*See § 476. †See § 477.
+\*See § 476. †See § 477.
 
 Par.
 @:
@@ -8894,6 +9316,7 @@ freq.—दिदोहे, or दोहायांचक्रे, &c. 1 sing.
 (5) THE AORIST @[luṅ].
 
 #### § 529. There are seven Varieties or Forms of the aorist.
+
 The augment @[a] is prefixed to the root as in the Imperfect
 
 First Variety or Form.
@@ -8916,8 +9339,7 @@ Paradigms.
 
 1-अस्थाम्‌ अस्थाव अस्थाम 1-अकाम असाव असाम
 
-@[अस्याः] @[अस्थाताम्] @[अस्थात] 2. @[असाः] @[अस्थाताम्] @[अस्थात्]
-3. @[अस्थात्] @[अस्थाताम्] @[अस्थुः] 3. @[अस्थात] @[अस्थाताम्] @[अस्थुः]
+@[अस्याः] @[अस्थाताम्] @[अस्थात] 2. @[असाः] @[अस्थाताम्] @[अस्थात्] 3. @[अस्थात्] @[अस्थाताम्] @[अस्थुः] 3. @[अस्थात] @[अस्थाताम्] @[अस्थुः]
 
 #### § 534. @[शू] takes @[अन्] instead of @[उः] in the 3rd per. pl. and changes its vowel to @[उ] before the vowel terminations; e. g., @[अभूवम्], @[अभूव], @[अभूत] 1st pers; @[अभूः], @[अभूताम्], @[अभूवन्] 2nd per. &c.
 
@@ -8930,6 +9352,7 @@ Second Variety or Form.
 #### § 537. In this Variety @[अ] is added on to the root and then the terminations of the Imperf. of the first group of conjugational classes are added; viz.
 
 Par. Atm.
+
 1. @[अम्] @[व] @[म] 1. @[इ] @[वहि] @[महि]
 2. @[स्] @[तम्] @[त] 2. @[थास्] @[आथाम्] @[ध्वम्]
 3. @[त्] @[ताम्] @[अन्] 3. @[त] @[आताम्] @[अन्त]
@@ -8986,7 +9409,7 @@ Par. Atm.
 1 @[alipam] @[alipāva] @[alipāma] 1 @[alipe] @[alipāvahi] @[alipāmahi] 2 @[alipaḥ] @[alipatam] @[alipata] 2 @[alipathāḥ] @[alipethām] @[alipadhvam]
 3 @[alipat] @[alipatām] @[alipan] 3 @[alipata] @[alipetām] @[alipanta]
 
-* @[śap], (@[vac] and @[yaj]) (also take the Fourth Variety in the Atm.) @[aśapat], @[āśapta] etc.
+- @[śap], (@[vac] and @[yaj]) (also take the Fourth Variety in the Atm.) @[aśapat], @[āśapta] etc.
 
 @[sthā] 4. P. A. with @[pari].
 
@@ -8999,7 +9422,7 @@ Par. Atm.
 We give here the 3rd per. sing. of the rest.
 
 Roots. Roots.
-@[śāṅ]* (5. 4. P. A.) @[āśāṅṣīt] @[subh]—@[aśubhat] @[uc] 4. P. 'to collect.'—@[ocat] @[sidh]—@[asidhyat]
+@[śāṅ]\* (5. 4. P. A.) @[āśāṅṣīt] @[subh]—@[aśubhat] @[uc] 4. P. 'to collect.'—@[ocat] @[sidh]—@[asidhyat]
 @[añc]—@[añcat] @[āp]—@[āpat]
 @[chad] 4. A. 'to wallow.'—@[achadat] @[vṛ]—@[avrat] @[vas]—@[āvasat] @[diś]—4. P. 'to be consumed.'—@[adiśyat]
 @[vid] 4. A. 'to be wet.'—@[avedyat] @[kṣip]—4. P. 'to throw'—@[akṣipyat] @[svid] 4. P. 'to be oily.'—@[asvaidyat] @[yup]—@[ayupat]
@@ -9012,7 +9435,7 @@ to find.'—@[avidat] FINITE.
 @[kṣudh]—@[akṣudhat] @[tam]—@[atamat] @[gādh] 4. P. 'to covet'—@[agādhat] @[dam]—@[adamat]
 @[rudh] 4. P. 'to hurt'—@[arudhat] @[ram]—@[aramat]
 
-* @[śap] 4. A. takes the Fourth, as well as the Fifth Variety in the Atm. @[aśakat], @[aśakiṣṭa] 3rd sing.
+- @[śap] 4. A. takes the Fourth, as well as the Fifth Variety in the Atm. @[aśakat], @[aśakiṣṭa] 3rd sing.
 
 † @[vid] A. takes the Fourth or Fifth Variety, @[avitat], @[avediṣṭa] 3rd sing.
 
@@ -9029,15 +9452,15 @@ agitated,'—@[अस्यमत्] @[अघसत्]
 @[पुष्] 1. P. 'to burn'—@[अपुषत्] @[यस्] 4. P. 'to cut'—@[अयसत्] @[रिष्] 4. P. 'to injure, to kill'— @[यस्] 4. P. 'to strive'—@[अयसत्]
 @[अरिषत्] @[बस्]—See @[वस्]
 @[रुष्] 4. P. 'to be angry or vexed' @[विस्]—Same as @[बिस्] —@[अरुषत्] @[व्य] = @[वि], q. v.
-@[विष्]* 3. P. A. 'to spread through' @[शास्]—@[अशिषत्] —@[अविषत्] @[हु]—@[अषुहत्]
+@[विष्]\* 3. P. A. 'to spread through' @[शास्]—@[अशिषत्] —@[अविषत्] @[हु]—@[अषुहत्]
 @[कुष्]—@[अकुषत्] @[मह्]—@[अमष्ठत्] @[न्युष्] 4. P. 'to drip'—@[अन्युषत्] @[निह्]—@[अनिहत्]
 @[शिष्]—@[अशशिषत्] @[स्वञ्ज्]—@[अस्वजत्]
 
 @[§ 543.] The following roots belong to the 2nd Variety optionally; they optionally take the Fourth or Fifth Variety according as they are @[Aṇit] or @[Seṭ].
 @[द्विवचनं प्रस्तुतत्र चतुर्थी पञ्चमी च गुणवचनम् । रिणा वेतेर्निगमतो राध्यंशप्त्वः प्रतिषेधतः ॥ १ ॥] @[नेनेक्ति युनक्ति वेषेकतिस्फुरती रुण्डः । च्युतिजुती श्लथोतिश्च स्त्युतिदान्ता शदादयः ॥ २ ॥]
 
-* @[विषु Atm.] takes the Seventh Variety, @[अविक्षत].
-H. S. G. 22
+- @[विषु Atm.] takes the Seventh Variety, @[अविक्षत].
+  H. S. G. 22
 
 @[भिद्यादा इन्दतिश्च भिन्नतिना । संदिसकन्दौ बोधति वृधतिच्छ्रेयसी शृणु ॥ ३ ॥ स्तभ्नातिः स्तभ्नोतिददी घोषतिश्छिष्यती तथा । दोहतिदोंहतिरुदश्च त्वारिंशदियं गणः ॥ ४ ॥ विमाषया वृत्तौ परस्मैपदिनी यदि ।]
 
@@ -9053,7 +9476,7 @@ Roots. 3rd sing. Optional forms. Roots. 3rd sing. Optional forms @[रि]—@[�
 @[च्युत्]—@[अच्युतत्] @[अच्योत्तीत्] @[अदर्पीत्] @[जुत्]—@[अजुतत्] @[अजोत्तीत्], @[स्तम्भ्]—@[अस्तम्भत्] @[अस्तभ्नीत्]
 @[अजोतिषट]
 
-* @[रि] takes the Third and Fifth Varieties besides the 2nd.
+- @[रि] takes the Third and Fifth Varieties besides the 2nd.
 
 Roots. 3 sing. Optional forms. Roots. 3 sing. Optional forms.
 @:
@@ -9064,6 +9487,7 @@ tud--atudat atodīt
 :@
 
 #### § 544. The following 25 roots, which are all Atmanepadi,
+
 are conjugated in the @[parasmaipada] when they belong to this Variety. In the @[ātmanepada] they take the Fourth or Fifth Variety according as they are Anit or Set.
 
 @[sabhighuṭiṭido loṭilutayutvṛtaḥ |
@@ -9096,9 +9520,11 @@ mid--amidat amediṣṭa tarj--atarjat atarjiṣṭa
 The same as those of the 2nd Variety.
 
 #### § 546. Roots of the tenth class, causals, some derivatives,
+
 the root @[īṣ] and the roots @[bhī], @[vī], and @[hrī] when expressing the agent, take this Variety necessarily, and the roots @[jñā] and @[kr̥] do it optionally.
 
 #### § 547. (a) The root is first reduplicated and then the aug-
+
 ment @[a] and the terminations are added as in the 2nd Variety.
 
 (b) Final @[i] and @[u] are changed to @[iy] and @[uv] before @[a] and final @[ū] is dropped.
@@ -9250,6 +9676,7 @@ take this Variety. @[gṛ] with @[upa] or @[vi], A. and @[ram] A. take the fourt
 @[nam]—@[anaṃsiṣam], @[anaṃsiṣva], @[anaṃsiṣma], &c.; @[nam]—@[anaṃsiṣam], @[anaṃsiṣva], @[anaṃsiṣma], &c.; @[śo]—@[aśāsiṣam], &c.; @[cho]—@[acchāsiṣam], &c.; @[bhī], @[mī]—@[amāsiṣam], @[amāsiṣva], @[amāsiṣma], &c.; @[lī]—@[alāsiṣam], @[alāsiṣva], @[alāsiṣma], &c.
 
 ## SEVENTH VARIETY OF FORM.
+
 (Parasm. and Atm.)
 
 #### § 560. Terminations:—
@@ -9269,20 +9696,20 @@ Par. Atm.
 @[vidh] P. A.
 
 @:
-1 adikṣam      adikṣāva     adikṣāma      1 adikṣi       adikṣāvahi    adikṣāmahi
-2 adikṣaḥ      adikṣatam    adikṣata      2 adikṣathāḥ   adikṣāthām    adikṣaṣvam
-3 adikṣat      adikṣatām    adikṣan       3 adikṣata     adikṣātām     adikṣanta
+1 adikṣam adikṣāva adikṣāma 1 adikṣi adikṣāvahi adikṣāmahi
+2 adikṣaḥ adikṣatam adikṣata 2 adikṣathāḥ adikṣāthām adikṣaṣvam
+3 adikṣat adikṣatām adikṣan 3 adikṣata adikṣātām adikṣanta
 :@
 
 @[dih] P. A.
 
 1 @[adikṣam] @[adikṣāva] @[adikṣāma] 1 @[adikṣi] @[adikṣāvahi] @[adikṣāmahi] @[adihi]
 @:
-2 adikṣaḥ      adikṣatam    adikṣata      2 adikṣathāḥ   adikṣāthām    adikṣaṣvam
-adigdhāḥ      adigḍhvam
-3 adikṣat      adikṣatām    adikṣan       3 adikṣata     adikṣātām     adikṣanta
+2 adikṣaḥ adikṣatam adikṣata 2 adikṣathāḥ adikṣāthām adikṣaṣvam
+adigdhāḥ adigḍhvam
+3 adikṣat adikṣatām adikṣan 3 adikṣata adikṣātām adikṣanta
 :@
- @[adigdha]
+@[adigdha]
 
 @[guh] is to be similarly conjugated.
 
@@ -9290,22 +9717,22 @@ adigdhāḥ      adigḍhvam
 
 1 @[alikṣam] @[alikṣāva] @[alikṣāma] 1 @[alikṣi] @[alikṣāvahi] @[alikṣāmahi] @[alihi]
 @:
-2 alikṣaḥ      alikṣatam    alikṣata      2 alikṣathāḥ   alikṣāthām    alikṣaṣvam
-alīḍhāḥ       alīḍhvam
-3 alikṣat      alikṣatām    alikṣan       3 alikṣata     alikṣātām     alikṣanta
+2 alikṣaḥ alikṣatam alikṣata 2 alikṣathāḥ alikṣāthām alikṣaṣvam
+alīḍhāḥ alīḍhvam
+3 alikṣat alikṣatām alikṣan 3 alikṣata alikṣātām alikṣanta
 alīḍha
 :@
 
-@[gudh]* P. A.
+@[gudh]\* P. A.
 
 @:
-1 aghukṣam     aghukṣāva    aghukṣāma     1 aghukṣi      aghukṣāvahi   aghukṣāmahi
+1 aghukṣam aghukṣāva aghukṣāma 1 aghukṣi aghukṣāvahi aghukṣāmahi
 agūhi
-2 aghukṣaḥ     aghukṣatam   aghukṣata     2 aghukṣathāḥ  aghukṣāthām   aghukṣaṣvam
-agūḍhāḥ       aghūḍhvam
+2 aghukṣaḥ aghukṣatam aghukṣata 2 aghukṣathāḥ aghukṣāthām aghukṣaṣvam
+agūḍhāḥ aghūḍhvam
 :@
 
-* @[guh] being a Vet root optionally takes the Fifth Variety.
+- @[guh] being a Vet root optionally takes the Fifth Variety.
 
 @[muh], @[druh], &c.
 
@@ -9325,7 +9752,7 @@ Roots. 1 sing. Roots 1 sing.
 
 @[grah] @[grah]—अगृहीषि—अगर्हीषि
 
-@[viś]*—अविविक्षम्, अविविक्षम् @[vyadh] > अविविक्षम्
+@[viś]\*—अविविक्षम्, अविविक्षम् @[vyadh] > अविविक्षम्
 
 @[sic]—असिसिक्षम्, असिक्षम् @[mi]—अमिमिक्षम्
 
@@ -9357,7 +9784,7 @@ Parasm. Atm.
 
 #### § 565. (a) Anit roots not belonging to any of the preceding Varieties take this Form. Anit roots that optionally take any of the preceding Varieties and Set roots optionally belong to this Variety.
 
-* Set roots which belong to this Variety, as Anit, optionally take the स्‌ as Set.
+- Set roots which belong to this Variety, as Anit, optionally take the स्‌ as Set.
 
 Exceptions:—
 
@@ -9416,9 +9843,9 @@ Conjugate similarly @[चि], @[नी], @[ली], &c.; @[श्रु], @[य
 
 1 @[अधृषि] @[अधृष्वहि] @[अधृष्महि] 1 @[अक्रेषम्‌] @[अक्रेष्वहि] @[अक्रेष्म] @[अक्राक्षम्‌] @[अक्राक्ष्वहि] @[अक्राक्ष्म]
 
-* Vide § 465.
-† Also take the 6th Variety when it substitutes @[इय्‌] for its final.
-‡ @[सृ], @[स्पृ] and @[मृज्‌] also take the 7th Variety; @[तृप्‌] &c. @[स्पृश्‌] take the 2nd and 5th besides this.
+- Vide § 465.
+  † Also take the 6th Variety when it substitutes @[इय्‌] for its final.
+  ‡ @[सृ], @[स्पृ] and @[मृज्‌] also take the 7th Variety; @[तृप्‌] &c. @[स्पृश्‌] take the 2nd and 5th besides this.
 
 2 @[अधृषाः] @[अधृषाथाम्‌] @[अधृषध्वम्‌] 2 @[अक्रेषीः] @[अक्रेष्टम्‌] @[अक्रेष्ट] @[अक्राक्षीः] @[अक्राष्टम्‌] @[अक्राष्ट]
 3 @[अधृष्ट] @[अधृषाताम्‌] @[अधृषत] 3 @[अक्रेषीत्‌] @[अक्रेष्टाम्‌] @[अक्रेषुः] @[अक्राक्षीत्‌] @[अक्राष्टाम्‌] @[अक्राक्षुः]
@@ -9430,7 +9857,7 @@ Conjugate similarly @[चि], @[नी], @[ली], &c.; @[श्रु], @[य
 3 @[अमृक्षात्‌] @[अमृक्षाताम्‌] @[अमृक्षत] @[स्पृश्‌]-@[अस्पार्क्षम्‌], @[अस्पृक्षीत्‌]; &c.
 @[मृश्‌]-@[अमार्ष्टम्‌], @[अमृशत्‌]; &c.
 
-* @[वस्‌] 1 P.
+- @[वस्‌] 1 P.
 
 1 @[अवात्सम्‌] @[अवात्स्वहि] @[अवात्स्म] 2 @[अवात्सीः] @[अवत्तम्‌] @[अवत्त]
 3 @[अवात्सीत्‌] @[अवत्ताम्‌] @[अवात्सुः]
@@ -9447,8 +9874,8 @@ Conjugate similarly @[चि], @[नी], @[ली], &c.; @[श्रु], @[य
 
 @[गाध्‌] to be similarly conjugated @[प्रयछ्‌] @[अप्राङ्क्तम्‌] 1 sing. &c.
 
-* Vide § 480. @[अवात्‌] + @[स्नाम्‌] = @[अवात्सम्‌] + @[स्नाः] = @[अवात्साः] &c [dus]. @[वस्‌] 3. takes the 5th Variety since it is @[सेट्‌].
-† Also takes the 5th Variety.
+- Vide § 480. @[अवात्‌] + @[स्नाम्‌] = @[अवात्सम्‌] + @[स्नाः] = @[अवात्साः] &c [dus]. @[वस्‌] 3. takes the 5th Variety since it is @[सेट्‌].
+  † Also takes the 5th Variety.
 
 Irregular aorist or the Fourth Form.
 
@@ -9498,7 +9925,7 @@ Paradigms.
 1 @[apatsi] @[apatsvahi] @[apatsmahi] 2 @[apatthāḥ] @[apatsāthām] @[apadhvam]
 3 @[apādi] @[apatsātām] @[apatsata]
 
-@[i] with @[adhi] *
+@[i] with @[adhi] \*
 @:
 1 adhyagīṣi adhyagīṣvahi adhyagīṣmahi
 2 adhyagīṣṭhāḥ adhyagīṣāthām adhyagīdhvam
@@ -9522,16 +9949,18 @@ Seventh or @[iṣ] Form.
 
 #### § 572. Terminations:—These are obtained by prefixing the augment @[iṣ] to the terminations of the Fourth Variety, dropping the @[i] in the case of the 2nd and 3rd per. sing.; e. g.
 
-* Vide § 486.
+- Vide § 486.
 
 Par. Atm.
 1 @[दयम्‌] @[इषव] @[दइष्म] 1 @[इषि] @[इष्वहि] @[इष्महि] 2 @[दः] @[इषम्‌] @[इट] 2 @[इषाः] @[इषाथाम्‌] @[इष्वम्‌]
 3 @[अत्‌] @[इषम्‌] @[इषुः] 3 @[इष्ट] @[इषाताम्‌] @[इषत]
 
 #### § 573. All roots not restricted to any of the preceding
+
 Varieties take this Variety. Consequently it is peculiar to @[Seṭ] roots (Vide § 565).
 
 #### § 574. (a) In the @[parasmaipada], the final radical vowel and
+
 the penultimate @[a] of roots ending in @[r] or @[l] and that of @[vad] and @[svaṅ] take their @[Vṛddhi] substitute necessarily; @[kū]—@[akāliṣam]; @[car]— @[acāriṣam]; @[phal]—@[aphāliṣam], &c.
 
 (b) The penultimate short vowel of a root takes its @[Guṇa] substitute; @[budh]—@[abodhiṣam], &c.
@@ -9587,11 +10016,12 @@ For the optional forms of these roots see the preceding Variety.
 Irregular Aorists of the Fifth Form.
 
 #### § 575. The roots @[stu], @[jan], @[grah], @[dāy], and @[dham] optionally sub-
+
 stitute @[iṣ] for @[īṣ] (third person sing. Atm.).
 
-* See § 475.
-† Vide § 466. ‡ Vide § 461.
-¶ Vide p. 249 foot-note ¶; @[guh] also takes 7th Variety.
+- See § 475.
+  † Vide § 466. ‡ Vide § 461.
+  ¶ Vide p. 249 foot-note ¶; @[guh] also takes 7th Variety.
 
 #### § 576. Roots of the 8th class ending in @[क्‌] or @[ग्‌] drop their nasal and substitute optionally @[थास्‌] and @[ध्‌] for the terminations @[थास्‌] and @[ध्वे] of the 2nd and 3rd person sing. Atm. @[तनु] lengthens its vowel after dropping @[नु].
 
@@ -9743,9 +10173,9 @@ Irregular Benedictives.
 
 ## THE PASSIVE.
 
-#### § 589. Every root in every one of the ten conjugational classes may take a passive form conjugated like an Ātmanepada root of the 4th Class.*
+#### § 589. Every root in every one of the ten conjugational classes may take a passive form conjugated like an Ātmanepada root of the 4th Class.\*
 
-* The only difference is in the accent; in the passive it falls on @[य], whereas in the case of the primitive verbs of the 4th class, Ātm, it falls on the radical syllable.
+- The only difference is in the accent; in the passive it falls on @[य], whereas in the case of the primitive verbs of the 4th class, Ātm, it falls on the radical syllable.
 
 #### § 590. There are three kinds of passive Verbs:—(1) the passive properly so called (@[कर्मणि] @[प्र]), as @[रामेण] @[द्रव्यं] @[दीयते]; (2) an Impersonal passive. (@[भावे] @[प्र]), as @[मया] @[गम्यते] 'it is gone,' and (3) a Reflexive (@[कर्मकर्तरि] @[प्र]), as @[ओदनः] @[पच्यते] 'rice is cooked.'
 
@@ -9943,14 +10373,16 @@ Roots. 3 sing. Roots. 3 sing.
 
 (@b@) Roots ending in a vowel @[ह्रस्व]@ and the roots हन्, ग्रह्, and दृश् optionally form the two Futures, the conditional and the benedictive of the passive by changing their vowel to @[vṛddhi]@ and appending the @[ātmanepada] termination of those tenses with इ prefixed to them invariably, in the case of roots ending in ऋ (and इ, उ, ऋ and ऌ changeable to अर्) य् is inserted between the root and this इ; दा-दायिताहे, दाताहे; दायिष्ये, दास्ये; अदायिष्ये, अदास्ये; दायिषीय, दासीय; and similarly ग्रह्-ग्राहिताहे, ग्रहीताहे; &c. नी-नायिताहे, नेताहे; नायिष्ये, नेष्ये; अनायिष्ये, अनेष्ये; नायिषीय, नेषीय; हन्-घातिताहे,† हन्ताहे; घानिष्ये, हनिष्ये; अघानिष्ये, अहनिष्ये; घानिषीय, हनिषीय, 1 sing.; ग्रह्-ग्राहिताहे, ग्रहीताहे; ग्राहिष्ये, ग्रहिष्ये, अग्राहिष्ये, अग्रहिष्ये, ग्राहिषीय, ग्रहिषीय &c. दृश्-दर्शिताहे, द्रष्टाहे; दर्शिष्ये, द्रक्ष्ये; अदर्शिष्ये, अद्रक्ष्ये; दर्शिषीय, द्रक्षीय, &c.
 
-* ऋ and ऌ take @[vṛddhi]@ in this case though it is usually forbidden with them, see § 463, ऋ takes @[guṇa]@ only.
+- ऋ and ऌ take @[vṛddhi]@ in this case though it is usually forbidden with them, see § 463, ऋ takes @[guṇa]@ only.
 
 † The न् of हन् is changed to घ् immediately before त् and before an affix containing a mute क् or ङ्, i. e. य of the passive, &c.
 
 #### § 597] CONJUGATION OF छह 2873. 365
+
 (6) The aorist.
 
 #### § 597. (a) The passive of the aorist of roots belonging to
+
 the 4th, 5th and 7th Varieties, is made up similarly by append- ing the @[ātmanepada] terminations to the base; @[दिव्]‌-अदीव्यि; @[कृ]- अकारि, @[धा]-अधायि; @[पच्]‌-अपच्यि; @[दिव्य]-अदिव्यि; @[दिक्ष्]‌-अदिक्षि, &c.
 
 (b) Roots belonging to the first, second, third and sixth Varieties take the fourth, fifth or seventh Variety in the passive,
@@ -9995,6 +10427,7 @@ so that their penultimate @[अ] cannot take @[guṇa] or @[vṛddhi] substitute
 अरमि aorist, 3rd sing. &c.
 
 ## PARADIGMS.
+
 @[बुध्]‌ 1 P. ' to know.'
 perfect. 1st Future.
 1 बुबुध बुबुधिव बुबुधिम 1 बोधिताहे बोधितास्वहे बोधितास्महे 2 बुबुधिथ बुबुधथुः बुबुध 2 बोधितासे बोधितासाथे बोधिताध्वे 3 बुबोध बुबुधतुः बुबुधुः 3 बोधिता बोधितारौ बोधितारः
@@ -10026,9 +10459,11 @@ N. B. The passive forms of roots of the tenth class do not differ from the passi
 ## SECTION II.
 
 DERIVATIVE VERBS (@[प्रत्ययान्तधातवः]) and
+
 ## THEIR CONJUGATION.
 
 #### § 599. The Derivative Verbs are divided into four classes:—
+
 (1) causals or @[णिजन्त] (@[ṇijanta]); (2) desideratives or @[सन्नन्त] (@[sannanta]); (3) frequentatives or @[यङन्त] (@[yaṅanta]);
 
 and (4) Denominatives or @[नामधातवः] (@[nāmadhātavaḥ]). The formation and the conjugation of these will be given in the present section.
@@ -10043,9 +10478,9 @@ causals.
 
 #### § 602. The causal Base of a root is formed like that of a root of the Tenth class. In the case of roots of the Tenth class the causal form is identical with the primitive. The causal form takes either @[pada]. Thus from @[बुध्] comes the causal base @[बोधय], @[बोधयति-ते] 'he causes to know'; @[क्षुभ्-क्षोभयति] 'he shakes or agitates,' @[गण-गणयति] 'he causes to count,' @[नी-नाययति] 'he makes another lead or carry'; @[कृ] 'to do' and @[कॄ] 'to scatter'—@[कारयति] 'he causes to do or scatter' @[कीर्तयति], &c.
 
-#### § 603. Roots ending in @[अ], except @[गम्] 'to go' &c., @[क्षम्] 'to love,' @[दम्] 'to eat,' @[शम्] when it means 'to see' and @[यम्] when it does not mean 'to eat,' and the roots* marked with an indicatory @[ण्] do not change their vowel: i. e. their vowel takes its @[guṇa] substitute; @[गम-गमयति], @[क्रम-क्रमयति], @[पठ-पठयति], @[जन-जनयति],
+#### § 603. Roots ending in @[अ], except @[गम्] 'to go' &c., @[क्षम्] 'to love,' @[दम्] 'to eat,' @[शम्] when it means 'to see' and @[यम्] when it does not mean 'to eat,' and the roots\* marked with an indicatory @[ण्] do not change their vowel: i. e. their vowel takes its @[guṇa] substitute; @[गम-गमयति], @[क्रम-क्रमयति], @[पठ-पठयति], @[जन-जनयति],
 
-* These are:—@[चर्], @[तर्], @[धर्], @[प्रथ्] 'to spread,' @[मथ्] 'to pound,' @[वध्] 1 A. 'to destroy, to cut,' @[यज्] 1 A. 'to go', @[दक्ष्], @[द्रक्ष्] 1 A. 'to pity,' @[रध्], @[वध्] 1 A., @[त्वर्], @[ज्वर्], @[गड्] 1 Par. 'to distil,' @[वर्] 'to surround,' @[सद्], @[भष्] 'to speak,' @[नट्] 'to dance,' @[स्तभ्] 1 P. 'to resist,' @[दीप्] 1. P. 'to shine,' @[हस्] P. 'to laugh,' @[शङ्क्] P. 'to doubt,' @[लग्] P. 'to cling to', @[व्यध्], @[वर्], @[शम्], @[स्तम्], all meaning 'to cover,' @[कम्], @[गम्], @[तम्], 'to move in a zigzag manner,' @[कण्], @[रण्] P. 'to go,' @[चण्], @[घण्], @[भण्],
+- These are:—@[चर्], @[तर्], @[धर्], @[प्रथ्] 'to spread,' @[मथ्] 'to pound,' @[वध्] 1 A. 'to destroy, to cut,' @[यज्] 1 A. 'to go', @[दक्ष्], @[द्रक्ष्] 1 A. 'to pity,' @[रध्], @[वध्] 1 A., @[त्वर्], @[ज्वर्], @[गड्] 1 Par. 'to distil,' @[वर्] 'to surround,' @[सद्], @[भष्] 'to speak,' @[नट्] 'to dance,' @[स्तभ्] 1 P. 'to resist,' @[दीप्] 1. P. 'to shine,' @[हस्] P. 'to laugh,' @[शङ्क्] P. 'to doubt,' @[लग्] P. 'to cling to', @[व्यध्], @[वर्], @[शम्], @[स्तम्], all meaning 'to cover,' @[कम्], @[गम्], @[तम्], 'to move in a zigzag manner,' @[कण्], @[रण्] P. 'to go,' @[चण्], @[घण्], @[भण्],
 
 @[vyadh], @[kṣudh], @[kṣubh]—@[kṣobhayati], @[jap]—@[japayati], &c.
 
@@ -10061,7 +10496,7 @@ but @[kām]—@[kāmayate]; @[trap]—@[trapayati], @[śam] 'to cease' @[śamaya
 
 #### § 606. @[śo] 'to pare, to sharpen,' @[cho] 'to cut,' @[so] 'to finish,' @[do] 4 P. 'to give,' @[dru], @[sru], @[kṛ], @[gṛ], all P. and meaning 'to injure,' 'to kill,' @[gur] 'to kill,' @[pur] Ā. 'to honour,' @[ūh] 'to shine,' @[ruh], @[cyu] 'to shake,' 'to move,' @[plu], @[tṝ] 1 P. 'to fear,' @[vṛ] 'to guide,' @[bhṛ] 'to cook, to boil,' @[jñā] 'to kill, to gratify, to sharpen, to manifest,' @[khad] + @[chad] 'to live or to be' (@[chādayati] in other senses), @[lal] 'to sport, to loll the tongue,' @[dal] 'to be poor, to reduce,' @[pat], @[vam], @[jan], @[dhar], @[dhvan] 'to be crooked, to shine,' @[rak], @[lap], @[nath], @[yat], and @[yaj] 1 P. 'to go,'
 
-* See § 606 (b).
+- See § 606 (b).
 
 H. S. G. 24
 
@@ -10112,17 +10547,17 @@ perfect.
 1st Future.
 
 1 बोधयिता, बोधयितास्वहे बोधयितास्महे,
- बोधिता बोधितास्वहे बोधितास्महे
+बोधिता बोधितास्वहे बोधितास्महे
 2 बोधयितासे, बोधयितासाथे, बोधयितास्ध्वे,
- बोधितासे बोधितासाथे बोधिताध्वे
+बोधितासे बोधितासाथे बोधिताध्वे
 3 बोधयिता, बोधयितारौ, बोधयितारः बोधिता बोधितारौ बोधितारः
 
 2nd Future.
 
 1 बोधयिष्ये, बोधयिष्यावहे, बोधयिष्यामहे,
- बोधिष्ये बोधिष्यावहे बोधिष्यामहे 2 बोधयिष्यसे, बोधयिष्येथे, बोधयिष्यध्वे,
- बोधिष्यसे बोधिष्येथे बोधिष्यध्वे 3 बोधयिष्यते, बोधयिष्येते, बोधयिष्यन्ते,
- बोधिष्यते बोधिष्येते बोधिष्यन्ते
+बोधिष्ये बोधिष्यावहे बोधिष्यामहे 2 बोधयिष्यसे, बोधयिष्येथे, बोधयिष्यध्वे,
+बोधिष्यसे बोधिष्येथे बोधिष्यध्वे 3 बोधयिष्यते, बोधयिष्येते, बोधयिष्यन्ते,
+बोधिष्यते बोधिष्येते बोधिष्यन्ते
 
 conditional.
 
@@ -10136,18 +10571,18 @@ benedictive.
 aorist.
 
 1 अबोधयिषि, अबोधयिष्वहि, अबोधयिष्महि,
- अबोधिषि अबोधिष्वहि अबोधिष्महि
+अबोधिषि अबोधिष्वहि अबोधिष्महि
 2 अबोधयिष्ठाः, अबोधयिषाथाम्, अबोधयिष्ट,
- अबोधिष्ठाः अबोधिषाथाम् अबोधिष्ट 3 अबोधयिषत अबोधयिषाताम्, अबोधयिषत,
- अबोधिष्ट अबोधिषाताम् अबोधिषत
+अबोधिष्ठाः अबोधिषाथाम् अबोधिष्ट 3 अबोधयिषत अबोधयिषाताम्, अबोधयिषत,
+अबोधिष्ट अबोधिषाताम् अबोधिषत
 
 For the various irregularities, &c, see the third Variety.
 
 11. DESIDERATIVES.
 
-#### § 613. Any primitive root of the ten classes, as well as any causal base, may optionally* take a desiderative form
+#### § 613. Any primitive root of the ten classes, as well as any causal base, may optionally\* take a desiderative form
 
-* Or the notion of desire may be conveyed by means of a sentence; @[e. g.] @[pipathisati] or @[pathitum icchati] 'he wishes to read,' &c.
+- Or the notion of desire may be conveyed by means of a sentence; @[e. g.] @[pipathisati] or @[pathitum icchati] 'he wishes to read,' &c.
 
 which, like the causal base, is conjugated in all the ten Tenses and Moods of three voices.
 
@@ -10255,7 +10690,7 @@ Roots. Desider. base, 3rd pers. sing. Pre.
 
 Roots. desiderative base Third pers. sing. Pre.
 
-सन्‌ S. P. A. 'to obtain' सिसनिष्‌ सिसनिषति सद्‌ सित्सास्‌ सित्सासति सिव्‌ seq. सिषेविष्‌ सिषेवति, सिषेवते हन्‌ जिघांस्‌ जिघांसति हि 'to throw' जिहिष्‌ जिहिषति श्वाययति caus. of श्वि शिश्वाययिष्‌ शिश्वाययिषति शासयति,,,, शास्‌ शिशासयिष्‌ शिशासयिषति स्फारयति,,,, स्फुर्‌ सुस्फारयिष्‌ सुस्फारयिषति-ते स्वापयति,,,, स्वप्‌ सुष्वापयिष्‌ सुष्वापयिषति-ते स्वादयति,,,, स्वद्‌ सुस्वादयिष्‌ सुस्वादयिषति-ते स्वेदयति,,,, स्विद्‌ सुस्वेदयिष्‌ सुस्वेदयिषति-ते साहयति,,,, सह्‌* सिसाहयिष्‌ सिसाहयिषति-ते हादयति,,,, ह्लद्‌ सिह्लादयिष्‌ सिह्लादयिषति-ते
+सन्‌ S. P. A. 'to obtain' सिसनिष्‌ सिसनिषति सद्‌ सित्सास्‌ सित्सासति सिव्‌ seq. सिषेविष्‌ सिषेवति, सिषेवते हन्‌ जिघांस्‌ जिघांसति हि 'to throw' जिहिष्‌ जिहिषति श्वाययति caus. of श्वि शिश्वाययिष्‌ शिश्वाययिषति शासयति,,,, शास्‌ शिशासयिष्‌ शिशासयिषति स्फारयति,,,, स्फुर्‌ सुस्फारयिष्‌ सुस्फारयिषति-ते स्वापयति,,,, स्वप्‌ सुष्वापयिष्‌ सुष्वापयिषति-ते स्वादयति,,,, स्वद्‌ सुस्वादयिष्‌ सुस्वादयिषति-ते स्वेदयति,,,, स्विद्‌ सुस्वेदयिष्‌ सुस्वेदयिषति-ते साहयति,,,, सह्‌\* सिसाहयिष्‌ सिसाहयिषति-ते हादयति,,,, ह्लद्‌ सिह्लादयिष्‌ सिह्लादयिषति-ते
 
 621. Conjugation of the desiderative Base.
 
@@ -10273,7 +10708,7 @@ Non-Conjugational Tenses.
 
 (d) The remaining tenses have no peculiarities.
 
-* These roots do not change their @[अ] to @[आ].
+- These roots do not change their @[अ] to @[आ].
 
 #### § 624. In the passive, the aorist 3rd sing. is formed according to § 697. (c). The forms of the remaining tenses are made up in the usual way.
 
@@ -10330,7 +10765,7 @@ syand—sisyandiṣati, sisyandiṣate, pru—piproṣati-te, pipravayiṣati-te
 
 ### III. FREQUENTATIVE.
 
-#### § 625. A frequentative or Intensive form may be derived from any monosyllabic root of the first nine classes, beginning with a consonant. The frequentative or Intensive is used to signify the repetition or the intensity of the action denoted by the verb from which it is derived.*
+#### § 625. A frequentative or Intensive form may be derived from any monosyllabic root of the first nine classes, beginning with a consonant. The frequentative or Intensive is used to signify the repetition or the intensity of the action denoted by the verb from which it is derived.\*
 
 Exceptions:—
 
@@ -10338,7 +10773,7 @@ Exceptions:—
 
 (b) The frequentative of roots signifying motion conveys the notion of tortuous motion and not of repetition.‡ The frequentative of roots @[lap] 'to cut,' @[sad] 'to sink down,' @[svar] 'to go,' @[jap] 'to mutter prayers,' @[jam] 'to yawn,' @[dah] 'to burn,' @[daṃś] 'to bite,' and @[gū] 'to swallow,' imply reproach on the manner of doing the act§: @[lālapet] 'he cuts awkwardly,' @[sāsadet] 'falls down badly,' @[jāñjapet] &c.
 
-* @[dhātorekāco yaṅ kriyāsamabhihāre yaṅ] | Pāṇ. III. 1. 22. @[kriyāsamabhihāraḥ kriyāyāsamabhihāraḥ tasmin yotyarte yaṅ syāt] | Sid. Kau.
+- @[dhātorekāco yaṅ kriyāsamabhihāre yaṅ] | Pāṇ. III. 1. 22. @[kriyāsamabhihāraḥ kriyāyāsamabhihāraḥ tasmin yotyarte yaṅ syāt] | Sid. Kau.
 
 † @[adarśijamebhyaśca yaṅ vācyaḥ] | Vārt. on the above.
 
@@ -10454,7 +10889,7 @@ imperative. Potential.
 perfect.
 
 1 @[bobhavāṃcakāra], @[cakara], &c. @[bobhavāṃcakṛva], &c. @[bobhavāṃcakṛma] &c.
- @[bobhava] or @[bobhāva] @[bobhūva] @[bobhuviva], @[babhūviva] @[bobhuvima] or @[babhūvima] 2 @[bobhavāṃcakṛtha], &c. @[bobhavāṃcakrathuḥ] @[bobhavāṃcakra]
+@[bobhava] or @[bobhāva] @[bobhūva] @[bobhuviva], @[babhūviva] @[bobhuvima] or @[babhūvima] 2 @[bobhavāṃcakṛtha], &c. @[bobhavāṃcakrathuḥ] @[bobhavāṃcakra]
 @:
 bobhaviṭha bobhūvathuḥ, &c. babhūva
 bobhūvitha bobhavathuḥ babhūva
@@ -10619,14 +11054,14 @@ The various changes taking place here before the affix @[i] the student will eas
 
 (ज) By means of the affix @[ya] (@[yat]).
 
-#### § 660. There are several roots* which are also Pratipadikas and which may be regarded as Nominal verbal bases derived from those Pratipadikas by means of the @[kyac ya] (@[ya]). The more important of these are given below:
+#### § 660. There are several roots\* which are also Pratipadikas and which may be regarded as Nominal verbal bases derived from those Pratipadikas by means of the @[kyac ya] (@[ya]). The more important of these are given below:
 
 @[kaṇḍū]--@[kaṇḍūyati-te] he scratches, @[saparyā]--@[saparyati] he worships.
 @[manyū]--@[manyūyati] he becomes angry, @[iṣu]--@[iṣūyate] it contains arrows, also @[iṣyati]--@[iṣyati] he offends against, @[bhiṣaj]--@[bhiṣajyati] treats medically, @[manyūyate] according to @[candra]. @[gadgada]--@[gadgadāyati] he stammers.
 @[vallī]--@[vallīyati] he becomes handsome, mild or gentle, honours. @[kelā], @[khelā]--@[kelāyati], @[khelāyati] he sports or becomes merry.
 @[asūyā]--@[asūyati-te] (@[asyati]) he is jealous, he envies, &c. @[hreḍā]--@[hreḍīyate] he is angry or feels ashamed.
 
-* In the Kaumudi these roots are classed separately under the head of '@[kaṇḍvādigaṇa]' or the group of roots beginning with @[kaṇḍū].
+- In the Kaumudi these roots are classed separately under the head of '@[kaṇḍvādigaṇa]' or the group of roots beginning with @[kaṇḍū].
 
 #### § 660-661 ] PARASMAIPADA & ĀTMANEPADA. 399
 
@@ -10642,6 +11077,7 @@ understanding. @[anagha]--@[anaghayati] he becomes healthy.
 @[parasmaipada] and Ātmanepada.
 
 #### § 661.--As already remarked there are two Padas in Sans-
+
 @[kṛt], the @[parasmaipada] and the Ātmanepada. The Parasm.
 denotes that the fruit of the action accrues to some one different from the agent, as @[pacati] 'he cooks for another,' @[kārayati] 'makes some one do something for another, &c.' The Atm. denotes that the fruit of the action is @[ātmane] i. e. it accrues to the agent,
 @[pacate] 'he cooks for himself,' @[kārayate] 'he makes another do some- thing for himself,' &c.
@@ -10650,7 +11086,7 @@ denotes that the fruit of the action accrues to some one different from the agen
 
 (b) When the causal form of a transitive verb is used re- flexively, or when the object in the primitive sense becomes
 
-* This distinction, however, seems to be very little observed in practice. Even the best Sanskrit writers are found using both the Padas promiscuously. It cannot even be supposed that this distinction is meant to be observed where a root admits of both the Padas. The @[Daśakumāracarita] and the @[Kādambarī] afford several instances in which the two Padas are used exactly in the same sense.
+- This distinction, however, seems to be very little observed in practice. Even the best Sanskrit writers are found using both the Padas promiscuously. It cannot even be supposed that this distinction is meant to be observed where a root admits of both the Padas. The @[Daśakumāracarita] and the @[Kādambarī] afford several instances in which the two Padas are used exactly in the same sense.
 
 the agent in the causal, the Atm. is used except in the sense of 'remembering with eagerness, &c.' @[bhaktāḥ śivaṃ paśyanti] 'devotees see Bhava;' @[śivaḥ bhaktān paśyate] 'Bhava shows himself to his devotees,' e.g. @[kānte pratyaṅmukhaṃ kokilāḥ smarayanti vanamukham] (BilSs); @[tasyāṃ priyāṃ praveśayate śivapitṛbhyaḥ] (Sid. Kau.). Vide Sid Kau. on Pāṇ. I. 3, 67.
 
@@ -10663,6 +11099,7 @@ Exceptions to (c) and (d)—to (c) @[śam] 'to pacify,' @[vā] with @[ā] 'to dr
 @[kampayati-te] &c.
 
 #### § 662. When the sense of @[akartavyatikāra] i. e. doing what is not
+
 proper for one to do, or the exchange of duties is to be implied,
 the Atm. is used, @[brāhmaṇaḥ sasyāni vartrāyuṇīte] 'the Brāhmaṇa reaps corn' (which is the work of a Śūdra and not his); @[dharmaḥ vyatiṣṭate] 'the religious duty is changed' (as when a Śūdra discharges the duties enjoined upon a Vaiśya, &c.); @[vyatihrante rājānaḥ] 'the kings exchange blows.'
 
@@ -10683,11 +11120,11 @@ with @[सम्] is Atm. @[समारन्] @[ममामीषाः] Bh. 
 
 @[ऋच्छ्] with @[सम्]—is Par. when used transitively, and Atm. when used intransitively; @[समूर्छति] 'he collects; @[समूर्छते] 'is collected.'
 
-@[कृ]—without a preposition admits of either @[pada]. It is Parasm. with @[अनु] and @[आ]*; @[अनुकरोति] @[ममतो] @[नारायणस्य] (Kd), @[आं] @[चकुरुर्लज्जितम्] &c. (Bhaṭṭi. VIII. 50.); it is Atm. with a preposition in following senses:—(1) @[हिंसन] † or 'hurting,' 'killing,' as @[उत्कुरुते] 'informs against (with a view to injure);' (2) @[अवलेपन] or 'censuring, overcoming;' @[उद्राकुरुते] @[येनो] @[वर्तिकाम्] 'the hawk reproves the snail;' (3) @[सेवन] or 'serving, attending
+@[कृ]—without a preposition admits of either @[pada]. It is Parasm. with @[अनु] and @[आ]\*; @[अनुकरोति] @[ममतो] @[नारायणस्य] (Kd), @[आं] @[चकुरुर्लज्जितम्] &c. (Bhaṭṭi. VIII. 50.); it is Atm. with a preposition in following senses:—(1) @[हिंसन] † or 'hurting,' 'killing,' as @[उत्कुरुते] 'informs against (with a view to injure);' (2) @[अवलेपन] or 'censuring, overcoming;' @[उद्राकुरुते] @[येनो] @[वर्तिकाम्] 'the hawk reproves the snail;' (3) @[सेवन] or 'serving, attending
 
-* @[अनुपराभ्यां] @[कृञः] । Pan. I. 3. 79.
-† @[हिंसनावलेपनसेवनसाहसिक्यप्रतियत्नप्रकथनोपयोगेषु] @[चः] Pan. I. 3. 32.
-H. S. G. 26
+- @[अनुपराभ्यां] @[कृञः] । Pan. I. 3. 79.
+  † @[हिंसनावलेपनसेवनसाहसिक्यप्रतियत्नप्रकथनोपयोगेषु] @[चः] Pan. I. 3. 32.
+  H. S. G. 26
 
 upon,' as @[हरिं] @[उपकुरुते] 'he serves Hari;' (4) @[साहसिक्यम्] or 'acting violently,' 'outraging,' as @[परदारान्] @[प्रकुरुते] 'outrages another's wife;' (5) @[प्रतियत्न] or 'imparting an additional quality' (@[सतो] @[गुणान्तराधानम्] Kashika), as @[एधः] @[उदकस्य] @[उपकुरुते] 'fuel imparts heat to water;' (6) @[प्रकथन] or 'reciting,' as @[गाथाः] @[प्रकुरुते] 'recites stories from the Vedas;' (7) @[उपयोग] or 'applying to use,' as @[शतम्] @[उपकुरुते] (@[धर्मे] @[शतं] @[विनियुङ्क्ते] @[इत्यर्थः]) 'devotes a hundred (Rupees, &c.) to holy purposes,' cf. also Bhaṭṭi. VIII. 18.—with @[क्षम्] it is Atm. in the sense of 'forgiving or overpowering;' @[शत्रुम्] @[अधिकुरुते] 'forgives or overpowers his enemy,' @[नान्] @[मनुष्यानधिकुरोति] @[यज्ञः] 'the sacrifice authorises men.' With @[वि] it is Atm. when used transitively, @[छात्राः] @[विकुर्वते] 'pupils study,' @[स्वरान्] @[विकुरुते] @[भावकः] 'the musician varies the tones;' but @[चित्तं] @[विकरोति] @[कामः] 'Love affects the mind,' @[विचक्रुः] @[अन्यस्य] Bh. VIII. 21. & with @[उप] in the sense of 'helping or doing good to' is used in both the Padas; @[न] @[हि] @[प्रदीपो] @[परस्परस्य] @[उपकरोति] (So Cr. Us.) 'two strong lights do not indeed help (i. e. serve to intensify) each other;' @[सा] @[चोपकुरुते] @[यया] @[परेषाम्] 'that is wealth by means of which one obliges another' (Kir. VII. 28.).
 
@@ -10695,23 +11132,23 @@ The causal of @[कृ] is Atm. when @[वि] is prefixed to it; @[पदं] @
 
 @[कॄ]—'to scatter' with @[अप] is Atm. in the sense of 'turning up or scratching with joy,' or turning up with the intention of making an abode or for maintenance (by quadrupeds or birds);' in this sense @[शम्] is prefixed to @[कॄ]; @[अपस्किरते] @[वृषो] @[हर्षात्] 'the bull turns up the ground in joy;' similarly @[अपस्किरते] @[कुक्कुटो] @[ग्रासे]; @[भूमिं] @[अपस्किरते] (digs a hole for lying in) @[वा] @[आश्रयार्थं] or @[छायापस्किरमाणः] @[इति] &c. (Up. II. 9).
 
-* @[अचेः] @[प्रहसने] Pan. I. 3. 33.
-† @[शयो] @[गतौ] । @[अकर्मकाच्] । Pan. I. 3. 34-35.
-‡ @[अपश्चतुष्पाच्छकुनिष्वालेखने] Pan. VI. 3. 142. @[अलेखने] @[इति] @[शब्दः] @[स्यात्] । @[हर्षादिभिश्चैव] @[अलेखने] @[स्मृतः] । Sid. Kau.
+- @[अचेः] @[प्रहसने] Pan. I. 3. 33.
+  † @[शयो] @[गतौ] । @[अकर्मकाच्] । Pan. I. 3. 34-35.
+  ‡ @[अपश्चतुष्पाच्छकुनिष्वालेखने] Pan. VI. 3. 142. @[अलेखने] @[इति] @[शब्दः] @[स्यात्] । @[हर्षादिभिश्चैव] @[अलेखने] @[स्मृतः] । Sid. Kau.
 
 #### § 664 } PARASMAIAPADA & ĀTMANEPADA. 405
 
 When the root has its original sense, the Par. is used and @[s] is not inserted: @[garte apaṅkirati puṣpe] 'the woman scatters flowers,' @[apaṅkirati mano grāme].
 
-@[kram]*—when not preceded by a preposition is conjugated in both the Padas. But it is used in Ātm. by itself when the meaning is 'free movement, energy, development or increase,' &c.: @[kavau kramate dhīḥ] 'his intellect moves freely in (i.e. proves very powerful in mastering) the Ṛgveda,' @[kramamāṇo ripusaṃsadi] 'Moving unobstructed in the assembly of the enemy' (Bh. VIII. 22); @[adhyayanāya kramate] 'shows ability or energy for studying;' @[na rakṣaṇāya kramate jaḍānām] | Vikra.1.16 @[pratyayena ca rājanām śāstrāṇi] 'the Śāstras find enlargement in him or are satisfactorily mastered by him.' In the same senses it is Ātm. when preceded by @[upa] and @[parā] only (i.e. is Par. if preceded by any other prep.) @[upakramate, parākramate] Cf. @[ityuktvā ca parākrānta] (showed his might); @[vikramayāmāsa] (made bold) @[cakre tasya vikramam] | Bh. VIII. 22-23. but @[saṃkrāmati] (@[saṃsara gadiḥ]). When preceded by @[ā] it is Ātm. in the sense of 'the ascending or the rising of a heavenly body;' @[ākramate sūryaḥ] 'the sun rises;' but @[ākrāmati dhūmo harmyataṭāt] 'the smoke issues forth from the upper terrace.' Also when preceded by @[vi], in the sense of 'a graceful movement of the feet, or ascending,' @[sādhu vikramate vājī] 'the horse moves gracefully;' but @[vikrāmati sandhiḥ] 'the joint slips;'—@[kram] by @[pra] and @[upa] in the sense of 'beginning,' @[prakramate], as in @[vaktum mithaḥ prākramate tamena] | Kum. III. 3. 'thus began to talk with him in private,' but @[prakrāmati] 'goes,' @[upakrāmati] 'comes near.'
+@[kram]\*—when not preceded by a preposition is conjugated in both the Padas. But it is used in Ātm. by itself when the meaning is 'free movement, energy, development or increase,' &c.: @[kavau kramate dhīḥ] 'his intellect moves freely in (i.e. proves very powerful in mastering) the Ṛgveda,' @[kramamāṇo ripusaṃsadi] 'Moving unobstructed in the assembly of the enemy' (Bh. VIII. 22); @[adhyayanāya kramate] 'shows ability or energy for studying;' @[na rakṣaṇāya kramate jaḍānām] | Vikra.1.16 @[pratyayena ca rājanām śāstrāṇi] 'the Śāstras find enlargement in him or are satisfactorily mastered by him.' In the same senses it is Ātm. when preceded by @[upa] and @[parā] only (i.e. is Par. if preceded by any other prep.) @[upakramate, parākramate] Cf. @[ityuktvā ca parākrānta] (showed his might); @[vikramayāmāsa] (made bold) @[cakre tasya vikramam] | Bh. VIII. 22-23. but @[saṃkrāmati] (@[saṃsara gadiḥ]). When preceded by @[ā] it is Ātm. in the sense of 'the ascending or the rising of a heavenly body;' @[ākramate sūryaḥ] 'the sun rises;' but @[ākrāmati dhūmo harmyataṭāt] 'the smoke issues forth from the upper terrace.' Also when preceded by @[vi], in the sense of 'a graceful movement of the feet, or ascending,' @[sādhu vikramate vājī] 'the horse moves gracefully;' but @[vikrāmati sandhiḥ] 'the joint slips;'—@[kram] by @[pra] and @[upa] in the sense of 'beginning,' @[prakramate], as in @[vaktum mithaḥ prākramate tamena] | Kum. III. 3. 'thus began to talk with him in private,' but @[prakrāmati] 'goes,' @[upakrāmati] 'comes near.'
 
 @[krī]—'to buy' is Ātm. when the prepositions @[ava, pari] and @[vi] are prefixed to it (with @[vi] it means 'to sell'), @[avakrīṇīte, parikrīṇīte] cf. Bh. VIII. 8. @[svena upakṛtaṃ rājñaḥ parikrīṇānaṣṭabandhitam].
 
-*@[krīḍavijisargalāyaneṣu kramaḥ] | @[upapra gāmyām] | @[āṅ udramaṇe] | @[jyotirudramana iti vācyam].
+\*@[krīḍavijisargalāyaneṣu kramaḥ] | @[upapra gāmyām] | @[āṅ udramaṇe] | @[jyotirudramana iti vācyam].
 Pan. 1. 2. 38-43.
 † @[parivyayeṣu krīḍā] Pan. 1. 3. 18.
 
-@[krīḍ]*—'to play' is Ātm. after the prepositions @[anu, ā, pari] and @[sam], @[anu-ā-pari-saṃ-krīḍate], but not when @[anu] governs a noun, as—@[māṇavakamanu krīḍati] i.e. 'plays with Māṇavaka.' @[krīḍ] with @[sam] is Par. when it means 'to creak as a wheel,' as @[saṃkrīḍati cakram].
+@[krīḍ]\*—'to play' is Ātm. after the prepositions @[anu, ā, pari] and @[sam], @[anu-ā-pari-saṃ-krīḍate], but not when @[anu] governs a noun, as—@[māṇavakamanu krīḍati] i.e. 'plays with Māṇavaka.' @[krīḍ] with @[sam] is Par. when it means 'to creak as a wheel,' as @[saṃkrīḍati cakram].
 
 @[kṣip]†—'to throw' is Par. when preceded by the prepositions @[abhi, prati] and @[ati]; @[abhikṣipati] 'throws up,' @[atikṣipati] 'throws out,' @[pratikṣipati] 'throws back.'
 
@@ -10725,7 +11162,7 @@ Pan. 1. 2. 38-43.
 
 @[car]‖—'to walk' with @[ud] is Ātm. when used transitively;
 
-*@[krīḍoccusaṃpāribhyaśca] Pān. 1. 3. 21. @[anoḥ karmaṇi ca ṇicyānnā]. Sid. Kau.
+\*@[krīḍoccusaṃpāribhyaśca] Pān. 1. 3. 21. @[anoḥ karmaṇi ca ṇicyānnā]. Sid. Kau.
 
 †@[abhipratyatibhyaḥ kṣipaḥ] Pān. 1. 3. 80.
 
@@ -10747,8 +11184,8 @@ With @[sam] or @[anu] it is Atm. when used with the Instrumental of a vehicle; @
 
 @[tap]—'to heat' with @[vi] or @[ut], when used intransitively, is
 
-* @[vipārābhyāṃ jeḥ] | Pāṇ. 1.3.19. † @[apadāntake caḥ] | @[akarmakaḥ] | @[saṃpratibhyām anādyānāṃ] | Pāṇ. 1. 3. 44-46.
-‡ @[adibhyāṃ tapaḥ] | Pāṇ. 1. 3. 27, @[svāṅgakarmakatvāc ca iti vakṣyāmaḥ] | Vārt.
+- @[vipārābhyāṃ jeḥ] | Pāṇ. 1.3.19. † @[apadāntake caḥ] | @[akarmakaḥ] | @[saṃpratibhyām anādyānāṃ] | Pāṇ. 1. 3. 44-46.
+  ‡ @[adibhyāṃ tapaḥ] | Pāṇ. 1. 3. 27, @[svāṅgakarmakatvāc ca iti vakṣyāmaḥ] | Vārt.
 
 Atm. @[uttapate] or @[vitapate sūryaḥ]; when used transitively it is Atm. if it has a limb of the body of the agent for its object; @[uttapate] or @[vitapate pāṇim] 'he warms his hand, but @[uttāpayate suvarṇaṃ suvarṇakāraḥ] 'a goldsmith heats gold', @[caitro matsyān uttāpayati]; when it means 'to practise penance' it is Atm. and is conjugated like a root of the fourth class.
 
@@ -10764,7 +11201,7 @@ According to some @[tap] with @[anu] is Atm; @[anutapate] 'repents.'
 
 @[dhṛ]—with @[sam] is Atm. in the sense of 'preparing, being ready
 
-* @[āṅi dā do 'nāsyavivaraṇe] | Pāṇ. 1. 3. 20. @[āsyavivaraṇam avivakaṣitaṃ sat] | Sid. Kau. @[parāṅgakarmakatvāc ca vivartiḥ] | Vār.
+- @[āṅi dā do 'nāsyavivaraṇe] | Pāṇ. 1. 3. 20. @[āsyavivaraṇam avivakaṣitaṃ sat] | Sid. Kau. @[parāṅgakarmakatvāc ca vivartiḥ] | Vār.
 
 #### § 664] PARASMAIRPADA & ĀTMANEPADA. 407
 
@@ -10778,7 +11215,7 @@ In "@[ārāt tāṃ nāthase tvaṃ na vayam]" Kir. XIII. 69. the root is used i
 
 (1) @[sammānana] or 'showing regard for;' @[siddhāntān upanayate] 'gives instruction in the conclusions of the @[śāstras]' (@[tena ca śiṣyasammānam ucyate] Sid. Kau.), (2) @[pramāṇana] or 'raising up;' @[daṇḍam upanayate kṣatriyaputrah]; (3) @[ācāryakaraṇa] or 'initiating into sacred rites,' @[māṇavakaṃ upanayate vidhinā ātmasamīpaṃ nāpayatītyarthah. upanayanadṛṣṭakena adhyāpanaṃ hi upanetuḥ ācāryasya kriyate] (Sid. Kau.); (4) @[jñāna] or 'ascertaining the real nature of;' @[tattvam upanayate niścināttatttvarthah]; (5) @[bhṛti] or 'employing on wages;' @[karmakārān upanayate] 'employs labourers on wages;' (6) @[vigaṇana] or 'paying off as a debt, taxes' &c; @[karaṃ vinayate rājñe deyaṃ mārgāt pareṇodhayatītyarthah], and (7) @[vyaya] or 'spending or applying to good use;' @[śataṃ vinayate dharmārthaṃ viniyukte ityarthah] (Sid.
 
-* @[āśiṣi nāthah] Vārtika.
+- @[āśiṣi nāthah] Vārtika.
 
 † @[sampramāṇanetsamjaṇācāryakaraṇajñānabhṛtivigaṇanavyayeṣu nīyah]. &c @[ācārīre karmaṇi]. Pan. I. 3. 36-37 @[iti etasyāṃ karmaṇi yadātmanaivam etat pravṛttiṃ bhajyate śarīrārthatvābhāve ca syāt. sūtre śarīraśabdena tadutpattayo gṛhītāḥ. teneha na bhavati vijineti. kathaṃ tarhi vigaṇayya nayanti puruṣam iti. kartṛkāhitpādiprabhṛtau pravartiṣyati]. Sid. Kau.
 
@@ -10794,7 +11231,7 @@ Kau.). @[nī] with @[vi] is Atm. when the object is something other than a limb 
 
 @[yam]—with @[ā] is Atm. either when used intransitively or has a limb of the body of the agent for its object; @[āyacchate taruḥ] 'the tree spreads;' @[āyacchate pāṇim] 'stretches forth the hand;' but @[āyacchati kūpārājjuṃ] 'draws up the rope from the well'; preceded by @[sam], @[ud] and @[vi] it is Atm. except when it has a literary work for its object; @[uttarīyam āyacchate] 'puts on a garment; @[bhāram udyacchate] 'lifts up a load;' @[vrīhīn saṃyacchate] 'gathers rice;' but @[upayacchati vedam] 'tries hard to leam the veda'. @[yam]—with @[upa] is Atm. in the sense of 'accepting, or espousing a girl;' @[kanyām upayacchate] 'accepts the
 
-* @[anujñāpṛcchayoḥ] (Vārtika).
+- @[anujñāpṛcchayoḥ] (Vārtika).
 
 † @[ādīpranabhane]. Vārt on Pan. I. 3. 65. @[abhane iti vaktavye anabhana iti paryudāsabhinnasaññāt avanātmakitam ucyate] to convey that @[ātmanepadavidhānārtham idam].
 
@@ -10814,7 +11251,7 @@ Kau.). @[nī] with @[vi] is Atm. when the object is something other than a limb 
 
 @[vṛṣ]—in the cau. is Atm. in the sense of 'deceiving;' @[māṇavakam] @[varṣayate] 'deceives Māṇavaka;' but @[ahim] @[varṣayati] 'avoids a serpent.'
 
-* @[pra] @[upābhyām] @[yujer] @[ayajñapātreṣu]. Pāṇ. I. 3. 64. @[svarānta] @[upasargād] @[iti] @[vārttikam]. Vārtika.
+- @[pra] @[upābhyām] @[yujer] @[ayajñapātreṣu]. Pāṇ. I. 3. 64. @[svarānta] @[upasargād] @[iti] @[vārttikam]. Vārtika.
 
 † @[vi] @[upa] @[paribhyo] @[ramaḥ]. @[āramaḥ]. @[vibhāṣā] @[akarmakaḥ]. Pāṇ. I. 3. 83-85.
 
@@ -10822,7 +11259,7 @@ Kau.). @[nī] with @[vi] is Atm. when the object is something other than a limb 
 
 @[vad]—'to speak' is Atm. in the following senses:—(1) @[śāsana] or 'showing brightness (proficiency in);' @[śāstre] @[vadate] 'is adept in the Śāstra,' (2) @[upasaṃgrāha] or 'conciliating or coaxing' (generally preceded by @[upa]); @[upasaṃgṛhṇāti] @[sādāyati] @[ityarthaḥ]; (3) @[jñāna] or 'knowledge' @[śāstraṃ] @[vadate] 'knows the Śāstra;' (4) @[yatna] or 'effort, toil;' @[kṣetre] @[vadate] 'labours in the field,' (5) @[virodha] or 'disagreement, quarrel,' (generally preceded by @[vi] in this sense); @[vivadate]; @[parasparam] @[viruddhaśāstrāṇām] @[śāstrāṇām] 'of mutually conflicting Śāstras;' and (6) @[upamantryaṇa] or 'coaxing, requesting;' @[dātāram] @[upavadate] 'praises the donour,' &c, with @[sampra] it is Atm. in the sense of 'distinct and loud speech (as that of men gathered together),' @[sampravadante] @[brāhmaṇāḥ] 'the Brāhmaṇas are speaking aloud together,' but @[sampravadanti] @[pakṣiṇaḥ]; @[priye] @[sampravadanti] @[kukkuṭāḥ] 'oh beautiful one, the cocks are crowing,' with @[anu] it is Atm. when used intransitively; @[anuvadante] @[kaṭhaḥ] @[taitirīyam] 'the Kaṭha Brāhmaṇa imitates (speaks on the side of or recites like) the Taittirīya Brāhmaṇa,' but @[uktam] @[anuvadati] 'reproduces what is said;' @[anuvadati] @[vīṇā] 'the lute imitates the notes (indistinctly);' with @[pra] it is optionally Atm. in the sense of 'disagreeing or disputing,' @[pravadante-ti] @[bhiṣajaḥ] 'the physicians disagree; with @[apa] it is Atm. in the sense of 'reviling, reproaching, refusing,' when the fruit of the action refers to the agent, @[apavadate] @[dhanakāmaḥ] @[anyāyam] 'greedy of wealth reviles others unjustly,' so @[nyāyam] @[apavadate] 'refuses justice;' but @[apavadati] 'reproaches' (when the result does not refer to the agent), cf. @[na] @[arthaḥ] @[apavaded] @[dviprān] Manu. IV. 236; when the fruit of the action is indicated as referring to the agent the Atm. is optional; @[eṣa] @[apavadati-te] (Sid. Kau. on Pāṇ. I. 3. 77); also with @[upa] in the sense of 'advising or speaking stealthily,' when used transitively, is Atm. @[śiṣyam] @[upavadate] 'gives advice to his pupil,' @[paradārān] @[upavadate] 'speaks stealthily with another's wife.'
 
-* @[śāsana] @[upasaṃgrāha] @[jñāna] @[yatna] @[virodha] @[upamantryaṇeṣu] @[vadaḥ]. @[anvadate] @[aṅga]. @[anuḥ] @[akarmakaḥ]. @[vibhāṣā] @[vipralāpe]. @[apa] @[ātmanepadam]. Pāṇ. I. 3. 47-50, 73.
+- @[śāsana] @[upasaṃgrāha] @[jñāna] @[yatna] @[virodha] @[upamantryaṇeṣu] @[vadaḥ]. @[anvadate] @[aṅga]. @[anuḥ] @[akarmakaḥ]. @[vibhāṣā] @[vipralāpe]. @[apa] @[ātmanepadam]. Pāṇ. I. 3. 47-50, 73.
 
 #### § 664 } PARASMAIPADĀ & ĀTMANEPADA. 411
 
@@ -10840,14 +11277,14 @@ Kau.). @[nī] with @[vi] is Atm. when the object is something other than a limb 
 
 @[sthā]—with @[sam], @[ava], @[pra] and @[vi] is Atm., @[saṃtiṣṭhamāṇaḥ paribhavātrāsācca]
 
-* @[vidvipacchiśvaratinaṣṭhasaṃkhyānam]. Vārtika. @[vatteravibhāṣā] Pāṇ. VII. 1. 7.
-† @[nivijñaḥ] Pāṇ. I. 4. 17. ‡ @[krudh upālambhe]. Vārtika.
-§ @[śikṣijīñāsāyām]. Vārtika. || @[atiścuṭāśibhyaḥśruti vaktavyam]. Vārtika.
-@:
-¶ samavapravibhyaḥsthāḥ. Pāṇ. I. 4. 42. ** āṅ pratiśñāyāṃsthāpasaṃkhyānam Vārtika.
-prakāśanasyevākhyāyoḥca. udonūrvvakarmaṇi. Pāṇ. I. 3. 23, 24. īhāyāmeva.
-Vārtika. śuṣānnanakaraṇe. Pāṇ. I. 3. 25. upāderapūjāsaṅgatikaraṇaninakaraṇapratiṣṭhiti vācyam. vā śipṣāyām. Vārtika. akarmakācca. Pāṇ.
-:@
+- @[vidvipacchiśvaratinaṣṭhasaṃkhyānam]. Vārtika. @[vatteravibhāṣā] Pāṇ. VII. 1. 7.
+  † @[nivijñaḥ] Pāṇ. I. 4. 17. ‡ @[krudh upālambhe]. Vārtika.
+  § @[śikṣijīñāsāyām]. Vārtika. || @[atiścuṭāśibhyaḥśruti vaktavyam]. Vārtika.
+  @:
+  ¶ samavapravibhyaḥsthāḥ. Pāṇ. I. 4. 42. \*\* āṅ pratiśñāyāṃsthāpasaṃkhyānam Vārtika.
+  prakāśanasyevākhyāyoḥca. udonūrvvakarmaṇi. Pāṇ. I. 3. 23, 24. īhāyāmeva.
+  Vārtika. śuṣānnanakaraṇe. Pāṇ. I. 3. 25. upāderapūjāsaṅgatikaraṇaninakaraṇapratiṣṭhiti vācyam. vā śipṣāyām. Vārtika. akarmakācca. Pāṇ.
+  :@
 
 @[saṃtiṣṭhate] (Mad. I. 36.) 'fearing an outrage does not abide by one who is mild,' see Mrch. I. 36. (In the sense of standing still, &c. it is used in the Par. @[kṣaṇaṃ na saṃtiṣṭhati jīvalokaḥ jalaraśmisaṃghātavāyuprakampaparivarttamānaḥ] Hariv.); @[śvasamapyavatiṣṭhate śvasam] (@[jantuḥ]) 'if a being remains breathing though only for a moment;' @[anītvā paṅkatiṃ dharmaliṅgakaṃ nāvatiṣṭhate]. Sis. II. 34. @[pratiṣṭhate] See Ragh. IV. 6; Kum. 7. 22. @[vitiṣṭhate]; @[paraisthuvaṃ vyāpya vitiṣṭhamānaṃ] Sis. IV. 4; with @[vi] it is Atm. in the sense of 'laying down a proposition, asserting solemnly;' @[śabdaṃ nityam vyatiṣṭhate] 'Affirms that sound is eternal;' @[jalaṃ viṣaṃ vā tava karaṇādāsthāsye] (Mah. Vana.) 'for thy sake I will drink water or poison;' in the sense of 'observing' it takes the Par. when used transitively; @[vratam vyatiṣṭhati] 'observes the vow.' @[sthā] is Atm. by itself in the sense of 'disclosing one's intention or abiding by;' @[gopī kṛṣṇāya tiṣṭhate], @[ahaṃ pṛcchāmi ityarthaḥ]. @[saṃśayya karṇādiṣu tiṣṭhate yaḥ] Kir. III. 14; 'who, when in doubt, takes recourse to Karṇa and others (as the deciders of the matter in hand)' With @[ud] it is Atm. except in the sense of 'getting up or getting by right,' @[mokṣāyottiṣṭhate] 'earnestly thinks of (aspires to) absolution;' (See Kir. XI. 13. and Sis. XIV. 17.); but @[grāmācchataṃ cottaṣṭhati] 'a hundred is yielded to him by a village (as tax, &c.).' With @[upa] it is Atm. in the sense of:—(1) 'worshipping with the recital of holy texts,' @[agnīdhramagnimuputiṣṭhate] 'worships the Agnidhra fire with the recital of Vedic texts,' @[ye tvāṃ mantradhuraṃdaropatiṣṭhate] Bh. VIII. 13, but @[bhartāramuputiṣṭhati] @[striyā] (or @[patyuputiṣṭhate nārī] Vop.) where the meaning is 'to approach for intercourse, to serve,' See Bhatt. V. 68, (2) 'waiting upon, worshipping (a divine being)' @[ādityamuputiṣṭhate]; (the Atm. use of the root in "@[nṛpam stutibiracāmīruputaste sarasvatī]" Ragh. VI. 6. is to be explained, thinks Bhaṭṭoji Dīkṣita, by the fact that the king is considered to be a divine being), (3) 'uniting or joining;' @[ardhena puṣṭhunoputiṣṭhate]; (4) 'forming friendship with' @[rathikāliṃputiṣṭhamānaḥ sakhyaṃ karoti] (Sid. Kau.); and (5) 'to lead to' @[panthāḥ śrughnamuputiṣṭhate] 'this way leads to Śrughna.' When a desire to get something is implied @[sthā] with @[upa] takes either @[pada]; @[śiṣyaḥ gurumuputiṣṭhati-te].
 
@@ -10873,7 +11310,7 @@ The following @[ślōkas], extracted from the @[Ākhyātachandrikā] are subjoin
 
 @[bhāve karmaṇi sarvasmāddhātoḥ syādātmane padam] ॥ @[ṇijvidhastathaānudāttebhyo bhūyate pyāyate tu dik] ॥ १ ॥
 
-* @[ādano yaṃ hanaḥ] | Pāṇ I. 3. 24. @[kathaṃ tarhi ājaghaṇa viṣamaviśleṣaṇasya vaśaḥ iti āpadam] । @[adya mā gharṣṭam iti dṛśyate] । @[bhramād evāyam iti māgadhanirṇayaḥ bhāvasyāddhyāhāro vā] । Sid. Kau. † @[haratermatigatācchīlye] I. 3. 14.
+- @[ādano yaṃ hanaḥ] | Pāṇ I. 3. 24. @[kathaṃ tarhi ājaghaṇa viṣamaviśleṣaṇasya vaśaḥ iti āpadam] । @[adya mā gharṣṭam iti dṛśyate] । @[bhramād evāyam iti māgadhanirṇayaḥ bhāvasyāddhyāhāro vā] । Sid. Kau. † @[haratermatigatācchīlye] I. 3. 14.
 
 ‡ @[niṣadyupavinyayo hvāḥ]; @[spaśāyāmāṅaḥ] Pāṇ, I. 3. 30, 31.
 
@@ -10901,6 +11338,7 @@ yathā rudyate dṛśī svayaṃ daśayate nṛpaḥ २१ ॥ bhīsmyoḥ pray
 # CHAPTER XIV.
 
 ## Verbal Derivatives
+
 or
 Primary Nominal Bases.
 
@@ -10955,11 +11393,11 @@ H. S. G. 27
 
 (b) @[आन] added to the roots @[पू] and @[यज्] forms nouns; e. g. @[पवमानः] 'that which purifies, hence, the wind' (cf. Rig. VIII. 9.) also, 'one of the sacred fires;' @[यजमानः] 'one who sacrifices.'
 
-#### § 671. * The termination @[आन] may be added to any root
+#### § 671. \* The termination @[आन] may be added to any root
 
 ---
 
-* @[तिङ्शलाघुणोऽचांऽशाकटायनस्य] । Pan. III. 2. 126.
+- @[तिङ्शलाघुणोऽचांऽशाकटायनस्य] । Pan. III. 2. 126.
 
 in the sense of 'in the habit of' or to show a particular standard of age, or capacity to do a thing; e. g. @[bhogaṃ tara]@[ḥ] 'one habituated to enjoy pleasures;' @[kavacaṃ dhāraṇaprāyaḥ]@ 'of a sufficient age i. e. young enough to bear armour.' @[ari hantā]@ 'able to kill the enemy,' &c.
 
@@ -11051,7 +11489,7 @@ Roots Perf. Base (3rd pl.) Perf. ptc.
 | @[vye] | @[vīta] covered | @[dṛś] | @[dṛṣṭa] seen |
 | @[hve] | @[hūta] called &c. | @[kruś] | @[kruṣṭa] cried out &c. |
 
-*@[bandh] substitutes @[ad] for its @[an].
+\*@[bandh] substitutes @[ad] for its @[an].
 
 #### § 684-685 ] Primary Noun Bases. 423
 
@@ -11111,9 +11549,9 @@ Exceptions:—
 
 Exceptions:—@[ख्या] 'to name,' &c, @[ध्यै] 'to contemplate,' @[प्यै] and @[म्ला]; @[ख्यात], @[ध्यात], @[प्यात] and @[म्लात].
 
-#### § 690. *The roots given at § 414 and @[ज्या] substitute @[न] for @[त],
+#### § 690. \*The roots given at § 414 and @[ज्या] substitute @[न] for @[त],
 
-* @[अदन्तायां निष्ठाताो नः पूर्वस्य च दीर्घः। संयोगादेरातोधातोर्यण्वतः। ह्वादिभ्यः।] Pāṇ. VIII. 2. 42-44.
+- @[अदन्तायां निष्ठाताो नः पूर्वस्य च दीर्घः। संयोगादेरातोधातोर्यण्वतः। ह्वादिभ्यः।] Pāṇ. VIII. 2. 42-44.
 
 ---
 
@@ -11156,8 +11594,8 @@ pain @[नी] 6 A. @[नीत]
 
 #### § 695. @[pyai] has @[pīna] when it is used with 'one's own limbs,' @[pīnaṃ] @[sukhaṃ], and @[pyāna] or @[pīna] in other cases, as @[pyānaḥ] or @[pīnaḥ] @[aśvaḥ]; when it is preceded by a preposition, @[i] is not substituted for its vowel; @[prapyānaḥ]; but when it is used with @[aṅguli] or @[bāhu] with the preposition @[ā], @[i] is necessarily substituted; @[āpīno] @[aṅguliḥ], @[āpīnaṃ] @[bāhuḥ].
 
-* @[ṛṇamādhamṛṇādyīr]. Pan. VII. 2. 60. † @[divobhidijigīṣāyām].
-@[nivṛtirvānirnvātāt]. Pan. VIII. 2. 49-50
+- @[ṛṇamādhamṛṇādyīr]. Pan. VII. 2. 60. † @[divobhidijigīṣāyām].
+  @[nivṛtirvānirnvātāt]. Pan. VIII. 2. 49-50
 
 428 SANSKRIT GRAMMAR. { § 696-699
 
@@ -11176,6 +11614,7 @@ Roots. P. P. Ptc. Roots P. P. Ptc.
 #### § 698. A radical @[v] preceding or following a vowel is sometimes changed to @[ū] before @[ta] or @[na]; when it is preceded by @[a] it is dropped; @[vad]—@[ūna], @[vṛt]—@[vṛtta], @[vā]—@[vāta], @[kṣvid]—@[kṣvinna], @[ṛ]—@[ṛta] or @[ṛṇa] (See § 693, a.).
 
 #### § 699. The following roots (some forming their P. P. P. irregularly) reject @[ta] in the limited sense attached to each:—
+
 @[math] @[magna] 'a churning handle,' @[vṛdh]—@[vṛddha] 'a note,' @[majj] @[magna] 'the mind.' @[phal]—@[phāṇita] 'a decoction easily @[bhram] @[bhrānta] 'darkness.' prepared.' (@[anāyāsasādhyaḥ] @[sañj] @[sakta] 'attached.' @[kuṣāyāpi] @[śoṣaḥ] Sid. Kan.)
 @[spṛś]—@[spṛṣṭa] 'indistinct.' @[vāh]—@[vāḍha] 'much,'
 
@@ -11206,7 +11645,7 @@ In their usual senses they have @[asvāra], @[dhvanita], @[atta], @[gīta], @[vi
 | | | | @[parivṛddha] a master, after @[vṛ] @[hita] or @[vṛdha] 'grown, increased' |
 | | | @[śā] 'to sharpen,' | @[śāta] or @[śita] |
 
-* @[avadattam nidattam pradattādikam īdṛśam | ādattam avadattaś ca nidattam iti ceṣyate]
+- @[avadattam nidattam pradattādikam īdṛśam | ādattam avadattaś ca nidattam iti ceṣyate]
 
 | Roots. | P. P. Ptc. | Roots. | P. P. Ptc. | |--------|-----------|--------|-----------|
 | @[śuṣ] 'to go, to become dry' | @[śuṣka] | @[stu] with @[pra] | @[prastuta] or @[prastūta] |
@@ -11220,11 +11659,11 @@ In their usual senses they have @[asvāra], @[dhvanita], @[atta], @[gīta], @[vi
 
 § The P. P. participles have not always a passive force:—
 
-#### § 704.* The affix @[ta] added to roots having the sense of 'sitting or going, or eating' shows the place where the action takes place, @[idam mokunda-āsitam] 'this is the place where Mokunda used to sit,' @[idam yātam rāma-patneḥ] 'this is the path by which the husband of Rāmā used to pass,' @[idam etat bhuktatam anantasya] 'this is the place where Ananta took his food,' &c.
+#### § 704.\* The affix @[ta] added to roots having the sense of 'sitting or going, or eating' shows the place where the action takes place, @[idam mokunda-āsitam] 'this is the place where Mokunda used to sit,' @[idam yātam rāma-patneḥ] 'this is the path by which the husband of Rāmā used to pass,' @[idam etat bhuktatam anantasya] 'this is the place where Ananta took his food,' &c.
 
 #### § 705. The P. P. Participles of roots implying motion, of intransitive roots, and of the roots @[gam], @[sthā], @[śī], @[ās], @[vas] 'to dwell,' @[śas], @[ruh], and @[janu] 4. cl. have an active sense; @[aham āgato madrāsam] 'I went to Madras,' @[mlāno bālaḥ] 'the boy has become languid;' @[āśliṣṭo lakṣmyā hariḥ] 'Hari embraced Lakshmi:' @[śayito śeṣa-talpeḥ] 'slept on Sesha;' @[vaikuṇṭha-
 
-* @[akaraṇe ca prācyena gati-bhakṣaṇāsanārthaṃ ca styaḥ] | Pan, III. 4, 48.
+- @[akaraṇe ca prācyena gati-bhakṣaṇāsanārthaṃ ca styaḥ] | Pan, III. 4, 48.
 
 #### § 705-709] Primary Nominal Bases. 431
 
@@ -11245,20 +11684,20 @@ Roots. P. P. Ptc. P. Ac. Ptc.
 
 #### §709. The Participle of the Simple Future, active as well as passive, is formed from the third person singular form of the Second Future of a root. The Parasm. Ptc. is formed simply by dropping the final @[i], and the Ātm. and the passive one by substituting @[māna] for the final @[te]; e.g.
 
- Participles.
+Participles.
 Roots. Par. @[Ātm]. passive.
 @[dā]— @[dāsyat] @[dāsyamāna] @[dāsyamāna] or @[dāyiṣyamāṇa] @[bhū]— @[bhaviṣyat] @[bhaviṣyamāna] @[bhaviṣyamāṇa] or @[bhāviṣyamāṇa]
 
 Roots. Par. @[Ātm]. passive.
 
 @:
-cur—       corayiṣyat       corayiṣyamāna    corayiṣyamāṇa or coriṣyamāṇa
-gam—       gamiṣyat         saṃgamiṣyamāna   gamiṣyamāṇa
-ji—        jeṣyat           vijeṣyamāna      jeṣyamāṇa, jāyiṣyamāṇa
-kṛ—        kariṣyat         kariṣyamāna      kariṣyamāṇa, kāriṣyamāṇa
-śru—       śroṣyat          saṃśroṣyamāna    śroṣyamāṇa, śrāviṣyamāṇa
-edh—A.     edhiṣyamāṇa      edhiṣyamāṇa
-tud—       totsyat          totsyamāna       totsyamāna
+cur— corayiṣyat corayiṣyamāna corayiṣyamāṇa or coriṣyamāṇa
+gam— gamiṣyat saṃgamiṣyamāna gamiṣyamāṇa
+ji— jeṣyat vijeṣyamāna jeṣyamāṇa, jāyiṣyamāṇa
+kṛ— kariṣyat kariṣyamāna kariṣyamāṇa, kāriṣyamāṇa
+śru— śroṣyat saṃśroṣyamāna śroṣyamāṇa, śrāviṣyamāṇa
+edh—A. edhiṣyamāṇa edhiṣyamāṇa
+tud— totsyat totsyamāna totsyamāna
 :@
 
 Similarly @[pipaṭ] Desi. Base of @[paṭ]—@[pipaṭiṣyat], @[pipaṭiṣyamāṇa] &c.: @[bom] Fre. B. of @[pac]—@[bombaviṣyat], @[bombaviṣyamāṇa], &c.
@@ -11273,7 +11712,7 @@ Similarly @[pipaṭ] Desi. Base of @[paṭ]—@[pipaṭiṣyat], @[pipaṭiṣya
 
 #### §712. The affixes @[tavya] or @[anīya] are added to roots or derivative bases in the sense of 'must be, fit to be,' &c. Before these the ending vowel and the penultimate short @[a] of a root take their Guṇa substitute. Before @[tavya] Seṭ roots take @[i], Aṇiṭ roots do not, and Veṭ roots take it optionally. Before @[anīya] penultimate @[ṛ] is always changed to @[ar] and not to @[ra] (as @[i] sometimes does); e.g.
 
-*@[tavyānīyayor-vidhi]. Pan. III. 1. 96. @[ṇyata upasaṃkhyānam]. Vārtika.
+\*@[tavyānīyayor-vidhi]. Pan. III. 1. 96. @[ṇyata upasaṃkhyānam]. Vārtika.
 
 §ा्य what ought to be frequently washed.
 
@@ -11285,7 +11724,7 @@ of @[jñā]—@[boddhikṣaṇīya],,,, desired to know.
 
 By means of @[yat] (@[ya]).
 
-#### § 714. The suffix @[ya] (@[yat] )* is added on to roots ending in a vowel in the sense of 'fit for, or fit to be, or ought to be.' Before this @[ya] the radical vowel undergoes @[guṇa] substitute and final @[ā] (@[e], @[ai] and @[o] changeable to @[āv] ) is changed to @[e].
+#### § 714. The suffix @[ya] (@[yat] )\* is added on to roots ending in a vowel in the sense of 'fit for, or fit to be, or ought to be.' Before this @[ya] the radical vowel undergoes @[guṇa] substitute and final @[ā] (@[e], @[ai] and @[o] changeable to @[āv] ) is changed to @[e].
 
 @[dā]—@[deya] what is fit or ought to be given.
 
@@ -11307,7 +11746,7 @@ By means of @[yat] (@[ya]).
 
 #### § 717. The roots @[vad], @[sad], @[cad] and @[yam], take the affix @[ya] when not preceded by a preposition ; @[vad]—@[vādya] 'what ought to be spoken
 
-* @[yat ya] । Pan. III. 1. 97.
+- @[yat ya] । Pan. III. 1. 97.
 
 ---
 
@@ -11359,7 +11798,7 @@ Roots. Pot. Ptc.
 
 Freq. Base of @[budh]—@[bodhanīya],, " known frequently
 
-* The @[a] of @[guh] is changed to @[o] against § 712.
+- The @[a] of @[guh] is changed to @[o] against § 712.
 
 † The @[i] of @[bhid] is lengthened instead of being Guṇated before a strong termination beginning with a vowel.
 
@@ -11409,7 +11848,7 @@ By means of the affix @[kyap] (@[ya])
 
 N. B. The word @[nāpā] meaning 'a wife' ought to be derived from @[nū] of the 3rd class and affix @[kyap].
 
-#### § 729. *The following seven words are irregularly formed with the affix @[kyap] in the sense given in each case:— @[rājasūyaḥ] (@[rājan] + @[sū] + @[kyap]) @[rājā sotavyaḥ abhiṣecanīyaḥ niṣpādanīyaḥ]। @[yaśaḥ chatrātmakaḥ sobhāḥ rājā sa sūyate kaṇḍyate atra ityādikaraṇe kyap]। @[nipātanādīrghaḥ]; also @[rājasūya]; @[saryaḥ] (@[su] + @[kyap], or @[su] 6. P. 'to incite,' 'to impel' + @[kyap]) @[sarati ākāśe iti saryaḥ kyap, nipātanādūtvaṃ]। @[vā] @[cū preraṇe tadādiḥ]; @[bhāryā] @[karmaṇi lokaṃ bharati] @[kyap]; @[asavyaṃ] 'falsehood' (from @[asat] + @[vad] + @[kyap]); @[rocate iti rucyaḥ]; @[kupyaṃ] (any base metal) fr. @[kup] + @[kyap]। @[paktiḥ kupā ca saṃjñāyām]। @[uṣṇarajatabhinnāṃ dhātu kupyam] Cf. Kir. I. 35. Manu. VII. 96. @[gup] in other cases takes the affix @[ṇyat]; @[gopyaṃ] 'what ought to be concealed' @[gup svayameva cyante mohādikaraṇāt karmakarttari iti tu karmaṇi kṛṣṇapākyāḥ]. 'growing in cultivated ground;' @[na vyathate avyathyaḥ] 'not feeling pain.'
+#### § 729. \*The following seven words are irregularly formed with the affix @[kyap] in the sense given in each case:— @[rājasūyaḥ] (@[rājan] + @[sū] + @[kyap]) @[rājā sotavyaḥ abhiṣecanīyaḥ niṣpādanīyaḥ]। @[yaśaḥ chatrātmakaḥ sobhāḥ rājā sa sūyate kaṇḍyate atra ityādikaraṇe kyap]। @[nipātanādīrghaḥ]; also @[rājasūya]; @[saryaḥ] (@[su] + @[kyap], or @[su] 6. P. 'to incite,' 'to impel' + @[kyap]) @[sarati ākāśe iti saryaḥ kyap, nipātanādūtvaṃ]। @[vā] @[cū preraṇe tadādiḥ]; @[bhāryā] @[karmaṇi lokaṃ bharati] @[kyap]; @[asavyaṃ] 'falsehood' (from @[asat] + @[vad] + @[kyap]); @[rocate iti rucyaḥ]; @[kupyaṃ] (any base metal) fr. @[kup] + @[kyap]। @[paktiḥ kupā ca saṃjñāyām]। @[uṣṇarajatabhinnāṃ dhātu kupyam] Cf. Kir. I. 35. Manu. VII. 96. @[gup] in other cases takes the affix @[ṇyat]; @[gopyaṃ] 'what ought to be concealed' @[gup svayameva cyante mohādikaraṇāt karmakarttari iti tu karmaṇi kṛṣṇapākyāḥ]. 'growing in cultivated ground;' @[na vyathate avyathyaḥ] 'not feeling pain.'
 
 #### § 730. (a) The following two words which are the names of two rivers are derived by means of this affix; @[vitti chalaṃ vidiḥ] from @[bhid] + @[kyap]; @[uñchayatyudakaṃ vṛkṣāṇām, uñch] + @[kyap]; see Rag. XI. 8. In other cases these roots take the affix @[tṛc]; @[bhettā], @[uñcchitā].
 
@@ -11417,7 +11856,7 @@ N. B. The word @[nāpā] meaning 'a wife' ought to be derived from @[nū] of the
 
 #### § 731. The roots @[śū], @[nī] and @[ji], preceded by @[vi], take this affix, when they are connected with the words @[muñja], @[kalka] and @[hala] respectively; @[viśūyaḥ muñjaḥ] 'The Munja grass to be prepared for weaving into a rope' (@[śūthaṃ dvādikaraṇāya śodhanīyaṃ vetasyārthaḥ] Sid. Kau.); @[vinīyaḥ kalkaḥ] 'sin which ought to be destroyed;' @[vijityaḥ]
 
-*@[rājasūyasaryaśocyarucyapakuṣyaruṭapacyāvyathyāḥ]। Pan. III. 1. 114. Vide Sid. Kau. on the same.
+\*@[rājasūyasaryaśocyarucyapakuṣyaruṭapacyāvyathyāḥ]। Pan. III. 1. 114. Vide Sid. Kau. on the same.
 
 † Cf. @[bhidro janānyātayati ivāṇo], &c. Rig. III. 59. 1.
 
@@ -11535,7 +11974,7 @@ Roots. P. P. Ptc. Ind. P. Ptc.
 
 @[śās] to rule @[śiṣṭam] @[śiṣṭvā]
 
-* See § 684 (a); § 750
+- See § 684 (a); § 750
 
 #### § 746. When the intermediate @[i] is inserted, the preceding vowel takes its @[guṇa] substitute; @[tṛ]—@[taritvā], @[kṛ]—@[karitvā], @[smṛ]—@[smaritvā], &c.
 
@@ -11551,7 +11990,7 @@ Roots. Ind. P. Ptc. or Ger.
 
 @[gāh] to enter @[gāhitvā], @[gāḍhvā]
 
-* The following are the more important of the roots marked with @[iṭ]; @[añc] 1. P. A. @[aṭ] 1. 10. P. A. @[as] 4 P. @[aś], @[kam] 5. P. 1. A. @[kamp], @[kram] 1. P. @[kḷp] 4. P. @[kṣaṇ] 8. P. A. @[kṣiṇ] 8. P. A. @[kṣip] 1. 4. P. @[kṣīv] 1. P. @[kṣubh] 1. P. @[khan] 1. P. 4. @[gam] 4. P. @[gaṣ] 1. 4. @[guh] 1. P. @[grabh] P. @[guñc] 1. P. @[ghaṭ] 8. P. A. @[ghuṣ] 1. P. @[cañc] 1. P. @[cakṣ] 1. P. @[cṛd] 7. P. A. @[jabh] 1. P. @[jas] 4. P. 10. P. A. @[tañc] 1. P. @[tap] 8. P. @[tan] 4. 1. P. A. 10. P. @[tuṇ] 8. P. 4 @[daṃś] 5. P. @[dam] 4. P. @[diś] 4. P. 10. A. @[dṛṃh] P. A. @[dhvaṃs] 1. A. @[paṣ] 1. P. @[paś] 1. P. @[baṣ] 4. P. @[badh] 4. P. @[budh] 1. 4. P. @[bhaj] P. A. 4. P. @[bhañj] 1. 4. @[maṃs] 8. A. @[muṣ] 1. P. @[muc], @[śuñc], @[ruṃc], @[muñc], 1. P. @[yaj], @[naś], @[daṃś], @[bhraṃś], all of the 4th cl. P. @[vañc], 1. P. A. @[van] 8. P. @[vas] 1. 4. P. @[vij] 1. P. @[viṭ] 1. 4. 4. 10. P. A. @[viś] 1. 4. 10. P. A. @[vṛṣ] 1. P. @[śrath] 4. P. A. @[śās] 1. P. @[śaṃs] 1. P. @[śās] 1. P. P. P. A. @[śī] 1. P. 4. @[śvas] 1. P. @[saṃś] 4. P. @[sic] 4. P. @[cchiṣ] 1. P. @[saj] 1. P. 8. P. A. @[siñc] 1. 4. P. @[sidh] 1. 4. P. A. @[skabh], @[stambh], 4. 9. P. @[syam] 1. P. @[svaṃj] 1. A. @[haṣ] 9. P. and @[iṣ] 1. P.
+- The following are the more important of the roots marked with @[iṭ]; @[añc] 1. P. A. @[aṭ] 1. 10. P. A. @[as] 4 P. @[aś], @[kam] 5. P. 1. A. @[kamp], @[kram] 1. P. @[kḷp] 4. P. @[kṣaṇ] 8. P. A. @[kṣiṇ] 8. P. A. @[kṣip] 1. 4. P. @[kṣīv] 1. P. @[kṣubh] 1. P. @[khan] 1. P. 4. @[gam] 4. P. @[gaṣ] 1. 4. @[guh] 1. P. @[grabh] P. @[guñc] 1. P. @[ghaṭ] 8. P. A. @[ghuṣ] 1. P. @[cañc] 1. P. @[cakṣ] 1. P. @[cṛd] 7. P. A. @[jabh] 1. P. @[jas] 4. P. 10. P. A. @[tañc] 1. P. @[tap] 8. P. @[tan] 4. 1. P. A. 10. P. @[tuṇ] 8. P. 4 @[daṃś] 5. P. @[dam] 4. P. @[diś] 4. P. 10. A. @[dṛṃh] P. A. @[dhvaṃs] 1. A. @[paṣ] 1. P. @[paś] 1. P. @[baṣ] 4. P. @[badh] 4. P. @[budh] 1. 4. P. @[bhaj] P. A. 4. P. @[bhañj] 1. 4. @[maṃs] 8. A. @[muṣ] 1. P. @[muc], @[śuñc], @[ruṃc], @[muñc], 1. P. @[yaj], @[naś], @[daṃś], @[bhraṃś], all of the 4th cl. P. @[vañc], 1. P. A. @[van] 8. P. @[vas] 1. 4. P. @[vij] 1. P. @[viṭ] 1. 4. 4. 10. P. A. @[viś] 1. 4. 10. P. A. @[vṛṣ] 1. P. @[śrath] 4. P. A. @[śās] 1. P. @[śaṃs] 1. P. @[śās] 1. P. P. P. A. @[śī] 1. P. 4. @[śvas] 1. P. @[saṃś] 4. P. @[sic] 4. P. @[cchiṣ] 1. P. @[saj] 1. P. 8. P. A. @[siñc] 1. 4. P. @[sidh] 1. 4. P. A. @[skabh], @[stambh], 4. 9. P. @[syam] 1. P. @[svaṃj] 1. A. @[haṣ] 9. P. and @[iṣ] 1. P.
 
 #### § 747-749 } Primary Nominal Bases. 443
 
@@ -11576,7 +12015,7 @@ But @[tyaj]—@[tyaktvā], @[riṣ]—@[riṣṭvā], @[vas]—@[uṣṭvā], &c
 
 (b) The penultimate nasal of roots ending in @[anth] or @[ambh] and that of @[vañc] 'to roam abroad,' 'to deceive' and @[luñc] 'to tear out,' are optionally dropped; @[granth]—@[granthitvā], @[grathitvā]; @[kṣubh]—@[kṣubhitvā], @[kṣubhitvā]; @[vañc]—@[vañcitvā], @[vacitvā], @[vaktvā]; @[luñc]—@[luñcitvā], @[lucitvā].
 
-* The @[a] is lengthened optionally before @[tvā].
+- The @[a] is lengthened optionally before @[tvā].
 
 444 Sanskrit Grammar. { § 749-752
 
@@ -11602,7 +12041,7 @@ But @[tyaj]—@[tyaktvā], @[riṣ]—@[riṣṭvā], @[vas]—@[uṣṭvā], &c
 #### § 752-760 Primary Nominal Bases. 445
 
 @[bandh] with @[ni-] @[nibadhya] @[dru] with @[ā-] @[ādrūya] @[dā], @[dhā], @[mā] and @[sthā] with @[upa-] @[upadāya]
-@[dhe]* with @[anu-] @[anudhāya], @[lī] with @[vi-] @[vilīya] or @[vilāya] @[jñā] with @[pari-] @[parijñāya] &c. &c.
+@[dhe]\* with @[anu-] @[anudhāya], @[lī] with @[vi-] @[vilīya] or @[vilāya] @[jñā] with @[pari-] @[parijñāya] &c. &c.
 @[dā] with @[ā-] @[ādāya]
 
 #### § 753. Roots of the 8th class ending in a nasal, except @[tan] and the roots @[man], @[han] and @[gam], drop their nasal necessarily. @[gam], @[nam], @[yam] and @[ram] do it optionally; @[tan] with @[vi-] @[vitāya]; @[bhan] with @[ava-] @[avabhāya]; @[yam] with @[ni-] @[niyamya] or @[niyatya]; @[ram] with @[vi-] @[virāmya] or @[viratya]; @[nam] with @[pra-] @[praṇamya] or @[praṇatya], &c.
@@ -11621,7 +12060,7 @@ But @[tyaj]—@[tyaktvā], @[riṣ]—@[riṣṭvā], @[vas]—@[uṣṭvā], &c
 
 #### § 760. desiderative bases add @[ya] immediately and Freq. bases add it after dropping their @[ya], when it is preceded by a consonant and dropping the final @[a] when it is preceded by a vowel; @[budh-] @[bubhodhiṣya]; Fre. @[bobodhya]; @[kṛ-] @[cikīrṣya], @[carīkarya] &c.
 
-* @[dhe] changes its final to @[i] optionally; so @[bhichidya] or @[bhitya] also.
+- @[dhe] changes its final to @[i] optionally; so @[bhichidya] or @[bhitya] also.
 
 ---
 
@@ -11631,9 +12070,9 @@ But @[tyaj]—@[tyaktvā], @[riṣ]—@[riṣṭvā], @[vas]—@[uṣṭvā], &c
 
 #### § 762. This Participle is generally used at the end of compounds; @[sa loṣṭaghātaṃ hataḥ] 'he was pelted to death;' @[bandiṃ kṛtvā] ( Vik. I. ) 'She was taken a captive.' @[sa kṣayaṃ nītavān ripūn] ( Bhaṭṭi. I. 2. ) 'He totally exterminated his enemies, &c.'
 
-#### § 763. The participles in @[tvā] and @[am]* when repeated yield the sense of repetition of the action or condition expressed by the verb; @[smaratvā smaratvā] or @[smaram smaram]—'having repeatedly remembered'; @[pītvā pītvā] or @[pāyaṃ pāyam] 'having drunk again and again,' similarly @[bhuj-] @[bhuktvā bhuktvā] or @[bhojam bhojam]; @[śru-] @[śrutvā śrutvā] or @[śrāvam śrāvam]. @[gam-] @[gatvā gatvā] or @[gāmam gāmam] or @[gamam gamam], @[labh-] @[labdhvā labdhvā] or @[lābham lābham] or @[labham labham], @[pralam-] @[pralambham pralambham], @[jāgṛ-] @[jāgaram jāgaram],† &c.
+#### § 763. The participles in @[tvā] and @[am]\* when repeated yield the sense of repetition of the action or condition expressed by the verb; @[smaratvā smaratvā] or @[smaram smaram]—'having repeatedly remembered'; @[pītvā pītvā] or @[pāyaṃ pāyam] 'having drunk again and again,' similarly @[bhuj-] @[bhuktvā bhuktvā] or @[bhojam bhojam]; @[śru-] @[śrutvā śrutvā] or @[śrāvam śrāvam]. @[gam-] @[gatvā gatvā] or @[gāmam gāmam] or @[gamam gamam], @[labh-] @[labdhvā labdhvā] or @[lābham lābham] or @[labham labham], @[pralam-] @[pralambham pralambham], @[jāgṛ-] @[jāgaram jāgaram],† &c.
 
-* @[āmreḍite 'naḷ] I Pāṇ. III. 4. 22.
+- @[āmreḍite 'naḷ] I Pāṇ. III. 4. 22.
 
 † At the end of compounds this may not be repeated and yet have the sense of repetition; as in:
 @[nāmnā kakutsthakulajo namavaskandamurmāñchakān | pādodāni ca tāsāṃ rasavismayamāna āste ||] Bhaṭṭi. VII. 11.
@@ -11669,7 +12108,7 @@ The descendant of Kakutstha, smiling gently, repeatedly bending down the creeper
 
 #### § 770-772] Primary Nominal Bases. 449
 
-#### § 770. * The gerund of @[bandh] is used with words denoting peculiar arrangements of stanzas, &c., @[cakrabandhaṃ śāstraṃ], @[sragbandhaṃ śāstraṃ], @[mālikābandhaṃ], @[aṭṭālikābandhaṃ], &c.
+#### § 770. \* The gerund of @[bandh] is used with words denoting peculiar arrangements of stanzas, &c., @[cakrabandhaṃ śāstraṃ], @[sragbandhaṃ śāstraṃ], @[mālikābandhaṃ], @[aṭṭālikābandhaṃ], &c.
 
 #### § 771. † With the words @[jīvana] and @[paruṣa] used subjectively the gerunds of @[naś] and @[vah] are used; @[jīvanaṃ naśyati] @[jīvanaśaṃ naśyatītyarthaḥ], @[paruṣaṃ vahati] @[paruṣo vahatītyarthaḥ].
 
@@ -11683,9 +12122,9 @@ The descendant of Kakutstha, smiling gently, repeatedly bending down the creeper
 
 (b) Similarly @[keśākṛṣṭaṃ yudhyante] i. e. @[keśeṣu ākṛṣṭam]; @[nakhābhinnaṃ] i. e.
 
-* @[adhikaraṇe bandhaḥ] | @[saṃkhyāyām] Pan. III. 4. 41. 42. † @[ca jīvanapparuṣayoḥ naśivahoyoḥ] | Pan. III. 4. 43.
-‡ @[ūrdhvaṃ hutyupūryoḥ] | Pan. III. 4. 44. †† @[upamānānni karmaṇi ca] | Pan. III. 4. 45.
-§ @[hiṃsārthānāṃ ca samānakarmaṇāṃ] | @[saptamyāṃ copapīḍarudhakarṣaḥ] | @[samāsāntaḥ kṛñaḥ ca] | @[apādāne parītyājayoḥ] | @[dvitīyāyāṃ ca] | Pan. III. 4. 48-53.
+- @[adhikaraṇe bandhaḥ] | @[saṃkhyāyām] Pan. III. 4. 41. 42. † @[ca jīvanapparuṣayoḥ naśivahoyoḥ] | Pan. III. 4. 43.
+  ‡ @[ūrdhvaṃ hutyupūryoḥ] | Pan. III. 4. 44. †† @[upamānānni karmaṇi ca] | Pan. III. 4. 45.
+  § @[hiṃsārthānāṃ ca samānakarmaṇāṃ] | @[saptamyāṃ copapīḍarudhakarṣaḥ] | @[samāsāntaḥ kṛñaḥ ca] | @[apādāne parītyājayoḥ] | @[dvitīyāyāṃ ca] | Pan. III. 4. 48-53.
 
 H. S. G. 29.
 
@@ -11695,7 +12134,7 @@ H. S. G. 29.
 
 (c) Nouns having the sense of the Ablative and the Accusative are used with the gerund of a root when haste or hurry is intended; @[śayyotthāyaṃ dhāvati] 'runs having quickly got up from the bed;' @[dhanuścchidaṃ yudhyante]; @[sragvihāyam], &c.
 
-#### § 773. * A root may be used in its gerundive form in @[am] with its object prefixed to it if that object be a part of the body which can be severed without fatal effects; @[bhrūsaṃkocaṃ kathayati] 'narrates contracting the eyebrows;' but @[śiraḥ chittvā kathayati] (not @[śiraśchedam]) as the severance of the head would cause death.
+#### § 773. \* A root may be used in its gerundive form in @[am] with its object prefixed to it if that object be a part of the body which can be severed without fatal effects; @[bhrūsaṃkocaṃ kathayati] 'narrates contracting the eyebrows;' but @[śiraḥ chittvā kathayati] (not @[śiraśchedam]) as the severance of the head would cause death.
 
 (a) Similarly when a part of the body is completely hurt or pressed in the action, the gerund in @[am] is used with that part; @[uraḥpratīpeṣaṃ yudhyante] i.e. @[uraḥ pratīpeṣya pīḍayantaḥ] 'afflicting the whole bosom,' @[urovidāraṃ pratikartuṃ nakhe] |
 
@@ -11703,12 +12142,12 @@ H. S. G. 29.
 
 #### § 775. (a) ‡ The gerunds of @[as] and @[tṝ] are used with nouns denoting a period of time intervening between the repetition or performance of the action; @[dvyahatyāsaṃ] or @[dyumam atyāsaṃ gāḥ pāyayati] 'he makes the cows drink water allowing two days to intervene, i. e. every third day' @[adya pāyayitvā dve dinam atikramya punaḥ pāyayatītyarthaḥ] (Sid. Kau.); similarly @[dvyahaṃtaraṃ] or @[dyumatitīrṇam].
 
-* @[svāṅge chedaḥ] | (@[yena vinā na jīvanam asaṃkhyaḥ] | Sid. Kau.) @[parivṛddhidehamani ca] | Pan. III. 4. 54, 55. † @[viśāpatiṣṭhadiskandiānāṃ nyāpyamānāsevyasthānayoḥ] Pan. III. 4. 56. @[gṛhādiguṇyāṇāṃ viśyādiskandyābhiḥ sākalyena saṃbandho nirdiṣṭaḥ] | @[gṛhasya paunaḥpunyam avisadiskandiānam] | Sid. Kau.
-‡ @[asaṃtatitroḥ kālikam antare kālaḥ] |
+- @[svāṅge chedaḥ] | (@[yena vinā na jīvanam asaṃkhyaḥ] | Sid. Kau.) @[parivṛddhidehamani ca] | Pan. III. 4. 54, 55. † @[viśāpatiṣṭhadiskandiānāṃ nyāpyamānāsevyasthānayoḥ] Pan. III. 4. 56. @[gṛhādiguṇyāṇāṃ viśyādiskandyābhiḥ sākalyena saṃbandho nirdiṣṭaḥ] | @[gṛhasya paunaḥpunyam avisadiskandiānam] | Sid. Kau.
+  ‡ @[asaṃtatitroḥ kālikam antare kālaḥ] |
 
 #### § 775-777 ] Nominal Bases, 451
 
-(4)* Similarly the gerunds of @[dṛś] with @[ā], and @[gam] are used with @[nāman] and in the sense of the Acc.; @[nāmadheśam ākhyāti nāmrā māmrāhayāti], &c.
+(4)\* Similarly the gerunds of @[dṛś] with @[ā], and @[gam] are used with @[nāman] and in the sense of the Acc.; @[nāmadheśam ākhyāti nāmrā māmrāhayāti], &c.
 
 (5) The gerund of @[bhū] may optionally be used after @[tūṣṇīm] and @[anvañc]; @[tūṣṇīgaśya-kṛtvā-bhāvam]; similarly, @[anvagbhūtvā], @[anvagbhāvam].
 
@@ -11725,13 +12164,15 @@ Roots. Infinitive Roots. Infinitive.
 @[gā] to sing @[gātum] Atm. Freq. @[bobhūyitum] @[gam] to go @[gantum] &c. &c. &c.
 
 ## SECTION II.
+
 ## Verbal Nouns Formed By Means
+
 of
 Various @[Kṛt] Affixes.
 
 #### §777. In the following list are alphabetically arranged almost all the common Kṛt affixes forming nouns (substantive and adjective) with various significations from roots or derivative bases. @[a]—{@[ac], @[aṇ], @[ap]; @[av], @[as]. @[ā], @[īr] or @[ūr], @[gha], @[ghan], @[ṭa], @[ṭac], @[ṇa], @[ta], and @[tra]}:—
 
-* @[anāmathadiśrihṛbhyaḥ] Pā. III. 4. 51. 58.
+- @[anāmathadiśrihṛbhyaḥ] Pā. III. 4. 51. 58.
 
 @[a]—denoting 'the agent' is added to—@[pac] and other roots; @[pacatīti pacaḥ] 'one who cooks,' @[khar]—@[kharaḥ], @[sir]—@[siraḥ] @[nadī], @[nad]—@[nadaḥ] (@[nadī]);—to @[bhṛ] and @[hṛ], when the words @[jāra] and @[sva] are prefixed to them respectively; @[jārabhṛā] 'an adulteress,' @[svahṛtaḥ] 'a Cāṇḍāla'—to @[hṛ] when the noun governed by it is used prepositionally and when the idea of difficulty is not present or when the whole compound denotes 'age;' @[aṃśam haratīti aṃśaharaḥ] 'one entitled to a share, a heir', but @[bhāraharaḥ] 'a load-bearer' (@[bhāra + hṛ + aṇ]); @[kaṭiharaḥ] 'a young child;' also when @[vi] is prefixed to it in the sense of 'in the habit of.' @[vividham harati tat śīlam asya asau viharaḥ];—to the root @[grah] when the words @[śakti] 'a missile,' @[lāṅgala] 'a plough,' @[aṅkuśa] 'an iron hook,' @[tomara] 'a javelin,' @[yaṣṭi] 'a stick,' @[cakra], @[ghaṭī] and @[sūtra] are prefixed to it; @[śaktim gṛhṇātīti śaktigrahaḥ] 'one armed with a spear,' &c; @[lāṅgalagrahaḥ] &c.; also when @[sūtra] is prefixed to it and the root is used in the sense of 'wearing'; @[sūtragrahaḥ] 'wearing a sacred thread,' but @[sūtrahastaḥ] (@[sūtra + hasta + aṇ]) 'one who takes in his hand a sacred thread;'—to @[arh] when a noun used objectively is prefixed to it; @[pūjām arhatīti pūjārha brāhmaṇaḥ] 'a Brāhmaṇa deserving worship,'—to @[ram] and @[jap] when the words @[stamba] and @[karṇa] in the Loc. are prefixed to them respectively; @[stambe ramaḥ] 'an elephant,' @[karṇe japaḥ] 'one who whispers into the ear, a spy;'—to any root when the word @[su] is prefixed, @[surataḥ], @[suhṛdaḥ], @[sutaḥ] &c.—to @[śī] when a word showing the place of action precedes, @[khe śete khe-śayaḥ] 'dwelling in the sky,' so @[hṛcchayaḥ] 'dwelling in the heart, i. e. Madana'; also when words like @[pārśva] @[udara], @[pṛṣṭha], &c. and @[uttāna], &c. precede, @[pārśva-udara-pṛṣṭha-śāyaḥ] 'sleeping on the sides,' &c., @[uttānaśayaḥ] 'lying on the back with the face upwards.' so @[adhaśśayaḥ] (@[adhanato mukham asya tathā śete]) i. e. 'with the face downwards.' When added to roots ending in @[i] and to some others it forms abstract nouns, @[ci-cayaḥ] 'a collection,' @[ji-jayaḥ], @[mī-mayaḥ], @[vṛṣ-varṣaḥ] 'a shower of rain,' &c.
 
@@ -11929,7 +12370,7 @@ derbolt, a garment,—@[pavitra] an instrument for purifying, a sort of ring of 
 
 #### § 778-780 } SYNTAX. 469
 
-of words is not of material importance, though a perfect arbitrariness in that respect is not allowable. Sanskrit Syntax also takes farther into account the meaning and use of participles, the various tenses and moods, and participles. * These will be treated of in their proper order.
+of words is not of material importance, though a perfect arbitrariness in that respect is not allowable. Sanskrit Syntax also takes farther into account the meaning and use of participles, the various tenses and moods, and participles. \* These will be treated of in their proper order.
 
 ## THE ARTICLE.
 
@@ -11937,7 +12378,7 @@ of words is not of material importance, though a perfect arbitrariness in that r
 
 #### § 780. As already remarked ( See § 54) there are three numbers in Sanskrit: a singular number, denoting a single individual, a dual number denoting two, and a plural number denoting more than two. Besides these general senses—
 
-* As the great bulk of Sanskrit literature is thrown in the form of verse, the laws of Syntax will be found not to be always observed by the poets. In ordinary prose writings the usual order of words in a sentence is, first the subject with its adjuncts, then the object with its adjuncts, then the adverbs and other indeclinables ( extensions of the predicate ) and lastly the predicate, The chief characteristics of Sanskrit style are in the words of Prof. Max Muller, 'the predominance of coordination, the use of the Locative Absolute, a fondness for compounds and indeclinable participles supplying the place of subordinate clauses, the frequent employment of the Past Participle instead of the finite verb, a predilection for passive forms, and the absence of the indirect construction and of the subjunctive mood. For the latter reason the use of the tenses and moods is comparatively simple; on the other hand, the use of the cases, being much less definite than in Latin and Greek presents some difficulties.'
+- As the great bulk of Sanskrit literature is thrown in the form of verse, the laws of Syntax will be found not to be always observed by the poets. In ordinary prose writings the usual order of words in a sentence is, first the subject with its adjuncts, then the object with its adjuncts, then the adverbs and other indeclinables ( extensions of the predicate ) and lastly the predicate, The chief characteristics of Sanskrit style are in the words of Prof. Max Muller, 'the predominance of coordination, the use of the Locative Absolute, a fondness for compounds and indeclinable participles supplying the place of subordinate clauses, the frequent employment of the Past Participle instead of the finite verb, a predilection for passive forms, and the absence of the indirect construction and of the subjunctive mood. For the latter reason the use of the tenses and moods is comparatively simple; on the other hand, the use of the cases, being much less definite than in Latin and Greek presents some difficulties.'
 
 M. Williams' Grammar for Beginners.
 
@@ -11966,6 +12407,7 @@ But in the case of compounds ending in words denoting a country, such as @[deśa
 (5) The plural of proper nouns denotes a family or race as in English; @[janakānāṃ raghuṇāṃ ca yat sat satvaṃ bhavet tathā] Utta.
 
 ## SECTION I.
+
 ## CONCORD.
 
 #### § 781. Concord is the agreement of words in a sentence as regards gender, number, person or tense.
@@ -12008,7 +12450,7 @@ But numeral adjectives of fixed gender and number remain unchanged:—@[śataṃ
 
 (a) Sometimes the adjective takes the gender of the majority of the substantives; @[vṛddhau ca mātāpitarau sādhvī bhāryā kumārakaḥ | mānyāni caiva sarvāṇi bharatavyāni manurabravīt] aged parents, a good wife and a young son should be maintained even by doing a hundred foul deeds; so has Manu spoken (laid down).
 
-* @[nipātenābhihite karma na vibhaktiparigaṇanasya prāyikatvāt] | Viman.
+- @[nipātenābhihite karma na vibhaktiparigaṇanasya prāyikatvāt] | Viman.
 
 (b) And sometimes it takes the gender and number of the substantive nearest to it when the particle @[ca] is used; @[vamanaḥ kalahaḥ kaṇḍūḥ sevyamānā ca vardhate] ejection, quarrel and an itching sensation prevail all the more they are attended to; @[yasya dauryeṇa kṛtino vayaṃ ca bhuvanāni ca (kṛtāni)] by whose valour we have become happy and so have the three worlds.
 
@@ -12025,13 +12467,14 @@ But numeral adjectives of fixed gender and number remain unchanged:—@[śataṃ
 Obs:—Sometimes the antecedent noun or pronoun is omitted and has to be inferred from the gender and number of the relative; e.g. धनेन किं तस्य य ददाति याचके i. e. तस्य धनेन, &c. what is the use of wealth to him who does not bestow it on mendicants, &c.
 
 ## SECTION II.
+
 ## GOVERNMENT.
 
 #### § 794. The only portion of Syntax treated separately in Sanskrit grammars is the @[Kārakaprakaraṇa] or the chapter on Government. @[Kāraka] is the name given to the relation subsisting between a noun and a verb in a sentence. There are six @[Kāraka]s in Sanskrit belonging to the first seven cases, except the Genitive, which is, therefore, not a @[Kāraka] case. These are @[kartā], @[karma], @[karaṇa], @[saṃpradāna], @[apādāna] and @[adhikaraṇa].
 
 #### § 795. There are several indeclinables in Sanskrit which also govern cases. Cases governed by indeclinables are called @[Upapadavibhakti]s, as distinguished from those governed by verbs which are called @[Kārakavibhakti]s. In cases where both are possible the latter predominates over the former ( @[upapadavibhakteḥ kārakavibhaktir balavattarā] ); as in @[grāmaśrayaṃ yajate] although @[grāma] alone would govern the Dative.
 
-#### § 796. The Nominative, as in English and other languages is simply the naming case; its office, when used by itself, is to express the crude form of a word, gender, measure and number and nothing more.* When used with a verb it forms its subject.
+#### § 796. The Nominative, as in English and other languages is simply the naming case; its office, when used by itself, is to express the crude form of a word, gender, measure and number and nothing more.\* When used with a verb it forms its subject.
 
 ## THE ACCUSATIVE CASE.
 
@@ -12047,13 +12490,13 @@ Obs:—Sometimes the antecedent noun or pronoun is omitted and has to be inferre
 
 ---
 
-* @[prātipadikārthe liṅgaparimāṇavacanamātre prathamā] Pāṇ. II. 3. 46.
+- @[prātipadikārthe liṅgaparimāṇavacanamātre prathamā] Pāṇ. II. 3. 46.
 
 † @[kālādhvanoratyantasaṃyoge] | Pāṇ. I. 3. 5.
 
 ---
 
-* But when the relation of object and verb is expressed by the passive termination the noun forming the object is put in the nominative case, @[hariḥ sevyate].
+- But when the relation of object and verb is expressed by the passive termination the noun forming the object is put in the nominative case, @[hariḥ sevyate].
 
 @[grāma] @[gacchati] only; but @[patha] @[pathe] @[gṛhṇāti] he reaches the main road by taking a by-path.
 
@@ -12065,7 +12508,7 @@ Obs:—Sometimes the antecedent noun or pronoun is omitted and has to be inferre
 
 #### § 804. The particles @[ubhayataḥ], @[sarvataḥ], @[uparyupari], @[adho'dhaḥ], @[adhyadhi] and @[dhik]; @[abhitaḥ], @[paritaḥ], @[samayā], @[nikaṣā], @[hā] and @[prati] meaning 'to,' and @[antarā] 'between,' and @[antareṇa] 'without,' 'regarding to,' govern the Accusative; @[ubhayataḥ] @[kṛṣṇaṃ] @[gopāḥ] the cowherds are on both
 
-* @[adhiśīṅsthāsāṃ] @[karma] | Pāṇ. I.4.46. † @[abhinivisaś] @[ca] Pāṇ. I. 4.47.
+- @[adhiśīṅsthāsāṃ] @[karma] | Pāṇ. I.4.46. † @[abhinivisaś] @[ca] Pāṇ. I. 4.47.
 
 ‡ @[upānvadhyāṅā] @[vasaḥ] | Pāṇ. I. 4. 48.
 
@@ -12079,7 +12522,7 @@ Some of the indeclinables given above are used with the Genitive; e. g. @[uparyu
 
 (a) @[ati] 'superior to, higher than,' @[anu] 'just after, after, by the side of, inferior to,' @[abhi] 'close to' and @[upa] 'near, inferior to;' e. g. @[ati] @[devān] @[kṛṣṇaḥ] Kṛṣṇa excels gods in might; @[atirāmaṃ] @[govindaḥ] Govinda is superior to Rāma; @[japam] @[anu] @[prāvarṣat] it rained just after the muttering of prayers; @[sarvam] @[astu] @[te] every thing
 
-* @[karmapravachanīyayukte] @[dvitīyā] Pāṇ. I. 3. 8. Prepositions used by themselves and governing nouns are called Karmapravachanīya.—
+- @[karmapravachanīyayukte] @[dvitīyā] Pāṇ. I. 3. 8. Prepositions used by themselves and governing nouns are called Karmapravachanīya.—
 
 @[tṛtīyā] @[yoge] | @[hīne] | @[upo'dhikam] @[ca] | @[lakṣaṇārthe] @[bhūtākhyānabhāgavīpsāsu] @[ca] @[pratiparyāya] @[vaḥ] | @[abhir] @[abhāge] | Pāṇ. I. 4. 85-87, 90, 91.
 
@@ -12101,7 +12544,7 @@ i. e. the roots @[duh] to milk, @[pac] to cook, @[daṇḍ] to punish, @[rudh] t
 
 480 Sanskrit Grammar. [ § 807-808
 
-#### § 807. * When these verbs are used in the passive, the secondary object in the case of the first twelve roots and the principal one in that of the last four is put in the Nominative case, the other Accusative remaining as before, गौः पयो दुह्यते, दशरथः पृथ्वीं ययाचे बलेः, उदधिः अमृतं ममन्थे असुरैः &c., तेन गावः अजाः नीयन्ते हृयन्ते कृष्यन्ते उद्यन्ते वा, &c.
+#### § 807. \* When these verbs are used in the passive, the secondary object in the case of the first twelve roots and the principal one in that of the last four is put in the Nominative case, the other Accusative remaining as before, गौः पयो दुह्यते, दशरथः पृथ्वीं ययाचे बलेः, उदधिः अमृतं ममन्थे असुरैः &c., तेन गावः अजाः नीयन्ते हृयन्ते कृष्यन्ते उद्यन्ते वा, &c.
 
 #### § 808. † In the case of the causals of roots implying 'motion,' 'knowledge,' 'eating,' roots having some literary work for their object, intransitive roots and the roots @[jalp] and @[bhāṣ] with @[ā]; @[tap] with @[vi], @[vṛt] and @[sthā], their subject in the primitive sense is put in the Accusative case,
 
@@ -12115,11 +12558,11 @@ Obs:—@[dṛś] is sometimes found used with the Dative, प्रत्या�
 
 (a) The causals of @[nī], @[hṛ], and @[vah] when it has for its subject a
 
-* गौणे कर्मणि भावे च नीहृकृष्वहाः * * * @[ādayo] @[matāḥ] Sid. Kau. on @[Pāṇ]. VII. 1. 69.
+- गौणे कर्मणि भावे च नीहृकृष्वहाः \* \* \* @[ādayo] @[matāḥ] Sid. Kau. on @[Pāṇ]. VII. 1. 69.
 
 † गतिबुद्धिप्रत्यवसानार्थशब्दकर्माकर्मकाणाम् आपे च कर्मणि स णौ । @[Pāṇ]. I. 4. 52. जल्पविलपप्रवादानां च व्याप्येत्वात् । दोग्धि ५ ४१०१४९०८.
 
-noun other than one denoting a driver, govem the Instrumental of the primitive subject;* @[nāyayati] @[pravahatī] @[nā] @[bhāraṃ] @[gā] he makes his servant carry a load; but @[vāhayati] @[tān] @[vāhān] @[sūtaḥ] the charioteer makes the horses draw the chariot.
+noun other than one denoting a driver, govem the Instrumental of the primitive subject;\* @[nāyayati] @[pravahatī] @[nā] @[bhāraṃ] @[gā] he makes his servant carry a load; but @[vāhayati] @[tān] @[vāhān] @[sūtaḥ] the charioteer makes the horses draw the chariot.
 
 (1) † The same holds good in the case of the causal of @[aś] and @[khād]; @[āśayati] @[bhojayati] @[vā] @[annaṃ] @[bālena] he makes the boy eat his food.
 
@@ -12135,7 +12578,7 @@ Note:— By intransitive roots are meant such roots as are not capable of govern
 
 ---
 
-* @[akartṛsthāni] | @[prīdereka] @[bhāṇḍikareṣaḥ] | Vārtika.
+- @[akartṛsthāni] | @[prīdereka] @[bhāṇḍikareṣaḥ] | Vārtika.
 
 † @[aśādibhyaḥ] | Vārtika. ‡ @[mahitvabhihiṃsārthasya] @[na] | Vārt § @[śabdāyateś] @[ca] | Vārt.
 
@@ -12147,7 +12590,7 @@ H. S. G. 31
 
 @[abhivad], and @[dṛś] when used in the Ātm. is either put in the Accusative or the Instrumental; @[hārayati] @[vāyayati] @[vā] @[neya] @[bṛsīṃ] @[taṭaṃ] @[vā] @[taṭena] he causes the servant to take or weave a mat; @[abhivādayate] @[darśayate] @[devaṃ] @[bhaktaṃ] @[bhaktena] @[vā] he makes the devotee bow down to, or see, God.
 
-#### § 810. * When the causal forms are used in the passive, the principal object (i. e. the primitive subject) is put in the Nominative case; but in the case of roots implying 'knowledge or eating' and roots having a literary work for their object the principal object is put in the Nominative case and the secondary object in the Accusative or vice versa. @[devadattaḥ] @[kaṭaṃ] @[karoti] Devadatta prepares a mat—@[kārayaty] @[enaṃ] @[devadattena] @[vā] @[kaṭe] @[rāmaḥ] @[rāmeṇa] @[kaṭaḥ] @[kāryate] he makes Devadatta prepare a mat. @[devadattaḥ] @[grāmaṃ] @[gacchaṭi] Dev. goes to a village; @[rāma] @[enaṃ] @[grāmaṃ] @[gamayati] causes Dev. to go to a village; @[devadattaḥ] @[grāmaṃ] @[gamyate] Devadatta is made to go, &c; @[māṇavakaṃ] @[dharmaṃ] @[bodhayati] he makes Māṇavaka know his duty. @[bodhyate] @[māṇavakaṃ] @[dharmaḥ], @[māṇavako] @[dharmaṃ] @[veti] @[vā] Māṇavaka is made to know, &c. @[bālam] @[odanaṃ] @[bhojayati] he makes the child eat food; @[bhojyate] @[bālaḥ] @[odanaṃ] @[vā] @[bālaḥ] @[odano] @[bhojyate] the boy is made, &c.
+#### § 810. \* When the causal forms are used in the passive, the principal object (i. e. the primitive subject) is put in the Nominative case; but in the case of roots implying 'knowledge or eating' and roots having a literary work for their object the principal object is put in the Nominative case and the secondary object in the Accusative or vice versa. @[devadattaḥ] @[kaṭaṃ] @[karoti] Devadatta prepares a mat—@[kārayaty] @[enaṃ] @[devadattena] @[vā] @[kaṭe] @[rāmaḥ] @[rāmeṇa] @[kaṭaḥ] @[kāryate] he makes Devadatta prepare a mat. @[devadattaḥ] @[grāmaṃ] @[gacchaṭi] Dev. goes to a village; @[rāma] @[enaṃ] @[grāmaṃ] @[gamayati] causes Dev. to go to a village; @[devadattaḥ] @[grāmaṃ] @[gamyate] Devadatta is made to go, &c; @[māṇavakaṃ] @[dharmaṃ] @[bodhayati] he makes Māṇavaka know his duty. @[bodhyate] @[māṇavakaṃ] @[dharmaḥ], @[māṇavako] @[dharmaṃ] @[veti] @[vā] Māṇavaka is made to know, &c. @[bālam] @[odanaṃ] @[bhojayati] he makes the child eat food; @[bhojyate] @[bālaḥ] @[odanaṃ] @[vā] @[bālaḥ] @[odano] @[bhojyate] the boy is made, &c.
 
 #### § 811. As regards the causal of roots governing two Accusatives the general rules given at § 808 hold good; @[yājñavalkyaḥ] @[devaṃ] @[dharmaṃ] @[ayācata]; (@[tatra]) @[kauśikena] @[daśarathaṃ] @[rāmam] @[ayācayat]; @[gopaḥ] @[ajaṃ] @[grāmaṃ] @[harati], († ‡) @[gopena] @[ajāṃ] @[grāme] @[hārayati], &c.
 
@@ -12157,13 +12600,13 @@ H. S. G. 31
 
 ---
 
-* @[buddhikhādarthyoḥ] @[śābdakarmāṇāṃ] @[ca] @[nijicchayā] | @[bhavyajyakarmaṇy] @[anyeṣāṃ] @[prathamo] @['nyatamo] @[mataḥ] || Sid. Kau. on Pāṇ. VII. 1. 69.
+- @[buddhikhādarthyoḥ] @[śābdakarmāṇāṃ] @[ca] @[nijicchayā] | @[bhavyajyakarmaṇy] @[anyeṣāṃ] @[prathamo] @['nyatamo] @[mataḥ] || Sid. Kau. on Pāṇ. VII. 1. 69.
 
 † @[kartākaraṇayos] @[tṛtīyā] | Pāṇ. II. 3. 18.
 
 @[rāmeṇa bāṇena hato bālī]@ Vali was killed by Rāma with an arrow (here @[rāmeṇa]@ is the agent; @[bāṇena]@ the instrument)
 
-(a) * The Instrumental is also used in the following senses: @[prakṛtyā dānīyaḥ]@ lovely by nature, @[prāyeṇa kriyāvān]@ he is almost a ritualist, @[ākhyayā gārgyaḥ]@ Gargya by family name; @[sukhena yāti gacchet]@ with ease; so @[samena eti, viṣamena eti]@, &c. @[dvī droṇena dhānyaṃ krīṇāti]@ he buys two dronas of com at a time; @[ekaśatena paśūn krīṇāti]@ he buys one thousand beasts at a time, &c.
+(a) \* The Instrumental is also used in the following senses: @[prakṛtyā dānīyaḥ]@ lovely by nature, @[prāyeṇa kriyāvān]@ he is almost a ritualist, @[ākhyayā gārgyaḥ]@ Gargya by family name; @[sukhena yāti gacchet]@ with ease; so @[samena eti, viṣamena eti]@, &c. @[dvī droṇena dhānyaṃ krīṇāti]@ he buys two dronas of com at a time; @[ekaśatena paśūn krīṇāti]@ he buys one thousand beasts at a time, &c.
 
 (b) In the case of numerals and words expressive of measure the Acc. may also be used; @[dvi droṇaṃ krīṇāti dhānyam]@, @[ekaśatena śatena śataṃ śataṃ vatsān pāyayati payaḥ]@; &c.
 
@@ -12177,12 +12620,12 @@ H. S. G. 31
 
 ---
 
-* @[prakṛtyādibhyaḥ upasaṃkhyānam]@ | Vart. † @[divaḥ karmaṇi ca]@ | @[saṃjñor anyatarasyāṃ karmaṇi]@ | Pan. I. 4. 43, II. 3. 22.
-‡ @[apavarge tṛtīyā]@ | Pan. II. 3. 6. @[apavargaḥ phalaprāptiḥ]@ | @[deśasya śīghrasya kālādhvanor atyantasaṃyoge tṛtīyā syāt]@ | § @[yenāṅgavikāraḥ]@ | Pan. II. 3. 20.
+- @[prakṛtyādibhyaḥ upasaṃkhyānam]@ | Vart. † @[divaḥ karmaṇi ca]@ | @[saṃjñor anyatarasyāṃ karmaṇi]@ | Pan. I. 4. 43, II. 3. 22.
+  ‡ @[apavarge tṛtīyā]@ | Pan. II. 3. 6. @[apavargaḥ phalaprāptiḥ]@ | @[deśasya śīghrasya kālādhvanor atyantasaṃyoge tṛtīyā syāt]@ | § @[yenāṅgavikāraḥ]@ | Pan. II. 3. 20.
 
 ---
 
-#### § 815. * A characteristic attribute indicative of the existence of a particular state or condition is put in the Instrumental; @[jaṭābhiḥ tāpasaḥ]@ he is an ascetic (which is apparent) from his matted hair (@[jaṭājñāpyatāpasatvaviśiṣṭa ity arthaḥ]@ Sid. Kau.).
+#### § 815. \* A characteristic attribute indicative of the existence of a particular state or condition is put in the Instrumental; @[jaṭābhiḥ tāpasaḥ]@ he is an ascetic (which is apparent) from his matted hair (@[jaṭājñāpyatāpasatvaviśiṣṭa ity arthaḥ]@ Sid. Kau.).
 
 #### § 816. † The Instrumental is also used to express the cause or motive or the object or purpose of an action as distinguished from the mere instrument of it; @[puṇyena dṛṣṭo hariḥ]@ Hari was seen by (virtue of) merit; @[tenāparādhena daṇḍyosi]@ thou art to be punished for that fault; @[adhyayanena vasati]@ dwells for the purpose of studying; also when the object to be accomplished is simply implied; @[alaṃ krameṇa]@ away with your efforts i.e. they will not succeed; @[krameṇa sādhyaṃ nāsti ity arthaḥ]@ (Sid. Kau.)
 
@@ -12198,7 +12641,7 @@ H. S. G. 31
 
 ---
 
-* @[liṅgahetuliṅge]@ | Pan. II. 3. 21. | † @[hetoḥ]@ | Pan. II. 3. 23. @[phalam api iha hetuḥ]@ | @[dravyādiṣv asādhāraṇaṃ nirvyāpārasādhāraṇaṃ ca hetutvam]@ | @[karaṇatvaṃ tu kriyāmātrasādhāraṇam vyāpārāniyataṃ ca]@ | Sid. Kau.
+- @[liṅgahetuliṅge]@ | Pan. II. 3. 21. | † @[hetoḥ]@ | Pan. II. 3. 23. @[phalam api iha hetuḥ]@ | @[dravyādiṣv asādhāraṇaṃ nirvyāpārasādhāraṇaṃ ca hetutvam]@ | @[karaṇatvaṃ tu kriyāmātrasādhāraṇam vyāpārāniyataṃ ca]@ | Sid. Kau.
 
 (@) motion ( the conveyance or the part of the body on which a thing is carried being put in the Instrumental case ): @[rathena] @[gacchati] 'he moves about in a chariot.'
 
@@ -12218,7 +12661,7 @@ N. B. For the optional use of the Instrumental see the Abl., the Gen. and the Lo
 
 ## THE DATIVE CASE.
 
-#### § 819. *—The primary sense of the Dative case is @[Saṃpradāna] ( @[saṃpradānam] ). The indirect object of the root @[dā] is called @[Saṃpradāna]; also the person or thing with reference to whom or which an action is done; @[viprebhyo gāṃ dadāti] 'he gives a cow to a brāhmaṇa,' @[yuddhāya saṃnahyate] 'prepares for battle,' @[na śūdrāya dharmaṃ brūyāt] 'The Śūdra should not be instructed in the veda,' &c.
+#### § 819. \*—The primary sense of the Dative case is @[Saṃpradāna] ( @[saṃpradānam] ). The indirect object of the root @[dā] is called @[Saṃpradāna]; also the person or thing with reference to whom or which an action is done; @[viprebhyo gāṃ dadāti] 'he gives a cow to a brāhmaṇa,' @[yuddhāya saṃnahyate] 'prepares for battle,' @[na śūdrāya dharmaṃ brūyāt] 'The Śūdra should not be instructed in the veda,' &c.
 
 But in the case of the root @[yaj] the proper object is put in the Instrumental case and the indirect object in the Accusative, @[rudrāya vṛṣabham yajate] 'he sacrifices a bull to Rudra.'
 
@@ -12244,7 +12687,7 @@ Note:—Though the root @[dā] ought to govem the Dat. of the indirect object, i
 
 #### § 822. § The creditor ( or the person to whom something is
 
-* @[yajaḥ karmaṇaḥ karaṇasaṃjñā saṃpradānasya ca karmasaṃjñā] Vart.
+- @[yajaḥ karmaṇaḥ karaṇasaṃjñā saṃpradānasya ca karmasaṃjñā] Vart.
 
 † @[rucyarthānāṃ prīyamāṇaḥ] Pāṇ. I. 4. 33.
 
@@ -12254,7 +12697,7 @@ Note:—Though the root @[dā] ought to govem the Dat. of the indirect object, i
 
 due) in the case of the root @[dhṛ] 'to owe;' and the person or the thing desired in the case of @[spṛh], are put in the Dative case; @[dṛkṣasecane dve dhārayasi me] 'you owe me two sprinklings of trees' (Śāk.); @[bhaktāya dhārayati mokṣaṃ hariḥ] (Sid. Kau.); @[tasyai spṛhayamāṇo'sau] 'he longing for her' (Bhaṭṭi VIII. 15.); @[puṣpebhyaḥ spṛhayati] 'he longs for flowers;' but @[gṛhaṃ gacchati] where no longing is implied.
 
-#### § 823. * The roots @[kruṣ], @[druh], @[īrṣy], and @[asūy], and others having the same sense govern the Dative of the person against whom the feeling of anger, hatred, &c., is directed; @[haraye krudhyati druhyati īrṣyati asūyati vā] (Sid. Kau.) 'he is angry with Hari, or bears hatred towards him, or is jealous of him or finds fault with him;' @[sītā na krudhyat nāpy asūyata] (Bhaṭṭ. VIII. 75.) 'he did neither get angry with Sītā nor find fault with her.' but @[jāyāyai īrṣyati] 'he keeps a jealous watch over his wife' (that others may not see her @[mā enām anyo'drākṣīd iti] Sid. Kau.).
+#### § 823. \* The roots @[kruṣ], @[druh], @[īrṣy], and @[asūy], and others having the same sense govern the Dative of the person against whom the feeling of anger, hatred, &c., is directed; @[haraye krudhyati druhyati īrṣyati asūyati vā] (Sid. Kau.) 'he is angry with Hari, or bears hatred towards him, or is jealous of him or finds fault with him;' @[sītā na krudhyat nāpy asūyata] (Bhaṭṭ. VIII. 75.) 'he did neither get angry with Sītā nor find fault with her.' but @[jāyāyai īrṣyati] 'he keeps a jealous watch over his wife' (that others may not see her @[mā enām anyo'drākṣīd iti] Sid. Kau.).
 
 (a) † But @[krudh] and @[druh] preceded by a preposition govem the Accusative case; @[kiṃ māṃ saṃkrudhyasi] 'why do you get angry with me?' @[nityam asmac charīram abhidrogdhum yatate] (Mudr. I.) 'he always endeavours to do harm to my body.'
 
@@ -12262,13 +12705,13 @@ Obs.—@[druh] with @[abhi] is also found used with the Dat. @[mā enaṃ viprā
 
 #### § 824. ‡ The roots @[rādh] and @[pṛcch] both meaning 'to determine the good or bad fortune of' govern the Dative of the person with reference to whom the inquiry is made; @[dvijāya rādhyati pṛcchate vā] | @[pṛṣṭo gargaḥ kumārasya paryārocayat īpsitārthaḥ] | Sid. Kau.
 
-* @[krudhadruhor upasṛṣṭayoḥ yaṃ prati kopaḥ] | Pāṇ. I. 4. 37. @[kropaḥ amarṣaḥ druho'pakāraḥ īrṣyā raṇeṣu doṣāviṣkaraṇam] | @[drudhādayo'pi kopavācino eva draṣṭavyāḥ] | @[ato niṣekaṇaṃ sāmānyena] | Sid. Kau.
+- @[krudhadruhor upasṛṣṭayoḥ yaṃ prati kopaḥ] | Pāṇ. I. 4. 37. @[kropaḥ amarṣaḥ druho'pakāraḥ īrṣyā raṇeṣu doṣāviṣkaraṇam] | @[drudhādayo'pi kopavācino eva draṣṭavyāḥ] | @[ato niṣekaṇaṃ sāmānyena] | Sid. Kau.
 
 † @[krudhadruhor upasṛṣṭayoḥ karma] Pāṇ. I. 4. 38.
 
 ‡ @[rādhīśayor arthasya vipraśnaḥ] | Pāṇ. I. 4. 39.
 
-#### § 825. * @[śru] with @[prati] and @[ā] meaning 'to promise,' governs the Dative of the person to whom a promise is made after solicitation @[viprāya na pratiśṛṇoti āśṛṇoti vā] | @[viprasya yācñā dadānīti pravarttitaḥ pratijānīte ity arthaḥ] | Sid. Kau.
+#### § 825. \* @[śru] with @[prati] and @[ā] meaning 'to promise,' governs the Dative of the person to whom a promise is made after solicitation @[viprāya na pratiśṛṇoti āśṛṇoti vā] | @[viprasya yācñā dadānīti pravarttitaḥ pratijānīte ity arthaḥ] | Sid. Kau.
 
 #### § 826. † The root @[krī] with @[pari] 'to hire, as a servant,' &c., optionally governs the Dative (and optionally the Inst.) of the price at which he is hired @[yatīnāṃ śatāya vā parikrīṇāti] | Sid. Kau.
 
@@ -12280,7 +12723,7 @@ N.B. The roots @[bhū] or @[as] are often omitted after a Dative used in this se
 
 (c) § The word @[hita] is used with the Dative; @[brāhmaṇāya hitam] 'good for a Brāhmaṇa.'
 
-* @[pratyāṅbhyāṃ śruvaḥ pūrvasya kartā] | Pāṇ. I. 4. 40.
+- @[pratyāṅbhyāṃ śruvaḥ pūrvasya kartā] | Pāṇ. I. 4. 40.
 
 † @[parikrayaṇe dvadhrādānam anyatarastyām] | Pāṇ. I. 4. 44. @[niyatakālam ṛṣyasya svīkaraṇaṃ parikrayaṇam] | Sid. Kau.
 
@@ -12292,7 +12735,7 @@ N.B. The roots @[bhū] or @[as] are often omitted after a Dative used in this se
 
 #### § 828-829 ] Syntax. 489
 
-#### § 828. * The object governed by an infinitive mood not actually used but implied, is put in the Dative; @[phalēbhyō yāti] S. K. (@[phalāni āhartum]) 'goes for (in order to bring) fruit,' @[nṛsiṃhāya namaḥ kumaḥ] (i.e. @[prasādayitum]) 'We bow down to Nrisimha (to propitiate him).'
+#### § 828. \* The object governed by an infinitive mood not actually used but implied, is put in the Dative; @[phalēbhyō yāti] S. K. (@[phalāni āhartum]) 'goes for (in order to bring) fruit,' @[nṛsiṃhāya namaḥ kumaḥ] (i.e. @[prasādayitum]) 'We bow down to Nrisimha (to propitiate him).'
 
 (a) The Dative of an abstract noun formed from a root may be used to express the sense of the infinitive of the same root; @[yāgāya yāti] 'goes to perform a sacrifice,' @[tyāgāya saṃcitārthaḥ] (Rag. I. 7.) 'who had amassed wealth in order to give it away,' &c.
 
@@ -12302,7 +12745,7 @@ N.B. The roots @[bhū] or @[as] are often omitted after a Dative used in this se
 
 (b) Words having the sense of @[alam], such as @[prabhuḥ], @[samarthaḥ], @[śaktaḥ], &c. and also the verb @[bhū], are used with the Dative (Sid. Kau.) @[daityebhyo hariḥ prabhuḥ samarthaḥ śakto vā]; @[prabhuḥ-samarthaḥ-śaktaḥ bhavati tasmai]; @[bhavati naṣṭo janāya]; @[vidhirapi na yebhyaḥ prabhavati] (Bhar. II. 94.); @[prabhu] and the other words may also be used with the Genitive (Sid. Kau.)
 
-* @[kriyārthoppadasya ca karmṇi śāsaninaḥ]. @[tumarthācca bhāvavacanāt]. P. II. 3. 13.
+- @[kriyārthoppadasya ca karmṇi śāsaninaḥ]. @[tumarthācca bhāvavacanāt]. P. II. 3. 13.
 
 † @[namaḥ svastisvāhāsvadhālamvaṣaḍyogācca]. P. II. 3. 16.
 
@@ -12316,11 +12759,11 @@ N.B. The roots @[bhū] or @[as] are often omitted after a Dative used in this se
 
 #### § 830. With verbs of telling such as @[kath], @[khyā], @[vac], @[cam], @[nivid] cau. &c. and of sending such as @[hi] with @[pra], @[praj] with @[prati], &c. the Dative of the indirect object is used; @[rāmasya iṣudhanaddarśanakātaratāṃ mithilāya kathayāmbabhūva saḥ] (Rag. XI. 37.); He told the king of Mithila that Rāma was eager to see the bow, @[ākhyāhi me ko bhavān ugrarūpaḥ] (Bhag. XI. 31.) Tell me, who thou art in this fierce form, &c., @[sāṃprataṃ hūtāśanasya samidho guraveā nivedayāmi] (Śak. IV.) I will tell my preceptor that it is time to offer the morning oblations; @[apsarāḥ charaṃ tasmai pratiprejāthā] (Rag. VII. 79.) Indra sent a heavenly damsel against him (i.e. to disturb his contemplations); @[tasmārduramahopyamimapratiprejāthā] (Rag. XV. 21.).
 
-#### § 831. * The indirect object of the root @[man] cl. 4. 'to think' if not an animal, may be put in the Accusative or the Dative case when contempt is to be shown; @[na tvāṃ tṛṇāya manye vā] I do not consider thee a straw; but @[na tvāṃ tṛṇaṃ manye] (@[man] Dh.; S.) when mere comparison is meant, the Accusative is used, @[tṛṇaṃ sa manye] (Mb.)
+#### § 831. \* The indirect object of the root @[man] cl. 4. 'to think' if not an animal, may be put in the Accusative or the Dative case when contempt is to be shown; @[na tvāṃ tṛṇāya manye vā] I do not consider thee a straw; but @[na tvāṃ tṛṇaṃ manye] (@[man] Dh.; S.) when mere comparison is meant, the Accusative is used, @[tṛṇaṃ sa manye] (Mb.)
 
-* @[manyakarmaṇyanādare vibhāṣāprāṇiṣu]. P. II. 3. 17. On @[aprāṇiṣu] Kātyāyana remarks "@[aprāṇiṣu ityapadīśya naukānnakākavamakasṛgālavyāghravyeti vaktavyam]. S. K. Instead of 'If not an animal' it should be said, 'If not one of a ship, or food or a crow or a parrot or a jackal or a cat' @[nāvaṃ manye] or @[nāvāya]; @[annaṃ vā manye] or @[annāya]; @[śvānaṃ vā manye] or @[śvānāya]; in the former case though neither @[nau] nor @[anna] is an animal, the Accusative ought to be used, in the latter though @[śvāna] is an animal the Dative may be optionally used.
+- @[manyakarmaṇyanādare vibhāṣāprāṇiṣu]. P. II. 3. 17. On @[aprāṇiṣu] Kātyāyana remarks "@[aprāṇiṣu ityapadīśya naukānnakākavamakasṛgālavyāghravyeti vaktavyam]. S. K. Instead of 'If not an animal' it should be said, 'If not one of a ship, or food or a crow or a parrot or a jackal or a cat' @[nāvaṃ manye] or @[nāvāya]; @[annaṃ vā manye] or @[annāya]; @[śvānaṃ vā manye] or @[śvānāya]; in the former case though neither @[nau] nor @[anna] is an animal, the Accusative ought to be used, in the latter though @[śvāna] is an animal the Dative may be optionally used.
 
-#### § 832. *The object of roots implying motion (i.e. the place to which the motion is directed), if it be not a road, is put in the Accusative or the Dative, when actual motion is meant; @[grāmaṃ] @[bhagavate] @[vā] @[gacchati] 'goes to a village;' but @[manasā] @[api] @[vrajati], @[panthānaṃ] @[vrajati].
+#### § 832. \*The object of roots implying motion (i.e. the place to which the motion is directed), if it be not a road, is put in the Accusative or the Dative, when actual motion is meant; @[grāmaṃ] @[bhagavate] @[vā] @[gacchati] 'goes to a village;' but @[manasā] @[api] @[vrajati], @[panthānaṃ] @[vrajati].
 
 ## THE ABLATIVE CASE.
 
@@ -12332,7 +12775,7 @@ N.B. The roots @[bhū] or @[as] are often omitted after a Dative used in this se
 
 #### § 834. § In the case of words expressing fear or protection from fear, that from which or whom the fear proceeds is put in the Ablative case; @[corād] @[bibheti] 'is afraid of a thief'; @[bhīto] @[raṇe] @[śvetavāhānāt] 'I was afraid of the white-horsed one i.e., Arjuna'; @[svalpam] @[api] @[asya] @[dharmasya] @[trāyate] @[mahato] @[bhayāt] (Bhag. II, 40) 'even a little
 
-* @[gatyarthakakarmāṇi] @[dvitīyācaturthyau] @[cāṣṭāyām] @[anadhvani] Pan. 2. 3. 12.
+- @[gatyarthakakarmāṇi] @[dvitīyācaturthyau] @[cāṣṭāyām] @[anadhvani] Pan. 2. 3. 12.
 
 † @[apādāne] @[pañcamī] Pan. 2. 3. 28 @[jñīpsāvirāmapramādārthaśabdebhyaḥ] @[apādānam] Pan. I. 4. 24.
 
@@ -12344,7 +12787,7 @@ N.B. The roots @[bhū] or @[as] are often omitted after a Dative used in this se
 
 of this (kind of) piety saves one from great fear; @[kapeḥ] @[aghāśuḥ] @[nādāt] (Bhatt. IX. 11.) 'were afraid of the roar of the monkey.'
 
-(a) * That from which one is kept off is also put in the Ablative; @[pāpāt] @[vārayati] 'wards off from sin'; @[yavebhyaḥ] @[gāṃ] @[vārayati] 'keeps off the cow from barley.'
+(a) \* That from which one is kept off is also put in the Ablative; @[pāpāt] @[vārayati] 'wards off from sin'; @[yavebhyaḥ] @[gāṃ] @[vārayati] 'keeps off the cow from barley.'
 
 #### § 835. † In the case of @[ji] with @[parā] the thing unbearable is put in the Ablative case; @[adhyayanāt] @[parājayate] 'finds study unbearable or difficult'; @[sā] @[parājayamānā] @[sa] @[prīteḥ] (Bhaṭṭi. VIII. 21.) 'who got disgusted with the love (of Ravana)'; but @[bāṇān] @[parājayate].
 
@@ -12356,7 +12799,7 @@ of this (kind of) piety saves one from great fear; @[kapeḥ] @[aghāśuḥ] @[n
 
 Note:—Verbs meaning 'to be born' or 'to be begotten upon' are often used with the Loc.; @[tasyāṃ] @[śatānanda] @[āṅgiraso] @['jāyata] 'from her was bom Satananda Angirasa'; @[menakāyām] @[utpannaṃ] 'begotten upon Menaka'; See Manu Smṛ. 154, I. 9.
 
-* @[rakṣaṇārthaḥ] @[vāriṣyate] @[yataḥ] Pan. I. 4. 27.
+- @[rakṣaṇārthaḥ] @[vāriṣyate] @[yataḥ] Pan. I. 4. 27.
 
 † @[parājeḥ] @[asahaḥ] Pan. I. 4. 26.
 
@@ -12382,7 +12825,7 @@ Obs.— @[ṛte] is sometimes used with the Accusative, @[ṛte'pi tvāṃ na bh
 
 (d) @[prati] meaning 'the representative of, in exchange for or giving in retum for;' @[śiśuḥ] @[kṛṣṇāya] @[pratiḥ] (Sid. Kau.) Pradyumna is the representative of Kṛṣṇa; @[tilebhyaḥ] @[pratiḥ] @[yacchati] gives mashas in retum for sesamum.
 
-#### § 842. * When a word expressive of 'a debt' is merely intended to be stated as a cause, it is put in the Ablative case; @[śatāt] @[gṛhītaṃ] @[dravyam] a thing mortgaged for a hundred rupees; @[ṛṇāt] @[iva] @[baddhaḥ] tied down as it were by the debt he owes.
+#### § 842. \* When a word expressive of 'a debt' is merely intended to be stated as a cause, it is put in the Ablative case; @[śatāt] @[gṛhītaṃ] @[dravyam] a thing mortgaged for a hundred rupees; @[ṛṇāt] @[iva] @[baddhaḥ] tied down as it were by the debt he owes.
 
 #### § 843. (a) The Ablative often denotes the cause of an action or condition and may be translated by 'on account of, by reason of,' &c.; @[maunāt] @[mūrkhaḥ] @[gaṇyate] one is considered a fool by reason of his silence (if he keeps silence); @[gomānuṣāṇāṃ] @[vadhāt] (R.) on account of my killing cows and men.
 
@@ -12392,11 +12835,11 @@ Obs.— @[ṛte] is sometimes used with the Accusative, @[ṛte'pi tvāṃ na bh
 
 #### § 844. † The indeclinables @[ṛte], @[vinā] and @[nānā] govern the Ablative, the Accusative and the Instrumental cases; @[ṛte] @[rāmāt-rāmaṃ-rāmeṇa] @[vā] different from or without Rāma; so @[nānā] @[nārīm],
 
-* @[ṛṇāt] @[pañcamī] | Pan. II. 3. 25. † @[ṛte] @[vinā] @[nānābhiḥ] @[tṛtīyānyatarasyām] | Pan. II. 3. 32.
+- @[ṛṇāt] @[pañcamī] | Pan. II. 3. 25. † @[ṛte] @[vinā] @[nānābhiḥ] @[tṛtīyānyatarasyām] | Pan. II. 3. 32.
 
 &c. @[nānā] @[nārīṃ] @[niṣphalā] @[saṃsṛtiḥ] (Vop.) worldly life is vain without a woman (wife).
 
-#### § 845. * The words @[stoka] 'a little,' @[alpa] 'a little,' @[kaṣṭa] 'difficulty,' and @[katipaya] 'some' when used in an adverbial sense with verbs, are used in the Ablative or the Instrumental; @[stokena] @[stokāt] @[vā] @[muktaḥ] let off with little; similarly @[alpena] @[alpāt] @[vā] @[muktaḥ], @[kaṣṭena] @[kaṣṭāt] @[vā] @[kṛtam] done with difficulty; @[katipayena] @[katipayāt] @[vā] @[prāptaḥ], but @[alpena] @[viṣeṇa] @[hataḥ] killed with a little poison; when used adverbially they take the Accusative also; @[stokaṃ] @[gacchati] goes a little.
+#### § 845. \* The words @[stoka] 'a little,' @[alpa] 'a little,' @[kaṣṭa] 'difficulty,' and @[katipaya] 'some' when used in an adverbial sense with verbs, are used in the Ablative or the Instrumental; @[stokena] @[stokāt] @[vā] @[muktaḥ] let off with little; similarly @[alpena] @[alpāt] @[vā] @[muktaḥ], @[kaṣṭena] @[kaṣṭāt] @[vā] @[kṛtam] done with difficulty; @[katipayena] @[katipayāt] @[vā] @[prāptaḥ], but @[alpena] @[viṣeṇa] @[hataḥ] killed with a little poison; when used adverbially they take the Accusative also; @[stokaṃ] @[gacchati] goes a little.
 
 (b) @[dūra] and @[antika] and others having the same sense, are used in the Ablative, the Accusative and the Instrumental cases; @[grāmasya] @[dūrāt] @[dūre] @[dūreṇa] @[vā] away from the village; so @[antikāt] @[antikaṃ] @[antikena] @[vā] near the village.
 
@@ -12406,7 +12849,7 @@ Obs.— @[ṛte] is sometimes used with the Accusative, @[ṛte'pi tvāṃ na bh
 
 #### § 847. ‡ When the word @[hetu] (cause, object) is used in a sentence, that which is the object and the word @[hetu] are put in the Genitive:
 
-* @[karaṇe] @[ca] @[stokālpakaṣṭakatipayānām] @[astrīyāṃ] @[ca] @[anaśi] | @[dūrāntikārthebhyaḥ] @[tṛtīyā] @[ca] | Pan. II. 3. 33, 35.
+- @[karaṇe] @[ca] @[stokālpakaṣṭakatipayānām] @[astrīyāṃ] @[ca] @[anaśi] | @[dūrāntikārthebhyaḥ] @[tṛtīyā] @[ca] | Pan. II. 3. 33, 35.
 
 † @[ṣaṣṭhī] @[śeṣe] Pan. II. 3. 50. @[kārakapratiyogikārthaṃ] (the sense of the Nominative) @[vyatiriktaḥ] @[svasvāmimatādisambandhaḥ] @[śeṣaḥ] @[tasmāt] @[ṣaṣṭhī] @[syāt] | @[śeṣasya] @[śeṣī] @[sambhandhavivakṣāyāṃ] @[śaṣṭhīṃ] @[labhate] | Sid. Kau.
 
@@ -12416,7 +12859,7 @@ Obs.— @[ṛte] is sometimes used with the Accusative, @[ṛte'pi tvāṃ na bh
 
 Genitive case; @[bhūmer hetor jāti] dwells for the sake of (with the object of getting) food; @[rodiṣi kasya hetoḥ] Mark. P. 23. 12. @[sā rāvaṇer vaidehyāḥ pauravṛttāntam ākhyātum ārabdhaḥ] (Bhaṭṭi. VIII. 103.) he began to give her an account of Rāma in order to show her that he (Hanumāt) was Rāma's messenger.
 
-(a) * When a pronoun is used with the word @[hetu], the Instrumental and the Genitive may both be used; @[kasya hetoḥ], @[kena hetunā], with what object? Why? The Ablative may also be used; @[kena hetunā], @[tasmād dhetoḥ], @[tasya hetoḥ]; when a word having the same sense as @[hetu], such as @[nimittaṃ], @[kāraṇaṃ], &c. is used with a pronoun it may be used in any case in agreement with the pronoun, @[kasya nimittasya] @[kasya prayojanasya]; @[kena nimittena], @[kasmai nimittāya] &c.; but they are generally used in the Accusative used like an adverb; @[kim-nimittaṃ-kāraṇaṃ-prayojanaṃ-arthaṃ], &c. when a pronoun is not used, any case except the Nominative and the Accusative may be used; @[jñānena nimittena] (@[hariḥ sevyaḥ]), @[jñānāya nimittāya] with the object of acquiring knowledge.
+(a) \* When a pronoun is used with the word @[hetu], the Instrumental and the Genitive may both be used; @[kasya hetoḥ], @[kena hetunā], with what object? Why? The Ablative may also be used; @[kena hetunā], @[tasmād dhetoḥ], @[tasya hetoḥ]; when a word having the same sense as @[hetu], such as @[nimittaṃ], @[kāraṇaṃ], &c. is used with a pronoun it may be used in any case in agreement with the pronoun, @[kasya nimittasya] @[kasya prayojanasya]; @[kena nimittena], @[kasmai nimittāya] &c.; but they are generally used in the Accusative used like an adverb; @[kim-nimittaṃ-kāraṇaṃ-prayojanaṃ-arthaṃ], &c. when a pronoun is not used, any case except the Nominative and the Accusative may be used; @[jñānena nimittena] (@[hariḥ sevyaḥ]), @[jñānāya nimittāya] with the object of acquiring knowledge.
 
 #### § 848. † Words ending in the termination @[tas] and showing direction and others having the same sense, such as @[upari], @[uparistāt], @[adhaḥ], @[adhastāt], @[puraḥ], @[purastāt], @[paścāt], @[agre], &c. are used with the Genitive; @[grāmasya dakṣiṇataḥ] @[uttarataḥ] &c. to the south or to the north of the village, &c., @[arkasyopari] (Ś'āk. II. 8.) on the Arka plant; @[tarvādhaḥ] (Ś'āk. I.) under the trees, @[tasya sthitvā kṛśam api puraḥ] (Megh.) standing before him with great difficulty, &c.
 
@@ -12424,7 +12867,7 @@ Genitive case; @[bhūmer hetor jāti] dwells for the sake of (with the object of
 
 #### § 849. †The words @[dūra] and @[antika] and their synonyms
 
-* @[hetau saptamyām ca] । @[nimittaparyāyayoge sarvāsāṃ vibhaktir darśanaṃ] । Vart.
+- @[hetau saptamyām ca] । @[nimittaparyāyayoge sarvāsāṃ vibhaktir darśanaṃ] । Vart.
 
 † @[bahuddeśatasiṅarthaprayatyayena] Pāṇ. II. 3. 30.
 
@@ -12438,7 +12881,7 @@ H. S. G. 32.
 
 govem either the Genitive or the Ablative; @[rāmāt grāmasya vā vanaṃ dūraṃ-nikaṭaṃ-samīpaṃ] &c the forest is distant from or near the village; @[yo durāt rāmāt papaśūnyasya so'ntikaṃ] he who is away from Rāma or Śiva is near sin, @[mādhavī maṇḍapasya] close to the bower of the Mādhavī creeper; @[tasya sakāśāt], &c.
 
-#### § 850. * The root @[jñā] meaning 'to have an incorrect knowledge of' governs the Genitive; @[ajasya ghṛtaṃ jānīte] supposes oil to be ghee, but @[ajaṃ ghṛtaṃ jānīte].
+#### § 850. \* The root @[jñā] meaning 'to have an incorrect knowledge of' governs the Genitive; @[ajasya ghṛtaṃ jānīte] supposes oil to be ghee, but @[ajaṃ ghṛtaṃ jānīte].
 
 (a) Verbs implying 'to think of, to remember,' such as @[smṛ], @[hṛ] with @[anu], 'to be master of,' such as @[īś], @[śak] with @[pra], &c. and to have compassion on such as @[dayā] &c., govem the genitive of their object, @[kuberadhātuḥ smarasi] (Megh. 90) dost thou remember the lord? @[amarāvatīvāsinām evānutiṣṭhate] Bhaṭṭ. VI. 60. 3 @[adhyeti tava lakṣmaṇaḥ] (Bhaṭṭi VIII. 119.) Lakṣmaṇa remembers thee, @[praśāsti nijasya kanyakājānasya mahārājaḥ] (Māl. Mād. 4.) the great king has mastery over his daughter; @[yadi taṃ dṛṣṭvā'haṃ ātmanaḥ praśakṣyāmi] (Uttar.) if after I see him I shall have control over myself; @[aṅgānāṃ anīśo'smi svāpāc] (Ś'āk. 71.) I have lost all power over my limbs; @[kathaṃcidīśā manasāṃ babhūva] (Kum. III. 34.) with great difficulty they could control their minds, @[śvastanikatvam vidyāyā yeṣāṃ vittaṃ teṣāṃ dayase na kasmāt] (Bhaṭṭi. I. 33.) why dost thou feel no compassion for those whose wealth does not see the morrow? @[sītāyā dayamānaḥ] (Ibid. VIII 119) taking pity on Sītā.
 
@@ -12446,7 +12889,7 @@ govem either the Genitive or the Ablative; @[rāmāt grāmasya vā vanaṃ dūra
 
 #### § 851. † Verbs meaning 'to be afflicted with + disease'
 
-* @[gatibuddhipratyavasānārthāśābdasye karmaṇi] । @[anugatasyāpy akarmaṇi] । @[iīśaḥ pratyayoḥ] । Pāṇ. II. 3. 51-53.
+- @[gatibuddhipratyavasānārthāśābdasye karmaṇi] । @[anugatasyāpy akarmaṇi] । @[iīśaḥ pratyayoḥ] । Pāṇ. II. 3. 51-53.
 
 † @[vyādhyarthānāṃ karmaṇi ca] । Pāṇ. II. 3. 54. @[ājvarasyāstāpyor iti vācyam]; Vār.
 
@@ -12454,7 +12897,7 @@ govem either the Genitive or the Ablative; @[rāmāt grāmasya vā vanaṃ dūra
 
 govem the Genitive of their object when used impersonally or when they have for their subject names of diseases; @[चोरस्य रुजा] the thief is afflicted with the pain of fever; @[पुरुषस्य रुजयत्यतिसारः] dysentery inflicts pain on the man; except when @[ज्वर] and @[सन्ताप] are used as subjects; (vide Bhaṭṭi. VIII. 120;) @[संतपयति ज्वरः] or @[सन्तापः] fever or affliction pains him.
 
-#### § 852. * @[ईश्] meaning 'to wish' governs the Genitive when the idea of a benediction is implied, @[धैर्यस्य ईशस्व] wish to have patience; @[धनस्य ईशते] desires to have wealth. So @[सर्पिषः ईशिषीय].
+#### § 852. \* @[ईश्] meaning 'to wish' governs the Genitive when the idea of a benediction is implied, @[धैर्यस्य ईशस्व] wish to have patience; @[धनस्य ईशते] desires to have wealth. So @[सर्पिषः ईशिषीय].
 
 #### § 853. † The roots @[रुज], @[दुह्] with @[वि] or @[उत्] or with both, @[हन्], @[पिष्] govern the Genitive when meaning to injure, to punish, &c.; @[चोरस्योज्ञासयति राजा] a king punishes a thief; @[निजौजसोजासितं जगदहम्] (Sis. I. 37.) to kill the enemies of the world (the demons) by his own power; @[मन्योरुजासयात्मनः] kill (drive away) your anger; @[राक्षसानां निहनिष्यति] or @[उद्धनिष्यति] or @[विहनिष्यति] or @[व्युद्धनिष्यति रामः] Rāma will kill the Rakshasas, @[वृषलानां रुनद्धि] does injury to Vrishala, @[गजस्योरुनद्धि गजः] &c., in other senses they govern the Accusative; @[लाजान्पिनष्टि] he grinds fried rice.
 
@@ -12462,16 +12905,16 @@ govem the Genitive of their object when used impersonally or when they have for 
 
 #### § 855. § Words having the senses of @[कृत्वस्] s. e. denoting fre-
 
-* @[आशिषि क्षेः] Pan. II. 3. 55.
-† @[रुजोर्विपदुहोर्हनेः। निष्पिषेश्च हिंसायाम्] Pan. II. 3. 56.
-‡ @[व्यवहारपणोः समर्थयोः। दिवस्तदर्थस्य। विभाषोपसर्गे] Pan. II. 3. 57-59.
-@[कृत्वोऽर्थप्रकारयोः कालेऽविकारे] Pan. II. 3. 64.
+- @[आशिषि क्षेः] Pan. II. 3. 55.
+  † @[रुजोर्विपदुहोर्हनेः। निष्पिषेश्च हिंसायाम्] Pan. II. 3. 56.
+  ‡ @[व्यवहारपणोः समर्थयोः। दिवस्तदर्थस्य। विभाषोपसर्गे] Pan. II. 3. 57-59.
+  @[कृत्वोऽर्थप्रकारयोः कालेऽविकारे] Pan. II. 3. 64.
 
 ---
 
 quency of time, such as @[द्विः], @[त्रिः], @[पञ्चकृत्वस्] &c. govem the Genitive of the time in the sense of the Locative; @[अह्नः पञ्चकृत्वो भोजनम्] taking food five times a day; @[द्विरह्नो भुङ्क्ते] &c.
 
-#### § 856. * The Genitive is used subjectively and objectively with Kridantas or Primary Nominal Bases derived by means of the @[kṛt] affixes (i. e. is used in the sense of the subject or the object of the action denoted by the Kridantas); @[कृष्णस्य कर्म] an act of Kṛṣṇa s. e. of which Kṛṣṇa is the agent; @[जगतः कर्ता] the Creator of the world, which is the object of the action denoted by the noun @[कर्तृ]; similarly @[सतां पालकः] the protector of the good; @[प्रयसः पानम्] the drinking of milk; @[तस्य कवेः क्रिया] a work of that poet; @[साधारणी क्रिया न धातुः] (P-Amaracharita XII. 117.) This is not a common action of brāhmaṇa.
+#### § 856. \* The Genitive is used subjectively and objectively with Kridantas or Primary Nominal Bases derived by means of the @[kṛt] affixes (i. e. is used in the sense of the subject or the object of the action denoted by the Kridantas); @[कृष्णस्य कर्म] an act of Kṛṣṇa s. e. of which Kṛṣṇa is the agent; @[जगतः कर्ता] the Creator of the world, which is the object of the action denoted by the noun @[कर्तृ]; similarly @[सतां पालकः] the protector of the good; @[प्रयसः पानम्] the drinking of milk; @[तस्य कवेः क्रिया] a work of that poet; @[साधारणी क्रिया न धातुः] (P-Amaracharita XII. 117.) This is not a common action of brāhmaṇa.
 
 (a) † In the case of verbs governing two Accusatives the secondary object of the Kridanta may be put in the Genitive or in the Accusative; @[नेताश्वस्य स्रुघ्नस्य वा] (Sid. Kau.) the taker of the horse to Srughna.
 
@@ -12479,21 +12922,21 @@ quency of time, such as @[द्विः], @[त्रिः], @[पञ्च�
 
 Exceptions.—This rule does not apply to @[kṛt] nouns ending in the affixes @[ष्णुक्] and @[ण्वुल्] when feminine; @[रुद्रस्य भेदिका वा भेदनं जगतः] (Sid. Kau.) the desire of Rudra to split the universe or the splitting of the universe by Rudra. According to some when the @[kṛt] affixes are of feminine gender, and according to others
 
-* @[कर्तुः कर्मणोश्च कृति] Pan. II. 3. 65.
-† @[द्वितीयायां कर्मणि वैष्यते] Vart.
-‡ @[उभयधौ कर्मणि] Pan. II. 3. 66. @[स्त्रीप्रत्यययोरकाकारयोर्नेयं नियमः। इत्येके विभाषा। वार्त्। स्त्रीप्रत्यय इत्येके। केचिदविशेषेण विभाषामिच्छन्ति] Sid. Kau.
+- @[कर्तुः कर्मणोश्च कृति] Pan. II. 3. 65.
+  † @[द्वितीयायां कर्मणि वैष्यते] Vart.
+  ‡ @[उभयधौ कर्मणि] Pan. II. 3. 66. @[स्त्रीप्रत्यययोरकाकारयोर्नेयं नियमः। इत्येके विभाषा। वार्त्। स्त्रीप्रत्यय इत्येके। केचिदविशेषेण विभाषामिच्छन्ति] Sid. Kau.
 
 #### § 856-858 ] Syntax. 501
 
 when they are of any gender, and the agent and the object are both used, the agent is put in the Instrumental or Genitive case; @[vicitrā] @[jagataḥ] @[sṛṣṭiḥ] @[hareḥ] @[hariṇā] @[vā] wonderful is the creation of the world by Hari; @[śabdānām] @[anusāsanam] @[ācāryeṇa] @[ācāryasya] @[vā] (Sid. Kau.); @[śobhanā] @[vyākaraṇasya] @[pāṇineḥ] (@[pāṇininā] @[vā]) @[sṛṣṭiḥ] | (MD.).
 
-#### § 857. * When past passive participles are used in the sense of the present tense the Genitive is used; @[rājñāṃ] @[mato] @[buddhaḥ] @[pūjito] @[vā] respected, known or honoured by kings; @[yo] @[gamaḥ] @[sa] @[satāṃ] @[mataḥ]; @[ramasya] @[saṃmataṃ] Bhaṭṭi, VIII. 124.
+#### § 857. \* When past passive participles are used in the sense of the present tense the Genitive is used; @[rājñāṃ] @[mato] @[buddhaḥ] @[pūjito] @[vā] respected, known or honoured by kings; @[yo] @[gamaḥ] @[sa] @[satāṃ] @[mataḥ]; @[ramasya] @[saṃmataṃ] Bhaṭṭi, VIII. 124.
 
 (b) Past participles showing the place of an action, as well as those used as abstract nouns are used with the Genitive; @[gadgadānusvāsitābhidam] @[iva] @[yātaṃ] @[ramāpateḥ] | @[duṣkṛtam] @[etad] @[asmākam] @[ity] @[ūcur] @[gopyaḥ] @[didṛkṣavaḥ] | @[mayūrasya] @[kekā], @[kokilasya] @[vyāhṛtaṃ], @[naṭasya] @[nṛtyaṃ], @[tasya] @[hasitaṃ], &c. (Mb.) See Bhatt. VIII. 125.
 
 #### § 858. † The Genitive is not used with present participles except that of @[viś], verbal derivatives ending in @[ka] and @[uka] except that derived from @[gam], verbal indeclinables, past participles, passive and active, nouns formed with the affix @[tṛ] (see p. 456) and with such as mean 'in the habit of, or having the properties of or doing any thing well', @[karma] @[kurvan] or @[kurvāṇaḥ] but @[muraṃ] @[viśan] @[vā] @[viṣan] @[hariḥ] Hari, the enemy of Mura; @[hariṃ] @[draṣṭuṃ] @[icchantaḥ] desirous of seeing Hari, @[hariṃ] @[alaṅkariṣyan], @[yakṣyaṃś] @[ca] @[ghātuko] @[hariḥ] Hari is the killer of demons, @[lakṣmyāḥ] @[kartuko], @[bhartā], @[netā] @[kartā] &c. @[viṣṇunā] @[nihatya] @[hatvā] @[vā] @[hataḥ], @[hatvāna] @[ca] @[hatavān]; @[saṃsāraḥ] @[sukaro] @[hariṇā] worldly life goes easy with Hari; @[ātmānam] @[alaṅkurvāṇaḥ] in habit of decorating oneself; @[satataṃ] @[bhikṣuḥ] a habitual beggar; @[kaṭaṃ] @[karoti] one who prepares a mat; + also in the case of nouns derived by means of the terminations
 
-* @[vṛtte] @[ca] @[vartamāne] | @[adhikaraṇavācinaś] @[ca] | Pan. II. 3. 67-68.
+- @[vṛtte] @[ca] @[vartamāne] | @[adhikaraṇavācinaś] @[ca] | Pan. II. 3. 67-68.
 
 † @[na] @[lokāvyayaniṣṭhākhalarthātṛnām] | Pan. II. 3. 69. @[karmaṇi] @[aniṣṭhāyāḥ] Vart.
 
@@ -12503,7 +12946,7 @@ when they are of any gender, and the agent and the object are both used, the age
 
 @[tavya] showing futurity and @[īn] showing necessary payment; @[hariṃ] @[draṣṭavyaḥ] @[gacchati] he goes desiring to see Hari; @[śataṃ] @[dāyī] one who has to pay a hundred (rupees).
 
-#### § 859. * In the case of Potential passive participles the agent of the action is put in the Genitive or in the Instrumental case; @[sevyaḥ] @[mama] @[mayā] @[vā] @[asau] @[hariḥ] Hari ought to be served by me; @[rākṣasendrasya] @[sevyaṃ] @[mayā] @[hāryam] @[idaṃ] @[vanam] (Bhaṭṭi. VIII. 129.) this forest which the lord of the demons ought to preserve must be destroyed by me; @[gatvā] @[te] @[vasatir] @[alakā] &c. (Meg.) Thou should go to Alaka.
+#### § 859. \* In the case of Potential passive participles the agent of the action is put in the Genitive or in the Instrumental case; @[sevyaḥ] @[mama] @[mayā] @[vā] @[asau] @[hariḥ] Hari ought to be served by me; @[rākṣasendrasya] @[sevyaṃ] @[mayā] @[hāryam] @[idaṃ] @[vanam] (Bhaṭṭi. VIII. 129.) this forest which the lord of the demons ought to preserve must be destroyed by me; @[gatvā] @[te] @[vasatir] @[alakā] &c. (Meg.) Thou should go to Alaka.
 
 #### § 860. † In the case of words denoting equality or likeness, such as @[sadṛśa], @[sama], &c., the person or thing with whom or which any object is compared is put in the Genitive case, except in the case of @[tulā] and @[upamā]; @[tulyaḥ] @[sadṛśaḥ] @[samaḥ] @[vā] @[asau] @[kṛṣṇena] @[vā] equal to or like Kṛṣṇa; @[ko'nyo'sti] @[sadṛśo] @[mama] who else is equal to me? but @[kṛṣṇasya] @[tulā] @[upamā] @[ca] @[nāsti] (Sid. Kau.).
 
@@ -12511,7 +12954,7 @@ Obs.—The words @[tulā] and @[upamā], however, are found used by good authors
 
 #### § 861. ‡ The words @[āyuṣyaṃ], @[svasti], @[śrī], @[sukhyaṃ], @[nirāmayaṃ], @[arthaḥ] and @[hitaṃ] and words having the same sense, when used in a sentence containing a benediction, govern the Dative or the Genitive case; @[ayuṣyaṃ] @[dirgham] @[āyuṣyaṃ] @[kṛṣṇāya] @[kṛṣṇasya] @[vā] @[āyāt] (Sid. Kau.); may Kṛṣṇa live long; similarly @[svasti], @[maṅgalaṃ], @[śrī], @[sukhaṃ], @[nirāmayaṃ], @[ujjhitaṃ], @[kṣemaṃ], @[arthaḥ], @[saṃpadyate], @[hitaṃ], @[kṛṣṇāya] @[vā] @[syāt] (Sid. Kau.).
 
-* @[kṛtyānāṃ] @[kartari] @[vā] | Pan. II. 3. 71.
+- @[kṛtyānāṃ] @[kartari] @[vā] | Pan. II. 3. 71.
 
 † @[tulyārthaiḥ] @[tulyaśabdābhyāṃ] @[pṛthak] @[ca] @[anyatarasyām] | Pan. II. 3. 72.
 
@@ -12531,7 +12974,7 @@ Note:—Words having the sense of comparatives are used with the Ablative and so
 
 (a) Verbal derivatives in @[in] and having the sense of the p. p. participle govem the Locative of their object; @[adhītī
 
-* @[ādhāro'dhikaraṇam] | @[ādhārasya apratītiḥ ca] Pan. I. 4. 45, II. 3. 36.
+- @[ādhāro'dhikaraṇam] | @[ādhārasya apratītiḥ ca] Pan. I. 4. 45, II. 3. 36.
 
 ‡ @[śaṣṭhyāṃ viṣayasya karmaṇi upasaṃkhyānam] | @[khalu asādhuprayoge ca] | Vārttikas.
 
@@ -12549,7 +12992,7 @@ Obs.—Sometimes the Instrumental is used to denote the object for which any thi
 
 #### § 866. The words @[āyuktaḥ] and @[prāptaḥ] meaning 'appointed
 
-* @[nimitta-arthe ca] | Vārt. @[nimittam iha phalam yogaḥ saṃyogaḥ samavāyātmakaḥ] | Sid. Kau. @[samavāyaḥ nityasaṃbandhaḥ] (constant, inseparable union). Tark. Kau.
+- @[nimitta-arthe ca] | Vārt. @[nimittam iha phalam yogaḥ saṃyogaḥ samavāyātmakaḥ] | Sid. Kau. @[samavāyaḥ nityasaṃbandhaḥ] (constant, inseparable union). Tark. Kau.
 
 † @[svāmī-īśvara-adhipati-dāyāda-sākṣi-dhāti-prasūtebhyaḥ] | Pan. II. 3. 39.
 
@@ -12557,7 +13000,7 @@ Obs.—Sometimes the Instrumental is used to denote the object for which any thi
 
 or devoted to' are construed with the Locative or the Genitive: @[hariparāyaṇaḥ] @[vā] @[hariparāyaṇe] @[hariparāyaṇasya] @[vā] appointed to worship Hari; @[śrutalokye] @[vaṇijyāham] @[āyuktaḥ] @[dūtakavṛttim] (Bhaṭṭi, VIII. 115.) In other tenses they are construed with the Locative, @[āyukto] @[gauḥ] @[rathe] a bull harnessed to the yoke of a carriage, @[karmaṇi] @[kuśalaḥ] expert in the performance of an act.
 
-#### § 867. *When an object or an individual is to be distinguished from a whole class, the Locative or the Genitive is used; @[brāhmaṇeṣu] @[vā] @[brāhmaṇaḥ] @[śreṣṭhaḥ] (see Manu 8. I. 96.), @[gaveṣu] @[gavāṃ] @[vā] @[saivā] @[bahukṣīrā]; @[gacchatāṃ] @[madhye] @[vā] @[dhāvan] @[śīghragaḥ], @[chātrāṇāṃ] @[madhye] @[vā] @[ayaṃ] @[guṇī] (Sid. Kau.)
+#### § 867. \*When an object or an individual is to be distinguished from a whole class, the Locative or the Genitive is used; @[brāhmaṇeṣu] @[vā] @[brāhmaṇaḥ] @[śreṣṭhaḥ] (see Manu 8. I. 96.), @[gaveṣu] @[gavāṃ] @[vā] @[saivā] @[bahukṣīrā]; @[gacchatāṃ] @[madhye] @[vā] @[dhāvan] @[śīghragaḥ], @[chātrāṇāṃ] @[madhye] @[vā] @[ayaṃ] @[guṇī] (Sid. Kau.)
 
 #### § 868. †The words @[sādhu] and @[guṇa], not preceded by the prepositions @[anu], @[pari] and @[prati], are used with the Loc. when the sense of adoration is to be conveyed; @[mātari] @[sādhuniṣṭhaḥ] @[vā] reverentially disposed towards his mother; @[atha] @[bhaṭaḥ] @[rājñaḥ] @[guṇeṣu] a clever servant of the king. When preceded by the prepositions @[anu], @[pari] and @[prati] these are used with the Accusative; @[anupariprativartī] @[śreṣṭho] @[mātaraṃ] @[bhavati] @[tasya] @[vaśaḥ].
 
@@ -12565,7 +13008,7 @@ or devoted to' are construed with the Locative or the Genitive: @[hariparāyaṇ
 
 #### § 870. §When the names of Nakshatras are used as showing a particular time the Locative or the Instrumental is used; @[pūrve] @[śravaṇetyādi] @[śravaṇena] @[visarjayet]. @[pūrve] @[śravaṇe] @[iti] @[vākyam] (Sid. Kau.)
 
-*@[yataśca] @[nirdhāraṇam]. Pāṇ. II. 3. 41. @[jātivacanakriyāsaṃkhyābhiḥ] @[sahaikadeśasya] @[ekasya] @[pṛthakkaraṇaṃ] @[nirdhāraṇam]. Sid. Kau.
+\*@[yataśca] @[nirdhāraṇam]. Pāṇ. II. 3. 41. @[jātivacanakriyāsaṃkhyābhiḥ] @[sahaikadeśasya] @[ekasya] @[pṛthakkaraṇaṃ] @[nirdhāraṇam]. Sid. Kau.
 
 †@[sādhunipuṇabhyāmacīpsāyām] @[saptamī]. Pāṇ. II. 3. 43. @[apratyādibhiriti] @[vaktavyam]. Sid. Kau.
 
@@ -12575,7 +13018,7 @@ or devoted to' are construed with the Locative or the Genitive: @[hariparāyaṇ
 
 506 A HIGHER SANSKRIT GRAMMAR. [ § 871-875
 
-#### § 871. *Words expressive of the interval of time or space are used with the Ablative or the Locative, @[adya] @[bhuktavān] @[iti] @[dvasmāt] @[dvayoḥ] @[vā] having dined to-day he will dine again after two days; @[ihasthāryaṃ] @[krośadvayāt] @[krośadvaye] @[vā] @[sthitaṃ] @[lakṣyam] @[āhaniṣyati] standing here he will hit a mark two miles distant.
+#### § 871. \*Words expressive of the interval of time or space are used with the Ablative or the Locative, @[adya] @[bhuktavān] @[iti] @[dvasmāt] @[dvayoḥ] @[vā] having dined to-day he will dine again after two days; @[ihasthāryaṃ] @[krośadvayāt] @[krośadvaye] @[vā] @[sthitaṃ] @[lakṣyam] @[āhaniṣyati] standing here he will hit a mark two miles distant.
 
 #### § 872. †The prepositions @[upari] in the sense of 'exceeding' and @[adhi] in that of 'the master of' govern the Locative; @[upari] @[parārdhāt] @[hareḥ] @[guṇāḥ] the merits of Hari exceed a parārdha; @[adhi] @[bhūme] @[rāmaḥ] or @[adhi] @[bhūmau] Rāma is the lord of the earth; in other senses these prepositions are used with the Accusative, for which see § 805.
 
@@ -12587,7 +13030,7 @@ Note:—@[anurajyati] and @[ramate] are sometimes used with the Accusative also;
 
 #### § 875. Verbs of acting, behaving towards, &c. such as @[ācārati], @[vyavaharati], &c. and of throwing, such as @[asyati], @[kṣipati], &c. govern the Locative, @[ācaret] @[vinayena] @[śaktiṣu] @[kāryam] one should act modestly towards respectable persons; @[kuru] @[priyasakhīvṛttim] @[sapatnījane] (Śak.
 
-*@[sthānāntarakalayoḥ] @[kārakamāṇabhyāṃ]. Pāṇ. II. 3. 6.
+\*@[sthānāntarakalayoḥ] @[kārakamāṇabhyāṃ]. Pāṇ. II. 3. 6.
 
 †@[yasmādadhikaṃ] @[yasya] @[ceśvaravacanaṃ] @[tatra] @[saptamī]. Pāṇ. II. 3. 9.
 
@@ -12605,26 +13048,27 @@ In English, the Nominative is used as an Absolute case, in Sanskrit the Genitive
 
 N. B. When the subject or object of the principal sentence is the same as that of the participial phrase, the absolute construction should not be used; as अयोध्यां गतो रामो राज्यमकरोत्‌ and not अयोध्यां गते रामे राज्यम्‌ &c.; आगतेभ्यो विप्रेभ्यो दक्षिणामयच्छत्‌ and not आगतेषु विप्रेषु दक्षिणाम्‌ &c.
 
-#### § 878. * When the action done or suffered by a person or thing indicates another action i. e. when the time of the happening of the one action which is known indicates that of the second action, the Locative Absolute is used; गोषु दुह्यमानासु गतः he went away while the cows were being milked; अवसन्नायां
+#### § 878. \* When the action done or suffered by a person or thing indicates another action i. e. when the time of the happening of the one action which is known indicates that of the second action, the Locative Absolute is used; गोषु दुह्यमानासु गतः he went away while the cows were being milked; अवसन्नायां
 
-* यस्य च भावेन भावलक्षणम्‌ । @[Pāṇ]. II. 3. 37. यस्य क्रियया क्रियान्तरं लक्ष्यते ततः सप्तमी स्यात्‌ । Sid. Kau.
+- यस्य च भावेन भावलक्षणम्‌ । @[Pāṇ]. II. 3. 37. यस्य क्रियया क्रियान्तरं लक्ष्यते ततः सप्तमी स्यात्‌ । Sid. Kau.
 
 रात्रौ the night being ended; कुतो धर्मक्रियाविघ्नः सतां रक्षितरि त्वयि whence can there be obstacles to our religious rites when thou art the protector of the good.
 
 #### § 879. The Locative or Genitive Absolute may be used to express the sense of the English particles 'when, while, since, although,' &c. (and may thus supply the place of a pluperfect tense); एवं तयोः परस्परं वदतोः; While they two were thus talking; पुनः सूर्ये उदिते यावान्बाह्यः इत्यक्षेषम्‌ ( Megh. 40 ); Thou wilt accomplish the rest of thy journey when the sun rises again.
 
-#### § 880. * When 'contempt or disregard' is to be shown, the Genitive or the Locative Absolute is used; रुदति पुत्रे वा एनं चरन्तं तात प्राव्राजीत्‌ he turned out a recluse disregarding his weeping son i. e. in spite of the weeping of his son. In this sense the Genitive Absolute is used more often. The Locative or the Genitive absolute may thus have the sense of 'in spite of,' 'notwithstanding,' &c. in English.
+#### § 880. \* When 'contempt or disregard' is to be shown, the Genitive or the Locative Absolute is used; रुदति पुत्रे वा एनं चरन्तं तात प्राव्राजीत्‌ he turned out a recluse disregarding his weeping son i. e. in spite of the weeping of his son. In this sense the Genitive Absolute is used more often. The Locative or the Genitive absolute may thus have the sense of 'in spite of,' 'notwithstanding,' &c. in English.
 
 (a) The Locative Absolute is made to express the idea of 'as soon as,' 'no sooner than,' 'the moment that' &c. by compounding it with the word @[एव] or @[मात्र]; तस्मिन्‌...संहितमात्र एव ( Ragh. XVI. 78. ) no sooner was the arrow fixed, &c. अनवसित-वचन एव भयमपि scarcely had I finished my speech when.
 
 ## SECTION III.
+
 ## PRONOUNS.
 
 #### § 881. The chief peculiarities in the Syntax of pronouns have been already noticed in chapter IV.
 
 #### § 882. The pronouns of the first and second person viz. @[अस्मद्‌] and @[युष्मद्‌] have no gender. The other pronouns follow the
 
-* प्रकृतप्रतिषेधयोः प्रतिषेधः श्रेयान्‌ । @[Pāṇ]. II. 3. 38.
+- प्रकृतप्रतिषेधयोः प्रतिषेधः श्रेयान्‌ । @[Pāṇ]. II. 3. 38.
 
 @[§] 882-889 ] Syntax. 509
 gender of the nouns they refer to. For the uses of the shorter forms of @[asmat] and @[yuṣmat] see chapter IV.
@@ -12649,6 +13093,7 @@ several,' @[teṣu teṣu ramyatareṣu sthāneṣu] in those various highly del
 roam over the earth for (in search of) Damayantī; sometimes @[asmat] and @[yuṣmat] may be understood; @[sā tvaṃ kṣipramāruhya rathaṃ gajam vā] i.e.
 @[sā tvaṃ] that thou quickly sit in a chariot or mount an elephant.
 @[soyaṃ putrastava madoddhatānāṃ vāraṇānāṃ vijetā] this is that son of thine, the subduer of elephants shedding ichor, @[sohaṃ putrahāraṃ durārādhaṃ rājyamicchāmi jīvitum] I, who wish to live still, even though deprived of my sons in that manner, &c. &c.
+
 ## COMPARATIVE AND SUPERLATIVE DEGREES.
 
 @[§] 887. Adjectives in the Comparative degree are used with the Ablative; @[abhivṛddheḥ rakṣā śreyasī] protection (of one's subjects) is better than aggrandizement. @[arjunādyudhiṣṭhiro jyāyān] Yudhiṣṭhira was older than Arjuna.
@@ -12734,6 +13179,7 @@ As the past indeclinable participles or gerunds serve the purpose of carrying on
 H. S. G. 33.
 
 #### § 909-911 ] Syntax. 515
+
 connecting links between sentences, they account for the sparing use made in Sanskrit composition of relative pronouns, conjunctions and connecting particles. When several gerunds are used in a sentence they should be translated by verbal tenses and copulative conjunctions; e.g. @[प्रदोषसमये चन्द्रापीडः पदातिरेव राजकुलं गत्वा पितुः समीपे मुहूर्तं स्थित्वा तत्र च विलासवतीं दृष्ट्वा स्वभवनं शयनतलमभिसिषेद] when the evening time approached, Chandrāpīḍa went to the royal palace on foot, remained in the presence of his father for an hour, saw Vilāsavatī, &c.
 
 #### § 910. A few gerunds are used prepositionally in Sanskrit; @[विहाय], @[वृते] except, @[आदाय] with, @[उद्दिश्य], @[अधिकृत्य], @[अनुसृत्य] with reference to, &c.
@@ -12766,7 +13212,7 @@ connecting links between sentences, they account for the sparing use made in San
 
 #### § 915. The infinitive in Sanskrit has no passive form. In
 
-* @[samānakartṛkeṣu tumun] Pāṇ. III. 3. 158.
+- @[samānakartṛkeṣu tumun] Pāṇ. III. 3. 158.
 
 † @[śakpraṅbhijñāglāghaṭarabhramādarabhramuśahārhās tumuṇy api] | Pāṇ. III. 4. 65. Vide Apte's Guide § 176 and note thereon.
 
@@ -12786,7 +13232,7 @@ turning, therefore, an active construction involving an infinitive into a passiv
 
 #### § 918. The Present tense shows that an action is taking place at the present time; @[ayam āgacchati] @[rāmaḥ eṣaḥ] here comes (is
 
-* @[tumuṇaś ca bhāve akarmakebhyaḥ] |
+- @[tumuṇaś ca bhāve akarmakebhyaḥ] |
 
 @[§] 918-920 ] Syntax, 519
 
@@ -12804,7 +13250,7 @@ coming ) thy son. + It is the Present progressive, which expresses the continuan
 
 @[§] 920. ‡ When a question is asked and an answer is given to it, the Present is used in the sense of the Past tense when the particle @[sma] is used; @[kva akārṣīḥ iti]—@[atra karomi sma] where @[karomi]
 
-* "The principal use of the Present Indefinite is to express what is true at all times; 'the sun gives light; twice two is four' &c. Hence a more suitable name would be the Universal tense. It expresses present time only as representing all time. The permanent arrangements and laws of nature, the peculiarities, habits and propensities of living beings and whatever is constant, regular and uniform, have to be represented by the Present Indefinite. * * It is only by a special adverb or by the context that we can confine this tense to mean a present act solely." Bain, Higher English Grammar.
+- "The principal use of the Present Indefinite is to express what is true at all times; 'the sun gives light; twice two is four' &c. Hence a more suitable name would be the Universal tense. It expresses present time only as representing all time. The permanent arrangements and laws of nature, the peculiarities, habits and propensities of living beings and whatever is constant, regular and uniform, have to be represented by the Present Indefinite. \* \* It is only by a special adverb or by the context that we can confine this tense to mean a present act solely." Bain, Higher English Grammar.
 
 † @[Pāṇ]. III. 3. 131. See p. 625.
 
@@ -12814,7 +13260,7 @@ coming ) thy son. + It is the Present progressive, which expresses the continuan
 
 is equivalent to @[akārṣam]; when the particles @[na] and @[nu] are used the Present may be optionally used; @[kva akārṣīḥ iti]—@[atra karomi] or @[na akārṣam]—@[nu karomi] or @[nu akārṣam].
 
-@[§] 921. * With interrogatives the Present is often used in the sense of the Future when thought or desire is implied; @[kiṃ karomi] i. e. (@[kariṣyāmi]), @[kva gacchāmi] i. e. (@[gamiṣyāmi]) What shall I do? Whither shall I go? @[etayoḥ kataraṃ] or @[eteṣāṃ katamaṃ bhojayasi] (i.e. @[bhojayiṣyasi] or @[bhojayitāsi]) which of these persons will you feed? So @[kutra pṛcchāmi duḥkhārtā], &c.; but @[kaḥ tatra gamiṣyati].
+@[§] 921. \* With interrogatives the Present is often used in the sense of the Future when thought or desire is implied; @[kiṃ karomi] i. e. (@[kariṣyāmi]), @[kva gacchāmi] i. e. (@[gamiṣyāmi]) What shall I do? Whither shall I go? @[etayoḥ kataraṃ] or @[eteṣāṃ katamaṃ bhojayasi] (i.e. @[bhojayiṣyasi] or @[bhojayitāsi]) which of these persons will you feed? So @[kutra pṛcchāmi duḥkhārtā], &c.; but @[kaḥ tatra gamiṣyati].
 
 (@[a]) It is also used in the sense of the Future in conditional sentences as implying a condition and the fulfilment of the desired object; @[annaṃ dadāti] (@[dātā dāsyati vā]) @[sa svargaṃ yāti] (@[yātā yāsyati vā]) he, who offers (or will offer) food, goes (or will go) to heaven i. e. if one offers &c.
 
@@ -12824,7 +13270,7 @@ is equivalent to @[akārṣam]; when the particles @[na] and @[nu] are used the 
 
 @[§] 923. ‡ The particle @[sma] when used with the Present converts it into a Past tense; @[kasmiṃścid grāme viṣṇudattaṃ nāma brāhmaṇaḥ prativasati sma] in a certain village there dwelt a Brāhmaṇa Viṣṇudatta by name; @[śataśaḥ nagaralokaḥ abhidhāvanti sma] the citizens ran in hundreds. The particle
 
-* @[prārthe laḍ vacane caiva]. @[pratīyamāne siddho ca]. Pāṇ. III. 3. 6, 7.
+- @[prārthe laḍ vacane caiva]. @[pratīyamāne siddho ca]. Pāṇ. III. 3. 6, 7.
 
 † @[anudyamane purovacanayoḥ laṭ] etc. III. 3. 4. @[nipātāvabetau nityārthau cintayataḥ]. Sid. Kau.
 
@@ -12834,7 +13280,7 @@ is equivalent to @[akārṣam]; when the particles @[na] and @[nu] are used the 
 
 @[api] may not necessarily be joined with it; @[atha] @[eva] वेत्थ महाराज यत्स्माह न बिभीषणः, मन्ये स्म हितमाचष्टे, &c.
 
-#### § 924. * When @[jātu] or @[api] is used in a sentence and condemnation or censure is implied, the Present may be used in the sense of the three tenses; @[adya] @[jāyām] त्यजसि @[jātu] गणिकामादत्से where त्यजसि and आदत्से may have also the sense of the Past or the Future tense; @[jātu] @[tam] @[makhān] इच्छन्‌ याजयसि ( you will even make a @[śūdra] perform a sacrifice ).
+#### § 924. \* When @[jātu] or @[api] is used in a sentence and condemnation or censure is implied, the Present may be used in the sense of the three tenses; @[adya] @[jāyām] त्यजसि @[jātu] गणिकामादत्से where त्यजसि and आदत्से may have also the sense of the Past or the Future tense; @[jātu] @[tam] @[makhān] इच्छन्‌ याजयसि ( you will even make a @[śūdra] perform a sacrifice ).
 
 ## PERFECT AND AORIST.
 
@@ -12848,7 +13294,7 @@ is equivalent to @[akārṣam]; when the particles @[na] and @[nu] are used the 
 
 ( @[a] ) ¶ It may also be optionally used in asking questions refer-
 
-* @[anadyatane] @[laṅ] @[liṭau] । Pāṇ. III. 3. 142.
+- @[anadyatane] @[laṅ] @[liṭau] । Pāṇ. III. 3. 142.
 
 † For a further explanation of the difference between these three tenses the student is referred to Dr. @[Bhāṇḍarkar]'s preface to the Ist Edition of his 2nd Book of Sanskrit.
 
@@ -12864,7 +13310,7 @@ ring to a very recent time; अगच्छत्‌ किम्‌ ( Qu. ) ( A
 
 ## PERFECT.
 
-#### § 929. * The Perfect denotes an action done before the current day and not witnessed by the speaker. It has reference to a very remote time and should, therefore, be used in narrating events of the remote past; @[atra] अपश्यत्‌ @[tāṭakām] निजघान रामः । Rāma killed her whose name was Tāṭakā. @[prayayau] इन्द्रजित्स्य @[ca] ( Bhaṭṭi. XIV. 16. ).
+#### § 929. \* The Perfect denotes an action done before the current day and not witnessed by the speaker. It has reference to a very remote time and should, therefore, be used in narrating events of the remote past; @[atra] अपश्यत्‌ @[tāṭakām] निजघान रामः । Rāma killed her whose name was Tāṭakā. @[prayayau] इन्द्रजित्स्य @[ca] ( Bhaṭṭi. XIV. 16. ).
 
 ( @[a] ) In the Ist person the Perfect shows that the speaker was in a distracted state of mind or was unconscious when the event took place, or that he wants utterly to deny something that he has done; बहु @[aha] परस्तात्स्य मत्ताः @[ila] इत्याहुः ( Śā. XI. 39 ) being frenzied I prattled much, I am told, before him; कलिङ्गेष्ववात्सीः @[kim]? didst thou dwell in the country of the Kaliṅgas? नाहं कलिङ्गेषु वसामास । I never went to Kaliṅgas. With these exceptions the Perfect should not be used in the Ist person.
 
@@ -12872,12 +13318,13 @@ ring to a very recent time; अगच्छत्‌ किम्‌ ( Qu. ) ( A
 
 #### § 930. ‡ The Aorist simply expresses past action indefinitely @[i. e.] without reference to any particular time ( @[bhūtamātre] @[luṅ] ); सोऽध्येषटवेदान्यजद्देवांस्तर्पयत्पितॄनपूजयत्सम्मेयस्तथा बन्धून्‌ । अभ्यरक्षत @[ca] @[durgramāṃs] तथा गृहान्‌ अन्येभ्यः न्यषेदत @[rāṣṭram] ( Bhaṭṭi. I. 2. ) He studied the Vedas, offered sacrifices to the gods, satisfied his departed ancestors, honoured
 
-* @[parokṣe] @[liṭ] । Pāṇ. III. 2. 115. उत्तमपुरुषे चित्तविक्षेपादिद्वारा @[parokṣabhāvaḥ] । ( Sid. Kau. ); अनत्यन्तापह्नवे @[vā] लिट्त्यः । Vart.
+- @[parokṣe] @[liṭ] । Pāṇ. III. 2. 115. उत्तमपुरुषे चित्तविक्षेपादिद्वारा @[parokṣabhāvaḥ] । ( Sid. Kau. ); अनत्यन्तापह्नवे @[vā] लिट्त्यः । Vart.
 
 † @[luṅ] । Pāṇ. III. 2. 110.
 
 #### § 980-983 } Syntax. 523
-his relatives, subdued the collection of six (i.e. the six passions), took delight in politics and totally annihilated his enemies. The aorist, however, properly denotes a recent action or one done during the course of the present day. 'It is similar to the English present perfect," remarks Dr. Bhandarkar*, "which the student will remember defines an action as having happened in a portion of time which is not yet expired; it brings past action in connection with the present time," @[adya avarṣīt] it rained to-day.
+
+his relatives, subdued the collection of six (i.e. the six passions), took delight in politics and totally annihilated his enemies. The aorist, however, properly denotes a recent action or one done during the course of the present day. 'It is similar to the English present perfect," remarks Dr. Bhandarkar\*, "which the student will remember defines an action as having happened in a portion of time which is not yet expired; it brings past action in connection with the present time," @[adya avarṣīt] it rained to-day.
 
 #### § 931. † The aorist ought to be used when the idea of the continuousness or nearness of an action is to be implied; @[yāvajjīvam aśnām abhūt] (Sid. Kau.) gave food throughout his life; @[yeyaṃ paurṇamāsī atikrāntā tasyām agnim ādhīta somena ayajiṣṭa] (Sid. Kau.) he consecrated the fire on the last Purnima day (the full-moon day) and offered Soma, &c.
 
@@ -12885,7 +13332,7 @@ his relatives, subdued the collection of six (i.e. the six passions), took delig
 
 #### § 933. The aorist is used with the prohibitive particle @[mā] (@[māṅ]) or @[mā sma], with the temporal augment @[a] cut off, and has then the sense of the imperative; @[māte saṃśayo bhūt] Ma. Bha. V. 182. 16. have no doubt &c. @[mā sma pratilomam agamaḥ] do not go against. Rarely in ancient works the augment is retained @[mā niṣāda pratiṣṭhāṃ tvam agamaḥ śāśvatīḥ samāḥ] may you not live, oh Nishada for many years. When a root is preceded by a preposition, the @[a] is sometimes not dropped; @[mā manyum anvagāḥ] do not submit to
 
-* Second Book of Sanskrit, P. 154.
+- Second Book of Sanskrit, P. 154.
 
 † @[Pāṇ]. III. 3. 135. See next Page.
 
@@ -12899,15 +13346,15 @@ his relatives, subdued the collection of six (i.e. the six passions), took delig
 
 ### The Use Of The First Future Or Periphrastic Future.
 
-#### § 935. Obs. * When the continuousness of an action or nearness of time (i.e. the non-intervention of the same period between the two points of time referred to) is to be expressed the First Future must not be used; @[yāvajjīvam annam dāsyati] he will give food throughout his life; and not @[dātā]. @[yā evaṃ abhāviṣyat āgāminī]
+#### § 935. Obs. \* When the continuousness of an action or nearness of time (i.e. the non-intervention of the same period between the two points of time referred to) is to be expressed the First Future must not be used; @[yāvajjīvam annam dāsyati] he will give food throughout his life; and not @[dātā]. @[yā evaṃ abhāviṣyat āgāminī]
 
-* @[na ānantaryakālavṛddhayoḥ apavādabhakṣaṇa sāmīpyayoḥ] | @[tatrānantaryaṃ yāvajjīvam] | @[kālavṛddhiḥ adya māsi varṣe vā] | @[parasmin vartamāne vā] | Pāṇ. III. 3. 135-138.
+- @[na ānantaryakālavṛddhayoḥ apavādabhakṣaṇa sāmīpyayoḥ] | @[tatrānantaryaṃ yāvajjīvam] | @[kālavṛddhiḥ adya māsi varṣe vā] | @[parasmin vartamāne vā] | Pāṇ. III. 3. 135-138.
 
 तस्यां अङ्गीनाचस्यिते सोमेन च he will consecrate the fires and offer a Soma sacrifice on the coming @[Amāvāsyā] day; and not आचरता and यजता; also when limit of time or place is expressed and the word सदा is used in a sentence; यः अयं द्विवर्षः आगामी तस्य यत्प्रथमं सदा तत्र सक्तून् पास्यामः and not पास्याम; यः अयं संवत्सरः आगामी तस्य यदेतत् आग्रहायण्याः पूर्णमासं युक्तं तत्र अध्येष्यामहे and not भविष्यतास्महे; but when the word पक्ष is used the First Future may be used; योऽयं मासः आगामी तस्य यः अपरः पक्षाद्रः तत्र अध्येतास्महे we will study in the earlier fortnight of the coming month. When the period of time meant lies beyond a certain point of time, the First or the Second Future may be used; योऽयं संवत्सरः आगामी तस्य यत्परम् आग्रहायण्यास्तत्राध्येष्यामहे or अध्येतास्महे, &c.
 
 ## THE SECOND OR SIMPLE FUTURE.
 
-#### § 936. * When the close proximity of a future action is intended, the Second Future or the Present may be used; कदा गमिष्यसि when will you go? सम्प्रति गच्छानि or गमिष्यामि I shall just go.
+#### § 936. \* When the close proximity of a future action is intended, the Second Future or the Present may be used; कदा गमिष्यसि when will you go? सम्प्रति गच्छानि or गमिष्यामि I shall just go.
 
 #### § 937. † When there is the idea of hope implied in a conditional form, the Aorist, the Present or the Simple Future may be used in both the clauses to denote a future time, यदि वर्षिष्यति वा वर्षति वा धान्यम् अवापिष्म अवापाम अवप्स्याम वा । (Sid. Kan). if it were to rain we would sow corn.
 
@@ -12915,9 +13362,9 @@ his relatives, subdued the collection of six (i.e. the six passions), took delig
 
 #### § 939. ‡ The Simple Future is alone used when the idea of hope is conveyed by शीघ्र and words having the sense of @[tvarita]; वृष्टि-
 
-* वर्तमानसामीप्ये वर्तमानवद्वा । Sid. Kan. 171, 3. 131.
-† आशिषि लिङ्लुङ्लृट च । Pan. III. 3. 132.
-‡ आज्ञायां लिट च । Pan. III. 3. 133.
+- वर्तमानसामीप्ये वर्तमानवद्वा । Sid. Kan. 171, 3. 131.
+  † आशिषि लिङ्लुङ्लृट च । Pan. III. 3. 132.
+  ‡ आज्ञायां लिट च । Pan. III. 3. 133.
 
 ---
 
@@ -12925,7 +13372,7 @@ his relatives, subdued the collection of six (i.e. the six passions), took delig
 
 #### § 940. When the word स्म is not used with roots meaning "to remember," such as स्मृ, &c, the Second Future is used in the sense of the Imperfect; स्मरसि कृष्ण गोकुले वत्स्यामः Kṛṣṇa, do you remember that we dwelt in Gokula ?
 
-#### § 941. * When disbelief in or intolerance of an action is intended to be expressed, and especially in the form of a question, the Simple Future is used optionally in the sense of the Potential; न संभावयामि or न मर्षये त्वं हरिं निन्देत or निन्दिष्यसि I never believe, or cannot tolerate it, that you would or should speak ill of Hari; कः or कतरः कतमः वा हरिं निन्देत् or निन्दिष्यति who will speak ill of Hari (I do not believe that any body will, &c.); कं शूद्रं भवान् याजयेत् or याजयिष्यति, &c.; when the word किङ्करु † (a particle, showing great anger) and roots having the sense of 'to be' precede, the Simple Future only should be used; न संभावयामि or मर्षये भवान् किङ्करु शूद्रं याजयिष्यति I do not believe or like that you should make a @[Śūdra] perform a sacrifice; so अस्ति शक्तिः विद्यते वा भवान् शूद्रं याजयिष्यति.
+#### § 941. \* When disbelief in or intolerance of an action is intended to be expressed, and especially in the form of a question, the Simple Future is used optionally in the sense of the Potential; न संभावयामि or न मर्षये त्वं हरिं निन्देत or निन्दिष्यसि I never believe, or cannot tolerate it, that you would or should speak ill of Hari; कः or कतरः कतमः वा हरिं निन्देत् or निन्दिष्यति who will speak ill of Hari (I do not believe that any body will, &c.); कं शूद्रं भवान् याजयेत् or याजयिष्यति, &c.; when the word किङ्करु † (a particle, showing great anger) and roots having the sense of 'to be' precede, the Simple Future only should be used; न संभावयामि or मर्षये भवान् किङ्करु शूद्रं याजयिष्यति I do not believe or like that you should make a @[Śūdra] perform a sacrifice; so अस्ति शक्तिः विद्यते वा भवान् शूद्रं याजयिष्यति.
 
 #### § 942. When the idea of wonder is to be expressed and the words यच्च, यदि and यदा do not occur in a sentence, the Simple Future should be used; आश्चर्यबन्धो नाम हरिं द्रक्ष्यति it is a wonder that a blind man sees Hari.
 
@@ -12933,14 +13380,14 @@ his relatives, subdued the collection of six (i.e. the six passions), took delig
 
 (b) This Future is also used when the particle अलं meaning sure or able is used; अलं कृष्णो हस्तिनं हनिष्यति @[Kṛṣṇa] is sure or able to kill the elephant.
 
-* असंभावने च लिङ् । अनद्यतने लुङ् लङ् च । अतीतेऽच । Pan III. 3. 144, 145.
-† किङ्करुविधाभ्यां लृट् Pan. III. 3. 146.
+- असंभावने च लिङ् । अनद्यतने लुङ् लङ् च । अतीतेऽच । Pan III. 3. 144, 145.
+  † किङ्करुविधाभ्यां लृट् Pan. III. 3. 146.
 
 ## THE MOODS.
 
 ## THE IMPERATIVE MOOD.
 
-#### § 943. * The imperative Mood does not express merely command, but also entreaty, benediction, courteous enquiry, gentle advice, ability, &c.
+#### § 943. \* The imperative Mood does not express merely command, but also entreaty, benediction, courteous enquiry, gentle advice, ability, &c.
 
 (a) In the second person this Mood is used to express command, entreaty, gentle advice and benedictions or blessings; @[gaccha tvaṃ kusumapuraṃ] go to Kusumapura; @[paritrāyadhvaṃ paritrāyadhvaṃ] help! help! @[kṣamasva aparādhaṃ] O God! forgive my faults, &c.; @[upatiṣṭhasva guruṃ priyasakhīva śapatnijanam] (Sak. IV.) serve your elders and treat your co-wives as if they were your friends; @[bhava kāryakarastava me gatvā rāghavaṃ vada ca] be thou my messenger, go to Raghava, and say to him; @[āvahetha patimananyādhṛtiṃ sā tathyamevābhihitā hareṇa] she was addressed the truth by Hara when he said 'do thou obtain a husband not devoted to any other lady.'
 
@@ -12952,7 +13399,7 @@ his relatives, subdued the collection of six (i.e. the six passions), took delig
 
 ---
 
-* @[vidhau loṭ] Pan. III. 3, 162. Vide Pan. III. 3. 161. quoted on the next page.
+- @[vidhau loṭ] Pan. III. 3, 162. Vide Pan. III. 3. 161. quoted on the next page.
 
 of expression; @[ānīyatāṃ rājānaḥ] the prince should be brought; @[śrūyatāṃ atra paṇḍitāḥ] may you hear, ye Pandits; @[etad āsanam āsyatām] take this seat.
 
@@ -12968,11 +13415,11 @@ of expression; @[ānīyatāṃ rājānaḥ] the prince should be brought; @[śr�
 
 ## THE POTENTIAL MOOD.
 
-#### § 950. *The Potential Mood expresses the sense of @[vidhi] (command, directing a subordinate, &c.), @[nimantraṇa] (pressing invita-
+#### § 950. \*The Potential Mood expresses the sense of @[vidhi] (command, directing a subordinate, &c.), @[nimantraṇa] (pressing invita-
 
 ---
 
-* @[kriyāsamabhihāre loṭ loṭo laḍvā ca tathyatoḥ. samuccaye'nyatarasya am. yathāsaṃkhyānuprayogaḥ pūrvasmin. samuccaye sāmānyadvacanasya]. Pan. III. 4. 1-5. @[kriyāsamabhihāre ca vācye]. Vārtt.
+- @[kriyāsamabhihāre loṭ loṭo laḍvā ca tathyatoḥ. samuccaye'nyatarasya am. yathāsaṃkhyānuprayogaḥ pūrvasmin. samuccaye sāmānyadvacanasya]. Pan. III. 4. 1-5. @[kriyāsamabhihāre ca vācye]. Vārtt.
 
 † @[vidhinimantraṇāmantraṇādhikārapraśnaprārthaneṣu liṅ]. Pan. III. 3. 161.
 
@@ -12980,7 +13427,7 @@ of expression; @[ānīyatāṃ rājānaḥ] the prince should be brought; @[śr�
 
 tion ), @[āmantraṇa] ( giving permission ), @[adhyeṣṭi] ( telling one to attend to an honorary office or duty ), @[saṃpraśna] (courteously asking a person a question ), and @[prārthanā] prayer. @[yajeta] one should perform a sacrifice; @[at grāmaṃ vrajeta] go to the village; @[iha bhavān bhuñjīta] your honour should take food here, @[atrāsīta bhavān] you may sit here; @[putram adhyāpayed bhavān] you may teach my son (as an honorary duty ); @[kiṃ vā veda adhīyīya uta tarkam] what, oh! shall I leam the veda or logic? @[bho bhojanam labheyam] good Sir, can I get food here? i. e. will you kindly give me food? ( All these senses are optionally expressed by the imperative also ).
 
-(a) * In the case of the first two senses viz. @[vidhi] and @[niyama] and in that of ' proper time', the potential participle may also be used for the Potential; @[bhavatā yajñaḥ kartavyaḥ], Ko.
+(a) \* In the case of the first two senses viz. @[vidhi] and @[niyama] and in that of ' proper time', the potential participle may also be used for the Potential; @[bhavatā yajñaḥ kartavyaḥ], Ko.
 
 #### § 951. + When the words 'after an hour' are used the Potential (also imperative ) or the Potential participle may be used; @[muhūrtād yajeta], @[yajetām], @[yaṣṭavyaṃ vā] (Sid. Kau. ).
 
@@ -12990,16 +13437,17 @@ tion ), @[āmantraṇa] ( giving permission ), @[adhyeṣṭi] ( telling one to 
 
 (a) The Potential or the Potential participle may be used when the sense of capability is implied; @[bhāraṃ tvaṃ voḍhuṃ śaknoṣi] or @[voḍhum arhasi] or @[bharas tvayā voḍhavyaḥ] thou canst (art able to ) carry the load,
 
-* @[vidhinimantraṇāmantraṇādhyeṣṭisaṃpraśnapraārthaneṣu liṅ] Pan. III. 3. 161.
-+ @[muhūrte liṅloṭau kṛtyā ca] Pan. III. 3. 168.
-‡ @[kālasamayaveḷāsu liṅ] @[ca pratyayaś ca yadi] । Pan. III. 3. 164.
-§ @[arhe kṛtyaḥ] । @[śakti kṛtyalip ca] । Pan. III. 3. 169, 172.
+- @[vidhinimantraṇāmantraṇādhyeṣṭisaṃpraśnapraārthaneṣu liṅ] Pan. III. 3. 161.
+
+* @[muhūrte liṅloṭau kṛtyā ca] Pan. III. 3. 168.
+  ‡ @[kālasamayaveḷāsu liṅ] @[ca pratyayaś ca yadi] । Pan. III. 3. 164.
+  § @[arhe kṛtyaḥ] । @[śakti kṛtyalip ca] । Pan. III. 3. 169, 172.
 
 H. S. G. 34.
 
 530 SANSKRIT GRAMMAR. { § 954-958
 
-#### § 954. *With interrogative words such as @[kim], @[katara], @[katama], &c. the Potential or the Simple Future may be used when censure is implied ( see § 937 ); @[kaḥ kataro vā enaṃ nindeta nindiṣyati vā] ।
+#### § 954. \*With interrogative words such as @[kim], @[katara], @[katama], &c. the Potential or the Simple Future may be used when censure is implied ( see § 937 ); @[kaḥ kataro vā enaṃ nindeta nindiṣyati vā] ।
 
 (a) When wonder is implied the simple Future is used in preference to the Potential if the word @[yadi] be not used; @[āścaryaṃ yad andho harīm paśyati] it is a wonder that a blind man should see Hari; but @[āścaryaṃ yadi sa adhīyīta] it is wonder if he study.
 
@@ -13009,13 +13457,13 @@ H. S. G. 34.
 
 #### § 957. ¶ When in a conditional sentence one thing is expressed as depending upon another as effect upon a cause, the Potential or the Simple Future may be used; @[yadi kṛṣṇaṃ praṇamet sukhaṃ vrajet] or @[yāyāt] if he will bow to Kṛṣṇa he will attain happiness: so @[kṛṣṇaṃ praṇamati sukham vrajet yāsyati].
 
-#### § 958. ** When words having the sense of ' to wish, ' such as @[iṣ], @[kam]. &c. are used, the Potential or imperative is used; @[icchāmi bhavān aśnīta] or @[aśnātu] I wish you should dine; @[icchāmi somaṃ
+#### § 958. \*\* When words having the sense of ' to wish, ' such as @[iṣ], @[kam]. &c. are used, the Potential or imperative is used; @[icchāmi bhavān aśnīta] or @[aśnātu] I wish you should dine; @[icchāmi somaṃ
 
-* @[kimaḥ] ( @[garhāyām] ) @[liṅlaṭau] । Pan. III. 3.144, ( @[citrakāre] ) @[leṭ] । @[itareṣām ca] । Pan. III. 3. 117. 3. 145.
-† @[kāmyapraśneṣu kaccit] । Pan. III. 3. 153.
-‡ @[saṃbhāvane laṭ saṃbhāvanayakathane'yādi] । Sid. III. 3. 155.
-¶ @[hetuhetumatośca liṅ] । Pan. III. 3. 156.
-** @[iṣicakame liṅloṭo] । @[ciṅ ca] । Pan. III. 3. 167. 159.
+- @[kimaḥ] ( @[garhāyām] ) @[liṅlaṭau] । Pan. III. 3.144, ( @[citrakāre] ) @[leṭ] । @[itareṣām ca] । Pan. III. 3. 117. 3. 145.
+  † @[kāmyapraśneṣu kaccit] । Pan. III. 3. 153.
+  ‡ @[saṃbhāvane laṭ saṃbhāvanayakathane'yādi] । Sid. III. 3. 155.
+  ¶ @[hetuhetumatośca liṅ] । Pan. III. 3. 156.
+  \*\* @[iṣicakame liṅloṭo] । @[ciṅ ca] । Pan. III. 3. 167. 159.
 
 @[इ] 958-961 ] Syntax. 531
 
@@ -13031,27 +13479,29 @@ H. S. G. 34.
 
 ## THE CONDITIONAL.
 
-#### § 961. * The conditional is used in those conditional sentences in which the Potential may be used when the nonperformance of the action is implied or in which the falsity of the antecedent is involved as a matter of fact. It expresses both future and past time. It must be used in both the antecedent and the consequent clauses; @[यदिवर्षेदभविष्यत्तदा शस्यमभविष्यत्‌] if there would be plentiful rain there would be an abundance of
+#### § 961. \* The conditional is used in those conditional sentences in which the Potential may be used when the nonperformance of the action is implied or in which the falsity of the antecedent is involved as a matter of fact. It expresses both future and past time. It must be used in both the antecedent and the consequent clauses; @[यदिवर्षेदभविष्यत्तदा शस्यमभविष्यत्‌] if there would be plentiful rain there would be an abundance of
 
-* @[लिङ्निमित्ते लृङ् क्रियातिपत्तौ] । Pāṇ. III. 3. 139. @[हेतुहेतुमद्भावादिलिङ्निमित्तं तल्लृङ् भविष्यत्यर्थे किं तु स्यात् क्रियायाः अनिष्पत्तौ गम्यमानायाम्‌] । Sid. Kau.
+- @[लिङ्निमित्ते लृङ् क्रियातिपत्तौ] । Pāṇ. III. 3. 139. @[हेतुहेतुमद्भावादिलिङ्निमित्तं तल्लृङ् भविष्यत्यर्थे किं तु स्यात् क्रियायाः अनिष्पत्तौ गम्यमानायाम्‌] । Sid. Kau.
 
 corn; @[यदि विरमाप्स्यस्तन्मुखस्यामन्दं तत्र रतिरभविष्यदम्बुजे किमस्मिन्‌] hadst thou obtained (which thou hast not) the sweet fragrance of her breath, wouldst thou have had any liking for this lotus?
 
-Obs. § 962. * When a past action is to be indicated the conditional may be optionally used in the sense of the Potential; @[कथं धर्ममहापोढुमवर्धिष्यस्तत्सेवया]? @[त्यजेः] how could you give up your religion?
+Obs. § 962. \* When a past action is to be indicated the conditional may be optionally used in the sense of the Potential; @[कथं धर्ममहापोढुमवर्धिष्यस्तत्सेवया]? @[त्यजेः] how could you give up your religion?
 
 (a) Also where the Potential is used in conjunction with the particles @[यथा], @[अपि], @[जातु] &c.; @[अपि नाम पुरुषः सीतां नार्थयिष्यत राघवः] । @[नहि प्रार्थयते जात्वस्त्रैलोक्यं यः कुलस्त्रियम्‌] ॥ @[संकल्पं पालयिष्यस्त्वामियं शुद्धमानसा] । @[क्षमा सत्यवतीरभाप्स्यस्त्वं राम सीतानिबन्धनम्‌] ॥ (Bhaṭṭi. XXI. 3. 4.)
 
 (b) When wonder is to be expressed the Conditional is optionally used where the Potential is used in combination with the particles @[यत्र], @[यत्र वा] or @[अत्र] when the action does not take place; @[आश्चर्यं यत्र यत्र वा रघुश्रेष्ठोऽभविष्यन्भवेत्तव] । @[तस्यामस्यां विनष्टायां तत्र किमभविष्यथाः कुलम्‌] ॥ (Bhaṭṭi. XXI. 8).
 
 ## SECTION V.
+
 Indeclinables.
+
 ## ADVERBS.
 
 #### § 963. The neu. singulars of the Nominative and other cases of several nouns are used as adverbs; @[चिरम्‌] or @[चिरेण] or @[चिराय ध्यात्वा] having contemplated for a long time; @[दुःखं] or @[दुःखेन तिष्ठति] he is in distress; so @[सुखम्‌] or @[सुखेन] &c.
 
 (a) The word @[विधा] is used adverbially in combination with
 
-* @[भूते च] Pāṇ. III. 3. 140.
+- @[भूते च] Pāṇ. III. 3. 140.
 
 #### § 963-966 } SYNTAX. 533
 
@@ -13093,11 +13543,11 @@ The Particles @[atha] and @[iti].
 
 #### § 970. @[atha] is used in the following senses:—(1) as a sign of auspiciousness†; @[athāto brahmajijñāsā] now begins the inquiry about Brahma; cf. the Bhāṣya on this sūtra. (2) marks the beginning or commencement of a work; @[atha idam ārabhyate Prathamaṃ Tantram] now is begun the Ist Tantra; so @[atha Uttarārāmacaritam], &c; (3) 'then' after that,' &c.; @[atha prajānām īśvaraḥ] &c. (Rag. II. 1.) After that (i. e. passing of the night) the lord of the earth, &c. (4) asks a question @[atha bhagavān Kaśyapo lokānugrahāya kuśalī kārayiṣyaḥ] is the venerable Kaśyapa all right that he may oblige the world? @[atha tvam abhaktum īśas] are you able to eat? (5) 'and, including'; @[Bhīmaḥ athavā Arjunaḥ] Bhīma and also Arjuna; (6) 'if;' @[atha niyato maraṇānto jantoḥ] if death is sure to befall a creature, &c.
 
-* @[maṅgalānantarārambhapraśnakāryeṣv atho'tha] । Amara.
+- @[maṅgalānantarārambhapraśnakāryeṣv atho'tha] । Amara.
 
 † Properly speaking this is not the sense of @[atha]. The mere utterance or hearing of this word is considered as auspicious as the word is supposed to have emanated from the throat of Brahma.
 
-#### § 971. As @[atha] marks the beginning, so @[iti] marks the close of a composition. This particle is used in the following senses: (1) to quote the exact words spoken by some one, thus taking the place of the quotation marks and being used generally after the words quoted;* @[deva ekā Caṇḍālī devapādamūlam upagacchantī devaṃ vijñāpayati...devapādamūlam upāgatāham icchāmi devadarśanasukham anubhavitum iti] । O lord a certain Chaṇḍāla girl requests Your Majesty (saying)......" I who have come to your majesty's feet wish to enjoy the happiness of the sight of Your Majesty;" @[brāhmaṇāḥ ūcuḥ kṛtārthaḥ sma iti] the Brāhmaṇas said " we have accomplished our objects;" (2) cause (rendered in English because, since &c.); @[vaidehiko'smīti pṛcchāmi] I ask you because I am a foreigner; @[purāṇam ityeva na sādhu sarvaṃ] every thing is not good simply because it is old; (3) purpose or motive; @[mā bādhā syād iti parimitaparaḥ sauhṛdaḥ] they two took a limited number of servants with them that there should be no disturbance, &c.; (4) so, thus; as follows; @[Rāmābhidhāno Hari rityuvāca]. (5) in the capacity of, as regards; @[piteti sa pūjyaḥ gurur iti nindyaḥ] as a father he ought to be respected, as a teacher ought to be censured; (6) to state an opinion; @[iti Āṭmārathyaḥ] this is the opinion of Āṭmārathya. It is often used by commentators in the sense of 'according to the rule'; @[iti ārṣe liṅ] &c. &c.
+#### § 971. As @[atha] marks the beginning, so @[iti] marks the close of a composition. This particle is used in the following senses: (1) to quote the exact words spoken by some one, thus taking the place of the quotation marks and being used generally after the words quoted;\* @[deva ekā Caṇḍālī devapādamūlam upagacchantī devaṃ vijñāpayati...devapādamūlam upāgatāham icchāmi devadarśanasukham anubhavitum iti] । O lord a certain Chaṇḍāla girl requests Your Majesty (saying)......" I who have come to your majesty's feet wish to enjoy the happiness of the sight of Your Majesty;" @[brāhmaṇāḥ ūcuḥ kṛtārthaḥ sma iti] the Brāhmaṇas said " we have accomplished our objects;" (2) cause (rendered in English because, since &c.); @[vaidehiko'smīti pṛcchāmi] I ask you because I am a foreigner; @[purāṇam ityeva na sādhu sarvaṃ] every thing is not good simply because it is old; (3) purpose or motive; @[mā bādhā syād iti parimitaparaḥ sauhṛdaḥ] they two took a limited number of servants with them that there should be no disturbance, &c.; (4) so, thus; as follows; @[Rāmābhidhāno Hari rityuvāca]. (5) in the capacity of, as regards; @[piteti sa pūjyaḥ gurur iti nindyaḥ] as a father he ought to be respected, as a teacher ought to be censured; (6) to state an opinion; @[iti Āṭmārathyaḥ] this is the opinion of Āṭmārathya. It is often used by commentators in the sense of 'according to the rule'; @[iti ārṣe liṅ] &c. &c.
 
 ## INTERJECTIONS.
 
@@ -13105,10 +13555,12 @@ The Particles @[atha] and @[iti].
 
 @[āḥ kaṣṭe bata hīhā hūṃ mātaḥ dhig dhik vadanti ha |] @[hā pitaḥ iti atyadbhutaṃ iti tā ruruduḥ vilalāpuśaḥ ||]
 
-* In Sanskrit there is no indirect construction, so that in translating indirect constructions the actual words of the speaker followed by @[iti] must be used.
+- In Sanskrit there is no indirect construction, so that in translating indirect constructions the actual words of the speaker followed by @[iti] must be used.
 
 Appendix II.
+
 ## Dhātukosha.
+
 Abbreviations.
 Pre. Present @[gaṇa]. Im. imperative @[loṭ]. Imp. Imperfect @[laṅ].
 Pot. Potential @[vidhiliṅ]. Perf. perfect @[liṭ]. P.f. Periphrastic or 1st future @[luṭ]. Fut. simple or 2nd Future @[lṛṭ]. Con. Condi- tional @[lṛṅ]. Aor. aorist @[luṅ]. Ben. benedictive @[āśīrliṅ]. Cau.
@@ -13182,7 +13634,7 @@ ger. @[Cau.—vāyayati]-te pres. @[avīvayat]-ta aor. @[Pass.—vīyate] pres. 
 
 @[aṭ]@ 1 A. atikramaṇahiṃsayoḥ to transgress, to kill, aṭate pres. ānaṭe perf. aṭiṣyate fut. āṭṣṭa aor. aṭiṭiṣate-aṭṭiṭiṣate des. Cau.—aṭayati-te pres. aṭayat-ta āṭiṭat-ṭṭa aor.
 
-* '@[apasvasya garatvam]@' Pā. VI. 4. 30, @[añj]@ in the sense of 'to worship' does not drop its nasal before weak terminations.
+- '@[apasvasya garatvam]@' Pā. VI. 4. 30, @[añj]@ in the sense of 'to worship' does not drop its nasal before weak terminations.
 
 # 546
 
@@ -13266,7 +13718,7 @@ SANSKRIT GRAMMAR, 6
 
 आस्‌ 2 A. to sit; आस्ते pre. आसांचक्रे-बभूव-आस perf. आसित p. f. आसिष्यते fut. आसिष्यत con. आसि aor. आसिषीष्‌ ben. Pass.—आस्यते pre. cau.—आसयति.
 
-* Note: भू is substituted for अस्‌ in the non-conjugational tenses.
+- Note: भू is substituted for अस्‌ in the non-conjugational tenses.
 
 8 SANSKRIT GRAMMAR.
 
@@ -13312,7 +13764,7 @@ p. fut. @[eṣiṣyāti] fut. @[aviśyeta] con. @[aviṣṭa] Aor. @[eviviṣati
 
 @[īr] 2 A. @[gatau] to go &c.; @[īrte] pre. @[īrāṃ cakre] perf. @[īritā] p. fut. @[īriṣyate] fut. @[airiṣyat] con. @[airiṭa] aor. @[īriṣīṣṭa] ben. Cau.—@[īrayati]—@[te] pre. @[airirat]—@[ta] aor. @[īrita] p. p.
 
-* According to some, the forms of the 2. fut. and the gerund in @[tvā] of this root are @[eṣitā] and @[eṣitvā] only.
+- According to some, the forms of the 2. fut. and the gerund in @[tvā] of this root are @[eṣitā] and @[eṣitvā] only.
 
 10 Sanskrit GRAMMAR.
 
@@ -13402,7 +13854,7 @@ Cau—10 P. @[परिमाणे]@ to lessen; @[ऊनयति-ते]@ pre.
 
 @[ऋष्] 6 P. to approach, to injure; @[ऋषति] pre. @[आनर्ष] perf. @[आर्षिता] p. fut. @[अर्षिष्यति] fut. @[आर्षीत्] aor. @[ऋष्ट] p.p.
 
-*This is not in the @[धातुपाठ] but it is given in the @[सूत्र] "@[ऋतेरीयङ्]" P. 3. 1. 37
+\*This is not in the @[धातुपाठ] but it is given in the @[सूत्र] "@[ऋतेरीयङ्]" P. 3. 1. 37
 
 ---
 
@@ -13416,7 +13868,7 @@ Cau—10 P. @[परिमाणे]@ to lessen; @[ऊनयति-ते]@ pre.
 
 @[एड्] 1 A. @[बाधायाम्] to annoy, to resist; @[एडते] pre. @[एडित] p.p.
 
-@[एध्]* 1 A. @[वृद्धौ] to grow, to prosper; @[एधते] pre. @[एधां चक्रे-वश्व-आस] perf. @[एधिता] p. fut. @[एधिष्यते] fut. @[एधिष्यत] con. @[एधिष्ट] aor. @[एधिधिषते] des. @[एधिषीष्ट] ben. Pass.—@[एध्यते] pre. @[एधि] aor. Caus.—@[एधयति-ते]. @[एदिधत्-त] aor. @[एधित] p.p.
+@[एध्]\* 1 A. @[वृद्धौ] to grow, to prosper; @[एधते] pre. @[एधां चक्रे-वश्व-आस] perf. @[एधिता] p. fut. @[एधिष्यते] fut. @[एधिष्यत] con. @[एधिष्ट] aor. @[एधिधिषते] des. @[एधिषीष्ट] ben. Pass.—@[एध्यते] pre. @[एधि] aor. Caus.—@[एधयति-ते]. @[एदिधत्-त] aor. @[एधित] p.p.
 
 @[एष्] 1 A. to go; @[एषते] pre. @[एषित] p.p.
 
@@ -13432,7 +13884,7 @@ Cau—10 P. @[परिमाणे]@ to lessen; @[ऊनयति-ते]@ pre.
 
 ---
 
-* with @[उप] = @[उपेधते]. † With @[प्र] @[प्रोखति].
+- with @[उप] = @[उपेधते]. † With @[प्र] @[प्रोखति].
 
 @[DHĀTUKOŚHA], 15
 
@@ -13550,13 +14002,13 @@ Cau—10 P. @[परिमाणे]@ to lessen; @[ऊनयति-ते]@ pre.
 
 @[कुश्] 10. P. 1. P. दीप्तौ to burn; @[कुशयति-ते], @[कुशति] pre. @[कुशयां बभार-बभूव] &c. perf. @[कुशिषति], @[कुशिता] p. fut. @[अचुकुशत्-त], @[अकुशीत्] aor.
 
-@[कुष्] 9. P. निष्कर्षे to tear, to expel; @[कुष्णाति] pre. @[चुकोष]* perf. @[कोषिता] p. fut. @[कोषिष्यति] fut. @[अकोषीत्] aor. @[कोषयिष्यति], @[चिकुषिषति] des. Pass.—@[कुष्यते] pre. @[अकोषि] Aor. Caus.—@[कोषयति-ते] pre. @[अचुकुषत्-त] Aor.
+@[कुष्] 9. P. निष्कर्षे to tear, to expel; @[कुष्णाति] pre. @[चुकोष]\* perf. @[कोषिता] p. fut. @[कोषिष्यति] fut. @[अकोषीत्] aor. @[कोषयिष्यति], @[चिकुषिषति] des. Pass.—@[कुष्यते] pre. @[अकोषि] Aor. Caus.—@[कोषयति-ते] pre. @[अचुकुषत्-त] Aor.
 
 @[कुस्] 4. P. संश्लेषणे to embrace, @[कुस्यति] pre. @[चुकोस] perf. @[कोसिता] p. fut. @[कोसिष्यति] fut. @[अकोसिष्यत्] con. @[कुस्यात्] Ben. @[अकुसत्] aor. @[चिकुसिषति], @[चुकुसिषति] des. @[कोसित], @[कोसित्वा] ger.
 
 @[कूस्] 10. P. 1. P. भाषायाम् to cry; @[कूसयति-ते], @[कूसति] pre. @[अचुकूसत्-त], @[अकूसीत्] Aor.
 
-* With @[निस्] this root is @[चुकोष]; @[निश्चुकोष], @[निश्चुकोह] 2 sing. perf. @[निरकोषीत्], @[निरकुष्यात्] Aor. des. @[निश्चिकुषिषति] also; inf. @[निष्कोषुम्] also.
+- With @[निस्] this root is @[चुकोष]; @[निश्चुकोष], @[निश्चुकोह] 2 sing. perf. @[निरकोषीत्], @[निरकुष्यात्] Aor. des. @[निश्चिकुषिषति] also; inf. @[निष्कोषुम्] also.
 
 ---
 
@@ -13975,11 +14427,11 @@ Also 1 P. ग्रन्थति pre. अग्रन्थीत्‌ Aor.
 
 घण्ट्‌ 10 P. @[bhāṣāyām्‌] to speak; घण्टयति-ते pre. अजघण्टत्‌-त Aor. Also 1 P. घण्टाति pre. अघण्टीत्‌ Aor.
 
-घस्‌* 1 P. to eat; घसति pre. अघसत्‌ Imperf. जघास aor. घसत p. fut. घसिष्यति fut. अघसिष्यत्‌ con. अघसत्‌ aor. जिघत्सति des. घसत p.p.
+घस्‌\* 1 P. to eat; घसति pre. अघसत्‌ Imperf. जघास aor. घसत p. fut. घसिष्यति fut. अघसिष्यत्‌ con. अघसत्‌ aor. जिघत्सति des. घसत p.p.
 
 घिण्‌ 1 A. @[grahaṇe] to take; घिणते pre. जिघिणे perf. अघिणिष्ट Aor.
 
-*This is a defective root and is very often used for the root अद्‌. It is conjugated in the Perf. as an optional substitute for अद्‌.
+\*This is a defective root and is very often used for the root अद्‌. It is conjugated in the Perf. as an optional substitute for अद्‌.
 
 @[DHĀTU]-@[KOŚA]. 37
 
@@ -14037,7 +14489,7 @@ con. @[aghūrṇīt]@ aor. @[jighūrṇaya-ta]@ des. Caus.—@[ghūrṇyate]@ pr
 
 @[चकास्]‌ 1 A. @[दीप्तौ] to shine; @[चकासते] pres. @[चचकासे], @[चकासाञ्चकार], @[चकासाञ्चक्रे] perf. @[चकासिता] p.p. @[चकासिष्यते] fut. @[अचकासत्], @[अचकासिष्ट] aor. @[चकासित] p.p. @[चकासित्वा] ger. @[चकासितुम्] inf.
 
-@[चक्ष्]* 2 A. @[व्यक्तायां वाचि] to speak, to tell, to say; @[चष्टे] pres. @[चख्यौ], @[चखुषे], @[चखुषाते], @[चक्ष्याते] perf. @[ख्याता], @[ख्यास्यते] p. fut. @[अख्यात], @[अख्यासीष्ट], @[अचक्षत] aor. @[ख्यायाः], @[ख्येयाः], @[ख्यासीष्ट], @[चक्षीयाः], @[चक्ष्येयाः], @[चक्ष्यासीष्ट] ben. Cau.—@[ख्यापयति-ते], @[चक्षापयति-ते] pres. @[अचीख्यपत्-त] aor. @[चिख्यासति-ते] des.
+@[चक्ष्]\* 2 A. @[व्यक्तायां वाचि] to speak, to tell, to say; @[चष्टे] pres. @[चख्यौ], @[चखुषे], @[चखुषाते], @[चक्ष्याते] perf. @[ख्याता], @[ख्यास्यते] p. fut. @[अख्यात], @[अख्यासीष्ट], @[अचक्षत] aor. @[ख्यायाः], @[ख्येयाः], @[ख्यासीष्ट], @[चक्षीयाः], @[चक्ष्येयाः], @[चक्ष्यासीष्ट] ben. Cau.—@[ख्यापयति-ते], @[चक्षापयति-ते] pres. @[अचीख्यपत्-त] aor. @[चिख्यासति-ते] des.
 
 @[चञ्चु] 1 P. to go; to jump; @[चञ्चति] pres. @[चचञ्च] perf. @[चञ्चिता] p. fut. @[अचञ्चीत्] aor. @[चाञ्चत] p.p.
 
@@ -14059,7 +14511,7 @@ con. @[aghūrṇīt]@ aor. @[jighūrṇaya-ta]@ des. Caus.—@[ghūrṇyate]@ pr
 
 @[चन्द्] P. @[आह्लादे दीप्तौ च] to be glad, to shine; @[चन्दति] pres. @[चचन्द] perf. @[चन्दिता] p. fut. @[अचन्दीत्] aor. @[चिचन्दिषति] des.
 
-*This root is defective in the Non-conjugational tenses. When it means 'to leave' it does not substitute @[ख्या]. @[अचक्षत] aor.
+\*This root is defective in the Non-conjugational tenses. When it means 'to leave' it does not substitute @[ख्या]. @[अचक्षत] aor.
 
 40 SANSKRIT GRAMMAR.
 
@@ -14247,7 +14699,7 @@ H. S. G. 39
 
 @[Jinv] 1 P. 10 U. @[bhāṣāyāṃ] to speak; @[jinvati], @[jinvayati] pre. @[jijinva], @[jinvayāñcakāra] &c. perf. @[jinvitā], @[jinvayitā] p. fut. @[ajinvīt], @[ajijinvat-ta] aor.
 
-* @[Ji] is Ātmanepadi when preceded by the prepositions @[apa] & @[parā].
+- @[Ji] is Ātmanepadi when preceded by the prepositions @[apa] & @[parā].
 
 @[DHĀTUKOŚA]. 47
 
@@ -15630,9 +16082,9 @@ aor. @[मुषार]@ ben. @[मुमुषिषति]@ des. @[मुष�
 
 @[मृड्]् 1 P. @[स्तेये]@ to rob, to plunder; @[मृडति]@ pre. @[मुमृड]@ perf. @[अमृडीत्]@ aor. @[मुमृडिषति]@ des. Cau.—@[मृडयति-ते]@ pre. @[अमुमृडत्-त]@ aor. @[मृडित]@ p.p.
 
-@[मृ]् 6 A.* @[प्राणत्यागे]@ to die, to perish; @[म्रियते]@ pre. @[ममार]@ perf. @[मृत]@ p. fut. @[मरिष्यति]@ fut. @[अम्रियत]@ aor. @[मुम्रियात्]@ ben. @[मुमूर्षति]@ des. Pass.—@[म्रियते]@ pre. Cau.—@[मारयति-ते]@ pre. @[अमीमरत्-त]@ aor. @[मृत]@ p.p. @[मर्तुम्]@ inf. @[मृत्वा]@ ger.
+@[मृ]् 6 A.\* @[प्राणत्यागे]@ to die, to perish; @[म्रियते]@ pre. @[ममार]@ perf. @[मृत]@ p. fut. @[मरिष्यति]@ fut. @[अम्रियत]@ aor. @[मुम्रियात्]@ ben. @[मुमूर्षति]@ des. Pass.—@[म्रियते]@ pre. Cau.—@[मारयति-ते]@ pre. @[अमीमरत्-त]@ aor. @[मृत]@ p.p. @[मर्तुम्]@ inf. @[मृत्वा]@ ger.
 
-*It is Parasmaipadi in the perfect, the two Futures, the conditional and the desiderative.
+\*It is Parasmaipadi in the perfect, the two Futures, the conditional and the desiderative.
 
 @[DHĀTUKOŚHA], 101.
 
@@ -15738,7 +16190,7 @@ aor. @[मुषार]@ ben. @[मुमुषिषति]@ des. @[मुष�
 
 @[yath] 10 A. @[parivekaśaye] to surround; @[yamayati-te] pre. @[ayīyamat-ta] aor.
 
-@[yas] 4 P. @[prayatne] to strive, to endeavour; @[yasyati], * @[yasyati] pre. @[yayāsa] perf. @[yatā] p. p. fut. @[ayayasat] aor. Cau.—@[yāsayati-te] pre. (with @[ā] A. only) pres. p. @[yitvā], @[yastvā] ger. @[yasi-tum] inf.
+@[yas] 4 P. @[prayatne] to strive, to endeavour; @[yasyati], \* @[yasyati] pre. @[yayāsa] perf. @[yatā] p. p. fut. @[ayayasat] aor. Cau.—@[yāsayati-te] pre. (with @[ā] A. only) pres. p. @[yitvā], @[yastvā] ger. @[yasi-tum] inf.
 
 @[yā] 2 P. @[gāpane] (@[pādaṃ bhatiḥ]) to go, to invade, to pass away; @[yāti] pre. @[yayau] perf. @[yātā] p. p. @[yāsyati] fut. @[ayāsīt] aor. @[yāyāt] ben. @[yiyāsati] des. Pass.—@[īyate] pre. Cau.—@[yāpayati-te] pre. @[ayīyapat-ta] aor. @[yāta] P. P. @[yātvā], @[prayāya] ger. @[yātum] inf.
 
@@ -15754,7 +16206,7 @@ aor. @[मुषार]@ ben. @[मुमुषिषति]@ des. @[मुष�
 
 @[yuj] 4 A. @[samādhau] to concentrate the mind; @[yujyate] pre. @[yuyuje] perf. @[yoktā] p. p. fut. @[yokṣyate] fut. @[ayokṣyata] aor. @[ayukta] aor. @[yujīta] ben. @[yuyukṣate] des. Cau.—@[yojayati-te] pre. @[ayūyujat-ta] aor.
 
-* @[yas] not preceded by a preposition except @[pra] optionally belongs to the 1st conj.; @[prayasyati], @[saṃyasati].
+- @[yas] not preceded by a preposition except @[pra] optionally belongs to the 1st conj.; @[prayasyati], @[saṃyasati].
 
 106 **SANSKRIT GRAMMAR**
 
@@ -15816,7 +16268,7 @@ aor. @[मुषार]@ ben. @[मुमुषिषति]@ des. @[मुष�
 
 @[rabh]@ 1 A. @[rābhasye]@ to begin, to embrace, to long for, to act rashly; @[rabhate]@ pre. @[rebhe]@ perf. @[raṃbdhā]@ p. fut. @[rapsyate]@ fut. @[arapsyat]@ con. @[arabdha]@ aor. @[rapsīṣṭa]@ ben. @[rebhiṣate]@ des. Cau.—@[rambhayati-te]@ pre. @[arīrabhat-ta]@ aor. Pass.—@[rabhyate]@ pre. @[arabhi]@ aor. @[rabdha]@ p. p.
 
-@[ram]@* 1 A. to play, to rejoice at, to take rest; @[ramate]@ pre. @[reme]@ perf. @[rantā]@ p. fut. @[ramsyate]@ fut. @[aramsyat]@ con. @[arasta]@, with @[ni]@, @[nyarasīṣṭa]@ aor. @[ramsīṣṭa]@ ben. @[riramsate]@ des. Pass.—@[ramyate]@ pre. Cau.—@[ramayati-te]@ pre. @[arīramat-ta]@ aor. @[rata]@ p. p. @[ratvā]@, @[ārabhya]@, @[āratya]@ ger.
+@[ram]@\* 1 A. to play, to rejoice at, to take rest; @[ramate]@ pre. @[reme]@ perf. @[rantā]@ p. fut. @[ramsyate]@ fut. @[aramsyat]@ con. @[arasta]@, with @[ni]@, @[nyarasīṣṭa]@ aor. @[ramsīṣṭa]@ ben. @[riramsate]@ des. Pass.—@[ramyate]@ pre. Cau.—@[ramayati-te]@ pre. @[arīramat-ta]@ aor. @[rata]@ p. p. @[ratvā]@, @[ārabhya]@, @[āratya]@ ger.
 
 @[ramb]@ 1 A. @[gatiḥ]@ to sound; @[rambate]@ pre. @[rembhe]@ perf. @[rambhiṣyate]@ fut. @[arambhiṣṭa]@ aor. Pass.—@[rabhyate]@.
 
@@ -15824,7 +16276,7 @@ aor. @[मुषार]@ ben. @[मुमुषिषति]@ des. @[मुष�
 
 @[ras]@ 1 P. @[śabde]@ to roar, to make a noise, to sing, to praise (in the Vedas); @[rasati]@ pre. @[rarāsa]@ perf. @[rasitā]@ p. fut. @[arasīt]@, @[arāsīt]@ aor. @[rirasiṣati]@ des.
 
-* It is Parasmai. when it is preceded by @[vi]@, @[ā]@, @[pari]@ and @[upa]@.
+- It is Parasmai. when it is preceded by @[vi]@, @[ā]@, @[pari]@ and @[upa]@.
 
 @[DHĀTUKOŚA], 109
 
@@ -16362,7 +16814,7 @@ H. S. G. 44.
 
 @[vṛṣ] 1 P. @[krīḍāsecasahaseṣu] to rain, to pour forth, to torment; @[varṣati] pre. @[vavarṣa] perf. @[vartitā] p. fut. @[avarṣīt] aor. @[vivarṣiṣati] des. @[vṛṣṭa] P. p.
 
-*It is also Parasmaipadi in the 2nd future, conditional, aorist, and desiderative.
+\*It is also Parasmaipadi in the 2nd future, conditional, aorist, and desiderative.
 
 # DHĀTUKOSHA. 127
 
@@ -17203,6 +17655,7 @@ OF ROOTS. 149
 (@[śrīr astu], @[śreyo bhūyāt te te])
 
 # § 1-5] Appendix.
+
 ## PROSODY.
 
 #### § 1. Poetical composition in Sanskrit may be in the form of @[gadya] prose, or @[padya] verse or metrical composition.
@@ -17221,7 +17674,7 @@ OF ROOTS. 149
 
 #### § 5. The last syllable of a @[pāda] is either heavy or light according as the exigence of the metre requires it, whatever be
 
-* The earliest writer on Prosody is @[Piṅgalācārya]. His work is known as "The @[Piṅgalacchandaḥśāstra]." It is written in @[sūtras] and is divided into eight books. The @[Agni Purāṇa] also deals with the subject very fully. The present chapter, however, is chiefly based on the @[Vṛttaratnākara] and @[Chandomanjarī].
+- The earliest writer on Prosody is @[Piṅgalācārya]. His work is known as "The @[Piṅgalacchandaḥśāstra]." It is written in @[sūtras] and is divided into eight books. The @[Agni Purāṇa] also deals with the subject very fully. The present chapter, however, is chiefly based on the @[Vṛttaratnākara] and @[Chandomanjarī].
 
 † @[kāvyaṃ gadyaṃ ca padyaṃ ca tadadvidheva vyavasthitam] | Dandin Kav. Pr. I.
 
@@ -17231,7 +17684,7 @@ OF ROOTS. 149
 
 ## Sanskrit Grammar. [§ 5-7
 
-its natural length;* as in @[vakṣaḥsthalī tayā sārdham] &c. (Vik. 1.); @[tasyāḥ prathamadarśanakautukam] (Ragh. 11. 2.)
+its natural length;\* as in @[vakṣaḥsthalī tayā sārdham] &c. (Vik. 1.); @[tasyāḥ prathamadarśanakautukam] (Ragh. 11. 2.)
 
 #### § 6. In the case of metres regulated by syllables each line is divided into groups of three syllables each, called @[gaṇas] or syllabic feet, named as म, त, भ, ज, र, स, and ल. The names and the schemes of these are given in the following stanza.
 
@@ -17245,7 +17698,7 @@ The symbol ˘ stands for a short or light syllable; the symbol – denotes a lon
 त – ˘ ˘ य ˘ – –
 भ – – ˘ ज ˘ – ˘
 र – ˘ – स ˘ ˘ –
-ल ˘ – – 
+ल ˘ – –
 
 Similarly the letter ग is used to denote a short syllable and ल a long one at the close of a line.
 
@@ -17253,7 +17706,7 @@ Similarly the letter ग is used to denote a short syllable and ल a long one a
 
 म – – –, स ˘ – –, ज ˘ – ˘, भ – ˘ ˘, न ˘ ˘ ˘ ˘
 
-* Vide @[Vṛttaratnākara] I. 9.
+- Vide @[Vṛttaratnākara] I. 9.
 
 @[varṇaḥ saṃyogapūrvaśca tathā pādāntage'pi vā] || Chhandomanjarī.
 
@@ -17285,7 +17738,7 @@ Metres with 8 Syllables to a @[Pāda].
 
 #### § 13. This is the commonest of all Sanskrit metres, it forms the chief metre of the great epics and many of the Purāṇas.
 
-* @[samam ardhasamam viṣaṃ vṛttaṃ ca tathā param] ॥ तेन यस्य चत्वारस्तुल्यलक्षणाः पादाश्चत्वरस्तन्वज्ञाः समं तद्वृत्तं विदुः ॥ @[prathamādīdvitīyasamaḥ yasya tṛtīyaścaturthaḥ samavet] । तदर्धसमं विधीयते ॥ यस्य पादचतुष्टयं विषमं परस्परम्‌ । तदाहुर्विषमं वृत्तं छन्दःशास्त्रविशारदाः ॥
+- @[samam ardhasamam viṣaṃ vṛttaṃ ca tathā param] ॥ तेन यस्य चत्वारस्तुल्यलक्षणाः पादाश्चत्वरस्तन्वज्ञाः समं तद्वृत्तं विदुः ॥ @[prathamādīdvitīyasamaḥ yasya tṛtīyaścaturthaḥ samavet] । तदर्धसमं विधीयते ॥ यस्य पादचतुष्टयं विषमं परस्परम्‌ । तदाहुर्विषमं वृत्तं छन्दःशास्त्रविशारदाः ॥
 
 4 Sanskrit Grammar. [§ 13
 
@@ -17924,6 +18377,7 @@ Metres with 24, 25, 26 syllables in a @[pāda] are omitted as they are very rare
 Metres with 27 syllables or more in each @[pāda] are designated by the general name @[Daṇḍaka]. Many varieties of this are mentioned (as the number of syllables in each @[pāda] may sometimes reach 999), such as @[विद्युन्माला], @[प्रचितक], @[मतमातङ्गलीलाकर], @[सिंहविक्रीडित], @[कुमुदवती], @[प्रहर्षिणी], @[संग्राम] &c; @[वि]. @[र]. @[पर]. 23 is an instance of the species last named, having 54 letters to a @[pāda].
 
 ## SECTION II.
+
 @[अर्धसमवृत्तानि],
 or
 Metres with their alternate quarters similar.
@@ -18011,6 +18465,7 @@ or
 Metres regulated by the number of syllabic instants.
 
 #### § 14. The most common variety of metres regulated by
+
 syllabic instants is @[आर्या]. It is of nine kinds:—
 
 @[आर्या पथ्या विपुला चैव मुख्यापद्रुपमालिका च । विदुरुपगीतिरुद्गीतिश्च आर्यागीतिश्च नवधार्या ॥]
@@ -18075,6 +18530,7 @@ Ex. @[śruterdharmeśvaraviracitāsvaupacchandasika hado vinodam | kaṃsaṃ yo
 I notice the OCR output appears to be severely corrupted, showing mostly Devanagari characters, punctuation marks, and symbols with minimal readable text. This doesn't appear to contain the actual content from Kale's "A Higher Sanskrit Grammar" (1931) - it looks like the OCR failed to extract the actual text from pages 727-728.
 
 Could you please:
+
 1. Re-run the OCR on these pages, or
 2. Provide a different image/PDF of pages 727-728, or 3. Share what you can see in the source PDF at these page numbers
 
