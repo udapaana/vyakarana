@@ -1,0 +1,112 @@
+================================================================================
+FORMATTING ISSUES ANALYSIS
+================================================================================
+
+================================================================================
+ALL CAPS LINES: 29 occurrences
+================================================================================
+1. Line 82: CHAPTER PAGE
+2. Line 138: CHAPTER                                                                PAGE
+3. Line 160: APPENDIX I:—Prosody                                                      1
+4. Line 163: APPENDIX II:—                                                            24
+5. Line 166: ABBREVIATIONS USED IN THE WORK.
+6. Line 167: OF THE NAMES OF THE WORKS AND GRAMMATICAL, &C.
+7. Line 3604: DECLENSION OF THE NUMERALS, (CARDINALS AND ORDINALS)
+8. Line 4382: GENERAL RULES APPLICABLE TO THE
+9. Line 4505: GENDERS OF TATPURUṢA COMPOUNDS.
+10. Line 5529: AFFIXES SHOWING POSSESSION. (@[tad-dhita-prakaraṇa]).
+
+... and 19 more
+
+================================================================================
+BROKEN PARAGRAPHS: 1893 occurrences
+================================================================================
+1. Line 138: CHAPTER                                                                PAGE
+2. Line 139:     (e) Benedictive                                                      356
+3. Line 140: Section II                                                               359
+4. Line 141:     (a) Passives                                                         359
+5. Line 142:     (b) Non-conjugational tenses and moods                               364
+6. Line 143:         1 Perfect                                                        364
+7. Line 144:         2 Aorist                                                         365
+8. Line 145: 2 Derivative Verbs (Section III)                                         367
+9. Line 146:     (a) Causals                                                          368
+10. Line 147:     (b) Desideratives                                                    376
+
+... and 1883 more
+
+================================================================================
+PAGE MARKERS: 47 occurrences
+================================================================================
+1. Line 34: ### I. The Alphabet ... ... ... 1
+2. Line 36: ### II. Rules of Sandhi:— ... ... 11
+3. Line 38: 1 @[Svarasandhi] ... ... 12
+4. Line 40: 2 @[Halsandhi] ... ... 22
+5. Line 42: 3 @[Visargasandhi] ... ... 28
+6. Line 44: III. @[Subanta] or Declension of nouns, substantive and adjective... ... ... 32
+7. Line 46: 1 Bases ending in vowels (Section I) ... 34
+8. Line 48: 2 Bases ending in consonants (Section II)... 54
+9. Line 50: 3 Irregular bases... ... ... 65
+10. Line 52: 4 Words of irregular declension ... 82
+
+... and 37 more
+
+================================================================================
+UNTAGGED COMMON TERMS: 79 occurrences
+================================================================================
+1. Line 36: ### II. Rules of Sandhi:— ... ... 11
+   → Found: sandhi
+2. Line 412: ## RULES OF SANDHI.
+   → Found: sandhi
+3. Line 537: #### § 26. No sandhi is possible in the case of—
+   → Found: sandhi
+4. Line 630: § 36-38 RULES OF SANDHI 25
+   → Found: sandhi
+5. Line 663: @[एणः] or Sandhi. @[ष्टुत्वे]
+   → Found: sandhi
+6. Line 697: ## VISARGA-SANDHI.
+   → Found: sandhi
+7. Line 725: §§ 46-49]. RULES OF SANDHI 31
+   → Found: sandhi
+8. Line 1076: Rule of Sandhi—(a) The ending @[i] or @[u], short or long, of
+   → Found: sandhi
+9. Line 1404: #### § 85. Here simply the terminations should be added and Sandhi rules observed.
+   → Found: sandhi
+10. Line 1470: consists, for the most part, in adding the general case terminations and observing the rules of sand
+   → Found: sandhi
+
+... and 69 more
+
+================================================================================
+UNTAGGED SANSKRIT: 288 occurrences
+================================================================================
+1. Line 11: be studied as such. To quote the words of the learned Doctor again "its study possesses an education
+   → Found: ['Vāmana', 'Sūtras', 'Sūtras', 'Siddhānta', 'Kaumudī']
+2. Line 15: perplexing and therefore more calculated to tire out the patience of the young student, than the con
+   → Found: ['Chandomanjarī']
+3. Line 70: 5 @[Bahuvrīhi] or Attributive compounds ... 147
+   → Found: ['Bahuvrīhi']
+4. Line 161:     1 @[Samavṛttas]                                                      3
+   → Found: ['Samavṛttas']
+5. Line 162:     2 @[Viṣama Vṛttas]                                                   24
+   → Found: ['Viṣama', 'Vṛttas']
+6. Line 169: Amara.—@[Amarakoṣa].                 Sis.—@[Śiśupālavadha].
+   → Found: ['Amarakoṣa']
+7. Line 170: Bhatt. or Bhatti—@[Bhaṭṭi-           Uttar.—@[Uttararāmacarita].
+   → Found: ['Uttararāmacarita']
+8. Line 172: Bh.—@[Bhartṛhari]. Ni. Sa.—          A. or Atm.—@[Ātmanepada].
+   → Found: ['Bhartṛhari']
+9. Line 176: Hit.—@[Hitopadeśa].                   Adv.—Adverb.
+   → Found: ['Hitopadeśa']
+10. Line 178: Katya.—@[Kātyāyana].                  Bah.—@[Bahuvrīhi].
+   → Found: ['Bahuvrīhi']
+
+... and 278 more
+
+================================================================================
+SUMMARY
+================================================================================
+All Caps Lines: 29
+Broken Paragraphs: 1893
+Page Markers: 47
+Untagged Common Terms: 79
+Untagged Sanskrit: 288
