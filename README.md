@@ -1,10 +1,13 @@
-# Kale's Higher Sanskrit Grammar - OCR Digitization Project
+# Kale's Higher Sanskrit Grammar - Digital Edition Project
 
-This repository contains the digitized version of Kale's 'A Higher Sanskrit Grammar' (1931).
+**Source:** M. R. Kale, "A Higher Sanskrit Grammar" (Bombay, 1894)
+**Goal:** Create a machine-readable, AST-parseable digital edition
+**Status:** v7 Complete → Starting v8 (AST-ready semantic markup)
 
 ## Current Version
 
-**`kales_sanskrit_grammar_v7.md`** - Latest cleaned and processed version
+**`output/kales_sanskrit_grammar_v7.md`** - Latest cleaned version (99% accurate)
+**Next:** v8 with semantic markup for AST generation (see `MARKUP_SPECIFICATION.md`)
 
 ## Version History
 
@@ -46,16 +49,21 @@ All intermediate versions are preserved in `versions_archive/` for potential rep
 
 ```
 ocr/
-├── kales_sanskrit_grammar_v7.md           # Current version
+├── source/                                # Source materials
+│   └── 2015.105411.Higher-Sanskrit-Grammar.pdf
+├── output/                                # Generated outputs
+│   └── kales_sanskrit_grammar_v7.md
 ├── versions_archive/                      # All intermediate versions (v1-v6)
+├── scripts/
+│   ├── ocr/                              # PDF → Text extraction
+│   ├── processing/                       # Cleaning & standardization
+│   └── validation/                       # (Future) AST validation
 ├── docs_archive/                          # Process documentation
-├── chunks/                                # OCR processing chunks
-├── cleaned_chunks/                        # Cleaned chunks from Claude
-├── *.py                                   # Processing scripts
-├── STRUCTURE.md                           # Book structure
-├── QUALITY_REPORT.md                      # Quality metrics
+├── MARKUP_SPECIFICATION.md                # **READ THIS** - v8 format spec
 └── README.md                              # This file
 ```
+
+**Note:** Raw OCR data (`raw_pages/`, `chunks/`, `structured_chapters/`) retained but not shown. Can be regenerated from source PDF.
 
 ## Quality Metrics (v7)
 
@@ -66,13 +74,41 @@ ocr/
 - **Cleanliness**: 80% (OCR artifacts removed)
 - **Line Count**: 18,080 lines (optimized from 19,145 original)
 
+## Next Steps: v7 → v8 Transformation
+
+### v8 Goals (AST-Ready Semantic Markup)
+
+- 🎯 **Machine-readable structure** for AST generation
+- 🎯 **Consistent Sanskrit markup** (`@[...]` inline, `@:...:@` blocks)
+- 🎯 **Standardized citations** (`@cite{Work:Reference}`)
+- 🎯 **Typed grammar rules** (`@rule{type: "sandhi.vowel.guna"}`)
+- 🎯 **Structured examples** (`@[a] + @[b] → @[c]`)
+- 🎯 **Metadata for tables** (`@declension{word: "rāma"}`)
+
+### Read the Specification
+
+See **[`MARKUP_SPECIFICATION.md`](MARKUP_SPECIFICATION.md)** for complete format details before starting section processing.
+
+### Processing Approach
+
+1. Extract sections from v7 by chapter/topic
+2. Apply semantic markup via Claude (section by section)
+3. Validate parseability
+4. Reassemble into v8
+5. Generate AST/JSON output
+
 ## Usage
 
-The current version can be used for:
+**Current v7** can be used for:
 
 - Digital reading and research
 - Text analysis and linguistic studies
 - Integration with Sanskrit learning tools
-- Further processing and enhancement
 
-All intermediate versions are preserved in case reprocessing is needed with different parameters or improved tools.
+**Future v8** will enable:
+
+- Programmatic querying of grammar rules
+- AST-based analysis and transformations
+- Database storage with relationships
+- Interactive web applications
+- Multiple output formats (JSON, GraphQL, SQL)
