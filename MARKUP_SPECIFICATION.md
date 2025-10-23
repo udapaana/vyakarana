@@ -1,45 +1,138 @@
-# AST-Ready Markup Specification for Sanskrit Grammar
+# AST-Ready Markup Specification for Sanskrit Grammar v2
 
-**Document:** Kale's "A Higher Sanskrit Grammar" (1894)
-**Version:** 8.0
-**Goal:** Machine-readable, AST-parseable structured markup
-**Date:** 2025-10-23
+**Document:** Kale's "A Higher Sanskrit Grammar" (1894)  
+**Version:** 8.0  
+**Goal:** Machine-readable, AST-parseable structured markup  
+**Date:** 2025-10-23  
+**Architecture:** File-per-rule with folder structure + front matter
 
 ---
 
 ## Philosophy
 
-This markup language prioritizes **semantic structure over visual formatting**. Every element must be machine-parseable to enable:
+**Separation of Concerns:**
 
-- AST (Abstract Syntax Tree) generation
-- Programmatic analysis and querying
-- Database storage with relationships
-- Interactive web applications
-- Multiple output formats (JSON, GraphQL, SQL)
+1. **Folder Structure** = Document hierarchy (chapters, sections)
+2. **Front Matter (YAML)** = Structural metadata (rule numbers, titles, pages)
+3. **Content (Markdown)** = Semantic markup (grammar rules, examples, citations)
 
-**Core Principle:** If it has meaning, tag it. If it's just visual, remove it.
+**Core Principle:** Structure lives in file system and front matter. Content contains only semantic meaning.
 
 ---
 
-## 1. Sanskrit Content Markup
+## File Organization
 
-### 1.1 Inline Sanskrit
-**Purpose:** Words, terms, short phrases embedded in English text
-**Format:** `@[sanskrit_text_in_IAST]`
+### Directory Structure
 
+```
+v8_sections/
+├── 00_front/
+│   ├── preface.md
+│   └── toc.md
+├── 01_alphabet/
+│   ├── s001.md
+│   └── s002.md
+├── 02_sandhi/
+│   ├── 01_svarasandhi/
+│   │   ├── s018.md
+│   │   ├── s019.md
+│   │   └── s020.md
+│   ├── 02_halsandhi/
+│   │   └── s028.md
+│   └── 03_visargasandhi/
+│       └── s045.md
+└── 03_declension/
+    ├── 01_vowel_stems/
+    │   ├── 01_a_stems/
+    │   │   └── s061.md
+    │   └── 02_i_stems/
+    │       └── s068.md
+    └── 02_consonant_stems/
+        └── s092.md
+```
+
+### Naming Conventions
+
+- **Chapters:** `01_alphabet/`, `02_sandhi/`, `03_declension/`
+- **Sections:** `01_svarasandhi/`, `02_halsandhi/`
+- **Files:** `s019.md` (s = section, 019 = sequence number)
+
+---
+
+## Front Matter (YAML)
+
+### Purpose
+Structural metadata that can be **mechanically extracted** from v7. No AI interpretation needed.
+
+### Required Fields
+
+```yaml
+---
+rule: "§19"
+title: "Vowel Coalescence Rule"
+page: 12
+---
+```
+
+### Field Definitions
+
+| Field | Type | Source | Example | Required |
+|-------|------|--------|---------|----------|
+| `rule` | string | § marker from v7 | `"§19"` | Yes (if present) |
+| `title` | string | Heading text | `"Vowel Coalescence Rule"` | Yes |
+| `page` | integer | Original page number | `12` | Optional |
+
+### Extraction Rules
+
+- `rule`: Extract from pattern `#### § \d+\.` 
+- `title`: Extract from heading after rule number, or infer from content
+- `page`: Optional, from original PDF page numbers if tracked
+
+### Example Files
+
+**Grammar Rule:**
+```yaml
+---
+rule: "§19"
+title: "Vowel Coalescence Rule"
+page: 12
+---
+```
+
+**Paradigm Table:**
+```yaml
+---
+rule: "§61"
+title: "rāma (masculine a-stem)"
+page: 35
+---
+```
+
+**Section Without § Number:**
+```yaml
+---
+title: "Abbreviations Used in the Work"
+page: 8
+---
+```
+
+---
+
+## Content Markup (Semantic Only)
+
+### 1. Sanskrit Markup
+
+#### 1.1 Inline Sanskrit
 ```markdown
 The rule of @[sandhi] applies when @[a] or @[ā] is followed by @[i].
 ```
 
 **Rules:**
-- ALL Sanskrit must be in IAST transliteration (no Devanagari inline)
-- Proper diacritics required: ā, ī, ū, ṛ, ṝ, ḷ, ṃ, ḥ, ñ, ṭ, ḍ, ṇ, ś, ṣ
-- No spaces inside brackets: `@[guṇa]` not `@[ guṇa ]`
+- ALL Sanskrit in IAST transliteration
+- Proper diacritics: ā, ī, ū, ṛ, ṝ, ḷ, ṃ, ḥ, ñ, ṭ, ḍ, ṇ, ś, ṣ
+- No spaces inside: `@[guṇa]` not `@[ guṇa ]`
 
-### 1.2 Block Sanskrit
-**Purpose:** Continuous Sanskrit text (sūtras, verses, quotations)
-**Format:** `@: ... :@`
-
+#### 1.2 Block Sanskrit
 ```markdown
 @:
 paraḥ sannikarṣaḥ saṃhitā
@@ -48,31 +141,22 @@ paraḥ sannikarṣaḥ saṃhitā
 
 **Rules:**
 - Multi-line Sanskrit passages
-- IAST transliteration only
-- No English mixed in (use 1.4 for that)
+- IAST only
+- No English mixed in
 
-### 1.3 Numbered Block Sanskrit
-**Purpose:** Verses, enumerated lists, or line-by-line examples
-**Format:** `@line: ... :@`
-
+#### 1.3 Numbered Sanskrit (Verses)
 ```markdown
 @line:
 vartamāne laṭ vede leṭ
 laṅ luṅ liṭas tathā
-vidhyāśiṣos tu liṅ loṭo
-luṭ lṛṭ lṛṅ ca bhaviṣyati
 :@
 ```
 
 **Rules:**
-- Line breaks are semantically significant
-- IAST transliteration
-- Used for verses, paradigms, or numbered sequences
+- Line breaks are semantic
+- Used for verses, enumerated lists
 
-### 1.4 Mixed Sanskrit-English Blocks
-**Purpose:** Sanskrit text with interlinear English glosses/explanations
-**Format:** `@: sanskrit #[english]# sanskrit :@`
-
+#### 1.4 Mixed Sanskrit-English
 ```markdown
 @:
 sandhiḥ nityā'nityā dhātūpasargayoḥ
@@ -82,211 +166,86 @@ nityā samāse vākye tu sā vivakṣām apekṣate
 :@
 ```
 
-**Rules:**
-- English commentary enclosed in `#[...]#`
-- Sanskrit portions in IAST
-- Use sparingly, prefer separate translation blocks
-
 ---
 
-## 2. Structural Elements
+### 2. Grammar Rules
 
-### 2.1 Document Metadata
-**Purpose:** Top-level document information
-**Format:** YAML front matter
-
-```yaml
----
-title: "A Higher Sanskrit Grammar"
-author: "M. R. Kale"
-year: 1894
-edition: 1
-place: "Bombay"
-language: "English"
-script: "IAST"
-subject: "Sanskrit Grammar"
-tradition: "Pāṇinian"
----
-```
-
-### 2.2 Chapter
-**Purpose:** Major document division
-**Format:** `@chapter{key: value, ...}`
-
+#### 2.1 Rule Declaration
 ```markdown
-@chapter{id: "II", title: "Rules of Sandhi", page: 11}
-
-# CHAPTER II
-
-## RULES OF SANDHI
+@rule{type: "sandhi.vowel.simple"}
 ```
 
 **Attributes:**
-- `id`: Roman numeral or sequential identifier
-- `title`: Full chapter title
-- `page`: Original page number (optional, for reference)
+- `type`: Hierarchical classification (dot-separated)
 
-### 2.3 Section
-**Purpose:** Subdivisions within chapters
-**Format:** `@section{...}`
-
-```markdown
-@section{id: "II.1", type: "svarasandhi", title: "Combination of Final and Initial Vowels"}
-
-### I. SVARASANDHI, OR THE COMBINATION OF FINAL AND INITIAL VOWELS
-```
-
-**Attributes:**
-- `id`: Hierarchical identifier (Chapter.Section)
-- `type`: Classification/category
-- `title`: Section heading
-
----
-
-## 3. Grammatical Elements
-
-### 3.1 Grammar Rule
-**Purpose:** Formal grammatical rule statements
-**Format:** `@rule{...}`
-
-```markdown
-@rule{id: "§19", type: "sandhi.vowel.simple", applies_to: "similar_vowels"}
-
-#### § 19. Vowel Coalescence Rule
-
-If a simple vowel, short or long, be followed by a similar vowel,
-the substitute for them both is the similar long vowel.
-```
-
-**Attributes:**
-- `id`: Unique section identifier (§ number)
-- `type`: Hierarchical rule classification (dot-separated)
-- `applies_to`: What the rule operates on (optional)
-- `class`: Alternative classification
-
-**Type Taxonomy Examples:**
+**Type Taxonomy:**
 - `sandhi.vowel.simple`
-- `sandhi.consonant.visarga`
+- `sandhi.vowel.guna`
+- `sandhi.consonant.nasal`
 - `declension.noun.a-stem`
 - `conjugation.verb.class-1`
 
-### 3.2 Conditions & Results
-**Purpose:** Formal specification of rule application
-**Format:** Structured blocks
+**Note:** Rule ID (§ number) is in front matter, NOT here.
 
+#### 2.2 Rule Statement
 ```markdown
-@conditions{
-  vowel1: "simple (short OR long)"
-  vowel2: "similar to vowel1"
-}
-
-@result{
-  vowel1 + vowel2 → "long vowel (similar)"
-}
+When a simple vowel, short or long, is followed by a similar vowel, 
+the substitute for them both is the similar long vowel.
 ```
 
-### 3.3 Exception
-**Purpose:** Exceptions to a stated rule
-**Format:** `@exception{to: "§X", condition: "..."}`
-
-```markdown
-@exception{to: "§20", condition: "when followed by ūha, ūhana, ūhya"}
-
-Vṛddhi substitute takes place in the following cases:
-(a) When a word ending in @[ā] is followed by @[ūha], @[ūhana], or @[ūhya]
-```
-
-### 3.4 Counter-Exception
-**Purpose:** Exception to an exception
-**Format:** `@counter_exception{to: "§20.exception.a"}`
-
-```markdown
-@counter_exception{to: "§21.a"}
-
-If a form of the root @[i] to go comes after @[a], @[guṇa] takes place instead.
-```
+Just plain text. No special markup for the rule statement itself.
 
 ---
 
-## 4. Examples
+### 3. Examples
 
-### 4.1 Single Example
-**Purpose:** Illustrative transformation or usage
-**Format:** Components with arrow notation and optional gloss
-
+#### 3.1 Single Example (Inline)
 ```markdown
 @[upa] + @[indraḥ] → @[upendraḥ] "Viṣṇu"
-@[kṛṣṇa] + @[uruḥ] → @[kṛṣṇoruḥ] "Kṛṣṇa's thigh"
+```
+
+**Format:**
+- Use `→` (not `=`) for transformations
+- Components in `@[...]` tags
+- Gloss in quotes (optional)
+
+#### 3.2 Example Block
+```markdown
+@examples{
+  @[daitya] + @[ariḥ] → @[daityāriḥ]
+  @[atra] + @[āsīt] → @[atrāsīt]
+  @[vidyā] + @[āturaḥ] → @[vidyāturaḥ] "eager to gain knowledge"
+}
 ```
 
 **Rules:**
-- Use `→` (U+2192) not `=` for transformations
-- Components in `@[...]` tags
-- Gloss in quotes after result (optional)
-- No semicolons at end
-
-### 4.2 Example Block
-**Purpose:** Multiple related examples
-**Format:** `@examples{...}`
-
-```markdown
-@examples{
-  @[upa] + @[indraḥ] → @[upendraḥ] "Viṣṇu"
-  @[parama] + @[īśvaraḥ] → @[parameśvaraḥ] "the great lord"
-  @[ramā] + @[icchā] → @[ramecchā] "the wish of Rāmā"
-  @[hita] + @[upadeśaḥ] → @[hitopadeśaḥ] "friendly instruction"
-}
-```
-
-**Attributes (optional):**
-- `type`: "sandhi", "declension", "formation"
-- `rule`: Reference to rule being illustrated
+- One example per line
+- No semicolons
+- Quotes for glosses
 
 ---
 
-## 5. Paradigms & Tables
+### 4. Tables
 
-### 5.1 Declension Table
-**Purpose:** Noun/adjective paradigms
-**Format:** `@declension{...}` + markdown table
-
+#### 4.1 Declension Tables
 ```markdown
-@declension{
-  word: "rāma"
-  gender: "masculine"
-  stem: "a-stem"
-  gloss: "Rāma (proper name)"
-}
+@declension{word: "rāma", gender: "masculine", stem: "a-stem"}
 
 | Case | Singular | Dual | Plural |
 |------|----------|------|--------|
 | Nom. | @[rāmaḥ] | @[rāmau] | @[rāmāḥ] |
-| Voc. | @[rāma]  | @ditto{Nom.Dual} | @ditto{Nom.Plural} |
-| Acc. | @[rāmam] | @ditto{Nom.Dual} | @[rāmān] |
-| Ins. | @[rāmeṇa] | @[rāmābhyām] | @[rāmaiḥ] |
-| Dat. | @[rāmāya] | @ditto{Ins.Dual} | @[rāmebhyaḥ] |
-| Abl. | @[rāmāt] | @ditto{Ins.Dual} | @ditto{Dat.Plural} |
-| Gen. | @[rāmasya] | @[rāmayoḥ] | @[rāmāṇām] |
-| Loc. | @[rāme] | @ditto{Gen.Dual} | @[rāmeṣu] |
+| Voc. | @[rāma]  | @[rāmau] | @[rāmāḥ] |
+| Acc. | @[rāmam] | @[rāmau] | @[rāmān] |
 ```
 
-**Attributes:**
-- `word`: The base word being declined
+**Metadata Attributes:**
+- `word`: Base word
 - `gender`: masculine/feminine/neuter
-- `stem`: Stem type (a-stem, i-stem, consonant-stem, etc.)
-- `gloss`: English meaning
+- `stem`: Stem type (a-stem, i-stem, etc.)
 
-### 5.2 Conjugation Table
-**Purpose:** Verb paradigms
-**Format:** `@conjugation{...}` + markdown table
-
+#### 4.2 Conjugation Tables
 ```markdown
-@conjugation{
-  root: "bhū"
-  class: 1
-  meaning: "to be, to become"
-  pada: "parasmaipada"
-}
+@conjugation{root: "bhū", class: 1, pada: "parasmaipada"}
 
 | Person | Singular | Dual | Plural |
 |--------|----------|------|--------|
@@ -295,254 +254,130 @@ If a form of the root @[i] to go comes after @[a], @[guṇa] takes place instead
 | 1st    | @[bhavāmi] | @[bhavāvaḥ] | @[bhavāmaḥ] |
 ```
 
-**Attributes:**
+**Metadata Attributes:**
 - `root`: Verbal root
-- `class`: 1-10 (conjugation class)
-- `meaning`: English translation
-- `pada`: parasmaipada/ātmanepada/ubhayapada
-- `tense`: present/imperfect/perfect/etc. (if specified)
-
-### 5.3 Generic Tables
-**Purpose:** Other tabular data
-**Format:** `@table{type: "...", ...}`
-
-```markdown
-@table{type: "comparison", feature: "vowel_length"}
-
-| Type | Short | Long | Protracted |
-|------|-------|------|------------|
-| a    | @[a]  | @[ā] | @[a³] |
-| i    | @[i]  | @[ī] | @[i³] |
-```
-
-### 5.4 Ditto Marks
-**Purpose:** Indicate repetition in tables
-**Format:** `@ditto{source}`
-
-```markdown
-| Voc. | @[rāma] | @ditto{Nom.Dual} | @ditto{Nom.Plural} |
-```
-
-**Alternative:** Expand all values (removes visual convention but clearer for parsing)
+- `class`: 1-10
+- `pada`: parasmaipada/ātmanepada
 
 ---
 
-## 6. Scholarly Apparatus
+### 5. Citations & References
 
-### 6.1 Footnotes
-**Purpose:** Additional information, sources, clarifications
-**Format:** Standard markdown footnotes `[^n]`
-
+#### 5.1 Citations
 ```markdown
-The @[visarga] is not an original character.[^1]
-
-[^1]: It is only a substitute for final @[r] or @[s].
+@cite{Pāṇini:VI.1.77}
+@cite{Siddhānta-Kaumudī}
+@cite{Kāśikā-Vṛtti}
 ```
 
-**For Sanskrit sūtras in footnotes:**
+**Format:**
+- `Work:Reference` with colon separator
+- No spaces around colon
+- Proper IAST diacritics in work names
+
+#### 5.2 Cross-References
 ```markdown
-[^2]: @:
+(see §20.a)
+@xref{§23.8}
+```
+
+**Format:**
+- `§` symbol required
+- No spaces: `§23.8` not `§ 23. 8`
+
+#### 5.3 Footnotes
+```markdown
+[^1]: @:
 paraḥ sannikarṣaḥ saṃhitā
 :@ — @cite{Pāṇini:1.4.109}
 ```
 
-### 6.2 Citations
-**Purpose:** References to source texts
-**Format:** `@cite{Work:Reference}`
-
-```markdown
-@cite{Pāṇini:1.4.109}
-@cite{Pāṇini:VI.1.77}
-@cite{Siddhānta-Kaumudī}
-@cite{Kāśikā-Vṛtti}
-@cite{Mahābhāṣya}
-@cite{Aṣṭādhyāyī:III.1.26}
-```
-
-**Format Rules:**
-- Work name with proper IAST diacritics
-- Colon separator
-- Reference in standard notation (book.chapter.verse or I.ii.123)
-- No spaces around colon
-
-**Common Works (standardized names):**
-- `Pāṇini` (for Aṣṭādhyāyī)
-- `Siddhānta-Kaumudī`
-- `Kāśikā-Vṛtti`
-- `Mahābhāṣya`
-- `Vārttika`
-
-### 6.3 Cross-References
-**Purpose:** Internal document references
-**Format:** `@xref{§X.Y}` or inline `(see §X.Y)`
-
-```markdown
-The rule explained in @xref{§23.8} applies here.
-
-This is optional (see §20.a) but mandatory in compounds.
-```
-
-**Format Rules:**
-- `§` symbol required
-- Section number format: `§19` or `§23.8` or `§20.a`
-- No spaces: `§23.8` not `§ 23. 8`
-- Subsections: letters (a, b, c) or numbers (1, 2, 3)
+**Format:**
+- Standard markdown footnotes `[^n]`
+- Sanskrit in block format if needed
+- Citation at end after `—`
 
 ---
 
-## 7. Special Elements
+## What NOT to Include
 
-### 7.1 Notes
-**Purpose:** Author's observations or clarifications
-**Format:** Standard markdown with optional tag
+### ❌ Removed from Content
 
-```markdown
-@note{type: "observation"}
+**Structural elements (now in folder/front matter):**
+- ❌ `@chapter{...}` (use folder path)
+- ❌ `@section{...}` (use folder path)
+- ❌ `id: "§19"` in `@rule{}` (use front matter `rule:`)
+- ❌ Section titles in content (use front matter `title:`)
 
-**N.B.** The @[visarga] is not counted among the letters of the alphabet.
-```
-
-```markdown
-@note{type: "explanation"}
-
-**Note:** This explains why there are no names for the different letters.
-```
-
-### 7.2 Observations
-**Purpose:** Special observations or comments
-**Format:** `@obs{...}`
-
-```markdown
-@obs{id: "§111"}
-
-**Obs.** The @[s] of @[uktha-śās] becomes @[ś] before consonantal terminations.
-```
-
-### 7.3 Translations
-**Purpose:** English rendering of Sanskrit passages
-**Format:** `@translation{...}`
-
-```markdown
-@line:
-vartamāne laṭ vede leṭ
-laṅ luṅ liṭas tathā
-:@
-
-@translation{
-For present tense, @[laṭ]; in Vedic, @[leṭ]; @[laṅ], @[luṅ], and @[liṭ] likewise.
-}
-```
-
-### 7.4 Lists
-**Purpose:** Structured lists (not tables)
-**Format:** Standard markdown with optional metadata
-
-```markdown
-@list{type: "enumeration", ordered: true}
-
-The five classes are:
-1. @[kavarga]: @[k], @[kh], @[g], @[gh], @[ṅ]
-2. @[cavarga]: @[c], @[ch], @[j], @[jh], @[ñ]
-3. @[ṭavarga]: @[ṭ], @[ṭh], @[ḍ], @[ḍh], @[ṇ]
-4. @[tavarga]: @[t], @[th], @[d], @[dh], @[n]
-5. @[pavarga]: @[p], @[ph], @[b], @[bh], @[m]
-```
+**Visual formatting (not semantic):**
+- ❌ Horizontal rules `---`
+- ❌ Page numbers
+- ❌ Double spaces
+- ❌ Asterisk/dagger footnotes (`*`, `†`) - use `[^n]`
 
 ---
 
-## 8. Removed Elements
+## Complete File Example
 
-### What We DELETE (Visual Formatting Only)
-
-❌ **Horizontal rules** (`---`)
-   → Replace with semantic section boundaries
-
-❌ **Page numbers** (OCR artifacts)
-   → Optional: Keep in metadata `@chapter{..., page: 11}`
-
-❌ **Double spaces** (formatting errors)
-   → Fix to single space
-
-❌ **Asterisk/dagger footnote markers** (`*`, `†`, `‡`)
-   → Replace with `[^n]` numbered footnotes
-
-❌ **Ditto marks** (optional)
-   → Either expand: `@[rāmau]` or tag: `@ditto{Nom.Dual}`
-
-❌ **Visual separators between footnotes**
-   → Footnote blocks handle separation semantically
-
----
-
-## 9. Complete Transformation Example
-
-### BEFORE (v7)
-
-```markdown
-#### § 20. When @[a] or @[ā] is followed by @[i], @[ī], @[u], @[ū], short or long, the @[guṇa] letter corresponding to the latter takes the place of both; e.g. @[upa] + @[indraḥ] = @[upendraḥ] Viṣṇu; @[parama] + @[īśvaraḥ] = @[parameśvaraḥ] the great lord; @[ramā] + @[icchā] = @[ramecchā] the wish of Rāmā.
-
-* @[iko yaṇ] Pāṇ. VI. 1. 77.
-
----
+### Path
+```
+v8_sections/02_sandhi/01_svarasandhi/s019.md
 ```
 
-### AFTER (v8 - AST-Ready)
+### Content
+```yaml
+---
+rule: "§19"
+title: "Vowel Coalescence Rule"
+page: 12
+---
 
-```markdown
-@rule{id: "§20", type: "sandhi.vowel.guna", applies_to: "a/ā + i/ī/u/ū"}
+@rule{type: "sandhi.vowel.simple"}
 
-#### § 20. Guṇa Substitution Rule
-
-When @[a] or @[ā] is followed by @[i], @[ī], @[u], or @[ū] (short or long),
-the @[guṇa] letter corresponding to the latter takes the place of both.
+When a simple vowel, short or long, is followed by a similar vowel, 
+the substitute for them both is the similar long vowel.
 
 @examples{
-  @[upa] + @[indraḥ] → @[upendraḥ] "Viṣṇu"
-  @[parama] + @[īśvaraḥ] → @[parameśvaraḥ] "the great lord"
-  @[ramā] + @[icchā] → @[ramecchā] "the wish of Rāmā"
+  @[daitya] + @[ariḥ] → @[daityāriḥ]
+  @[atra] + @[āsīt] → @[atrāsīt]
+  @[vidyā] + @[āturaḥ] → @[vidyāturaḥ] "eager to gain knowledge"
 }
 
-[^20.1]: @:
-iko yaṇ
-:@ — @cite{Pāṇini:VI.1.77}
+[^1]: @:
+paraḥ sannikarṣaḥ saṃhitā
+:@ — @cite{Pāṇini:1.4.109}
 ```
 
 ---
 
-## 10. AST Output Schema
+## AST Generation
 
-With this markup, we can generate structured output:
+### Parse Hierarchy
 
-### JSON Schema Example
+```python
+# Path: v8_sections/02_sandhi/01_svarasandhi/s019.md
 
-```json
-{
-  "rule": {
-    "id": "§20",
-    "type": "sandhi.vowel.guna",
-    "applies_to": "a/ā + i/ī/u/ū",
-    "statement": "When a or ā is followed by i, ī, u, or ū...",
+ast_node = {
+  "location": {
+    "chapter": "02_sandhi",
+    "section": "01_svarasandhi", 
+    "file": "s019.md",
+    "sequence": 19
+  },
+  "metadata": {
+    "rule": "§19",
+    "title": "Vowel Coalescence Rule",
+    "page": 12
+  },
+  "content": {
+    "type": "sandhi.vowel.simple",
+    "statement": "When a simple vowel...",
     "examples": [
-      {
-        "components": ["upa", "indraḥ"],
-        "result": "upendraḥ",
-        "gloss": "Viṣṇu"
-      },
-      {
-        "components": ["parama", "īśvaraḥ"],
-        "result": "parameśvaraḥ",
-        "gloss": "the great lord"
-      }
+      {"from": ["daitya", "ariḥ"], "to": "daityāriḥ"},
+      ...
     ],
     "footnotes": [
-      {
-        "id": "20.1",
-        "sanskrit": ["iko yaṇ"],
-        "citation": {
-          "work": "Pāṇini",
-          "reference": "VI.1.77"
-        }
-      }
+      {"sanskrit": "paraḥ...", "cite": "Pāṇini:1.4.109"}
     ]
   }
 }
@@ -550,89 +385,90 @@ With this markup, we can generate structured output:
 
 ---
 
-## 11. Implementation Guidelines
+## Processing Instructions for Claude
 
-### For Claude Processing
+### Input
+Claude receives one file at a time with:
+- Path (for context)
+- Front matter (unchanged)
+- Content from v7 (needs semantic markup)
 
-**DO:**
-- Convert ALL Sanskrit to IAST
-- Tag every Sanskrit term with `@[...]`
-- Use `@:...:@` for Sanskrit blocks
-- Replace `=` with `→` in transformations
-- Standardize citations to `@cite{Work:Ref}`
-- Number footnotes with `[^n]`
-- Add metadata tags to structural elements
-- Remove horizontal rules (`---`)
-- Expand or tag ditto marks
+### Output
+Claude returns:
+- Front matter (UNCHANGED)
+- Content with semantic markup added
 
-**DON'T:**
-- Change Victorian-era English phrasing
-- Modernize technical terminology
-- Simplify complex explanations
-- Remove pedagogical examples
-- Alter Sanskrit content
+### Claude's Tasks
 
-### Quality Checklist
+✅ **DO:**
+1. Convert all Sanskrit to IAST
+2. Tag all Sanskrit terms with `@[...]`
+3. Use `@:...:@` for Sanskrit blocks
+4. Replace `=` with `→` in transformations
+5. Add `@rule{type: "..."}` with classification
+6. Structure examples as `@examples{...}`
+7. Convert citations to `@cite{Work:Ref}`
+8. Convert footnotes to `[^n]` format
+9. Remove OCR errors, fix spacing
+10. Remove horizontal rules `---`
 
-For each section, verify:
-- ✅ All Sanskrit in IAST with proper diacritics
-- ✅ All Sanskrit terms tagged `@[...]`
-- ✅ Examples use `→` notation
-- ✅ Citations standardized `@cite{...}`
-- ✅ Cross-refs standardized `§X.Y`
-- ✅ Footnotes numbered `[^n]`
-- ✅ Tables have `@declension{...}` or `@table{...}` metadata
-- ✅ No OCR errors (double spaces, broken words)
-- ✅ No horizontal rules (`---`)
-- ✅ Heading hierarchy preserved
-
----
-
-## 12. Versioning
-
-- **v7**: Current cleaned version (Tesseract OCR + standardization)
-- **v8**: AST-ready version (this specification)
-- **Future**: Parsed AST in JSON/database
+❌ **DON'T:**
+1. Modify front matter
+2. Add structural tags (`@chapter`, `@section`)
+3. Change Victorian-era English
+4. Modernize terminology
+5. Remove examples
+6. Alter Sanskrit content
 
 ---
 
-## Appendix: Quick Reference
+## Validation Checklist
 
-### Sanskrit Markup
+For each processed file:
+
+- ✅ Front matter unchanged
+- ✅ All Sanskrit in IAST
+- ✅ All Sanskrit tagged `@[...]`
+- ✅ Examples use `→` not `=`
+- ✅ `@rule{type: "..."}` present
+- ✅ Citations as `@cite{...}`
+- ✅ Footnotes as `[^n]`
+- ✅ No OCR errors
+- ✅ No horizontal rules
+- ✅ No structural tags in content
+
+---
+
+## Quick Reference
+
+### Sanskrit
 ```markdown
 @[inline]              # Inline Sanskrit
 @: block :@            # Block Sanskrit
-@line: numbered :@     # Numbered block
-#[English]#            # English in Sanskrit block
+@line: verses :@       # Numbered verses
+#[English]#            # English in Sanskrit blocks
 ```
 
-### Structure
+### Grammar
 ```markdown
-@chapter{...}          # Chapter
-@section{...}          # Section
-@rule{...}             # Grammar rule
-@declension{...}       # Noun paradigm
-@conjugation{...}      # Verb paradigm
-@table{...}            # Generic table
+@rule{type: "..."}         # Rule classification
+@examples{...}              # Example block
+@declension{word: "..."}   # Declension table
+@conjugation{root: "..."}  # Conjugation table
 ```
 
-### Examples & Relations
+### Citations
 ```markdown
-@[a] + @[b] → @[c]     # Transformation
-@examples{...}          # Example block
 @cite{Work:Ref}        # Citation
 @xref{§X.Y}            # Cross-reference
 [^n]: ...              # Footnote
 ```
 
-### Special
+### Transformations
 ```markdown
-@ditto{Case.Number}    # Ditto mark
-@note{...}             # Note
-@obs{...}              # Observation
-@translation{...}      # Translation block
+@[a] + @[b] → @[c]     # Use → not =
 ```
 
 ---
 
-**End of Specification**
+**End of Specification v2**
