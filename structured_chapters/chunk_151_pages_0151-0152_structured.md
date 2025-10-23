@@ -1,0 +1,86 @@
+<!-- Page 151 -->
+
+§ 238-239 ] TATPURUṢA COMPOUNDS. 145
+
+GENERAL RULES APPLICABLE TO THE
+TATPURUṢA COMPOUNDS.
+
+§ 238. The word @[aṅgula] at the end of a Tatpuruṣa compound
+changes its final to @[a] when preceded by a numeral or an inde-
+clinable, as @[dvy-aṅgulam] @[prabhāmānasya] @[kāṣṭhasya] 'a piece of wood
+measuring two fingers,' @[try-aṅgulam] @[nir-aṅgulam] &c.
+
+§ 239. The following words, when at the end of a Tatpu-
+ruṣa, drop the final vowel, together with the following
+consonant if there be any, and add @[a] under the circumstances
+mentioned:—
+
+(a) @[rātri] when preceded by a numeral, an indeclinable, a
+word expressive of a part of the whole, such as @[pūrva], @[apara], &c.,
+or by the words @[sarva], @[saṃkhyāta] and @[puṇya]; as @[dvayoḥ rātryoḥ samāhāraḥ]
+@[dvi-rātram] an aggregate of two nights (Dwi.); @[atikrānto rātrim asi]
+@[ati-rātram] that has passed a night, the dead of night; @[pūrvā rātriḥ] @[pūrva-rātram]
+the first part of the night, @[sarvā rātriḥ] @[sarva-rātram], @[saṃkhyātā rātriḥ]
+@[saṃkhyāta-rātram], @[puṇyā rātriḥ] an auspicious night.
+
+The same happens when @[rātri] is preceded by @[ahan] in a
+Dwandwa; as @[ahaś ca rātriś ca] @[aho-rātram].
+
+(b) @[rājan], @[ahan] and @[sakhi]; @[paramaḥ rājā] @[parama-rājaḥ] a great king,
+@[madrāṇāṃ rājā] @[madra-rājaḥ], @[uttamaṃ ahaḥ] @[uttamāhaḥ] an excellent day, @[ekaṃ ca
+ahaś ca] @[ekāhaḥ]; @[dvayoḥ samāhāraḥ] @[dvy-aham], @[try-aham], @[sapt-āham], &c. @[puṇyam ahaḥ]
+@[puṇy-āham] a holy day, @[viṣṇoḥ sakhā] @[viṣṇu-sakhā] (vide § 245. c.), @[kṛṣṇasya sakhā]
+@[kṛṣṇa-sakhā] &c.
+
+(c) Exception:—@[ahan] when preceded by an indeclinable, or a
+
+* @[aṅgulaś ca numud avyayāt] | Pan. V. 4. 86.
+† @[ahaḥ sarvaika-deśa-saṃkhyāta-puṇyāś ca rātreḥ] | Pan. V. 4. 87.
+‡ @[rājñaḥ sakhībhyaṣ ṭac] | Pan. V. 4. 91.
+§ @[addho 'ṅga etebhyaḥ] | Pan. V. 4. 88.
+H. S. G. 10.
+
+<!-- Page 152 -->
+
+146 SANSKRIT GRAMMAR. [ § 239-240
+
+word denoting a part of the whole, or by @[sarva] or by a numeral
+with a Taddhita affix added to the whole compound, becomes
+@[addha]; @[atikrāntam ahaḥ] exceeding a day (in duration) @[aty-addham], @[pūrv-addham]
+forenoon, @[sarv-addham] the whole day, @[dvy-addham], @[try-addham] @[dvāv ahnī] @[dvy-addhikam]
+(adj. fem.), @[dvy-addhakam] &c.; with @[saṃkhyāta], the change is optional;
+as @[saṃkhyātāddham] or @[saṃkhyātāhaḥ].
+
+N. B. The @[n] of the substitute is changed to @[ṇ] when preceded
+by @[r] belonging to the first member ending in @[a]; as @[sarvāhṇaḥ]; but
+@[parā ahaḥ] @[parāhṇaḥ] (as @[parā] ends in @[ā]).
+
+(d) @[takṣan] when preceded by @[grāma] or @[kauṭa], and @[śvan] by @[ati] or
+an inanimate object with which it is compounded, e. g. @[grāmasya
+takṣā] @[grāma-takṣaḥ] a village carpenter i. e. one not very skilful,' @[kauṭaḥ
+svātantryaḥ] @[kauṭaḥ] (independent) @[ca asau takṣā ca] @[kauṭa-takṣaḥ] 'an independent
+carpenter'; @[ati-śvā] [@[vṛkaḥ] ] 'fleeter than a dog', @[ati-śvī] (worse
+than a dog's life) @[jīvikā]; @[ākarṣaḥ śvā iva] @[ākarṣa-śvaḥ] "a dog like i. e.
+bad or unlucky throw of dice,' but @[vānara-śvā] 'a monkey like
+a dog'.
+
+(e) @[sakthi] when preceded by @[uccam], @[khaga] or @[pūrva] or by a word
+denoting an inanimate object with which it is compounded;
+@[uccam-saktham] 'the upper part of the thigh', @[śūdra-saktham] 'the thigh of
+a śūdra', @[pūrva-saktham], @[phalakam iva sakthi] @[phalaka-saktham] 'a thigh like a
+board'.
+
+(f) A numeral when compounded in a Tat. @[nirgatāni triṃśataḥ]
+@[nirgatāni dravyāṇi] (weight) more than thirty; @[nirgataḥ triṃśatād aṅgulyaḥ]
+@[nir-triṃśad-aṅgulaḥ khargaḥ] a sword more than thirty fingers in length.
+
+§ 240. The following words have an @[a] added to them when
+at the end of a Tatpuruṣa compound:—
+
+(a) @[go] except when a Tad. aff. is added and then dropped; e. g.
+
+* @[addho ṇ-tāt] | Pāṇ. VIII. 4. 7.
+† @[grāma-kauṭābhyāṃ ca takṣṇaḥ] | @[ateḥ śvanaḥ] | @[uccam-rāṇād aghrāṇiṣu] | Pan. V. 4.
+96-97.
+‡ @[uccam-rāṇāt pūrvād aghrāṇiṣu sakthnah] | Pan. V. 4. 98.
+§ @[go-ṇas tad-dhita-vat-kañi] | Pan. V. 4. 92.

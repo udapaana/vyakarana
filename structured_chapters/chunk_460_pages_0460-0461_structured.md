@@ -1,0 +1,23 @@
+# Chunk 460: Pages 460-461
+
+---
+
+<!-- Page 460 -->
+
+| 454 SANSKRIT GRAMMAR. { § 777
+
+@[क]—is added to roots having @[इ], @[उ], @[ऋ], or @[ऌ] for their penultimate, and to the roots @[द्यु] and @[ह] and denotes the agent; @[लिख-लेखः] one who writes, @[क्षिप-क्षेपः] one who throws, @[पृ-परः] &c. @[प्री-प्रियः] one who pleases; @[कॄ-किरः] one who scatters; it is also added to roots ending in @[आ] with or without any preposition, the final @[आ] being dropped; @[ज्ञा-ज्ञः] or @[प्रज्ञः] one who knows, wise; @[ह्वे-ह्वः] or @[आह्वः] one who calls; also when a @[सुबन्त] is used prepositionally with it; @[गो-दः] one who gives cows or cuts the hair; @[गज-दः] (@[गजान्‌ पिबतीति]) an elephant; when added to @[स्था] it has various meanings; @[समस्थः] happy; @[विषमस्थः] placed in difficulties; @[गोस्थः] a measure of corn, &c. This is also added to @[गृह-गृहः] a house, @[गृहः] a wife, a house.
+
+@[दश]—is added to @[दृश] not meaning 'to see' when a pronoun precedes it; @[तत्‌ + दृश = द = तादृश] like that; also when the words @[समान] and @[अन्य] precede; @[सदृशः] like so, @[अन्यादृशः] like another. @[द] is added similarly; @[तादृशः], @[तादृक्षः] &c.
+
+@[खच्‌] and @[खश्च]—Before these the a of the noun forming the object of the root with which it is used prepositionally inserts the syllable @[म्‌] after it. @[खच्‌] is added to the root @[वद] after @[प्रिय] and @[वश]; @[प्रियं वदतीति प्रियंवदः] one who speaks sweetly; @[वशं वदः] subject to the influence of, obedient to the will of;—to @[कृ] after the words @[शुभं], @[प्रियं], @[मुद्रं], and @[भयं]; @[शुभं-प्रियं-मुद्रं-करः] doing good, &c.; @[भयंकरः] causing fear, dreadful, @[अभयंकरः];—to the root @[तर] after a @[सुबन्त]; @[खंतरः] passing through the sky, a bird;—to the roots @[भू], @[तू], @[इ], @[जि], @[धा], @[तम], @[दम] and @[वह] when the whole is a name; @[प्रतीमभूः] God; @[रथंतरं] a portion of the @[सामवेद]; @[पतिंवरा] a bride who chooses her husband; @[मातंगः] an elephant, @[युगंधरः] name of a mountain; @[शिबिंजयः] name of a king; @[अरिंदमः] name of a king;—to @[यम्‌] after @[वाच्‌], @[वाचंयमः] one who restrains his speech for the observation of a vow;—to the roots @[सह] and @[दृ] after the words @[सर्वं] and @[पुरं] respectively; @[सर्वंसहा] the earth; @[पुरंदरः] Indra,—to @[कृष्‌] after the words @[सर्वं], @[विश्वं], @[मुद्रं] and @[करीष]; @[सर्वंकषः] all destroying, all powerful;
+
+<!-- Page 461 -->
+
+§ 777 ) PRIMARY NOMINAL BASES. 455
+
+@[विश्वंकषः] all-powerful; @[मुद्रंकषः] (@[मुद्रं] a river) sweeping away its banks; @[अभ्रंकषः] dashing against, coming in collision with the clouds as the wind; @[करीषंकषः] blowing away dry cowdung, as a strong wind or gale. @[खश्च] is added to @[एज्‌] cau. as in @[जनमेजयः] making the people tremble with fear; name of a king;—to @[अर्ज्‌], @[चे], @[तुद] and @[हा] 'to go' after the words @[वात], @[बाल], @[तिल] and @[मारुत] respectively; @[वातमर्जः] facing the wind, a kind of deer; @[बालंचयः] a kitten; @[तिलंतुदः] an oilman; @[मारुतंतुदः] causing flatulence (@[मारुताः]) a kind of bean;—to @[धे] and @[ध्मा] after the words @[स्तन] and @[नाडी], respectively. @[स्तनंधयः] a baby sucking breast; @[नाडीं धमः] a goldsmith,—to @[तुद] after @[विधु] and @[अरुष]; @[विधुंतुदः] the afflictor of the moon i.e. Rāhu; @[अरुतुदः] (@[अरूणि मर्माणि तुदतीति]) wounding the vital parts, painful,—to @[पच] after words showing measure as @[प्रस्थंपचा स्थाली], @[खारिंपचः कटाहः] and after @[मित] and @[नख]; @[मितंपचः] one who cooks measured corn, a miser; @[नखंपचः] nail-scorching (as @[यवाग्वः]);—to @[पश्य] and @[तप्‌] after the words @[असूर्य] and @[ललाट]; @[असूर्यंपश्याः] those who do not see the sun i. e. the queens of a king who are shut up in the harem; @[ललाटंतपः] scorching the forehead;—to @[पश्य], @[मृद] and @[ध्मा] after @[घोर], @[इरम्‌] and @[पारि] respectively; @[घोरंपश्यः] of a fierce aspect, @[इरंमृदः] lightning; @[पारिध्मः] a road (shrouded in such darkness that one has to clap one's hands for driving away serpents &c. that may be in the way); to @[मन्‌] meaning 'to consider oneself' as, @[पण्डितंमन्यः], a pedant, who considers himself a Pandita; @[गोमन्यः] one who considers himself a cow i. e. who is very humble; &c.
+
+@[क]—is added to any root with @[ईषत्‌], @[सु] or @[दुस्‌] prefixed to it when the idea of ease or difficulty in doing is present, @[ईषत्करः] done easily, one who acts; @[सुकरः] done easily; so @[दुःशासनः], @[सुशासनः]; @[दुःशीलः]; @[सुशीलः].
+
+@[अ]—is added in the sense of the place or the instrument of the action or forms abstract nouns; @[खन्‌] with @[आ], @[आखरः] a mine; @[खन्‌] with @[आ], @[आखनः] a spade; @[पण] with @[आ], @[आपणः] a place of traffic; @[कृष-निकषः] a touch-stone, @[चर-गोचरः] a pasture-ground; @[अध्वगः] a path; @[वह-वहः] a shoulder, @[प्रवहः] that by which the

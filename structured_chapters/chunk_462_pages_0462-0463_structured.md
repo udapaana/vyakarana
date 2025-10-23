@@ -1,0 +1,25 @@
+# Chunk 462: Pages 462-463
+
+**Source:** Higher-Sanskrit-Grammar.pdf
+**Pages in chunk:** 2
+
+---
+
+<!-- Page 462 -->
+
+456 Sanskrit Grammar. {§777
+
+people are guided, th. Veda; @[vāyu]@ and @[vyajana]@ a fan. Before this @[chāya]@ not preceded by more than one preposition becomes @[cchā]@; @[kamaṇḍalu]@ the lip, @[mṛga]@; but @[chāyā]@.
+
+@[An]@ added to roots ending in consonants has almost a universal application and a variety of senses; before this the final @[ṇa]@ @[da]@ are changed to @[ka]@ or @[ga]@; @[pac]@—@[pāka]@ food; @[kam]@—@[kāma]@ desire; @[ram]@—@[viśrāma]@ rest; @[sṛ]@—@[sāra]@ strength, substance, with @[ati]@—@[atisāra]@ dysentery; @[hṛ]@—@[hāra]@ a necklace, @[pad]@—@[pāda]@ a foot; @[bhū]@—@[bhāva]@ being, a thing &; @[vas]@—@[vāsa]@ a house, @[ruj]@—@[roga]@ a disease, @[spṛś]@—@[sparśa]@ touch; @[indh]@—@[edha]@ fuel; @[andh]@—@[andha]@ lanty; @[ci]@—@[cāya]@ (@[cīyate'smillasūādikam]@) the body, with @[ni]@—@[nikāya]@ a house, &c.;—to @[ṇa]@ when preceded by a preposition, @[virava]@—@[virāva]@ the warbling of birds (otherwise @[rava]@). The roots @[sphur]@ and @[skhal]@ change their vowel to @[ā]@ before this; @[sphāra]@ or @[sphāla]@ the throbbing of the hand, &c. @[ru]@ and @[plu]@ preceded by @[ā]@ take both @[ghañ]@ and @[ap]@; @[ārāva]@ or—@[ārava]@ a loud sound, @[āplava]@—@[āpluva]@ a deluge. Sometimes the affixes @[ghañ]@ and @[ap]@ are used in different senses; @[nī]@—@[nāya]@ chief, @[praṇaya]@ friendship, kindness; @[pariṇāya]@ the act of moving a piece at chess, draughts, &c. @[pariṇaya]@ marriage: @[i]@ with @[ni]@—@[nyāya]@ justice, @[vināya]@ ruin, @[grah]@ with @[ava]@ or @[vi]@—@[avagraha]@ or @[nigraha]@ impediment, separation, @[avagraha]@ a grammatical mark; @[corasya nigraha]@ the confinement of a thief, but @[avagraha]@—@[avagrahana]@ draught, want of rain; @[ci]@ after @[puṣpa]@ take the affix @[ghañ]@ when the whole means 'gathering flowers with the hands' @[puṣpa-caya]@, but @[puṣpavināya]@ 'collecting flowers with a stick' &c.; it is also added to @[nam]@ and @[grantha]@ with @[ni]@; @[pāṇi]@ the hand; @[nyubja]@ hump-backed, the Nyagrodha tree.
+
+@[Ka]@—is added—to the root @[kṛ]@ preceded by @[diva]@, @[bhās]@, @[śva]@, @[svar]@, @[kṛta]@, a numeral, and nouns governed by it; @[divā karotīti divākara]@ @[sūrya]@ the sun, @[svakara]@ &c.:—to @[sṛ]@ preceded by @[pura]@, @[agrata]@, @[āmukha]@, and @[pūrva]@, @[purasara]@, @[amukhasara]@ a leader, &c.; and to @[car]@ preceded by @[bhikṣā]@, @[senā]@, @[vāṇi]@ and words showing the place of action; @[bhikṣācara]@ a beggar, @[senācara]@ a soldier, &c.
+
+
+<!-- Page 463 -->
+
+§777] Primary Nominal Bases. 457
+
+@[Kvip]@—is affixed to @[han]@ preceded by @[jāyā]@ or @[dehe]@, @[han]@ changing to @[ha]@ the whole meaning 'bearing an inauspicious mark'; a husband causing the death of his wife—@[jāyāha]@ bearing a mark on his body indicative of the death of his wife; similarly @[vividhāha]@;—this is also added to @[han]@ when the agent of the action is not a man, @[pittam]@ checking bile, such as ghee, @[vittiha]@ (@[vācikā-reśā]@), &c.;—to @[han]@ preceded by @[hastī]@ and @[kalā]@ in the sense of 'having the power to do what is denoted by the root;' @[hastīha]@ 'one able to kill an elephant,' &c.;—and preceded by @[vāṇi]@ and @[tāla]@ in the sense of 'one having the skill;' @[vāṇīha]@ 'one who beats time with the hand, also a drummer (beating a drum with the hand);'—to @[pā]@ 'to drink' and @[gā]@ if not preceded by a preposition; @[somapā]@ 'one who drinks the Soma juice'; @[eva]@ @[brāhmaṇa]@ @[sāmaga]@ 'one who chants the Sāma Veda'; but @[sāmasaṃgāyī]@ (when a prep. precedes it); @[pā]@ 'to protect' takes @[a]@; @[kṣīrapā]@ 'merely, & c.
+
+@[U]@—is affixed to @[gam]@ preceded by @[anta]@, @[atyanta]@, @[adhi]@, @[dur]@, @[ura]@, @[uru]@, @[aruṇa]@, @[bhū]@, @[uras]@ 'creeping on the ground,' @[uras]@ and @[dina]@ and denotes the agent; to @[gṛh]@ preceded by @[dur]@ and @[pur]@ and shows the place of action; before this the final consonant with the preceding vowel or the final vowel of a root is dropped; @[antam]@ @[gachatīti]@ @[antamu]@ 'one who goes to the end;' @[adhvamu]@ 'a traveller,' @[pacamu]@, @[uragu]@ 'a serpent;' @[vihaṅg]@ is changed to @[vihaṅgu]@ @[diṅu]@ 'a bird,' @[durgu]@ 'a fortress,' &c.;—to @[han]@ when a blessing is implied' @[tava putro ripu]@ @[hā]@ @[bhavet]@ 'may thy son be the destroyer of his enemies;'—also to @[han]@ with @[apa]@ after the words @[śoka]@ and @[tamas]@; @[śokāpaha]@ 'removing pain, consoling, a son;' @[tamāpaha]@ 'the dispeller of darkness, the sun;'—to @[jan]@ preceded by a word having the sense of the Loc. or of the Ab. and not denoting a class, or when it is preceded by a preposition and the whole is a name; @[sthālu]@ 'born in a stable;' @[sarasija]@ 'a lotus;' @[saṃskarāja]@ 'produced after some operation;' @[ā]@—@[gaja]@ &c.; @[praja]@, @[anuja]@ 'a younger brother;' the words @[dvija]@, @[nija]@, @[tādija]@ &c. are also formed by means of this affix: this is also added to @[khā]@ with @[ava]@; @[avakha]@ 'a ditch'

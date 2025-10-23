@@ -1,0 +1,23 @@
+<!-- Page 35 -->
+
+of @[vak] and @[ṛ] followed by a hard consonant or by nothing, are changed to a Visarga; as @[rāmaḥ paṭhati] Rāma reads. @[pitaḥ] = @[pitaḥ] Oh father. @[bhrātuḥ kanyakā] brother's daughter.
+
+§ 46. Visarga, followed by @[ca], @[cha], @[ṭa], @[ta] and @[pa], @[pha], themselves not followed by a sibilant, is changed to @[ś] or @[ṣ]; e.g., @[viṣṇuś ca rātā] Viṣṇu, the protector; @[hariś carati] Hari walks; @[rāmaś ca gacchati] Rāma goes; (Vide § 25); but @[kaḥ sa tiṣṭhati] (as the @[ta] is followed by @[ha]); and optionally when followed by @[ka], @[kha] or @[pa]; @[rāmaḥ sthāsyati] or @[rāmaś ca sthāsyati] Rāma who would stand; @[hariḥ khādati] or @[hariś ca khādati] &c.
+
+(a) Visarga, not belonging to an indeclinable is changed to @[ṣ] when preceded by @[a], and to @[r] when preceded by @[i] or @[u] short or long, and followed by the terminations @[pāka], @[kalpa], @[ka] and @[kāmya]; e.g. @[payaṣpākam] bad milk; @[yaśaḥkalpam] little short of fame, @[yaśaṣka] with fame, @[yaśaḥkāmyati] he desires fame, but @[prātaḥkalpam] almost dawn (where @[prātaḥ] is an indecl.); @[sarpiṣpākam] bad ghee, @[sarpiṣkalpam], @[sarpiṣka], @[sarpiṣkāmyati]. If the Visarga, however, is a substitute for a final @[s], it is not changed to @[r] before @[kāmya]; @[apāḥ kāmyati] speech desires.
+
+(b) The Visarga of @[namaḥ] and @[puraḥ] when prefixed as indeclinables to verbs beginning with @[ka] or @[kha] and @[ca] or @[cha] is optionally changed to @[s] in the case of the former and necessarily in that of the latter; e.g. @[namaskaroti] or @[namaḥ karoti], @[puraḥ karoti] puts in the front; but @[puraḥ praveṣṭavyāḥ] towns fit to be entered (as @[pura] is a noun).
+
+<!-- Page 36 -->
+
+(c) Visarga, preceded by @[i] or @[u] and not belonging to a termination, is changed to @[ṣ] except in the case of @[jahuḥ] often, if followed by a hard consonant of the guttural or the labial class: @[niḥ pratighāt] = @[niṣpratighāt] without obstacle. @[āviṣkṛtam] disclosed; @[duṣkṛtam] a bad action; but @[duḥkṛtam]; @[niḥkaroti] as the Visarga is substituted for @[s] a term. so @[namiḥ kva] and not @[namiṣkva]. @[puṣkaraḥ] is an exception.
+
+(d) @[tiraḥ] optionally retains its @[s] when followed by @[ka], @[kha], @[pa], or @[pha]; @[tiraḥ karoti] or @[tiraskaroti] hides or scorns.
+
+@[dviḥ], @[triḥ] and @[catuḥ]; all of them adverbs showing frequency, change their Visarga to @[s] optionally under the same circumstances; @[dviṣkaroti] or @[dviḥ karoti] does twice; but @[catuṣkapālam] having four cups (where @[catuḥ] is not an adverb).
+
+(e) The ending @[iḥ] or @[uḥ] of a word changes its visarga to @[s] optionally under the same circumstances when the presence of the following word is necessary for the completion of the sense; @[sarpiṣkaroti] or @[sarpiḥ karoti] turns into ghee; @[dhanuṣkaroti] or @[dhanuḥ karoti] makes a bow; but @[tiṣṭhatu sarpiḥ kvacit svastikam] as there is no connection here between the words @[sarpiḥ] and @[kvacit].
+
+And necessarily when at the end of the first member of a compound; as @[sarpiṣkuṇḍikā] a pot for clarified butter; but @[paramamedhaḥ kuṇḍikā] big ghee-pot (as the word @[sarpiḥ] is an @[uttarapada]).
+
+(f) Visarga coming after the @[a] of a word other than an indeclinable and forming the first member of a compound is changed to @[s] when followed by a derivative of the roots @[kṛ], @[kam], and by @[kaṃsa], @[kumbha], @[pātra], @[kuśā] and @[karṇī]; e.g. @[ayaskāraḥ] iron-smith; @[ayaskāmaḥ] one who desires iron, @[ayaskaṃsam] an iron pot; @[ayaspātram]; @[ayaskuśā] a bridle; @[ayaskarṇī] a kind of iron pot.

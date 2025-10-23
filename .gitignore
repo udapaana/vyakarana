@@ -1,18 +1,29 @@
 # Python
 __pycache__/
 *.py[cod]
-*.class
-.venv/
+*$py.class
+*.so
+.Python
+env/
 venv/
 
-# OCR output
-pages/
-chunks/
-structured_chapters/
+# Progress tracking
+cleanup_progress.json
 
-# Logs
-*.log
+# Analysis intermediates (can be regenerated)
+raw_pages_analysis.json
+raw_vs_v7_analysis.json
 
-# macOS
+# Old extraction attempts
+v8_sections/
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
 .DS_Store
-
+Thumbs.db
