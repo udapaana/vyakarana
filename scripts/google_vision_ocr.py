@@ -286,17 +286,19 @@ def main():
     print("="*70)
     print()
 
+    # Load environment variables from .env
+    from load_env import load_env, check_api_keys
+    load_env()
+
     # Check for credentials
-    import os
-    if not os.getenv('GOOGLE_APPLICATION_CREDENTIALS'):
-        print("Error: GOOGLE_APPLICATION_CREDENTIALS environment variable not set")
+    status = check_api_keys()
+    if not status['google']['set']:
+        print("Error: Google Cloud credentials not configured")
         print()
-        print("Setup instructions:")
-        print("  1. Create a Google Cloud project")
-        print("  2. Enable Vision API")
-        print("  3. Create service account and download JSON key")
-        print("  4. Set environment variable:")
-        print("     export GOOGLE_APPLICATION_CREDENTIALS='/path/to/key.json'")
+        print("Setup:")
+        print("  1. Edit .env file")
+        print("  2. Set GOOGLE_APPLICATION_CREDENTIALS=/path/to/credentials.json")
+        print("  3. See SETUP_API_KEYS.md for details")
         return
 
     # Test on sample page

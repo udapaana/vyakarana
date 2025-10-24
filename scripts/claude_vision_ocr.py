@@ -265,15 +265,19 @@ def main():
     print("="*70)
     print()
 
+    # Load environment variables from .env
+    from load_env import load_env, check_api_keys
+    load_env()
+
     # Check for API key
-    import os
-    if not os.getenv('ANTHROPIC_API_KEY'):
-        print("Error: ANTHROPIC_API_KEY environment variable not set")
+    status = check_api_keys()
+    if not status['anthropic']['set']:
+        print("Error: Anthropic API key not configured")
         print()
-        print("Setup instructions:")
-        print("  1. Get API key from https://console.anthropic.com/")
-        print("  2. Set environment variable:")
-        print("     export ANTHROPIC_API_KEY='your-api-key'")
+        print("Setup:")
+        print("  1. Edit .env file")
+        print("  2. Set ANTHROPIC_API_KEY=your-api-key")
+        print("  3. See SETUP_API_KEYS.md for details")
         return
 
     # Test on sample page
