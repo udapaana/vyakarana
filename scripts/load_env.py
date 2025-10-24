@@ -42,11 +42,12 @@ def check_api_keys():
     """
     status = {}
 
-    # Check Anthropic API key
+    # Check Anthropic API key (from .env or system environment)
     anthropic_key = os.getenv('ANTHROPIC_API_KEY')
     status['anthropic'] = {
-        'set': bool(anthropic_key and anthropic_key != 'your-anthropic-api-key-here'),
-        'value': anthropic_key[:10] + '...' if anthropic_key and len(anthropic_key) > 10 else None
+        'set': bool(anthropic_key and anthropic_key != 'your-anthropic-api-key-here' and anthropic_key != ''),
+        'value': anthropic_key[:10] + '...' if anthropic_key and len(anthropic_key) > 10 else None,
+        'source': 'system' if anthropic_key and anthropic_key != '' else 'not set'
     }
 
     # Check Google credentials (can be API key or path to JSON)
