@@ -1,65 +1,100 @@
-# Kale's Sanskrit Grammar - OCR Improvement
+# Kale's Sanskrit Grammar - OCR Improvement Project
 
-OCR## digitizationProject and structured extraction of
+Extract Kale's Higher Sanskrit Grammar with maximum accuracy using:
 
-Extract ContentsKale'sHigher Sanskrit Grammar with maximum accuracy using:
-1. **Multiple source digitizations** - Find the best quality image for each page
-2. **Multiple OCR engines** - Google Vision OCR + Claude Vision OCR
-3. **Intelligent merging** - Use Claude to compare and merge results for best accuracy
+1. **Multi-pass OCR** - Run both Google Vision OCR and Claude Vision OCR on each page
+2. **Intelligent merging** - Use Claude AI to compare and merge both OCR results for best accuracy
+3. **Structured extraction** - Extract 972 rules and appendices into clean markdown format
 
-- **966 rules** from Kale's original text, individually extracted
+## Contents
+
+- **972 rules** from Kale's original text, individually extracted
+- **Appendices** (DHATUKOSHA, Prosody, etc.)
 - Clean markdown format with YAML front matter
 - IAST transliteration and Devanagari in structured notation
 - Automated OCR cleanup pipeline using Claude AI
-##Architecture###Phase1: Source Collection
-- Find all available digitizations of Kale's Grammar on Archive.org
-- Download multiple versions (found 4+ different digitizations)
-- Compare image quality for each page across sources
-- Select best source image for each page###Phase2:Multi-PassOCR
--RunGoogle Vision OCR on each page (excellentDevanagari)
--Run Claude Vision OCR on each page (excellent for mixed scripts, tables, IAST diacritics)
-- Use Claude to intelligently merge the two results### Phase 3: Validation & Cleanup
-- Compare against existing extraction from master branch
-- Identify and fix remaining issues
+
+## Architecture
+
+### Phase 1: Multi-Pass OCR
+
+For each page in the source PDF:
+
+1. Extract page as high-resolution image (300 DPI)
+2. Run **Google Vision OCR** (excellent for Devanagari script)
+3. Run **Claude Vision OCR** (excellent for mixed scripts, tables, IAST diacritics)
+4. Use **Claude AI** to intelligently merge both results, selecting best parts from each
+
+### Phase 2: Structured Extraction
+
+- Parse merged OCR output to identify rule boundaries (§1 - §972)
+- Extract each rule into individual markdown file
 - Extract appendices (DHATUKOSHA, Prosody, etc.)
-KnownDigitizationsFromInternetArchive:**inernet.dli.2015.105411**729,IGNCADelhicurrent source**HigherSanskritGrammarKale7thEdition**7thEdition1931,OCRedwithbookmarks**highersanskritgr00kaleuoft**1961edition,714pages,University of Toronto**gsshighersanskritgr0000mrka**1972edition,738pages,Motilal Banarsidass## Directory Structure
+- Apply formatting standards (IAST in `@[...]`, Devanagari in `@deva[...]`)
+
+### Phase 3: Validation & Cleanup
+
+- Compare against existing extraction from master branch
+- Identify and fix remaining OCR errors
+- Validate all 972 rules are present and correctly formatted
+
+## Source
+
+**in.ernet.dli.2015.105411** - 729 pages, IGNCA Delhi, 300 DPI
+
+- Downloaded from Internet Archive
+- Path: `source/2015.105411.Higher-Sanskrit-Grammar.pdf`
+
+## Directory Structure
 
 ```
-├── raw_pages/           # Original OCR text files (729 pages)
-├── output/              # Processed markdown (v7)
-├── rules/               # Extracted rules (001.md - 972.md)
-├── rules_cleaned/       # Claude-cleaned rules (in progress)
-├── scripts/             # Processing scripts
-│   ├── extract_simple.py
-│   ├── process_rules_batch.py
-│   └── processing/      # Section extraction scripts
-├── MARKDOWN_SPEC.md     # Formatting specification
-└── PROCESSING_READY.md  # Processing guide
--improvements-v2                    OriginalPDFs├       # Current source (729 pages)│   7th_edition_1931.pdf  Todownload
-│   ├── toronto_1961.pdf      # To download1972_editionpdf      Todownload│   ├── download_sources.py   # Download all digitizations
-│   ├── compare_quality.py    # Compare image quality across sources
-│   ├── select_best_images.py # Select best source for each page
-│   ├── google_vision_ocr.py  # Google Vision OCR module
-│   ├── claude_vision_ocr.py  # Claude Vision OCR module
-│   └── merge_results.py      # Intelligent merging with Claude
-├── images/                    # Selected best images for each page
+├── source/                              # Source PDF
+│   └── 2015.105411.Higher-Sanskrit-Grammar.pdf
+├── scripts/                             # Processing pipeline
+│   ├── google_vision_ocr.py            # Google Vision OCR module
+│   ├── claude_vision_ocr.py            # Claude Vision OCR module
+│   ├── merge_results.py                # Intelligent merging with Claude
+│   ├── extract_rules.py                # Extract individual rules
+│   └── extract_appendices.py           # Extract appendices
+├── images/                              # Extracted page images (300 DPI)
 │   ├── page_001.png
 │   ├── page_002.png
 │   └── ...
 ├── ocr_output/
-│   ├── google/               # Google Vision results
-│   ├── claude/               # Claude Vision results
-│   └── merged/               # Final merged results
-├── CODING_STANDARDS.md       # Coding principles for this project
-└── README.md                 # This file
+│   ├── google/                         # Google Vision OCR results
+│   │   ├── page_001.txt
+│   │   └── ...
+│   ├── claude/                         # Claude Vision OCR results
+│   │   ├── page_001.txt
+│   │   └── ...
+│   └── merged/                         # Merged final OCR
+│       ├── page_001.txt
+│       └── ...
+├── final/                               # Final extracted content
+│   ├── rules/                          # 972 rules
+│   │   ├── 001.md
+│   │   ├── 002.md
+│   │   └── ...
+│   └── appendices/                     # Appendices
+│       ├── dhatukosha.md
+│       └── prosody.md
+├── CODING_STANDARDS.md                  # Coding principles
+├── MARKDOWN_SPEC.md                     # Markdown formatting spec
+└── README.md                            # This file
 ```
 
-#### ExtractionCoding StatusStandards
+## Coding Standards
 
-✅All **966/966code rules extracted**in this project follows the standards documented in [CODING_STANDARDS.md](6 rule numbers don't exist in original./CODING_STANDARDS.md).
+All code in this project follows the standards documented in [CODING_STANDARDS.md](./CODING_STANDARDS.md).
 
-##Key MarkdownprinciplesDeepmodulessimple interfaces**: Users specify what, not howDependency injectionPassinenginesrather than hardcodingCommentsexplain whyWhy we use multiple engineswhycertainmergingstrategies
--**Testable**: Each component can be tested in isolation
+Key principles:
+
+- **Deep modules**: Simple interfaces, users specify what, not how
+- **Dependency injection**: Pass in engines rather than hardcoding
+- **Comments explain why**: Why we use multiple engines, why certain merging strategies
+- **Testable**: Each component can be tested in isolation
+
+## Markdown Format
 
 Each rule file follows this structure:
 
@@ -72,40 +107,39 @@ rule: §N
 ```
 
 ### Notation
+
 - **IAST**: `@[saṃskṛta]`, `@[pāṇini]`, `@[guṇa]`
 - **Devanagari**: `@deva[संस्कृत]`, `@deva[पाणिनि]`, `@deva[गुण]`
 
-## Processing
+See [MARKDOWN_SPEC.md](./MARKDOWN_SPEC.md) for full specification.
 
-Process rules through Claude for cleanup:
+## Usage
+
+### Step 1: Run multi-pass OCR pipeline
 
 ```bash
-# Test batch
-python3 scripts/process_rules_batch.py 1 10
-
-# Process in batches
-python3 scripts/process_rules_batch.py 1 100
-python3 scripts/process_rules_batch.py 101 200
-```
-
-See### `PROCESSING_READY.md`Step1 detailed instructions. Download all source digitizations
-```bash
-python scripts/download_sources.py
-```
-## Non###existent RulesStep2:Compareselectbest images```bash
-pythonscripts/compare_quality.py
-pythonscripts/select_best_images.py
-```
-The### Step 3: Run multi-pass OCR
-```bash
-python scripts/run_multipass_ocr.py --start-page 1 --end-page 729
+python3 scripts/run_ocr_pipeline.py --start-page 1 --end-page 729
 ```
 
 This will:
-1. Run Google Vision OCR on each page
-2. Run Claude Vision OCR on each page
-3. Use Claude to merge results intelligently
-4. Output final markdown files
+
+1. Extract each page as high-resolution image (300 DPI)
+2. Run Google Vision OCR on each page
+3. Run Claude Vision OCR on each page
+4. Use Claude AI to intelligently merge both results
+5. Save merged OCR output
+
+### Step 2: Extract structured content
+
+```bash
+python3 scripts/extract_rules.py
+python3 scripts/extract_appendices.py
+```
+
+This will parse the merged OCR output and extract:
+
+- 972 individual rules into `final/rules/`
+- Appendices into `final/appendices/`
 
 ## Environment Setup
 
@@ -124,14 +158,14 @@ export ANTHROPIC_API_KEY="your-api-key"
 
 ## Progress Tracking
 
-- [ ] Download all 4 digitizations
-- [ ] Compare image quality across sources
-- [ ] Select best source for each page
+- [x] Select source PDF (in.ernet.dli.2015.105411)
 - [ ] Implement Google Vision OCR module
 - [ ] Implement Claude Vision OCR module
 - [ ] Implement intelligent merge module
-- [ ] Process all 729 pages
-- [ ] Extract appendices
+- [ ] Implement main orchestration script
+- [ ] Process all 729 pages with multi-pass OCR
+- [ ] Extract 972 rules from merged output
+- [ ] Extract appendices (DHATUKOSHA, Prosody)
 - [ ] Validate against master branch
 
 ## References
@@ -140,3 +174,4 @@ export ANTHROPIC_API_KEY="your-api-key"
 - Google Cloud Vision API documentation
 - Anthropic Claude Vision API documentation
 - [Coding Standards](./CODING_STANDARDS.md)
+- [Markdown Specification](./MARKDOWN_SPEC.md)
