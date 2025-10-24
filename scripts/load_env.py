@@ -49,20 +49,30 @@ def check_api_keys():
         'value': anthropic_key[:10] + '...' if anthropic_key and len(anthropic_key) > 10 else None
     }
 
-    # Check Google credentials path
+    # Check Google credentials (can be API key or path to JSON)
     google_creds = os.getenv('GOOGLE_APPLICATION_CREDENTIALS')
-    if google_creds and google_creds != '/path/to/google-vision-credentials.json':
-        creds_path = Path(google_creds)
-        status['google'] = {
-            'set': creds_path.exists(),
-            'path': str(creds_path),
-            'exists': creds_path.exists()
-        }
+    if google_creds and google_creds not in ['', '/path/to/google-vision-credentials.json']:
+        # Check if it's a file path or an API key
+        if google_creds.startswith('AIza'):  # Google API keys start with AIza
+            status['google'] = {
+                'set': True,
+                'type': 'api_key',
+                'value': google_creds[:10] + '...'
+            }
+        else:
+            # Assume it's a file path
+            creds_path = Path(google_creds)
+            status['google'] = {
+                'set': creds_path.exists(),
+                'type': 'json_file',
+                'path': str(creds_path),
+                'exists': creds_path.exists()
+            }
     else:
         status['google'] = {
             'set': False,
-            'path': google_creds,
-            'exists': False
+            'type': None,
+            'value': None
         }
 
     return status
@@ -101,12 +111,12 @@ def main():
 
     # Google
     if status['google']['set']:
-        print(f"✓ GOOGLE_APPLICATION_CREDENTIALS: {status['google']['path']}")
+        if status['google']['type'] == 'api_key':
+            print(f"✓ GOOGLE_APPLICATION_CREDENTIALS: {status['google']['value']} (API key)")
+        else:
+            print(f"✓ GOOGLE_APPLICATION_CREDENTIALS: {status['google']['path']} (JSON file)")
     else:
-        print("✗ GOOGLE_APPLICATION_CREDENTIALS: Not set or file not found")
-        if status['google']['path']:
-            print(f"  Current path: {status['google']['path']}")
-            print(f"  File exists: {status['google']['exists']}")
+        print("✗ GOOGLE_APPLICATION_CREDENTIALS: Not set")
         print("  Setup: https://console.cloud.google.com/")
 
     print()

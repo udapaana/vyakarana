@@ -21,7 +21,8 @@ from PIL import Image
 def ocr_image_with_google_vision(
     image: Image.Image,
     vision_client: Optional[Any] = None,
-    language_hints: list[str] = ['sa', 'en']
+    language_hints: list[str] = ['sa', 'en'],
+    api_key: Optional[str] = None
 ) -> Dict[str, Any]:
     """Extract text from image using Google Cloud Vision API.
 
@@ -51,7 +52,18 @@ def ocr_image_with_google_vision(
 
     # Create client if not provided (dependency injection pattern)
     if vision_client is None:
-        vision_client = vision.ImageAnnotatorClient()
+        # Use API key if provided, otherwise use default credentials
+        if api_key:
+            from google.cloud.vision_v1.services.image_annotator import ImageAnnotatorClient
+            from google.api_core import client_options as client_options_lib
+
+            # Configure client to use API key
+            client_options = client_options_lib.ClientOptions(
+                api_key=api_key
+            )
+            vision_client = ImageAnnotatorClient(client_options=client_options)
+        else:
+            vision_client = vision.ImageAnnotatorClient()
 
     # Convert PIL Image to bytes
     # Why JPEG: Smaller upload size, Vision API handles compression artifacts well
