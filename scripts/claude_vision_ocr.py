@@ -73,35 +73,36 @@ def ocr_image_with_claude(
 
     # Craft prompt optimized for Sanskrit grammar text
     # Why this prompt: Specific instructions improve accuracy for our use case
-    prompt = """Please transcribe all text from this page of Kale's Higher Sanskrit Grammar.
+    prompt = """You are doing OCR transcription. Transcribe EVERY SINGLE CHARACTER of text visible in this image exactly as shown.
 
-Important instructions:
-1. Preserve ALL text exactly as shown, including:
-   - Sanskrit text in Devanagari script
-   - English text
-   - IAST transliteration with diacritical marks (ā, ī, ū, ṛ, ṝ, ḷ, ṃ, ḥ, ṅ, ñ, ṭ, ḍ, ṇ, ś, ṣ)
-   - Section markers (§ symbols and numbers)
-   - Footnote markers and references
+CRITICAL: Do NOT describe the page. Do NOT summarize. TRANSCRIBE CHARACTER-BY-CHARACTER.
 
-2. For IAST transliteration, be very careful with diacriticals:
-   - Long vowels: ā, ī, ū (with macron)
-   - Vocalic r: ṛ, ṝ (with dot below and macron)
-   - Vocalic l: ḷ, ḹ (with dot below and macron)
-   - Nasals: ṃ (anusvāra), ḥ (visarga), ṅ, ñ, ṇ
-   - Retroflexes: ṭ, ḍ, ṇ (with dot below)
-   - Sibilants: ś (acute accent), ṣ (dot below)
+Transcribe ALL text including:
+- Sanskrit Devanagari script (धी, भू, सू, प्रधी, etc.)
+- English text
+- IAST transliteration with diacriticals (ā, ī, ū, ṛ, ṝ, ḷ, ṃ, ḥ, ṅ, ñ, ṭ, ḍ, ṇ, ś, ṣ)
+- Section markers (§)
+- ALL punctuation marks, quotation marks
+- Footnote markers and numbers
+- Page numbers
 
-3. Maintain layout and structure:
-   - Paragraph breaks
-   - Indentation
-   - Section numbers
-   - Examples and sub-points
+For IAST diacriticals:
+- Long vowels: ā, ī, ū (macron above)
+- Vocalic r: ṛ, ṝ (dot below)
+- Vocalic l: ḷ, ḹ (dot below)
+- Nasals: ṃ, ḥ, ṅ, ñ, ṇ
+- Retroflexes: ṭ, ḍ, ṇ (dot below)
+- Sibilants: ś (acute), ṣ (dot below)
 
-4. If there are tables, preserve their structure using spacing or markdown-style formatting.
+Preserve layout:
+- Line breaks
+- Indentation
+- Tables (use spacing)
+- Column structure
 
-5. Mark any text you're uncertain about with [?] but try to provide your best reading.
+Mark uncertain text with [?]
 
-Please provide the complete transcription:"""
+START TRANSCRIPTION NOW - character by character:"""
 
     # Call Claude API
     response = anthropic_client.messages.create(
@@ -245,8 +246,27 @@ def ocr_pdf_page(
 
     # Run OCR
     print(f"  Running Claude Vision OCR...")
-    output_path = output_dir / f"page_{page_number:03d}"
-    result = ocr_page_file(image_path=None, output_path=output_path, anthropic_client=anthropic_client)
+
+    # Run OCR directly on image object
+    result = ocr_image_with_claude(image, anthropic_client)
+
+    # Save results
+    output_dir.mkdir(parents=True, exist_ok=True)
+
+    txt_path = output_dir / f"page_{page_number:03d}.txt"
+    with txt_path.open('w', encoding='utf-8') as f:
+        f.write(result['text'])
+    print(f"  Saved text: {txt_path}")
+
+    json_path = output_dir / f"page_{page_number:03d}.json"
+    import json
+    with json_path.open('w', encoding='utf-8') as f:
+        json.dump({
+            'text': result['text'],
+            'model': result['model'],
+            'usage': result['usage']
+        }, f, indent=2, ensure_ascii=False)
+    print(f"  Saved JSON: {json_path}")
 
     # Save preprocessed image for reference
     img_path = output_dir / f"page_{page_number:03d}.png"
@@ -281,12 +301,12 @@ def main():
         return
 
     # Test on sample page
-    pdf_path = Path("source/candidates/DLI_2015_IGNCA_Delhi.pdf")
+    pdf_path = Path(__file__).parent.parent / "source/candidates/DLI_2015_IGNCA_Delhi.pdf"
     if not pdf_path.exists():
         print(f"Error: {pdf_path} not found")
         return
 
-    output_dir = Path("ocr_output/claude")
+    output_dir = Path(__file__).parent.parent / "ocr_output/claude"
 
     print("Testing on page 50...")
     print()
