@@ -1,0 +1,234 @@
+{
+  "best_sources": {
+    "1": "DLI_2015",
+    "2": "DLI_2015",
+    "3": "DLI_2015",
+    "4": "DLI_2015",
+    "5": "DLI_2015",
+    "6": "DLI_2015",
+    "7": "Official_1931",
+    "8": "DLI_2015",
+    "9": "DLI_2015",
+    "10": "DLI_2015"
+  },
+  "detailed_metrics": {
+    "1": {
+      "Official_1931": {
+        "source_name": "Official_1931",
+        "page_number": 1,
+        "resolution": [
+          1154,
+          1828
+        ],
+        "sharpness": 383.5767516292312,
+        "contrast": 13.477917898812883,
+        "brightness": 254.11871466007304
+      },
+      "DLI_2015": {
+        "source_name": "DLI_2015",
+        "page_number": 1,
+        "resolution": [
+          1305,
+          1931
+        ],
+        "sharpness": 4400.349496388407,
+        "contrast": 63.943738785005756,
+        "brightness": 233.81918566006138
+      }
+    },
+    "2": {
+      "DLI_2015": {
+        "source_name": "DLI_2015",
+        "page_number": 2,
+        "resolution": [
+          1192,
+          1944
+        ],
+        "sharpness": 5435.804083091006,
+        "contrast": 66.75133188994347,
+        "brightness": 231.28634958364404
+      }
+    },
+    "3": {
+      "Official_1931": {
+        "source_name": "Official_1931",
+        "page_number": 3,
+        "resolution": [
+          1150,
+          1826
+        ],
+        "sharpness": 1597.6955348896774,
+        "contrast": 33.864414018932,
+        "brightness": 249.1074413067289
+      },
+      "DLI_2015": {
+        "source_name": "DLI_2015",
+        "page_number": 3,
+        "resolution": [
+          1189,
+          1944
+        ],
+        "sharpness": 5329.2366653409,
+        "contrast": 68.38135599720094,
+        "brightness": 230.4017524322753
+      }
+    },
+    "4": {
+      "Official_1931": {
+        "source_name": "Official_1931",
+        "page_number": 4,
+        "resolution": [
+          1154,
+          1828
+        ],
+        "sharpness": 1168.8763350357265,
+        "contrast": 28.442600492906724,
+        "brightness": 250.96207653713276
+      },
+      "DLI_2015": {
+        "source_name": "DLI_2015",
+        "page_number": 4,
+        "resolution": [
+          1149,
+          2004
+        ],
+        "sharpness": 2479.0706212582695,
+        "contrast": 50.84288112725949,
+        "brightness": 242.7973200683055
+      }
+    },
+    "5": {
+      "Official_1931": {
+        "source_name": "Official_1931",
+        "page_number": 5,
+        "resolution": [
+          1157,
+          1831
+        ],
+        "sharpness": 2296.672189468171,
+        "contrast": 43.964452938069414,
+        "brightness": 245.25701462425423
+      },
+      "DLI_2015": {
+        "source_name": "DLI_2015",
+        "page_number": 5,
+        "resolution": [
+          1168,
+          2028
+        ],
+        "sharpness": 2821.591898583753,
+        "contrast": 54.167924168442454,
+        "brightness": 240.6648411958607
+      }
+    },
+    "6": {
+      "DLI_2015": {
+        "source_name": "DLI_2015",
+        "page_number": 6,
+        "resolution": [
+          1132,
+          2020
+        ],
+        "sharpness": 2254.1308791120864,
+        "contrast": 44.375699953720485,
+        "brightness": 245.3516613896372
+      }
+    },
+    "7": {
+      "Official_1931": {
+        "source_name": "Official_1931",
+        "page_number": 7,
+        "resolution": [
+          1154,
+          1828
+        ],
+        "sharpness": 3206.9606262799202,
+        "contrast": 46.99663717235926,
+        "brightness": 243.0746741426453
+      },
+      "DLI_2015": {
+        "source_name": "DLI_2015",
+        "page_number": 7,
+        "resolution": [
+          1162,
+          2005
+        ],
+        "sharpness": 1885.6121518797954,
+        "contrast": 41.12979186840359,
+        "brightness": 246.91965954305286
+      }
+    },
+    "8": {
+      "Official_1931": {
+        "source_name": "Official_1931",
+        "page_number": 8,
+        "resolution": [
+          1168,
+          1837
+        ],
+        "sharpness": 2569.0959097409814,
+        "contrast": 44.829745020560054,
+        "brightness": 244.7990577065048
+      },
+      "DLI_2015": {
+        "source_name": "DLI_2015",
+        "page_number": 8,
+        "resolution": [
+          1196,
+          2005
+        ],
+        "sharpness": 3343.471166239869,
+        "contrast": 56.83488206386587,
+        "brightness": 238.9399344448244
+      }
+    },
+    "9": {
+      "Official_1931": {
+        "source_name": "Official_1931",
+        "page_number": 9,
+        "resolution": [
+          1164,
+          1835
+        ],
+        "sharpness": 2304.0245656756147,
+        "contrast": 41.09980125440118,
+        "brightness": 246.19537299736885
+      },
+      "DLI_2015": {
+        "source_name": "DLI_2015",
+        "page_number": 9,
+        "resolution": [
+          1243,
+          2022
+        ],
+        "sharpness": 2865.550080955356,
+        "contrast": 68.66394355136084,
+        "brightness": 232.39880740654093
+      }
+    },
+    "10": {
+      "Official_1931": {
+        "source_name": "Official_1931",
+        "page_number": 10,
+        "resolution": [
+          1164,
+          1835
+        ],
+        "sharpness": 4068.490870069737,
+        "contrast": 58.59092560111419,
+        "brightness": 237.14643061134677
+      },
+      "DLI_2015": {
+        "source_name": "DLI_2015",
+        "page_number": 10,
+        "resolution": [
+          1315,
+          2037
+        ],
+        "sharpness": 3433.07173178789,
+        "contrast": 78.85739007183929,
+        "brightness": 224.41501313159029
+      }
+    }
+  }
+}
