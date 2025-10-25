@@ -1,1 +1,4 @@
 .env
+
+# Large PDF files (too big for GitHub)
+source/candidates/*.pdf
