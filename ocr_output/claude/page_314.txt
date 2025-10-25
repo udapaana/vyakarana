@@ -1,0 +1,38 @@
+308                                SANSKRIT GRAMMAR.                    [§ 498-502
+
+§ 498. Roots ending in आ take ओ instead of अ in the 1st 
+and 3rd per. sing. and drop their final आ before vowel weak 
+terminations, and before such as take the augment इ; as दधौ, 
+ददिव, ददिथ 1st Per. ददाय, ददिथ 2. Per. sing. of दा.
+
+§ 499. Guṇa is substituted for the final vowel of roots end-
+ing in ऋ preceded by a conjunct consonant, and in long ऋ 
+and of the roots कृ, कृच्छ and जागृ; as सस्मरिव 1 dual of स्मृ, &c.
+डृ, दृ and धृ optionally take the Guṇa substitute before the 
+weak terminations, and shorten their vowel when they do not; 
+as डडरिव, डरिथ, 1 dual of डृ, &c.
+
+§ 500. Monosyllabic roots, having a short अ for their 
+penultimate, change it to ए and drop the reduplicative syllable 
+before the weak terminations and before य when it takes इ, 
+provided their initial letter undergoes no change in the 
+reduplication, e. g. पद् ist dual पएद्+इव=पेद्+इव=पेदिव, पेदिथ 
+2 sing, रेकिथ, शशकिथ 2. sing. of शक्, but ननन्दिथ 2nd dual of 
+नन्द् as the अ here is prosodially long.
+
+Exceptions:—Roots beginning with व and the roots शार्
+and वद्.
+
+§ 501. र is inserted after the reduplicative syllable in the 
+case of roots beginning with अ and ending in a conjunct 
+consonant and in that of अञ्ज् 'to pervade' and क्रच्छ् 'to go.' 
+The reduplicative अ is changed to आ; अञ्ज्:अअञ्ज्+अ=अ+
+र+अञ्ज्+अ=आनञ्ज्+अ=आनज; similarly आनदे 1 sing. of 
+अद्, आनशे of अश्, &c.
+
+§ 502. The change of a semi-vowel to its corresponding 
+vowel is called Samprasāraṇa. Samprasāraṇa generally takes 
+place before weak terminations in the case of the following 
+roots—वच्, वज्, व्रज्, वध्, वस् 'to dwell,' वे स्वे, हे, निज्, वह्, स्वप्,
+उञा, वञ्, व्यच्, प्रच्छ्, प्रस्थ्, यज्, यह् and व्यथ्. In the case of the 
+Perfect the roots पृच्छ्, प्रस्थ् and, प्रस्थ् form an exception.

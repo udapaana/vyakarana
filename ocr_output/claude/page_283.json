@@ -1,0 +1,8 @@
+{
+  "text": "§ 486-437 ]   CONJUGATION OF VERBS.                      277\n\n§ 436. विद् 'to know' takes optionally the terminations of the Perfect in the Present Tense. Its Imperative forms are optionally made up by adding आस to it and then appending the forms of the Imperative of कृ.\n\nPresent.                                   Imperfect.\n\n1. वेद्मि-वेद    विद्ः-विद्    विद्मः-विद्म      अवेदम्     अविद्व    अविद्म\n2. वेत्सि-वेथ    वित्थः-वित्थुः विथ-विद      अवेःअवेत्-द्   अविद्तम्    अविद्त\n3. वेत्ति-वेद    वित्तः-विद्तः विद्न्ति-विदुः   अवेत्-द्    अविद्ताम्   अविदुः\n\nImperative.\n\n1. वेदानि   वेदाव   वेदाम      विदाङ्कराणि   विदाङ्कराव    विदाङ्कराम\n2. विद्धि   विद्तम्   विद्त     विदाङ्कुरु     विदाङ्कुरुतम्   विदाङ्कुरुत\n3. वेत्तु    विद्ताम्  विदन्तु    विदाङ्करोतु    विदाङ्कुरुताम्  विदाङ्कुरुतै\n\nPotential.\n\n1. विद्याम्    विद्याव    विद्याम\n2. विद्याः    विद्यातम्   विद्यात\n3. विद्यात्   विद्याताम्  विद्युः\n\n§ 437. शास्* P. 'to govern, to teach,' &c.—changes its vowel to इ before consonantal weak terminations. See वक्षाम् also p. 272.\n\nPresent.                                   Imperfect.\n\n1. शासिम    शिष्वः    शिष्मः         अशासम्     अशिष्व     अशिष्म\n2. शासिस    शिष्ठः    शिष्ठ          अशाःअशात्-द् अशिष्टम्    अशिष्ट\n3. शासिति   शिष्टः    शासति         अशात्-द्    अशिष्टम्    अशासत्\n\nImperative.                               Potential.\n\n1. शासानि   शासाव    शासाम         शिष्याम्    शिष्याव    शिष्याम\n\n* शास् with आ A. should be conjugated like आप्",
+  "model": "claude-3-5-sonnet-20241022",
+  "usage": {
+    "input_tokens": 1949,
+    "output_tokens": 777
+  }
+}

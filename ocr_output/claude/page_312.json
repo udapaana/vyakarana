@@ -1,0 +1,8 @@
+{
+  "text": "306                        SANSKRIT GRAMMAR.            [§ 487-492\n\nछ्र छर्हितासि-हे             छर्हिष्यामि-ध्ये        अच्छर्हिष्यम्-ध्ये\n                             छत्सामि-त्से           अच्छत्सीम्-त्से\n\nवृह् P. A. & वृत् P. are similarly conjugated.\n\nउर्णु उर्णोवितासि-हे           उर्णोविष्यामि-ध्ये      ओर्णोविष्यम्-ध्ये\n      उर्णुवितासि-हे           उर्णुविष्यामि-ध्ये      ओर्णुविष्यम्-ध्ये\nदरिद्रा दरिद्रितास्मि          दरिद्रिष्यामि          अदरिद्रिष्यम्\nदीधी दीधिताहे                दीधिष्ये               अदीधिष्ये\n \nबेधी is similarly conjugated.\n\n                (4) THE PERFECT (लिट्)\n\n§ 488. There are two kinds of Perfect, Reduplicative and Periphrastic.\n\n§ 489. The Reduplicative Perfect is formed of all mono-syllabic roots beginning with consonants, as well as of those beginning with the vowels अ or आ, and इ, उ, and ऋ short.\nExceptions—दृश्, अश्, कास्, आस्. These take the Periphrastic Perfect necessary.\n\n§ 490. The Periphrastic Perfect is formed of all roots beginning with any vowel except अ or आ which is naturally or prosodially long, and of roots of more than one syllable (roots of the 10th class and other derivative roots included). Exceptions:—कृपू and क्रन्द which take the Reduplicative Perfect.\n\n§ 491. The roots दश्, विद्, जागृ, भी, ही, धू, द्रु, and दरिद्रा take both the perfects.\n\n                THE REDUPLICATIVE PERFECT.\n\n§ 492. The root is reduplicated according to the rules laid down in §§ 444-449.\n\n§ 493.\n               Terminations.\n      Parasmaipada.                Âtmanepada.\n1. अ      व      म       ए        वहै       महै",
+  "model": "claude-3-5-sonnet-20241022",
+  "usage": {
+    "input_tokens": 1949,
+    "output_tokens": 661
+  }
+}

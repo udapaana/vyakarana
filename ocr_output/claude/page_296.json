@@ -1,0 +1,8 @@
+{
+  "text": "290                SANSKRIT GRAMMAR.         . [§ 455-456\n\nSeventh or कुपादि Class.\n\n§ 455. In this class the base is formed by inserting न् bet\nween the radical vowel and the final consonant before the strong\nand न् before the weak terminations.\n\n§ 456. (a) The original nasal of a root is dropped.\n(b) In the case of the root वह्, न् is changed to नै before\nconsonantal strong terminations.\n\nParadigms.\n\nअञ्ज् P. 'to anoint,' &c.\n\nPresent.                           Imperfect.\n\n1. अनज्मि    अञ्जवः    अञ्जमः     आनजम्    आञ्जव    आञ्जम\n2. अनक्षि    अङ्क्थः    अङ्क्थ     आनङ्-थ   आङ्क्तम्   आङ्क्त\n3. अनक्ति    अङ्क्तः    अञ्जन्ति   आनङ्-त्   आङ्क्ताम्   आञ्जन्\n\nImperative.                        Potential.\n\n1. अनज्जानि   अनजाव    अनजाम     अञ्ज्याम्   अञ्ज्याव   अञ्ज्याम\n2. अङ्द्धि    अङ्क्तम्   अङ्क्त    अञ्ज्याः   अञ्ज्यातम् अञ्ज्यात\n3. अनक्तु    अङ्क्ताम्   अञ्जन्तु   अञ्ज्यात्  अञ्ज्याताम् अञ्जुः\n\nइन्ध् Ā. 'to anoint,' &c.\n\nPresent.                           Imperfect.\n\n1. इन्धे     इन्ध्वहे   इन्ध्महे    ऐन्धिय    ऐन्ध्वहि   ऐन्ध्महि\n2. इन्त्से   इन्धाथे    इन्ध्वे    ऐन्धाः    ऐन्धाथाम्  ऐन्ध्वम्\n3. इन्द्धे*   इन्धाते    इन्धते     ऐन्ध     ऐन्धाताम्   ऐन्धत\n\nImperative.                        Potential.\n\n1. इन्धै    इन्धावहै   इन्धामहै    इन्धीय    इन्धीवहि   इन्धीमहि\n2. इन्त्स्व  इन्धाताम्  इन्ध्वम्    इन्धीथाः  इन्धीयाथाम् इन्धीध्वम्\n3. इन्द्धाम्  इन्धाताम्  इन्धताम्    इन्धीत    इन्धीयाताम् इन्धीरन्\n\n* Also इन्धे, ऐन्धाः, ऐन्धत्, इन्ध्वम्, इन्धाम्, &c. See § 20 (a)",
+  "model": "claude-3-5-sonnet-20241022",
+  "usage": {
+    "input_tokens": 1949,
+    "output_tokens": 925
+  }
+}

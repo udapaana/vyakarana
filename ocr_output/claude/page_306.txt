@@ -1,0 +1,40 @@
+300                SANSKRIT GRAMMAR.           [§ 475-480
+
+Benedictive Atm. and the Aorist Par.; कितासिम्, वरीतासिम्,
+1 sing. कृ-कितासिम्, करीतासिम् 1 sing.
+
+§ 476. स is inserted before the ending consonant of the root
+सच्, before which स् is dropped, and after the vowel of नश्,
+when they are followed by any consonant except a nasal or a
+semi-vowel; सक्षा &c.; नेष्टा, नशिष्टा. The स् of सच् is changed
+to श when not dropped.
+
+§ 477. ति is substituted for अच् 1 P. 'to go' necessarily
+before any non-conjugational termination, and optionally 
+before such as begin with any consonant except य; वेता, अजिता;
+वेष्यति, अजिष्यति &c.
+
+(2) Second Future (लृट्) and (3) Conditional (लृङ्).
+
+§ 478. Terminations of the Second Future:-
+
+             Parasm.                      Âtmane.
+
+1. स्यामि*    स्याव:    स्याम:    1. स्ये    स्यावहै    स्यामहै
+2. स्यसि     स्यथ:    स्यथ     2. स्यसे    स्येथे     स्येध्वे
+3. स्यति     स्यत:    स्यन्ति   3. स्यते    स्येते     स्यन्ते
+
+§ 479. Terminations of the Conditional:-
+
+1. स्यम्†    स्याव    स्याम     1. स्ये    स्यावहि    स्यामहि
+2. स्य:     स्यतम्   स्यत     2. स्यथा:   स्येथाम्    स्येध्वम्
+3. स्यत्    स्यताम्   स्यन्    3. स्यत    स्येताम्    स्यन्त
+
+§ 480. त् is substituted for the ending त् of a root when followed by any non-conjugational termination beginning with स्.
+
+* These terminations, it will be seen, are obtained by adding
+those of the Present to स्य with its अ lengthened before initial 
+य and थ, and dropped before a vowel.
+
+† These are obtained similarly by adding the terminations of
+the Imperfect to स्य the usual rules of Sandhi being observed.

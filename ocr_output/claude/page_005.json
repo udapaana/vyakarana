@@ -1,0 +1,8 @@
+{
+  "text": "CONTENTS.\n\nPAGE.\nThe Alphabet                ...        ...        ...    1\nRules of Sandhi :—         ...        ...        ...    17\n    1 Svarasandhi         ...        ...        ...    12\n    2 Halsandhi          ...        ...        ...    22\n    3 Visargasandhi      ...        ...        ...    28\nSubanta or Declension of nouns, substantive\n    and adjective        ...        ...        ...    32\n    1 Bases ending in vowels (Section I)    ...    34\n    2 Bases ending in consonants (Section II)...    54\n    3 Irregular bases    ...        ...        ...    65\n    4 Words of irregular declension         ...    82\nPronouns and their Declension ...        ...    87\nNumerals and their Declension ...        ...    102\nDegrees of Comparison        ...        ...    110\nCompounds                    ...        ...    ...    117\n    1 Dwandwa or copulative compounds    ...    1\n    2 Tatpurusha or the Determinative com-\n        pounds        ...        ...        ...    1\n    3 Karmadhāraya or the Appositional com-\n        pounds        ...        ...        ...    133\n    4 Upapada compounds        ...        ...    144\n    5 Bahuvrī or Attributive compounds    ...    147\n    6 Avyayībhāva or the Adverbial compound, 160\n    7 General rules applicable to all compounds 168\n    8 Other changes in connection with com-\n        pounds        ...        ...        ...    171\nFormation of Feminine Bases ...        ...    180\nSecondary Nominal Bases derived by the addi-\n    tion of the Taddhita or Secondary affixes.    194",
+  "model": "claude-3-5-sonnet-20241022",
+  "usage": {
+    "input_tokens": 1965,
+    "output_tokens": 435
+  }
+}

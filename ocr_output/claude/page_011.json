@@ -1,0 +1,8 @@
+{
+  "text": "§ 3 ]               THE ALPHABET.                     . 3\n\n§ 3. The nine primary vowels consist of five simple vowels \nviz. अ, इ, उ, ऋ and ऌ, and four diphthongs viz. ए, ऐ, \nओ and औ.\n\n(a) A vowel may be ह्रस्व or short, दीर्घ or long, [?] द्रुत or \nprotracted (also called prolated by some) according to the \ntime required to pronounce it. * The vowels are thus divided\n\n(1) Short vowels—अ a, इ i, उ u, ऋ ṛ, ऌ ḷ;\n(2) Long vowels—आ ā, ई ī, ऊ ū, ऋ e, ऐ ai, ओ o, औ\nau; and.\n\n(3) Protracted vowels आ ३ ā 3, ई ३ ī 3, ऊ ३, ऊ ३ ṛ 3\nऌ ३ ḷ 3, ए ३ e 3, ऐ ३ ai 3, ओ ३ o 3, and औ ३ au 3.\n\nN. B.—As the Pluta or protracted vowels are not commonly \nto be met with in classical Sanskrit, the vowels are usually \ngiven as thirteen, represented by the thirteen signs given above \nunder (1) and (2).\n\n(b) Each of these vowels may be again of two kinds, अनु-\nनासिक or nasalised, and अननुनासिक or without a nasal sound.†\n\n(c) Vowels are also further discriminated into उदात्त or \nacute, अनुदात्त or grave, and स्वरित or circumflex. उदात्त is \n\narticular vowel: e. g. अ means अ, आ and आ ३, but अनु means \nअ (of six kinds) only; so कृत means कृ and nothing else.\n\n* कुक्कुटोऽष्टविघोषणः । Pāṇ. I. 2. 27. The crowing of the cock \nin the morning represents in its three stages these three kinds \nof vowels. The time required to pronounce a short vowel is \ncalled a mātrā. A long vowel has two mātrās and a Pluta \nvowel three.\n\n† युक्तानुनासिकश्चनोः Pāṇ. I. 1. 8.",
+  "model": "claude-3-5-sonnet-20241022",
+  "usage": {
+    "input_tokens": 1949,
+    "output_tokens": 682
+  }
+}

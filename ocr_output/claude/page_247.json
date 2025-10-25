@@ -1,0 +1,8 @@
+{
+  "text": "§ 386. These ten classes may again be conveniently divided \ninto two groups, the first comprising the 1st, 4th, 6th and 10th \nclasses, and the second the remaining. In the first the base \nends in अ and remains unchanged throughout; while in the \nsecond it does not end in अ and is changeable.\n\nI. GROUP 1.\n\nROOTS WITH UNCHANGEABLE BASES\n(1st, 4th, 6th and 10th classes).\n\n§ 387. Terminations:—\n\n                Present\nPar                     Ātm.\nS.    D.    P.         S.    D.    P.\n1.   मि    वस्    मस्        ए    वहे    महे\n2.   सि    थस्    थ         से    एथे    ध्वे\n3.   ति    तस्    अन्ति      ते    एते    अन्ते\n\n                Imperfect.\nS.    D.    P.         S.    D.    P.\n1.   अम्    व    म         ए    वहि    महि\n2.   स्    तम्    त         थास्  एथाम्   ध्वम्\n3.   त्    ताम्   अन्       त    एताम्   अन्त\n\n                Imperative.\nS.    D.    P.         S.    D.    P.\n1.   आनि   आव    आम        ऐ    आवहै   आमहै\n2.   —*    तम्    त         स्व   एथाम्   ध्वम्\n3.   उ*    तम्    अन्तु     ताम्   एताम्   अन्ताम्\n\n* तातु is optionally added in the 2nd and 3rd person singulars \nwhen the Imperative has a Benedictive sense.\n\nH. S. G. 16.",
+  "model": "claude-3-5-sonnet-20241022",
+  "usage": {
+    "input_tokens": 1959,
+    "output_tokens": 503
+  }
+}

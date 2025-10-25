@@ -1,0 +1,8 @@
+{
+  "text": "106                 SANSKRIT GRAMMAR.             [ § 159-160\n\n94  १४  चतुर्नवति\n95  १५  पञ्चनवति\n96  १६  षण्णवति\n97  १७  सप्तनवति\n98  १८  अष्टानवति or\n        अष्टनवति\n99  १९  नवनवति\n        एकोनशतम् &c.\n100 १००  शत neu.         शततम mas. neu. ०मी f.\n200 २००  द्विशत neu\n        or द्वे शते\n300 ३००  त्रिशत neu. or\n        त्रीणि शतानि\n1000 १००० सहस्र neu. or      सहस्रतम ०मी\n        दशशत neu.          or दशशती\n\n10,000 अयुत neu. 100,000 लक्ष neu. or लक्षा fem., प्रयुत neu.,\nकोटि fem., अर्बुद neu., अब्ज neu., खर्व mas. neu. निखर्व mas. neu.\nमहापद्म mas., शङ्कु mas., जलधि mas., अन्त्य neu. मध्य neu., and पराध\nneu. Each of these is ten times as great as the preceding.*\n\n§ 160. The cardinal numbers between विंशति and त्रिंशत्,\nत्रिंशत् and चत्वारिंशत्, it will be seen, are made up by prefixing\nएक, द्वि, &c. up to नवन् to the lower. The ninth intermediate\nnumber may also be made up by prefixing एकोन, ऊन or एकान\nto the higher. In these compounds द्वि, त्रि and अष्ट are changed\nto द्वा, त्रय, and अष्टा necessarily before विंशति and त्रिंशत्, and\noptionally before the rest except अशीति before which they\nremain unchanged.†\n\n* एकदशशतसहस्रायुतलक्षप्रयुतकोटयः क्रमतः ।\n  अर्बुदमब्जं खर्वनिखर्वमहापद्मशङ्कवस्तथा मात् ॥\n  जलधिरन्त्यं मध्यं पराधमिति दशगुणोत्तराः संज्ञाः ।\n  संख्यायाः स्थानानां व्यवहारार्थं कृताः पूर्वैः ॥\n\n† द्वात्रयः संख्यायामष्टाविंशतिभ्यः । त्रिंशतः । विभाषा चत्वारिंशत्प्रभृति\nसर्वत्र । Pāṇ. VI. 3. 47-49",
+  "model": "claude-3-5-sonnet-20241022",
+  "usage": {
+    "input_tokens": 1949,
+    "output_tokens": 803
+  }
+}

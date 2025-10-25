@@ -1,0 +1,36 @@
+8                          SANSKRIT GRAMMAR.            [ §11-12
+
+the letters of the Sanskrit alphabet, except the two mentioned
+before, viz. Anusvāra and Visarga, and Refa which is the
+name sometimes given to र. The word कार is therefore used
+as an affix to denote a particular letter; e. g. अकार the letter
+अ', ककार the letter 'क', &c.
+
+§ 11. A vowel by itself or a consonant, simple or conjunct,
+with a vowel added to it, is called an Akshara or a syllable.
+
+§ 12. The forms which the vowel signs assume when added
+to consonants and the changes which some letters undergo
+when compounded are given below, under (a) and (b).
+
+(a) अ added to a consonant is denoted by the removal of
+the nether stroke; as क्+अ=क ka. The remaining vowels
+when compounded with a consonant becomes, ा , ि , ी , ु , ू , ृ , ॄ ,
+े , ै , ो , ौ , respectively; as क्+आ=का kā, क्+इ=कि ki; similar-
+ly की kī कु ku., कू kū, कृ kṛ, कॄ kṛ', कॢ kḷ. के ke, कै kai, को ko,
+कौ kau.
+
+Exception:—ए when following upon र remains unchanged,
+as ऱ.
+
+(b) In compounding consonants they should be taken in the
+order in which they are pronounced; the last consonant takes
+a vowel, the preceding ones generally losing their nether
+and perpendicular strokes when combined e. g. tsna ought to
+be written as त्स्न, ṇṇa as ण्ण, &c. Some letters, however,
+change their form slightly and others entirely, when com-
+pounded with other consonants; e. g. ल्प lpa; त्र tra; श्च śca; ग्र
+gra, &c.; र immediately preceding another consonant (or the
+vowel ए ) is denoted by the sign र् written above the follow-
+ing consonant as र्क rka. It is then necessarily called a
+रेफ refa.

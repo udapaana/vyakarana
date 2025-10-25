@@ -1,0 +1,8 @@
+{
+  "text": "§ 533-540 ]       CONJUGATION OF VERBS.               333\n\n2. अस्या:   अस्यातम्   अस्यात   2. असा:    असातम्    असात\n3. अस्यात्   अस्याताम्   अस्यु:   3. असात्   असाताम्   असु:\n\n§ 534. स् takes अन् instead of उस् in the 3rd per. pl. and \nchanges its vowel to उन् before the vowel terminations; e. g.,\nअस्युवम्, अस्युव, अस्युम 1st pers.; स्युस्, अस्युताम्, अस्युवन् 3rd per.\n\n§ 535. गा is substituted for स् in the Aorist; अगाम्, अगाव्, \nअगात 1st per.; स् with आवे 'to remember' अस्मगाम्, अस्मगाव्,\nअस्मगात, &c.\n\n§ 536. This Variety is exclusively Parasmaipada. दा, धा, \nand स्था take the fourth Variety in the Atm. स् when Atm. \ntakes the fifth; and स् with आवे Atm. the fourth.\n\nSecond Variety or Form.\n\n§ 537. In this Variety अ is added on to the root and then \nthe terminations of the Imperf. of the first group of conjuga-\ntional classes are added; viz:\n\nPar.                                 Âtm.\n\n1. अम्    व    म    1. इ     वहि    महि\n2. स्     तम्    त    2. थास्   इथाम्   ध्वम्\n3. त्     ताम्    अन्   3. त     इताम्   अन्त\n\n§ 538. The preceding अ is dropped before अम्, अन्, and \nअन्त and lengthened before व and म. The radical vowel except \na final ऋ, short or long, and the ऋ of ईश, does not undergo \nGuna or Vrddhi substitute.\n\n§ 539. This Variety is Parasmaipada with a few exceptions \nsuch as कृ with सम्, स्था, बच्; and अस् 'to throw' with a preposi-\ntion. The roots लिङ्, सिच्, and है take this form in the Par. \nand optionally in the Atm., in which they also take the \nFourth Form.\n\n§ 540. The penultimate nasal of a root is dropped; as क्रम्-\nचक्रमत्, स्कन्द्-अस्कदत्, &c.",
+  "model": "claude-3-5-sonnet-20241022",
+  "usage": {
+    "input_tokens": 1949,
+    "output_tokens": 728
+  }
+}

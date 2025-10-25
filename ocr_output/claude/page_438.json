@@ -1,0 +1,8 @@
+{
+  "text": "432                    SANSKRIT GRAMMAR.          [ § 709-712\n\nRoots.    Par.        Atm.             Passive.\n\nचुर्—चोरयिष्यत्    चोरयिष्यमाण    चोरयिष्यमाण or चोरिष्यमाण\nगम्—गमिष्यत्      संगमिष्यमाण     गमिष्यमाण\nजि—जेष्यत्        विजेष्यमाण      जेष्यमाण, जायिष्यमाण\nकृ—करिष्यत्       करिष्यमाण       कृषिष्यमाण, कारिष्यमाण\nश्रु—श्रोष्यत्     संश्रोष्यमाण    श्रोष्यमाण, श्राविष्यमाण\nएध्—A.           एधिष्यमाण       एधिष्यमाण\nतुद्—तोत्स्यत्    तोत्स्यमान      तोत्स्यमान\n\nSimilarly दिश्&c. Desi. Base of पद्—पिपदिष्यत्, पिपदिष्यमाण\n&c.; बोध् Fre. B. of भू—बोभविष्यत्, बोभविष्यमाण, &c.\n\n§ 710. These Participles are declined like words ending in \nत् and अ.\n\n( f ) Potential Participles ( and Verbal Adjectives ).\n\n§ 711. The Potential Participle is formed by means of the\naffixes *तव्य, अनीय, य and rarely एलिम, added to a root or deriva-\ntive verb. This is Passive when the verb is transitive and\nimpersonal when the verb is intransitive. It is also used like\nan adjective when denoting fitness, &c.\n\n(1) Participles in तव्य and अनीय.\n\n§ 712. The affixes तव्य or अनीय are added to roots or\nderivative bases in the sense of 'must be fit to be,' &c. Before\nthese the ending vowel and the penultimate short of a root\ntake their Guna substitute. Before तव्य Set roots take इ, Anit\nroots do not, and Wet roots take it optionally. Before अनीय\npenultimate अ is always changed to अर् and not to र् ( as it\nsometimes does ); e. g.\n\n*तव्यवाच्यानीयरः । Pāṇ. III. 1. 96. कर्तिमर् उपसंख्यानम् । Vārtika.",
+  "model": "claude-3-5-sonnet-20241022",
+  "usage": {
+    "input_tokens": 1918,
+    "output_tokens": 732
+  }
+}

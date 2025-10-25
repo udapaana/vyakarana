@@ -1,0 +1,25 @@
+282                SANSKRIT GRAMMAR.                [§ 444-449
+
+Note—The first syllable of a reduplicated root is called 'the reduplicative syllable; e. g. the first व in ववच्, or first च in चक्रम्.
+
+§ 445. If a conjunct consonant begins a root, the first consonant only with the following vowel is reduplicated; e. g. प्रच्छ-पप्रच्छ.
+
+(a) If the first member of a conjunct consonant, however, be a sibilant (श, ष or स्) and the second a hard consonant, the hard consonant is reduplicated: स्पृश्-पस्पृश्, स्खल्-चस्खल्; but स्वद्-सस्वद् &c.
+
+§ 446. A radical aspirate (2nd or 4th letter of a class) is changed to its corresponding unaspirate in the reduplicative syllable; as चिह्-चिचिह्, धू-दुधू, भज्-बुभज्, &c.
+
+§ 447. The guttural of the reduplicative syllable is changed to the corresponding palatal (subject to the above rule) and ह to ज; e. g. कर्-चकर्-चकर्, खद्-चखद्-चखद्=चखद्, हु-जुहु &c.
+
+§ 448. A radical long vowel becomes short and ऋ is changed to अ in the reduplicative syllable; as पा-पपा, नी-निनी, छ्-चछ &c.
+
+§ 449. The penultimate ए or ऐ and ओ or औ become इ and उ respectively in the reduplicative syllable: सेव्-सिसेव्, शोक्-शुशोक्, &c.
+
+Paradigms.
+
+कि P. 'to know.'
+
+Present.                          Imperfect.
+
+1. विकेमि विकिवः विकिमः      अविक्यम्   अविकिव   अविकिम्
+2. विकेषि विकिथः विकिथ      अविकेः    अविक्तम्  अविक्त
+3. विकेति विकितः विक्यति     अविकेत्   अविक्ताम् अविक्युः

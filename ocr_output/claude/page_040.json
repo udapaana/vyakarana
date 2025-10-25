@@ -1,0 +1,8 @@
+{
+  "text": "34                     SANSKRIT GRAMMAR.               [ § 57-60\n\n§ 57. The following are the normal case-terminations :—\n\n                 Mas. and Fem.                    Neu.\n        Sing.  Dual  Plural.           Sing.  Dual  Plural.\nN. V.    स     औ     अस्   N. A.     म     ई      इ\nA.       अम्    ,,     ,,   V.            ,,     ,,\nI.       आ     भ्याम्  भिस्  The rest like the mas.\nD.       ए      ,     भ्यस्\nAb.      अस्    ,,     ,,\nG.       ,,     ओस्    आम्\nL.       इ      ,,     सु\n\n§ 58. The Vocative is considered to be a different aspect of\nthe nom. and is identical with it in the dual and plural, It is,\ntherefore, supposed to have no separate terminations of its\nown. In the sing. it sometimes coincides with the original stem,\nsometimes with the nom., at others, it differs from both.\n\nDECLENSION OF NOUNS AND ADJECTIVES.\n\n§ 59. Declension is for the sake of convenience divided into\ntwo classes:—\nI. BASES ENDING IN VOWELS.\nII. BASES ENDING IN CONSONANTS.\n\n§ 60. The declension of adjectives does not, in general, differ\nfrom that of substantives. It will not, therefore, be given here\nseparately; the points of difference only will be noted.\n\nSECTION I.\n\n1. BASES ENDING IN VOWELS.\n\nNote:—The variations and modifications, which the general\nterminations given above undergo when applied to several of\nthe vowel bases are so numerous, that it has been thought",
+  "model": "claude-3-5-sonnet-20241022",
+  "usage": {
+    "input_tokens": 1949,
+    "output_tokens": 441
+  }
+}

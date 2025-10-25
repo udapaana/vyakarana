@@ -1,0 +1,8 @@
+{
+  "text": "SANSKRIT GRAMMAR.                                    •[\n\nNotes:—The visarga of स: and एष: is dropped when followed by\nany letter except अ in which case the usual Sandhi rule\ne.g, स गच्छतु, एष आगत्ति; but एषोऽगच्छत् &c, Vide § 50.\n\n                     इदम् mas.\n\nN.  अयम्               इमौ                 इमे\nA.  इमम्-एनम्          इमौ-एनौ             इमान्-एनान्\nI.  अनेन-एनेन          आभ्याम्             एभि:\nD.  अस्मै                \"                 एभ्य:\nAb. अस्मात्             \"                    \"\nG.  अस्य              अनयो:-एनयो:          एषाम्\nL.  अस्मिन्              \"                  एषु\n\n                      Fem.\n\nN.  इयम्               इमे                 इमा:\nA.  इमाम्-एनाम्        इमे-एने             इमा:-एना:\nI.  अनया-एनया         आभ्याम्             आभि:\nD.  अस्यै               \"                 आभ्य:\nAb. अस्या:              \"                    \"\nG.    \"               अनयो:-एनयो:         आसाम्\nL.  अस्याम्             \"                  आसु\n\n                      Neu.\n\nN.  इदम्               इमे                 इमानि\nA.  इदम्-एनत्          इमे-एने             इमानि-एनानि\nThe rest like the mas.\n\n                    अदस् mas.\n\nN.  असौ               अमू                 अमी\nA.  अमुम्              \"                  अमून्\nI.  अमुना             अमूभ्याम्           अमीभि:\nD.  अमुष्मै            \"                 अमीभ्य:\nAb. अमुष्मात्          \"                 अमीभ्य:\nG.  अमुष्य            अमुयो:             अमीषाम्\nL.  अमुष्मिन्          \"                 अमीषु",
+  "model": "claude-3-5-sonnet-20241022",
+  "usage": {
+    "input_tokens": 1939,
+    "output_tokens": 623
+  }
+}

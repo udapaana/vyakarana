@@ -1,0 +1,39 @@
+372                SANSKRIT GRAMMAR.             [§ 611-612
+
+the Parasmaipada, the Atmanepada and the Passive. The अय् 
+with the final य dropped is retained, as remarked before, in
+the General Tenses, except the Aorist and the Benedictive, and
+is dropped before the य of the Passive. The formation of the
+Aorist of causals has been fully explained along with that of the
+roots of the Tenth class, at § 548-556.
+
+§ 612. Paradigms of all the Tenses and Moods in the Par.
+Atm. and Pass. of भू, Causal base भोपय्.
+
+                     Special Tenses.
+
+                       Present.
+        Par.                           Atm.
+
+1 भोपयामि   भोपयावः   भोपयामः    1 भोपये   भोपयावहे   भोपयामहे
+2 भोपयसि    भोपयथः   भोपयथ     2 भोपयसे  भोपयेथे    भोपयध्वे
+3 भोपयति    भोपयतः   भोपयन्ति   3 भोपयते  भोपयेते    भोपयन्ते
+
+                      Imperfect.
+                         P.
+
+1 अभोपयम्    अभोपयाव    अभोपयाम
+2 अभोपयः    अभोपयतम्    अभोपयत
+3 अभोपयत्   अभोपयताम्    अभोपयन्
+
+                         A.
+
+1 अभोपये     अभोपयावहै    अभोपयामहि
+2 अभोपयथाः   अभोपयेथाम्    अभोपयध्वम्
+3 अभोपयत    अभोपयेताम्    अभोपयन्त
+
+        P.           Imperative.         A.
+
+1 भोपयानि   भोपयाव   भोपयाम    1 भोपयै   भोपयावहै   भोपयामहै
+2 भोपय     भोपयतम्   भोपयत    2 भोपयस्व  भोपयेथाम्   भोपयध्वम्
+3 भोपयतु    भोपयताम्   भोपयन्तु  3 भोपयताम्  भोपयेताम्   भोपयन्ताम्

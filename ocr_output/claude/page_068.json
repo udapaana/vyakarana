@@ -1,0 +1,8 @@
+{
+  "text": "62                SANSKRIT GRAMMAR                § 103-104\n\nअव्याज्.\n\nN. V. अव्याः      अव्याजौ      अव्याजः\nA.    अव्याजम्      \"          \"\nI. •  अव्याजा      अव्योभ्याम्    अव्योभिः\nL.    अव्याजि      अव्याजोः     अव्यक्ष\n\nपुरोडाज्.\n\nN. V. पुरोडाः      पुरोडाशौ      पुरोडाशः\nA.    पुरोडाशम्     \"           \"\nI.    पुरोडाशा      पुरोडोभ्याम्   पुरोडोभिः\nL.    पुरोडाशि      पुरोडाशोः     पुरोडक्ष\nBases derived from the root अञ्च् 'to go' to worship.\n\n§ 104. Nouns derived form the root अञ्च् ' to go ' by means\nof such affixes as क्रिन्, क्रिप् &c. such as प्राञ्च् ( प्रा-अञ्च् ) eastern,\nप्रत्यञ्च् ( प्रति-अञ्च् ) western, सम्यङ् ( सह्-अञ्च् ) a companion,\nतिर्यञ्च् ( तिरस्-अञ्च् ) going away, सम्यञ्च् ( सम्-अञ्च् ) going\nwith or well, विष्वञ्च् ( विश्वञ्च्-अञ्च् ) following, देवव्रञ्च्\n( देव-अञ्च् )adoring a deity, सर्वञ्च् ( सर्व-अञ्च् ) going every-\nwhere, उदञ्च् northen,, अन्वञ्च् following, उद्भ्रञ्च्, भ्रद्भ्यञ्च्,\nअद्भ्यञ्च् going to that( all these derived from भ्रद्स्+अञ्च् ),\nगोष्ठञ्च् &c.\n\n(a) In the Nom sing. अञ्च् becomes अङ्. The nasal of\nअञ्च् is dropped before all terminations beginning with the\nAcc. plu. and the preceding semi-vowel is changed to its\ncorresponding long vowel before the vowel terminations after\nwhich अ is dropped. When अञ्च् is not preceded by a semi-\nvowel, its अ is changed to ई if not preceded by a long vowel;\notherwise it remains unchanged. तिर्यञ्च् becomes तिरश्च् under\nsimilar circumstances. In other respects these words are\ndeclined like words ending in च्.",
+  "model": "claude-3-5-sonnet-20241022",
+  "usage": {
+    "input_tokens": 1949,
+    "output_tokens": 789
+  }
+}

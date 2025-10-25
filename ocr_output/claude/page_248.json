@@ -1,0 +1,8 @@
+{
+  "text": "SANSKRIT GRAMMAR.\n\nPotential.\n\nPar.                                 Âtm.\n\nS.      D.      P.                  S.      D.      P.\n\n1.      īyam    īva     īma         īya     īvahi   īmahi  §\n2.      īḥ      ītam    īta         īthāḥ   īyāthām īdhvam\n3.      īt      ītām    īyuḥ        īta     īyātām  īran\n\nNote:—Terminations beginning with vowels may be called\nVowel terminations; those beginning with consonants, con-\nsonantal terminations.\n\nFormation of the base of the roots of the first group:—\n\n§ 388. अ (अय्) is added on to the roots of the First or\nभ्वादि class* before terminations. Before this अ the penulti-\nmate short and the final vowel of a root take their Guṇa\nsubstitute; e. g.\n\nबुध्+ति=बुध्+अ+ति=बोध्+अ+ति=बोधति, जि+अ+ति=\nजे+अ+ति=जयति, &c.\n\n§ 389. य (यय्) is added on to the final of a root of the\nFourth or दिवादि class before the terminations; the radical vowel\nremains unchanged; e. g. कुर्+ति=कुर्+य+ति=कुर्यति.\n\n§ 390. अ is added on to the roots of the sixth or तुदादि class\nbefore which the penultimate vowel remains unchanged, and the\nfinal इ, उ, short or long, ऋ and ऌ are changed to रि, रु, रि\n\n* कृतिः भूः । दिवादिभ्यः श्यन् । तुदादिभ्यः शः । Pāṇ. III. 1. 68; 69, 77.\nOf about 2200 roots occurring in the Sanskṛt language nearly\nhalf (about 1076) belong to the first class.\n\n† Vide § 24.",
+  "model": "claude-3-5-sonnet-20241022",
+  "usage": {
+    "input_tokens": 1959,
+    "output_tokens": 555
+  }
+}

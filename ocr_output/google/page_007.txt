@@ -5,8 +5,6 @@ Section H
 (a) Passive⚫
 ...
 (b) Non-conjugational tenses and moods.
-XIII.
-IV.
 PAGE
 ... 356
 ... 359
@@ -24,18 +22,24 @@ PAGE
 ... 367
 (a) Causals
 ...
-(b) Desideratives ...
 ... 368
+(b) Desideratives ...
 ... 376
 (c) Frequentatives
 ... 384
-... 392
 (d) Nominal Verbs
+...
+392
+XIII.
+IV.
 Parasmaipada and Atmanepada
 Verbal Derivatives or Primary Nominal
+399 -
 Bases
 ...
 ...
+...
+416
 V.
 Syntax :-
 ...
@@ -61,16 +65,12 @@ Samavrittas
 Vishama Vrittas
 PENDIX II-
 Dhátukosha
-...
-399 -
 :
 ...
 ...
 :
 :
 :
-...
-416
 ... 468.
 ...
 470

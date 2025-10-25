@@ -1,0 +1,8 @@
+{
+  "text": "Grammar as full and as concisely as possible, the Author\nhopes that the public will take an indulgent view of the\nwork, and pardon him for any of the inaccuracies,\nmistakes of typography, &c., that might have crept in\nnotwithstanding his best care. It is a sufficient excuse\nfor these to say that the whole volume was written and\ncarried through the press in less than a year. Before\nconcluding I have also to thank Mr. Vinayaka Narayana.\nProprietor of the firm of Messrs. Gopal Naraven[?]uilders,\nmy publishers of this Grammar, for the care with wh[?] the\nhe passed the sheets through the press.\n\nLastly I beg to say that I shall be very grateful for\nany corrections and suggestions that may be sent to me by\nmy indulgent readers and critics and will try to profit by\nthem if the book reaches a second edition.\n\nBombay,\n30th April 1894.                    M. R. KALE.",
+  "model": "claude-3-5-sonnet-20241022",
+  "usage": {
+    "input_tokens": 1639,
+    "output_tokens": 244
+  }
+}

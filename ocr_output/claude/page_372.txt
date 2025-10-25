@@ -1,0 +1,40 @@
+386                                SANSKRIT GRAMMAR.               [§ 597-598
+
+(d) The roots at § 461 will have two forms; धृष्-अधर्षिषि, अधो-
+पाषि, विच्छृ-आविच्छिषि, आविच्छाषि &c.; कृत्-आर्षि or आर्षिषि 3 sing.
+
+(e) § 596 (b) holds good in the Passive Aorist except in 
+the 3rd sing.; the optional forms must be made up by append-
+ing the Atm. terminations of the 5th Variety as the roots
+necessarily take इ; दा-आदिषि, अदाषिषि; नी-अनेषि, अनाषिषि;
+छृ-अकृषि, अक्षाषिषि; इन्द्र-आङ्क्षे, अधाषिषि; अधषिषि; 1 sing.; अह्-
+अम्भिषि, अम्भाषिषि 1 sing. &c.
+
+§ 598. Roots of the tenth Class-
+
+(a) The अय् (i.e. अय with the final अ dropped) is optionally
+dropped in the General Tenses, except the Perfect. The Aorist
+forms, except that of the 3rd sing., are made up by adding the
+terminations of the Fifth Form; ज्ञुत् 1 sing. चोरयाचके-बभूवे,
+चोरयामासे Perf.; चोरयिताहे चोरिताहे, 1st Fu. चोरयिष्ये, चोरिष्ये
+2nd Fu.; अचोरयिषि, अचोरिषि, Aor. चोरयिषीय, चोरिषीय Ben.
+
+(b) Roots which do not lengthen thier penultimate अ (see
+also § 603) lengthen it optionally in the general Tenses of the
+Passive, except in Perf., when अय् is dropped; कथ्-अकथयिषि,
+अकथिषि; Aor. 1 sing., &c.
+
+(c) The 3 per. sing. of the Pass. Aorist is formed by drop-
+ping अय् necessarily and adding इ; चोरय्-अचोर्-अचोरि; पीड्-
+अपीडि; दृ-अदृषि, &c.; रह्-अरहि, अराहि Aor. 3 sing.; रम्-अरमि,
+अरामि Aorist, 3rd sing. &c.
+
+PARADIGMS.
+
+बुध् 1 P. 'to know.'
+
+Perfect.                                1st Future.
+
+1 बुबुधे   बुबुधिवहे   बुबुधिमहे      1 बोधिताहे   बोधितास्वहे   बोधितास्महे
+2 बुबुधिषे  बुबुधाथे   बुबुधिध्वे      2 बोधितासे   बोधितासाथे   बोधिताध्वे
+3 बुबुधे   बुबुधाते   बुबुधिरे       3 बोधिता    बोधितारौ     बोधितारः

@@ -1,0 +1,8 @@
+{
+  "text": "94\n\nSANSKRIT GRAMMAR                           [§ 138-139\n\nN.    य:        यद् mas\nA.    यम्        तौ           ये\nI.    येन        यौ           याच्\nD.    यस्मै      यास्याम्      तैः\nAb.   यस्मात्               यैभ्यः\nG.    यस्य       \"           \"\nL.    यस्मिन्    यथौ:        येषाम्\n                 \"           येषु\n\nN.    या         Fem.\nA.    याम्        ये          याः\nI.    यया        \"           \"\nD.    यस्यै      यास्याम्     याभिः\nAb.   यस्याः     \"           यास्यः\nG.     \"         \"           \"\nL.    यस्याम्    यथौ.        यासाम्\n                 \"           यासु\n\nN. & A.  यत्     Neu.        याभि\nThe rest like the mas.\n\n§ 139. The pronoun किम् mas. fem. & neu.; m. base क; fem. base का.\n\nN.    कः         Mas.\nA.    कम्        कौ          के\nI.    केन        \"           काम्\nD.    कस्मै      कास्याम्     कैः\nAb.   कस्मात्    \"           केभ्यः\nG.    कस्य       \"           \"\nL.    कस्मिन्    कथौ:        केषाम्\n                 \"           केषु\n\nN.    का         Fem.        \nA.    काम्        के          काः",
+  "model": "claude-3-5-sonnet-20241022",
+  "usage": {
+    "input_tokens": 1967,
+    "output_tokens": 441
+  }
+}

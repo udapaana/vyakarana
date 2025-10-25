@@ -1,0 +1,8 @@
+{
+  "text": "284                SANSKRIT GRAMMAR.               [§ 451-454\n\nविष्, takes its Guna substitute before all terminations and the \nradical इ is not gunated before vowel strong terminations.\n\n§ 452. दृ and धा drop their आ after reduplication before \nweak terminations; दध् becomes दघ् before त, थ, स and ध. The \nPar. Imperative 2 per. singulars are देहि and धेहि respectively.\n\n§ 453. भी optionally shortens its vowel before consonantal \nweak terminations.\n\n(a) या and ह्वा 'to go' assume the forms सिध् and जिह् before \nvowel terminations and सिधा and जिहा before consonantal ter-\nminations.\n\n§ 454. हा 'to abandon' assumes the forms जहि or जही before \nconsonantal weak terminations except in the Pot. and जह before \nvowel terminations and those of the Pot. The Imp. 2 sing. \nforms are जहाहि, जहिहि and जहीहि.\n\n                Paradigms.\n\n        इ Par. 'to go.'\n\nPresent.                                Imperfect.\n\n1. इयमि    इयवः    इयमः             ऐयम्    ऐयव    ऐयम\n2. इयषि    इयथः    इयथ              ऐयः    ऐयतम्   ऐयत\n3. इयति    इयतः    इयन्ति            ऐयः    ऐयताम्   ऐयन्.\n\nImperative.                            Potential.\n\n1. इयवाणि   इयाव    इयाम             इयुयाम्   इयुयाव   इयुयाम\n2. इयहि    इयतम्    इयत              इयुयाः   इयुयातम्  इयुयात\n3. इयतै    इयताम्   इयन्तु            इयुयात्   इयुयाताम् इयुयुः\n\n        धा P. A. 'to place, to hold.'\n\n                Present.\n\n1. दधामि    दध्वः    दध्मः            दधे    दध्वहे   दध्महे",
+  "model": "claude-3-5-sonnet-20241022",
+  "usage": {
+    "input_tokens": 1949,
+    "output_tokens": 613
+  }
+}

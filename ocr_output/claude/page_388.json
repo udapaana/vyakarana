@@ -1,0 +1,8 @@
+{
+  "text": "382                    SANSKRIT GRAMMAR.                   [§ 621-623\n\nRoots.             Desiderative base    Third pers. sing. Pres.\n\nसद् s. P. A. 'to        सिसदिष्          सिसदिषति\n   obtain'             सिषद्            सिषत्सति\nसिच्                   इत्सर्, सिषेचिष्    इत्सर्ति, सिषेचिषति\nइष्                    जिषिष्            जिषिषति\nदि 'to throw'          जिषीष्            जिषीषति\nशासन् cau. of, षि      शिक्षायिष्         शिक्षायिषति\n                      शुशासयिष्         शुशासयिषति\nस्कारय्  ,, ,, स्कृ     दुस्कारयिष्        दुस्कारयिषति-ते\nस्थापय्  ,, ,, स्थप्    दुस्थापयिष्        दुस्थापयिषति-ते\nस्थापय्  ,, ,, स्थद्*   सिस्थापयिष्        सिस्थापयिषति-ते\nस्वेदय्  ,, ,, स्विद्*  सिस्वेदयिष्        सिस्वेदयिषति-ते\nसाहय्   ,, ,, सह्*     सिसाहयिष्         सिसाहयिषति-ते\nहापय्   ,, ,, हे       जुहापयिष्         जुहापयिषति-ते\n\n(b) Conjugation of the Desiderative Base.\n\n                   Conjugational Tenses\n\n§ 622. अ is added to the base in the Conjugational Tenses\nand then it is conjugated like the special base of the 6th class\nin the Active and Passive.\n\n                   Non-Conjugational Tenses.\n\n§ 623. (a) The Perfect is formed by adding आम् to the base\nand appending the Perfect forms of the auxiliary verbs अस्, भू,\nand कृ (see § 490, 526).\n\n(b) In the Aorist the Desiderative Bases take the terminations\nof the 5th Variety.\n\n(c) In the Benedictive the Parasm. terminations are added\nwithout इ and the Atm. ones with the intermediate इ.\n\n(d) The remaining tenses have no peculiarities.\n\n* These roots do not change their द् to त्.",
+  "model": "claude-3-5-sonnet-20241022",
+  "usage": {
+    "input_tokens": 1949,
+    "output_tokens": 694
+  }
+}

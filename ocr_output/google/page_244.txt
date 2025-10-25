@@ -1,0 +1,47 @@
+238
+SANSKRIT GRAMMAR.
+13 878
+Chapter XII.
+CONJUGATION OF VERBS.
+§ 378. There are in Sanskrit-
+(a) Two kinds of verbs, Primitive and Derivative.
+(b) Six Tenses ( कालाः ) and four Moods ( अर्थाः ) which are
+as follow:-
+TENSES TECHNICAL NAJIE Moods TECHNICAL
+NAME.
+/ वर्तमानः or Present
+लट्
+आज्ञा
+भूतः or Aorist
+लुङ्
+अनयतनभूतः or Imperfect
+लङ्
+परोक्षभूतः or Perfect
+लिट्
+संकेत
+or Imperative लोटू
+विधि or Potential विधिलिङ्:
+आशी: or Benedictive आशीर्लिङ्
+or Conditional लुङ्
+अनयतन-
+भविष्यन्
+}
+or 1 st Fature लुटू
+ऌद:
+भविष्यन् or 2 nd Future
+लेट् or the Subjunctive is used only in the Veda and is
+therefore termed 'The Vedie Subjunctive.'
+Note: The ten tenses and moods are technically oalled the
+ten Lakaras in Sanskrit grammars.
+(e) Three Voices ( प्रयोगाः ), the Active Voice ( कर्तरीप्र ० )
+रामः सत्यं भाषते, the Passive Voice ( कर्मणीप्र ० ), 88 हरिणा फलं म-
+क्यते, and the Impersonal Construction ( भावेप्र० ) रामेण गम्यते.
+These technical names are given in the following Kàriká,
+लद् वर्तमाने लेट् वेदे मूते लुङ्लङ् लिटस्तथा ।
+विध्याशिषोस्तु लिङ्लोटौ लुट् ऌट् लृङ् च भविष्यति ॥
+This terminology of Panini, it will be seen, is artificial.
+Other grammarians use different names. The ten Lakaras of
+Pápini are according to their nomenclature, as follow. - मबति
+(वृत्तिः ), अद्यतनी, ह्यस्तनी, परोक्षा, श्वस्तनी, भविष्यन्ती, पञ्चमी, सक्षमी,
+क्रियातिपत्ति and आशी:-
+'Apte's Guide'.

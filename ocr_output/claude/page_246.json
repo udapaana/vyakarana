@@ -1,0 +1,8 @@
+{
+  "text": "240                       SANSKRIT GRAMMAR.\n\ngational (सार्वधातुक) or general. In the former the characteristic \nmarks and terminations of each are mostly added to a special\nbase formed from the roots in various ways, while in the latter\nthey are combined with the roots itself.\n\n(e) The base (अङ्ग) of a root is that form which it assumes\nbefore the personal terminations,\n\n§ 383. When a root is capable of taking either pada, the Para-\nsmaipada (lit. word for another) should be used when the fruit\nor result of the action of the verb accrues to any other person\nor thing than the agent, and the Atmanepada (lit. word for self)\nwhen it refers to the agent. Thus देवदत्तः यजति will mean\n'Devadatta sacrifices for another (his Yajamāna);' while\nदेवदत्तः यजते will mean 'Devadatta sacrifices for himself.'\n\nSECTION I.\nACTIVE VOICE.\nI. CONJUGATIONAL\nOF\nSPECIAL TENSES AND MOODS.\nPRESENT, IMPERFECT, IMPERATIVE and POTENTIAL.\n\n§ 384. With reference to the various moods the verbs are\ndivided into ten conjugational classes by Sanskrit grammarians,\neach class being denominated after the root which begins it viz.\n(1) भ्वादि (2) अदादि, (3) जुहोत्यादि, (4) दिवादि, (5) स्वादि, (6)\nतुदादि, (7) रुधादि, (8) तनादि (9) क्र्यादि and (10) चुरादि.\n\n§ 385. The roots contained in the first nine classes and a few\nof the tenth are primitive roots, while almost all roots of the\ntenth class, the Causals, Desideratives, Frequentatives, Deno-\nminatives, and the roots भृष्, स्रु, विक्षु, पच्, पठ्, कथ्, and कण्\nare comprised under the head of Derivative roots.",
+  "model": "claude-3-5-sonnet-20241022",
+  "usage": {
+    "input_tokens": 1949,
+    "output_tokens": 531
+  }
+}

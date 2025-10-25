@@ -1,0 +1,8 @@
+{
+  "text": "§ 493-497 ]     CONJUGATION OF VERBS.                  307\n\n2. य    अयुम्   अ        से    आये    ऐ\n3. म    अयुम्   उम्       ए     आते    इरे\n\n§ 494. The Parasmaipada singular terminations are strong;\nthe rest weak. Before the strong terminations the penultimate\nshort vowel takes its Guna substitute. The final vowel and\npenultimate अ take Vṛddhi necessarily in the third and\noptionally in the first person singular. In the 2nd person\nsingular the final vowel takes Guna and the penultimate अ\nremains unchanged.\n\n§ 495. *Special rules about the admission of the intermedi-\nate इ before the terminations य, म, य, से, वहे, महे, ध्वे; see (§ 457).\n\n(a) All roots, whether set or anit, except छ, चु, यु, ड्, क्नु,\nशु, श्रु, and श्रु admit इ. But छ with सम्, and डु admit it before\nय; as संस्करिय, बधरिय.\n\n(b) Anit roots ending in short ऋ, except कृ, reject it\nbefore य; as सत्सर्य from सृ; but आरिय from कृ.\n\n(c) Anit roots with a final vowel or with a penultimate अ\nadmit it optionally before य.\n\n§ 496. When initial इ or उ of a root takes Guṇa or Vṛddhi\nsubstitute, the reduplicative इ or उ is changed to इय or उव;\notherwise the two vowels combine to form long ई or ऊ: as\nइयप+य=इयेय, उओश्+अ=उवोश; ईरिव; &c.\n\n§ 497. The final उ, short or long, is changed to उव before a\nvowel weak termiation and इ to इय or य as it is preceded by a\nconjunct consonant or not; as इष्+इव=इष्विव 1 dual; निनी+\nइव=निन्य+इव=निन्यिव. विशि+इव=विशिशियिव, &c\n\n* कुसुमुद्वुदुब्रुश्रूणां लिटि । Pāṇ. VII. 2 13.\nअजन्तोऽकारवान्द्व्यस्तात्यदिन् याले वेड्युवम् ।\nस्तन्भन् ईङ्तश्च लित्यादिन् काय्यन्यो लिटि सेड् भवेत् ॥ (Sid. Kau.)",
+  "model": "claude-3-5-sonnet-20241022",
+  "usage": {
+    "input_tokens": 1949,
+    "output_tokens": 738
+  }
+}

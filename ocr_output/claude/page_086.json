@@ -1,0 +1,8 @@
+{
+  "text": ". 80                   SANSKRIT GRAMMAR.             [§ 123-124\n\nAb.      पचुः        पचिष्यान्     पक्षिष्यः\nG.       पच्यः       पच्योः       पच्याम्\nL.       पचि         \"           पक्षिषु\n\nDecline similarly सचिन् and कृडुषिन्; the latter word, how-\never, does not insert the न् in the first five inflections; e. g.\nNom. सच्याः सच्यानौ सच्यासः; कृडुषाः-षाणौ-षाणः; Acc. सच्यान्\nसच्यानौ-सच्य; कृडुषाणम्-कृडुषाणौ-कृडुषः\n\n           Bases ending in वत् or रवत्—\n\n§ 124. These are the perfect participles derived from roots\nwith the affix वत् to which the intermediate इ is prefixed in\nsome cases. They have a न् prefixed to their final त् in the first\nfive inflections, the penultimate अ being lengthened before it.\nIn the Nom. sing. m. the त् is dropped and the Voc. sing. ends\nin वन्. इ is substituted for अ, before which the preceding short\nइ, if any, is dropped, before the vowel terminations beginning\nwith those of the Acc. plu. and before the ई of the Nom. Voc.\nand Acc. dual of the neuter nouns. The final त् of a root is\nchanged to द् before वत् reappears before this इ; final त् is\nchanged to द् before the consonantal terminations and in the\nNom. Voc. and Acc. sing of the neuter.\n\n           विद्वस् m. a learned man.\n\nN.       विद्वान्     विद्वांसौ     विद्वांसः\nV.       विद्वन्       \"          \"\nA.       विद्वांसम्     \"         विदुषः\nI.       विदुषा      विद्वद्भ्याम्   विद्वद्भिः\nD.       विदुषे        \"         विद्वद्भ्यः\nAb.      विदुषः        \"          \"\nG.        \"         विदुषोः      विदुषाम्\nL.       विदुषि        \"         विद्वत्सु",
+  "model": "claude-3-5-sonnet-20241022",
+  "usage": {
+    "input_tokens": 1949,
+    "output_tokens": 651
+  }
+}

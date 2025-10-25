@@ -1,0 +1,8 @@
+{
+  "text": "119-120 j                    DECLENSION.\n\n                      मघवन् m.\n\nN.    मघवा          मघवानौ         मघवान:\nV.    मघवन्          \"             \"\nA.    मघवानम्         \"            मघीन:\nI.    मघीना         मघवभ्याम्      मघवभि:\n&c.    &c.\nL.    मघोनि         मघोनो:         मघवसु\n\n                     युवन्.\n\nN.    युवा          युवानौ         युवान:\nV.    युवन्           \"             \"\nA.    युवानम्          \"           यून:\nI.    यूना          युवभ्याम्      युवभि:\n&c.    &c.\nL.    यूनि          यूनो:          युवसु\n\n                      Neu.\n\n                बहुश्वन्, बहुयुवन्.\n\nN. V. A.    बहुश्व*        बहुश्वनी       बहुश्वानि\n            बहुयुव*        बहुयुनी        बहुयुवानि\nThe rest like the mas.\n\n120. अहन् n. meaning 'a day' changes its final न् (which becomes visarga finally to visarga) when followed by consonantal terminations or by nothing; in other cases it is declined like नामन्.\n\nN. V. A.    अह:           अह्नी, अहनी      अहानि\n    I.    अह्ना          अह्नोभ्याम्       अह्नोभि\n    D.    अह्ने             \"              अह्नेभ्य\n    Ab.   अह्न:             \"                 \"\n\nAlso the optional forms in र् in the Voc. sing.",
+  "model": "claude-3-5-sonnet-20241022",
+  "usage": {
+    "input_tokens": 1965,
+    "output_tokens": 489
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "text": "70]                DECLENSION.\n\nमधु neu. honey.\n\nN.  मधु          मधुनी         मधूनि \nV.  मधो or मधु'     „           . \"\nA.  मधु          \"            \"\nI.  मधुना         मधुभ्याम्      मधुभि\nD.  मधुने         „            मधुभ्य\nAb. मधुनः        „            \"\nG.   „           मधुनोः        मधुनाम्\nL.  मधुनि         „            मधुषु\n\nAdjectives ending in इ and उ when used with\nre optionally declined like mas. nouns in इ and\n. Gen. and Loc. singulars and Gen. Loc. du\n. white, pure; शुरु neu. heavy:—\n\nशुचि neu.\n\nN.  शुचि         शुचिनी         शुचीनि\nV.  शुचि or शुचे    „            „\nAc. शुचि         „            „\nI.  शुचिना        शुचिभ्याम्      शुचिभिः\nD.  शुचये or शुचिने   „          शुचिभ्यः\nAb. शुचेः or शुचिनः   „            „\nG.   „     „    शुच्योः or शुचिनोः शुचीनाम्\nL.  शुचौ or शुचिनि   „     „      शुचिषु\n\nगुरु neu.\n\nN.  गुरु          गुरुणी         गुरूणि\nV.  गुरु or गुरो     „            „",
+  "model": "claude-3-5-sonnet-20241022",
+  "usage": {
+    "input_tokens": 1855,
+    "output_tokens": 453
+  }
+}

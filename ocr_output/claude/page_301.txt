@@ -1,0 +1,39 @@
+§ 456-458 ]   CONJUGATION OF VERBS.                     295
+
+हिस् P. 'to kill.'
+
+Present.                                   Imperfect.
+
+1. हिनस्मि    हिन्वः    हिन्मः    अहिन्सम्    अहिन्व    अहिन्म 
+2. हिनस्सि    हिन्थः    हिन्थ    अहिन्-न्-द्    अहिन्तम्    अहिन्त
+3. हिनस्ति    हिन्तः    हिन्सन्ति   अहिनन्-द्    अहिन्ताम्    अहिन्न्
+
+Imperative.                               Potential.
+
+1. हिनवानि    हिन्साव    हिन्साम    हिस्याम     हिस्याव     हिस्याम
+2. हिनिहि     हिन्तम्    हिन्त     हिस्याः     हिस्यातम्   हिस्यात
+3. हिनन्तु    हिन्ताम्   हिसन्नु    हिस्यात्    हिस्याताम्   हिस्युः
+
+
+II. GENERAL
+OR
+NON-CONJUGATIONAL TENSES AND MOODS.
+
+§ 457. In the General Tenses and Moods and in the
+formation of verbal derivatives generally, the augment इ is
+prefixed ( necessarily or optionally ) to terminations beginning with any consonant except य in the case of certain roots.
+Such roots as take the augment इ necessarily are called Set
+(स + इट् i. e. with इ); such as take it optionally are called
+Wet ( वा + इट् ), and those that do not, are called Anit (अन् +
+इट् i. e. without इ ).
+
+§ 458. ( a ) Roots of more than one syllable, derived roots
+and roots of the 10th class are always Set.
+
+( b ) Of all monosyllabic roots ending in a vowel those given
+in the following couplet ( Kārikā ) are Set and the rest Anit.
+
+"ऊर्णुदूनेयोतिस्खनशोचुच्छौचुम्लुचुवृतौइनर्भीभिः ।
+कूर्द्व्यौ च विनेजनौऽन्येषु निपातः स्मृताः ॥"
+
+i. e. roots ending in long ऊ and long ॠ, the roots कू, कू, क्षु

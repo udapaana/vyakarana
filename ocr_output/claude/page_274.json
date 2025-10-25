@@ -1,0 +1,8 @@
+{
+  "text": "268                        SANSKRIT GRAMMAR.             • § 421-428\n\nIRREGULAR BASES.\n\nMany of the roots of the 2nd class are of irregular conjugation. We will treat of them in alphabetical order.\n\n§ 422. अद् P. 'to eat' forms the 2 and 3 sing. Imperf. as आदः and आदत् respectively. In other respects it is regular.\n\n            Present.                             Imperfect.\n1. अद्मि    अद्दः    अदः    1. आदम्    आदू    आदम्\n2. अत्सि    अत्थः    अत्थ   2. आदः    आतम्    आत\n3. अत्तिः    अत्तः    अदन्ति  3. आदत्    आताम्    आदन्\n\n            Imperative.                          Potential.\n1. अदानि    अदाव    अदाम    1. अद्याम्   अद्याव   अद्याम\n2. अद्धि    अत्तम्    अत्त    2. अद्याः   अद्यातम्  अद्यात\n3. अत्तु    अत्ताम्   अदन्तु   3. अद्यात्   अद्याताम्  अद्युः\n\n§ 423. अन् P. ' to breathe,' जक्ष् 'to eat,' रुद् P. 'to weep,' श्वस् P. 'to sigh' and स्वप् P. 'to sleep,' insert the augment इ between their final and the terminations beginning with any consonant except य; in the case of 2 and 3 sing. Imperf. they insert ई or आ; e.g.\n\nअन् ' P. to breathe.'\n\n            Present.                             Imperfect.\n1. अनिमि    अनिवः    अनिमः    आनम्     आनिव    आनिम\n2. अनिषि    अनिथः    अनिथ    आनीः-आनः  आनितम्   आनित\n3. अनिति    अनितः    अनन्ति   आनीत्-आनत् आनिताम्  आनन्\n\n            Imperative.                          Potential.\n1. अनानि    अनाव     अनाम     अन्याम्    अन्याव   अन्याम\n2. अनिहि    अनितम्   अनित     अन्याः    अन्यातम्  अन्यात\n3. अनितु    अनिताम्  अनन्तु    अन्यात्    अन्याताम् अन्युः",
+  "model": "claude-3-5-sonnet-20241022",
+  "usage": {
+    "input_tokens": 1949,
+    "output_tokens": 735
+  }
+}

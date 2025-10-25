@@ -1,0 +1,8 @@
+{
+  "text": "§ 456-458 ]   CONJUGATION OF VERBS.                     295\n\nहिस् P. 'to kill.'\n\nPresent.                                   Imperfect.\n\n1. हिनस्मि    हिन्वः    हिन्मः    अहिन्सम्    अहिन्व    अहिन्म \n2. हिनस्सि    हिन्थः    हिन्थ    अहिन्-न्-द्    अहिन्तम्    अहिन्त\n3. हिनस्ति    हिन्तः    हिन्सन्ति   अहिनन्-द्    अहिन्ताम्    अहिन्न्\n\nImperative.                               Potential.\n\n1. हिनवानि    हिन्साव    हिन्साम    हिस्याम     हिस्याव     हिस्याम\n2. हिनिहि     हिन्तम्    हिन्त     हिस्याः     हिस्यातम्   हिस्यात\n3. हिनन्तु    हिन्ताम्   हिसन्नु    हिस्यात्    हिस्याताम्   हिस्युः\n\n\nII. GENERAL\nOR\nNON-CONJUGATIONAL TENSES AND MOODS.\n\n§ 457. In the General Tenses and Moods and in the\nformation of verbal derivatives generally, the augment इ is\nprefixed ( necessarily or optionally ) to terminations beginning with any consonant except य in the case of certain roots.\nSuch roots as take the augment इ necessarily are called Set\n(स + इट् i. e. with इ); such as take it optionally are called\nWet ( वा + इट् ), and those that do not, are called Anit (अन् +\nइट् i. e. without इ ).\n\n§ 458. ( a ) Roots of more than one syllable, derived roots\nand roots of the 10th class are always Set.\n\n( b ) Of all monosyllabic roots ending in a vowel those given\nin the following couplet ( Kārikā ) are Set and the rest Anit.\n\n\"ऊर्णुदूनेयोतिस्खनशोचुच्छौचुम्लुचुवृतौइनर्भीभिः ।\nकूर्द्व्यौ च विनेजनौऽन्येषु निपातः स्मृताः ॥\"\n\ni. e. roots ending in long ऊ and long ॠ, the roots कू, कू, क्षु",
+  "model": "claude-3-5-sonnet-20241022",
+  "usage": {
+    "input_tokens": 1949,
+    "output_tokens": 706
+  }
+}

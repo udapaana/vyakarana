@@ -1,0 +1,8 @@
+{
+  "text": "392                    SANSKRIT GRAMMAR.          [ § 639-642\n\nशी to lie down      शाश्यते         शेशयीति or शेशेति\nश्वि to swell       शोभियते or शोष्यते  शोभयीति or शोभेति\nसन् to obtain      संभन्यते or सासन्यते संसनीति or संसति \nहन् to injure      जेघीयते          जघनीति or जघाति\n         in other cases जङ्घन्यते or जंघन्यते\n\nIV. NOMINAL VERBS.\n\n§ 640. Verbs are formed from nominal bases by means of certain affixes. These are not very much in common use and are generally used in the Present Tense. They have various meanings. They sometimes convey the notion of performing, practising, or using, or treating like the thing or quality expressed by the noun and are used transitively; sometimes they express the idea of acting, behaving or becoming like the person or thing expressed by the noun; and at others they yield the sense of desiring or wishing for the thing expressed by the noun. These will be arranged here under four heads, according to the affixes by which they are derived.\n\n(a) By means of the affix य (क्यच्) and\n        Conjugated in Parasm.\n\n§ 641. When the sense of 'wish' is to expressed, a nominal verb may be derived from any Subanta or nominal stem by affixing य to it. The derivative verbal base derived in this manner is conjugated in the Parasm. only.\n\n§ 642. Before this य,\n(1) final अ and आ are changed to ई; पुत्र आत्मनः इच्छति—पुत्री-यति (पुत्र+य=पुत्री+य+ति) 'he wishes for a son.'\n(2) final इ and उ are lengthened; कवि—कवीयति 'he wishes for a poet.'\n(3) final ऋ is changed to री; कर्तृ-कर्त्रीयति-",
+  "model": "claude-3-5-sonnet-20241022",
+  "usage": {
+    "input_tokens": 1949,
+    "output_tokens": 535
+  }
+}

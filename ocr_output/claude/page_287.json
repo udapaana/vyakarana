@@ -1,0 +1,8 @@
+{
+  "text": "§ 441-444 ]    CONJUGATION OF VERBS.                281\n\n                Imperative.                               Potential.\n\n1. हने    हनावहै    हनामहै              ध्रीय    ध्रीवहै    ध्रीमहै\n2. हन्व   हन्यातम्   हन्वम्              ध्रीया:   ध्रीयातम्   ध्रीष्वम्\n3. हताम्   हनाताम्   घ्रताम्              ध्रीत    ध्रीयाताम्   ध्रीरन्\n\n§ 442   हृ A. 'to take away'\n\n            Present.                                Imperfect.\n\n1. हृवे    हृवहे    हृमहे               अहृवै    अहृवहि    अहृमहि\n2. हृषे    हृवाथे    हृध्वे              अहृथा:   अहृवाथाम्   अहृध्वम्\n3. हृते    हृवते    हृवते               अहृत    अहृवाताम्   अहृवत\n\n            Imperative.                             Potential.\n\n1. हृवै    हृवावहै   हृवामहै             हृवीय    हृवीवहि    हृवीमहि\n2. हृष्व   हृवाथाम्   हृध्वम्             हृवीथा:   हृवीयाथाम्   हृवीध्वम्\n3. हृताम्   हृवाताम्   हृवताम्             हृवीत    हृवीयाताम्   हृवीरन्\n\n                THIRD OR जुहोत्यादि CLASS.\n\n§ 443. (a) The base is formed by reduplication of the root.\n\n(b) The third personal plural termination loses its त्.\n\n(c) The Imperfect third person plural termination is\nउस् (P.). before which the final आ of roots is dropped and the\nfinal इ, उ and ऋ, short or long. are guṇated.\n\nRules of Reduplication:—\n\n§ 444. The first vowel of a root together with the initial\nconsonant, if any, is reduplicated i.e. doubled, as पद्=पपद्,\nउष्—उउष्, &c. after reduplication.",
+  "model": "claude-3-5-sonnet-20241022",
+  "usage": {
+    "input_tokens": 1899,
+    "output_tokens": 656
+  }
+}

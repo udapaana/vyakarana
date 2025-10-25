@@ -1,0 +1,8 @@
+{
+  "text": "244                          SANSKRIT GRAMMAR.                    [§393\n\n                            Imperfect.      लट्\n\n§ 393. The augment अ is prefixed to roots in this [?].\nThis अ is replaced by आ in the case of roots beginning with a\nvowel*; this आ forms Vriddhi with an initial vowel; e. g.\nअ+इष्+त्=आ+इष्+अ+त्=ऐषत्; similarly ईक्ष्-ऐक्षत्; उक्ष्-\nऔक्षत्; ऊह्-औहत्; ऋच्छ्-आर्च्छत् &c.\n\n(a) When a preposition (उपसर्ग) is prefixed to a root, the\naugment अ or आ comes between the prep. and the root; e. g.\nइ with प्र, प्राहरत्.\n\nबुध् P. 'to know.'          ईक्ष् Ā. 'to see.'\n\n1. अबोधम्    अबोधाव    अबोधाम     ऐक्षे    ऐक्षावहि    ऐक्षामहि\n2. अबोधः     अबोधतम्   अबोधत     ऐक्षथाः  ऐक्षथाम्   ऐक्षध्वम्\n3. अबोधत्    अबोधताम्  अबोधन्     ऐक्षत    ऐक्षेताम्   ऐक्षन्त\n\n                              नी.\n\n1. अनयम्    अनयाव    अनयाम      अनये    अनयावहि    अनयामहि\n2. अनयः     अनयतम्   अनयत      अनयथाः   अनयेथाम्   अनध्वम्\n3. अनयत्    अनयताम्  अनयन्      अनयत    अनयेताम्   अनयन्त\n\n                           Imperative.    लोट्\n\nभू P. 'to be.'              लभ् Ā. 'to get.'\n\n1. भवानि      भवाव     भवाम       लभै     लभावहै    लभामहै\n2. भव or }    भवतम्    भवत        लभस्व   लभेथाम्    लभध्वम्\n   भवतात्  }\n3. भवतु or }  भवताम्   भवन्तु     लभताम्   लभेताम्    लभन्ताम्\n   भवतात्  }\n\n*आङ्माङीनाम् । Pāṇ. VI. 4. 102.",
+  "model": "claude-3-5-sonnet-20241022",
+  "usage": {
+    "input_tokens": 1959,
+    "output_tokens": 762
+  }
+}

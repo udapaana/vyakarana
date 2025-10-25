@@ -1,0 +1,8 @@
+{
+  "text": "54                           SANSKRIT GRAMMAR.                    [§ 87-89\n\nSECTION II.\n\nBASES ENDING IN CONSONANTS.\n\n§ 87. Bases ending in any of the first four letters of a class, and in ण्, र्, श्, ष्, स्, ह् and ह्. The declension of these bases consists, for the most part, in adding the general case terminations and observing the rules of sandhi.\n\n§ 88. Bases ending र्, न्, and स्.\n\n§ 89. (a) After final न् the सु of the loc. is changed to षु.\n(b) र् ( optionally changeable to र् ) may be optionally inserted between न् and सु.\n\nकमल् mas. fem. neu. naming the goddess of wealth or a lotus कमले कमलौ वा आवसताम्:—वा—पौ—वा )—\n\nMas. and Fem.\n\nN. & V. कमल्*     कमलौ        कमल:\nA       कमलम्       ,,           ,,\nI.      कमला       कमलभ्याम्     कमलभि:\nD.      कमले        ,,           कमलेभ्य:\nAb.     कमल:        ,,           ,,\nG.       ,,         कमलो:        कमलाम्\nL.      कमलि        ,,           कमलषु\n\nDecline similarly सुगण्, सुगणन्, m. f. one who counts well, द्वार् f. a door and other words ending in र् or न्. The loc. plu. of सुगण् is सुगण्षु-पटसु,-पट्षु. The Nom. sing. of द्वार् is द्वा:.\n\nNeu.\n\nN. N. & A.     कमल्      कमली      कमलि\nThe rest like the mas.\n\n* See § 91. a.",
+  "model": "claude-3-5-sonnet-20241022",
+  "usage": {
+    "input_tokens": 1949,
+    "output_tokens": 508
+  }
+}

@@ -1,0 +1,28 @@
+348                 SANSKRIT GRAMMAR.                 [ 565-567
+
+Exceptions:—
+
+(1) छ and ज, when Parasmaipadi, belong to the Fifth Variety.
+
+(2) Roots ending in क्र preceded by a conjunct consonant may take Fourth or Fifth Form in the Atmanepada.
+
+(3) भञ्ज् and ष् Par. take the Fifth Form only. ष् A. may take the Fourth or the Fifth Form.
+
+(4) Of Set roots द्र and those ending in क्र (long) when Atm. belong to either (4th or 5th Variety). स्तु, and क्रु when A. belong to the Fourth.
+
+§ 566 (a) In the Parasmaipada the radical vowel takes its Vṛddhi substitute; नी-अनैषीत्; कृ-अकारषीत्; भञ्ज्-अभाक्षित्, &c.
+
+(b) In the Atmanepada, Guṇa is substituted for final ऋ or उ, short or long; final क्र and the penultimate vowel remain unchanged; final क्र is changed to ईर् or ऊर् in accordance with § 394; चि-अचेष्, नी-अनेष्, स्तु-अस्तोष्, सु-असोष्, छ see below, भिद्-अभित्, स्तु-अस्तोष्, दु-अदुष्.
+
+(c) The Penultimate क्र of Anit roots is optionally changed to र; छद्-अकार्षीत् or अकाषीत्.
+
+§ 567. After a short vowel, and after a consonant except a nasal or semi-vowel, the स् of terminations beginning with स्स and स्य is dropped; हु-अहुत 3 sing.; हु-अहुथाः 2 sing.; क्षिप्-अक्षिप्थाः जहित्; छुप्-अछुट 3rd sing. &c.
+
+Paradigms.
+
+                             पच्
+1 अपाक्षम्    अपाक्ष्व    अपाक्ष्म     अपक्षि    अपक्ष्वहि    अपक्ष्महि
+2 अपाक्षीः    अपाक्तम्    अपाक्त      अपक्थाः    अपक्षाथाम्   अपक्ष्वम्
+3 अपाक्षीत्   अपाक्ताम्   अपाक्षुः    अपक्त     अपक्षाताम्   अपक्षत
+
+Conjugate similarly other Anit roots ending in consonants; क्षिप्-अक्षेप्सम् P. 1. sing.; अक्षिप्सि Atm. 1. sing.; भुज्-अभोक्षम्,

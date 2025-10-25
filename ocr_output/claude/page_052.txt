@@ -1,40 +1,40 @@
-46                                SANSKRIT GRAMMAR.                    [§77
+46                                   SANSKRIT GRAMMAR.                     [§77
 
-सुधी (सुधु ध्यायति) m. and f. also according to 
-                                    Kaiyata.
+धुभी (सुभु ध्यायते) m. and f. also according to
+                                     Kaiyata.
 
-N. V.  सुधीः         सुधियौ       सुधियः
-A.     सुधियम्        "           "
-I.     सुधिया        सुधिभ्याम्     सुधिभिः
-D.     सुधिये         "          सुधिभ्यः
-Ab.    सुधियः         "           "
-G.      "           सुधियोः      सुधियाम्
-L.     सुधियि         "          सुधिषु
+N. V. धुभिः        धुभियौ.        धुभियः
+A.  धुभियम्        "              "
+I.  धुभिया        धुभिभ्याम्       धुभिभिः
+D.  धुभिये         "              धुभिभ्यः
+Ab. धुभियः         "              "
+G.   "            धुभियोः         धुभियाम्
+L.  धुभियि         "              धुभिषु
 
-Decline similarly सुधी, जुग्धी, पराधी, नी &c. mas. and fem.
-The L. sing. of नी is नियाम्.
+Decline similarly धुनी, गुरुद्री, परमद्री, नी &c. mas. and fem.
+The L. sing. of नी is निभाम्.
 
 स्वभू mas. (स्वेन भवति) self-existent.
 
-N. V.  स्वभूः         स्वभुवौ       स्वभुवः
-A.     स्वभुवम्        "           "
-I.     स्वभुवा        स्वभूभ्याम्    स्वभूभिः
-D.     स्वभुवे         "          स्वभूभ्यः
-Ab.    स्वभुवः         "           "
-G.      "           स्वभुवोः      स्वभुवाम्
-L.     स्वभुवि         "          स्वभूषु
+N. V. स्वभूः        स्वभुवौ         स्वभुवः
+A.  स्वभुवम्        "              "
+I.  स्वभुवा        स्वभुभ्याम्       स्वभुभिः
+D.  स्वभुवे         "              स्वभुभ्यः
+Ab. स्वभुवः         "              "
+G.   "            स्वभुवोः         स्वभुवाम्
+L.  स्वभुवि         "              स्वभुषु
 
-Decline similarly स्वभ्भू, परभू, (परभूतास्तो दूरम्) दूरभू, कारभू
+Decline similarly स्वर्भू, परमभू, (परमभ्रातो दूरभ) दूरभू, कारभू
 &c. mas. and mas. and fem.
 
-सुधि neu. like वारि.
+धुभि neu. like वारि.
 
-N. A.  सुधि          सुधिनी        सुधीनि
-V.     सुधि-धे        "           "
-I.     सुधिया-सुधिना &c. optionally like the mas.
-before the vowel terminations. G. Dual सुधियोः-नोः.
+N. A. धुभि         धुभिनी          धुभीनि
+V.  धुभि-ये         "              "
+I.  धुभिया-धुभिना &c. optionally like the mas
+before the vowel terminations. G. Dual धुभियोः-नोः.
 
-N. A.  स्वभु         स्वभुनी       स्वभूनि  
-V.     स्वभु-भौ       "           "
-I.     स्वभुवा-ना &c. optionally like the mas. before
+N. A. स्वभु        स्वभुनी          स्वभुनि
+V.  स्वभु-भौ        "              "
+I.  धुभुवा-ना &c. optionally like the mas. before
 the vowel termination.

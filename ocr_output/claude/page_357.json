@@ -1,0 +1,8 @@
+{
+  "text": "§ 568-571 ]     CONJUGATION OF VERBS.                   351\n\nIrregular Aorist or the Fourth Form.\n\n§ 568. दा, धा, and roots assuming the forms of दा and धा (Vide\n§ 459 ) and स्था substitute इ for their final vowel in the Atm.\nThis इ does not take its Guna substitute. In the Parasm. these\nroots take the first Variety ( vide § 532 ).\n\n§ 569. हन् ( with आ A. ) drops its nasal before the termi-\nnations.\n\nIt takes the Fifth Form optionally both in the Parasm. and\nAtm. in which case कुष् is substituted for it.\n\n§ 570. गम्, and यम् with उप 'to marry,' optionally drop\ntheir nasal, when they take the Atm. terminations. यम् when\nit means 'to give out' ( as the faults of others ) necessarily\ndrops its nasal.\n\n§ 571. The third person sing. of पद् is अपादि. कुष् 4. A.\ntakes the termination इ optionally in the 3rd sing. before\nwhich the penultimate र् takes Guna.\n\nParadigms.\n\n                हन् A ( with आ )\n1 आहषि        आहस्वहि        आहस्महि\n2 आहधा:       आहसाधाम्       आहध्वम्\n3 आहत        आहसाताम्       आहसत\n\n                यम् with उद् & आ.\n1 उदयषि       उदायस्वहि      उदायस्महि\n2 उदयधा:      उदायसाधाम्     उदायध्वम्\n3 उदयत       उदायसाताम्     उदायसत\n\n                गम् with सम्.\n1 समगषि       समगस्वहि       समगस्महि\n2 समगधा:      समगसाधाम्      समगध्वम्\n3 समगत       समगसाताम्      समगसत",
+  "model": "claude-3-5-sonnet-20241022",
+  "usage": {
+    "input_tokens": 1949,
+    "output_tokens": 557
+  }
+}

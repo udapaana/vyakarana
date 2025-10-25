@@ -1,0 +1,16 @@
+390                    SANSKRIT GRAMMAR             [ § 590-592
+
+§ 590. There are three kinds of Passive Verbs:—( 1 ) the -ve properly so called ( कर्मणि प्र० ), as रामेण हव्यं दीयते; ( 2 ) an Impersonal Passive. ( भावे प्र० ), as गम्यते 'it is gone;' and ( 3 ) a Reflexive ( कर्मकर्तरि प्र० ), as ओदनः पच्यते 'rice is cooked.'
+
+CONJUGATIONAL TENSES.
+
+§ 591. Formation of base:—
+( a ) य is added to the root, which is weak i. e. no Guṇa or Vṛddhi substitute takes place before it; नी—नीय, भिद्—भिद्य
+( b ) Before य roots undergo the same changes as they do before the Par. terminations of the Benedictive; जि—जीय, छ्—छिय, स्थ—स्थीय्, इ—अर्य्, क्र—कीर्य्, पृ—पूर्य्, बन्ध्—बध्य, ( but निन्द्-निन्द्य ), वच्—उच्य, मह्—मह्य, &c.
+( c ) The final आ ( original or substituted ) of दा 'to give,' दै, धौ, धा, पै, मा, गै, पा 'to drink,' सो and हा 'to abandon,' is changed to ई; in other cases it remains unchanged; दा and दो—दीय, गै-गीय, हा— हीय; but दा 'to cut, to purify'—दाय. ज्ञा—ज्ञाय. ध्यै—ध्याय.
+
+§ 592. The passive base is conjugated like a root of the 4th class in the Atm.; e. g.
+
+"It might even be suspected, that the occasional assumption of an Intransitive signification and a Parasmaipada inflexion by a passive verb, was the cause which gave rise to a 4th class of Primitive verbs as distinct from the Passive. Instances are certainly found of passive verbs taking Parasmaipada terminations, and some passive verbs ( e. g. jāyate, 'he is born,' fr. jan; pūryate, 'he is filled,' fr. pṛ.; and tapyate 'he is heated,' fr. tap ) are regarded by native grammarians as Atmane verbs of cl. 4. Again, many roots appear in class 4 as Intransitive verbs, which also appear in some one of the other nine as Transitive. For example, yuj, 'to join' when used in a Transitive sense, is conjugated either in cl. 7, or in the Causal; when in an Intransitive, in cl. 4. So also puṣh, 'to nourish,' kṣhubh, 'to agitate;' Kliśh 'to vex'; Sidh, 'to accomplish.'
+
+Monier Williams.

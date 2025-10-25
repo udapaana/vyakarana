@@ -1,0 +1,8 @@
+{
+  "text": "416                           SANSKRIT GRAMMAR.                    [§ 664-666\n\nवृतिभेद्यपेक्षित्यप्र क्रयन्ताब्र विभाषया ॥\nवा श्रुतादेर्डिङ्कृप्यः स्यसनोऽङ्टि कृप्तेः ॥ ३५ ॥\nपरस्मैपदमन्यस्यातथा सिध्यमोगतः ॥\n\nCHAPTER XIV.\n\nVERBAL DERIVATIVES\nor\nPRIMARY NOMINAL BASES.\n\nDerived by means of the Kṛt Affixes.\n\n§ 665. The Kṛt affixes (Vide § 337) are added to roots or to their modified forms to form nouns, adjectives, and indeclinables; e. g. छ-कार, कर्तृ, करण, कुम्भ, करिष्यत्, बक्तृभत्, छत्वा कर्तुम् &c. These are called Kṛdantas or Primary Nominal Bases as distinguished from the Secondary Derivatives formed with the Taddhita affixes.\n\n§ 666. There is a peculiar class of Kṛt or Primary affixes technically designated by Sanskrit grammarians—Uṇādi or those beginning with the affix उण् i. e. the affix उ with the mute or indicatory letter ण्, so called from the words कारः, वारः &c. in the first Sūtra being derived with the affix. These Uṇādi affixes form primary nouns, like other Kṛt affixes form verbal roots, but are classed separately because their application is limited, because the nouns derived by their means are either formed irregularly, or the connection between their senses and the meanings of roots from which they are supposed to be derived is not so clearly discernible as in the case of other primary derivatives; e. g. अश्वते अश्वान् स्वामीतीति वा अश्वः 'a horse' which is derived either from अश्वृ 'to pervade,' or from अश्वन् 'road;' and आपृ with ति, &c. कारु 'an artisan' from कृ 'to do,' &c.",
+  "model": "claude-3-5-sonnet-20241022",
+  "usage": {
+    "input_tokens": 1967,
+    "output_tokens": 600
+  }
+}

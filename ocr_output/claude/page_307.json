@@ -1,0 +1,8 @@
+{
+  "text": "§ 481-484 ]     CONJUGATION OF VERBS.     301\n\n§ 481. ङ is to be prefixed, or not, or optionally to the terminations given above, according as the root is Set or Anit or Wet. Before the terminations the final vowel and the penultimate short take their Guna substitute.\n\n§ 482. In the Conditional the augment अ is prefixed to the root as in the Imperfect.\n\n                Paradigms\n\n                Second Future\n\nशक्ष् 5 P.                     लभ् P.1 Â.\n\n1. शक्ष्यामि   शक्ष्यावः    शक्ष्यामः     1. लप्स्ये    लप्स्यावहे    लप्स्यामहे\n2. शक्ष्यसि    शक्ष्यथः    शक्ष्यथ      2. लप्स्यसे   लप्स्येथे     लप्स्यध्वे\n3. शक्ष्यति    शक्ष्यतः    शक्ष्यन्ति    3. लप्स्यते   लप्स्येते     लप्स्यन्ते\n\n                Conditional.\n\n1. अशक्ष्यम् अशक्ष्याव अशक्ष्याम 1. अलप्स्ये   अलप्स्यावहि   अलप्स्यामहि\n2. अशक्ष्यः अशक्ष्यतम् अशक्ष्यत 2. अलप्स्यथाः अलप्स्येथाम्   अलप्स्यध्वम्\n3. अशक्ष्यत् अशक्ष्यताम् अशक्ष्यन् 3. अलप्स्यत  अलप्स्येताम्   अलप्स्यन्त\n\n        सह्—सहिष्यामि—थे; असहिष्यम्—थे &c.\n\n                IRREGULAR BASES.\n\n§ 483. गम् P. हन् and Anit roots ending in क्र admit ङ in the Second Future and the Conditional: गम् P ( also that substituted for दृ 'to go' and with आधि 'to remember' ) also admits it in the Desiderative: गमिष्यामि, हनिष्यामि, करिष्यामि, &c. Sec. Fu. 1. sing. अगमिष्यम्, अकरिष्यम्, अहनिष्यम्, &c. Con. 1. sing.\n\n§ 484. The roots कृ, धृ, भृ, स्मृ and स्वप्न् optionally take Parasmaipada terminations in the Second Future, Conditional and the Desiderative. They reject the augment ङ when Parasmaipadi; करिष्ये, कर्स्ये, कर्स्यामि; धरिष्ये, धर्स्यामि; भरिष्ये,",
+  "model": "claude-3-5-sonnet-20241022",
+  "usage": {
+    "input_tokens": 1949,
+    "output_tokens": 854
+  }
+}

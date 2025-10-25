@@ -1,0 +1,8 @@
+{
+  "text": "§ 68-69 ]                DECLENSION.\n\n§ 68. Several adjectives ending in अ follow the declension\nof pronouns, for which see the chap. on pronouns.\n\nNouns ending in इ and उ mas. fem. and neu.\n\n§ 69. हरि &c.—\n\nहरि mas. Hari.\n\n                Sing.          Dual,           Plural.\nN.    हरिः           हरी             हरयः\nV.    हरे            ,,              ,,\nA.    हरिम्          ,,              हरीन्\nI.    हरिणा         हरिभ्याम्         हरिभिः\nD.    हरये          ,,              हरिभ्यः\nAb.   हरेः           ,,              ,,\nG.    ,,            हर्योः           हरीणाम्\nL.    हरौ           ,,              हरिषु\n\nमति fem. intellec'\n\n                Sing.          Dual,           Plural.\nN.    मतिः           मती             मतयः\nV.    मते            ,,              ,,\nA.    मतिम्          ,,              मतीः\nI.    मत्या          मतिभ्याम्         मतिभिः\nD.    मतये or मत्ये    ,,              मतिभ्यः\nAb.   मतेः or मत्याः    ,,              ,,\nG.    मतेः or मत्याः    मत्योः           मतीनाम्\nL.    मतौ or मत्याम्    ,,              मतिषु\n\nगुरु mas. preceptor.\n\nN.    गुरुः           गुरू             गुरवः",
+  "model": "claude-3-5-sonnet-20241022",
+  "usage": {
+    "input_tokens": 1929,
+    "output_tokens": 465
+  }
+}

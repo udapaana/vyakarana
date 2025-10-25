@@ -1,0 +1,8 @@
+{
+  "text": "§ 117-118 ]              DECLENSION.\n\nनामन् neut.\n\nN.    नाम          नामनी-नामी           नामानि\nV.    नाम-न्          „                   „\nA.    नाम             „                   „\nI.    नाम्ना         नामभ्याम्            नामभि:\nD.    नाम्ने          नाम्भ्याम्           नामभ्य:\nAb.   नाम्न:            „                  „\nG.      „            नाम्नो:              नाम्नाम्\nL.    नाम्नि-नामि       „                 नामसु\n\nDecline similarly द्योमन् the sky, श्लोमन् the bladder,\nचर्मन् a hymn, दामन् lustre, a house, &c.\n\nIrregular Bases.\n\n§ 118. पूषन्, अर्यमन् and nouns ending in इन् lengthen आ\nin the Nom. sing. only; the न् of इन् is changed to र्,\ne. g.\n\nपूषन् mas., the sun.\n\nN.    पूषा           पूषणौ               पूषण:\nV.    पूषन्            „                   „\nA.    पूषणम्           „                 पूषण्\nI.    पूष्णा         पूषभ्याम्           पूषभि:\nD.    पूष्णे           „                पूषभ्य:\nAb.   पूष्ण:           „                   „\nG.      „           पूष्णो:             पूषणाम्\nL.    पूष्णि-षणि       „                 पूषसु\n\nइन्द्रहन् mas., 'name of Indra'.\n\nN.    इन्द्रहा        इन्द्रहणौ           इन्द्रहण:\nV.    इन्द्रहन्          „                   „\nA.    इन्द्रहणम्         „                इन्द्रह:\nI.    इन्द्रघ्ना      इन्द्रहभ्याम्       इन्द्रहभि:",
+  "model": "claude-3-5-sonnet-20241022",
+  "usage": {
+    "input_tokens": 1967,
+    "output_tokens": 607
+  }
+}

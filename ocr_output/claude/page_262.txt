@@ -1,0 +1,40 @@
+256                           SANSKRIT GRAMMAR.              [§ 405-409
+
+§ 405. Before strong terminations the penultimate short and
+the final vowel of the base take their Guna substitute.
+
+                  Fifth, Eighth and Ninth classes
+
+§ 406. * उ and उ are added on to the roots of the 5th and
+8th classes respectively before the terminations.
+
+§ 407 The final उ of the base is optionally dropped
+before र and म् if it be not preceded by a conjunct consonant.
+It is changed to उव् before a weak termination beginning with a
+vowel, if preceded by a conjunct consonant and to उ in other
+cases. The हि of the Imperative 2nd per. sing. is dropped after
+उ not preceded by a conjunct consonant.
+
+§ 408. † In the ninth class ना is inserted between the root
+and the terminations ना becomes न् before the weak terminations
+beginning with a vowel, and नी before the weak terminations
+beginning with a consonant.
+
+§ 409. (a) The penultimate nasal of a root is dropped
+before ना &c. as ग्रथ्नाति, ग्रथ्निषे, ग्रथ्नीमः &c. from ग्रन्थ् 'to
+put together.'
+
+(b) I. the case of roots ending in a consonant, the impera-
+tive second person singular termination is आन instead of
+हि; as चुराण from चुर् 'to steal'.
+
+                         Paradigms.
+                         5th Class.
+सु P. A. 'to press out juice,' &c.
+P.                     Present.                     A.
+1. सुनोमि सुनुवः, सुन्वः सुनुमः, सुन्मः  सुन्वे  सुनुवहे, सुन्वहे सुनुमहे, सुन्महे
+2. सुनोषि   सुनुथः     सुनुथ    सुनुषे   सुन्वाथे    सुनुध्वे
+3. सुनोति   सुनुतः     सुन्वन्ति  सुनुते   सुन्वाते    सुन्वते
+
+* स्नाद्भ्यः यु: । तनादिभ्यः उ । Pāṇ. III. 1. 73, 79.
+† कृपादिभ्यः ना । Pāṇ. III. 1. 81.

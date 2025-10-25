@@ -1,0 +1,36 @@
+§ 630-633 ]     CONJUGATION OF VERBS.     387
+
+( b ) नी is inserted after the अ of the reduplicative syllable
+( which then remains unchanged ) in the case of the roots बन्ध्,
+सन्ध्, स्कन्ध्, भ्रन्ध्, कन्ध्, पन्, पद् and स्कन्द्; बन्ध्—बध्न्ध्—बीबन्ध्य-
+बनीबन्ध्यते; सन्ध्—सध्न्ध्—सनीसन्ध्यते; स्कन्ध्=दनीस्कन्ध्यते, भ्रन्ध्=बनीभ्रन्ध्यते.
+कन्ध्=कनीकन्ध्यते, पन्=पनीपन्यते, पद्=पनीपद्यते, स्कन्द्=कनीस्कन्द्यते.
+
+§ 631. When a root contains a penultimate ऋ ( ऋ ) original
+or brought in by samprasarana the syllable री is inserted between
+the अ of the reduplicative syll. ( which remains short against
+§ 629 b ) and the radical consonant; दृप्=दृप्य=बदृप्य=बरीदृप्यते,
+मृच्छ=मृच्छय=परीमृच्छयते, दृह्=चरीदृह्यते, मृह्=चरीमृह्यते
+
+Conjugation of the Atm. Freq. Base.
+
+§ 632. In the Conjugational Tenses the Atm. Freq. Base
+is conjugated like the Conjugational base of the 4th class in Atm.
+In the General Tenses, and in all the Tenses of the Passive, the
+base loses its final अ when the final य् is preceded by a vowel
+and drops the य् itself, when it is preceded by a consonant.
+As regards the Perfect, the Fre. Base takes the Periphrastic
+Perfect. In the Aorist the Atm. terminations of the 5th
+form are added. In the remaining Tenses the Atm. termina-
+tions with the intermediate इ prefixed to them are added
+as usual. The passive is also formed like the Passive of
+derived verbs.
+
+§ 633. Paradigms:—The 3 sing. of बोभुद्य the Atm. Freq,
+Base of the root बुध् and देदीप्य that of the root दी.
+
+Tenses.          Active.                     Passive.
+Present.    बोभुद्यते    देदीप्यते        बोभुद्यते    देदीप्यते
+Imperfect.  अबोभुद्यत   अदेदीप्यत      अबोभुद्यत   अदेदीप्यत
+Imperative.  बोभुद्यताम्   देदीप्यताम्    बोभुद्यताम्   देदीप्यताम्
+Potential.   बोभुद्येत    देदीप्येत        बोभुद्येत    देदीप्येत

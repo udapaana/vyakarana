@@ -1,0 +1,8 @@
+{
+  "text": "96                        SANSKRIT GRAMMAR.            . [ § 144-146\n\n§ 144. The affix आति is added to तद्, यद् and किम् to show\nnumber or measure e. g. तति 'so many', यति 'as many,' and\nकति ' how many'. These are declined in the plural only, and\ntake no termination in the Nom. and Acc.; e. g. Nom. and\nAcc. कति Inst. कतिभिः the rest like हरि.\n\n8—Reciprocal Pronouns.\n\n§ 145. Reciprocity is expressed by the repetition of the\npronominal adjectives अन्य, इतर and पर; e. g. अन्योन्य, इतरेतर,\nand परस्पर. These are generally used in the sing. and also\nadverbially e. g. परस्परेण स्पृहणीयशोभौ &c. ( Rag. VII. 14);\nपरस्परं विवद्न्ते &c. They are more commonly used as the first\nmembers of compounds; as अन्योन्यक्रोधाजननात् बध्वव &c. (Ku.\nI, 44; इतरेतरयोगाः (Sis. X. 24.) &c.\n\n9- -Possessive Pronouns.\n\n§ 146. Possessive pronouns are formed by means of the\nsecondary affix ईय added to तद्, एतद्, अस्मद्, and युष्मद्; and\nअ and ईन added to अस्मद्, and युष्मद्, changed respectively\nto मामक् and तावक् in the sing. and आत्माक् and योस्माक् in the\nplu. before these; e. g.\n\nअस्मद्\nMas.\nSing.                                Plural.\nमदीय 'my, mine'                      अस्मदीय 'our, ours'\nमामक     \"                           आत्माक    \"\nमामकीन    \"                          आत्माकीन   \"\n\nFem.\nSing.                                Plural.\nमदीया 'my, mine'                     अस्मदीया 'our, ours'\nमामिका    \"                          आत्माकी     \"\nमामकीना   \"                          आत्माकीना    \"",
+  "model": "claude-3-5-sonnet-20241022",
+  "usage": {
+    "input_tokens": 1967,
+    "output_tokens": 631
+  }
+}

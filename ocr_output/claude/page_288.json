@@ -1,0 +1,8 @@
+{
+  "text": "282                SANSKRIT GRAMMAR.                [§ 444-449\n\nNote—The first syllable of a reduplicated root is called 'the reduplicative syllable; e. g. the first व in ववच्, or first च in चक्रम्.\n\n§ 445. If a conjunct consonant begins a root, the first consonant only with the following vowel is reduplicated; e. g. प्रच्छ-पप्रच्छ.\n\n(a) If the first member of a conjunct consonant, however, be a sibilant (श, ष or स्) and the second a hard consonant, the hard consonant is reduplicated: स्पृश्-पस्पृश्, स्खल्-चस्खल्; but स्वद्-सस्वद् &c.\n\n§ 446. A radical aspirate (2nd or 4th letter of a class) is changed to its corresponding unaspirate in the reduplicative syllable; as चिह्-चिचिह्, धू-दुधू, भज्-बुभज्, &c.\n\n§ 447. The guttural of the reduplicative syllable is changed to the corresponding palatal (subject to the above rule) and ह to ज; e. g. कर्-चकर्-चकर्, खद्-चखद्-चखद्=चखद्, हु-जुहु &c.\n\n§ 448. A radical long vowel becomes short and ऋ is changed to अ in the reduplicative syllable; as पा-पपा, नी-निनी, छ्-चछ &c.\n\n§ 449. The penultimate ए or ऐ and ओ or औ become इ and उ respectively in the reduplicative syllable: सेव्-सिसेव्, शोक्-शुशोक्, &c.\n\nParadigms.\n\nकि P. 'to know.'\n\nPresent.                          Imperfect.\n\n1. विकेमि विकिवः विकिमः      अविक्यम्   अविकिव   अविकिम्\n2. विकेषि विकिथः विकिथ      अविकेः    अविक्तम्  अविक्त\n3. विकेति विकितः विक्यति     अविकेत्   अविक्ताम् अविक्युः",
+  "model": "claude-3-5-sonnet-20241022",
+  "usage": {
+    "input_tokens": 1949,
+    "output_tokens": 631
+  }
+}

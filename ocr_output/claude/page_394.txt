@@ -1,0 +1,40 @@
+388                    SANSKRIT GRAMMAR.               [§ 633-637
+
+Tense.            Active.                     Passive.
+Perfect.     बोबुधिषे,&c.    देदीयाचिषे,&c.   Like the Active.
+Aorist.      अबोबुधिषे      अदेदीयिषे     अबोबुधिषे   अदेदीयिषि
+F. Future.    बोबुधिषिता     देदीयिषिता     Like the Active.
+Sec. Future.  बोबुधिष्यते    देदीयिष्यते            "
+Conditional.  अबोबुधिष्यत    अदेदीयिष्यत            "
+Benedictive.  बोबुधिषीष्ट    देदीयिषीष्ट            "
+
+N. B. Irregular Atm. Fre. Bases will be given under § 639.
+
+
+PARASMAIPADA FREQUENTATIVES.
+
+The Parasm. Frequentative is peculiar to the Veda. Its
+forms are very rarely to be met with in Classical composition.
+
+Formation of the Base.
+
+§ 634. The root is reduplicated according to the general
+rules of reduplication; the vowels इ and उ of the reduplicative
+syllable take their guṇa substitute; and the अ of the redupli-
+cative syllable is lengthened; दा-दृदा-दादा; भि-भेभि-बोभि; भु-भुभु-
+बोभु; कृ-चकृ-चाकृ; विद् विवेद्-वेविद्; जुप्-जुजुप्-जोजुप् &c.
+
+§ 635. The rules § 630(a)(b) apply likewise to the
+Parasm. Frequen. Base; यम्-येयम् or ऐयम्; वह्-वेवह् or एवह्;
+वस्-वु-वनीवस्चु &c.
+
+§ 636. र् or the syllable रि or री is inserted between the अ
+of the reduplicative syllable and the radical consonant of roots
+ending in short अ or having it for their penultimate; similarly
+ल् or लि or ली is inserted in the case of कृप्; उत्=उरुत्-वरीत् or
+वरिवृत् or वरीवृत्; छद्-चछद्, or चरिछद् or चरीछद्; कृप्-चकृप्, or चलिकृप्
+चलीकृप्; टुप्-दुटुप्, दरिटुप् or दरीटुप्.
+
+Conjugation of the Parasm. Fre. Base.
+
+§ 637. In the Conjugational Tenses the Parasm. Frequentatives

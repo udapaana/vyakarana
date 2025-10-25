@@ -1,0 +1,8 @@
+{
+  "text": "14                                 SANSKRIT GRAMMAR.                    [ § 343\n\nSECTION III.\n\nAFFIXES FORMING ADVERBS.\n\nअक (अकच्)—is inserted before the final vowel of indeclinables·\n        without any change of meaning ; उच्चै:–उच्चकै:; नीचै:-\n        नीचकै:\n\nएन—is added to nouns indicating 'a direction' in the sense of\n        'not far from'; पूर्वेण ग्रामं 'to the east of the village\n        not far from it'; अपरेण ग्रामं, &c.\n\nतस् (तसि)—has the sense of the Ablative; आदित: 'from the\n        beginning,' मध्यत:, स्वत:, वर्णत: &c.; sometimes this is\n        added in the sense of the Gen.; as देवा अर्जुनतस्भवन्\n        'the gods declared themselves on the side of Arjuna';\n        (तलस्)–परित:· 'on all sides'; अभित: 'on both sides'.\n\nना—विना 'without', नाना 'in various ways', &c.\n\nवत्—*is affixed in the sense of 'equally with' or 'like to' when\n        the equality or likeness refers to an action; ब्राह्मणेन\n        तुल्यं शाक्यप्रव्रजिते; but पुत्रेण तुल्य: स्थूल: and not पुत्रवत्\n        स्थूल:; similarly प्रह्रियवत्; or (2) 'as in the case of that'\n        मधुरायामिव मथुरावत् तत्र प्राकार:; चैत्रस्य इव चैत्रवत् (वैत्रस्य\n        गाव:); (3) विधिवद्होति विधिवत् पूज्यते.\n\nशस्—अल्पश: 'little by little'; बहुश: &c.\n\nच्वि—is added to nouns or indeclinables to express that a person\n        or thing, not being like what is denoted by the base to\n        which it is added, becomes or is made like it.\n\n* तेन तुल्यं क्रिया चेत्तौ: । तत्र तस्येव । तद्धीदम् । Pāṇ. V. 1. 115-117\nकुत्सितायामे सम्पवक्तरि च्वि: । Pāṇ. V. 4. 50. अशुततन्त्राव इति\nवक्तव्यम् । Vārt",
+  "model": "claude-3-5-sonnet-20241022",
+  "usage": {
+    "input_tokens": 1949,
+    "output_tokens": 737
+  }
+}

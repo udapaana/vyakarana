@@ -1,0 +1,8 @@
+{
+  "text": "82                                SANSKRIT GRAMMAR.               [ § 126-128\n\nWORDS OF IRREGULAR DECLENSION.\n\n§ 126. अस्थि n. a bone, दधि n. curds, सक्थि n. a thigh and \nअक्षि n. an eye, become अस्थ्न्, दध्न्, सक्थ्न्, and अक्ष्न् respec-\ntively before the vowel terminations beginning with the I. \nsing.* and then they follow the declension of nouns in न्; in \nother respects they are declined like वारि.\n\nअस्थि.\n\nN.    अस्थि      ᴗ        अस्थिनी          अस्थीनि\nV.    अस्थे-स्थि        \"                \"\nA.    अस्थि           \"                \"\nI.    अस्थ्ना         अस्थिभ्याम्         अस्थिभिः\nD.    अस्थ्ने         अस्थिभ्याम्         अस्थिभ्यः\nAb.   अस्थ्नः           \"                \"\nG.      \"           अस्थ्नोः           अस्थ्नाम्\nL.    अस्थि-स्थ्नि        \"              अस्थिषु\n\nदधि and the rest should be similarly declined.\n\n§ 127. अप् f. water, is declined in the plural; it lengthens\nits अ in the N. and changes its प् to द् before consonantal\nterminations. आपः-आपः-आप्भिः-आद्भ्यः-आद्भ्यः-आपाम्-आप्सु.\n\n§ 128. The words जरा f. old age, अजर m. one not getting\nold and निजर a god, optionally assume the forms जरस्, अजरस्:\nand निजरस् before the vowel terminations:—\n\nजरा.\n\nN.    जरा          जरे, जरसौ         जराः, जरसः\nV.    जरे              \"                \"\nA.    जराम्, जरसम्       \"                \"\nI.    जरया, जरसा      जराभ्याम्          जराभिः\nD.    जरायै, जरसे        \"              जराभ्यः\nAb.   जरायाः, जरसः      \"                \"\n\n* अस्थिदधिसक्थ्यक्ष्णामनुञाच । VII. 1. 75.",
+  "model": "claude-3-5-sonnet-20241022",
+  "usage": {
+    "input_tokens": 1935,
+    "output_tokens": 699
+  }
+}

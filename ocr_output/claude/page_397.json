@@ -1,0 +1,8 @@
+{
+  "text": "§ 638-639 ]    CONJUGATION OF VERBS.                      391\n\n                Benedictive.\n\n1 बोभूयासम्     बोभूयास्     बोभूयास्\n   &c.          &c.          &c.\n\nTenses.         Atmanepada.             Passive.\n\nPre.           बोभूते                   बोभूयते\nImperf.        अबोभूत                  अबोभूयत\nImp.           बोभूताम्                बोभूयताम्\nPot.           बोभूरीत                 बोभूरीत\nPerf.          बोभूवांचक्रे &c.        बोभूवांचक्रे\n1st Fu.        बोभविता      बोभविता or बोभाविता\n2nd Fu.        बोभविष्यते   बोभविष्यते or बोभाविष्यते\nCon.           अबोभविष्यत   अबोभविष्यत or अबोभाविष्यत\nAor.           अबोभविष्ट              अबोभावि\nBened.         बोभविषीष्ट    बोभविषीष्ट or बोभाविषीष्ट\n\n§ 639. The following roots form their Frequentatives\nirregularly.\n\nRoots.         Atm. Fre.              Par. Freq.\n\nउर्णू to cover   उर्णोनूयते\nकृ 1 cl. to sound  केकूयते\nखन् to dig      वख्खन्यते or           वंखनीति\n               वेखन्यते or            वखन्ति, &c.\n               वाखायते\nगृ to swallow   जेगिल्यते              जागल्ति\nचर् to walk     See § 630 a.           चञ्चरीति or चञ्चर्ति\nचाय् to worship  चेकीय्ते               चेकीयति or चेकेति\nजन् to be born  See § 630 a.           जञ्जनीति or जञ्जन्ति, &c.\nद्युत् to shine  देद्युत्यते            देद्योतीति or देद्योति\nफल् to expand   See § 630 a.           पम्फुल्लीति or पम्फुल्लत्",
+  "model": "claude-3-5-sonnet-20241022",
+  "usage": {
+    "input_tokens": 1963,
+    "output_tokens": 663
+  }
+}

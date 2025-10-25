@@ -1,0 +1,8 @@
+{
+  "text": "ABBREVIATIONS USED IN THE WORK.\n\nOF THE NAMES OF THE WORKS AND GRAMMATICAL,\n\nAmara.—Amarakosh.          | Sis.—Sisupalavadha.\nBhatt. or Bhatti.—Bhatti-   | Uttar.—Uttararamacha\n  kavya.                     | Vop. or Bop.—Vopa\nBh.—Bhartrihari. Ni. Sa.—  | A. or Atm —Atmane\n  Nitisataka. Vai. Sa.      | Abl.—Ablative.\n  Varagyasataka.            | Acc.—Accusative.\nDev.-Devibhagavata Purana  | Adj.—Adjective.\nHit.—Hitopadesa.           | Adv.—Adverb.\nKad.—Kadambari.            | Avy.—Avyayibhava.\nKatya.—Katyayana.          | Bah.—Bahuvrīhi.\nD. Kav—Dandin's Kavya-     | Cau.—Causal.\n  darsa                     | Cf —Compare.\nKir.—Kiratarjuniya.        | Comp.—Compound.\nMal.—Malavikagnimitra.     | Dat.—Dative.\nMb. or Mah. Bhas.—Maha-    | Den.—Denominative.\n  bhashya of Patanjali.     | Des.—Desiderative.\nMah. Bhar.—Mahabharata.    | Freq.—Frequantative\nMeg.—Meghaduta.            | Indecl.—Indeclinable.\nPan.—Panini's Sutras.      | Inst.—Instrumental.\nRag.—Raghuvamsa of Kali-   | Loc.—Locative.\n  dasa.                     | Nom.—Nominative.\nRam.ch.—Ramacharita.       | P. or Par.—Parasmai\nSak.—Abhijnansakuntala     | Pass.—Passive.\n  of Kalidasa.             | Pot.P.-Potential parti\nS'd. Kau.—Sidhantakau-     | P.P.-Past Passive part\n  mudi, Bhattoji Dik-      | Pres.p.—Present parti\n  shita's commentary on    | Pron.—Pronouns.\n  Panini's sutras.         |\n  &c.   &c.   &c.         |   &c.   &c.",
+  "model": "claude-3-5-sonnet-20241022",
+  "usage": {
+    "input_tokens": 1965,
+    "output_tokens": 681
+  }
+}
