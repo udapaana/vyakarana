@@ -2,3 +2,7 @@
 
 # Large PDF files (too big for GitHub)
 source/candidates/*.pdf
+# OCR output files (too large for git)
+ocr_output/
+preprocessing_test/
+verification/
