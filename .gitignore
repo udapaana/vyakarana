@@ -2,7 +2,22 @@
 
 # Large PDF files (too big for GitHub)
 source/candidates/*.pdf
-# OCR output files (too large for git)
+
+# Phase 1: OCR output files (too large for git)
 ocr_output/
+
+# Phase 2: Structured pages (too large for git)
+structured_pages/
+
+# Processing data (optional - could commit if small)
+data/processing_status.json
+data/consistency_data.json
+
+# Testing directories
 preprocessing_test/
 verification/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
