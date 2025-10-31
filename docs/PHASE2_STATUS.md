@@ -224,12 +224,14 @@ python3 process_batch.py --status
 
 Phase 3 will extract individual rules and create rich navigation:
 
-### 1. Rule Extraction
+### 1. Rule Extraction (Main Grammar - Chapters I-XV)
 
-- Parse rule boundaries from § markers
+- Parse rule boundaries from § markers (§1 through §972)
 - Extract into individual files: `rules/rule_001.md`, `rules/rule_002.md`, etc.
 - Preserve YAML metadata from source pages
 - Handle multi-page rules and rule ranges (§ 31-36)
+- Rules cover: Alphabet, Sandhi, Declensions, Conjugations, Syntax
+- End around page 468-500+ before appendices begin
 
 ### 2. Table of Contents Generation (`TABLE_OF_CONTENTS.md`)
 
@@ -265,25 +267,22 @@ Generate a comprehensive markdown file with hyperlinked navigation:
 - Extract and link Pāṇini citations
 - Topic taxonomy and navigation
 
-### 4. Appendices Structuring & Extraction
+### 4. Appendices Structuring & Extraction (After Main Rules)
 
-Structure and extract appendices into organized markdown:
+Extract appendices which come AFTER the 972 rules (separate page numbering):
 
-- **DHĀTUPĀṬHA** (verb roots)
-  - Extract from pages containing dhātu lists
-  - Structure as searchable table: root, class, meaning, examples
-  - Link to conjugation rules
-- **Gaṇapāṭha** (grammatical lists)
-  - Organize by gaṇa number and type
-  - Cross-reference to rules that cite them
-- **Prosody sections**
-  - Extract meter definitions (chandas)
-  - Include metrical patterns and examples
-- **Reference tables**
-  - Declension paradigms
-  - Conjugation paradigms
-  - Sandhi rules table
-- Create `appendices/` directory with structured markdown files
+- **Appendix I: Prosody** (pages 1-24 in appendix numbering)
+  - Samavṛttas (regular meters) - metrical patterns and examples
+  - Viṣamavṛttas (irregular meters)
+  - Structure with meter names, syllable counts, patterns
+  - Extract from pages ~700-720 in main PDF
+- **Appendix II: Dhātukośa** (verb root dictionary, pages 15-61 in appendix)
+  - Structure as searchable table: root, class, meaning
+  - Organize by root alphabetically or by class
+  - Link to conjugation rules from main grammar
+  - Extract from pages ~720+ in main PDF
+- Create `appendices/` directory with properly structured markdown
+- Maintain original appendix page numbering in metadata
 
 ### 5. Validation
 

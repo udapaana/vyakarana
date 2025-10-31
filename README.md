@@ -43,13 +43,12 @@ Output: `structured_pages/` directory with 729 markdown files (726 book content 
 
 ### Phase 3: Rule Extraction & Navigation
 
-- [ ] Extract 972 individual rules from structured pages into `rules/rule_NNN.md`
-- [ ] Structure and extract appendices into organized sections:
-  - DHĀTUPĀṬHA (verb roots) - structured table with roots, classes, meanings
-  - Gaṇapāṭha (lists) - organized by gaṇa number
-  - Prosody sections - meter definitions and examples
-  - Reference tables - declension/conjugation paradigms
-  - Create `appendices/` directory with properly structured markdown
+- [ ] Extract 972 individual rules from main grammar chapters (I-XV) into `rules/rule_NNN.md`
+- [ ] Extract and structure appendices (separate from the 972 rules):
+  - **Appendix I: Prosody** - meter definitions (samavṛttas, viṣamavṛttas)
+  - **Appendix II: Dhātukośa** - verb root dictionary with classes and meanings
+  - Structure as searchable markdown tables in `appendices/` directory
+  - Maintain separate appendix page numbering as in original
 - [ ] Generate `TABLE_OF_CONTENTS.md` - markdown file with hyperlinked navigation
   - Extract section hierarchy from rule titles and YAML metadata
   - Organize by content structure (not pages): Alphabet, Sandhi, Declensions, etc.
