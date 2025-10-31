@@ -264,14 +264,15 @@ Generate a comprehensive markdown file with hyperlinked navigation:
 
 - **Build cross-reference index** from YAML metadata
 - **Create searchable word index** (Sanskrit terms from `word_index` fields)
-- **Link Pāṇini citations to Ashtadhyayi**:
+- **Link Pāṇini citations to local and online Ashtadhyayi**:
   - Download Ashtadhyayi from GRETIL (https://gretil.sub.uni-goettingen.de/gretil/1_sanskr/6_sastra/1_gram/paninipu.htm)
   - Structure in `references/ashtadhyayi/` directory
   - Organize by adhyāya.pāda.sūtra (e.g., `adhyaya_03/pada_02/sutra_003.md`)
-  - Convert all Pāṇini citations to markdown links:
-    - From: "See Pāṇ. III. 2. 3"
-    - To: "See [Pāṇ. III. 2. 3](../../references/ashtadhyayi/adhyaya_03/pada_02/sutra_003.md)"
-  - Make Pāṇini sūtras directly accessible without external links
+  - Convert all Pāṇini citations to dual links:
+    - **Local**: `[Pāṇ. III. 2. 3](../../references/ashtadhyayi/adhyaya_03/pada_02/sutra_003.md)` (offline access)
+    - **Online**: https://ashtadhyayi.com/sutraani/3/2/3 (context and commentary)
+  - Example format: "See [Pāṇ. III. 2. 3](local-path) ([online](https://ashtadhyayi.com/sutraani/3/2/3))"
+  - Provides both offline access and rich online context
 - **Topic taxonomy and navigation**
 
 ### 4. Appendices Structuring & Extraction (After Main Rules)

@@ -57,11 +57,13 @@ Output: `structured_pages/` directory with 729 markdown files (726 book content 
   - Link to individual rule files and appendices
   - Simple markdown links (UI rendering handled in separate UI repo)
 - [ ] Build comprehensive index and cross-references
-- [ ] Link Pāṇini citations to local Ashtadhyayi reference
+- [ ] Link Pāṇini citations to local and online Ashtadhyayi references
   - Download and structure Ashtadhyayi from GRETIL (https://gretil.sub.uni-goettingen.de/gretil/1_sanskr/6_sastra/1_gram/paninipu.htm)
   - Create `references/ashtadhyayi/` with sūtras organized by adhyāya.pāda.sūtra
-  - Convert Pāṇini references (e.g., "Pāṇ. III. 2. 3") to markdown links
-  - Link from rules to specific Ashtadhyayi sūtras instead of plain text citations
+  - Convert Pāṇini references (e.g., "Pāṇ. III. 2. 3") to dual links:
+    - Local markdown: `[Pāṇ. III. 2. 3](../../references/ashtadhyayi/adhyaya_03/pada_02/sutra_003.md)`
+    - Online reference: link to ashtadhyayi.com (e.g., https://ashtadhyayi.com/sutraani/3/2/3)
+  - Provides both offline access and online context/commentary
 - [ ] Create searchable word index from YAML `word_index` fields
 - [ ] Validate against existing extraction from old-master branch
 
