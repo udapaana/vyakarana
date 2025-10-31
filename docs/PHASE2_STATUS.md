@@ -260,12 +260,19 @@ Generate a comprehensive markdown file with hyperlinked navigation:
   - UI rendering will be handled in separate UI repository
   - Keep as portable, version-controllable markdown
 
-### 3. Comprehensive Indexing
+### 3. Comprehensive Indexing & Pāṇini References
 
-- Build cross-reference index from YAML metadata
-- Create searchable word index (Sanskrit terms)
-- Extract and link Pāṇini citations
-- Topic taxonomy and navigation
+- **Build cross-reference index** from YAML metadata
+- **Create searchable word index** (Sanskrit terms from `word_index` fields)
+- **Link Pāṇini citations to Ashtadhyayi**:
+  - Download Ashtadhyayi from GRETIL (https://gretil.sub.uni-goettingen.de/gretil/1_sanskr/6_sastra/1_gram/paninipu.htm)
+  - Structure in `references/ashtadhyayi/` directory
+  - Organize by adhyāya.pāda.sūtra (e.g., `adhyaya_03/pada_02/sutra_003.md`)
+  - Convert all Pāṇini citations to markdown links:
+    - From: "See Pāṇ. III. 2. 3"
+    - To: "See [Pāṇ. III. 2. 3](../../references/ashtadhyayi/adhyaya_03/pada_02/sutra_003.md)"
+  - Make Pāṇini sūtras directly accessible without external links
+- **Topic taxonomy and navigation**
 
 ### 4. Appendices Structuring & Extraction (After Main Rules)
 
