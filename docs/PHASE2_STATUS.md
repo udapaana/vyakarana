@@ -215,16 +215,58 @@ python3 process_batch.py --status
 
 ---
 
-## NEXT PHASE: RULE EXTRACTION
+## NEXT PHASE: RULE EXTRACTION & NAVIGATION
 
-Phase 3 will extract individual rules from page-based structure:
+Phase 3 will extract individual rules and create rich navigation:
 
-1. **Parse rule boundaries** from § markers
-2. **Extract rules** into individual files (e.g., `rules/rule_001.md`)
-3. **Build cross-reference index** from YAML metadata
-4. **Generate table of contents** with hierarchical structure
-5. **Extract appendices** (DHĀTUPĀṬHA, prosody sections)
-6. **Create search index** from word_index and topics
+### 1. Rule Extraction
+
+- Parse rule boundaries from § markers
+- Extract into individual files: `rules/rule_001.md`, `rules/rule_002.md`, etc.
+- Preserve YAML metadata from source pages
+- Handle multi-page rules and rule ranges (§ 31-36)
+
+### 2. Hyperlinked Table of Contents
+
+- **Extract hierarchical structure** from rule titles and chapters
+- **Generate rich TOC** organized by major sections:
+  - Introduction
+  - Alphabet & Phonology (§1-§90)
+  - Sandhi Rules (§91-§175)
+  - Declensions (§176-§300)
+  - Conjugations (§301-§500)
+  - Compounds (§501-§700)
+  - Syntax (§701-§900)
+  - Appendices (§901-§972)
+- **Include for each entry**:
+  - Rule number and title
+  - Brief description/first line
+  - Pāṇini references
+  - Cross-references to related rules
+- **Make fully navigable**:
+  - Clickable links to individual rule files
+  - Back-references from rules to TOC
+  - Navigation between related rules
+- **Replace rudimentary page-based TOC** with rule-based navigation
+
+### 3. Comprehensive Indexing
+
+- Build cross-reference index from YAML metadata
+- Create searchable word index (Sanskrit terms)
+- Extract and link Pāṇini citations
+- Topic taxonomy and navigation
+
+### 4. Appendices Extraction
+
+- DHĀTUPĀṬHA (verb roots)
+- Prosody sections
+- Reference tables
+
+### 5. Validation
+
+- Compare against old-master branch extraction
+- Verify all 972 rules extracted
+- Check completeness and accuracy
 
 ---
 

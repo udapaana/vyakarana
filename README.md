@@ -37,12 +37,17 @@ This project digitizes Kale's Higher Sanskrit Grammar using a multi-engine OCR a
 
 Output: `structured_pages/` directory with 726 markdown files
 
-### Phase 3: Next Steps
+### Phase 3: Rule Extraction & Navigation
 
-- [ ] Extract 972 individual rules from structured pages
+- [ ] Extract 972 individual rules from structured pages into `rules/rule_NNN.md`
+- [ ] Generate hyperlinked table of contents (by rule, not page)
+  - Extract section hierarchy from rule titles and YAML metadata
+  - Create clickable navigation with rule numbers and descriptions
+  - Replace rudimentary page-based TOC with rich rule-based navigation
+  - Include Pāṇini references and cross-references
 - [ ] Build comprehensive index and cross-references
-- [ ] Extract appendices (DHATUKOSHA, Prosody sections)
-- [ ] Generate table of contents from front matter
+- [ ] Extract appendices (DHĀTUPĀṬHA, Prosody sections)
+- [ ] Create searchable word index from YAML `word_index` fields
 - [ ] Validate against existing extraction from old-master branch
 
 ## Repository Structure
