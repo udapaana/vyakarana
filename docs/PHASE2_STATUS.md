@@ -231,10 +231,12 @@ Phase 3 will extract individual rules and create rich navigation:
 - Preserve YAML metadata from source pages
 - Handle multi-page rules and rule ranges (§ 31-36)
 
-### 2. Hyperlinked Table of Contents
+### 2. Table of Contents Generation (`TABLE_OF_CONTENTS.md`)
 
-- **Extract hierarchical structure** from rule titles and chapters
-- **Generate rich TOC** organized by major sections:
+Generate a comprehensive markdown file with hyperlinked navigation:
+
+- **Extract hierarchical structure** from rule titles and YAML metadata
+- **Organize by content sections** (not pages):
   - Introduction
   - Alphabet & Phonology (§1-§90)
   - Sandhi Rules (§91-§175)
@@ -245,14 +247,16 @@ Phase 3 will extract individual rules and create rich navigation:
   - Appendices (§901-§972)
 - **Include for each entry**:
   - Rule number and title
-  - Brief description/first line
-  - Pāṇini references
+  - Brief description (first line or summary)
+  - Pāṇini references (e.g., "See Pāṇ. III. 2. 3")
   - Cross-references to related rules
-- **Make fully navigable**:
-  - Clickable links to individual rule files
-  - Back-references from rules to TOC
-  - Navigation between related rules
-- **Replace rudimentary page-based TOC** with rule-based navigation
+- **Link structure**:
+  - Markdown links to individual `rules/rule_NNN.md` files
+  - Links to `appendices/` sections
+  - Simple relative paths for portability
+- **No UI implementation** - just structured markdown
+  - UI rendering will be handled in separate UI repository
+  - Keep as portable, version-controllable markdown
 
 ### 3. Comprehensive Indexing
 

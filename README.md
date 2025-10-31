@@ -50,12 +50,13 @@ Output: `structured_pages/` directory with 729 markdown files (726 book content 
   - Prosody sections - meter definitions and examples
   - Reference tables - declension/conjugation paradigms
   - Create `appendices/` directory with properly structured markdown
-- [ ] Generate hyperlinked table of contents (by rule, not page)
+- [ ] Generate `TABLE_OF_CONTENTS.md` - markdown file with hyperlinked navigation
   - Extract section hierarchy from rule titles and YAML metadata
-  - Create clickable navigation with rule numbers and descriptions
-  - Replace rudimentary page-based TOC with rich rule-based navigation
-  - Include Pāṇini references and cross-references
-  - Link to appendices and reference sections
+  - Organize by content structure (not pages): Alphabet, Sandhi, Declensions, etc.
+  - Include rule numbers, titles, and brief descriptions
+  - Add Pāṇini references and cross-references
+  - Link to individual rule files and appendices
+  - Simple markdown links (UI rendering handled in separate UI repo)
 - [ ] Build comprehensive index and cross-references
 - [ ] Create searchable word index from YAML `word_index` fields
 - [ ] Validate against existing extraction from old-master branch
