@@ -21,32 +21,42 @@ This project digitizes Kale's Higher Sanskrit Grammar using a multi-engine OCR a
 - ✅ Google Vision OCR integration complete
 - ✅ Claude Vision OCR integration complete
 - ✅ Dual OCR batch processing pipeline complete
-- ✅ **Pages 1-729 processed** with both engines
-  - 728 pages successfully OCR'd with both Google + Claude
+- ✅ **All 729 pages processed** with both engines
+  - 729 pages successfully OCR'd with Google + Claude
+  - Book content: pages 1-726 (726 pages)
+  - Library metadata: pages 727-729 (3 pages)
   - ~$14 total cost for dual OCR run
   - Average confidence: 87%+
 
 ### Phase 2: OCR Reconciliation & Structuring ✅ Complete
 
 - ✅ Implemented intelligent reconciliation (Claude compares Google + Claude OCR)
-- ✅ **All 726 pages processed** with structured markdown output
+- ✅ **All 729 pages processed** with structured markdown output
+  - Book content: 726 pages (pages 1-726)
+  - Library metadata: 3 pages (pages 727-729)
 - ✅ YAML front matter with metadata (rule numbers, topics, Pāṇini refs)
 - ✅ Sanskrit terms tagged with proper IAST transliteration
 - ✅ Standardized formatting (rule numbers, emphasis markers, footnotes)
 - ✅ Content preservation validation (avg 99%+ accuracy)
 
-Output: `structured_pages/` directory with 726 markdown files
+Output: `structured_pages/` directory with 729 markdown files (726 book content + 3 metadata)
 
 ### Phase 3: Rule Extraction & Navigation
 
 - [ ] Extract 972 individual rules from structured pages into `rules/rule_NNN.md`
+- [ ] Structure and extract appendices into organized sections:
+  - DHĀTUPĀṬHA (verb roots) - structured table with roots, classes, meanings
+  - Gaṇapāṭha (lists) - organized by gaṇa number
+  - Prosody sections - meter definitions and examples
+  - Reference tables - declension/conjugation paradigms
+  - Create `appendices/` directory with properly structured markdown
 - [ ] Generate hyperlinked table of contents (by rule, not page)
   - Extract section hierarchy from rule titles and YAML metadata
   - Create clickable navigation with rule numbers and descriptions
   - Replace rudimentary page-based TOC with rich rule-based navigation
   - Include Pāṇini references and cross-references
+  - Link to appendices and reference sections
 - [ ] Build comprehensive index and cross-references
-- [ ] Extract appendices (DHĀTUPĀṬHA, Prosody sections)
 - [ ] Create searchable word index from YAML `word_index` fields
 - [ ] Validate against existing extraction from old-master branch
 

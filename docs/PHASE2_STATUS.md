@@ -2,9 +2,12 @@
 
 **Last Updated**: 2025-10-31
 **Status**: ✅ **COMPLETE**
-**Pages Processed**: 726/726 (100%)
-**Success Rate**: 100%
-**Overall Grade**: A+ (Production ready)
+**Pages Processed**: 729/729 (100%)
+
+- Book content: 726 pages
+- Library metadata: 3 pages (727-729)
+  **Success Rate**: 100%
+  **Overall Grade**: A+ (Production ready)
 
 ---
 
@@ -14,14 +17,16 @@ Phase 2 successfully reconciled dual OCR sources (Google + Claude) and structure
 
 ### Final Statistics
 
-| Metric                     | Value      | Status       |
-| -------------------------- | ---------- | ------------ |
-| **Total Pages**            | 726        | ✅ Complete  |
-| **Successfully Processed** | 726 (100%) | ✅ Perfect   |
-| **Failed Pages**           | 0          | ✅ None      |
-| **Content Preservation**   | 99%+ avg   | ✅ Excellent |
-| **Sanskrit Tagging**       | 90-95%     | ✅ Excellent |
-| **YAML Validity**          | 100%       | ✅ Perfect   |
+| Metric                     | Value       | Status       |
+| -------------------------- | ----------- | ------------ |
+| **Total Pages in PDF**     | 729         | ✅ Complete  |
+| **Book Content Pages**     | 726 (1-726) | ✅ Complete  |
+| **Library Metadata**       | 3 (727-729) | ✅ Complete  |
+| **Successfully Processed** | 729 (100%)  | ✅ Perfect   |
+| **Failed Pages**           | 0           | ✅ None      |
+| **Content Preservation**   | 99%+ avg    | ✅ Excellent |
+| **Sanskrit Tagging**       | 90-95%      | ✅ Excellent |
+| **YAML Validity**          | 100%        | ✅ Perfect   |
 
 ### Output Location
 
@@ -256,11 +261,25 @@ Phase 3 will extract individual rules and create rich navigation:
 - Extract and link Pāṇini citations
 - Topic taxonomy and navigation
 
-### 4. Appendices Extraction
+### 4. Appendices Structuring & Extraction
 
-- DHĀTUPĀṬHA (verb roots)
-- Prosody sections
-- Reference tables
+Structure and extract appendices into organized markdown:
+
+- **DHĀTUPĀṬHA** (verb roots)
+  - Extract from pages containing dhātu lists
+  - Structure as searchable table: root, class, meaning, examples
+  - Link to conjugation rules
+- **Gaṇapāṭha** (grammatical lists)
+  - Organize by gaṇa number and type
+  - Cross-reference to rules that cite them
+- **Prosody sections**
+  - Extract meter definitions (chandas)
+  - Include metrical patterns and examples
+- **Reference tables**
+  - Declension paradigms
+  - Conjugation paradigms
+  - Sandhi rules table
+- Create `appendices/` directory with structured markdown files
 
 ### 5. Validation
 
