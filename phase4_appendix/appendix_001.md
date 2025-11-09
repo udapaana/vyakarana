@@ -19,4 +19,4 @@ confidence: high
 image: /images/521.png
 ---
 
-§ 1. Poetical composition in Sanskrit may be in the form of @deva[गद्य] @[gadya] prose, or @deva[पद्य] @[padya] verse or metrical composition.
+§ 1. Poetical composition in Sanskrit may be in the form of @deva[गद्य] prose, or @deva[पद्य] verse or metrical composition.

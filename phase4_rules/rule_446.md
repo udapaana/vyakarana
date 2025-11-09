@@ -29,5 +29,5 @@ image: /images/274.png
 
 [Content extracted from pages 288 - to be enhanced with full OCR text and proper tagging]
 
-Key terms: @deva[चिह्] @[...], @deva[धू] @[...], @deva[भज्] @[...]
+Key terms: @deva[चिह्], @deva[धू], @deva[भज्]
 

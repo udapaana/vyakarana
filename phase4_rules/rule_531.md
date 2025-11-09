@@ -20,4 +20,4 @@ source_pages:
 ---
 ## § 531. Radical आ Dropped Before उस्
 
-The radical @deva[आ] @[ā] is dropped before @deva[उस्] @[us].
+The radical @deva[आ] is dropped before @deva[उस्].

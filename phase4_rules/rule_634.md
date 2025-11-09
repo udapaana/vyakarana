@@ -36,6 +36,6 @@ image: /images/380.png
 
 ## § 634. Formation of Parasmaipada Frequentative
 
-The root is reduplicated according to the general rules of reduplication; the vowels @deva[इ] @[i] and @deva[उ] @[u] of the reduplicative syllable take their guṇa substitute; and the @deva[अ] @[a] of the reduplicative syllable is lengthened; @deva[दा-दृदा-दादा] @[dā-dṛdā-dādā]; @deva[भि-भेभि-बेभि] @[bhi-bhebhi-bebhi]; @deva[भु-भुभु-बोभु] @[bhu-bhubhu-bobhu]; @deva[कृ-चकृ-चाकृ] @[kṛ-cakṛ-cākṛ]; @deva[विद्-विवेद्-वेविद्] @[vid-vived-vevid]; @deva[जुप्-जुजुप्-जोजुप्] @[jup-jujup-jojup] &c.
+The root is reduplicated according to the general rules of reduplication; the vowels @deva[इ] and @deva[उ] of the reduplicative syllable take their guṇa substitute; and the @deva[अ] of the reduplicative syllable is lengthened; @deva[दा-दृदा-दादा]; @deva[भि-भेभि-बेभि]; @deva[भु-भुभु-बोभु]; @deva[कृ-चकृ-चाकृ]; @deva[विद्-विवेद्-वेविद्]; @deva[जुप्-जुजुप्-जोजुप्] &c.
 
 The Parasm. Frequentative is peculiar to the Veda. Its forms are very rarely to be met with in Classical composition.

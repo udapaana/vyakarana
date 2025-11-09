@@ -29,5 +29,5 @@ image: /images/270.png
 
 [Content extracted from pages 284-285 - to be enhanced with full OCR text and proper tagging]
 
-Key terms: @deva[स्तु] @[...], @deva[रु] @[...], @deva[नु] @[...]
+Key terms: @deva[स्तु], @deva[रु], @deva[नु]
 

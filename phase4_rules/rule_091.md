@@ -30,7 +30,7 @@ image: /images/041.png
 
 ### (a) Nominative Singular - स् Elision
 
-As a general rule the @deva[स्] @[s] of the nom. singular is dropped. If there be a conjunct consonant at the end of a word the first consonant only is retained.
+As a general rule the @deva[स्] of the nom. singular is dropped. If there be a conjunct consonant at the end of a word the first consonant only is retained.
 
 ### (b) Final Letter Changes
 
@@ -42,6 +42,6 @@ The final letter is changed to:
 
 ### (c) त्-Prefixing in Neuter Nouns
 
-@deva[त्] @[t] is prefixed to the @deva[इ] @[i] of the N. & Acc. plural in the case of neuter nouns ending in a consonant except a nasal or a semi-vowel; but not in the case of a noun derived from the frequentative base.
+@deva[त्] is prefixed to the @deva[इ] of the N. & Acc. plural in the case of neuter nouns ending in a consonant except a nasal or a semi-vowel; but not in the case of a noun derived from the frequentative base.
 
 See § 92 for paradigms.

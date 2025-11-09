@@ -32,9 +32,9 @@ In the following list are alphabetically arranged almost all the words used adve
 See the complete alphabetical listing in the source pages.
 
 **Examples:**
-- @deva[अकस्मात्] @[akasmāt] suddenly, all at once
-- @deva[अग्रतः] @[agrataḥ] in front of, before
-- @deva[अग्रे] @[agre] in front of, before
-- @deva[अतीव] @[atīva] exceedingly; rising superior to (with the Acc.)
+- @deva[अकस्मात्] suddenly, all at once
+- @deva[अग्रतः] in front of, before
+- @deva[अग्रे] in front of, before
+- @deva[अतीव] exceedingly; rising superior to (with the Acc.)
 
 *The complete alphabetical list continues in the original text.*

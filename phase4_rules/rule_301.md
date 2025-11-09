@@ -29,8 +29,8 @@ image: /images/174.png
 
 ## § 301. Changes According to Context in Taddhita Formations
 
-@deva[यथायोगं विकारस्तद्धितेषु] @[yathāyogaṃ vikārastaddhiteṣu]
+@deva[यथायोगं विकारस्तद्धितेषु]
 
-Changes (@deva[विकार] @[vikāra]) occur according to context in @deva[तद्धित] @[taddhita] formations (secondary suffixes).
+Changes (@deva[विकार]) occur according to context in @deva[तद्धित] formations (secondary suffixes).
 
-**Obs.** This general principle states that phonetic modifications in Avyayībhāva compounds follow the rules applicable to @deva[तद्धित] @[taddhita] affixes.
+**Obs.** This general principle states that phonetic modifications in Avyayībhāva compounds follow the rules applicable to @deva[तद्धित] affixes.

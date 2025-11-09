@@ -30,6 +30,6 @@ image: /images/356.png
 
 ## § 607. Roots inserting nasal before final
 
-The roots @deva[ग्रभ्] @[grabh], @deva[रभ्] @[rabh], @deva[स्तभ्] @[stabh], and @deva[स्कभ्] @[skabh] insert a nasal before their final:
+The roots @deva[ग्रभ्], @deva[रभ्], @deva[स्तभ्], and @deva[स्कभ्] insert a nasal before their final:
 
-@deva[जम्भयति-ते] @[jambhayati-te], @deva[रम्भयति-ते] @[rambhayati-te], &c.
+@deva[जम्भयति-ते], @deva[रम्भयति-ते], &c.

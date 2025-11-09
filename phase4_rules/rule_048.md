@@ -31,4 +31,4 @@ image: /images/018.png
 
 ## § 48. Visarga After Long आ - Elision or र् Substitution
 
-Visarga preceded by long @deva[आ] @[ā] is dropped necessarily when followed by a soft consonant, and optionally when followed by a vowel; it is also optionally dropped when preceded by @deva[अ] @[a] and followed by a vowel except @deva[अ] @[a]; when it is not dropped it is changed to @deva[र्] @[r] in both these cases; @deva[देवाः + नम्याः = देवा नम्याः] @[devāḥ + namyāḥ = devā namyāḥ]; @deva[देवाः + हर = देवा हर] @[devāḥ + hara = devā hara], @deva[देवाविह] @[devāviha].
+Visarga preceded by long @deva[आ] is dropped necessarily when followed by a soft consonant, and optionally when followed by a vowel; it is also optionally dropped when preceded by @deva[अ] and followed by a vowel except @deva[अ]; when it is not dropped it is changed to @deva[र्] in both these cases; @deva[देवाः + नम्याः = देवा नम्याः]; @deva[देवाः + हर = देवा हर], @deva[देवाविह].

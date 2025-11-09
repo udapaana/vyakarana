@@ -30,18 +30,18 @@ image: /images/179.png
 
 ## § 315. Feminine of Nṛ, Nara, and Śārṅgavarādi Words
 
-The feminine of @deva[नृ] @[nṛ] and @deva[नर] @[nara] is @deva[नारी] @[nārī], and that of words included in the Śārṅgavarādi (@deva[शार्ङ्गरवादिगण] @[śārṅgaravādigaṇa]) group is formed by adding @deva[ई] @[ī].
+The feminine of @deva[नृ] and @deva[नर] is @deva[नारी], and that of words included in the Śārṅgavarādi (@deva[शार्ङ्गरवादिगण]) group is formed by adding @deva[ई].
 
-e.g. @deva[शार्ङ्गरवी] @[śārṅgaravī]
+e.g. @deva[शार्ङ्गरवी]
 
-e.g. @deva[गौतमी] @[gautamī]
+e.g. @deva[गौतमी]
 
-e.g. @deva[आतिथेयी] @[ātitheyī]
+e.g. @deva[आतिथेयी]
 
-e.g. @deva[आशोकेयी] @[āśokeyī]
+e.g. @deva[आशोकेयी]
 
-e.g. @deva[वैदी] @[vaidī]
+e.g. @deva[वैदी]
 
-e.g. @deva[पुत्री] @[putrī], etc.
+e.g. @deva[पुत्री], etc.
 
-**N. B.** This group consists of the following words: @deva[शार्ङ्गरव] @[śārṅgarava], @deva[कापटव] @[kāpaṭava], @deva[ब्राह्मण] @[brāhmaṇa], @deva[गौतम] @[gautama], @deva[आतिथेय] @[ātītheya], @deva[आशोकेय] @[āśokeya], @deva[वात्स्यायन] @[vātsyāyana], @deva[मौञ्जायन] @[mauñjāyana], @deva[शैब्य] @[śaibya], @deva[आश्मरथ्य] @[āśmarathya], @deva[चाण्डाल] @[cāṇḍāla], @deva[पुत्र] @[putra] and some others not very important.
+**N. B.** This group consists of the following words: @deva[शार्ङ्गरव], @deva[कापटव], @deva[ब्राह्मण], @deva[गौतम], @deva[आतिथेय], @deva[आशोकेय], @deva[वात्स्यायन], @deva[मौञ्जायन], @deva[शैब्य], @deva[आश्मरथ्य], @deva[चाण्डाल], @deva[पुत्र] and some others not very important.

@@ -39,4 +39,4 @@ image: /images/125.png
 
 According to the grammatical nature of the first or attributive member the Tatpurusha is divided into six varieties:
 
-(1) Tatpurusha proper or the Inflectional, (2) @deva[नञ्] @[Nañ] or the Negative Tatpurusha, (3) @deva[कर्मधारय] @[Karmadhāraya] or the Appositional including @deva[द्विगु] @[Dvigu], (4-5) @deva[प्रादि] @[Prādi] and @deva[गति] @[Gati] or the Prepositional compounds, and (6) @deva[उपपद] @[Upapada]. These are either nouns, adjectives or adverbs.
+(1) Tatpurusha proper or the Inflectional, (2) @deva[नञ्] or the Negative Tatpurusha, (3) @deva[कर्मधारय] or the Appositional including @deva[द्विगु], (4-5) @deva[प्रादि] and @deva[गति] or the Prepositional compounds, and (6) @deva[उपपद]. These are either nouns, adjectives or adverbs.

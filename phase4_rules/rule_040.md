@@ -47,5 +47,5 @@ image: /images/013.png
 
 ---
 
-[^1]: Obs.**— If the ending @deva[त्] @[t] of a word be followed by @deva[श्] @[ś], @deva[त्] @[t] is optionally inserted between them;‡ e.g. @deva[सत् + शम्भुः = सत्शम्भुः] @[sat + śambhuḥ = satśambhuḥ] and @deva[सत्त्शम्भुः] @[sattśambhuḥ] Śambhu existing for all times; and @deva[सत्श्शम्भुः = सत्श्शम्भुः] @[satśśambhuḥ = satśśambhuḥ] and @deva[सत्च्छम्भुः] @[satchśambhuḥ] (by [§ 35](rule_035.md)); then by [§ 28](rule_028.md) (a) @deva[त्] @[t] being changed to @deva[ञ्] @[ñ] (and @deva[त्] @[t] to @deva[च्] @[c]) @deva[सञ्शम्भुः] @[sañśambhuḥ], @deva[सञ्च्शम्भुः] @[sañcśambhuḥ] and @deva[सञ्च्छम्भुः] @[sañcchśambhuḥ] and finally by dropping @deva[त्] @[t] optionally (by [§ 20](rule_020.md) a.) @deva[सञ्शम्भुः] @[sañśambhuḥ], @deva[सञ्च्शम्भुः] @[sañcśambhuḥ] and @deva[सञ्च्छम्भुः] @[sañcchśambhuḥ].
-[^2]: @deva[शिति तुक्] @[śiti tuk] Pāṇ. VIII. 3. 31.
+[^1]: Obs.**— If the ending @deva[त्] of a word be followed by @deva[श्], @deva[त्] is optionally inserted between them;‡ e.g. @deva[सत् + शम्भुः = सत्शम्भुः] and @deva[सत्त्शम्भुः] Śambhu existing for all times; and @deva[सत्श्शम्भुः = सत्श्शम्भुः] and @deva[सत्च्छम्भुः] (by [§ 35](rule_035.md)); then by [§ 28](rule_028.md) (a) @deva[त्] being changed to @deva[ञ्] (and @deva[त्] to @deva[च्]) @deva[सञ्शम्भुः], @deva[सञ्च्शम्भुः] and @deva[सञ्च्छम्भुः] and finally by dropping @deva[त्] optionally (by [§ 20](rule_020.md) a.) @deva[सञ्शम्भुः], @deva[सञ्च्शम्भुः] and @deva[सञ्च्छम्भुः].
+[^2]: @deva[शिति तुक्] Pāṇ. VIII. 3. 31.

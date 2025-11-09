@@ -32,16 +32,16 @@ image: /images/182.png
 
 ## § 327. Bahuvrīhi Ending in An
 
-A Bahuvrīhi ending in @deva[अन्] @[an] forms its feminine in @deva[आ] @[ā] optionally.
+A Bahuvrīhi ending in @deva[अन्] forms its feminine in @deva[आ] optionally.
 
-e.g. @deva[सु] @[su] + @deva[पर्वन्] @[parvan] → @deva[सुपर्वन्] @[suparvan] or @deva[सुपर्वा] @[suparvā]
+e.g. @deva[सु] + @deva[पर्वन्] → @deva[सुपर्वन्] or @deva[सुपर्वा]
 
-e.g. @deva[बहु] @[bahu] + @deva[यज्वन्] @[yajvan] → @deva[बहुयज्वन्] @[bahuyajvan] or @deva[बहुयज्वा] @[bahuyajvā]
+e.g. @deva[बहु] + @deva[यज्वन्] → @deva[बहुयज्वन्] or @deva[बहुयज्वा]
 
-But if the word ending in @deva[अन्] @[an] be such as drops its @deva[अ] @[a] before the @deva[आ] @[ā] of the Instrumental singular, it takes @deva[ई] @[ī] also optionally.
+But if the word ending in @deva[अन्] be such as drops its @deva[अ] before the @deva[आ] of the Instrumental singular, it takes @deva[ई] also optionally.
 
-e.g. @deva[बहु] @[bahu] + @deva[राजन्] @[rājan] → @deva[बहुराजन्] @[bahurājan] or @deva[बहुराजा] @[bahurājā] or @deva[बहुराज्ञी] @[bahurājñī], etc.
+e.g. @deva[बहु] + @deva[राजन्] → @deva[बहुराजन्] or @deva[बहुराजा] or @deva[बहुराज्ञी], etc.
 
-**Obs.** If a Bahuvrīhi ends in @deva[धन्वन्] @[dhanvan], the @deva[न्] @[n] is optionally changed to @deva[र्] @[r].
+**Obs.** If a Bahuvrīhi ends in @deva[धन्वन्], the @deva[न्] is optionally changed to @deva[र्].
 
-e.g. @deva[बहुधन्वन्] @[bahudhanvan] → @deva[बहुधन्वा] @[bahudhānvā] or @deva[बहुधीवरी] @[bahudhīvarī]: a town in which there are many fishermen
+e.g. @deva[बहुधन्वन्] → @deva[बहुधन्वा] or @deva[बहुधीवरी]: a town in which there are many fishermen

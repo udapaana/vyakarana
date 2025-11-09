@@ -38,16 +38,16 @@ image: /images/354.png
 
 ## § 603. Shortening of vowel before Vrddhi in certain roots
 
-Roots ending in @deva[आ] @[ā], except @deva[या] @[yā] 'to go' &c., @deva[छा] @[chā] 'to love,' @deva[खा] @[khā] 'to eat,' @deva[ह्रा] @[hrā] when it means 'to see' and @deva[या] @[yā] when it does not mean 'to eat,' and the roots[^1] marked with an indicatory @deva[ङ्] @[ṅ] (e.g., @deva[वण्] @[vaṇ], &c.), shorten their vowel before taking its Vrddhi substitute:
+Roots ending in @deva[आ], except @deva[या] 'to go' &c., @deva[छा] 'to love,' @deva[खा] 'to eat,' @deva[ह्रा] when it means 'to see' and @deva[या] when it does not mean 'to eat,' and the roots[^1] marked with an indicatory @deva[ङ्] (e.g., @deva[वण्], &c.), shorten their vowel before taking its Vrddhi substitute:
 
-@deva[पन्] @[pan]—@deva[पानयति] @[pānayati], @deva[छा] @[chā]—@deva[कामयति] @[kāmayati], @deva[यद्] @[yad]—@deva[यादयति] @[yādayati], @deva[जत्] @[jat]—@deva[जावयति] @[jāvayati], @deva[क्राप्] @[krāp]—@deva[क्रापयति] @[krāpayati], @deva[दुह्] @[duh]—@deva[दाहयति] @[dāhayati], @deva[जा] @[jā]—@deva[जापयति] @[jāpayati], &c.
+@deva[पन्]—@deva[पानयति], @deva[छा]—@deva[कामयति], @deva[यद्]—@deva[यादयति], @deva[जत्]—@deva[जावयति], @deva[क्राप्]—@deva[क्रापयति], @deva[दुह्]—@deva[दाहयति], @deva[जा]—@deva[जापयति], &c.
 
-But @deva[या] @[yā]—@deva[कामयति] @[kāmayati]; @deva[छा] @[chā]—@deva[चाक्षयति] @[cākṣayati]; @deva[ह्रा] @[hrā] 'to see'—@deva[ज्ञापयति] @[jñāpayati], but @deva[हारयति] @[hārayati] in other cases; @deva[या] @[yā]—@deva[यामयति] @[yāmayati], &c.; but @deva[या] @[yā] 'to eat'—@deva[याशयति] @[yāśayati].
+But @deva[या]—@deva[कामयति]; @deva[छा]—@deva[चाक्षयति]; @deva[ह्रा] 'to see'—@deva[ज्ञापयति], but @deva[हारयति] in other cases; @deva[या]—@deva[यामयति], &c.; but @deva[या] 'to eat'—@deva[याशयति].
 
-(c) The roots @deva[नम्] @[nam], @deva[तम्] @[tam], @deva[वद्] @[vad], @deva[ग्रह्] @[grah], @deva[ह्रद्] @[hrad], and @deva[हृु] @[hṛu], lengthen their vowel optionally when not preceded by a preposition:
+(c) The roots @deva[नम्], @deva[तम्], @deva[वद्], @deva[ग्रह्], @deva[ह्रद्], and @deva[हृु], lengthen their vowel optionally when not preceded by a preposition:
 
-@deva[नमयति] @[namayati], @deva[नामयति] @[nāmayati], but @deva[प्रणमयति] @[praṇamayati], &c.
+@deva[नमयति], @deva[नामयति], but @deva[प्रणमयति], &c.
 
 ---
 
-[^1]: These are: @deva[यद्] @[yad], @deva[ग्यद्] @[gyad], @deva[प्रुट्] @[pruṭ], @deva[प्रुट्] @[pruṭ], 'to spread,' @deva[वृ] @[vṛ] 'to pound,' @deva[स्वद्] @[svad] 1 Ā. 'to destroy, to cut,' @deva[अञ्ज्] @[añj] 1 Ā. 'to go,' @deva[दुश्] @[duś], @deva[कुश्] @[kuś] 1 Ā. 'to pity,' @deva[क्रुट्] @[kruṭ], @deva[ह्रट्] @[hraṭ] 1 Ā., @deva[त्यर्] @[tyar], @deva[ज्वर्] @[jvar], @deva[नट्] @[naṭ] 1 Par. 'to distil,' @deva[ह्रद्] @[hrad] 'to surround,' @deva[यद्] @[yad], @deva[यद्] @[yad] 'to speak,' @deva[यद्] @[yad] 'to dance,' @deva[क्षुद्] @[kṣud] 1 P. 'to resist,' @deva[शाय्] @[śāy] 1. P. Ā. 'to lie down'; @deva[दु] @[du] 'to dance'; @deva[प्रुच्] @[pruc] 1 P. 'to shine,' 'to cling to', @deva[ह्रुग्] @[hrug], @deva[रुग्] @[rug], @deva[स्पृग्] @[spṛg], @deva[स्पृग्] @[spṛg], all meaning 'to cover,' @deva[वुग्] @[vug], @deva[अग्] @[ag], @deva[अट्] @[aṭ] 'to move in a zigzag manner,' @deva[कण्] @[kaṇ], @deva[एण्] @[eṇ] P. 'to go,' @deva[वण्] @[vaṇ], @deva[युण्] @[yuṇ], @deva[भुण्] @[bhuṇ].
+[^1]: These are: @deva[यद्], @deva[ग्यद्], @deva[प्रुट्], @deva[प्रुट्], 'to spread,' @deva[वृ] 'to pound,' @deva[स्वद्] 1 Ā. 'to destroy, to cut,' @deva[अञ्ज्] 1 Ā. 'to go,' @deva[दुश्], @deva[कुश्] 1 Ā. 'to pity,' @deva[क्रुट्], @deva[ह्रट्] 1 Ā., @deva[त्यर्], @deva[ज्वर्], @deva[नट्] 1 Par. 'to distil,' @deva[ह्रद्] 'to surround,' @deva[यद्], @deva[यद्] 'to speak,' @deva[यद्] 'to dance,' @deva[क्षुद्] 1 P. 'to resist,' @deva[शाय्] 1. P. Ā. 'to lie down'; @deva[दु] 'to dance'; @deva[प्रुच्] 1 P. 'to shine,' 'to cling to', @deva[ह्रुग्], @deva[रुग्], @deva[स्पृग्], @deva[स्पृग्], all meaning 'to cover,' @deva[वुग्], @deva[अग्], @deva[अट्] 'to move in a zigzag manner,' @deva[कण्], @deva[एण्] P. 'to go,' @deva[वण्], @deva[युण्], @deva[भुण्].

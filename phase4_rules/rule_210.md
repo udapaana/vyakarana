@@ -28,4 +28,4 @@ image: /images/129.png
 
 ## § 210. Genitive Tatpurusha
 
-A noun in the Genitive may, as a general rule, be compounded with any other noun; @deva[राज्ञः पुरुषः] @[rājñaḥ puruṣaḥ] @deva[राजपुरुषः] @[rājapuruṣaḥ] the king's man (an officer or a servant).
+A noun in the Genitive may, as a general rule, be compounded with any other noun; @deva[राज्ञः पुरुषः] @deva[राजपुरुषः] the king's man (an officer or a servant).

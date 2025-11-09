@@ -28,4 +28,4 @@ image: /images/031.png
 
 ## § 67. Irregular Vocative Forms of Mother-words
 
-**Irregular bases:** The Voc. sing. of @deva[अम्बा] @[ambā], @deva[अम्बा] @[ambā] and @deva[अम्बा] @[ambā], all meaning 'a mother', is @deva[अम्ब] @[amba], @deva[अम्ब] @[amba] and @deva[अम्ब] @[amba] respectively.
+**Irregular bases:** The Voc. sing. of @deva[अम्बा], @deva[अम्बा] and @deva[अम्बा], all meaning 'a mother', is @deva[अम्ब], @deva[अम्ब] and @deva[अम्ब] respectively.

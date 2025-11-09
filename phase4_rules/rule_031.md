@@ -26,4 +26,4 @@ image: /images/011.png
 
 ## § 31. Dental Before ल्
 
-A letter of the dental class, followed by @deva[ल्] @[l] is changed [to the corresponding lingual].
+A letter of the dental class, followed by @deva[ल्] is changed [to the corresponding lingual].

@@ -42,98 +42,98 @@ image: /images/042.png
 
 ## § 69. Declension of Nouns ending in इ and उ (Masculine, Feminine, and Neuter)
 
-Nouns ending in @deva[इ] @[i] and @deva[उ] @[u] are declined according to their gender (masculine, feminine, and neuter) with specific terminations for each case.
+Nouns ending in @deva[इ] and @deva[उ] are declined according to their gender (masculine, feminine, and neuter) with specific terminations for each case.
 
 ### Masculine Nouns ending in इ
 
-@deva[हरि] @[hari] — Hari (a name of Viṣṇu)
+@deva[हरि] — Hari (a name of Viṣṇu)
 
 | Case | Singular | Dual | Plural |
 |------|----------|------|--------|
-| N. | @deva[हरिः] @[hariḥ] | @deva[हरी] @[harī] | @deva[हरयः] @[harayaḥ] |
-| V. | @deva[हरे] @[hare] | @deva[हरी] @[harī] | @deva[हरयः] @[harayaḥ] |
-| A. | @deva[हरिम्] @[harim] | @deva[हरी] @[harī] | @deva[हरीन्] @[harīn] |
-| I. | @deva[हरिणा] @[hariṇā] | @deva[हरिभ्याम्] @[haribhyām] | @deva[हरिभिः] @[haribhiḥ] |
-| D. | @deva[हरये] @[haraye] | @deva[हरिभ्याम्] @[haribhyām] | @deva[हरिभ्यः] @[haribhyaḥ] |
-| Ab. | @deva[हरेः] @[hareḥ] | @deva[हरिभ्याम्] @[haribhyām] | @deva[हरिभ्यः] @[haribhyaḥ] |
-| G. | @deva[हरेः] @[hareḥ] | @deva[हर्योः] @[haryoḥ] | @deva[हरीणाम्] @[harīṇām] |
-| L. | @deva[हरौ] @[harau] | @deva[हर्योः] @[haryoḥ] | @deva[हरिषु] @[hariṣu] |
+| N. | @deva[हरिः] | @deva[हरी] | @deva[हरयः] |
+| V. | @deva[हरे] | @deva[हरी] | @deva[हरयः] |
+| A. | @deva[हरिम्] | @deva[हरी] | @deva[हरीन्] |
+| I. | @deva[हरिणा] | @deva[हरिभ्याम्] | @deva[हरिभिः] |
+| D. | @deva[हरये] | @deva[हरिभ्याम्] | @deva[हरिभ्यः] |
+| Ab. | @deva[हरेः] | @deva[हरिभ्याम्] | @deva[हरिभ्यः] |
+| G. | @deva[हरेः] | @deva[हर्योः] | @deva[हरीणाम्] |
+| L. | @deva[हरौ] | @deva[हर्योः] | @deva[हरिषु] |
 
 ### Feminine Nouns ending in इ
 
-@deva[मति] @[mati] — intellect
+@deva[मति] — intellect
 
 | Case | Singular | Dual | Plural |
 |------|----------|------|--------|
-| N. | @deva[मतिः] @[matiḥ] | @deva[मती] @[matī] | @deva[मतयः] @[matayaḥ] |
-| V. | @deva[मते] @[mate] | @deva[मती] @[matī] | @deva[मतयः] @[matayaḥ] |
-| A. | @deva[मतिम्] @[matim] | @deva[मती] @[matī] | @deva[मतीः] @[matīḥ] |
-| I. | @deva[मत्या] @[matyā] | @deva[मतिभ्याम्] @[matibhyām] | @deva[मतिभिः] @[matibhiḥ] |
-| D. | @deva[मतये] @[mataye] or @deva[मत्यै] @[matyai] | @deva[मतिभ्याम्] @[matibhyām] | @deva[मतिभ्यः] @[matibhyaḥ] |
-| Ab. | @deva[मतेः] @[mateḥ] or @deva[मत्याः] @[matyāḥ] | @deva[मतिभ्याम्] @[matibhyām] | @deva[मतिभ्यः] @[matibhyaḥ] |
-| G. | @deva[मतेः] @[mateḥ] or @deva[मत्याः] @[matyāḥ] | @deva[मत्योः] @[matyoḥ] | @deva[मतीनाम्] @[matīnām] |
-| L. | @deva[मतौ] @[matau] or @deva[मत्याम्] @[matyām] | @deva[मत्योः] @[matyoḥ] | @deva[मतिषु] @[matiṣu] |
+| N. | @deva[मतिः] | @deva[मती] | @deva[मतयः] |
+| V. | @deva[मते] | @deva[मती] | @deva[मतयः] |
+| A. | @deva[मतिम्] | @deva[मती] | @deva[मतीः] |
+| I. | @deva[मत्या] | @deva[मतिभ्याम्] | @deva[मतिभिः] |
+| D. | @deva[मतये] or @deva[मत्यै] | @deva[मतिभ्याम्] | @deva[मतिभ्यः] |
+| Ab. | @deva[मतेः] or @deva[मत्याः] | @deva[मतिभ्याम्] | @deva[मतिभ्यः] |
+| G. | @deva[मतेः] or @deva[मत्याः] | @deva[मत्योः] | @deva[मतीनाम्] |
+| L. | @deva[मतौ] or @deva[मत्याम्] | @deva[मत्योः] | @deva[मतिषु] |
 
 ### Masculine Nouns ending in उ
 
-@deva[गुरु] @[guru] — preceptor, teacher
+@deva[गुरु] — preceptor, teacher
 
 | Case | Singular | Dual | Plural |
 |------|----------|------|--------|
-| N. | @deva[गुरुः] @[guruḥ] | @deva[गुरू] @[gurū] | @deva[गुरवः] @[guravaḥ] |
-| V. | @deva[गुरो] @[guro] | @deva[गुरू] @[gurū] | @deva[गुरवः] @[guravaḥ] |
-| A. | @deva[गुरुम्] @[gurum] | @deva[गुरू] @[gurū] | @deva[गुरून्] @[gurūn] |
-| I. | @deva[गुरुणा] @[guruṇā] | @deva[गुरुभ्याम्] @[gurubhyām] | @deva[गुरुभिः] @[gurubhiḥ] |
-| D. | @deva[गुरवे] @[gurave] | @deva[गुरुभ्याम्] @[gurubhyām] | @deva[गुरुभ्यः] @[gurubhyaḥ] |
-| Ab. | @deva[गुरोः] @[guroḥ] | @deva[गुरुभ्याम्] @[gurubhyām] | @deva[गुरुभ्यः] @[gurubhyaḥ] |
-| G. | @deva[गुरोः] @[guroḥ] | @deva[गुर्वोः] @[gurvoḥ] | @deva[गुरूणाम्] @[gurūṇām] |
-| L. | @deva[गुरौ] @[gurau] | @deva[गुर्वोः] @[gurvoḥ] | @deva[गुरुषु] @[guruṣu] |
+| N. | @deva[गुरुः] | @deva[गुरू] | @deva[गुरवः] |
+| V. | @deva[गुरो] | @deva[गुरू] | @deva[गुरवः] |
+| A. | @deva[गुरुम्] | @deva[गुरू] | @deva[गुरून्] |
+| I. | @deva[गुरुणा] | @deva[गुरुभ्याम्] | @deva[गुरुभिः] |
+| D. | @deva[गुरवे] | @deva[गुरुभ्याम्] | @deva[गुरुभ्यः] |
+| Ab. | @deva[गुरोः] | @deva[गुरुभ्याम्] | @deva[गुरुभ्यः] |
+| G. | @deva[गुरोः] | @deva[गुर्वोः] | @deva[गुरूणाम्] |
+| L. | @deva[गुरौ] | @deva[गुर्वोः] | @deva[गुरुषु] |
 
 ### Feminine Nouns ending in उ
 
-@deva[धेनु] @[dhenu] — a cow
+@deva[धेनु] — a cow
 
 | Case | Singular | Dual | Plural |
 |------|----------|------|--------|
-| N. | @deva[धेनुः] @[dhenuḥ] | @deva[धेनू] @[dhenū] | @deva[धेनवः] @[dhenavaḥ] |
-| V. | @deva[धेनो] @[dheno] | @deva[धेनू] @[dhenū] | @deva[धेनवः] @[dhenavaḥ] |
-| A. | @deva[धेनुम्] @[dhenum] | @deva[धेनू] @[dhenū] | @deva[धेनूः] @[dhenūḥ] |
-| I. | @deva[धेन्वा] @[dhenvā] | @deva[धेनुभ्याम्] @[dhenubhyām] | @deva[धेनुभिः] @[dhenubhiḥ] |
-| D. | @deva[धेनवे] @[dhenave] or @deva[धेन्वै] @[dhenvai] | @deva[धेनुभ्याम्] @[dhenubhyām] | @deva[धेनुभ्यः] @[dhenubhyaḥ] |
-| Ab. | @deva[धेनोः] @[dhenoḥ] or @deva[धेन्वाः] @[dhenvāḥ] | @deva[धेनुभ्याम्] @[dhenubhyām] | @deva[धेनुभ्यः] @[dhenubhyaḥ] |
-| G. | @deva[धेनोः] @[dhenoḥ] or @deva[धेन्वाः] @[dhenvāḥ] | @deva[धेन्वोः] @[dhenvoḥ] | @deva[धेनूनाम्] @[dhenūnām] |
-| L. | @deva[धेनो] @[dheno] or @deva[धेन्वाम्] @[dhenvām] | @deva[धेन्वोः] @[dhenvoḥ] | @deva[धेनुषु] @[dhenuṣu] |
+| N. | @deva[धेनुः] | @deva[धेनू] | @deva[धेनवः] |
+| V. | @deva[धेनो] | @deva[धेनू] | @deva[धेनवः] |
+| A. | @deva[धेनुम्] | @deva[धेनू] | @deva[धेनूः] |
+| I. | @deva[धेन्वा] | @deva[धेनुभ्याम्] | @deva[धेनुभिः] |
+| D. | @deva[धेनवे] or @deva[धेन्वै] | @deva[धेनुभ्याम्] | @deva[धेनुभ्यः] |
+| Ab. | @deva[धेनोः] or @deva[धेन्वाः] | @deva[धेनुभ्याम्] | @deva[धेनुभ्यः] |
+| G. | @deva[धेनोः] or @deva[धेन्वाः] | @deva[धेन्वोः] | @deva[धेनूनाम्] |
+| L. | @deva[धेनो] or @deva[धेन्वाम्] | @deva[धेन्वोः] | @deva[धेनुषु] |
 
 ### Neuter Nouns ending in इ
 
-@deva[वारि] @[vāri] — water
+@deva[वारि] — water
 
 | Case | Singular | Dual | Plural |
 |------|----------|------|--------|
-| N. | @deva[वारि] @[vāri] | @deva[वारिणी] @[vāriṇī][^1] | @deva[वारीणि] @[vārīṇi] |
-| V. | @deva[वारे] @[vāre] or @deva[वारि] @[vāri] | @deva[वारिणी] @[vāriṇī] | @deva[वारीणि] @[vārīṇi] |
-| A. | @deva[वारि] @[vāri] | @deva[वारिणी] @[vāriṇī] | @deva[वारीणि] @[vārīṇi] |
-| I. | @deva[वारिणा] @[vāriṇā] | @deva[वारिभ्याम्] @[vāribhyām] | @deva[वारिभिः] @[vāribhiḥ] |
-| D. | @deva[वारिणे] @[vāriṇe] | @deva[वारिभ्याम्] @[vāribhyām] | @deva[वारिभ्यः] @[vāribhyaḥ] |
-| Ab. | @deva[वारिणः] @[vāriṇaḥ] | @deva[वारिभ्याम्] @[vāribhyām] | @deva[वारिभ्यः] @[vāribhyaḥ] |
-| G. | @deva[वारिणः] @[vāriṇaḥ] | @deva[वारिणोः] @[vāriṇoḥ] | @deva[वारीणाम्] @[vārīṇām] |
-| L. | @deva[वारिणि] @[vāriṇi] | @deva[वारिणोः] @[vāriṇoḥ] | @deva[वारिषु] @[vāriṣu] |
+| N. | @deva[वारि] | @deva[वारिणी][^1] | @deva[वारीणि] |
+| V. | @deva[वारे] or @deva[वारि] | @deva[वारिणी] | @deva[वारीणि] |
+| A. | @deva[वारि] | @deva[वारिणी] | @deva[वारीणि] |
+| I. | @deva[वारिणा] | @deva[वारिभ्याम्] | @deva[वारिभिः] |
+| D. | @deva[वारिणे] | @deva[वारिभ्याम्] | @deva[वारिभ्यः] |
+| Ab. | @deva[वारिणः] | @deva[वारिभ्याम्] | @deva[वारिभ्यः] |
+| G. | @deva[वारिणः] | @deva[वारिणोः] | @deva[वारीणाम्] |
+| L. | @deva[वारिणि] | @deva[वारिणोः] | @deva[वारिषु] |
 
 ### Neuter Nouns ending in उ
 
-@deva[मधु] @[madhu] — honey
+@deva[मधु] — honey
 
 | Case | Singular | Dual | Plural |
 |------|----------|------|--------|
-| N. | @deva[मधु] @[madhu] | @deva[मधुनी] @[madhunī] | @deva[मधूनि] @[madhūni] |
-| V. | @deva[मधो] @[madho] or @deva[मधु] @[madhu] | @deva[मधुनी] @[madhunī] | @deva[मधूनि] @[madhūni] |
-| A. | @deva[मधु] @[madhu] | @deva[मधुनी] @[madhunī] | @deva[मधूनि] @[madhūni] |
-| I. | @deva[मधुना] @[madhunā] | @deva[मधुभ्याम्] @[madhubhyām] | @deva[मधुभिः] @[madhubhiḥ] |
-| D. | @deva[मधुने] @[madhune] | @deva[मधुभ्याम्] @[madhubhyām] | @deva[मधुभ्यः] @[madhubhyaḥ] |
-| Ab. | @deva[मधुनः] @[madhunaḥ] | @deva[मधुभ्याम्] @[madhubhyām] | @deva[मधुभ्यः] @[madhubhyaḥ] |
-| G. | @deva[मधुनः] @[madhunaḥ] | @deva[मधुनोः] @[madhunoḥ] | @deva[मधूनाम्] @[madhūnām] |
-| L. | @deva[मधुनि] @[madhuni] | @deva[मधुनोः] @[madhunoḥ] | @deva[मधुषु] @[madhuṣu] |
+| N. | @deva[मधु] | @deva[मधुनी] | @deva[मधूनि] |
+| V. | @deva[मधो] or @deva[मधु] | @deva[मधुनी] | @deva[मधूनि] |
+| A. | @deva[मधु] | @deva[मधुनी] | @deva[मधूनि] |
+| I. | @deva[मधुना] | @deva[मधुभ्याम्] | @deva[मधुभिः] |
+| D. | @deva[मधुने] | @deva[मधुभ्याम्] | @deva[मधुभ्यः] |
+| Ab. | @deva[मधुनः] | @deva[मधुभ्याम्] | @deva[मधुभ्यः] |
+| G. | @deva[मधुनः] | @deva[मधुनोः] | @deva[मधूनाम्] |
+| L. | @deva[मधुनि] | @deva[मधुनोः] | @deva[मधुषु] |
 
 ---
 
-[^1]: @deva[इकोऽचि विभक्तौ] @[iko'ci vibhaktau] Pāṇ. VII.1.73. Neuter nouns ending in @deva[इ] @[i], @deva[उ] @[u], @deva[ऋ] @[ṛ] or @deva[ऌ] @[ḷ] take the augment @deva[न्] @[n] before vowel case terminations.
+[^1]: @deva[इकोऽचि विभक्तौ] Pāṇ. VII.1.73. Neuter nouns ending in @deva[इ], @deva[उ], @deva[ऋ] or @deva[ऌ] take the augment @deva[न्] before vowel case terminations.

@@ -29,6 +29,6 @@ image: /images/107.png
 
 ## § 200. Tatpurusha - The Determinative Compound
 
-When a compound consists of two members and the first determines the sense of the other, that is called @deva[तत्पुरुष] @[Tatpurusha].
+When a compound consists of two members and the first determines the sense of the other, that is called @deva[तत्पुरुष].
 
 See § 201 for the varieties of Tatpurusha compounds.

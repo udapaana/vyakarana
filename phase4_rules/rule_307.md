@@ -31,10 +31,10 @@ image: /images/175.png
 
 ## § 307. Ṛ to R Before Consonant
 
-@deva[हलि च] @[hali ca]
+@deva[हलि च]
 
-And before a consonant also, @deva[ऋ] @[ṛ] may become @deva[र] @[ra].
+And before a consonant also, @deva[ऋ] may become @deva[र].
 
-e.g. @deva[पुनः+कर्म] @[punaḥ+karma] = @deva[पुनर्करोति] @[punarkaroti] or @deva[पुनःकरोति] @[punaḥkaroti]
+e.g. @deva[पुनः+कर्म] = @deva[पुनर्करोति] or @deva[पुनःकरोति]
 
 **Obs.** This optional sandhi rule is mentioned for completeness in the context of Avyayībhāva formation.

@@ -29,13 +29,13 @@ confidence: high
 image: /images/209.png
 ---
 
-## § 362. Definition of @deva[अव्यय] @[Avyaya] and Classification
+## § 362. Definition of @deva[अव्यय] and Classification
 
-An @deva[अव्यय] @[Avyaya] is a word whose form remaining the same in all the genders, numbers and cases, undergoes no change. The Avyayas may be divided into simple and compound ones. The latter are treated of in the chapter on compounds (@deva[अव्ययीभाव] @[Avyayībhāva] and a few @deva[बहुव्रीहि] @[Bahuvrīhi] and @deva[तत्पुरुष] @[Tatpuruṣa]).
+An @deva[अव्यय] is a word whose form remaining the same in all the genders, numbers and cases, undergoes no change. The Avyayas may be divided into simple and compound ones. The latter are treated of in the chapter on compounds (@deva[अव्ययीभाव] and a few @deva[बहुव्रीहि] and @deva[तत्पुरुष]).
 
 The indeclinables comprise:
 
-1. Prepositions (@deva[उपसर्ग] @[Upasarga])
+1. Prepositions (@deva[उपसर्ग])
 2. Adverbs
 3. Particles
 4. Conjunctions

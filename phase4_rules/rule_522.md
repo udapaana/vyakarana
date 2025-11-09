@@ -23,4 +23,4 @@ image: TBD
 
 ## § 522. युज् Assumes Form दियुज् After Reduplication
 
-@deva[युज्] @[yuj] after reduplication assumes the form @deva[दियुज्] @[diyuj]; @deva[दियुते] @[diyute], 1 sing., @deva[दियुतिषे] @[diyutiṣe] 2 sing.
+@deva[युज्] after reduplication assumes the form @deva[दियुज्]; @deva[दियुते], 1 sing., @deva[दियुतिषे] 2 sing.

@@ -27,5 +27,5 @@ image: /images/265.png
 
 [Content extracted from pages 279-280 - to be enhanced with full OCR text and proper tagging]
 
-Key terms: @deva[दरिद्रा] @[...]
+Key terms: @deva[दरिद्रा]
 

@@ -33,9 +33,9 @@ The Aorist ought to be used when the idea of the **continuousness** or **nearnes
 
 **Examples:**
 
-- @deva[यावज्जीवत्यादात्] @[yāvajjīvatyādāt] (Sid. Kau.) gave food throughout his life
+- @deva[यावज्जीवत्यादात्] (Sid. Kau.) gave food throughout his life
 
-- @deva[तेनं यायूयुकाल्यो तत्यायूनैरायूयूयुर चोनायत्यु] @[tenaṃ yāyūyukālyo tatyāyūnairāyūyūyur conāyatyu] (Sid. Kau.) he consecrated the fire on the last Paurṇimā (i.e. full-moon day) and offered Soma, &c.
+- @deva[तेनं यायूयुकाल्यो तत्यायूनैरायूयूयुर चोनायत्यु] (Sid. Kau.) he consecrated the fire on the last Paurṇimā (i.e. full-moon day) and offered Soma, &c.
 
 ---
 

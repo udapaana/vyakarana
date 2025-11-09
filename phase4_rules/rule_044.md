@@ -53,7 +53,7 @@ image: /images/015.png
 
 ## § 44. च् Insertion Before छ्
 
-@deva[च्] @[c] is necessarily inserted between @deva[छ्] @[ch] and the preceding vowel, short or long; and optionally when a long vowel at the end of a word, except that of the particle @deva[मा] @[mā] and the preposition @deva[आ] @[ā], precedes it;[^1] e.g. @deva[शिव + छाया = शिवच्छाया] @[śiva + chāyā = śivacchāyā] Śiva's shadow, so @deva[स्वच्छाया] @[svacchāyā]; @deva[वैच्छिद्यते] @[vaichchidyate] what is cut again and again; @deva[लक्ष्मी + छाया = लक्ष्मीछाया] @[lakṣmī + chāyā = lakṣmīchāyā] or @deva[लक्ष्मीच्छाया] @[lakṣmīcchāyā]; @deva[मा + छिन्दन् = माच्छिन्दन्] @[mā + chindan = mācchindan] may he not cut; @deva[आ + छादयति = आच्छादयति] @[ā + chādayati = ācchādayati] he covers.
+@deva[च्] is necessarily inserted between @deva[छ्] and the preceding vowel, short or long; and optionally when a long vowel at the end of a word, except that of the particle @deva[मा] and the preposition @deva[आ], precedes it;[^1] e.g. @deva[शिव + छाया = शिवच्छाया] Śiva's shadow, so @deva[स्वच्छाया]; @deva[वैच्छिद्यते] what is cut again and again; @deva[लक्ष्मी + छाया = लक्ष्मीछाया] or @deva[लक्ष्मीच्छाया]; @deva[मा + छिन्दन् = माच्छिन्दन्] may he not cut; @deva[आ + छादयति = आच्छादयति] he covers.
 
 ---
 
@@ -61,4 +61,4 @@ image: /images/015.png
 
 ---
 
-[^1]: @deva[छे च] @[che ca] Pāṇ. VI. 1. 73. Properly @deva[त्] @[t] is inserted, but it is changed to @deva[च्] @[c] by [§ 28](rule_028.md). @deva[आङ्माङोश्च । दीर्घात् । पदान्ताद्वा] @[āṅmāṅośca. dīrghāt. padāntādvā] Pāṇ. VI. 1. 74-76.
+[^1]: @deva[छे च] Pāṇ. VI. 1. 73. Properly @deva[त्] is inserted, but it is changed to @deva[च्] by [§ 28](rule_028.md). @deva[आङ्माङोश्च । दीर्घात् । पदान्ताद्वा] Pāṇ. VI. 1. 74-76.

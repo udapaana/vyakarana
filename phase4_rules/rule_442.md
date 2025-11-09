@@ -27,5 +27,5 @@ image: /images/272.png
 
 [Content extracted from pages 286 - to be enhanced with full OCR text and proper tagging]
 
-Key terms: @deva[हृ] @[...]
+Key terms: @deva[हृ]
 

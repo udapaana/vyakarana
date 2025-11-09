@@ -27,6 +27,6 @@ image: /images/181.png
 
 ## § 324. Feminine of Manu
 
-The feminine of @deva[मनु] @[manu] is optionally formed by adding @deva[ई] @[ī] before which the final is changed to @deva[ओ] @[o] or @deva[ऐ] @[ai].
+The feminine of @deva[मनु] is optionally formed by adding @deva[ई] before which the final is changed to @deva[ओ] or @deva[ऐ].
 
-e.g. @deva[मनावी] @[manāvī] or @deva[मनायी] @[manāyī] or @deva[मनुः] @[manuḥ]
+e.g. @deva[मनावी] or @deva[मनायी] or @deva[मनुः]

@@ -30,4 +30,4 @@ image: /images/386.png
 
 ## § 648. Denominatives with Affix काम्य
 
-To express the sense of wishing for that which is denoted by the noun; the affix @deva[काम्य] @[kāmya] is also added like the above and the base so derived conjugated in the Par. as before, @deva[पुत्रकाम्यति] @[putrakāmyati] 'he wishes for a son,' @deva[यशः काम्यति] @[yaśaḥ kāmyati] 'he wishes for fame,' @deva[घृतं काम्यति] @[ghṛtaṃ kāmyati] 'he wishes for ghee.'
+To express the sense of wishing for that which is denoted by the noun; the affix @deva[काम्य] is also added like the above and the base so derived conjugated in the Par. as before, @deva[पुत्रकाम्यति] 'he wishes for a son,' @deva[यशः काम्यति] 'he wishes for fame,' @deva[घृतं काम्यति] 'he wishes for ghee.'

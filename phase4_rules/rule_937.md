@@ -34,8 +34,8 @@ When there is the idea of hope implied in a conditional form, the Aorist, the Pr
 
 **Example:**
 
-@deva[दैवदराल्यात् नाति वरुत्यति वा यारायास्या बसायः वस्याः वा] @[daivadarālyāt nāti varutyati vā yārāyāsyā basāyaḥ vasyāḥ vā] (Sid. Kau.) If it were to rain it would sow corn.
+@deva[दैवदराल्यात् नाति वरुत्यति वा यारायास्या बसायः वस्याः वा] (Sid. Kau.) If it were to rain it would sow corn.
 
 ---
 
-**Pāṇini Reference:** @deva[आशासयायं पातच्यच्छु ।] @[āśāsayāyaṃ pātacyaccchu |] (Pāṇ. III. 3. 132)
+**Pāṇini Reference:** @deva[आशासयायं पातच्यच्छु ।] (Pāṇ. III. 3. 132)

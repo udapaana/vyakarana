@@ -32,13 +32,13 @@ image: /images/064.png
 
 ## § 103. Declension of अवयाज् (priest/sacrificial food)
 
-The words @deva[अवयाज्] @[avayāj] 'a kind of priest' and 'sacrificial food' change their final to @deva[त्] @[t] before consonant terminations, the preceding @deva[आ] @[ā] becoming @deva[अ] @[a].
+The words @deva[अवयाज्] 'a kind of priest' and 'sacrificial food' change their final to @deva[त्] before consonant terminations, the preceding @deva[आ] becoming @deva[अ].
 
-### Declension Table: @deva[अवयाज्] @[avayāj]
+### Declension Table: @deva[अवयाज्]
 
 | Case | Singular | Dual | Plural |
 |------|----------|------|--------|
-| Nom., Voc. | @deva[अवयाः] @[avayāḥ] | @deva[अवयाजौ] @[avayājau] | @deva[अवयाजः] @[avayājaḥ] |
-| Acc. | @deva[अवयाजम्] @[avayājam] | @deva[अवयाजौ] @[avayājau] | @deva[अवयाजः] @[avayājaḥ] |
-| Ins. | @deva[अवयाजा] @[avayājā] | @deva[अवयोभ्याम्] @[avayobhyām] | @deva[अवयोभिः] @[avayobhiḥ] |
-| Loc. | @deva[अवयाजि] @[avayāji] | @deva[अवयाजौः] @[avayājauḥ] | @deva[अवयत्सु] @[avayatsu] |
+| Nom., Voc. | @deva[अवयाः] | @deva[अवयाजौ] | @deva[अवयाजः] |
+| Acc. | @deva[अवयाजम्] | @deva[अवयाजौ] | @deva[अवयाजः] |
+| Ins. | @deva[अवयाजा] | @deva[अवयोभ्याम्] | @deva[अवयोभिः] |
+| Loc. | @deva[अवयाजि] | @deva[अवयाजौः] | @deva[अवयत्सु] |

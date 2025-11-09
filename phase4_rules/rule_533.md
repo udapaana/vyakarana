@@ -23,4 +23,4 @@ image: TBD
 
 ## § 533. Roots क्षा, धे, धौ, सौ, द्यौ in First Variety
 
-The roots @deva[क्षा] @[kṣā], @deva[धे] @[dhe], @deva[धौ] @[dhau], @deva[सौ] @[sau], and @deva[द्यौ] @[dyau] belong to this Variety.
+The roots @deva[क्षा], @deva[धे], @deva[धौ], @deva[सौ], and @deva[द्यौ] belong to this Variety.

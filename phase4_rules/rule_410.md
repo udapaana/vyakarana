@@ -31,4 +31,4 @@ image: /images/245.png
 
 ## § 410. Irregular Base: कृ 'to do'
 
-@deva[कृ] @[kṛ] P. A. 'to do' is changed to @deva[कर्] @[kar] before the strong, and @deva[कुर्] @[kur] before the weak terminations. The @deva[र्] @[r] of the base is dropped before @deva[व] @[va] and @deva[म] @[ma].
+@deva[कृ] P. A. 'to do' is changed to @deva[कर्] before the strong, and @deva[कुर्] before the weak terminations. The @deva[र्] of the base is dropped before @deva[व] and @deva[म].

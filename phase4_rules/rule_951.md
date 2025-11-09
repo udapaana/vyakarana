@@ -33,8 +33,8 @@ When the words "after an hour" are used the Potential (also Imperative) or the P
 
 **Example:**
 
-@deva[छहानेन भुञ्जीत] @[chāhānena bhuñjīta], @deva[स्याट्युट्] @[syāṭyuṭ] or @deva[छट्युट्] @[chaṭyuṭ] (Sid. Kau.)
+@deva[छहानेन भुञ्जीत], @deva[स्याट्युट्] or @deva[छट्युट्] (Sid. Kau.)
 
 ---
 
-**Pāṇini Reference:** @deva[लिट्युट् चास्याहेते] @[liṭyuṭ cāsyāhete] (Pāṇ. III. 3. 164)
+**Pāṇini Reference:** @deva[लिट्युट् चास्याहेते] (Pāṇ. III. 3. 164)

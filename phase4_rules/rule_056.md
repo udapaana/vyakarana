@@ -30,4 +30,4 @@ image: /images/020.png
 
 ## § 56. Classification of Case Terminations
 
-To the case-terminations of the @deva[सार्वधातुक] @[sārvadhātuka] class belongs @deva[शस्] @[śas] of Nom. Pl., and @deva[शस्] @[śas] of the Acc. Pl. To the second class belong all the remaining case-terminations.
+To the case-terminations of the @deva[सार्वधातुक] class belongs @deva[शस्] of Nom. Pl., and @deva[शस्] of the Acc. Pl. To the second class belong all the remaining case-terminations.

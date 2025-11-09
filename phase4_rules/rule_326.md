@@ -32,20 +32,20 @@ image: /images/182.png
 
 ## § 326. Van Ending Changes to Var
 
-If a prātipadika ends in @deva[वन्] @[van] it changes its @deva[न्] @[n] to @deva[र्] @[r] before @deva[ई] @[ī].
+If a prātipadika ends in @deva[वन्] it changes its @deva[न्] to @deva[र्] before @deva[ई].
 
-e.g. @deva[शक्वन्] @[śakvan] → @deva[शक्वरी] @[śakvarī]: the strong one
+e.g. @deva[शक्वन्] → @deva[शक्वरी]: the strong one
 
-e.g. @deva[पीवन्] @[pīvan] → @deva[पीवरी] @[pīvarī]: fat (fem.)
+e.g. @deva[पीवन्] → @deva[पीवरी]: fat (fem.)
 
-e.g. @deva[शर्वर] @[śarvara] → @deva[शर्वरी] @[śarvarī]: the night
+e.g. @deva[शर्वर] → @deva[शर्वरी]: the night
 
-e.g. @deva[सुन्वानमतिक्रान्ता] @[sunvānamatikrāntā] → @deva[अतिशुत्वरी] @[atiśutvarī]
+e.g. @deva[सुन्वानमतिक्रान्ता] → @deva[अतिशुत्वरी]
 
-e.g. @deva[अतिधीवरी] @[atidhīvarī], etc.
+e.g. @deva[अतिधीवरी], etc.
 
-**Exception:** But if a base ends in @deva[वन्] @[van] applied to roots ending in a soft consonant; or if a compound has such a base for its latter member, the feminine is formed by adding @deva[आ] @[ā] only, before which the preceding @deva[अन्] @[an] is dropped.
+**Exception:** But if a base ends in @deva[वन्] applied to roots ending in a soft consonant; or if a compound has such a base for its latter member, the feminine is formed by adding @deva[आ] only, before which the preceding @deva[अन्] is dropped.
 
-e.g. @deva[ब्रुवन्] @[bruvan] + @deva[आ] @[ā] = @deva[ब्रुवा] @[bruvā]: a Brāhmaṇa woman (@deva[ब्राह्मणी] @[brāhmaṇī]) or a female thief
+e.g. @deva[ब्रुवन्] + @deva[आ] = @deva[ब्रुवा]: a Brāhmaṇa woman (@deva[ब्राह्मणी]) or a female thief
 
-e.g. @deva[राजयुध्वा] @[rājayudhvā]
+e.g. @deva[राजयुध्वा]

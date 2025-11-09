@@ -30,4 +30,4 @@ image: /images/371.png
 
 ## § 620. Voice in Desiderative Forms
 
-Roots in their Desiderative forms take the same terminations, Parasm. or Atmane. that they do in the primitive. The roots @deva[आ] @[ā], @deva[घु] @[ghu], @deva[स्व] @[sva] and @deva[द्रा] @[drā] take Atm. terminations in the Desiderative.
+Roots in their Desiderative forms take the same terminations, Parasm. or Atmane. that they do in the primitive. The roots @deva[आ], @deva[घु], @deva[स्व] and @deva[द्रा] take Atm. terminations in the Desiderative.

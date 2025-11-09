@@ -29,5 +29,5 @@ image: /images/264.png
 
 [Content extracted from pages 278-279 - to be enhanced with full OCR text and proper tagging]
 
-Key terms: @deva[चकास्] @[...], @deva[जह] @[...], @deva[दरिद्रा] @[...]
+Key terms: @deva[चकास्], @deva[जह], @deva[दरिद्रा]
 

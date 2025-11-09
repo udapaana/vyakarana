@@ -29,9 +29,9 @@ image: /images/512.png
 
 ## § 947. Imperative with Force of Present
 
-The Imperative has sometimes the force of the present when used in combination with the particle @deva[मा] @[mā]:
+The Imperative has sometimes the force of the present when used in combination with the particle @deva[मा]:
 
 **Examples:**
 
-- @deva[मा भवतु] @[mā bhavatu] no, it is not so
-- @deva[मा च तै त्रियःः शाच्यत्यव्युत पुथिवु] @[mā ca tai triyaḥḥ śācyatyavyuta puthivu]
+- @deva[मा भवतु] no, it is not so
+- @deva[मा च तै त्रियःः शाच्यत्यव्युत पुथिवु]

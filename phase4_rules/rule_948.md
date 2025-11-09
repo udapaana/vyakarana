@@ -29,6 +29,6 @@ image: /images/512.png
 
 ## § 948. Imperative with Verbs of Wishing
 
-@deva[इच्छामि भवान् भुञ्जीत] @[icchāmi bhavān bhuñjīta] or @deva[भुङ्क्तु] @[bhuṅktu] I wish you should dine.
+@deva[इच्छामि भवान् भुञ्जीत] or @deva[भुङ्क्तु] I wish you should dine.
 
 See § 958.

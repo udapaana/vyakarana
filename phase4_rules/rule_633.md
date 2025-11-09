@@ -30,6 +30,6 @@ image: /images/379.png
 
 ## § 633. Paradigms of Ātmanepada Frequentative
 
-Paradigms:—The 3 sing. of @deva[बोभुद्य] @[bobudhya] the Atm. Freq. Base of the root @deva[बुध्] @[budh] and @deva[देदीप्य] @[dedīpya] that of the root @deva[दी] @[dī].
+Paradigms:—The 3 sing. of @deva[बोभुद्य] the Atm. Freq. Base of the root @deva[बुध्] and @deva[देदीप्य] that of the root @deva[दी].
 
 **N. B.** Irregular Atm. Freq. Bases will be given under @ref[§ 639].

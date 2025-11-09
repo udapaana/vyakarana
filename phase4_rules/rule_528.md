@@ -23,4 +23,4 @@ image: TBD
 
 ## § 528. Special Rules for भी, ह्री, भू and हु with आम्
 
-When @deva[आम्] @[ām] is added to the roots @deva[भी] @[bhī], @deva[ह्री] @[hrī] @deva[भू] @[bhū] and @deva[हु] @[hu] [special rules apply].
+When @deva[आम्] is added to the roots @deva[भी], @deva[ह्री] @deva[भू] and @deva[हु] [special rules apply].

@@ -29,10 +29,10 @@ image: /images/174.png
 
 ## § 302. No Vṛddhi Substitutions from First Member
 
-@deva[न वृद्धयादेशाः पूर्वपदात्] @[na vṛddhayādeśāḥ pūrvapadāt]
+@deva[न वृद्धयादेशाः पूर्वपदात्]
 
-Vowel strengthening (@deva[वृद्धि] @[vṛddhi]) substitutions do not occur to the first member of the compound.
+Vowel strengthening (@deva[वृद्धि]) substitutions do not occur to the first member of the compound.
 
-e.g. @deva[अनुकूलम्] @[anukūlam]: favorable (not @deva[अनौकूलम्] @[anaukūlam])
+e.g. @deva[अनुकूलम्]: favorable (not @deva[अनौकूलम्])
 
-e.g. @deva[प्रतिकूलम्] @[pratikūlam]: adverse (not @deva[प्रैतिकूलम्] @[praitikūlam])
+e.g. @deva[प्रतिकूलम्]: adverse (not @deva[प्रैतिकूलम्])

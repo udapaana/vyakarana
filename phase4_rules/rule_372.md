@@ -33,37 +33,37 @@ Adverbs are either primitive or derived from nouns, pronouns or numerals. As adv
 ### Examples by Case
 
 **Accusative:**
-- @deva[सत्यम्] @[satyam] truthfully
-- @deva[मृदु] @[mṛdu] softly
-- @deva[सुखम्] @[sukham] happily
-- @deva[लघु] @[laghu] quickly
-- @deva[निर्भयम्] @[nirbhayam], @deva[अबाधम्] @[abādham], @deva[अत्यन्तम्] @[atyantam]
-- @deva[बलवत्] @[balavat] strongly
-- @deva[भूयः] @[bhūyaḥ] again
+- @deva[सत्यम्] truthfully
+- @deva[मृदु] softly
+- @deva[सुखम्] happily
+- @deva[लघु] quickly
+- @deva[निर्भयम्], @deva[अबाधम्], @deva[अत्यन्तम्]
+- @deva[बलवत्] strongly
+- @deva[भूयः] again
 
 **Instrumental:**
-- @deva[दुःखेन] @[duḥkhena] painfully
-- @deva[सुखेन] @[sukhena]
-- @deva[धर्मेण] @[dharmeṇa] virtuously, justly
-- @deva[दक्षिणेन] @[dakṣiṇena], @deva[उत्तरेण] @[uttareṇa], @deva[अग्रेण] @[agreṇa]
-- @deva[चिरेण] @[cireṇa] after a long time
-- @deva[क्षणेन] @[kṣaṇena]
+- @deva[दुःखेन] painfully
+- @deva[सुखेन]
+- @deva[धर्मेण] virtuously, justly
+- @deva[दक्षिणेन], @deva[उत्तरेण], @deva[अग्रेण]
+- @deva[चिरेण] after a long time
+- @deva[क्षणेन]
 
 **Dative:**
-- @deva[चिराय] @[cirāya], @deva[चिरन्तनाय] @[cirantanāya] for a long time
-- @deva[अर्थाय] @[arthāya] for the sake of
+- @deva[चिराय], @deva[चिरन्तनाय] for a long time
+- @deva[अर्थाय] for the sake of
 
 **Ablative:**
-- @deva[बलात्] @[balāt] forcibly
-- @deva[कृपाभात्] @[kṛpābhāt], @deva[शोकात्] @[śokāt], @deva[दूरात्] @[dūrāt]
-- @deva[तस्मात्] @[tasmāt], @deva[यस्मात्] @[yasmāt]
-- @deva[चिरात्] @[cirāt] for a long time
-- @deva[दूरात्] @[dūrāt], @deva[उत्तरात्] @[uttarāt]
+- @deva[बलात्] forcibly
+- @deva[कृपाभात्], @deva[शोकात्], @deva[दूरात्]
+- @deva[तस्मात्], @deva[यस्मात्]
+- @deva[चिरात्] for a long time
+- @deva[दूरात्], @deva[उत्तरात्]
 
 **Locative:**
-- @deva[स्थाने] @[sthāne] properly
-- @deva[दूरे] @[dūre], @deva[प्रभाते] @[prabhāte], @deva[प्राह्णे] @[prāhṇe], @deva[अग्रे] @[agre]
-- @deva[एकपदे] @[ekapade] at once
-- @deva[सपदि] @[sapadi], @deva[ऋते] @[ṛte], @deva[समीपे] @[samīpe], @deva[अभ्यासे] @[abhyāse] near
+- @deva[स्थाने] properly
+- @deva[दूरे], @deva[प्रभाते], @deva[प्राह्णे], @deva[अग्रे]
+- @deva[एकपदे] at once
+- @deva[सपदि], @deva[ऋते], @deva[समीपे], @deva[अभ्यासे] near
 
 **N.B.** Adverbs formed from pronouns and numerals are given in their proper places; while those formed from nouns are given in Chapter IX.

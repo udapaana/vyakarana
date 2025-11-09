@@ -31,6 +31,6 @@ image: /images/006.png
 
 ### (a) Optional Shortening at Word End
 
-@deva[इ, उ, ऋ] @[i, u, ṛ] or @deva[लृ] @[lṛ], short or long, at the end of a word followed by a dissimilar vowel except in a compound, are optionally not combined, and when so they are shortened if long*; e.g. @deva[चक्रि + अत्र = चक्रित्र] @[cakri + atra = cakritra], Vishṇu here, and @deva[चक्रि अत्र] @[cakri atra]; but @deva[वापी + अम्बु: = वाप्यम्बु:] @[vāpī + ambuḥ = vāpyambuḥ] a horse in a well. @deva[गौरी + ओ] @[gaurī + o] (a termination) @deva[= गौर्यौ] @[= gauryau].
+@deva[इ, उ, ऋ] or @deva[लृ], short or long, at the end of a word followed by a dissimilar vowel except in a compound, are optionally not combined, and when so they are shortened if long*; e.g. @deva[चक्रि + अत्र = चक्रित्र], Vishṇu here, and @deva[चक्रि अत्र]; but @deva[वापी + अम्बु: = वाप्यम्बु:] a horse in a well. @deva[गौरी + ओ] (a termination) @deva[= गौर्यौ].
 
 \* @deva[इकोऽसवर्णे शाकल्यस्य ह्रस्वश्] Pāṇ.

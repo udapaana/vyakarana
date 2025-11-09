@@ -23,4 +23,4 @@ image: TBD
 
 ## § 514. जि, हि Change to गि, घि After Reduplication
 
-@deva[जि] @[ji] and @deva[हि] @[hi] are respectively changed to @deva[गि] @[gi] and @deva[घि] @[ghi] and @deva[द्वि] @[dvi] optionally to @deva[धि] @[dhi], after the reduplicative syllable in the Perfect and the Desiderative.
+@deva[जि] and @deva[हि] are respectively changed to @deva[गि] and @deva[घि] and @deva[द्वि] optionally to @deva[धि], after the reduplicative syllable in the Perfect and the Desiderative.

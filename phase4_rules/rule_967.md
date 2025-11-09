@@ -27,18 +27,18 @@ confidence: high
 image: /images/518.png
 ---
 
-## § 967. The Particle @deva[तथा] @[tathā] "Likewise"
+## § 967. The Particle @deva[तथा] "Likewise"
 
-The particle @deva[तथा] @[tathā] "likewise" often supplies the place of @deva[च] @[ca]:
+The particle @deva[तथा] "likewise" often supplies the place of @deva[च]:
 
 **Examples:**
 
-- @deva[रामः लक्ष्मणः] @[rāmaḥ lakṣmaṇaḥ] Rāma and Lakshmana
-- @deva[अङ्गस्त्रविष्टा च प्रत्युत्पन्नमती] @[aṅgastraviṣṭā ca pratyutpannamatī] both Aṅgastraviṣṭā and Pratyutpannamatī
+- @deva[रामः लक्ष्मणः] Rāma and Lakshmana
+- @deva[अङ्गस्त्रविष्टा च प्रत्युत्पन्नमती] both Aṅgastraviṣṭā and Pratyutpannamatī
 
 **Special Uses:**
 
-- @deva[तथा हि] @[tathā hi] means "for instance", "to be more plain"
-- @deva[तथा च] @[tathā ca] means "likewise"
+- @deva[तथा हि] means "for instance", "to be more plain"
+- @deva[तथा च] means "likewise"
 
 Both are often used when introducing quotations.

@@ -29,8 +29,8 @@ image: /images/191.png
 
 ## § 348. Various Short Affixes: Eya, Āyani, Īya
 
-**@deva[एय] @[eya]** is added in various senses. Some important uses are mentioned here.
+**@deva[एय]** is added in various senses. Some important uses are mentioned here.
 
-**@deva[आयनि] @[āyani]** and **@deva[ईय] @[īya]** affixes are also used with various meanings.
+**@deva[आयनि]** and **@deva[ईय]** affixes are also used with various meanings.
 
 These affixes will be detailed in specialized grammatical contexts.

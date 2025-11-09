@@ -32,12 +32,12 @@ image: /images/316.png
 
 ## § 511. वस् Substituted for शद् in Perfect
 
-The root @deva[वस्] @[vas] is optionally substituted for @deva[शद्] @[śad] in the Perfect.
+The root @deva[वस्] is optionally substituted for @deva[शद्] in the Perfect.
 
 Forms include:
-- @deva[आह] @[āha], @deva[शाहिव] @[śāhiva], @deva[आहिम] @[āhima]
+- @deva[आह], @deva[शाहिव], @deva[आहिम]
 
 Or:
-- @deva[जघास] @[jaghāsa], @deva[जघध] @[jaghad ha], @deva[अहिव] @[ahiva], @deva[जाहिम] @[jāhima]
-- @deva[जघसिय] @[jaghasiya], @deva[जक्षयुः] @[jakṣayuḥ], @deva[जक्ष] @[jakṣa]
-- @deva[जघास] @[jaghāsa], @deva[जक्षतुः] @[jakṣatuḥ], @deva[जक्षुः] @[jakṣuḥ]
+- @deva[जघास], @deva[जघध], @deva[अहिव], @deva[जाहिम]
+- @deva[जघसिय], @deva[जक्षयुः], @deva[जक्ष]
+- @deva[जघास], @deva[जक्षतुः], @deva[जक्षुः]

@@ -32,12 +32,12 @@ image: /images/013.png
 
 ## § 6. Nasal Sounds and Aspiration
 
-In addition to the characters given above there are in Sanskrit two nasal sounds:—the one called @deva[अनुस्वार] @[anusvāra], is denoted by @deva[ं] i.e. a dot placed above the letter after which it is to be pronounced, e.g. @deva[कं] @[kaṃ]; the other, called @deva[अनुनासिक] @[anunāsika] is denoted by @deva[ँ] i.e. a dot within a semi-circle placed above the letter after which it is to be pronounced e.g. @deva[कँ] @[k̐a].
+In addition to the characters given above there are in Sanskrit two nasal sounds:—the one called @deva[अनुस्वार], is denoted by @deva[ं] i.e. a dot placed above the letter after which it is to be pronounced, e.g. @deva[कं]; the other, called @deva[अनुनासिक] is denoted by @deva[ँ] i.e. a dot within a semi-circle placed above the letter after which it is to be pronounced e.g. @deva[कँ].
 
-### (a) @deva[विसर्ग] @[visarga]
+### (a) @deva[विसर्ग]
 
-And a sort of hard breathing is known as @deva[विसर्ग] @[visarga] (generally called @deva[विसर्जनीय] @[visarjanīya] by Sanskrit grammarians). It is denoted by the sign @deva[ः] i.e. two vertical dots placed after the letter after which it is to be pronounced. In pronunciation it is a harder aspirate than @deva[ह] @[h]. The @deva[विसर्ग] @[visarga] is not an original character but only a substitute for a final @deva[स] @[s] or @deva[र] @[r].
+And a sort of hard breathing is known as @deva[विसर्ग] (generally called @deva[विसर्जनीय] by Sanskrit grammarians). It is denoted by the sign @deva[ः] i.e. two vertical dots placed after the letter after which it is to be pronounced. In pronunciation it is a harder aspirate than @deva[ह]. The @deva[विसर्ग] is not an original character but only a substitute for a final @deva[स] or @deva[र].
 
-### (b) @deva[जिह्वामूलीय] @[jihvāmūlīya] and @deva[उपध्मानीय] @[upadhmānīya]
+### (b) @deva[जिह्वामूलीय] and @deva[उपध्मानीय]
 
-@deva[जिह्वामूलीय] @[jihvāmūlīya] and @deva[उपध्मानीय] @[upadhmānīya] are terms given to a sort of Semi-Visarga, when pronounced before @deva[क, ख] @[k, kh], and @deva[प, फ] @[p, ph] respectively. It is written symbolically.
+@deva[जिह्वामूलीय] and @deva[उपध्मानीय] are terms given to a sort of Semi-Visarga, when pronounced before @deva[क, ख], and @deva[प, फ] respectively. It is written symbolically.

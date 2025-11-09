@@ -28,5 +28,5 @@ image: /images/267.png
 
 [Content extracted from pages 281 - to be enhanced with full OCR text and proper tagging]
 
-Key terms: @deva[मृज्] @[...], @deva[मार्ष्टि] @[...]
+Key terms: @deva[मृज्], @deva[मार्ष्टि]
 

@@ -34,13 +34,13 @@ image: /images/475.png
 
 ## § 801. Roots ज्ञा, स्था and आस् with अधि governing Accusative
 
-The roots[^1] @deva[ज्ञा] @[jñā], @deva[स्था] @[sthā] and @deva[आस्] @[ās], with @deva[अधि] @[adhi], govern the Accusative of the place where the action takes place.
+The roots[^1] @deva[ज्ञा], @deva[स्था] and @deva[आस्], with @deva[अधि], govern the Accusative of the place where the action takes place.
 
-e.g. @deva[अग्रशिलाम् अधितिष्ठति अध्यास्ते वा वैदिकस्य हरेः विधानादुदाहृतम्] @[agraśilām adhitiṣṭhati adhyāste vā vaidikasya hareḥ vidhānādudāhṛtam]: reclining at a stone-slab.
+e.g. @deva[अग्रशिलाम् अधितिष्ठति अध्यास्ते वा वैदिकस्य हरेः विधानादुदाहृतम्]: reclining at a stone-slab.
 
-@deva[अग्रे इन्द्रस्य गृध्रस्त्वमधितिष्ठसे] @[agre indrasya gṛdhrastvamadhitiṣṭhase]: occupied half of Indra's seat.
+@deva[अग्रे इन्द्रस्य गृध्रस्त्वमधितिष्ठसे]: occupied half of Indra's seat.
 
-@deva[अध्यास्त सर्वर्तुरमणीयाम् अयोध्याम्] @[adhyāsta sarvartumaraṇīyām ayodhyām]: lived in Ayodhyā delightful in all seasons.
+@deva[अध्यास्त सर्वर्तुरमणीयाम् अयोध्याम्]: lived in Ayodhyā delightful in all seasons.
 
 ---
-[^1]: @deva[अधिशीङ्स्थासां कर्म] @[adhiśīṅsthāsāṃ karma] Pāṇ. I.4.46
+[^1]: @deva[अधिशीङ्स्थासां कर्म] Pāṇ. I.4.46

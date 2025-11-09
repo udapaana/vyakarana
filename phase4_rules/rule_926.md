@@ -33,8 +33,8 @@ The Imperfect according to Pāṇini denotes past action not done to-day, i.e. d
 
 **Example:**
 
-- @deva[तुयूभुषुनं पोलुस्युयु] @[tuyūbhuṣunaṃ polusyuyu] (Bhaṭṭi) Bibhīshana spoke to them
+- @deva[तुयूभुषुनं पोलुस्युयु] (Bhaṭṭi) Bibhīshana spoke to them
 
 ---
 
-**Pāṇini Reference:** @deva[अनद्युतने लङ्] @[anadyutane laṅ] (Pāṇ. III. 2. 111)
+**Pāṇini Reference:** @deva[अनद्युतने लङ्] (Pāṇ. III. 2. 111)

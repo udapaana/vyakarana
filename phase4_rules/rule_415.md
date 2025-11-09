@@ -33,6 +33,6 @@ image: /images/247.png
 
 ## § 415. Roots Belonging to Both 5th and 9th Classes
 
-The roots @deva[स्कु] @[sku] 'to go by leaps, to raise,' @deva[स्तम्भ्] @[stambh] 'to obstruct,' @deva[स्तुम्भ्] @[stumbh] 'to stop,' @deva[स्कम्भ्] @[skambh] and @deva[स्कुम्भ्] @[skumbh] 'to obstruct' belong to the 5th and 9th classes.
+The roots @deva[स्कु] 'to go by leaps, to raise,' @deva[स्तम्भ्] 'to obstruct,' @deva[स्तुम्भ्] 'to stop,' @deva[स्कम्भ्] and @deva[स्कुम्भ्] 'to obstruct' belong to the 5th and 9th classes.
 
-e.g. @deva[स्कुनोति] @[skunoti], @deva[स्कुनुते] @[skunute], @deva[स्कुनीते] @[skunīte], @deva[स्कुञ्जे] @[skuñje], &c.
+e.g. @deva[स्कुनोति], @deva[स्कुनुते], @deva[स्कुनीते], @deva[स्कुञ्जे], &c.

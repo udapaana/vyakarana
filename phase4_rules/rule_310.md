@@ -29,8 +29,8 @@ image: /images/176.png
 
 ## § 310. Later Elements Fixed in Avyayībhāva
 
-@deva[समासान्तः पराः अव्ययीभावे] @[samāsāntaḥ parāḥ avyayībhāve]
+@deva[समासान्तः पराः अव्ययीभावे]
 
-At the end of an Avyayībhāva compound, the later elements (@deva[पर] @[para]) become fixed.
+At the end of an Avyayībhāva compound, the later elements (@deva[पर]) become fixed.
 
 **Obs.** This means that once an Avyayībhāva is formed, it becomes invariable and indeclinable.

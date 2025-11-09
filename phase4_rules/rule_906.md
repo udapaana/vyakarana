@@ -31,4 +31,4 @@ image: /images/498.png
 
 ## § 906. Potential Passive Participle Used Impersonally
 
-Occasionally this participle is used impersonally in the neuter gender and singular number; @deva[तवभवतु तपोवनं गन्तव्यम्] @[tavabhavatu tapovanaṃ gantavyam] his honour should go to the penance grove; @deva[मया चाणडालेः सह स्थास्यं] @[mayā cāṇaḍāleḥ saha sthāsyaṃ] I should have to dwell in the company of Chāṇḍālas &c.
+Occasionally this participle is used impersonally in the neuter gender and singular number; @deva[तवभवतु तपोवनं गन्तव्यम्] his honour should go to the penance grove; @deva[मया चाणडालेः सह स्थास्यं] I should have to dwell in the company of Chāṇḍālas &c.

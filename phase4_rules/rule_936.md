@@ -33,9 +33,9 @@ When the close proximity of a future action is intended, the Second Future or th
 
 **Examples:**
 
-- @deva[कु गमिष्यासि] @[ku gamiṣyāsi] when will you go?
-- @deva[एव गच्छामि] @[eva gacchāmi] or @deva[गमिष्यामि] @[gamiṣyāmi] I shall just go
+- @deva[कु गमिष्यासि] when will you go?
+- @deva[एव गच्छामि] or @deva[गमिष्यामि] I shall just go
 
 ---
 
-**Pāṇini Reference:** @deva[वर्तायानपसीयनै वतार्यानपयु ।] @[vartāyānapasīyanai vatāryānapayu |] (Pāṇ. III. 3. 131)
+**Pāṇini Reference:** @deva[वर्तायानपसीयनै वतार्यानपयु ।] (Pāṇ. III. 3. 131)

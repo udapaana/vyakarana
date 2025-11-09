@@ -27,6 +27,6 @@ confidence: high
 image: /images/285.png
 ---
 
-## § 470. Strong Terminations and @deva[गुण] @[Guṇa]
+## § 470. Strong Terminations and @deva[गुण]
 
-All these terminations are strong. The final vowel and the penultimate short vowel of a root therefore take their @deva[गुण] @[Guṇa] substitute before them.
+All these terminations are strong. The final vowel and the penultimate short vowel of a root therefore take their @deva[गुण] substitute before them.

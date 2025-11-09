@@ -19,12 +19,12 @@ confidence: high
 image: /images/521.png
 ---
 
-§ 4. A syllable is @deva[लघु] @[laghu] 'light,' or @deva[गुरु] @[guru] 'heavy' according as its vowel is short or long.
+§ 4. A syllable is @deva[लघु] 'light,' or @deva[गुरु] 'heavy' according as its vowel is short or long.
 
-(a) The vowels @deva[अ] @[a], @deva[इ] @[i], @deva[उ] @[u], @deva[ऋ] @[ṛ] and @deva[लृ] @[lṛ] are short; and the vowels @deva[आ] @[ā], @deva[ई] @[ī], @deva[ऊ] @[ū], @deva[ॠ] @[ṝ], @deva[ए] @[e], @deva[ओ] @[o], @deva[ऐ] @[ai], and @deva[औ] @[au] are long. ‡ When a short vowel is followed by an anusvāra or Visarga or by a conjunct consonant, it is converted into what is called 'a prosodially long vowel;' as @deva[अं] @[aṃ], @deva[अः] @[aḥ], @deva[अच्छ] @[accha], &c.
+(a) The vowels @deva[अ], @deva[इ], @deva[उ], @deva[ऋ] and @deva[लृ] are short; and the vowels @deva[आ], @deva[ई], @deva[ऊ], @deva[ॠ], @deva[ए], @deva[ओ], @deva[ऐ], and @deva[औ] are long. ‡ When a short vowel is followed by an anusvāra or Visarga or by a conjunct consonant, it is converted into what is called 'a prosodially long vowel;' as @deva[अं], @deva[अः], @deva[अच्छ], &c.
 
 ---
 
 **Footnotes:**
 
-‡ @deva[समुद्वच्या गुरोर्विनै निरायूर्णों च दीर्घनैदुदु] @[samudvacyā gurorvināi nirāyūrṇoṃ ca dīrghanaidudu]
+‡ @deva[समुद्वच्या गुरोर्विनै निरायूर्णों च दीर्घनैदुदु]

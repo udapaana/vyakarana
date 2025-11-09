@@ -23,4 +23,4 @@ image: TBD
 
 ## § 520. च् Prefixed to Vowel Weak Terminations for धी
 
-@deva[च्] @[c] is prefixed to vowel weak terminations in the case of @deva[धी] @[dhī] 4. Ā. 'to obey.'
+@deva[च्] is prefixed to vowel weak terminations in the case of @deva[धी] 4. Ā. 'to obey.'

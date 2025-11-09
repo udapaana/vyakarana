@@ -32,8 +32,8 @@ image: /images/132.png
 
 ## § 214. Time Elapsed Since Occurrence
 
-A word expressive of a period of time that has passed since a certain occurrence is compounded with another expressive of the occurrence;[^1] as @deva[मासौ जातस्य यस्य स] @[māsau jātasya yasya sa] @deva[मासजातः] @[māsajātaḥ] 'one since whose birth a month has elapsed'; so @deva[द्व्यहजातः] @[dvyahajātaḥ], @deva[संवत्सरमृतः] @[saṃvatsaramṛtaḥ] etc.
+A word expressive of a period of time that has passed since a certain occurrence is compounded with another expressive of the occurrence;[^1] as @deva[मासौ जातस्य यस्य स] @deva[मासजातः] 'one since whose birth a month has elapsed'; so @deva[द्व्यहजातः], @deva[संवत्सरमृतः] etc.
 
 ---
 
-[^1]: @deva[कालाः पर्यायमिणा] @[kālāḥ paryāyamiṇā] Pāṇ. II.2.5.
+[^1]: @deva[कालाः पर्यायमिणा] Pāṇ. II.2.5.

@@ -28,5 +28,5 @@ image: /images/272.png
 
 [Content extracted from pages 286-287 - to be enhanced with full OCR text and proper tagging]
 
-Key terms: @deva[जुहोत्यादि] @[...], @deva[reduplication] @[...]
+Key terms: @deva[जुहोत्यादि], @deva[reduplication]
 

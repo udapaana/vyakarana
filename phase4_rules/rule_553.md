@@ -29,10 +29,10 @@ image: /images/335.png
 
 ## § 553. Samprasāraṇa in हे, स्वप् Causative, and षि
 
-The roots @deva[हे] @[he] and @deva[स्वप्] @[svap] cau. take Samprasāraṇa, @deva[षि] @[ṣi] does it optionally.
+The roots @deva[हे] and @deva[स्वप्] cau. take Samprasāraṇa, @deva[षि] does it optionally.
 
-@deva[हे] @[he]—@deva[हु] @[hu]—@deva[हाव] @[hāva]+@deva[य] @[ya]—@deva[हाव्] @[hāv] or @deva[इव्] @[iv], then @deva[जुहाव्] @[juhāv], @deva[जुहव्] @[juhav] by § 550; then @deva[अजुहावम्] @[ajuhāvam], @deva[अजुहवम्] @[ajuhavam].
+@deva[हे]—@deva[हु]—@deva[हाव]+@deva[य]—@deva[हाव्] or @deva[इव्], then @deva[जुहाव्], @deva[जुहव्] by § 550; then @deva[अजुहावम्], @deva[अजुहवम्].
 
-@deva[स्वप्] @[svap]—@deva[स्वापय्] @[svāpaya]—@deva[स्वाप्] @[svāp]—@deva[षुप्] @[ṣup]—@deva[षुप्] @[ṣup]—@deva[स्वपय्] @[svapaya]; @deva[अषुषुपम्] @[aṣuṣupam].
+@deva[स्वप्]—@deva[स्वापय्]—@deva[स्वाप्]—@deva[षुप्]—@deva[षुप्]—@deva[स्वपय्]; @deva[अषुषुपम्].
 
-@deva[षि] @[ṣi]—@deva[अषुषावम्] @[aṣuṣāvam], @deva[अषिषिपम्] @[aṣiṣipam] 1st sing.
+@deva[षि]—@deva[अषुषावम्], @deva[अषिषिपम्] 1st sing.

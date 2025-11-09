@@ -32,8 +32,8 @@ image: /images/145.png
 
 ## § 229. Madhyamapadalopin Compounds
 
-In some Karmadhāraya compounds the last member of the first word which is itself a compound word is dropped[^1]; e.g. @deva[शाकप्रियः पाण्डवः] @[śākapriyaḥ pāṇḍavaḥ] @deva[शाकपाण्डवः] @[śākapāṇḍavaḥ] 'a king who likes vegetables;, @deva[देवपुत्रकः ब्राह्मणः] @[devaputrakaḥ brāhmaṇaḥ] @deva[देवब्राह्मणः] @[devabrāhmaṇaḥ] etc These compounds, though they should be properly called "Uttamapadalopin" are popularly designated "Madhyamapadalopin". Any compound requiring a similar explanation is classed under this group (@deva[शाकपाण्डवादि] @[śākapāṇḍavādi]) which is an @deva[आकलितगण] @[ākalitaga ṇa].
+In some Karmadhāraya compounds the last member of the first word which is itself a compound word is dropped[^1]; e.g. @deva[शाकप्रियः पाण्डवः] @deva[शाकपाण्डवः] 'a king who likes vegetables;, @deva[देवपुत्रकः ब्राह्मणः] @deva[देवब्राह्मणः] etc These compounds, though they should be properly called "Uttamapadalopin" are popularly designated "Madhyamapadalopin". Any compound requiring a similar explanation is classed under this group (@deva[शाकपाण्डवादि]) which is an @deva[आकलितगण].
 
 ---
 
-[^1]: @deva[शाकपाण्डवादीनां सिद्धम् उत्तरपदलोपस्य उभयसंख्यानम्] @[śākapāṇḍavādīnāṃ siddham uttarapadalopasya ubhayasaṃkhyānam] Vārt on Pāṇ. II.1.60.
+[^1]: @deva[शाकपाण्डवादीनां सिद्धम् उत्तरपदलोपस्य उभयसंख्यानम्] Vārt on Pāṇ. II.1.60.

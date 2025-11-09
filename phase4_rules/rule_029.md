@@ -26,4 +26,4 @@ image: /images/011.png
 
 ## § 29. Exception Before क्
 
-If a letter of the group @deva[स्] @[s] be followed by @deva[क्] @[k] it does not substitute its corresponding lingual; @deva[सत् + क: = सत्क:] @[sat + kaḥ = satkaḥ] sixth good man.
+If a letter of the group @deva[स्] be followed by @deva[क्] it does not substitute its corresponding lingual; @deva[सत् + क: = सत्क:] sixth good man.

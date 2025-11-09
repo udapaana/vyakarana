@@ -19,8 +19,8 @@ confidence: high
 image: /images/522.png
 ---
 
-§ 8. A @deva[पाद] @[pāda] or stanza may be either a @deva[वृत्त] @[vṛtta] or a @deva[जाति] @[jāti].
+§ 8. A @deva[पाद] or stanza may be either a @deva[वृत्त] or a @deva[जाति].
 
-(a) A @deva[वृत्त] @[vṛtta] is a metre regulated by the number of syllables. In this kind of metre each line or @deva[पाद] @[pāda] has a fixed number of syllables.
+(a) A @deva[वृत्त] is a metre regulated by the number of syllables. In this kind of metre each line or @deva[पाद] has a fixed number of syllables.
 
-(b) A @deva[जाति] @[jāti] is a metre regulated by syllabic instants (@deva[मात्रा] @[mātrā]). In this kind of metre each line or @deva[पाद] @[pāda] has a fixed number of @deva[मात्रा] @[mātrā].
+(b) A @deva[जाति] is a metre regulated by syllabic instants (@deva[मात्रा]). In this kind of metre each line or @deva[पाद] has a fixed number of @deva[मात्रा].

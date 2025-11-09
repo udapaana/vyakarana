@@ -30,8 +30,8 @@ image: /images/510.png
 
 ## § 940. Second Future for Memory
 
-When the word @deva[काच्] @[kāc] is not used with roots meaning "to remember," such as @deva[स्मृ] @[smṛ], @deva[चित] @[cit], etc., the Second Future is used in the sense of the Imperfect:
+When the word @deva[काच्] is not used with roots meaning "to remember," such as @deva[स्मृ], @deva[चित], etc., the Second Future is used in the sense of the Imperfect:
 
 **Example:**
 
-@deva[स्मरति छाया गोकुलने वस्यासः] @[smarati chāyā gokulane vasyāsaḥ] Kṛishṇa, do you remember that we dwelt in Gokula?
+@deva[स्मरति छाया गोकुलने वस्यासः] Kṛishṇa, do you remember that we dwelt in Gokula?

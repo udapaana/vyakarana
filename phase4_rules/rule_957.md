@@ -33,9 +33,9 @@ When in a conditional sentence one thing is expressed as depending upon another 
 
 **Examples:**
 
-- @deva[छत्रं यदि स्थापयेत् तर्हि यायात्] @[chatraṃ yadi sthāpayet tarhi yāyāt] if he will sow, he will attain happiness
-- @deva[पार्थो नैयाति चेत् असत्यं यास्यति] @[pārtho naiyāti cet asatyaṃ yāsyati]
+- @deva[छत्रं यदि स्थापयेत् तर्हि यायात्] if he will sow, he will attain happiness
+- @deva[पार्थो नैयाति चेत् असत्यं यास्यति]
 
 ---
 
-**Pāṇini Reference:** @deva[इच्युदोदुदुनुलिङुच्] @[icyudodudalinguñc] (Pāṇ. III. 3. 156)
+**Pāṇini Reference:** @deva[इच्युदोदुदुनुलिङुच्] (Pāṇ. III. 3. 156)

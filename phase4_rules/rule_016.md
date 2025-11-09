@@ -27,4 +27,4 @@ image: /images/002.png
 
 ## § 16. Nasalized Semivowels
 
-The three semivowels @deva[य, र] @[ya, ra] and @deva[ल] @[la] are sometimes nasalised and then they are written with the @deva[अनुनासिक] @[anunāsika] sign over them, as @deva[य̐, र̐, ल̐] @[y̐a, r̐a, l̐a].
+The three semivowels @deva[य, र] and @deva[ल] are sometimes nasalised and then they are written with the @deva[अनुनासिक] sign over them, as @deva[य̐, र̐, ल̐].

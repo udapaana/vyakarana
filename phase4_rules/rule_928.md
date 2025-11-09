@@ -28,12 +28,12 @@ confidence: high
 image: /images/506.png
 ---
 
-## § 928. Imperfect with @deva[स्म] @[sma] in Imperative Sense
+## § 928. Imperfect with @deva[स्म] in Imperative Sense
 
-When the particle @deva[स्म] @[sma] in combination with @deva[स्यु] @[syu] is used with the Imperfect in the sense of the Imperative, the augment @deva[अ] @[a] is dropped:
+When the particle @deva[स्म] in combination with @deva[स्यु] is used with the Imperfect in the sense of the Imperative, the augment @deva[अ] is dropped:
 
 **Examples:**
 
-- @deva[स्म स्यु भुवः] @[sma syu bhuvaḥ]
-- @deva[स्म स्यु करोतु] @[sma syu karotu]
-- @deva[स्म स्यु युटुवितुयुं युयूयू] @[sma syu yuṭuvituyuṃ yuyūyū]
+- @deva[स्म स्यु भुवः]
+- @deva[स्म स्यु करोतु]
+- @deva[स्म स्यु युटुवितुयुं युयूयू]

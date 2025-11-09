@@ -19,21 +19,21 @@ confidence: high
 image: /images/521.png
 ---
 
-§ 6. In the case of metres regulated by syllables each line is divided by groups of three syllables called @deva[गण] @[gaṇa] or syllabic feet, named as @deva[म] @[ma], @deva[न] @[na], @deva[भ] @[bha], @deva[य] @[ya]; @deva[ज] @[ja], @deva[त] @[ta], @deva[र] @[ra], and @deva[स] @[sa]. The names and the Schemes of these are given in the following stanza:
+§ 6. In the case of metres regulated by syllables each line is divided by groups of three syllables called @deva[गण] or syllabic feet, named as @deva[म], @deva[न], @deva[भ], @deva[य]; @deva[ज], @deva[त], @deva[र], and @deva[स]. The names and the Schemes of these are given in the following stanza:
 
-@deva[मनुभजातारस्विध्यविदुरैः सजरतियुगालं विनियन्त्रिणाः पुरैर्विपुलतीर्णं ॥] @[manubhajātārasvidhyaviduraiḥ sajaratiyugālaṃ viniyantriṇāḥ purairvipulatīrṇaṃ]
+@deva[मनुभजातारस्विध्यविदुरैः सजरतियुगालं विनियन्त्रिणाः पुरैर्विपुलतीर्णं ॥]
 
-i. e. @deva[म] @[ma] has all its syllables long; @deva[न] @[na] has all its syllables short; @deva[भ] @[bha] has its first syllable long, @deva[य] @[ya] has its first syllable short; @deva[ज] @[ja] has its middle syllable long; @deva[र] @[ra] has its middle syllable short; @deva[स] @[sa] has its last syllable long and @deva[त] @[ta] has its last syllable short.
+i. e. @deva[म] has all its syllables long; @deva[न] has all its syllables short; @deva[भ] has its first syllable long, @deva[य] has its first syllable short; @deva[ज] has its middle syllable long; @deva[र] has its middle syllable short; @deva[स] has its last syllable long and @deva[त] has its last syllable short.
 
-The symbol ∪ stands for a short or light syllable; the symbol — denotes a long vowel or a heavy syllable. Symbolically represented these @deva[गण] @[gaṇa] will stand as under:
+The symbol ∪ stands for a short or light syllable; the symbol — denotes a long vowel or a heavy syllable. Symbolically represented these @deva[गण] will stand as under:
 
-- @deva[म] @[ma]: — — —
-- @deva[न] @[na]: ∪ ∪ ∪
-- @deva[भ] @[bha]: — ∪ ∪
-- @deva[य] @[ya]: ∪ — —
-- @deva[ज] @[ja]: ∪ — ∪
-- @deva[र] @[ra]: — ∪ —
-- @deva[स] @[sa]: ∪ ∪ —
-- @deva[त] @[ta]: — — ∪
+- @deva[म]: — — —
+- @deva[न]: ∪ ∪ ∪
+- @deva[भ]: — ∪ ∪
+- @deva[य]: ∪ — —
+- @deva[ज]: ∪ — ∪
+- @deva[र]: — ∪ —
+- @deva[स]: ∪ ∪ —
+- @deva[त]: — — ∪
 
-Similarly the letter @deva[ल] @[la] is used to denote a short syllable and @deva[ग] @[ga] a long one at the close of a line.
+Similarly the letter @deva[ल] is used to denote a short syllable and @deva[ग] a long one at the close of a line.

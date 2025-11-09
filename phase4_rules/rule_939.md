@@ -29,12 +29,12 @@ image: /images/509.png
 
 ## § 939. Simple Future with Hope
 
-The Simple Future is alone used when the idea of hope is conveyed by @deva[लिङ्] @[liṅ] and words having the sense of @deva[लिङ्] @[liṅ]:
+The Simple Future is alone used when the idea of hope is conveyed by @deva[लिङ्] and words having the sense of @deva[लिङ्]:
 
 **Example:**
 
-@deva[ऋतिदानां अत् स्वाति वा यास्यति शीघ्रं बस्यायः] @[ṛtidānāṃ at svāti vā yāsyati śīghraṃ basyāyaḥ] if a shower were to come quickly we would at once sow corn.
+@deva[ऋतिदानां अत् स्वाति वा यास्यति शीघ्रं बस्यायः] if a shower were to come quickly we would at once sow corn.
 
 ---
 
-**Pāṇini Reference:** @deva[लिपाच्यनै छट् ।] @[lipācyanai chaṭ |] (Pāṇ. III. 3. 133)
+**Pāṇini Reference:** @deva[लिपाच्यनै छट् ।] (Pāṇ. III. 3. 133)

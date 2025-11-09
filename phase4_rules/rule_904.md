@@ -33,4 +33,4 @@ image: /images/497.png
 
 ## § 904. Future Participle Expressing Intention or Purpose
 
-Besides showing simple futurity participle expresses intention or purpose; @deva[अनुगच्छन् मुनितनयाम्] @[anugacchan muninatanayām] wishing to follow the daughter of the sage; @deva[दास्यन्] @[dāsyan] wishing to give, @deva[वन्यानां हरीणाम्] @[vanyānāṃ harīṇām] intending exercising, as it were, to tame the wild beasts.
+Besides showing simple futurity participle expresses intention or purpose; @deva[अनुगच्छन् मुनितनयाम्] wishing to follow the daughter of the sage; @deva[दास्यन्] wishing to give, @deva[वन्यानां हरीणाम्] intending exercising, as it were, to tame the wild beasts.

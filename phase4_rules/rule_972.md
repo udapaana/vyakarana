@@ -33,7 +33,7 @@ image: /images/520.png
 
 ## § 972. Interjections - Illustrative Example
 
-The following stanza from the @deva[भट्टिकाव्य] @[Bhaṭṭi Kāvya] illustrates the uses of some of these interjections:
+The following stanza from the @deva[भट्टिकाव्य] illustrates the uses of some of these interjections:
 
 @deva[आयुः कुरु वत हो चिरम् हू मदैयानुत्तीति ऐक्य ।]
 @deva[हुय पितुः कारि हं शूद्र वदानां निजाल संय ॥]

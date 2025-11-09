@@ -36,8 +36,8 @@ image: /images/211.png
 
 ## § 351. Feminine Words: Numerals, Monosyllabic -ई words, and words in -ता
 
-(a) All the numerals from 20-99, monosyllabic words in @deva[ई] @[ī] and such as are formed by the affix @deva[ता] @[tā]; @deva[विंशति] @[viṃśatiḥ] '20', @deva[श्री] @[śrīḥ] 'prosperity, goddess Lakshmi'; @deva[नम्रता] @[namratā] 'humility' &c.
+(a) All the numerals from 20-99, monosyllabic words in @deva[ई] and such as are formed by the affix @deva[ता]; @deva[विंशति] '20', @deva[श्री] 'prosperity, goddess Lakshmi'; @deva[नम्रता] 'humility' &c.
 
-(b) The synonyms of @deva[भूमि] @[bhūmi] 'earth', @deva[क्षिति] @[kṣiti] 'earth', @deva[लता] @[latā] 'creeper', and @deva[वनिता] @[vanitā] 'woman', and these words themselves.
+(b) The synonyms of @deva[भूमि] 'earth', @deva[क्षिति] 'earth', @deva[लता] 'creeper', and @deva[वनिता] 'woman', and these words themselves.
 
-Exceptions:—@deva[स्रोतस्] @[srotas] n. and @deva[वाहस्] @[vāhas] n. both meaning a 'river'.
+Exceptions:—@deva[स्रोतस्] n. and @deva[वाहस्] n. both meaning a 'river'.

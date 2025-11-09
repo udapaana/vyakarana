@@ -42,9 +42,9 @@ cross_refs: []
 
 footnotes:
   - id: 1
-    content: "Vārt: @deva[संपुंसां सौ वक्तव्यः] @[saṃpuṃsāṃ sau vaktavyaḥ]"
+    content: "Vārt: @deva[संपुंसां सौ वक्तव्यः]"
   - id: 2
-    content: "Vārt: @deva[स्यान्नादेशे न] @[syānnādeśe na]"
+    content: "Vārt: @deva[स्यान्नादेशे न]"
 
 confidence: high
 
@@ -53,7 +53,7 @@ image: /images/014.png
 
 ## § 43. सम् Before कृ and Related Changes
 
-The @deva[म्] @[m] of @deva[सम्] @[sam] is changed to an Anusvāra and Visarga when followed by a form of the root @deva[कृ] @[kṛ], the Anusvāra again is optionally changed to an Anunāsika; e.g. @deva[सम् + कर्ता = संस्कर्ता] @[sam + kartā = saṃskartā] and @deva[सँस्कर्ता] @[sãskartā]; @deva[सु] @[su] is affixed to the ending of the words @deva[सम्] @[sam], @deva[पुम्] @[pum] and @deva[कान्] @[kān];[^5] so @deva[संस्स्कर्ता] @[saṃsskartā] and @deva[सँस्कृता] @[sãskṛtā].
+The @deva[म्] of @deva[सम्] is changed to an Anusvāra and Visarga when followed by a form of the root @deva[कृ], the Anusvāra again is optionally changed to an Anunāsika; e.g. @deva[सम् + कर्ता = संस्कर्ता] and @deva[सँस्कर्ता]; @deva[सु] is affixed to the ending of the words @deva[सम्], @deva[पुम्] and @deva[कान्];[^5] so @deva[संस्स्कर्ता] and @deva[सँस्कृता].
 
 
 
@@ -62,24 +62,24 @@ The @deva[म्] @[m] of @deva[सम्] @[sam] is changed to an Anusvāra and
 
 ### (b) न् at Word End Before Palatals and Dentals
 
-@deva[न्] @[n] at the end of a word (except @deva[प्रशान्] @[praśān]) followed by @deva[च्] @[c], @deva[छ्] @[ch]; @deva[ट्] @[ṭ], @deva[ठ्] @[ṭh]; or @deva[त्] @[t], @deva[थ्] @[th] which is itself followed by a vowel, a semi-vowel, a nasal or @deva[ह्] @[h], undergoes the same changes;[^1] e.g. @deva[शाङ्गिन् + छिन्धि = शाङ्गिन् + स् + छिन्धि = शाङ्गिन् + श् + छिन्धि] @[śāṅgin + chindhi = śāṅgin + s + chindhi = śāṅgin + ś + chindhi] (by [§ 28](rule_028.md)-sec. a) @deva[शाङ्गिंश्छिन्धि] @[śāṅgiṃśchindhi] and @deva[शाङ्गिँश्छिन्धि] @[śāṅgĩśchindhi] Oh Kṛṣṇa, cut off; similarly @deva[चक्रिन् + त्रायस्व = चक्रिंस्त्रायस्व] @[cakrin + trāyasva = cakriṃstrāyasva] and @deva[चक्रिँस्त्रायस्व] @[cakriṃstrāyasva]; save, Oh Kṛṣṇa; but @deva[हन्ति] @[hanti] as the @deva[न्] @[n] is not at the end of a word. @deva[सत्सरु] @[satsaru], a fine handle of a sword. @deva[प्रशान्तनोति] @[praśāntanoti] a good man spreads.
+@deva[न्] at the end of a word (except @deva[प्रशान्]) followed by @deva[च्], @deva[छ्]; @deva[ट्], @deva[ठ्]; or @deva[त्], @deva[थ्] which is itself followed by a vowel, a semi-vowel, a nasal or @deva[ह्], undergoes the same changes;[^1] e.g. @deva[शाङ्गिन् + छिन्धि = शाङ्गिन् + स् + छिन्धि = शाङ्गिन् + श् + छिन्धि] (by [§ 28](rule_028.md)-sec. a) @deva[शाङ्गिंश्छिन्धि] and @deva[शाङ्गिँश्छिन्धि] Oh Kṛṣṇa, cut off; similarly @deva[चक्रिन् + त्रायस्व = चक्रिंस्त्रायस्व] and @deva[चक्रिँस्त्रायस्व]; save, Oh Kṛṣṇa; but @deva[हन्ति] as the @deva[न्] is not at the end of a word. @deva[सत्सरु], a fine handle of a sword. @deva[प्रशान्तनोति] a good man spreads.
 
 ### (c) नृन् Before प्
 
-The @deva[न्] @[n] of @deva[नृन्] @[nṛn] when followed by @deva[प्] @[p] undergoes this change optionally; @deva[नृन् + पाहि = नृन्पाहि] @[nṛn + pāhi = nṛnpāhi], @deva[नृंःपाहि] @[nṛṃḥpāhi], and @deva[नृँःपाहि] @[nṛ̃ḥpāhi].
+The @deva[न्] of @deva[नृन्] when followed by @deva[प्] undergoes this change optionally; @deva[नृन् + पाहि = नृन्पाहि], @deva[नृंःपाहि], and @deva[नृँःपाहि].
 
 ### (d) कान् Before कान्
 
-The @deva[न्] @[n] of @deva[कान्] @[kān] followed by @deva[कान्] @[kān] also undergoes this change optionally; @deva[कान् + कान् = कांस्कान्] @[kān + kān = kāṃskān], @deva[काँस्कान्] @[kã̃skān] to whom? @deva[स्] @[s] or @deva[ष्] @[ṣ] is substituted for the visarga when the following sets are combined: @deva[कः + कः = कस्कः] @[kaḥ + kaḥ = kaskaḥ]; similarly @deva[कुतस्कुतः] @[kutaskutaḥ] wherefrom, @deva[भ्रातुष्पुत्रः] @[bhrātuṣputraḥ], @deva[सम्प्रस्कालः] @[saṃpraskālaḥ] the present time; @deva[सर्पिष्कुण्डिका] @[sarpiṣkuṇḍikā] a ghee-pot; @deva[धनुष्कपालम्] @[dhanuṣkapālam] a bowstaff; @deva[यजुष्पात्रम्] @[yajuṣpātram] a sacrificial vessel; @deva[अयस्कान्त] @[ayaskānta] a magnet; @deva[तमःकाण्डः] @[tamaḥkāṇḍaḥ] great darkness; @deva[अपःकाण्डः] @[apaḥkāṇḍaḥ]; @deva[भास्करः] @[bhāskaraḥ]; @deva[अहःकरः] @[ahaḥkaraḥ] the sun.
+The @deva[न्] of @deva[कान्] followed by @deva[कान्] also undergoes this change optionally; @deva[कान् + कान् = कांस्कान्], @deva[काँस्कान्] to whom? @deva[स्] or @deva[ष्] is substituted for the visarga when the following sets are combined: @deva[कः + कः = कस्कः]; similarly @deva[कुतस्कुतः] wherefrom, @deva[भ्रातुष्पुत्रः], @deva[सम्प्रस्कालः] the present time; @deva[सर्पिष्कुण्डिका] a ghee-pot; @deva[धनुष्कपालम्] a bowstaff; @deva[यजुष्पात्रम्] a sacrificial vessel; @deva[अयस्कान्त] a magnet; @deva[तमःकाण्डः] great darkness; @deva[अपःकाण्डः]; @deva[भास्करः]; @deva[अहःकरः] the sun.
 
 ---
-[^1]: N. B.** The word @deva[संस्कर्ता] @[saṃskartā] is capable of having 108 different forms as several sūtras are brought to bear upon it; but they are not given here as being tedious and of no material value.
+[^1]: N. B.** The word @deva[संस्कर्ता] is capable of having 108 different forms as several sūtras are brought to bear upon it; but they are not given here as being tedious and of no material value.
 [^2]: Sections a, b, c, and d may be omitted by beginners.**
-[^3]: The @deva[म्] @[m] of @deva[पुम्] @[pum] is optionally nasalised and has @deva[स्] @[s] added to it as above, when it is followed by a hard consonant except a sibilant, preceding a vowel, a semivowel, a nasal or @deva[ह्] @[h]; @deva[पुम् + कोकिलः = पुम् + स् + कोकिलः = पुंस्कोकिलः] @[pum + kokilaḥ = pum + s + kokilaḥ = puṃskokilaḥ], @deva[पुँस्कोकिलः] @[pũskokilaḥ] a male kokila bird; so @deva[पुंस्पुत्रः] @[puṃsputraḥ] and @deva[पुँस्पुत्रः] @[pũsputraḥ]; the son, a grown up man; but @deva[पुंसीरम्] @[puṃsīram] milk for a man; @deva[पुंदासः] @[puṃdāsaḥ] a man-servant. Exception @deva[पुंस्त्वानम्] @[puṃstvānam] the account of a man
-[^4]: @deva[नश्चापदान्तस्य झलि] @[naścāpadāntasya jhali] Pāṇ. VIII. 3. 7.
-[^5]: @deva[उभयसर्जनीयप्रत्ययोः] @[ubhayasarjanīyapratyayoḥ] Pāṇ. VIII. 3. 58.
-[^6]: @deva[संपुंसां सौ वक्तव्यः] @[saṃpuṃsāṃ sau vaktavyaḥ] Vārt.
-[^7]: @deva[पुंसः स्वप्यपरे] @[puṃsaḥ svapyapare] Pāṇ. VIII. 3. 6. @deva[स्यान्नादेशे न] @[syānnādeśe na] Vārt.
+[^3]: The @deva[म्] of @deva[पुम्] is optionally nasalised and has @deva[स्] added to it as above, when it is followed by a hard consonant except a sibilant, preceding a vowel, a semivowel, a nasal or @deva[ह्]; @deva[पुम् + कोकिलः = पुम् + स् + कोकिलः = पुंस्कोकिलः], @deva[पुँस्कोकिलः] a male kokila bird; so @deva[पुंस्पुत्रः] and @deva[पुँस्पुत्रः]; the son, a grown up man; but @deva[पुंसीरम्] milk for a man; @deva[पुंदासः] a man-servant. Exception @deva[पुंस्त्वानम्] the account of a man
+[^4]: @deva[नश्चापदान्तस्य झलि] Pāṇ. VIII. 3. 7.
+[^5]: @deva[उभयसर्जनीयप्रत्ययोः] Pāṇ. VIII. 3. 58.
+[^6]: @deva[संपुंसां सौ वक्तव्यः] Vārt.
+[^7]: @deva[पुंसः स्वप्यपरे] Pāṇ. VIII. 3. 6. @deva[स्यान्नादेशे न] Vārt.
 
 
 

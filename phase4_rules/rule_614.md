@@ -30,4 +30,4 @@ image: /images/369.png
 
 ## § 614. Meaning of the Desiderative
 
-The Desiderative expresses the notion that a person or thing wishes (or is about) to perform the action, or to be in the condition denoted by the root or the desiderative base; @deva[विविद्विति] @[vividviti] 'he wishes to study' from @deva[पठ्] @[paṭh]; @deva[मुमूर्षिति] @[mumūrṣiti] 'he is about to die' from @deva[मृ] @[mṛ]; &c.
+The Desiderative expresses the notion that a person or thing wishes (or is about) to perform the action, or to be in the condition denoted by the root or the desiderative base; @deva[विविद्विति] 'he wishes to study' from @deva[पठ्]; @deva[मुमूर्षिति] 'he is about to die' from @deva[मृ]; &c.

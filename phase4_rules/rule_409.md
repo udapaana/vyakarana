@@ -36,12 +36,12 @@ image: /images/242.png
 
 ### (a) Penultimate Nasal Dropping
 
-The penultimate nasal of a root is dropped before @deva[न] @[na] &c.
+The penultimate nasal of a root is dropped before @deva[न] &c.
 
-e.g. @deva[युञ्जाति] @[yuñjāti], @deva[युञ्जीत] @[yuñjīta], @deva[युञ्जीताः] @[yuñjītāḥ] &c. from @deva[युञ्ज्] @[yuñj] 'to arrange, put together.'
+e.g. @deva[युञ्जाति], @deva[युञ्जीत], @deva[युञ्जीताः] &c. from @deva[युञ्ज्] 'to arrange, put together.'
 
 ### (b) Imperative 2nd Singular Formation
 
-In the case of roots ending in a consonant, the imperative second person singular termination is @deva[आन] @[āna] instead of @deva[हि] @[hi].
+In the case of roots ending in a consonant, the imperative second person singular termination is @deva[आन] instead of @deva[हि].
 
-e.g. @deva[शुनाग] @[śunāna] from @deva[शुनु] @[śunu] 'to steal'.
+e.g. @deva[शुनाग] from @deva[शुनु] 'to steal'.

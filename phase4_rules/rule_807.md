@@ -33,13 +33,13 @@ image: /images/478.png
 
 When[^1] these verbs are used in the passive, the secondary object in the case of the first twelve roots and the principal one in that of the last four is put in the Nominative, being the other Accusative remaining as before.
 
-e.g. @deva[गावः पयः दुग्धे] @[gāvaḥ payaḥ dugdhe]: the cows are milked for milk.
+e.g. @deva[गावः पयः दुग्धे]: the cows are milked for milk.
 
-@deva[ब्राह्मणस्य रामम् यथार्थम् लोकितशुच] @[brāhmaṇasya rāmam yathārtham lokitaśuca]: Rāma was told the truth by the Brāhmaṇa.
+@deva[ब्राह्मणस्य रामम् यथार्थम् लोकितशुच]: Rāma was told the truth by the Brāhmaṇa.
 
-@deva[इन्द्रेण द्वीपम् मन्युर्घे देवैः] @[indreṇa dvīpam manyurghe devaiḥ]: &c.
+@deva[इन्द्रेण द्वीपम् मन्युर्घे देवैः]: &c.
 
-@deva[तेन गावः ग्रामम् नीयन्ते विद्युमन्तम् लथ्यन्तम् उद्युन्ते वा] @[tena gāvaḥ grāmam nīyante vidyumantam lathyantam udyunte vā]: &c.
+@deva[तेन गावः ग्रामम् नीयन्ते विद्युमन्तम् लथ्यन्तम् उद्युन्ते वा]: &c.
 
 ---
-[^1]: @deva[मीणाम् मूर्णस् द्वितीये गीहकर्मादिवत्] @[mīṇām mūrṇas dvitīye gīhakarmādivat] Sid. Kau. on Pāṇ. VII.1.69
+[^1]: @deva[मीणाम् मूर्णस् द्वितीये गीहकर्मादिवत्] Sid. Kau. on Pāṇ. VII.1.69

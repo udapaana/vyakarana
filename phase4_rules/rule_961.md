@@ -37,10 +37,10 @@ If ever there would be plentiful rain there would be an abundance of corn.
 
 **Example (with Sanskrit):**
 
-@deva[यदि पूर्णिमासस्यात्तेनात्तरो गायतु तर्हि तच्चार्थो कार्यानि] @[yadi pūrṇimāsasyāt­tenā­ttaro gāyatu tarhi taccārtho kāryāni] had you obtained (which you have not) the sweet fragrance of her breath, would you have had any liking for this lotus?
+@deva[यदि पूर्णिमासस्यात्तेनात्तरो गायतु तर्हि तच्चार्थो कार्यानि] had you obtained (which you have not) the sweet fragrance of her breath, would you have had any liking for this lotus?
 
 ---
 
-**Pāṇini Reference:** @deva[लिङ्लिविधौ छट् पादिविधो] @[liṅli­vidh­au chaṭ pādividho] (Pāṇ. III. 3. 139)
+**Pāṇini Reference:** @deva[लिङ्लिविधौ छट् पादिविधो] (Pāṇ. III. 3. 139)
 
-The commentary explains: When the Potential (@deva[लिङ्] @[liṅ]) is used in conditional constructions, the Conditional (@deva[छट्] @[chaṭ]) may be used instead when the action's non-performance is the presupposition.
+The commentary explains: When the Potential (@deva[लिङ्]) is used in conditional constructions, the Conditional (@deva[छट्]) may be used instead when the action's non-performance is the presupposition.

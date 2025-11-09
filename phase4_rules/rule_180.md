@@ -27,9 +27,9 @@ confidence: high
 image: /images/100.png
 ---
 
-## § 180. Formation of Compounds (@deva[समास] @[Samāsa])
+## § 180. Formation of Compounds (@deva[समास])
 
-In Sanskrit simple words, whether substantives, adjectives, verbs or indeclinables, have the power of entering into combination with one another and forming what are called '@deva[समास] @[Samāsas]', compound words or, in short, compounds.
+In Sanskrit simple words, whether substantives, adjectives, verbs or indeclinables, have the power of entering into combination with one another and forming what are called '@deva[समास]', compound words or, in short, compounds.
 
 ### (a) Compounding of Compounds
 

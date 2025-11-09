@@ -28,4 +28,4 @@ image: /images/384.png
 
 ## § 641. Denominatives with Affix य (क्यच्) in Desiderative Sense
 
-When the sense of 'wish' is to be expressed, a nominal verb may be derived from any Subanta or nominal stem by affixing @deva[य] @[ya] to it. The derivative verbal base derived in this manner is conjugated in the Parasm. only.
+When the sense of 'wish' is to be expressed, a nominal verb may be derived from any Subanta or nominal stem by affixing @deva[य] to it. The derivative verbal base derived in this manner is conjugated in the Parasm. only.

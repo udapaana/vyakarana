@@ -36,8 +36,8 @@ image: /images/136.png
 
 ## § 218. Nañ or Negative Tatpurusha
 
-(a) The negative particle @deva[न] @[na] changed to @deva[अ] @[a] before a consonant and @deva[अन्] @[an] before a vowel, may be compounded with any noun to form the Negative-Tatpurusha;[^1] as @deva[न ब्राह्मणः] @[na brāhmaṇaḥ] @deva[अब्राह्मणः] @[abrāhmaṇaḥ], one not a Brāhmana; @deva[न अश्वः] @[na aśvaḥ] @deva[अनश्वः] @[anaśvaḥ], @deva[असत्] @[asat], non-existent, or not good, etc.
+(a) The negative particle @deva[न] changed to @deva[अ] before a consonant and @deva[अन्] before a vowel, may be compounded with any noun to form the Negative-Tatpurusha;[^1] as @deva[न ब्राह्मणः] @deva[अब्राह्मणः], one not a Brāhmana; @deva[न अश्वः] @deva[अनश्वः], @deva[असत्], non-existent, or not good, etc.
 
 ---
 
-[^1]: @deva[नञ्] @[nañ] Pāṇ. II.2.6. @deva[न लुक् नञ्ः । तस्मान् अन् अदादिच्] @[na luk nañaḥ | tasmān an adādic] Pāṇ. VI.3.73, 74.
+[^1]: @deva[नञ्] Pāṇ. II.2.6. @deva[न लुक् नञ्ः । तस्मान् अन् अदादिच्] Pāṇ. VI.3.73, 74.

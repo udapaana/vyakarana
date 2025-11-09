@@ -23,4 +23,4 @@ image: TBD
 
 ## § 517. Base of इ with अधि is अधीय
 
-The base of @deva[इ] @[i] with @deva[अधि] @[adhi] 'to study' is @deva[अधीय] @[adhīya]. Forms: @deva[अधिजगौ] @[adhijagau], @deva[अधिजग्मिवे] @[adhijagmive], @deva[अधिजग्मिमहे] @[adhijagmimahe], etc.
+The base of @deva[इ] with @deva[अधि] 'to study' is @deva[अधीय]. Forms: @deva[अधिजगौ], @deva[अधिजग्मिवे], @deva[अधिजग्मिमहे], etc.

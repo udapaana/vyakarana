@@ -23,4 +23,4 @@ source_pages:
 ---
 ## § 66. General Rule for Feminine Nouns ending in आ
 
-Decline all other fem. nouns ending in @deva[आ] @[ā] similarly.
+Decline all other fem. nouns ending in @deva[आ] similarly.

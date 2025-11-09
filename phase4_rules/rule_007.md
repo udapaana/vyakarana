@@ -28,4 +28,4 @@ image: /images/page_013a.jpg
 
 ## § 7. Aspirated and Unaspirated Consonants
 
-Some consonants are pronounced with a slight aspiration and are designated as @deva[अल्पप्राण] @[alpa-prāṇa], while others which are pronounced with a stronger aspiration are called @deva[महाप्राण] @[mahā-prāṇa]. The first and third letters of each class, the nasals and the semi-vowels belong to the first class; the rest belong to the second class. For the sake of convenience the first and third letters of each class are sometimes called "unaspirates."
+Some consonants are pronounced with a slight aspiration and are designated as @deva[अल्पप्राण], while others which are pronounced with a stronger aspiration are called @deva[महाप्राण]. The first and third letters of each class, the nasals and the semi-vowels belong to the first class; the rest belong to the second class. For the sake of convenience the first and third letters of each class are sometimes called "unaspirates."

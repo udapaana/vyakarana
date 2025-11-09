@@ -31,16 +31,16 @@ image: /images/180.png
 
 ## § 320. Adjectives Ending in Short U
 
-Adjectives ending in @deva[उ] @[u] not preceded by a conjunct consonant, except @deva[खरु] @[kharu], take @deva[ई] @[ī] optionally.
+Adjectives ending in @deva[उ] not preceded by a conjunct consonant, except @deva[खरु], take @deva[ई] optionally.
 
-e.g. @deva[मृदु] @[mṛdu] → @deva[मृदुः] @[mṛduḥ] or @deva[मृद्वी] @[mṛdvī]: soft
+e.g. @deva[मृदु] → @deva[मृदुः] or @deva[मृद्वी]: soft
 
-e.g. @deva[पटु] @[paṭu] → @deva[पटुः] @[paṭuḥ] or @deva[पट्वी] @[paṭvī]: sharp
+e.g. @deva[पटु] → @deva[पटुः] or @deva[पट्वी]: sharp
 
-e.g. @deva[बहु] @[bahu] → @deva[बहुः] @[bahuḥ] or @deva[बह्वी] @[bahvī]: much
+e.g. @deva[बहु] → @deva[बहुः] or @deva[बह्वी]: much
 
-But @deva[खरुः] @[kharuḥ]: a girl who chooses her husband (@deva[पतिंवरा कन्या] @[patiṃvarā kanyā])
+But @deva[खरुः]: a girl who chooses her husband (@deva[पतिंवरा कन्या])
 
-@deva[पाण्डुः] @[pāṇḍuḥ] and not @deva[पाण्ड्वी] @[pāṇḍvī] as the @deva[उ] @[u] is preceded by a conjunct consonant
+@deva[पाण्डुः] and not @deva[पाण्ड्वी] as the @deva[उ] is preceded by a conjunct consonant
 
-@deva[आखुः] @[ākhuḥ] as it is a noun
+@deva[आखुः] as it is a noun

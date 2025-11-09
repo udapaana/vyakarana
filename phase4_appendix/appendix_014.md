@@ -19,4 +19,4 @@ confidence: high
 image: /images/526.png
 ---
 
-§ 14. The most common variety of metres regulated by @deva[मात्रा] @[mātrā] are the @deva[आर्या] @[āryā] and its variations. These metres are widely used in classical Sanskrit literature, particularly in dramatic works.
+§ 14. The most common variety of metres regulated by @deva[मात्रा] are the @deva[आर्या] and its variations. These metres are widely used in classical Sanskrit literature, particularly in dramatic works.

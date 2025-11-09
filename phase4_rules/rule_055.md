@@ -34,20 +34,20 @@ image: /images/020.png
 
 ## § 55. Case Terminations (Vibhakti)
 
-The case-terminations technically called @deva[विभक्ति] @[vibhakti] are as follows:
+The case-terminations technically called @deva[विभक्ति] are as follows:
 
-**Nominative:** @deva[स्] @[s] or @deva[सु] @[su] for the Singular (@deva[एकवचन] @[ekavacana]), @deva[औ] @[au] for the Dual (@deva[द्विवचन] @[dvivacana]), @deva[जस्] @[jas] for the Plural (@deva[बहुवचन] @[bahuvacana]);
+**Nominative:** @deva[स्] or @deva[सु] for the Singular (@deva[एकवचन]), @deva[औ] for the Dual (@deva[द्विवचन]), @deva[जस्] for the Plural (@deva[बहुवचन]);
 
-**Accusative:** @deva[अम्] @[am] for the Acc. Sing., @deva[औट्] @[auṭ] (with final @deva[ट्] @[ṭ] dropped) for the Dual and @deva[शस्] @[śas] for the Plural;
+**Accusative:** @deva[अम्] for the Acc. Sing., @deva[औट्] (with final @deva[ट्] dropped) for the Dual and @deva[शस्] for the Plural;
 
-**Instrumental:** @deva[टा] @[ṭā] for the Inst. Sing., @deva[भ्याम्] @[bhyām] for the Dual, and @deva[भिस्] @[bhis] for the Plural;
+**Instrumental:** @deva[टा] for the Inst. Sing., @deva[भ्याम्] for the Dual, and @deva[भिस्] for the Plural;
 
-**Dative:** @deva[ङे] @[ṅe] (with the initial @deva[ङ] @[ṅ] dropped) for the Dat. Sing., @deva[भ्याम्] @[bhyām] for the dual and @deva[भ्यस्] @[bhyas] for the Plural;
+**Dative:** @deva[ङे] (with the initial @deva[ङ] dropped) for the Dat. Sing., @deva[भ्याम्] for the dual and @deva[भ्यस्] for the Plural;
 
-**Ablative:** @deva[ङसि] @[ṅasi] (= @deva[सि] @[si]) for the Abl. Sing., @deva[भ्याम्] @[bhyām] for the Dual, and @deva[भ्यस्] @[bhyas] for the Pl.;
+**Ablative:** @deva[ङसि] (= @deva[सि]) for the Abl. Sing., @deva[भ्याम्] for the Dual, and @deva[भ्यस्] for the Pl.;
 
-**Genitive:** @deva[ङस्] @[ṅas] (@deva[ङ] @[ṅ] or @deva[स्] @[s]) for the Gen. Sing., @deva[ओस्] @[os] for the Dual and @deva[आम्] @[ām] for the plural;
+**Genitive:** @deva[ङस्] (@deva[ङ] or @deva[स्]) for the Gen. Sing., @deva[ओस्] for the Dual and @deva[आम्] for the plural;
 
-**Locative:** @deva[ङि] @[ṅi] (= @deva[इ] @[i]) for the loc. Sing., @deva[ओस्] @[os] for the Dual, and @deva[सुप्] @[sup] (= @deva[सु] @[su]) for the Plural.
+**Locative:** @deva[ङि] (= @deva[इ]) for the loc. Sing., @deva[ओस्] for the Dual, and @deva[सुप्] (= @deva[सु]) for the Plural.
 
-These case-terminations are again distinguished in Pāṇinian grammar into @deva[सार्वधातुक] @[sārvadh ātuka] (like terminations of the Parasmaipada) and @deva[आर्धधातुक] @[ārdhadhātuka] (like terminations of the Ātmanepada).
+These case-terminations are again distinguished in Pāṇinian grammar into @deva[सार्वधातुक] (like terminations of the Parasmaipada) and @deva[आर्धधातुक] (like terminations of the Ātmanepada).

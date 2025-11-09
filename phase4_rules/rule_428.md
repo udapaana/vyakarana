@@ -27,5 +27,5 @@ image: /images/263.png
 
 [Content extracted from pages 277-278 - to be enhanced with full OCR text and proper tagging]
 
-Key terms: @deva[ऊर्णु] @[...]
+Key terms: @deva[ऊर्णु]
 

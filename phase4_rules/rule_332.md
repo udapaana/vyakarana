@@ -28,6 +28,6 @@ image: /images/184.png
 
 ## § 332. Body Parts with Cardinal Direction Prefix
 
-Names of the limbs of the body, preceded by words denoting a cardinal point in a compound, form their feminine in @deva[ई] @[ī].
+Names of the limbs of the body, preceded by words denoting a cardinal point in a compound, form their feminine in @deva[ई].
 
-e.g. @deva[उदङ्मुखी] @[udaṅmukhī]: facing north, etc.
+e.g. @deva[उदङ्मुखी]: facing north, etc.

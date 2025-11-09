@@ -37,9 +37,9 @@ citations:
 
 footnotes:
   - id: 1
-    content: "@deva[परः संनिकर्षः संहिता] @[paraḥ saṃnikarṣaḥ saṃhitā] Pāṇ. I. 4. 109. @deva[संहिता] @[saṃhitā] is the extreme contiguity of letters."
+    content: "@deva[परः संनिकर्षः संहिता] Pāṇ. I. 4. 109. @deva[संहिता] is the extreme contiguity of letters."
   - id: 2
-    content: "@deva[संहितैकपदे नित्या नित्या धातूपसर्गयोः । नित्या समासे वाक्ये तु सा विवक्षामपेक्षते] @[saṃhitaikapade nityā nityā dhātūpasargayoḥ. nityā samāse vākye tu sā vivakṣāmapekṣate] Sid. Kau. This couplet gives the rule for the observation of Sandhi."
+    content: "@deva[संहितैकपदे नित्या नित्या धातूपसर्गयोः । नित्या समासे वाक्ये तु सा विवक्षामपेक्षते] Sid. Kau. This couplet gives the rule for the observation of Sandhi."
 
 confidence: high
 
@@ -48,16 +48,16 @@ image: /images/002.png
 
 # Chapter II. Rules of Sandhi
 
-Definition of @deva[सन्धि] @[sandhi]
+Definition of @deva[सन्धि]
 
-By @deva[सन्धि] @[sandhi] (from @deva[सम्] @[sam] together, and @deva[धा] @[dhā] to join) is meant the coalescence of two letters coming in immediate contact with each other.[^1]
+By @deva[सन्धि] (from @deva[सम्] together, and @deva[धा] to join) is meant the coalescence of two letters coming in immediate contact with each other.[^1]
 
 ### (a) When Sandhi is Necessary
 
-@deva[संहिता] @[saṃhitā][^2] or @deva[सन्धि] @[sandhi] is necessary in the case of the internal structure of a @deva[पद] @[pada], prepositions and roots joined together and a compound word (@deva[समास] @[samāsa]), while in that of a sentence i.e. in the case of the finals and initials of the different words in a sentence, it depends on the will of the writer.
+@deva[संहिता][^2] or @deva[सन्धि] is necessary in the case of the internal structure of a @deva[पद], prepositions and roots joined together and a compound word (@deva[समास]), while in that of a sentence i.e. in the case of the finals and initials of the different words in a sentence, it depends on the will of the writer.
 
-## I. @deva[स्वरसन्धि] @[svarasandhi], OR THE COMBINATION OF FINAL AND INITIAL VOWELS
+## I. @deva[स्वरसन्धि], OR THE COMBINATION OF FINAL AND INITIAL VOWELS
 
-[^1]: @deva[परः संनिकर्षः संहिता] @[paraḥ saṃnikarṣaḥ saṃhitā] Pāṇ. I. 4. 109. @deva[संहिता] @[saṃhitā] is the extreme contiguity of letters.
+[^1]: @deva[परः संनिकर्षः संहिता] Pāṇ. I. 4. 109. @deva[संहिता] is the extreme contiguity of letters.
 
-[^2]: @deva[संहितैकपदे नित्या नित्या धातूपसर्गयोः । नित्या समासे वाक्ये तु सा विवक्षामपेक्षते] @[saṃhitaikapade nityā nityā dhātūpasargayoḥ. nityā samāse vākye tu sā vivakṣāmapekṣate] Sid. Kau. This couplet gives the rule for the observation of Sandhi.
+[^2]: @deva[संहितैकपदे नित्या नित्या धातूपसर्गयोः । नित्या समासे वाक्ये तु सा विवक्षामपेक्षते] Sid. Kau. This couplet gives the rule for the observation of Sandhi.

@@ -32,16 +32,16 @@ image: /images/181.png
 
 ## § 322. Compounds Ending in Ūru
 
-If a compound has for its last member @deva[ऊरु] @[ūru] and for its first, words signifying a standard of comparison, or one of the words @deva[संहित] @[saṃhita], @deva[शफ] @[śapha], @deva[लक्षण] @[lakṣaṇa], @deva[व्राम] @[vrāma], @deva[महित] @[mahita] and @deva[सह] @[saha] it forms its feminine in @deva[ऊ] @[ū].
+If a compound has for its last member @deva[ऊरु] and for its first, words signifying a standard of comparison, or one of the words @deva[संहित], @deva[शफ], @deva[लक्षण], @deva[व्राम], @deva[महित] and @deva[सह] it forms its feminine in @deva[ऊ].
 
-e.g. @deva[रम्भोरूः] @[rambhorūḥ]: plantain-thighed (@deva[रम्भे इव ऊरू यस्याः] @[rambhe iva ūrū yasyāḥ])
+e.g. @deva[रम्भोरूः]: plantain-thighed (@deva[रम्भे इव ऊरू यस्याः])
 
-e.g. @deva[करभोरूः] @[karabhorūḥ]: having thighs (beautifully tapering) like the fore-arm or the trunk of an elephant
+e.g. @deva[करभोरूः]: having thighs (beautifully tapering) like the fore-arm or the trunk of an elephant
 
-e.g. @deva[संहितोरूः] @[saṃhitorūḥ]: having well-turned thighs
+e.g. @deva[संहितोरूः]: having well-turned thighs
 
-e.g. @deva[शफोरूः] @[śaphorūḥ]: (@deva[शफी खुरौ तावत्र संश्लिष्टत्वादूरू यस्याः सा] @[śaphī khurau tāvatra saṃśliṣṭatvādūrū yasyāḥ sā])
+e.g. @deva[शफोरूः]: (@deva[शफी खुरौ तावत्र संश्लिष्टत्वादूरू यस्याः सा])
 
-e.g. @deva[संहितोरूः] @[saṃhitorūḥ]: (@deva[हितेन सह संहितौ ऊरू यस्याः सा] @[hitena saha saṃhitau ūrū yasyāḥ sā])
+e.g. @deva[संहितोरूः]: (@deva[हितेन सह संहितौ ऊरू यस्याः सा])
 
-e.g. @deva[सहोरूः] @[sahorūḥ]: a woman whose thighs are capable of enduring great fatigue or pain; or one having excellent thighs (@deva[सहेते इति सहौ ऊरू यस्याः सा] @[sahete iti sahau ūrū yasyāḥ sā])
+e.g. @deva[सहोरूः]: a woman whose thighs are capable of enduring great fatigue or pain; or one having excellent thighs (@deva[सहेते इति सहौ ऊरू यस्याः सा])

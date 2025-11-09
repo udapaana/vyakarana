@@ -33,9 +33,9 @@ When the continuousness of an action or nearness of time (i.e. the non-intervent
 
 **Examples:**
 
-- @deva[याबज्जीवयानं दास्यति] @[yābajjīvayānaṃ dāsyati] he will give food throughout his life; and not @deva[दातु] @[dātu]
-- @deva[य इयं अन्यस्या आनित्यतो] @[ya iyaṃ anyasyā ānityato]
+- @deva[याबज्जीवयानं दास्यति] he will give food throughout his life; and not @deva[दातु]
+- @deva[य इयं अन्यस्या आनित्यतो]
 
 ---
 
-**Pāṇini Reference:** @deva[नात्यनवच्युक्तनंच्यन्हार्णो विष्युः। पविच्युतिनर्युनदुदच्युनैरुयरुछुयु । कालविभागो चाकदरोद्यणाट्। रोलिङुनुमायु।] @[nātyanavacyuktanaṃcyanhārṇo viṣyuḥ| pavicyutinăryanadudacyunairuya­rachyu | kālavibhāgo cākadarodyaṇāṭ| roliṅunamāyu|] (Pāṇ. III. 3. 135-138)
+**Pāṇini Reference:** @deva[नात्यनवच्युक्तनंच्यन्हार्णो विष्युः। पविच्युतिनर्युनदुदच्युनैरुयरुछुयु । कालविभागो चाकदरोद्यणाट्। रोलिङुनुमायु।] (Pāṇ. III. 3. 135-138)

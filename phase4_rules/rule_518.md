@@ -23,4 +23,4 @@ image: TBD
 
 ## § 518. कर्ष् Forms Base as कर्ष
 
-The root @deva[कर्ष्] @[karṣ] forms its base as @deva[कर्ष] @[karṣa]. Its vowel is only guṇated before a strong termination when it takes [additional conditions follow].
+The root @deva[कर्ष्] forms its base as @deva[कर्ष]. Its vowel is only guṇated before a strong termination when it takes [additional conditions follow].

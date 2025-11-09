@@ -29,23 +29,23 @@ image: /images/513.png
 
 ## § 953. Potential for Fitness and Capability
 
-When the idea of fitness is to be expressed the Potential or the Potential participle may be used; and sometimes the noun in @deva[न] @[na] also:
+When the idea of fitness is to be expressed the Potential or the Potential participle may be used; and sometimes the noun in @deva[न] also:
 
 **Examples:**
 
-- @deva[त्वं कन्यां वहेत] @[tvaṃ kanyāṃ vahet]
-- @deva[त्वं कन्याः भीयाद] @[tvaṃ kanyāḥ bhīyād] or @deva[स्वाभ्यां कन्या भीयात] @[svābhyāṃ kanyā bhīyāt]
+- @deva[त्वं कन्यां वहेत]
+- @deva[त्वं कन्याः भीयाद] or @deva[स्वाभ्यां कन्या भीयात]
 
 You are fit to marry the girl.
 
 **(a)** The Potential or the Potential participle may be used when the sense of capability is implied:
 
-- @deva[भारं त्वं वहेत] @[bhāraṃ tvaṃ vahet] or @deva[भारस्यास्य भीयाच्य] @[bhārasyāsya bhīyācya]
+- @deva[भारं त्वं वहेत] or @deva[भारस्यास्य भीयाच्य]
 
 You are capable to carry the load.
 
 ---
 
 **Pāṇini References:**
-- @deva[अर्हे छन्दसानताऽऽत] @[arhe chandas­ānato''ta] (Pāṇ. III. 3. 169)
-- @deva[शक्तिने लिङ् च] @[śaktine liṅ ca] (Pāṇ. III. 3. 172)
+- @deva[अर्हे छन्दसानताऽऽत] (Pāṇ. III. 3. 169)
+- @deva[शक्तिने लिङ् च] (Pāṇ. III. 3. 172)

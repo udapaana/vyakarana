@@ -29,12 +29,12 @@ image: /images/page_013b.jpg
 
 ## § 10. Vowels and Consonants
 
-A @deva[स्वर] @[svara] or vowel is that which can be pronounced without the help of any other letter; a @deva[व्यञ्जन] @[vyañjana] or consonant is that which is pronounced with the help of a vowel. The consonants, therefore, are written with a slanting nether stroke to denote their imperfect character.
+A @deva[स्वर] or vowel is that which can be pronounced without the help of any other letter; a @deva[व्यञ्जन] or consonant is that which is pronounced with the help of a vowel. The consonants, therefore, are written with a slanting nether stroke to denote their imperfect character.
 
 ### (a) Pāṇini's System
 
-Hence the consonants are given, in the system of Pāṇini, with an @deva[अ] @[a] added to them for the sake of pronunciation.
+Hence the consonants are given, in the system of Pāṇini, with an @deva[अ] added to them for the sake of pronunciation.
 
 ### (b) Letter Names
 
-As already remarked, there are no separate names for the letters of the Sanskrit alphabet, except the two mentioned before, viz. @deva[अनुस्वार] @[anusvāra] and @deva[विसर्ग] @[visarga], and @deva[रेफ] @[refa] which is the name sometimes given to @deva[र] @[r]. The word @deva[कार] @[kāra] is therefore used as an affix to denote a particular letter; e.g. @deva[अकार] @[akāra] the letter '@deva[अ] @[a]', @deva[ककार] @[kakāra] the letter '@deva[क] @[k]', &c.
+As already remarked, there are no separate names for the letters of the Sanskrit alphabet, except the two mentioned before, viz. @deva[अनुस्वार] and @deva[विसर्ग], and @deva[रेफ] which is the name sometimes given to @deva[र]. The word @deva[कार] is therefore used as an affix to denote a particular letter; e.g. @deva[अकार] the letter '@deva[अ]', @deva[ककार] the letter '@deva[क]', &c.

@@ -31,8 +31,8 @@ image: /images/179.png
 
 The feminine of words expressive of relationship is irregular.
 
-e.g. @deva[श्वशुर] @[śvaśura] → @deva[श्वश्रू] @[śvaśrū]: father-in-law → mother-in-law
+e.g. @deva[श्वशुर] → @deva[श्वश्रू]: father-in-law → mother-in-law
 
-e.g. @deva[पितृ] @[pitṛ] → @deva[मातृ] @[mātṛ]: father → mother
+e.g. @deva[पितृ] → @deva[मातृ]: father → mother
 
 etc.

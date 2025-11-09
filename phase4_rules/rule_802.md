@@ -31,13 +31,13 @@ image: /images/475.png
 
 ## § 802. Root अस् with अधि governing Accusative
 
-@deva[अस्] @[as] with @deva[अधि] @[adhi] governs the Accusative;[^1] @deva[अधितिष्ठति शुभम् मार्गम्] @[adhitiṣṭhati śubham mārgam]: he pursues the path of goodness.
+@deva[अस्] with @deva[अधि] governs the Accusative;[^1] @deva[अधितिष्ठति शुभम् मार्गम्]: he pursues the path of goodness.
 
-@deva[शुभे सु गणिकायामेव यः ते स भवन्मनोऽधितिष्ठते] @[śubhe su gaṇikāyāmeva yaḥ te sa bhavanmano'dhitiṣṭhate]: happy is that harlot girl on whom you have fixed your mind (see Bhaṭṭi. VIII, 80).
+@deva[शुभे सु गणिकायामेव यः ते स भवन्मनोऽधितिष्ठते]: happy is that harlot girl on whom you have fixed your mind (see Bhaṭṭi. VIII, 80).
 
-Rarely this governs the Loc. @deva[अधितिष्ठति पापे] @[adhitiṣṭhati pāpe]: fondly resorts to sin.
+Rarely this governs the Loc. @deva[अधितिष्ठति पापे]: fondly resorts to sin.
 
-@deva[अस्] @[as] with a preposition governs the Acc. but with @deva[अधि] @[adhi] meaning 'to sit' takes the Loc. @deva[अत्रैव अधिषीदतु असन] @[atraiva adhiṣīdatu āsana]: sit on this seat.
+@deva[अस्] with a preposition governs the Acc. but with @deva[अधि] meaning 'to sit' takes the Loc. @deva[अत्रैव अधिषीदतु असन]: sit on this seat.
 
 ---
-[^1]: @deva[अधिसीत्यष्टौ] @[adhisītyaṣṭau] Pāṇ. I.4.47
+[^1]: @deva[अधिसीत्यष्टौ] Pāṇ. I.4.47

@@ -29,10 +29,10 @@ image: /images/175.png
 
 ## § 304. Doubling of Monosyllabic First Member
 
-@deva[एकाचो द्वे प्रथमस्य] @[ekāco dve prathamasya]
+@deva[एकाचो द्वे प्रथमस्य]
 
 When the first member has only one vowel, it is doubled in certain Avyayībhāva formations.
 
-e.g. @deva[सद्दः] @[saddaḥ] becomes @deva[सद्दद्दः] @[saddaddaḥ] in reduplicated forms.
+e.g. @deva[सद्दः] becomes @deva[सद्दद्दः] in reduplicated forms.
 
 **Obs.** This refers to reduplication rules specific to monosyllabic first members.

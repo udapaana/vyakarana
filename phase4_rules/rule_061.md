@@ -24,7 +24,7 @@ cross_refs:
 
 footnotes:
   - id: 1
-    content: "The @deva[न्] @[n] of @deva[इन्] @[in] is changed to @deva[ण] @[ṇ] by [§ 41](rule_041.md). Inst. sing. of @deva[जन्] @[jan] is @deva[जनेन] @[janena]"
+    content: "The @deva[न्] of @deva[इन्] is changed to @deva[ण] by [§ 41](rule_041.md). Inst. sing. of @deva[जन्] is @deva[जनेन]"
 
 confidence: high
 
@@ -37,24 +37,24 @@ image: /images/022.png
 
 | | Singular | Dual | Plural |
 |---|---|---|---|
-| **N.** | @deva[रामः] @[rāmaḥ] | @deva[रामौ] @[rāmau] | @deva[रामाः] @[rāmāḥ] |
-| **V.** | @deva[राम] @[rāma] | @deva[रामौ] @[rāmau] | @deva[रामाः] @[rāmāḥ] |
-| **A.** | @deva[रामम्] @[rāmam] | @deva[रामौ] @[rāmau] | @deva[रामान्] @[rāmān] |
-| **I.** | @deva[रामेण] @[rāmeṇa][^1] | @deva[रामाभ्याम्] @[rāmābhyām] | @deva[रामैः] @[rāmaiḥ] |
-| **D.** | @deva[रामाय] @[rāmāya] | @deva[रामाभ्याम्] @[rāmābhyām] | @deva[रामेभ्यः] @[rāmebhyaḥ] |
-| **Ab.** | @deva[रामात्] @[rāmāt] | @deva[रामाभ्याम्] @[rāmābhyām] | @deva[रामेभ्यः] @[rāmebhyaḥ] |
-| **G.** | @deva[रामस्य] @[rāmasya] | @deva[रामयोः] @[rāmayoḥ] | @deva[रामाणाम्] @[rāmāṇām] |
-| **L.** | @deva[रामे] @[rāme] | @deva[रामयोः] @[rāmayoḥ] | @deva[रामेषु] @[rāmeṣu] |
+| **N.** | @deva[रामः] | @deva[रामौ] | @deva[रामाः] |
+| **V.** | @deva[राम] | @deva[रामौ] | @deva[रामाः] |
+| **A.** | @deva[रामम्] | @deva[रामौ] | @deva[रामान्] |
+| **I.** | @deva[रामेण][^1] | @deva[रामाभ्याम्] | @deva[रामैः] |
+| **D.** | @deva[रामाय] | @deva[रामाभ्याम्] | @deva[रामेभ्यः] |
+| **Ab.** | @deva[रामात्] | @deva[रामाभ्याम्] | @deva[रामेभ्यः] |
+| **G.** | @deva[रामस्य] | @deva[रामयोः] | @deva[रामाणाम्] |
+| **L.** | @deva[रामे] | @deva[रामयोः] | @deva[रामेषु] |
 
 ### ज्ञान n. knowledge
 
 | | Singular | Dual | Plural |
 |---|---|---|---|
-| **N.** | @deva[ज्ञानम्] @[jñānam] | @deva[ज्ञाने] @[jñāne] | @deva[ज्ञानानि] @[jñānāni] |
-| **V.** | @deva[ज्ञान] @[jñāna] | @deva[ज्ञाने] @[jñāne] | @deva[ज्ञानानि] @[jñānāni] |
-| **A.** | @deva[ज्ञानम्] @[jñānam] | @deva[ज्ञाने] @[jñāne] | @deva[ज्ञानानि] @[jñānāni] |
+| **N.** | @deva[ज्ञानम्] | @deva[ज्ञाने] | @deva[ज्ञानानि] |
+| **V.** | @deva[ज्ञान] | @deva[ज्ञाने] | @deva[ज्ञानानि] |
+| **A.** | @deva[ज्ञानम्] | @deva[ज्ञाने] | @deva[ज्ञानानि] |
 
-The rest like @deva[राम] @[rāma].
+The rest like @deva[राम].
 
 ---
-[^1]: The @deva[न्] @[n] of @deva[इन्] @[in] is changed to @deva[ण] @[ṇ] by [§ 41](rule_041.md). Inst. sing. of @deva[जन्] @[jan] is @deva[जनेन] @[janena]
+[^1]: The @deva[न्] of @deva[इन्] is changed to @deva[ण] by [§ 41](rule_041.md). Inst. sing. of @deva[जन्] is @deva[जनेन]

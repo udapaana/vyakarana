@@ -30,10 +30,10 @@ image: /images/181.png
 
 ## § 323. Special Words with Āyī Feminine
 
-The feminine of @deva[वृषाकपि] @[vṛṣākapi] (Viṣṇu or Śiva), @deva[अग्नि] @[agni], @deva[कुसित] @[kusita] or @deva[कुसिद] @[kusida] 'a usurer' is formed in @deva[ई] @[ī] before which the final vowel of these is changed to @deva[ऐ] @[ai].
+The feminine of @deva[वृषाकपि] (Viṣṇu or Śiva), @deva[अग्नि], @deva[कुसित] or @deva[कुसिद] 'a usurer' is formed in @deva[ई] before which the final vowel of these is changed to @deva[ऐ].
 
-e.g. @deva[वृषाकपायी] @[vṛṣākapāyī]
+e.g. @deva[वृषाकपायी]
 
-e.g. @deva[अग्नायी] @[agnāyī]
+e.g. @deva[अग्नायी]
 
-e.g. @deva[कुसितायी] @[kusitāyī] or @deva[कुसिदायी] @[kusidāyī]
+e.g. @deva[कुसितायी] or @deva[कुसिदायी]

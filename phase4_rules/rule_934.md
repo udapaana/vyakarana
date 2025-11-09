@@ -36,8 +36,8 @@ The difference between the Two Futures is the same as that between the Imperfect
 
 **Examples:**
 
-- @deva[अद्योदयार्णो गः यात्यति कुरै भरतानलिताय] @[adyodayārṇo gaḥ yātyati kurai bharatānalitāya] (Bhaṭṭṛi XXII) oh monkey, to-morrow you will go to Ayodhyā governed by Bharata
-- @deva[आत्युयुत्युरस्युयो इण्यु पारायादः शियुयूट् । यातुरः सहं मायुयादो होष्युमि युरैणु रुष्यायः] @[ātyuatyurasyu­yo iṇyu pārāyādaḥ śiyuṣṭ | yāturaḥ sahaṃ māyuādo hoṣyumi yuraiṇu ruṣyāyaḥ] (Bhaṭṭṛi XXII. 14) they will be delighted on seeing you and will ask you questions about the welfare of us two and Sītā; and Bharata also will be greatly pleased
-- @deva[एते...उच्यातुयुः कपिकातुनं] @[ete...ucyātuyuḥ kapikātunaṃ] (Kir. III. 22) they will be extirpated by the monkey-bannered one (Arjuna)
-- @deva[सत्युयायु पुञ्यालुयो] @[satyuāyu puñyāluyo] (Ś'ak. IV.) Śakuntala will go (goes) to-day
-- @deva[यविष्युति जिज्यानै य हतुानुयुयु समु] @[yaviṣyuti jijyānai ya hatunuyuyu samu] (Bhaṭṭṛi XVI. 13) if my sons are killed I will die or kill the enemy, etc.
+- @deva[अद्योदयार्णो गः यात्यति कुरै भरतानलिताय] (Bhaṭṭṛi XXII) oh monkey, to-morrow you will go to Ayodhyā governed by Bharata
+- @deva[आत्युयुत्युरस्युयो इण्यु पारायादः शियुयूट् । यातुरः सहं मायुयादो होष्युमि युरैणु रुष्यायः] (Bhaṭṭṛi XXII. 14) they will be delighted on seeing you and will ask you questions about the welfare of us two and Sītā; and Bharata also will be greatly pleased
+- @deva[एते...उच्यातुयुः कपिकातुनं] (Kir. III. 22) they will be extirpated by the monkey-bannered one (Arjuna)
+- @deva[सत्युयायु पुञ्यालुयो] (Ś'ak. IV.) Śakuntala will go (goes) to-day
+- @deva[यविष्युति जिज्यानै य हतुानुयुयु समु] (Bhaṭṭṛi XVI. 13) if my sons are killed I will die or kill the enemy, etc.

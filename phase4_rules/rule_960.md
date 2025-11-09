@@ -32,6 +32,6 @@ The Benedictive Mood is used to confer a blessing or to express the speaker's wi
 
 **Examples:**
 
-- @deva[जीयादु नीरोगः भवान्] @[jīyādu nīrogaḥ bhavān] may you live long!
-- @deva[बदिरोष्टः स्वजातः वसन्तें दिदातेरातिः] @[badiroṣṭaḥ svajātaḥ vasanteṃ didāterātiḥ] (Bhaṭṭi. XIX. 20)
-- @deva[छत्रायुः पारयातु] @[chatrāyuḥ pārayātu] may I be successful!
+- @deva[जीयादु नीरोगः भवान्] may you live long!
+- @deva[बदिरोष्टः स्वजातः वसन्तें दिदातेरातिः] (Bhaṭṭi. XIX. 20)
+- @deva[छत्रायुः पारयातु] may I be successful!

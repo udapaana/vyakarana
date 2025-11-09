@@ -20,4 +20,4 @@ source_pages:
 ---
 ## § 540. Penultimate Nasal Dropped
 
-The penultimate nasal of a root is dropped; as @deva[क्रम्] @[kram]— [examples follow].
+The penultimate nasal of a root is dropped; as @deva[क्रम्]— [examples follow].

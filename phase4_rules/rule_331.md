@@ -29,10 +29,10 @@ image: /images/184.png
 
 ## § 331. Nakha and Mukha in Proper Names
 
-A Bahuvrīhi ending in @deva[नख] @[nakha] and @deva[मुख] @[mukha] and used as proper names forms the feminine in @deva[आ] @[ā].
+A Bahuvrīhi ending in @deva[नख] and @deva[मुख] and used as proper names forms the feminine in @deva[आ].
 
-e.g. @deva[शूर्पणखा] @[śūrpaṇakhā]
+e.g. @deva[शूर्पणखा]
 
-e.g. @deva[गोमुखा] @[gomukhā]
+e.g. @deva[गोमुखा]
 
-But @deva[ताम्रमुखी] @[tāmramukhī]: a girl having a ruddy face
+But @deva[ताम्रमुखी]: a girl having a ruddy face

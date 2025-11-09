@@ -30,5 +30,5 @@ image: /images/262.png
 
 [Content extracted from pages 276-277 - to be enhanced with full OCR text and proper tagging]
 
-Key terms: @deva[इ] @[...], @deva[य] @[...], @deva[एति] @[...]
+Key terms: @deva[इ], @deva[य], @deva[एति]
 

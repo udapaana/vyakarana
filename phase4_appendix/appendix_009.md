@@ -19,4 +19,4 @@ confidence: high
 image: /images/522.png
 ---
 
-§ 9. A @deva[वृत्त] @[vṛtta] again is of three kinds: (1) @deva[समवृत्त] @[samavṛtta] or that in which all four @deva[पाद] @[pāda] are alike; (2) @deva[अर्धसमवृत्त] @[ardhasamavṛtta] or that in which the 1st and 3rd, and the 2nd and 4th @deva[पाद] @[pāda] are alike; and (3) @deva[विषमवृत्त] @[viṣamavṛtta] or that in which all four @deva[पाद] @[pāda] are dissimilar.
+§ 9. A @deva[वृत्त] again is of three kinds: (1) @deva[समवृत्त] or that in which all four @deva[पाद] are alike; (2) @deva[अर्धसमवृत्त] or that in which the 1st and 3rd, and the 2nd and 4th @deva[पाद] are alike; and (3) @deva[विषमवृत्त] or that in which all four @deva[पाद] are dissimilar.

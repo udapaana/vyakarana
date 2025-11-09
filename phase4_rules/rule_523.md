@@ -23,4 +23,4 @@ image: TBD
 
 ## § 523. पी Substituted for प्यै in Perfect
 
-@deva[पी] @[pī] is substituted for @deva[प्यै] @[pyai] 'to grow fat' in the Perfect and in the Frequentative; @deva[पिपये] @[pipaye] 1 sing., @deva[पिपियध्वे-ढे] @[pipiyadhve-ḍhe] 2 pl.
+@deva[पी] is substituted for @deva[प्यै] 'to grow fat' in the Perfect and in the Frequentative; @deva[पिपये] 1 sing., @deva[पिपियध्वे-ढे] 2 pl.

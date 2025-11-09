@@ -35,17 +35,17 @@ The following rules should be observed in arranging the various members of a Dva
 
 ### (a) Words Ending in @deva[ङ] or @deva[ण] First
 
-A word ending in @deva[ङ] @[ṅ] or @deva[ण] @[ṇ] should be placed first, and when there are more than one of such words one of these should be placed first, the rest being arranged according to the will of the speaker or writer.
+A word ending in @deva[ङ] or @deva[ण] should be placed first, and when there are more than one of such words one of these should be placed first, the rest being arranged according to the will of the speaker or writer.
 
-Examples: @deva[हरिहरौ] @[hariharau], @deva[हरिहरजगन्नाथाः] @[hariharajagannāthāḥ]
+Examples: @deva[हरिहरौ], @deva[हरिहरजगन्नाथाः]
 
 ### (b) Vowel-Initial and @deva[अ]-Ending Words Precede
 
-Words beginning with a vowel and ending in @deva[अ] @[a] ought to precede others.
+Words beginning with a vowel and ending in @deva[अ] ought to precede others.
 
-Example: @deva[अम्बरीशाः] @[ambarīśāḥ] or @deva[ईशाम्बराः] @[īśāmbarāḥ]
+Example: @deva[अम्बरीशाः] or @deva[ईशाम्बराः]
 
-This rule should have preference even over the above rule in case both would be simultaneously applicable: @deva[ईशांगौ] @[īśāṅgau]
+This rule should have preference even over the above rule in case both would be simultaneously applicable: @deva[ईशांगौ]
 
 ### (c) Fewer Syllables First
 

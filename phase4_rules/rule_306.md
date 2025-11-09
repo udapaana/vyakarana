@@ -29,8 +29,8 @@ image: /images/175.png
 
 ## § 306. Ṛ to R Before Vowel
 
-@deva[अचि र ऋतः] @[aci ra ṛtaḥ]
+@deva[अचि र ऋतः]
 
-Before a vowel, @deva[ऋ] @[ṛ] becomes @deva[र] @[ra].
+Before a vowel, @deva[ऋ] becomes @deva[र].
 
-This is a general sandhi rule applicable to Avyayībhāva compounds when @deva[ऋ] @[ṛ] of the first member is followed by a vowel in the second member.
+This is a general sandhi rule applicable to Avyayībhāva compounds when @deva[ऋ] of the first member is followed by a vowel in the second member.

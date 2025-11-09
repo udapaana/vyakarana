@@ -34,24 +34,24 @@ image: /images/180.png
 
 ## § 321. Nouns in U Denoting Mankind
 
-A prātipadika ending in @deva[उ] @[u] not preceded by @deva[य] @[ya] and denoting mankind forms its feminine in @deva[ऊ] @[ū].
+A prātipadika ending in @deva[उ] not preceded by @deva[य] and denoting mankind forms its feminine in @deva[ऊ].
 
-e.g. @deva[कुरूः] @[kurūḥ]: a woman of the Kuru country
+e.g. @deva[कुरूः]: a woman of the Kuru country
 
-But @deva[अध्वर्युः] @[adhvaryuḥ]: the wife of an Adhvaryā
+But @deva[अध्वर्युः]: the wife of an Adhvaryā
 
 Also when it does not denote animal-kind.
 
-e.g. @deva[अलाबूः] @[alābūḥ], @deva[कर्कन्धूः] @[karkandūḥ]
+e.g. @deva[अलाबूः], @deva[कर्कन्धूः]
 
-Except in the case of @deva[रज्जु] @[rajju] and @deva[हनु] @[hanu]:
+Except in the case of @deva[रज्जु] and @deva[हनु]:
 
-e.g. @deva[रज्जुः] @[rajjuḥ], @deva[हनुः] @[hanuḥ]
+e.g. @deva[रज्जुः], @deva[हनुः]
 
-**Obs.** A prātipadika ending in @deva[बाहु] @[bāhu] and used as a proper name, and the word @deva[पङ्गु] @[paṅgu] also form their feminine in @deva[ऊ] @[ū].
+**Obs.** A prātipadika ending in @deva[बाहु] and used as a proper name, and the word @deva[पङ्गु] also form their feminine in @deva[ऊ].
 
-e.g. @deva[भद्रबाहूः] @[bhadrabāhūḥ]: a woman of that name
+e.g. @deva[भद्रबाहूः]: a woman of that name
 
-But @deva[वृत्तबाहुः] @[vṛttabāhuḥ]: a woman having well-rounded arms
+But @deva[वृत्तबाहुः]: a woman having well-rounded arms
 
-e.g. @deva[पङ्गूः] @[paṅgūḥ]
+e.g. @deva[पङ्गूः]

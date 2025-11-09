@@ -34,6 +34,6 @@ image: /images/031.png
 
 ## § 64. Declension of Masculine Root-derived Compounds ending in आ
 
-Decline similarly @deva[विश्वपा] @[viśvapā] the protector of the universe, @deva[शङ्खधमा] @[śaṅkhadhamā] a conch-shell-blower, @deva[सोमपा] @[somapā] one who quaffs the soma, @deva[धूमपा] @[dhūmapā] one who inhales smoke, @deva[बलदा] @[baladā] strength-giver, or indeed other comp. nouns derived from roots ending in @deva[आ] @[ā].
+Decline similarly @deva[विश्वपा] the protector of the universe, @deva[शङ्खधमा] a conch-shell-blower, @deva[सोमपा] one who quaffs the soma, @deva[धूमपा] one who inhales smoke, @deva[बलदा] strength-giver, or indeed other comp. nouns derived from roots ending in @deva[आ].
 
-(a) If the latter member be not a root the final @deva[आ] @[ā] is not dropped; e.g. @deva[हाहा] @[hāhā] name of a Gandharva, Acc. plu. @deva[हाहान्] @[hāhān]; Ab. G. and L. sing. @deva[हाहात्] @[hāhāt], @deva[हाहस्य] @[hāhasya] and @deva[हाहे] @[hāhe] respectively; the rest like @deva[गोपा] @[gopā].
+(a) If the latter member be not a root the final @deva[आ] is not dropped; e.g. @deva[हाहा] name of a Gandharva, Acc. plu. @deva[हाहान्]; Ab. G. and L. sing. @deva[हाहात्], @deva[हाहस्य] and @deva[हाहे] respectively; the rest like @deva[गोपा].

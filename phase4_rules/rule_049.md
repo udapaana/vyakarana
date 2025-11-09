@@ -44,9 +44,9 @@ cross_refs:
 
 footnotes:
   - id: 1
-    content: "Vārt: @deva[अहर्ङादौना पत्यादिषु वा रेफः] @[aharṅādaunā patyādiṣu vā rephaḥ]"
+    content: "Vārt: @deva[अहर्ङादौना पत्यादिषु वा रेफः]"
   - id: 2
-    content: "Pāṇ. VIII. 3. 14: @deva[रोरि] @[rori]; Pāṇ. VI. 3. 111: @deva[इदूलोम एवेत्यङ्घ्रौऽङ्याः] @[idūloma evetyaṅghrau'ṅyāḥ]"
+    content: "Pāṇ. VIII. 3. 14: @deva[रोरि]; Pāṇ. VI. 3. 111: @deva[इदूलोम एवेत्यङ्घ्रौऽङ्याः]"
 
 confidence: high
 
@@ -57,18 +57,18 @@ image: /images/018.png
 
 ### (a) General Rule: Visarga to र्
 
-Visarga, preceded by any vowel except long @deva[आ] @[ā] or short @deva[अ] @[a] and followed by a vowel or soft consonant, is changed to @deva[र्] @[r]; @deva[हरिः + जयति = हरिर्जयति] @[hariḥ + jayati = harirjayati] Hari conquers; so @deva[भानुः + उद्येति = भानुरुद्येति] @[bhānuḥ + udyeti = bhānurudyeti] the sun rises; @deva[गौः + आगच्छति = गौरागच्छति] @[gauḥ + āgacchati = gaurāgacchati] a cow or bull comes.
+Visarga, preceded by any vowel except long @deva[आ] or short @deva[अ] and followed by a vowel or soft consonant, is changed to @deva[र्]; @deva[हरिः + जयति = हरिर्जयति] Hari conquers; so @deva[भानुः + उद्येति = भानुरुद्येति] the sun rises; @deva[गौः + आगच्छति = गौरागच्छति] a cow or bull comes.
 
-**Exception:** The Visarga of the particles @deva[शैः] @[śaiḥ], @deva[भगोः] @[bhagoḥ] and @deva[अधोः] @[adhoḥ] obeys [§ 48](rule_048.md); e.g. @deva[शौ + अच्युत = शौ अच्युत] @[śau + acyuta = śau acyuta] or @deva[शोऽच्युत] @[śo'cyuta] Oh Achyuta; @deva[भगो नमस्ते] @[bhago namaste] Bhago! a bow to thee; @deva[अधो गाहि] @[adho gāhi] Oh you go.
+**Exception:** The Visarga of the particles @deva[शैः], @deva[भगोः] and @deva[अधोः] obeys [§ 48](rule_048.md); e.g. @deva[शौ + अच्युत = शौ अच्युत] or @deva[शोऽच्युत] Oh Achyuta; @deva[भगो नमस्ते] Bhago! a bow to thee; @deva[अधो गाहि] Oh you go.
 
 ### (b) अहस् Visarga Conversion
 
-The Visarga of @deva[अहस्] @[ahas], not followed by a declensional termination, is always changed to @deva[र्] @[r] but if followed by @deva[पति] @[pati] and other words such as @deva[तिः] @[tiḥ], @deva[धुर्] @[dhur] etc. the change is optional;[^1] and if by @deva[इव] @[iva] and @deva[रात्रि] @[rātri], visarga is substituted for it; @deva[अहः + अहः = अहरहः] @[ahaḥ + ahaḥ = aharahaḥ] day by day; @deva[अहः + पतिः = अहःपतिः] @[ahaḥ + patiḥ = ahaḥpatiḥ] or @deva[अहर्पतिः] @[aharpatiḥ] the lord of the day, the sun; @deva[गीः + पतिः = गीःपतिः] @[gīḥ + patiḥ = gīḥpatiḥ] or @deva[गीष्पतिः] @[gīṣpatiḥ] Bṛhaspati; @deva[प्रः + नेतिः = प्रःनेतिः] @[praḥ + netiḥ = praḥnetiḥ] or @deva[प्रण्वतिः] @[praṇvatiḥ] a leader; but @deva[अहोऽभ्याम्] @[aho'bhyām] Inst. dual; @deva[अहः + रूपम् = अहोरूपम्] @[ahaḥ + rūpam = ahorūpam] the form of the day; @deva[गतम् + अहः + रात्रिः + अगा = अहोरात्रिरगा] @[gatam + ahaḥ + rātriḥ + agā = ahorātriragā]; @deva[अहः + रात्रः = अहोरात्रः] @[ahaḥ + rātraḥ = ahorātraḥ] day and night; @deva[अहः + रथन्तसम् = अहोरथन्दसम्] @[ahaḥ + rathandasam = ahorathandasam] a protection of Sāman to be chanted by day.
+The Visarga of @deva[अहस्], not followed by a declensional termination, is always changed to @deva[र्] but if followed by @deva[पति] and other words such as @deva[तिः], @deva[धुर्] etc. the change is optional;[^1] and if by @deva[इव] and @deva[रात्रि], visarga is substituted for it; @deva[अहः + अहः = अहरहः] day by day; @deva[अहः + पतिः = अहःपतिः] or @deva[अहर्पतिः] the lord of the day, the sun; @deva[गीः + पतिः = गीःपतिः] or @deva[गीष्पतिः] Bṛhaspati; @deva[प्रः + नेतिः = प्रःनेतिः] or @deva[प्रण्वतिः] a leader; but @deva[अहोऽभ्याम्] Inst. dual; @deva[अहः + रूपम् = अहोरूपम्] the form of the day; @deva[गतम् + अहः + रात्रिः + अगा = अहोरात्रिरगा]; @deva[अहः + रात्रः = अहोरात्रः] day and night; @deva[अहः + रथन्तसम् = अहोरथन्दसम्] a protection of Sāman to be chanted by day.
 
 ### (c) र् or स् Elision with Compensatory Lengthening
 
-@deva[र्] @[r] or @deva[स्] @[s] followed by @deva[र] @[ra] or @deva[स] @[sa] respectively is dropped, and the preceding @deva[अ] @[a], @deva[इ] @[i] or @deva[उ] @[u] if short is made long;[^2] @deva[पुनर् + रमते = पुना रमते] @[punar + ramate = punā ramate] sports again; @deva[हरिः + रम्यः = हरिर् + रम्यः = हरी रम्यः] @[hariḥ + ramyaḥ = harir + ramyaḥ = harī ramyaḥ] Hari is graceful; but @deva[वृध् + तः = वृढः] @[vṛdh + taḥ = vṛḍhaḥ] (from @deva[वृह् + त] @[vṛh + ta]) p.p. of @deva[वृह्] @[vṛh] to grow.
+@deva[र्] or @deva[स्] followed by @deva[र] or @deva[स] respectively is dropped, and the preceding @deva[अ], @deva[इ] or @deva[उ] if short is made long;[^2] @deva[पुनर् + रमते = पुना रमते] sports again; @deva[हरिः + रम्यः = हरिर् + रम्यः = हरी रम्यः] Hari is graceful; but @deva[वृध् + तः = वृढः] (from @deva[वृह् + त]) p.p. of @deva[वृह्] to grow.
 
 ---
-[^1]: Vārt: @deva[अहर्ङादौना पत्यादिषु वा रेफः] @[aharṅādaunā patyādiṣu vā rephaḥ]
-[^2]: Pāṇ. VIII. 3. 14: @deva[रोरि] @[rori]; Pāṇ. VI. 3. 111: @deva[इदूलोम एवेत्यङ्घ्रौऽङ्याः] @[idūloma evetyaṅghrau'ṅyāḥ]
+[^1]: Vārt: @deva[अहर्ङादौना पत्यादिषु वा रेफः]
+[^2]: Pāṇ. VIII. 3. 14: @deva[रोरि]; Pāṇ. VI. 3. 111: @deva[इदूलोम एवेत्यङ्घ्रौऽङ्याः]

@@ -31,12 +31,12 @@ image: /images/416.png
 
 ## § 704. Locative Sense of P. P. Participles
 
-The affix @deva[त्] @[t] added to roots having the sense of 'staying' or 'going' shows the place where the action usually takes place:[^1]
+The affix @deva[त्] added to roots having the sense of 'staying' or 'going' shows the place where the action usually takes place:[^1]
 
-- @deva[इदं मुकुन्दस्य आसितम्] @[idaṃ mukundasya āsitam]: 'this is the place where Mukunda used to sit'
-- @deva[इदं गतं रामाः] @[idaṃ gataṃ rāmāḥ]: 'this is the path by which the husband of Rāmā used to pass'
-- @deva[अत्रैव एतत् अनन्तस्य] @[atraiva etat anantasya]: 'this is the place where Ananta took his food', etc.
+- @deva[इदं मुकुन्दस्य आसितम्]: 'this is the place where Mukunda used to sit'
+- @deva[इदं गतं रामाः]: 'this is the path by which the husband of Rāmā used to pass'
+- @deva[अत्रैव एतत् अनन्तस्य]: 'this is the place where Ananta took his food', etc.
 
 ---
 
-[^1]: @deva[अधिकरणे च स्थोषेयार्थिस्मृत्यर्थादुपर्युत्स्मः] @[adhikaraṇe ca sthoṣeyārthi-smṛtyarthād-uparyutsmḥ] Pāṇ. III. 4. 48
+[^1]: @deva[अधिकरणे च स्थोषेयार्थिस्मृत्यर्थादुपर्युत्स्मः] Pāṇ. III. 4. 48

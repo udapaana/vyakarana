@@ -27,10 +27,10 @@ confidence: high
 image: /images/512.png
 ---
 
-## § 946. Imperative with Particle @deva[स्म] @[sma]
+## § 946. Imperative with Particle @deva[स्म]
 
-The Imperative with the particle @deva[स्म] @[sma] is used when a request is courteously expressed:
+The Imperative with the particle @deva[स्म] is used when a request is courteously expressed:
 
 **Example:**
 
-@deva[बालंयायतु स्म] @[bālaṃyāyatu sma] please teach the child.
+@deva[बालंयायतु स्म] please teach the child.

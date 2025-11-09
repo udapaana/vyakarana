@@ -23,4 +23,4 @@ image: TBD
 
 ## § 546. Roots Taking Fourth Variety
 
-Roots of the tenth class, causals, some derivatives, the root @deva[कद्] @[kad] and the roots @deva[सि] @[si], @deva[दु] @[du], and @deva[सु] @[su] when expressing the agent, take this Variety necessarily, and the roots @deva[धे] @[dhe] and @deva[सि] @[si] do it optionally.
+Roots of the tenth class, causals, some derivatives, the root @deva[कद्] and the roots @deva[सि], @deva[दु], and @deva[सु] when expressing the agent, take this Variety necessarily, and the roots @deva[धे] and @deva[सि] do it optionally.

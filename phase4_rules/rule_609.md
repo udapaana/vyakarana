@@ -29,6 +29,6 @@ image: /images/356.png
 
 ## § 609. Roots dropping final vowel before अय्
 
-@deva[दीपी] @[dīpī], @deva[वेवी] @[vevī] and @deva[दरिद्रा] @[daridrā] drop their final vowel before @deva[अय्] @[ay]:
+@deva[दीपी], @deva[वेवी] and @deva[दरिद्रा] drop their final vowel before @deva[अय्]:
 
-@deva[दीपयति-ते] @[dīpayati-te], @deva[वेवयति-ते] @[vevayati-te], @deva[दरिदयति-ते] @[daridayati-te].
+@deva[दीपयति-ते], @deva[वेवयति-ते], @deva[दरिदयति-ते].

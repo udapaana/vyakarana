@@ -27,30 +27,30 @@ confidence: high
 image: /images/519.png
 ---
 
-## § 969. Conditional Particles @deva[यदि] @[yadi] and @deva[चेत्] @[cet]
+## § 969. Conditional Particles @deva[यदि] and @deva[चेत्]
 
-The particles @deva[यदि] @[yadi] and @deva[चेत्] @[cet] meaning "if" are usually used with the Potential or the Conditional:
+The particles @deva[यदि] and @deva[चेत्] meaning "if" are usually used with the Potential or the Conditional:
 
 **With Potential:**
 
-@deva[यदि मया सह्यमो गायतु तर्हि नानु शाह्ययेनैनं कार्यानि] @[yadi mayā sahyamo gāyatu tarhi nānu śāhyayenainaṃ kāryāni] if he were here he would assist me
+@deva[यदि मया सह्यमो गायतु तर्हि नानु शाह्ययेनैनं कार्यानि] if he were here he would assist me
 
 **With Conditional:**
 
-@deva[यदि देवदत्तोऽत्राभविष्यदयमकार्यमवश्यं] @[yadi devadatto'trābhaviṣyadayamakāryamavaśyaṃ] had Devadatta been here, he would have undoubtedly done this
+@deva[यदि देवदत्तोऽत्राभविष्यदयमकार्यमवश्यं] had Devadatta been here, he would have undoubtedly done this
 
 **With Present Indicative:**
 
 They are also construed with the Present Indicative:
 
-- @deva[यदि देवो जीवति यावदुपकरोति] @[yadi devo jīvati yāvadupakaroti] if he lives till tomorrow
-- @deva[यदि महाराजस्य देवस्य मया सह कोऽपि व्यापारः] @[yadi mahārājasya devasya mayā saha ko'pi vyāpāraḥ] if Your Majesty has anything to do with me
-- @deva[कण्ठोऽसि मे जीवितेन यदि वाच्या न करोषि] @[kaṇṭho'si me jīvitena yadi vācyā na karoṣi] I conjure you by my life if you will not tell this in words
+- @deva[यदि देवो जीवति यावदुपकरोति] if he lives till tomorrow
+- @deva[यदि महाराजस्य देवस्य मया सह कोऽपि व्यापारः] if Your Majesty has anything to do with me
+- @deva[कण्ठोऽसि मे जीवितेन यदि वाच्या न करोषि] I conjure you by my life if you will not tell this in words
 
-**Position of @deva[चेत्] @[cet]:**
+**Position of @deva[चेत्]:**
 
-@deva[चेत्] @[cet] is rarely used at the beginning of a sentence.
+@deva[चेत्] is rarely used at the beginning of a sentence.
 
-Example: @deva[चेदहंशान्तमे नाम न विधास्येत्] @[cedahaṃśāntame nāma na vidhāsyet] (Śak. VII. 4) if the thousand-rayed one (sun) did not place him at the yoke of his car.
+Example: @deva[चेदहंशान्तमे नाम न विधास्येत्] (Śak. VII. 4) if the thousand-rayed one (sun) did not place him at the yoke of his car.
 
-@deva[आदि रोधैरकरोत्यो नो चेत्] @[ādi rodhairakāratyo no cet] (have recourse to) if not, etc. (Dha. V. I. 44)
+@deva[आदि रोधैरकरोत्यो नो चेत्] (have recourse to) if not, etc. (Dha. V. I. 44)

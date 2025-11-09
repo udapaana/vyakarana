@@ -28,6 +28,6 @@ image: /images/381.png
 
 ## § 638. Non-Conjugational Tenses of Parasmaipada Frequentative
 
-As regards the formation of the Non-conjugational tenses grammarians seem to be at variance. The Perfect follows the usual rules for the polysyllabic roots. In the remaining tenses the augment @deva[इ] @[i] is always prefixed except in the Benedictive.
+As regards the formation of the Non-conjugational tenses grammarians seem to be at variance. The Perfect follows the usual rules for the polysyllabic roots. In the remaining tenses the augment @deva[इ] is always prefixed except in the Benedictive.
 
 As this form of the Freq. is mostly confined to the Veda details are not given here.

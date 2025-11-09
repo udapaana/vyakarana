@@ -31,16 +31,16 @@ image: /images/185.png
 
 ## § 336. Participles and Consonant-Ending Adjectives
 
-Participles (those of the Present and Future) of Parasmaipada roots take @deva[ई] @[ī] in the feminine, @deva[न्] @[n] being inserted before @deva[त्] @[t] as in the Nominative or Accusative dual of the Neuter (see § 116) and so do adjectives ending in a consonant.
+Participles (those of the Present and Future) of Parasmaipada roots take @deva[ई] in the feminine, @deva[न्] being inserted before @deva[त्] as in the Nominative or Accusative dual of the Neuter (see § 116) and so do adjectives ending in a consonant.
 
-e.g. @deva[पचन्ती] @[pacantī]: cooking (fem.)
+e.g. @deva[पचन्ती]: cooking (fem.)
 
-e.g. @deva[यान्ती] @[yāntī]: going (fem.)
+e.g. @deva[यान्ती]: going (fem.)
 
-e.g. @deva[शास्ती] @[śāstī]: ruling (fem.)
+e.g. @deva[शास्ती]: ruling (fem.)
 
-e.g. @deva[ददती] @[dadatī]: giving (fem.)
+e.g. @deva[ददती]: giving (fem.)
 
-e.g. @deva[दीव्यन्ती] @[dīvyantī]: playing (fem.)
+e.g. @deva[दीव्यन्ती]: playing (fem.)
 
-e.g. @deva[महती] @[mahatī]: great (fem.), etc.
+e.g. @deva[महती]: great (fem.), etc.

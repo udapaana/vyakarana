@@ -28,5 +28,5 @@ image: /images/263.png
 
 [Content extracted from pages 277 - to be enhanced with full OCR text and proper tagging]
 
-Key terms: @deva[ईड्] @[...], @deva[ईश्] @[...]
+Key terms: @deva[ईड्], @deva[ईश्]
 

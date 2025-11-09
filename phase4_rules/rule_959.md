@@ -32,8 +32,8 @@ Sometimes the Potential is used without a subject when it is used in the sense o
 
 **Examples:**
 
-- @deva[आपदर्थं धनं रक्षेद् दारान् रक्षेन्धनैरपि । आत्मानं सततं रक्षेद् दारैरपि धनैरपि ॥] @[āpadarthaṃ dhanaṃ rakṣed dārān rakṣen­dhanairapi | ātmānaṃ satataṃ rakṣed dārairapi dhanairapi ||]
+- @deva[आपदर्थं धनं रक्षेद् दारान् रक्षेन्धनैरपि । आत्मानं सततं रक्षेद् दारैरपि धनैरपि ॥]
 
 (A man) should save money for adversity, he should serve his wife at the cost of his wealth and himself even at the expense of his wife and wealth
 
-- @deva[पातोजनं विश्वासात्तदानमभिरुचः] @[pātojanaṃ viśvāsāttadānam­abhirucaḥ] (Obs.) should serve Brāhmaṇas with all that they like, without being jealous
+- @deva[पातोजनं विश्वासात्तदानमभिरुचः] (Obs.) should serve Brāhmaṇas with all that they like, without being jealous

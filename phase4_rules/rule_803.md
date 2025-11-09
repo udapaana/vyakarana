@@ -35,15 +35,15 @@ image: /images/475.png
 
 ## § 803. Root वस् with उप, अनु, अधि and आ governing Accusative
 
-The root[^1] @deva[वस्] @[vas] preceded by the prepositions @deva[उप] @[upa], @deva[अनु] @[anu], @deva[अधि] @[adhi] and @deva[आ] @[ā] governs the Accusative case.
+The root[^1] @deva[वस्] preceded by the prepositions @deva[उप], @deva[अनु], @deva[अधि] and @deva[आ] governs the Accusative case.
 
-e.g. @deva[उप-अनु-अधि-आ-चक्रे वैकुण्ठम् हरिः] @[upa-anu-adhi-ā-cakre vaikuṇṭham hariḥ]: Hari dwells in Vaikuṇṭha.
+e.g. @deva[उप-अनु-अधि-आ-चक्रे वैकुण्ठम् हरिः]: Hari dwells in Vaikuṇṭha.
 
-@deva[प्रान्यारण्यम् अवसत्] @[prānyāraṇyam avasat]: he dwelt in a dreary forest.
+@deva[प्रान्यारण्यम् अवसत्]: he dwelt in a dreary forest.
 
-But @deva[वस्] @[vas] with @deva[उप] @[upa] meaning 'to abstain from food' is used with the Loc. @deva[उपवसति अग्नौ] @[upavasati agnau].
+But @deva[वस्] with @deva[उप] meaning 'to abstain from food' is used with the Loc. @deva[उपवसति अग्नौ].
 
-@deva[उपवसति वनम् रामः] @[upavasati vanam rāmaḥ]: Rāma dwelt fast in the forest.
+@deva[उपवसति वनम् रामः]: Rāma dwelt fast in the forest.
 
 ---
-[^1]: @deva[उपानधिगरावश्च] @[upānadhigarāvaśca] Pāṇ. I.4.48
+[^1]: @deva[उपानधिगरावश्च] Pāṇ. I.4.48

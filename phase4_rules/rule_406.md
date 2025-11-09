@@ -32,8 +32,8 @@ image: /images/242.png
 
 ## § 406. Addition of न and ञ in 5th and 8th Classes
 
-@deva[न] @[na] and @deva[ञ] @[ña] are added on to the roots of the 5th and 8th classes respectively before the terminations.[^1]
+@deva[न] and @deva[ञ] are added on to the roots of the 5th and 8th classes respectively before the terminations.[^1]
 
 ---
 
-[^1]: @deva[स्नुनाभ्यः नुः] @[snunābhyaḥ nuḥ], @deva[नमाभ्यां च्च्न्यः कः] @[namābhyāṃ ccnyaḥ kaḥ] Pāṇ. III. 1, 73, 79.
+[^1]: @deva[स्नुनाभ्यः नुः], @deva[नमाभ्यां च्च्न्यः कः] Pāṇ. III. 1, 73, 79.

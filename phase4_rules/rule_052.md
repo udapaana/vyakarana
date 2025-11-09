@@ -41,6 +41,6 @@ image: /images/019.png
 
 ## § 52. Prātipadika - The Crude Form
 
-The crude form of a noun (any declinable word) not yet inflected is technically called a Prātipadika (@deva[प्रातिपदिक] @[prātipadika]).
+The crude form of a noun (any declinable word) not yet inflected is technically called a Prātipadika (@deva[प्रातिपदिक]).
 
-The Prātipadika, when it is inflected, is called a Pada or a word. A noun admits of inflection in seven cases, in the three numbers Singular (@deva[वचन] @[vacana] or @deva[एकवचन] @[ekavacana]) Dual (@deva[द्विवचन] @[dvivacana]) and Plural (@deva[बहुवचन] @[bahuvacana]). The nominative case is called @deva[प्रथमा] @[prathamā] the second @deva[द्वितीया] @[dvitīyā], the third @deva[तृतीया] @[tṛtīyā], the fourth @deva[चतुर्थी] @[caturthī], the fifth @deva[पञ्चमी] @[pañcamī], the sixth @deva[षष्ठी] @[ṣaṣṭhī], and the seventh @deva[सप्तमी] @[saptamī].
+The Prātipadika, when it is inflected, is called a Pada or a word. A noun admits of inflection in seven cases, in the three numbers Singular (@deva[वचन] or @deva[एकवचन]) Dual (@deva[द्विवचन]) and Plural (@deva[बहुवचन]). The nominative case is called @deva[प्रथमा] the second @deva[द्वितीया], the third @deva[तृतीया], the fourth @deva[चतुर्थी], the fifth @deva[पञ्चमी], the sixth @deva[षष्ठी], and the seventh @deva[सप्तमी].

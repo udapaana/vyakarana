@@ -35,7 +35,7 @@ image: /images/254.png
 
 ## § 417. Imperative 2nd Singular Termination धि
 
-The second person sing. termination of the Parasm. Imperative is @deva[धि] @[dhi] when the base ends in any consonant except a nasal or a semivowel; also in the case of the root @deva[हु] @[hu] 3 P. 'to sacrifice.'
+The second person sing. termination of the Parasm. Imperative is @deva[धि] when the base ends in any consonant except a nasal or a semivowel; also in the case of the root @deva[हु] 3 P. 'to sacrifice.'
 
 ---
-[^1]: @deva[इहुल्ल्योः धिः] @[ihulyyor dhiḥ] Pāṇ. VI. 4. 101.
+[^1]: @deva[इहुल्ल्योः धिः] Pāṇ. VI. 4. 101.

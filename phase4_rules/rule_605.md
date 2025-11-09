@@ -36,10 +36,10 @@ image: /images/355.png
 
 ## § 605. Roots changing final vowel to आ before व् insertion
 
-(a) @deva[भू] @[bhū] 'to throw,' @deva[पू] @[pū] 'to destroy,' @deva[पू] @[pū] 'to perish,' @deva[जि] @[ji] 'to conquer,' and @deva[क्षि] @[kṣi] 'to buy,' also insert @deva[व्] @[v], but after changing their final vowel to @deva[आ] @[ā]:
+(a) @deva[भू] 'to throw,' @deva[पू] 'to destroy,' @deva[पू] 'to perish,' @deva[जि] 'to conquer,' and @deva[क्षि] 'to buy,' also insert @deva[व्], but after changing their final vowel to @deva[आ]:
 
-@deva[भावयति] @[bhāvayati], @deva[दापयति] @[dāpayati], @deva[जापयति] @[jāpayati], @deva[क्षापयति] @[kṣāpayati].
+@deva[भावयति], @deva[दापयति], @deva[जापयति], @deva[क्षापयति].
 
-(b) The roots @deva[पच्] @[pac], @deva[भ्रक्ष्] @[bhrakṣ] or @deva[भ्रज्] @[bhraj] 'to cook' and @deva[भा] @[bhā] (mit.), shorten their vowel necessarily, and @deva[ग्ले] @[gle] and @deva[दो] @[do] optionally, before the inserted @deva[व्] @[v] when not preceded by prepositions:
+(b) The roots @deva[पच्], @deva[भ्रक्ष्] or @deva[भ्रज्] 'to cook' and @deva[भा] (mit.), shorten their vowel necessarily, and @deva[ग्ले] and @deva[दो] optionally, before the inserted @deva[व्] when not preceded by prepositions:
 
-@deva[क्षेपयति] @[kṣepayati], &c. @deva[क्षेपयति] @[kṣepayati], (@deva[प्रज्] @[praj]—@deva[भ्रजयति] @[bhrajayati] 'slays'; @deva[भ्रक्षयति] @[bhrakṣayati] 'cooks,' &c.); but @deva[दोपयति] @[dopayati], @deva[दापयति] @[dāpayati], @deva[ग्लोपयति] @[glopayati], @deva[ग्लापयति] @[glāpayati], @deva[स्वापयति] @[svāpayati]; but @deva[प्रदापयति] @[pradāpayati], @deva[स्वल्पयति] @[svalpayati] only.
+@deva[क्षेपयति], &c. @deva[क्षेपयति], (@deva[प्रज्]—@deva[भ्रजयति] 'slays'; @deva[भ्रक्षयति] 'cooks,' &c.); but @deva[दोपयति], @deva[दापयति], @deva[ग्लोपयति], @deva[ग्लापयति], @deva[स्वापयति]; but @deva[प्रदापयति], @deva[स्वल्पयति] only.

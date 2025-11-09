@@ -31,8 +31,8 @@ image: /images/049.png
 
 ## § 100. Root Nouns ending in वाह् - ऊ Substitution
 
-The @deva[वाह्] @[vāh] of root-nouns ending in @deva[वाह्] @[vāh] is changed to @deva[ऊ] @[ū] before the vowel terminations beginning with that of the Acc. plu.[^1]; e.g. @deva[विश्ववाह्] @[viśvavāh] m. the sustainer of the universe, a lord:—
+The @deva[वाह्] of root-nouns ending in @deva[वाह्] is changed to @deva[ऊ] before the vowel terminations beginning with that of the Acc. plu.[^1]; e.g. @deva[विश्ववाह्] m. the sustainer of the universe, a lord:—
 
 ---
 
-[^1]: @deva[वाह ऊऽड्] @[vāha ūḍ]. @deva[सप्तमीाणाभ्] @[saptamyādināṃ]. Pān. VI. 4. 132. VI. 1. 108. @deva[आ] @[ā] and @deva[ऊ] @[ū] combine into @deva[औ] @[au] by Pān. VI. 1. 89, See § 20.
+[^1]: @deva[वाह ऊऽड्]. @deva[सप्तमीाणाभ्]. Pān. VI. 4. 132. VI. 1. 108. @deva[आ] and @deva[ऊ] combine into @deva[औ] by Pān. VI. 1. 89, See § 20.

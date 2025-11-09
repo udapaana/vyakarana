@@ -23,4 +23,4 @@ image: TBD
 
 ## § 532. Roots इ, स्था, दा, धा in First Variety
 
-The roots @deva[इ] @[i], @deva[स्था] @[sthā], @deva[दा] @[dā], @deva[धा] @[dhā], and roots assuming the forms of @deva[दा] @[dā] and @deva[धा] @[dhā] [belong to this variety].
+The roots @deva[इ], @deva[स्था], @deva[दा], @deva[धा], and roots assuming the forms of @deva[दा] and @deva[धा] [belong to this variety].

@@ -27,4 +27,4 @@ image: /images/032.png
 
 ## § 68. Adjectives ending in अ following Pronoun Declension
 
-Several adjectives ending in @deva[अ] @[a] follow the declension of pronouns, for which see the chap. on pronouns.
+Several adjectives ending in @deva[अ] follow the declension of pronouns, for which see the chap. on pronouns.

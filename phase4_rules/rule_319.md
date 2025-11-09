@@ -27,6 +27,6 @@ image: /images/180.png
 
 ## § 319. Adjectives Ending in Ī
 
-Adjectives ending in @deva[ई] @[ī] short or long, have no other form for the feminine.
+Adjectives ending in @deva[ई] short or long, have no other form for the feminine.
 
-e.g. @deva[मतिः] @[matiḥ], @deva[धीः] @[dhīḥ], etc.
+e.g. @deva[मतिः], @deva[धीः], etc.

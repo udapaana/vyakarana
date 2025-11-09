@@ -31,8 +31,8 @@ image: /images/301.png
 
 ## § 503. Samprasāraṇa in Reduplicative Syllable Before Strong Terminations
 
-Before the strong terminations of the Perfect, @deva[सम्प्रसारण] @[Samprasāraṇa] takes place in the reduplicative syllable only. In this case the initial conjunct consonant of a root is reduplicated as it is.
+Before the strong terminations of the Perfect, @deva[सम्प्रसारण] takes place in the reduplicative syllable only. In this case the initial conjunct consonant of a root is reduplicated as it is.
 
-e.g. @deva[स्वप्] @[svap]: @deva[स्वस्वपुः] @[svasvapuḥ] etc.
+e.g. @deva[स्वप्]: @deva[स्वस्वपुः] etc.
 
 (a) The vowel following the Samprasāraṇa is dropped.

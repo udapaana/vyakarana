@@ -23,13 +23,13 @@ cross_refs: []
 notes:
   - type: observation
     location: "before § 11"
-    content: "The word @deva[कार] @[kāra] is used as an affix to denote the letters of the Sanskrit alphabet, except @deva[अनुस्वार] @[anusvāra] and @deva[विसर्ग] @[visarga], and @deva[रेफ] @[refa] which is the name sometimes given to @deva[र] @[r]. E.g. @deva[अकार] @[akāra] the letter @deva[अ] @[a], @deva[ककार] @[kakāra] the letter @deva[क] @[k], &c."
+    content: "The word @deva[कार] is used as an affix to denote the letters of the Sanskrit alphabet, except @deva[अनुस्वार] and @deva[विसर्ग], and @deva[रेफ] which is the name sometimes given to @deva[र]. E.g. @deva[अकार] the letter @deva[अ], @deva[ककार] the letter @deva[क], &c."
 
 confidence: high
 
 image: /images/014.png
 ---
 
-## § 11. @deva[अक्षर] @[akṣara] (Syllable)
+## § 11. @deva[अक्षर] (Syllable)
 
-A vowel by itself or a consonant, simple or conjunct, with a vowel added to it, is called an @deva[अक्षर] @[akṣara] or a syllable.
+A vowel by itself or a consonant, simple or conjunct, with a vowel added to it, is called an @deva[अक्षर] or a syllable.

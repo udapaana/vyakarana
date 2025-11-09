@@ -33,42 +33,42 @@ image: /images/334.png
 
 ## § 551. Optional Shortening of Penultimate Vowel in Certain Roots
 
-The roots @deva[विश्राज्] @[viśrāj], @deva[श्रास्] @[śrās], @deva[श्राध्] @[śrādh], @deva[दीप्] @[dīp], @deva[जीप्] @[jīp], @deva[मीढ्] @[mīḍh], @deva[पीड्] @[pīḍ], @deva[क्लण्] @[klaṇ] 'to moan' @deva[नुण्] @[nuṇ] 'to sound,' 'to go,' @deva[रुण्] @[ruṇ] 'to sound,' @deva[भ्रण्] @[bhraṇ], @deva[क्षण्] @[kṣaṇ] 'to sound,' @deva[श्लण्] @[ślaṇ] 'to give' @deva[छुप्] @[chup] 6. P. A. 'to cut,' @deva[हेट्] @[heṭ] 'to harass,' @deva[हे] @[he], @deva[छुटे] @[chuṭe], @deva[छुट] @[chuṭ] and @deva[छुप्] @[chup] 4. P; shorten their penultimate optionally.
+The roots @deva[विश्राज्], @deva[श्रास्], @deva[श्राध्], @deva[दीप्], @deva[जीप्], @deva[मीढ्], @deva[पीड्], @deva[क्लण्] 'to moan' @deva[नुण्] 'to sound,' 'to go,' @deva[रुण्] 'to sound,' @deva[भ्रण्], @deva[क्षण्] 'to sound,' @deva[श्लण्] 'to give' @deva[छुप्] 6. P. A. 'to cut,' @deva[हेट्] 'to harass,' @deva[हे], @deva[छुटे], @deva[छुट] and @deva[छुप्] 4. P; shorten their penultimate optionally.
 
 ### Examples (1st person singular):
 
-@deva[अविविश्राजम्] @[avivíśrājam] or @deva[अविश्राजम्] @[aviśrājam]
+@deva[अविविश्राजम्] or @deva[अविश्राजम्]
 
-@deva[अशीश्रसम्] @[aśīśrasam] or @deva[अविश्रासम्] @[aviśrāsam]
+@deva[अशीश्रसम्] or @deva[अविश्रासम्]
 
-@deva[अशीशाधम्] @[aśīśādham] or @deva[अविश्राधम्] @[aviśrādham]
+@deva[अशीशाधम्] or @deva[अविश्राधम्]
 
-@deva[अदीदिपम्] @[adīdipam] or @deva[अदिदीपम्] @[adidīpam]
+@deva[अदीदिपम्] or @deva[अदिदीपम्]
 
-@deva[अजीजिपम्] @[ajījipam] or @deva[अजिजीपम्] @[ajijīpam]
+@deva[अजीजिपम्] or @deva[अजिजीपम्]
 
-@deva[अमीमिढम्] @[amīmiḍham] or @deva[अमिमीढम्] @[amimīḍham]
+@deva[अमीमिढम्] or @deva[अमिमीढम्]
 
-@deva[अपीपिडम्] @[apīpiḍam] or @deva[अपिपीडम्] @[apipi ḍam]
+@deva[अपीपिडम्] or @deva[अपिपीडम्]
 
-@deva[अचीक्लणम्] @[acīklaṇam] or @deva[अचक्लाणम्] @[acaklāṇam]
+@deva[अचीक्लणम्] or @deva[अचक्लाणम्]
 
-@deva[अनीनुणम्] @[anīnuṇam] or @deva[अनुनूणम्] @[anunūṇam]
+@deva[अनीनुणम्] or @deva[अनुनूणम्]
 
-@deva[अरीरुणम्] @[arīruṇam] or @deva[अरुरूणम्] @[arurūṇam]
+@deva[अरीरुणम्] or @deva[अरुरूणम्]
 
-@deva[अभीभ्रणम्] @[abhībhraṇam] or @deva[अबभ्राणम्] @[babhrāṇam]
+@deva[अभीभ्रणम्] or @deva[अबभ्राणम्]
 
-@deva[अक्षीक्षणम्] @[akṣīkṣaṇam] or @deva[अकक्षाणम्] @[akakṣāṇam]
+@deva[अक्षीक्षणम्] or @deva[अकक्षाणम्]
 
-@deva[अशिश्लणम्] @[aśiślaṇam] or @deva[अशशाणम्] @[aśaślāṇam]
+@deva[अशिश्लणम्] or @deva[अशशाणम्]
 
-@deva[अछुछुपम्] @[acchuchupam] or @deva[अचुचूपम्] @[acucūpam]
+@deva[अछुछुपम्] or @deva[अचुचूपम्]
 
-@deva[अजीहेटम्] @[ajīheṭam] or @deva[अजिहेटम्] @[ajiheṭam]
+@deva[अजीहेटम्] or @deva[अजिहेटम्]
 
-@deva[अजुहुवम्] @[ajuhuvam] or @deva[अजुहावम्] @[ajuhāvam] (see @ref[§ 553] below)
+@deva[अजुहुवम्] or @deva[अजुहावम्] (see @ref[§ 553] below)
 
-@deva[अछुछुटम्] @[acchuchuṭam] or @deva[अचुचूटम्] @[acucūṭam]
+@deva[अछुछुटम्] or @deva[अचुचूटम्]
 
-@deva[अछुछुटम्] @[acchuchuṭam] or @deva[अचुचूटम्] @[acucūṭam]
+@deva[अछुछुटम्] or @deva[अचुचूटम्]

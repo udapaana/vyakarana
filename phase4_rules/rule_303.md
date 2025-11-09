@@ -30,8 +30,8 @@ image: /images/175.png
 
 ## § 303. No Vṛddhi Before Numeral Compound
 
-@deva[न च संख्यापूर्वात् समासादेः] @[na ca saṃkhyāpūrvāt samāsādeḥ]
+@deva[न च संख्यापूर्वात् समासादेः]
 
-Nor does @deva[वृद्धि] @[vṛddhi] occur before a @deva[समास] @[samāsa] (compound) beginning with a numeral.
+Nor does @deva[वृद्धि] occur before a @deva[समास] (compound) beginning with a numeral.
 
-e.g. @deva[यथात्रिंशत्] @[yathātriṃśat]: according to thirty (not @deva[यथैत्रिंशत्] @[yathaitriṃśat])
+e.g. @deva[यथात्रिंशत्]: according to thirty (not @deva[यथैत्रिंशत्])

@@ -29,8 +29,8 @@ image: /images/022.png
 
 ## § 62. Declension of अ-stems (Masculine and Neuter)
 
-Decline all nouns ending in @deva[अ] @[a] masculine and neuter similarly.
+Decline all nouns ending in @deva[अ] masculine and neuter similarly.
 
 ### (a) Locative Singular of अह्
 
-The Loc. sing. of words ending in @deva[अह्] @[ah] (substituted for @deva[अहन्] @[ahan] a day, at the end of a Tatpurusha compound) is optionally formed like that of nouns ending in @deva[न्] @[n]; e.g. @deva[अह्] @[ah] has @deva[अह्नि] @[ahni], @deva[अनि] @[ani] or @deva[अहनि] @[ahani]. So @deva[अह्नि] @[ahni], @deva[अह्नि] @[ahni] or @deva[अहनि] @[ahani] etc. See p. 73.
+The Loc. sing. of words ending in @deva[अह्] (substituted for @deva[अहन्] a day, at the end of a Tatpurusha compound) is optionally formed like that of nouns ending in @deva[न्]; e.g. @deva[अह्] has @deva[अह्नि], @deva[अनि] or @deva[अहनि]. So @deva[अह्नि], @deva[अह्नि] or @deva[अहनि] etc. See p. 73.

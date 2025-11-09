@@ -37,6 +37,6 @@ image: /images/246.png
 
 ## § 412. Roots ज्ञा and ज्या - Forms जा and जि
 
-The roots @deva[ज्ञा] @[jñā] 'to know' and @deva[ज्या] @[jyā] 'to become old' assume the forms @deva[जा] @[jā] and @deva[जि] @[ji] respectively.
+The roots @deva[ज्ञा] 'to know' and @deva[ज्या] 'to become old' assume the forms @deva[जा] and @deva[जि] respectively.
 
-e.g. @deva[जानाति] @[jānāti], @deva[जानीते] @[jānīte], @deva[जिनाति] @[jināti], &c.
+e.g. @deva[जानाति], @deva[जानीते], @deva[जिनाति], &c.

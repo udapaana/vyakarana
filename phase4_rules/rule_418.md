@@ -30,4 +30,4 @@ image: /images/254.png
 
 ## § 418. Dropping ऊ and ऊ in Imperfect 2nd and 3rd Person Singular
 
-The @deva[ऊ] @[ū] and @deva[ऊ] @[ū] of the Imperfect 2nd and 3rd per. sing. are dropped after a consonant.
+The @deva[ऊ] and @deva[ऊ] of the Imperfect 2nd and 3rd per. sing. are dropped after a consonant.

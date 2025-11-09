@@ -34,9 +34,9 @@ image: /images/101.png
 
 Compounds are divided into four principal classes:
 
-1. @deva[द्वन्द्व] @[Dvandva] or Copulative
-2. @deva[तत्पुरुष] @[Tatpuruṣa] or Determinative
-3. @deva[बहुव्रीहि] @[Bahuvrīhi] or Attributive
-4. @deva[अव्ययीभाव] @[Avyayībhāva] or Adverbial
+1. @deva[द्वन्द्व] or Copulative
+2. @deva[तत्पुरुष] or Determinative
+3. @deva[बहुव्रीहि] or Attributive
+4. @deva[अव्ययीभाव] or Adverbial
 
 **N.B.** These names themselves mean nothing i.e. they do not denote any of the characteristics of the different compounds. They are simply proper names distinguishing the various classes from one another (to which they vaguely refer if they do so at all).

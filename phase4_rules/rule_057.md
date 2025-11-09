@@ -34,19 +34,19 @@ The following are the normal case-terminations:
 
 |  | Sing. | Dual | Plural |
 |---|-------|------|--------|
-| **N. V.** | @deva[स्] @[s] | @deva[औ] @[au] | @deva[अस्] @[as] |
-| **A.** | @deva[अम्] @[am] | @deva[औ] @[au] | @deva[अस्] @[as] |
-| **I.** | @deva[आ] @[ā] | @deva[भ्याम्] @[bhyām] | @deva[भिस्] @[bhis] |
-| **D.** | @deva[ए] @[e] | @deva[भ्याम्] @[bhyām] | @deva[भ्यस्] @[bhyas] |
-| **Ab.** | @deva[अस्] @[as] | @deva[भ्याम्] @[bhyām] | @deva[भ्यस्] @[bhyas] |
-| **G.** | @deva[अस्] @[as] | @deva[ओस्] @[os] | @deva[आम्] @[ām] |
-| **L.** | @deva[इ] @[i] | @deva[ओस्] @[os] | @deva[सु] @[su] |
+| **N. V.** | @deva[स्] | @deva[औ] | @deva[अस्] |
+| **A.** | @deva[अम्] | @deva[औ] | @deva[अस्] |
+| **I.** | @deva[आ] | @deva[भ्याम्] | @deva[भिस्] |
+| **D.** | @deva[ए] | @deva[भ्याम्] | @deva[भ्यस्] |
+| **Ab.** | @deva[अस्] | @deva[भ्याम्] | @deva[भ्यस्] |
+| **G.** | @deva[अस्] | @deva[ओस्] | @deva[आम्] |
+| **L.** | @deva[इ] | @deva[ओस्] | @deva[सु] |
 
 ### Neuter
 
 |  | Sing. | Dual | Plural |
 |---|-------|------|--------|
-| **N. A.** | @deva[अ] @[a] | @deva[ई] @[ī] | @deva[ई] @[ī] |
-| **V.** | @deva[अ] @[a] | @deva[ई] @[ī] | @deva[ई] @[ī] |
+| **N. A.** | @deva[अ] | @deva[ई] | @deva[ई] |
+| **V.** | @deva[अ] | @deva[ई] | @deva[ई] |
 
 The rest like the masculine.

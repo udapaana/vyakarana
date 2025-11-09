@@ -1,5 +1,5 @@
 ---
-rule: § 37
+rule:  37
 page: 025
 source_pages:
   dli: [025]
@@ -23,7 +23,7 @@ panini_refs:
   - "VIII.4.48-52"
 
 cross_refs:
-  - "§ 36"
+  - " 36"
 
 footnotes:
   - id: 1
@@ -34,24 +34,24 @@ confidence: high
 image: /images/019.png
 ---
 
-## § 37. Anusvra to Class Nasal Conversion
+##  37. Anusvra to Class Nasal Conversion
 
-An Anusvra followed by any consonant except @deva[.M] @[m], @deva[/M] @[y], @deva[5M] @[v] or @deva[9] @[h] is changed to the nasal of the class to which the following letter belongs, necessarily when in the middle, and optionally when at the end of a word;[^1]
+An Anusvra followed by any consonant except @deva[.M], @deva[/M], @deva[5M] or @deva[9] is changed to the nasal of the class to which the following letter belongs, necessarily when in the middle, and optionally when at the end of a word;[^1]
 
 ### Examples
 
-- @deva[(AM + $ =  + M + $] @[aEk + ita% = aC + k + ita%] (by the preceding rule and then) @deva[M?$] @[aEkita%] marked (by this)
-- @deva[(AM + $ = M?$] @[añcita%] honoured
-- @deva[C*?$] @[k[pitaC] obstructed
-- @deva[M>(M$] @[jñnta%] calmed
-- @deva[M0%?$] @[grathita%] woven
+- @deva[(AM + $ =  + M + $] (by the preceding rule and then) @deva[M?$] marked (by this)
+- @deva[(AM + $ = M?$] honoured
+- @deva[C*?$] obstructed
+- @deva[M>(M$] calmed
+- @deva[M0%?$] woven
 
 ### Optional at Word End
 
-- @deva[$M5.M + 0K7? = $M5 0K7?] or @deva[$M5M0K7?] @[tvaC karoci] or @[tvaEkaroci] thou doest
-- @deva[8/(M$C] or @deva[8/(M$C] @[saCyant[] or @[sayaCnt[] a restrainer
-- @deva[85$M80] or @deva[85$M80] @[saCvatsara%] a year
-- @deva[/ 2K.M] or @deva[/2M2K.M] @[yaC lokam] or @[yallokam] to which people
+- @deva[$M5.M + 0K7? = $M5 0K7?] or @deva[$M5M0K7?] or @[tvaEkaroci] thou doest
+- @deva[8/(M$C] or @deva[8/(M$C] or @[sayaCnt[] a restrainer
+- @deva[85$M80] or @deva[85$M80] a year
+- @deva[/ 2K.M] or @deva[/2M2K.M] or @[yallokam] to which people
 
 ---
 

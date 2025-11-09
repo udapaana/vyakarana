@@ -32,12 +32,12 @@ When a past action is to be indicated the Conditional may be optionally used in 
 
 **Example:**
 
-@deva[कथं नाम तवधर्माभ्यागत्] @[kathaṃ nāma tavad­harmābhyāgat] or @deva[त्यजेत्] @[tyajet] how could you give up your religion?
+@deva[कथं नाम तवधर्माभ्यागत्] or @deva[त्यजेत्] how could you give up your religion?
 
-**(a)** Also where the Potential is used in conjunction with the particles @deva[इत] @[ita], @deva[आपि] @[āpi], @deva[जातु] @[jātu] etc.
+**(a)** Also where the Potential is used in conjunction with the particles @deva[इत], @deva[आपि], @deva[जातु] etc.
 
-**(b)** When wonder is to be expressed the Conditional is optionally used where the Potential is used in combination with the particles @deva[काच्] @[kāc], @deva[मान] @[māna] or @deva[यदि] @[yadi] when the action does not take place.
+**(b)** When wonder is to be expressed the Conditional is optionally used where the Potential is used in combination with the particles @deva[काच्], @deva[मान] or @deva[यदि] when the action does not take place.
 
 ---
 
-**Pāṇini Reference:** @deva[भूते च] @[bhūte ca] (Pāṇ. III. 3. 140)
+**Pāṇini Reference:** @deva[भूते च] (Pāṇ. III. 3. 140)

@@ -42,24 +42,24 @@ image: /images/095.png
 
 ### (a) Adverbs of Frequency
 
-- @deva[सकृत्] @[sakṛt] once
-- @deva[द्विः] @[dviḥ] twice
-- @deva[त्रिः] @[triḥ] thrice
-- @deva[चतुः] @[catuḥ] four times
+- @deva[सकृत्] once
+- @deva[द्विः] twice
+- @deva[त्रिः] thrice
+- @deva[चतुः] four times
 
-From @deva[पञ्चन्] @[pañcan] onwards adverbs of frequency are formed by adding @deva[कृत्वस्] @[kṛtvas] before which final @deva[न्] @[n] is dropped:
+From @deva[पञ्चन्] onwards adverbs of frequency are formed by adding @deva[कृत्वस्] before which final @deva[न्] is dropped:
 
-- @deva[पञ्चकृत्वस्] @[pañcakṛtvas] five times
-- @deva[सप्तकृत्वस्] @[saptakṛtvas] seven times
+- @deva[पञ्चकृत्वस्] five times
+- @deva[सप्तकृत्वस्] seven times
 
 ### (b) Adverbs of Division/Manner
 
-- @deva[एकधा] or @deva[एकध्यम्] @[ekadhā] or @[ekadhyam] in one way or part
-- @deva[द्विधा] or @deva[द्वेधा] or @deva[द्वैधम्] @[dvidhā] or @[dvedhā] or @[dvaidham] in two ways or parts
-- @deva[त्रिधा] or @deva[त्रेधा] or @deva[त्रैधम्] @[tridhā] or @[tredhā] or @[traidham] in three ways
-- @deva[चतुर्धा] @[caturdhā] in four ways
-- @deva[षोढा] or @deva[षड्धा] @[ṣoḍhā] or @[ṣaḍdhā] in six ways
-- @deva[सप्तधा] @[saptadhā], @deva[अष्टधा] @[aṣṭadhā], etc.
+- @deva[एकधा] or @deva[एकध्यम्] or @[ekadhyam] in one way or part
+- @deva[द्विधा] or @deva[द्वेधा] or @deva[द्वैधम्] or @[dvedhā] or @[dvaidham] in two ways or parts
+- @deva[त्रिधा] or @deva[त्रेधा] or @deva[त्रैधम्] or @[tredhā] or @[traidham] in three ways
+- @deva[चतुर्धा] in four ways
+- @deva[षोढा] or @deva[षड्धा] or @[ṣaḍdhā] in six ways
+- @deva[सप्तधा], @deva[अष्टधा], etc.
 
 ---
 

@@ -40,44 +40,44 @@ image: /images/308.png
 
 ## § 506. Roots Taking Samprasāraṇa in Perfect
 
-Roots taking @deva[सम्प्रसारण] @[Samprasāraṇa] (regular and irregular)—
+Roots taking @deva[सम्प्रसारण] (regular and irregular)—
 
-### @deva[यज्] @[yaj] 1. P. Ā. 'to worship'
+### @deva[यज्] 1. P. Ā. 'to worship'
 
-Forms: @deva[इयाज-इयज] @[iyāja-iyaja], @deva[इजिव] @[ijiva], @deva[इजिम] @[ijima], @deva[ईजे] @[īje], @deva[इजिवहे] @[ijivahe], @deva[इजिमहे] @[ijimahe], etc.
+Forms: @deva[इयाज-इयज], @deva[इजिव], @deva[इजिम], @deva[ईजे], @deva[इजिवहे], @deva[इजिमहे], etc.
 
-### @deva[वच्] @[vac] 1. 2. P. 'to speak'[^1]
+### @deva[वच्] 1. 2. P. 'to speak'[^1]
 
-Forms: @deva[उवाच] @[uvāca], @deva[उवच] @[uvaca], @deva[उचिव] @[uciva], @deva[उचिम] @[ucima]
+Forms: @deva[उवाच], @deva[उवच], @deva[उचिव], @deva[उचिम]
 
-### @deva[वस्] @[vas] 1. P. 'to dwell'
+### @deva[वस्] 1. P. 'to dwell'
 
-Forms: @deva[उवास-उवस] @[uvāsa-uvasa], @deva[उषिव] @[uṣiva], @deva[उषिम] @[uṣima]
+Forms: @deva[उवास-उवस], @deva[उषिव], @deva[उषिम]
 
-### @deva[वप्] @[vap] 1. P. Ā. 'to sow seed'
+### @deva[वप्] 1. P. Ā. 'to sow seed'
 
-Forms: @deva[उवाप-उवप] @[uvāpa-uvapa], @deva[ऊपिव] @[ūpiva], @deva[ऊपिम] @[ūpima], @deva[ऊपे] @[ūpe], @deva[ऊपिवहै] @[ūpivahai], @deva[ऊपिमहै] @[ūpimahai], etc.
+Forms: @deva[उवाप-उवप], @deva[ऊपिव], @deva[ऊपिम], @deva[ऊपे], @deva[ऊपिवहै], @deva[ऊपिमहै], etc.
 
-### @deva[वह्] @[vah] 1. P. Ā. 'to carry'
+### @deva[वह्] 1. P. Ā. 'to carry'
 
-Forms: @deva[उवाह-उवह] @[uvāha-uvaha], @deva[ऊहिव] @[ūhiva], @deva[ऊहिम] @[ūhima], @deva[ऊहे] @[ūhe], @deva[ऊहिवहै] @[ūhivahai], @deva[ऊहिमहै] @[ūhimahai], etc.
+Forms: @deva[उवाह-उवह], @deva[ऊहिव], @deva[ऊहिम], @deva[ऊहे], @deva[ऊहिवहै], @deva[ऊहिमहै], etc.
 
-### @deva[वद्] @[vad] 1. P. 'to speak' (Ā. in some senses)
+### @deva[वद्] 1. P. 'to speak' (Ā. in some senses)
 
-Forms: @deva[उवाद-उवद] @[uvāda-uvada], @deva[ऊदिव] @[ūdiva], @deva[ऊदिम] @[ūdima], etc.
+Forms: @deva[उवाद-उवद], @deva[ऊदिव], @deva[ऊदिम], etc.
 
-### @deva[स्वप्] @[svap] 2. P. 'to sleep' and @deva[ज्या] @[jyā] 2. P. 'to grow old'
+### @deva[स्वप्] 2. P. 'to sleep' and @deva[ज्या] 2. P. 'to grow old'
 
-Forms include @deva[सुष्वाप] @[suṣvāpa], @deva[सुष्वप] @[suṣvapa], @deva[सुषुपिव] @[suṣupiva], @deva[सुषुपिम] @[suṣupima], etc.
+Forms include @deva[सुष्वाप], @deva[सुष्वप], @deva[सुषुपिव], @deva[सुषुपिम], etc.
 
-@deva[ज्या] @[jyā]: @deva[जिज्यौ] @[jijyau], @deva[जिजियिव] @[jijiyiva], @deva[जिजियिम] @[jijiyima], etc.
+@deva[ज्या]: @deva[जिज्यौ], @deva[जिजियिव], @deva[जिजियिम], etc.
 
-### @deva[वञ्] @[vañ] 2. P. 'to desire' and @deva[ध्वञ्] @[dhvañ] 6. P. 'to deceive,' 'to surround'
+### @deva[वञ्] 2. P. 'to desire' and @deva[ध्वञ्] 6. P. 'to deceive,' 'to surround'
 
-Forms include @deva[उवाञ-उवञ] @[uvāñ-uvañ], @deva[ऊञिव] @[ūñiva], @deva[ऊञिम] @[ūñima], etc.
+Forms include @deva[उवाञ-उवञ], @deva[ऊञिव], @deva[ऊञिम], etc.
 
-@deva[ध्वञ्] @[dhvañ]: @deva[विध्वाव] @[vidhvāva], @deva[विध्यव] @[vidhyava], @deva[विध्विव] @[vidhviva], @deva[विध्विम] @[vidhvima], etc.
+@deva[ध्वञ्]: @deva[विध्वाव], @deva[विध्यव], @deva[विध्विव], @deva[विध्विम], etc.
 
 ---
 
-[^1]: @deva[वच्] @[vac] as a substitute for @deva[ऊद्] @[ūd] may also be conjugated in Ātmanepada, e.g. @deva[उचे] @[uce], @deva[उचिवहे] @[ucivahe], @deva[उचिमहे] @[ucimahe], 1 Per. etc.
+[^1]: @deva[वच्] as a substitute for @deva[ऊद्] may also be conjugated in Ātmanepada, e.g. @deva[उचे], @deva[उचिवहे], @deva[उचिमहे], 1 Per. etc.

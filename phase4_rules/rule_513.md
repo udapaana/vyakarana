@@ -27,10 +27,10 @@ image: /images/318.png
 
 ## § 513. भू Forms Base as बभूव
 
-The root @deva[भू] @[bhū] forms its base irregularly as @deva[बभूव] @[babhūva]—
+The root @deva[भू] forms its base irregularly as @deva[बभूव]—
 
 | Person | Parasmaipada Sing. | Dual | Pl. | Ātmanepada Sing. | Dual | Pl. |
 |--------|-------------------|------|-----|------------------|------|-----|
-| 1 | @deva[बभूव] @[babhūva] | @deva[बभूविव] @[babhūviva] | @deva[बभूविम] @[babhūvima] | @deva[बभूवे] @[babhūve] | @deva[बभूविवहे] @[babhūvivahe] | @deva[बभूविमहे] @[babhūvimahe] |
-| 2 | @deva[बभूविथ] @[babhūvitha] | @deva[बभूवथुः] @[babhūvathuḥ] | @deva[बभूव] @[babhūva] | @deva[बभूविषे] @[babhūviṣe] | @deva[बभूवाथे] @[babhūvāthe] | @deva[बभूविध्वे] @[babhūvidhve] |
-| 3 | @deva[बभूव] @[babhūva] | @deva[बभूवतुः] @[babhūvatuḥ] | @deva[बभूवुः] @[babhūvuḥ] | @deva[बभूवे] @[babhūve] | @deva[बभूवाते] @[babhūvāte] | @deva[बभूविरे] @[babhūvire] |
+| 1 | @deva[बभूव] | @deva[बभूविव] | @deva[बभूविम] | @deva[बभूवे] | @deva[बभूविवहे] | @deva[बभूविमहे] |
+| 2 | @deva[बभूविथ] | @deva[बभूवथुः] | @deva[बभूव] | @deva[बभूविषे] | @deva[बभूवाथे] | @deva[बभूविध्वे] |
+| 3 | @deva[बभूव] | @deva[बभूवतुः] | @deva[बभूवुः] | @deva[बभूवे] | @deva[बभूवाते] | @deva[बभूविरे] |

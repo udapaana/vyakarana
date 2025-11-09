@@ -30,6 +30,6 @@ image: /images/page_013b.jpg
 
 ## § 9. Homogeneous and Heterogeneous Letters
 
-Those letters are called @deva[सवर्ण] @[savarṇa] or homogeneous whose place of pronunciation in the mouth and the effort required to pronounce them is the same or equal.* Letters which are not @deva[सवर्ण] @[savarṇa] or similar are called @deva[असवर्ण] @[asavarṇa] or heterogeneous.
+Those letters are called @deva[सवर्ण] or homogeneous whose place of pronunciation in the mouth and the effort required to pronounce them is the same or equal.* Letters which are not @deva[सवर्ण] or similar are called @deva[असवर्ण] or heterogeneous.
 
 \* @deva[तुल्यास्यप्रयत्नं सवर्णम्] Pāṇ. I. 1. 9.

@@ -28,4 +28,4 @@ image: /images/364.png
 
 ## § 612. Paradigms of the Causal Base
 
-Paradigms of all the Tenses and Moods in the Par. Atm. and Pass. of @deva[बुध्] @[budh], Causal base @deva[बोधय्] @[bodhay].
+Paradigms of all the Tenses and Moods in the Par. Atm. and Pass. of @deva[बुध्], Causal base @deva[बोधय्].

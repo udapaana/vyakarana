@@ -26,4 +26,4 @@ image: /images/418.png
 
 ## § 710. Declension of Future Participles
 
-These Participles are declined like words ending in @deva[त्] @[t] and @deva[अ] @[a].
+These Participles are declined like words ending in @deva[त्] and @deva[अ].

@@ -29,18 +29,18 @@ confidence: high
 image: /images/505.png
 ---
 
-## § 924. Present with @deva[जातु] @[jātu] or @deva[अपि] @[api] in Condemning
+## § 924. Present with @deva[जातु] or @deva[अपि] in Condemning
 
-When @deva[जातु] @[jātu] or @deva[अपि] @[api] is used in a sentence and condemns or censures, the Present may be used in the sense of the three tenses:
+When @deva[जातु] or @deva[अपि] is used in a sentence and condemns or censures, the Present may be used in the sense of the three tenses:
 
 **Examples:**
 
-- @deva[आपि जानुयूयुं स्युयूनुपि जानुयु भुनिकुयुयुयुयूयुनुयूनै] @[āpi jānuyūyuṃ syuyūnupi jānuyu bhunikuyuyuyuyūyunuyūnai]
+- @deva[आपि जानुयूयुं स्युयूनुपि जानुयु भुनिकुयुयुयुयूयुनुयूनै]
 
-where @deva[स्युयुनुपि] @[syuyunupi] and @deva[आनुयुस्युनै] @[ānuyusyunai] may have also the sense of the Past or the Future tense.
+where @deva[स्युयुनुपि] and @deva[आनुयुस्युनै] may have also the sense of the Past or the Future tense.
 
-- @deva[जातु तवुभुवुयुनु दुयूयूनु राजुयुयूनुनं] @[jātu tavubhuvuyunu duyūyūnu rājuyuyūnunaṃ] (you will even make a Śūdra perform a sacrifice)
+- @deva[जातु तवुभुवुयुनु दुयूयूनु राजुयुयूनुनं] (you will even make a Śūdra perform a sacrifice)
 
 ---
 
-**Pāṇini Reference:** @deva[महर्युनुयुनों लुनुङुलिटुयूकुत्युनै] @[maharyunuyunoṃ lunuṅuliṭuyūkatyunai] (Pāṇ. III. 3. 142)
+**Pāṇini Reference:** @deva[महर्युनुयुनों लुनुङुलिटुयूकुत्युनै] (Pāṇ. III. 3. 142)

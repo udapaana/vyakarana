@@ -37,24 +37,24 @@ image: /images/334.png
 
 ## § 552. Retention of अ in Reduplicative Syllable; Optional Change of इ to अ
 
-The @deva[अ] @[a] of the reduplicative syllable of @deva[ईह्] @[īh], @deva[ऊह्] @[ūh], @deva[त्वर्] @[tvar], @deva[पर्] @[par], @deva[भ्रश्] @[bhraś] 'to pound, to wish,' @deva[स्तृ] @[stṛ], and @deva[स्मर्] @[smar], is not changed to @deva[इ] @[i]; @deva[वेष्] @[veṣ] 1. A. 'to surround' and @deva[चेष्] @[ceṣ] optionally change their @deva[इ] @[i] to @deva[अ] @[a].
+The @deva[अ] of the reduplicative syllable of @deva[ईह्], @deva[ऊह्], @deva[त्वर्], @deva[पर्], @deva[भ्रश्] 'to pound, to wish,' @deva[स्तृ], and @deva[स्मर्], is not changed to @deva[इ]; @deva[वेष्] 1. A. 'to surround' and @deva[चेष्] optionally change their @deva[इ] to @deva[अ].
 
 ### Examples (1st person singular):
 
-@deva[असरीहम्] @[asarīham]
+@deva[असरीहम्]
 
-@deva[अदवूहम्] @[adavūham]
+@deva[अदवूहम्]
 
-@deva[अतत्वरम्] @[atatvaram]
+@deva[अतत्वरम्]
 
-@deva[अपपरम्] @[apaparam]
+@deva[अपपरम्]
 
-@deva[अभभ्रम्] @[ababhram]
+@deva[अभभ्रम्]
 
-@deva[अतस्तरम्] @[atastaram]
+@deva[अतस्तरम्]
 
-@deva[असस्मरम्] @[asasmaram]
+@deva[असस्मरम्]
 
-@deva[वेष्] @[veṣ]—@deva[अविवेषम्] @[aviveṣam], @deva[अववेषम्] @[avaveṣam]
+@deva[वेष्]—@deva[अविवेषम्], @deva[अववेषम्]
 
-@deva[चेष्] @[ceṣ]—@deva[अविचेषम्] @[aviceṣam], @deva[अवचेषम्] @[avaceṣam]
+@deva[चेष्]—@deva[अविचेषम्], @deva[अवचेषम्]

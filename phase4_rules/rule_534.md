@@ -20,4 +20,4 @@ source_pages:
 ---
 ## § 534. स् Takes अन् in 3rd Pl.
 
-The root @deva[स्] @[s] takes @deva[अन्] @[an] instead of @deva[उस्] @[us] in the 3rd per. pl. and [other special conditions].
+The root @deva[स्] takes @deva[अन्] instead of @deva[उस्] in the 3rd per. pl. and [other special conditions].

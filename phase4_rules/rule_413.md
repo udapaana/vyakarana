@@ -33,6 +33,6 @@ image: /images/247.png
 
 ## § 413. Root गृह् - न Changed to ह्
 
-The @deva[न] @[na] of @deva[गृह्] @[gṛh] is changed to @deva[ह्] @[h].
+The @deva[न] of @deva[गृह्] is changed to @deva[ह्].
 
-e.g. @deva[गृह्णाति] @[gṛhṇāti]; @deva[अगृह्णाम्] @[agṛhṇām], @deva[अगृह्णीत] @[agṛhṇīta], @deva[अगृह्णीम] @[agṛhṇīma], &c. Imperf. 1st. pers.
+e.g. @deva[गृह्णाति]; @deva[अगृह्णाम्], @deva[अगृह्णीत], @deva[अगृह्णीम], &c. Imperf. 1st. pers.

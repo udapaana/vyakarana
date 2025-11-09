@@ -30,16 +30,16 @@ image: /images/181.png
 
 ## § 325. Feminines in Ī from Ṛ and In Endings
 
-A prātipadika ending in short @deva[ऋ] @[ṛ] or @deva[इन्] @[in] forms its feminine by the addition of @deva[ई] @[ī].
+A prātipadika ending in short @deva[ऋ] or @deva[इन्] forms its feminine by the addition of @deva[ई].
 
-e.g. @deva[कर्तृ] @[kartṛ] → @deva[कर्त्री] @[kartrī]: doer (fem.)
+e.g. @deva[कर्तृ] → @deva[कर्त्री]: doer (fem.)
 
-e.g. @deva[दण्डिन्] @[daṇḍin] → @deva[दण्डिनी] @[daṇḍinī]: bearing a staff (fem.)
+e.g. @deva[दण्डिन्] → @deva[दण्डिनी]: bearing a staff (fem.)
 
-e.g. @deva[गुणिन्] @[guṇin] → @deva[गुणिनी] @[guṇinī]: possessing qualities (fem.)
+e.g. @deva[गुणिन्] → @deva[गुणिनी]: possessing qualities (fem.)
 
-e.g. @deva[राजिन्] @[rājin] → @deva[राजिनी] @[rājinī]
+e.g. @deva[राजिन्] → @deva[राजिनी]
 
-e.g. @deva[पर्यदिवन्] @[paryadivan] → @deva[पर्यदिवनी] @[paryadivanī], etc.
+e.g. @deva[पर्यदिवन्] → @deva[पर्यदिवनी], etc.
 
-**N. B.** Words like @deva[स्वसृ] @[svasṛ], @deva[ननान्दृ] @[nanāndṛ], @deva[तिस्र] @[tisra], @deva[दुहितृ] @[duhitṛ], etc. being themselves feminine do not take this termination.
+**N. B.** Words like @deva[स्वसृ], @deva[ननान्दृ], @deva[तिस्र], @deva[दुहितृ], etc. being themselves feminine do not take this termination.

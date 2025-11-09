@@ -44,10 +44,10 @@ image: /images/013.png
 
 ## § 41. Cerebral ण् After इ, ऊ, ऋ
 
-@deva[न्] @[n] coming after @deva[इ] @[i], @deva[ऊ] @[ū], or @deva[ऋ] @[ṛ] short or long, in the same word is changed to @deva[ण्] @[ṇ] even though a vowel, a semi-vowel except @deva[र्] @[r], a nasal, or a letter of the guttural or labial class or @deva[ह्] @[h] comes between @deva[इ] @[i], @deva[ऊ] @[ū] or @deva[ऋ] @[ṛ] and @deva[न्] @[n];[^1] e.g. @deva[रामेन = रामेण] @[rāmena = rāmeṇa]; @deva[पूष् + ना = पूष्णा] @[pūṣ + nā = pūṣṇā] by the sun, @deva[विष्णाय] @[viṣṇāya] &c.; but @deva[राम + नाम = राम नाम] @[rāma + nāma = rāma nāma] (as these are two separate words). This change does not take place when @deva[न्] @[n] is at the end of a word[^2] @deva[रामान्] @[rāmān].
+@deva[न्] coming after @deva[इ], @deva[ऊ], or @deva[ऋ] short or long, in the same word is changed to @deva[ण्] even though a vowel, a semi-vowel except @deva[र्], a nasal, or a letter of the guttural or labial class or @deva[ह्] comes between @deva[इ], @deva[ऊ] or @deva[ऋ] and @deva[न्];[^1] e.g. @deva[रामेन = रामेण]; @deva[पूष् + ना = पूष्णा] by the sun, @deva[विष्णाय] &c.; but @deva[राम + नाम = राम नाम] (as these are two separate words). This change does not take place when @deva[न्] is at the end of a word[^2] @deva[रामान्].
 
 ---
-[^1]: @deva[रामायाणः णः समानपदे । मधुकृतादिशानुव्यवायेऽपि] @[rāmāyāṇaḥ ṇaḥ samānapade. madhukṛtādiśānuvyavāye'pi] Pāṇ. VIII. 4. 1. 2.
-[^2]: @deva[पदान्तस्य न] @[padāntasya na] Pāṇ. VIII. 4. 37.
+[^1]: @deva[रामायाणः णः समानपदे । मधुकृतादिशानुव्यवायेऽपि] Pāṇ. VIII. 4. 1. 2.
+[^2]: @deva[पदान्तस्य न] Pāṇ. VIII. 4. 37.
 
 

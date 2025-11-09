@@ -35,4 +35,4 @@ image: /images/386.png
 
 ## § 647. General Tenses of क्यच् Denominatives
 
-In the general tenses the affix @deva[य] @[ya] (@deva[क्यच्] @[kyac] and @deva[क्यङ्] @[kyaṅ] to be given hereafter) is dropped when preceded by a consonant, @deva[अभिषोष्याकार] @[abhiṣoṣyākāra] Perf. 1 sing. @deva[अभिषिषिता] @[abhiṣiṣitā], @deva[अभिषिषिष्यति] @[abhiṣiṣiṣyati] 1st. and 2nd Fu. 3 sing. from @deva[अभिष्यति] @[abhiṣyati], but @deva[पुत्रीयांचकार] @[putrīyāṃcakāra] from @deva[पुत्रीयति] @[putrīyati].
+In the general tenses the affix @deva[य] (@deva[क्यच्] and @deva[क्यङ्] to be given hereafter) is dropped when preceded by a consonant, @deva[अभिषोष्याकार] Perf. 1 sing. @deva[अभिषिषिता], @deva[अभिषिषिष्यति] 1st. and 2nd Fu. 3 sing. from @deva[अभिष्यति], but @deva[पुत्रीयांचकार] from @deva[पुत्रीयति].

@@ -26,4 +26,4 @@ image: /images/374.png
 
 ## § 622. Conjugational Tenses of the Desiderative
 
-The @deva[अ] @[a] is added to the base in the Conjugational Tenses and then it is conjugated like the special base of the 6th class in the Active and Passive.
+The @deva[अ] is added to the base in the Conjugational Tenses and then it is conjugated like the special base of the 6th class in the Active and Passive.

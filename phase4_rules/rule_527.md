@@ -20,4 +20,4 @@ source_pages:
 ---
 ## § 527. Guṇa Before आम्
 
-Before @deva[आम्] @[ām] the final vowel and the penultimate short except that of @deva[विद्] @[vid], take their Guṇa substitute.
+Before @deva[आम्] the final vowel and the penultimate short except that of @deva[विद्], take their Guṇa substitute.

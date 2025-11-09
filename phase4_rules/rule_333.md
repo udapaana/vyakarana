@@ -31,22 +31,22 @@ image: /images/184.png
 
 ## § 333. Bahuvrīhi Ending in Pād
 
-A Bahuvrīhi ending in @deva[पाद्] @[pād] (substituted for @deva[पाद] @[pāda]) optionally forms its feminine in @deva[ई] @[ī] before which it is changed to @deva[पद्] @[pad].
+A Bahuvrīhi ending in @deva[पाद्] (substituted for @deva[पाद]) optionally forms its feminine in @deva[ई] before which it is changed to @deva[पद्].
 
-e.g. @deva[व्याघ्रस्य इव पादौ यस्याः सा व्याघ्रपाद्] @[vyāghrasya iva pādau yasyāḥ sā vyāghrapād] or @deva[व्याघ्रपदी] @[vyāghrapadī]
+e.g. @deva[व्याघ्रस्य इव पादौ यस्याः सा व्याघ्रपाद्] or @deva[व्याघ्रपदी]
 
-e.g. @deva[द्विपाद्] @[dvipād] or @deva[द्विपदी] @[dvipadī]
+e.g. @deva[द्विपाद्] or @deva[द्विपदी]
 
-And in @deva[आ] @[ā] when @deva[पाद] @[pāda] means 'a foot of a Vedic verse':
+And in @deva[आ] when @deva[पाद] means 'a foot of a Vedic verse':
 
-e.g. @deva[द्विपदा ऋक्] @[dvipadā ṛk]
+e.g. @deva[द्विपदा ऋक्]
 
-e.g. @deva[एकपदा] @[ekapadā], etc.
+e.g. @deva[एकपदा], etc.
 
-But if @deva[पाद्] @[pād] be preceded by one of the words @deva[कुम्भ] @[kumbha], @deva[शूल] @[śūla], @deva[तृण] @[tṛṇa], @deva[हंस] @[haṃsa], @deva[काक] @[kāka], @deva[कृष्ण] @[kṛṣṇa], @deva[सूकर] @[sūkara], etc. the feminine is necessarily formed in @deva[ई] @[ī], @deva[पाद्] @[pād] changing into @deva[पद्] @[pad] as before.
+But if @deva[पाद्] be preceded by one of the words @deva[कुम्भ], @deva[शूल], @deva[तृण], @deva[हंस], @deva[काक], @deva[कृष्ण], @deva[सूकर], etc. the feminine is necessarily formed in @deva[ई], @deva[पाद्] changing into @deva[पद्] as before.
 
-e.g. @deva[कुम्भपदी] @[kumbhapadī]: a woman whose feet are as big as a pitcher
+e.g. @deva[कुम्भपदी]: a woman whose feet are as big as a pitcher
 
-In other cases the feminine of prātipadikas ending in @deva[पाद] @[pāda] is formed by adding @deva[आ] @[ā].
+In other cases the feminine of prātipadikas ending in @deva[पाद] is formed by adding @deva[आ].
 
-e.g. @deva[हस्तिपादा] @[hastipādā], @deva[अजपादा] @[ajapādā], etc.
+e.g. @deva[हस्तिपादा], @deva[अजपादा], etc.

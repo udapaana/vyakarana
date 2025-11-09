@@ -48,9 +48,9 @@ cross_refs: []
 
 footnotes:
   - id: 1
-    content: "Vārt: @deva[पाशकल्पककाम्येषिति वक्तव्यम्] @[pāśakalpakakāmyeṣiti vaktavyam]. @deva[अन्यत्रेति पाठ्यम्] @[anyatreti pāṭhyam]"
+    content: "Vārt: @deva[पाशकल्पककाम्येषिति वक्तव्यम्]. @deva[अन्यत्रेति पाठ्यम्]"
   - id: 2
-    content: "Vārt: @deva[काम्ये रपारौति वाच्यम्] @[kāmye rapārāuti vācyam]"
+    content: "Vārt: @deva[काम्ये रपारौति वाच्यम्]"
 
 confidence: high
 
@@ -61,20 +61,20 @@ image: /images/015.png
 
 ### VISARGASANDHI
 
-@deva[स्] @[s] at the end of a word followed by any letter or not, the @deva[ष्] @[ṣ] of @deva[षष्ट्] @[ṣaṣṭ] and @deva[र्] @[r] followed by a hard consonant or by nothing, are changed to a Visarga; as @deva[रामः पठति] @[rāmaḥ paṭhati] Rāma reads. @deva[पितः] @[pitaḥ] Oh father. @deva[भ्रातुः कन्यका] @[bhrātuḥ kanyakā] a brother's daughter.
+@deva[स्] at the end of a word followed by any letter or not, the @deva[ष्] of @deva[षष्ट्] and @deva[र्] followed by a hard consonant or by nothing, are changed to a Visarga; as @deva[रामः पठति] Rāma reads. @deva[पितः] Oh father. @deva[भ्रातुः कन्यका] a brother's daughter.
 
 ### (a) Visarga Before पाश, कल्प, क, काम्य
 
-Visarga, not belonging to an indeclinable is changed to @deva[स्] @[s] when preceded by @deva[अ] @[a], and to @deva[ष्] @[ṣ], when preceded by @deva[इ] @[i] or @deva[उ] @[u], short or long, and followed by the terminations @deva[पाश] @[pāśa], @deva[कल्प] @[kalpa], @deva[क] @[ka] and @deva[काम्य] @[kāmya];[^2] e.g. @deva[पयस्पाशम्] @[payaspāśam] bad milk; @deva[यशस्कल्पम्] @[yaśaskalpam] little short of fame; @deva[यशस्कम्] @[yaśaskam] with fame; @deva[यशस्काम्यति] @[yaśaskāmyati] he desires fame; but @deva[प्रातःकल्पम्] @[prātaḥkalpam] almost dawn (where @deva[प्रातः] @[prātaḥ] is an indec.); @deva[सर्पिष्पाशम्] @[sarpiṣpāśam] bad ghee, @deva[सर्पिष्कल्पम्] @[sarpiṣkalpam], @deva[सर्पिष्कम्] @[sarpiṣkam], @deva[सर्पिष्काम्यति] @[sarpiṣkāmyati]. If the visarga, however, is a substitute for a final @deva[र्] @[r], it is not changed to @deva[स्] @[s] before @deva[काम्य] @[kāmya];[^3] @deva[गीः काम्यति] @[gīḥ kāmyati] speech desires.
+Visarga, not belonging to an indeclinable is changed to @deva[स्] when preceded by @deva[अ], and to @deva[ष्], when preceded by @deva[इ] or @deva[उ], short or long, and followed by the terminations @deva[पाश], @deva[कल्प], @deva[क] and @deva[काम्य];[^2] e.g. @deva[पयस्पाशम्] bad milk; @deva[यशस्कल्पम्] little short of fame; @deva[यशस्कम्] with fame; @deva[यशस्काम्यति] he desires fame; but @deva[प्रातःकल्पम्] almost dawn (where @deva[प्रातः] is an indec.); @deva[सर्पिष्पाशम्] bad ghee, @deva[सर्पिष्कल्पम्], @deva[सर्पिष्कम्], @deva[सर्पिष्काम्यति]. If the visarga, however, is a substitute for a final @deva[र्], it is not changed to @deva[स्] before @deva[काम्य];[^3] @deva[गीः काम्यति] speech desires.
 
 ### (b) नमः and पुरः Before क, ख, प, फ
 
 
 ---
-[^1]: The Visarga of @deva[नमः] @[namaḥ] and @deva[पुरः] @[puraḥ] when prefixed as indeclinables to verbs beginning with @deva[क] @[ka] or @deva[ख] @[kha] and @deva[प] @[pa] or @deva[फ] @[pha] is optionally changed to @deva[स्] @[s] in the case of the former and necessarily in that of the latter; e.g. @deva[नमस्करोति] @[namaskaroti] or @deva[नमः करोति] @[namaḥ karoti], @deva[पुरस्करोति] @[puraskaroti] puts in the front; but @deva[पुरः प्रवेश्याः] @[puraḥ praveśyāḥ] towns fit to be entered (as @deva[पुर] @[pura] is a noun).
-[^2]: @deva[सोऽपदादौ] @[so'padādau] Pāṇ. VIII. 3. 38. @deva[पाशकल्पककाम्येषिति वक्तव्यम्] @[pāśakalpakakāmyeṣiti vaktavyam]. @deva[अन्यत्रेति पाठ्यम्] @[anyatreti pāṭhyam] Vārtikas. @deva[इण्कोः षः] @[iṇkoḥ ṣaḥ] Pāṇ. VIII. 3. 39.
-[^3]: @deva[काम्ये रपारौति वाच्यम्] @[kāmye rapārāuti vācyam] Vārt.
-[^4]: @deva[नमःपुरोर्गीरमदाभ्यः] @[namaḥpurorgīramadābhyaḥ] Pāṇ. VIII. 3. 40.
+[^1]: The Visarga of @deva[नमः] and @deva[पुरः] when prefixed as indeclinables to verbs beginning with @deva[क] or @deva[ख] and @deva[प] or @deva[फ] is optionally changed to @deva[स्] in the case of the former and necessarily in that of the latter; e.g. @deva[नमस्करोति] or @deva[नमः करोति], @deva[पुरस्करोति] puts in the front; but @deva[पुरः प्रवेश्याः] towns fit to be entered (as @deva[पुर] is a noun).
+[^2]: @deva[सोऽपदादौ] Pāṇ. VIII. 3. 38. @deva[पाशकल्पककाम्येषिति वक्तव्यम्]. @deva[अन्यत्रेति पाठ्यम्] Vārtikas. @deva[इण्कोः षः] Pāṇ. VIII. 3. 39.
+[^3]: @deva[काम्ये रपारौति वाच्यम्] Vārt.
+[^4]: @deva[नमःपुरोर्गीरमदाभ्यः] Pāṇ. VIII. 3. 40.
 
 
 

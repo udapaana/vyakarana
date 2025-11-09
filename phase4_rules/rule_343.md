@@ -31,12 +31,12 @@ image: /images/189.png
 
 ## § 343. Affix Ul and Śya
 
-(1) **@deva[उल] @[ula]** is added to @deva[मातृ] @[mātṛ] in the sense of 'the brother of':
+(1) **@deva[उल]** is added to @deva[मातृ] in the sense of 'the brother of':
 
-e.g. @deva[मातुर्भ्राता मातुलः] @[māturbhrātā mātulaḥ]: a maternal uncle
+e.g. @deva[मातुर्भ्राता मातुलः]: a maternal uncle
 
-(2) and **@deva[श्य] @[śya]** is added to @deva[पितृ] @[pitṛ] and @deva[भ्रातृ] @[bhrātṛ] in the sense of 'the brother and the son of' respectively:
+(2) and **@deva[श्य]** is added to @deva[पितृ] and @deva[भ्रातृ] in the sense of 'the brother and the son of' respectively:
 
-e.g. @deva[पितुः भ्राता पितृव्यः] @[pituḥ bhrātā pitṛvyaḥ]: a paternal uncle
+e.g. @deva[पितुः भ्राता पितृव्यः]: a paternal uncle
 
-e.g. @deva[भ्रातुः पुत्रः भ्रातृव्यः] @[bhrātuḥ putraḥ bhrātṛvyaḥ]: a nephew
+e.g. @deva[भ्रातुः पुत्रः भ्रातृव्यः]: a nephew

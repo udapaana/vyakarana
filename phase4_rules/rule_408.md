@@ -32,8 +32,8 @@ image: /images/242.png
 
 ## § 408. Insertion of न in 9th Class
 
-In the ninth class @deva[न] @[na] is inserted between the root and the terminations.[^1] @deva[न] @[na] becomes @deva[ण्] @[ṇ] before the weak terminations beginning with a vowel, and @deva[नी] @[nī] before the weak terminations beginning with a consonant.
+In the ninth class @deva[न] is inserted between the root and the terminations.[^1] @deva[न] becomes @deva[ण्] before the weak terminations beginning with a vowel, and @deva[नी] before the weak terminations beginning with a consonant.
 
 ---
 
-[^1]: @deva[क्र्यादिभ्यः ना] @[kryādibhyaḥ nā] Pāṇ. III. 1. 81.
+[^1]: @deva[क्र्यादिभ्यः ना] Pāṇ. III. 1. 81.

@@ -33,15 +33,15 @@ There is a peculiar use of the Imperative which ought to be noticed. The Imperat
 
 **Examples:**
 
-- @deva[याहि याहि हति गति] @[yāhi yāhi hati gati] (Sid. Kau.) he goes every now and then
-- @deva[पकाहि पकाहि पक्षां पकाहि] @[pakāhi pakāhi pakṣāṃ pakāhi] (Sid Kau) he cooks
-- @deva[अध्यापय अध्यायते] @[adhyāpaya adhyāyate] he studies steadily
+- @deva[याहि याहि हति गति] (Sid. Kau.) he goes every now and then
+- @deva[पकाहि पकाहि पक्षां पकाहि] (Sid Kau) he cooks
+- @deva[अध्यापय अध्यायते] he studies steadily
 
 The Imperative second person is also used when several acts are described as done by the same person:
 
-- @deva[शकुच्छ फिरु, पानः सुदचंयुहारति] @[śakuccha phiru, pānaḥ sudacaṃyuhārati] (Sid. Kau.) he takes his meal, now eating fruit, now eating fried rice
-- Similarly: @deva[अखनं वदय दविकंयवरयते] @[akhanaṃ vadaya davikaṃyavara­yate] (Sid. Kau.)
+- @deva[शकुच्छ फिरु, पानः सुदचंयुहारति] (Sid. Kau.) he takes his meal, now eating fruit, now eating fried rice
+- Similarly: @deva[अखनं वदय दविकंयवरयते] (Sid. Kau.)
 
 ---
 
-**Pāṇini Reference:** @deva[क्रियासयनेयुरो लोट् छन्दसो छन्दोतो हित्यदो वा च तस्यानो ।] @[kriyāsayane­yuro loṭ chandaso chandoto hityado vā ca tasyāno |] (Pāṇ. III. 4. 1-5)
+**Pāṇini Reference:** @deva[क्रियासयनेयुरो लोट् छन्दसो छन्दोतो हित्यदो वा च तस्यानो ।] (Pāṇ. III. 4. 1-5)

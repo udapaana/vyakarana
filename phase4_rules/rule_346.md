@@ -29,66 +29,66 @@ image: /images/190.png
 
 ## § 346. Affix Ika - Part 1
 
-**@deva[इक] @[ika]**, **@deva[ठ] @[ṭha]**, **@deva[ठन्] @[ṭhan]** have various senses:
+**@deva[इक]**, **@deva[ठ]**, **@deva[ठन्]** have various senses:
 
-(1) @deva[रेवत्याः अपत्यं पुमान् रैवतिकः] @[ravatyāḥ apatyaṃ pumān raivatikah]: the son of Revatī
+(1) @deva[रेवत्याः अपत्यं पुमान् रैवतिकः]: the son of Revatī
 
 (2) 'happening or given once a month, monthly, lasting for a month', etc.:
 
-@deva[मासेन दीयते इति मासिकं वेतनं] @[māsena dīyate iti māsikaṃ vetanaṃ]: a monthly salary
+@deva[मासेन दीयते इति मासिकं वेतनं]: a monthly salary
 
-@deva[मासिकं पुस्तकं वा] @[māsikaṃ pustakaṃ vā]: a monthly book
+@deva[मासिकं पुस्तकं वा]: a monthly book
 
-Similarly @deva[वार्षिकः] @[vārṣikaḥ], @deva[आहुः] @[āhuḥ], etc.
+Similarly @deva[वार्षिकः], @deva[आहुः], etc.
 
 (3) 'gathering together':
 
-@deva[सैनिकाः] @[sainikāḥ]: soldiers
+@deva[सैनिकाः]: soldiers
 
 (4) 'asking':
 
-@deva[स्नातं पृच्छतीति सौस्नातिकः] @[snātaṃ pṛcchatīti sausnātikaḥ]: one who asks another whether he had an auspicious ablution
+@deva[स्नातं पृच्छतीति सौस्नातिकः]: one who asks another whether he had an auspicious ablution
 
-e.g. @deva[सुप्तं शयनं पृच्छतीति सौशयनिकः] @[suptaṃ śayanaṃ pṛcchatīti sauśayanikaḥ]: one who asks another whether he had comfortable sleep (see Raghuvaṃśa VI.61, X.14)
+e.g. @deva[सुप्तं शयनं पृच्छतीति सौशयनिकः]: one who asks another whether he had comfortable sleep (see Raghuvaṃśa VI.61, X.14)
 
-@deva[सुसुप्तं पृच्छतीति सौसुप्तिकः] @[susuptaṃ pṛcchatīti sausuptikaḥ], etc.
+@deva[सुसुप्तं पृच्छतीति सौसुप्तिकः], etc.
 
 (5) 'using an instrument':
 
-@deva[असिः प्रहरणमस्य असिकः] @[asiḥ praharaṇamasya asikaḥ]: one who strikes with a sword, a swordsman
+@deva[असिः प्रहरणमस्य असिकः]: one who strikes with a sword, a swordsman
 
-@deva[धार्निकः] @[dhārnikaḥ]: an archer
+@deva[धार्निकः]: an archer
 
 (6) 'mixed with' (in this sense it is added to a few words only):
 
-@deva[दध्ना संस्कृतं दाधिकं] @[dadhnā saṃskṛtaṃ dādhikaṃ]: mixed with curds
+@deva[दध्ना संस्कृतं दाधिकं]: mixed with curds
 
-@deva[मारीचिकं] @[mārīcikaṃ] from @deva[मरीचि] @[marīci] 'black pepper'
+@deva[मारीचिकं] from @deva[मरीचि] 'black pepper'
 
-(7) @deva[धर्मे चरतीति धार्मिकः] @[dharme caratīti dhārmikaḥ]: pious, religious
+(7) @deva[धर्मे चरतीति धार्मिकः]: pious, religious
 
-Similarly @deva[अधार्मिकः] @[adhārmikaḥ]: irreligious
+Similarly @deva[अधार्मिकः]: irreligious
 
-(8) @deva[डुडुपेन तरतीति डुडुपिकः] @[ḍuḍupena taratīti ḍuḍupikaḥ]: a boatman
+(8) @deva[डुडुपेन तरतीति डुडुपिकः]: a boatman
 
-@deva[नाविकः] @[nāvikaḥ], etc.
+@deva[नाविकः], etc.
 
-(9) @deva[हस्तिना चरतीति हास्तिकः] @[hastinā caratīti hāstikaḥ]: one who rides an elephant
+(9) @deva[हस्तिना चरतीति हास्तिकः]: one who rides an elephant
 
-@deva[शकटेन चरतीति शाकटिकः] @[śakaṭena caratīti śākaṭikaḥ]: one who drives in a carriage
+@deva[शकटेन चरतीति शाकटिकः]: one who drives in a carriage
 
-(10) @deva[दध्ना भक्षयतीति दाधिकः] @[dadhnā bhakṣayatīti dādhikaḥ]: one who eats with curds
+(10) @deva[दध्ना भक्षयतीति दाधिकः]: one who eats with curds
 
 (11) 'living upon':
 
-@deva[वेतनेन जीवतीति वैतनिकः] @[vetanena jīvatīti vaitanikaḥ]: one who lives upon wages
+@deva[वेतनेन जीवतीति वैतनिकः]: one who lives upon wages
 
-e.g. @deva[वाहनिकः] @[vāhanikaḥ], @deva[भोपदेशिकः] @[bhopadeśikaḥ], etc.
+e.g. @deva[वाहनिकः], @deva[भोपदेशिकः], etc.
 
 (12) 'carrying upon':
 
-@deva[उत्सङ्गेन हरतीति औत्सङ्गिकः] @[utsaṅgena haratīti autsaṅgikaḥ]
+@deva[उत्सङ्गेन हरतीति औत्सङ्गिकः]
 
-(13) @deva[अस्तीति बुद्धिः अस्य आस्तिकः] @[astīti buddhiḥ asya āstikaḥ]: a believer in God and sacred writings
+(13) @deva[अस्तीति बुद्धिः अस्य आस्तिकः]: a believer in God and sacred writings
 
-@deva[नास्तिकः] @[nāstikaḥ]: an atheist, etc.
+@deva[नास्तिकः]: an atheist, etc.

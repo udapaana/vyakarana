@@ -23,4 +23,4 @@ image: TBD
 
 ## § 521. त्रै Assumes Base दित्रै in Perfect
 
-@deva[त्रै] @[trai] 1. Ā. 'to protect' assumes as its base the form @deva[दित्रै] @[ditrai] in the Perfect. Forms: @deva[दित्रै] @[ditrai], @deva[दित्रियवहे] @[ditriyavahe], 1 sing. and dual; @deva[दित्रियध्वे-ढे] @[ditriyuadhve-ḍhe] 2 pl.
+@deva[त्रै] 1. Ā. 'to protect' assumes as its base the form @deva[दित्रै] in the Perfect. Forms: @deva[दित्रै], @deva[दित्रियवहे], 1 sing. and dual; @deva[दित्रियध्वे-ढे] 2 pl.

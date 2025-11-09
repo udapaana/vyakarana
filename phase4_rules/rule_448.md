@@ -28,5 +28,5 @@ image: /images/274.png
 
 [Content extracted from pages 288 - to be enhanced with full OCR text and proper tagging]
 
-Key terms: @deva[पा] @[...], @deva[पपा] @[...]
+Key terms: @deva[पा], @deva[पपा]
 

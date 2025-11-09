@@ -19,4 +19,4 @@ confidence: high
 image: /images/523.png
 ---
 
-§ 11. @deva[यति] @[Yati] is the Sanskrit name for the caesura or pause. It is the pause that occurs in certain metres at a fixed point of division. It is of different kinds.
+§ 11. @deva[यति] is the Sanskrit name for the caesura or pause. It is the pause that occurs in certain metres at a fixed point of division. It is of different kinds.

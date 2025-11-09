@@ -34,12 +34,12 @@ The third person singular of the Imperative in the passive voice is often used a
 
 **Examples:**
 
-- @deva[आनीयतां राजानः] @[ānīyatāṃ rājānaḥ] the prince should be brought
-- @deva[श्रूयतां संगो यज्ञदतां] @[śrūyatāṃ saṃgo yajñadatāṃ] may you hear, ye Pandits
-- @deva[एतदस्याशरस्यातां] @[etadasyāśa­rasyātāṃ] wake and eat
+- @deva[आनीयतां राजानः] the prince should be brought
+- @deva[श्रूयतां संगो यज्ञदतां] may you hear, ye Pandits
+- @deva[एतदस्याशरस्यातां] wake and eat
 
 ---
 
 **Pāṇini References:**
-- @deva[लोट् च ।] @[loṭ ca |] (Pāṇ. III. 3. 162)
+- @deva[लोट् च ।] (Pāṇ. III. 3. 162)
 - Vide Pāṇ. III. 3. 161 quoted on the next page

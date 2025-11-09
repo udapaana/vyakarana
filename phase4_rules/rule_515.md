@@ -23,4 +23,4 @@ image: TBD
 
 ## § 515. अद्, षद् and श्वे Admit इ Before य
 
-The roots @deva[अद्] @[ad], @deva[षद्] @[ṣad] and @deva[श्वे] @[śve] admit @deva[इ] @[i] necessarily before @deva[य] @[ya].
+The roots @deva[अद्], @deva[षद्] and @deva[श्वे] admit @deva[इ] necessarily before @deva[य].

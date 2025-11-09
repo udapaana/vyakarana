@@ -33,20 +33,20 @@ image: /images/514.png
 
 ## § 954. Potential with Interrogatives
 
-With interrogative words such as @deva[किम्] @[kim], @deva[कुतः] @[kutaḥ], @deva[कथम्] @[katham], etc., the Potential or the Simple Future may be used when censure is implied (see § 937):
+With interrogative words such as @deva[किम्], @deva[कुतः], @deva[कथम्], etc., the Potential or the Simple Future may be used when censure is implied (see § 937):
 
 **Example:**
 
-@deva[कः कुतः वा हरिं निन्देत् निनिन्द्यात् वा] @[kaḥ kutaḥ vā hariṃ nindet ninindyāt vā]
+@deva[कः कुतः वा हरिं निन्देत् निनिन्द्यात् वा]
 
-**(a)** When wonder is implied the Simple Future is used in preference to the Potential if the word @deva[यदि] @[yadi] be not used:
+**(a)** When wonder is implied the Simple Future is used in preference to the Potential if the word @deva[यदि] be not used:
 
-- @deva[आश्चर्यं अन्धः नारं दक्षयेत् दक्षयति] @[āścaryaṃ andhaḥ nāraṃ dakṣayet dakṣayati] it is a wonder that a blind man should see Hari
+- @deva[आश्चर्यं अन्धः नारं दक्षयेत् दक्षयति] it is a wonder that a blind man should see Hari
 
-But: @deva[आश्चर्यं यदि निन्देत्] @[āścaryaṃ yadi nindet] it is wonder if he should
+But: @deva[आश्चर्यं यदि निन्देत्] it is wonder if he should
 
 ---
 
 **Pāṇini References:**
-- @deva[किंचार्थे (गर्हायै) लिङ्लच्छदाने] @[kiṃcārthe (garhāyai) liṅlacchadāne] (Pāṇ. III. 3. 144)
-- @deva[(विज्ञातार्थे) पौने संङ्ख्याने] @[vijñātārthe) paune saṅkhyāne] (Pāṇ. III. 3. 151)
+- @deva[किंचार्थे (गर्हायै) लिङ्लच्छदाने] (Pāṇ. III. 3. 144)
+- @deva[(विज्ञातार्थे) पौने संङ्ख्याने] (Pāṇ. III. 3. 151)

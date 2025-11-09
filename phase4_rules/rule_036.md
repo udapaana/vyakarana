@@ -29,7 +29,7 @@ image: /images/012.png
 
 ## § 36. Anusvāra for Final म्
 
-@deva[म्] @[m] at the end of a word is changed into an Anusvāra [before consonants].
+@deva[म्] at the end of a word is changed into an Anusvāra [before consonants].
 
 
 

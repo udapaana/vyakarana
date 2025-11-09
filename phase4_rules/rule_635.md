@@ -31,4 +31,4 @@ image: /images/380.png
 
 ## § 635. Rules §630 Applied to Parasmaipada Frequentative
 
-The rules @ref[§ 630 (a) (b)] apply likewise to the Parasm. Frequent. Base; @deva[यम्-येयम्] @[yam-yeyam] or @deva[यैयम्] @[yaiyam]; @deva[वह्-वेवह्] @[vah-vevah] or @deva[वैवह्] @[vaivah]; @deva[वस्-वु-वनीवस्] @[vas-vu-vanīvas] &c.
+The rules @ref[§ 630 (a) (b)] apply likewise to the Parasm. Frequent. Base; @deva[यम्-येयम्] or @deva[यैयम्]; @deva[वह्-वेवह्] or @deva[वैवह्]; @deva[वस्-वु-वनीवस्] &c.

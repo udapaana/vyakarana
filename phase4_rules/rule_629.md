@@ -36,10 +36,10 @@ image: /images/377.png
 
 ## § 629. Reduplication of Ātmanepada Frequentative
 
-The form in @deva[य] @[ya] derived as above is reduplicated according to the general rules of reduplication.
+The form in @deva[य] derived as above is reduplicated according to the general rules of reduplication.
 
 **(a)** If a root begins with a vowel, the following syllable is reduplicated.
 
-**(b)** The vowels @deva[इ] @[i] and @deva[उ] @[u] of the reduplicative syllable take their Guṇa substitute and the @deva[अ] @[a] of the reduplicative syllable is lengthened; @deva[पुनः पुनरतिक्रमयेन वा भवति बोध्यते] @[punaḥ punaratikramayena vā bhavati bodhyate]; @deva[पच्-पापच्यते] @[pac-pāpacyate] &c.
+**(b)** The vowels @deva[इ] and @deva[उ] of the reduplicative syllable take their Guṇa substitute and the @deva[अ] of the reduplicative syllable is lengthened; @deva[पुनः पुनरतिक्रमयेन वा भवति बोध्यते]; @deva[पच्-पापच्यते] &c.
 
-Examples: @deva[द्रा-द्रीय] @[drā-drīya] by @ref[§ 628], @deva[द्विद्रीय] @[dvidrīya] by reduplication, @deva[द्वैद्रीय] @[dvaidrīya] by 629 b+@deva[ते] @[te]=@deva[द्वैद्रीयते] @[dvaidrīyate]; similarly @deva[रीक्—रोरीक्यते] @[rīk—rorīkyate], @deva[श्यै—शेश्यैयते] @[śyai—śeśyaiyate], @deva[स्वप्—सोष्यते] @[svap—soṣyate], @deva[शास्—शाशिष्यते] @[śās—śāśiṣyate], @deva[प्याद्—पेपीयते] @[pyād—pepīyate], &c.; @deva[प्रा—प्रीय—निप्रीय—जेप्रीयते] @[prā—prīya—niprīya—jeprīyate]; @deva[प्स्मा—दुष्मीयते] @[psmā—duṣmīyate] &c.
+Examples: @deva[द्रा-द्रीय] by @ref[§ 628], @deva[द्विद्रीय] by reduplication, @deva[द्वैद्रीय] by 629 b+@deva[ते]=@deva[द्वैद्रीयते]; similarly @deva[रीक्—रोरीक्यते], @deva[श्यै—शेश्यैयते], @deva[स्वप्—सोष्यते], @deva[शास्—शाशिष्यते], @deva[प्याद्—पेपीयते], &c.; @deva[प्रा—प्रीय—निप्रीय—जेप्रीयते]; @deva[प्स्मा—दुष्मीयते] &c.

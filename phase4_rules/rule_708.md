@@ -31,12 +31,12 @@ image: /images/417.png
 
 ## § 708. Past Active Participles
 
-Past Active participles are derived from the P. Passive Participle in @deva[त्] @[t] or @deva[न] @[n] by adding to them the affix @deva[वत्] @[vat]:
+Past Active participles are derived from the P. Passive Participle in @deva[त्] or @deva[न] by adding to them the affix @deva[वत्]:
 
 | Roots | P. P. Ptc. | P. Ac. Ptc. |
 |-------|------------|-------------|
-| @deva[भू] @[bhū] 'to be' | @deva[भूत] @[bhūta] | @deva[भूतवत्] @[bhūtavat] 'one or that has been' |
-| @deva[कृ] @[kṛ] 'to do' | @deva[कृत] @[kṛta] | @deva[कृतवत्] @[kṛtavat] 'one or that has done' |
-| @deva[कृ] @[kṛ] 'to scatter' | @deva[कीर्ण] @[kīrṇa] | @deva[कीर्णवत्] @[kīrṇavat] 'one or that has scattered' |
-| @deva[छिद्] @[chid] 'to cut' | @deva[छिन्न] @[chinna] | @deva[छिन्नवत्] @[chinnavat] 'one or that has cut' |
+| @deva[भू] 'to be' | @deva[भूत] | @deva[भूतवत्] 'one or that has been' |
+| @deva[कृ] 'to do' | @deva[कृत] | @deva[कृतवत्] 'one or that has done' |
+| @deva[कृ] 'to scatter' | @deva[कीर्ण] | @deva[कीर्णवत्] 'one or that has scattered' |
+| @deva[छिद्] 'to cut' | @deva[छिन्न] | @deva[छिन्नवत्] 'one or that has cut' |
 | etc. | etc. | etc. |

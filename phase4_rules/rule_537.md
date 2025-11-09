@@ -20,4 +20,4 @@ source_pages:
 ---
 ## § 537. Third Variety Formation with अ
 
-In this Variety @deva[अ] @[a] is added on to the root and then [terminations follow].
+In this Variety @deva[अ] is added on to the root and then [terminations follow].

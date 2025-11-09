@@ -23,4 +23,4 @@ image: TBD
 
 ## § 526. Periphrastic Perfect Formation
 
-The Periphrastic Perfect is formed by adding @deva[आम्] @[ām] to the root and then adding the forms of the reduplicated Perfect of @deva[कृ] @[kṛ], @deva[भू] @[bhū], or @deva[अस्] @[as] as terminations; when the forms of @deva[कृ] @[kṛ], are added, a Parasmaipadi root takes the Parasmaipadi forms and an Atmanepadi one takes the Atmanepadi forms.
+The Periphrastic Perfect is formed by adding @deva[आम्] to the root and then adding the forms of the reduplicated Perfect of @deva[कृ], @deva[भू], or @deva[अस्] as terminations; when the forms of @deva[कृ], are added, a Parasmaipadi root takes the Parasmaipadi forms and an Atmanepadi one takes the Atmanepadi forms.

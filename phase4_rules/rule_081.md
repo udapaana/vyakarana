@@ -41,40 +41,40 @@ image: /images/054.png
 
 ## § 81. Nouns derived from roots with affix तृ
 
-Nouns derived from roots with the affix @deva[तृ] @[tṛ] (@deva[तृच्] @[tṛc] and @deva[तृन्] @[tṛn] Pān. III. 1. 133, and 2, 135), such as @deva[कर्तृ] @[kartṛ] a maker, &c. and the words @deva[स्वसृ] @[svasṛ] f.; @deva[नसृ] @[nasṛ], @deva[नेदृ] @[nedṛ], @deva[क्षेतृ] @[kṣetṛ], @deva[होतृ] @[hotṛ], and @deva[प्रशासृ] @[praśāsṛ] as also @deva[उद्रातृ] @[udrātṛ] change their @deva[ऋ] @[ṛ] to @deva[अर्] @[ar] in the Nom. sing. and to @deva[आर्] @[ār] in the first five inflections. The @deva[ऋ] @[ṛ] is lengthened in the Acc. and Gen. pl. and changed to @deva[उर्] @[ur] before the Ab and Gen. sing; the Voc sing. ends in @deva[अर्] @[ar].
+Nouns derived from roots with the affix @deva[तृ] (@deva[तृच्] and @deva[तृन्] Pān. III. 1. 133, and 2, 135), such as @deva[कर्तृ] a maker, &c. and the words @deva[स्वसृ] f.; @deva[नसृ], @deva[नेदृ], @deva[क्षेतृ], @deva[होतृ], and @deva[प्रशासृ] as also @deva[उद्रातृ] change their @deva[ऋ] to @deva[अर्] in the Nom. sing. and to @deva[आर्] in the first five inflections. The @deva[ऋ] is lengthened in the Acc. and Gen. pl. and changed to @deva[उर्] before the Ab and Gen. sing; the Voc sing. ends in @deva[अर्].
 
 ### Masculine: धातृ (the creator)
 
 | Case | Singular | Dual | Plural |
 |------|----------|------|--------|
-| N. | @deva[धाता] @[dhātā] | @deva[धातारौ] @[dhātārau] | @deva[धातारः] @[dhātāraḥ] |
-| V. | @deva[धातः] @[dhātaḥ] (or @deva[धातर्] @[dhātar]) | " | " |
-| A. | @deva[धातारम्] @[dhātāram] | " | @deva[धातॄन्] @[dhātṝn] |
-| I. | @deva[धात्रा] @[dhātrā] | @deva[धातृभ्याम्] @[dhātṛbhyām] | @deva[धातृभिः] @[dhātṛbhiḥ] |
-| D. | @deva[धात्रे] @[dhātre] | " | @deva[धातृभ्यः] @[dhātṛbhyaḥ] |
-| Ab. | @deva[धातुः] @[dhātuḥ] | " | " |
-| G. | " | @deva[धात्रोः] @[dhātroḥ] | @deva[धातॄणाम्] @[dhātṝṇām] |
-| L. | @deva[धातरि] @[dhātari] | " | @deva[धातृषु] @[dhātṛṣu] |
+| N. | @deva[धाता] | @deva[धातारौ] | @deva[धातारः] |
+| V. | @deva[धातः] (or @deva[धातर्]) | " | " |
+| A. | @deva[धातारम्] | " | @deva[धातॄन्] |
+| I. | @deva[धात्रा] | @deva[धातृभ्याम्] | @deva[धातृभिः] |
+| D. | @deva[धात्रे] | " | @deva[धातृभ्यः] |
+| Ab. | @deva[धातुः] | " | " |
+| G. | " | @deva[धात्रोः] | @deva[धातॄणाम्] |
+| L. | @deva[धातरि] | " | @deva[धातृषु] |
 
-Decline similarly @deva[कर्तृ] @[kartṛ], @deva[नेतृ] @[netṛ], @deva[नसृ] @[nasṛ], @deva[ज्ञातृ] @[jñātṛ], @deva[उद्रातृ] @[udrātṛ] &c.
+Decline similarly @deva[कर्तृ], @deva[नेतृ], @deva[नसृ], @deva[ज्ञातृ], @deva[उद्रातृ] &c.
 
 ### Neuter: धातृ
 
 | Case | Singular | Dual | Plural |
 |------|----------|------|--------|
-| N. | @deva[धातृ] @[dhātṛ] | @deva[धातॄणी] @[dhātṝṇī] | @deva[धातृणि] @[dhātṛṇi] |
-| V. | @deva[धातः] @[dhātaḥ] or @deva[धातृ] @[dhātṛ] | " | " |
-| A. | @deva[धातृ] @[dhātṛ] | " | " |
-| I. | @deva[धात्रा] @[dhātrā] or @deva[धातृणा] @[dhātṛṇā] | @deva[धातृभ्याम्] @[dhātṛbhyām] | @deva[धातृभिः] @[dhātṛbhiḥ] |
-| D. | @deva[धात्रे] @[dhātre] or @deva[धातृणे] @[dhātṛṇe] | " | @deva[धातृभ्यः] @[dhātṛbhyaḥ] |
-| Ab. | @deva[धातुः] @[dhātuḥ] or @deva[धातृणः] @[dhātṛṇaḥ] | " | " |
-| G. | " | @deva[धात्रोः] @[dhātroḥ] or @deva[धातृणोः] @[dhātṛṇoḥ] | @deva[धातॄणाम्] @[dhātṝṇām] |
-| L. | @deva[धातरि] @[dhātari] | " | @deva[धातृषु] @[dhātṛṣu] |
+| N. | @deva[धातृ] | @deva[धातॄणी] | @deva[धातृणि] |
+| V. | @deva[धातः] or @deva[धातृ] | " | " |
+| A. | @deva[धातृ] | " | " |
+| I. | @deva[धात्रा] or @deva[धातृणा] | @deva[धातृभ्याम्] | @deva[धातृभिः] |
+| D. | @deva[धात्रे] or @deva[धातृणे] | " | @deva[धातृभ्यः] |
+| Ab. | @deva[धातुः] or @deva[धातृणः] | " | " |
+| G. | " | @deva[धात्रोः] or @deva[धातृणोः] | @deva[धातॄणाम्] |
+| L. | @deva[धातरि] | " | @deva[धातृषु] |
 
-Decline similarly @deva[कर्तृ] @[kartṛ], @deva[नेतृ] @[netṛ], @deva[ज्ञातृ] @[jñātṛ], &c.
+Decline similarly @deva[कर्तृ], @deva[नेतृ], @deva[ज्ञातृ], &c.
 
-@deva[स्वसृ] @[svasṛ] and other fem. nouns should be declined like @deva[धातृ] @[dhātṛ] except in the Acc. plu. which is @deva[स्वसॄः] @[svasṝḥ]. See below.
+@deva[स्वसृ] and other fem. nouns should be declined like @deva[धातृ] except in the Acc. plu. which is @deva[स्वसॄः]. See below.
 
 ---
 
-[^1]: @deva[अनन्तनसृनधनेन्द्रक्षत्रपूष्णामेणामाशसॄणाम्] Pān. VI. 4. 11. @deva[उद्रातृ] @[udrātṛ]: from the commentary of Sid. Kau.
+[^1]: @deva[अनन्तनसृनधनेन्द्रक्षत्रपूष्णामेणामाशसॄणाम्] Pān. VI. 4. 11. @deva[उद्रातृ]: from the commentary of Sid. Kau.

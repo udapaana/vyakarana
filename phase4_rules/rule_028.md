@@ -33,11 +33,11 @@ image: /images/010.png
 ## § 28. Dental-Palatal Combination
 
 
-When @deva[स्] @[s] or a consonant of the dental class comes in contact with:—
+When @deva[स्] or a consonant of the dental class comes in contact with:—
 
 ### (a) Palatal Substitution
 
-@deva[श] @[ś] or a consonant of the palatal class, the corresponding letter of the latter class is substituted for the former, and @deva[श] @[ś] for @deva[स्] @[s]; @deva[हरिस् + शेते = हरिश्शेते] @[haris + śete = hariśśete] Hari sleeps; @deva[रामः + चिनोति = रामश्चिनोति] @[rāmaḥ + cinoti = rāmaścin oti] Rāma collects: @deva[सत् + चित् = सच्चित्] @[sat + cit = saccit] Reality and knowledge; @deva[शान्तिम् + जय = शान्तिञ्जय] @[śāntim + jaya = śāntiñjaya] Be you victorious, Oh Kṛṣṇa.
+@deva[श] or a consonant of the palatal class, the corresponding letter of the latter class is substituted for the former, and @deva[श] for @deva[स्]; @deva[हरिस् + शेते = हरिश्शेते] Hari sleeps; @deva[रामः + चिनोति = रामश्चिनोति] Rāma collects: @deva[सत् + चित् = सच्चित्] Reality and knowledge; @deva[शान्तिम् + जय = शान्तिञ्जय] Be you victorious, Oh Kṛṣṇa.
 
 
 
@@ -45,5 +45,5 @@ When @deva[स्] @[s] or a consonant of the dental class comes in contact with
 ---
 
 [^1]: II. HALSANDHI, OR THE COALESCENCE OF FINAL CONSONANTS WITH VOWELS AND CONSONANTS.**
-[^2]: Exception:** (1) Dentals coming after @deva[श्] @[ś] are not changed into the corresponding palatals: e.g. @deva[विश्र:] @[viśraḥ] that which spreads lustre.
+[^2]: Exception:** (1) Dentals coming after @deva[श्] are not changed into the corresponding palatals: e.g. @deva[विश्र:] that which spreads lustre.
 [^3]: @deva[स्तोः श्चुना श्चुः । शात् । न च्] Pāṇ. VIII. 4, 40. 44, 41.

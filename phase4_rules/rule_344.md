@@ -29,16 +29,16 @@ image: /images/189.png
 
 ## § 344. Affixes Āyana and Ayana
 
-**@deva[आयन] @[āyana]** and **@deva[अयन] @[ayana]** are added to patronymics formed by means of Taddhita affixes in the sense of 'the child of':
+**@deva[आयन]** and **@deva[अयन]** are added to patronymics formed by means of Taddhita affixes in the sense of 'the child of':
 
-e.g. @deva[दाक्षायणः] @[dākṣāyaṇaḥ] or @deva[दाक्षायणिः] @[dākṣāyaṇiḥ]: the son of Dākṣi
+e.g. @deva[दाक्षायणः] or @deva[दाक्षायणिः]: the son of Dākṣi
 
-e.g. @deva[गार्ग्यायणः] @[gārgyāyaṇaḥ] or @deva[गार्ग्यायणिः] @[gārgyāyaṇiḥ]: the son of @deva[गार्ग्य] @[gārgya], a descendant of Garga
+e.g. @deva[गार्ग्यायणः] or @deva[गार्ग्यायणिः]: the son of @deva[गार्ग्य], a descendant of Garga
 
-**@deva[अयन] @[ayana]** is also added to the word @deva[कपिश] @[kapiśa] 'name of a town' in the sense of 'produced in':
+**@deva[अयन]** is also added to the word @deva[कपिश] 'name of a town' in the sense of 'produced in':
 
-e.g. @deva[कापिशायनः] @[kāpiśāyanaḥ]
+e.g. @deva[कापिशायनः]
 
-And optionally to @deva[द्रोण] @[droṇa]:
+And optionally to @deva[द्रोण]:
 
-e.g. @deva[द्रोणायनः] @[droṇāyanaḥ] or @deva[द्रौणिः] @[drauṇiḥ]: son of Droṇa
+e.g. @deva[द्रोणायनः] or @deva[द्रौणिः]: son of Droṇa

@@ -33,4 +33,4 @@ image: /images/497.png
 
 ## § 901. Past Passive Participle as Neuter Substantive
 
-The past passive participle is used as a neuter substantive; @deva[गत] @[gata] departure; @deva[दत्त] @[datta] a gift, @deva[खात] @[khāta] an excavation, @deva[अन्न] @[anna], @deva[पान] @[pāna], &c.
+The past passive participle is used as a neuter substantive; @deva[गत] departure; @deva[दत्त] a gift, @deva[खात] an excavation, @deva[अन्न], @deva[पान], &c.

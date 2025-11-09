@@ -28,8 +28,8 @@ image: /images/189.png
 
 ## § 342. Affix Mah
 
-**@deva[मह] @[maha]** is added to the words @deva[पितृ] @[pitṛ] and @deva[मातृ] @[mātṛ] in the sense of 'the father of':
+**@deva[मह]** is added to the words @deva[पितृ] and @deva[मातृ] in the sense of 'the father of':
 
-e.g. @deva[पितुः पिता पितामहः] @[pituḥ pitā pitāmahaḥ]: a paternal grandfather
+e.g. @deva[पितुः पिता पितामहः]: a paternal grandfather
 
-e.g. @deva[मातामहः] @[mātāmahaḥ]: a maternal grandfather
+e.g. @deva[मातामहः]: a maternal grandfather

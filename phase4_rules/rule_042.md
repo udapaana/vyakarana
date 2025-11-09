@@ -51,10 +51,10 @@ image: /images/014.png
 
 ## § 42. Cerebral षु in Substitutes and Terminations
 
-@deva[सु] @[su] belonging to a substitute (@deva[आदेश] @[ādeśa]) or a termination (@deva[प्रत्यय] @[pratyaya]) and not at the end of a grammatical form is changed to @deva[षु] @[ṣu] when preceded by any vowel except @deva[अ] @[a] or @deva[आ] @[ā], a semivowel, a letter of the guttural class or @deva[ह्] @[h];[^1] e.g. @deva[पाथे + सु = पाथेषु] @[pāthe + su = pātheṣu]; but @deva[रामस्य] @[rāmasya] as @deva[सु] @[su] is preceded by @deva[अ] @[a], @deva[सुपीः सुपीतौ] @[supīḥ supītau] &c., as @deva[सु] @[su] belongs to the word @deva[सुपितृ] @[supitṛ]. This change takes place even if an anusvāra substituted for @deva[न्] @[n], a visarga or @deva[षु] @[ṣu] @deva[र्] @[r] or @deva[स्] @[s] intervene;[^2] e.g. @deva[धनुष् + सि = धनूंषि] @[dhanuṣ + si = dhanūṃṣi] nom. pl. of @deva[धनुष्] @[dhanuṣ] neu. a bow. @deva[पिपर्तीन् + षु = पिपर्तीषु] @[pipartīn + ṣu = pipartīṣu].
+@deva[सु] belonging to a substitute (@deva[आदेश]) or a termination (@deva[प्रत्यय]) and not at the end of a grammatical form is changed to @deva[षु] when preceded by any vowel except @deva[अ] or @deva[आ], a semivowel, a letter of the guttural class or @deva[ह्];[^1] e.g. @deva[पाथे + सु = पाथेषु]; but @deva[रामस्य] as @deva[सु] is preceded by @deva[अ], @deva[सुपीः सुपीतौ] &c., as @deva[सु] belongs to the word @deva[सुपितृ]. This change takes place even if an anusvāra substituted for @deva[न्], a visarga or @deva[षु] @deva[र्] or @deva[स्] intervene;[^2] e.g. @deva[धनुष् + सि = धनूंषि] nom. pl. of @deva[धनुष्] neu. a bow. @deva[पिपर्तीन् + षु = पिपर्तीषु].
 
 ---
-[^1]: @deva[अपदान्तस्य मूर्धन्यः । इण्कोः । आदेशप्रत्यययोः] @[apadāntasya mūrdhanyaḥ. iṇkoḥ. ādeśapratyayayoḥ] Pāṇ. VIII. 3. 55, 57, 59.
-[^2]: @deva[विसर्जनीयव्यवायेऽपि] @[visarjanīyavyavāye'pi] Pāṇ. VIII. 3. 58.
+[^1]: @deva[अपदान्तस्य मूर्धन्यः । इण्कोः । आदेशप्रत्यययोः] Pāṇ. VIII. 3. 55, 57, 59.
+[^2]: @deva[विसर्जनीयव्यवायेऽपि] Pāṇ. VIII. 3. 58.
 
 

@@ -23,4 +23,4 @@ image: TBD
 
 ## § 547. Reduplication in Fourth Variety
 
-(a) The root is first reduplicated and then the augment @deva[अ] @[a] and the terminations are added as in the 2nd Variety.
+(a) The root is first reduplicated and then the augment @deva[अ] and the terminations are added as in the 2nd Variety.

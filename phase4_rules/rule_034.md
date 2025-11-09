@@ -29,6 +29,6 @@ image: /images/012.png
 
 ## § 34. Final Consonant Before Hard Consonant
 
-Any consonant, except a nasal or a semi-vowel, is changed to the first of its class, when followed by a hard consonant, and to the first or third when followed by nothing; @deva[वाक्, वाग्] @[vāk, vāg].
+Any consonant, except a nasal or a semi-vowel, is changed to the first of its class, when followed by a hard consonant, and to the first or third when followed by nothing; @deva[वाक्, वाग्].
 
 \* @deva[शात्चोऽटि । खरि च] Pāṇ. VI. I. 4. 63, 65.

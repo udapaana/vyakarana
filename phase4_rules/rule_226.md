@@ -32,8 +32,8 @@ image: /images/144.png
 
 ## § 226. Īṣat Compounds
 
-The word @deva[ईषत्] @[īṣat] 'little' is compounded with any other word except a verbal derivative, and even with a verbal derivative when it expresses a quality;[^1] as @deva[ईषत्पिङ्गलः] @[īṣatpiṅgalaḥ] 'a little brown', @deva[ईषद्रक्तः] @[īṣadraktaḥ] 'reddish,' etc.
+The word @deva[ईषत्] 'little' is compounded with any other word except a verbal derivative, and even with a verbal derivative when it expresses a quality;[^1] as @deva[ईषत्पिङ्गलः] 'a little brown', @deva[ईषद्रक्तः] 'reddish,' etc.
 
 ---
 
-[^1]: @deva[ईषच्च भुता] @[īṣacca bhutā] Pāṇ. II.2.7. @deva[ईषदुपधवचनेनेति वाच्यम्] @[īṣadupadhavancaneneti vācyam] Vārt.
+[^1]: @deva[ईषच्च भुता] Pāṇ. II.2.7. @deva[ईषदुपधवचनेनेति वाच्यम्] Vārt.

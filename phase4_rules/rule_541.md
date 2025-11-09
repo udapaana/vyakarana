@@ -23,4 +23,4 @@ image: TBD
 
 ## § 541. Root Changes in Aorist
 
-The roots @deva[अद्] @[ad], @deva[श्या] @[śyā], @deva[पद्] @[pad], @deva[मच्] @[mac], @deva[शाप्] @[śāp], @deva[स्थि] @[sthi] and @deva[हे] @[he] become @deva[आद्] @[ād], @deva[श्य] @[śya], @deva[पन्द्] @[pand], @deva[वोच्] @[voc], @deva[शिष्] @[śiṣ], @deva[स्था] @[sthā], and @deva[हा] @[hā], respectively; e.g. @deva[आदत्] @[ādat], @deva[अश्यत्] @[aśyat], @deva[अवोचत्] @[avोcat], @deva[अशिषत्] @[aśiṣat], etc. 3rd sing.
+The roots @deva[अद्], @deva[श्या], @deva[पद्], @deva[मच्], @deva[शाप्], @deva[स्थि] and @deva[हे] become @deva[आद्], @deva[श्य], @deva[पन्द्], @deva[वोच्], @deva[शिष्], @deva[स्था], and @deva[हा], respectively; e.g. @deva[आदत्], @deva[अश्यत्], @deva[अवोचत्], @deva[अशिषत्], etc. 3rd sing.

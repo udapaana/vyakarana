@@ -42,28 +42,28 @@ image: /images/317.png
 
 ## § 512. Roots तृ, फल्, भज्, वृद् and राध् Following § 500
 
-The roots @deva[तृ] @[tṛ], @deva[फल्] @[phal], @deva[भज्] @[bhaj], @deva[वृद्] @[vṛd] and @deva[राध्] @[rādh] when it means 'to offend or to injure' necessarily, and @deva[जृ] @[jṛ], @deva[भ्रम्] @[bhram], @deva[भ्रश्] @[bhraś], @deva[फल्] @[phal] 1. P. 'to go,' @deva[राज्] @[rāj], @deva[भाज्] @[bhāj], @deva[स्यन्द्] @[syand] and @deva[स्तन्द्] @[stand] optionally obey § 500.[^1]
+The roots @deva[तृ], @deva[फल्], @deva[भज्], @deva[वृद्] and @deva[राध्] when it means 'to offend or to injure' necessarily, and @deva[जृ], @deva[भ्रम्], @deva[भ्रश्], @deva[फल्] 1. P. 'to go,' @deva[राज्], @deva[भाज्], @deva[स्यन्द्] and @deva[स्तन्द्] optionally obey § 500.[^1]
 
-### @deva[तृ] @[tṛ] 1. P. 'to cross'
+### @deva[तृ] 1. P. 'to cross'
 
 | Person | Forms |
 |--------|-------|
-| 1 | @deva[ततार-ततर] @[tatāra-tatara], @deva[तेरिव] @[teriva], @deva[तेरिम] @[terima] |
-| 2 | @deva[तेरिय] @[teriya], @deva[तेरयुः] @[terayuḥ], @deva[तेर] @[tera] |
-| 3 | @deva[ततार] @[tatāra], @deva[तेरतुः] @[teratuḥ], @deva[तेरुः] @[teruḥ] |
+| 1 | @deva[ततार-ततर], @deva[तेरिव], @deva[तेरिम] |
+| 2 | @deva[तेरिय], @deva[तेरयुः], @deva[तेर] |
+| 3 | @deva[ततार], @deva[तेरतुः], @deva[तेरुः] |
 
-### @deva[फल्] @[phal] 1. P. 'to bear fruit'
+### @deva[फल्] 1. P. 'to bear fruit'
 
-Forms: @deva[पफाल] @[paphāla], @deva[पफल] @[paphala], @deva[फेलिव] @[pheliva], @deva[फेलिम] @[phelima]
+Forms: @deva[पफाल], @deva[पफल], @deva[फेलिव], @deva[फेलिम]
 
-### @deva[भज्] @[bhaj] 1. P. Ā. 'to serve'
+### @deva[भज्] 1. P. Ā. 'to serve'
 
-Forms include @deva[बभाज] @[babhāja], @deva[बभज] @[babhaja], @deva[भेजिव] @[bhejiva], etc.
+Forms include @deva[बभाज], @deva[बभज], @deva[भेजिव], etc.
 
-### @deva[राध्] @[rādh] 5. P. with @deva[अप] @[apa]
+### @deva[राध्] 5. P. with @deva[अप]
 
-Forms: @deva[अप-रराध] @[apa-rarādha], @deva[अप-रेधिव] @[apa-redhiva], @deva[रेधिम] @[redhima]
+Forms: @deva[अप-रराध], @deva[अप-रेधिव], @deva[रेधिम]
 
 ---
 
-[^1]: @deva[तृकर्मजनेषम् । राधे हिंसायां । वा जृप्रभृतीनां । कृपा च सनाद्याम् ।] @[tṛkarmajanñeṣam | rādhe hiṃsāyāṃ | vā jṛprabhṛtīnāṃ | kṛpā ca sanādyām |] Pāṇ. VI. 4. 122-125.
+[^1]: @deva[तृकर्मजनेषम् । राधे हिंसायां । वा जृप्रभृतीनां । कृपा च सनाद्याम् ।] Pāṇ. VI. 4. 122-125.

@@ -28,5 +28,5 @@ image: /images/269.png
 
 [Content extracted from pages 283-284 - to be enhanced with full OCR text and proper tagging]
 
-Key terms: @deva[शास्] @[...], @deva[शिष्याम्] @[...]
+Key terms: @deva[शास्], @deva[शिष्याम्]
 

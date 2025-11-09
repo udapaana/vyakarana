@@ -30,6 +30,6 @@ image: /images/010.png
 
 ## § 27. Particle उ Optional Change
 
-The particle @deva[उ] @[u], preceded by a letter of the first five classes except @deva[अ] @[a] and followed by any vowel, is optionally changed to @deva[व] @[va]*; @deva[विङ्व उक्ते किन्तुक्तम्] @[viṅva ukte kintuktam] and @deva[किङ्व उक्ते] @[kiṅva ukte] (by § 26 c.).
+The particle @deva[उ], preceded by a letter of the first five classes except @deva[अ] and followed by any vowel, is optionally changed to @deva[व]*; @deva[विङ्व उक्ते किन्तुक्तम्] and @deva[किङ्व उक्ते] (by § 26 c.).
 
 \* @deva[भवो उजो वा वा] Pāṇ. VIII. 3. 33.

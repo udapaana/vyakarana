@@ -32,4 +32,4 @@ image: /images/498.png
 
 ## § 908. Potential Passive Participle as Noun
 
-This participle is sometimes used as a noun; @deva[वाच्यं वक्तव्यस्य] @[vācyaṃ vaktavyasya] to him who asked what was to be asked; @deva[भविष्यं भवेत्] @[bhaviṣyaṃ bhavet] let that, which is to happen, happen.
+This participle is sometimes used as a noun; @deva[वाच्यं वक्तव्यस्य] to him who asked what was to be asked; @deva[भविष्यं भवेत्] let that, which is to happen, happen.

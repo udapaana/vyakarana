@@ -35,4 +35,4 @@ image: /images/385.png
 
 ## § 645. Special Forms of Certain Nouns
 
-@deva[अशन] @[aśana] has @deva[अशनायति] @[aśanāyati] 'he wishes to eat,' and @deva[अशनीयति] @[aśanīyati] 'he wishes to possess food,' @deva[उदक] @[udaka] has @deva[उदन्यति] @[udanyati] 'he wishes to drink water' and @deva[उदकीयति] @[udakīyati] 'he wishes to possess water,' and @deva[धन] @[dhana] has @deva[धनायति] @[dhanāyati] 'he wishes to acquire money,' and @deva[धनीयति] @[dhanīyati] 'he wishes to be wealthy.'
+@deva[अशन] has @deva[अशनायति] 'he wishes to eat,' and @deva[अशनीयति] 'he wishes to possess food,' @deva[उदक] has @deva[उदन्यति] 'he wishes to drink water' and @deva[उदकीयति] 'he wishes to possess water,' and @deva[धन] has @deva[धनायति] 'he wishes to acquire money,' and @deva[धनीयति] 'he wishes to be wealthy.'

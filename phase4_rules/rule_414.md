@@ -48,6 +48,6 @@ image: /images/247.png
 
 ## § 414. Shortening of Final Vowels in 9th Class
 
-The roots @deva[री] @[rī], @deva[ली] @[lī], @deva[ल्ली] @[llī], @deva[श्री] @[śrī], @deva[ध्रा] @[dhrā], @deva[घ्रा] @[ghrā], @deva[द्रा] @[drā], @deva[ब्रा] @[brā], @deva[वा] @[vā], @deva[ग्रा] @[grā], @deva[सू] @[sū], @deva[वू] @[vū], @deva[स्वा] @[svā], @deva[प्सा] @[psā], @deva[इष्] @[iṣ], @deva[बस्] @[bas] and @deva[स्या] @[syā] have their finals shortened necessarily, and @deva[क्ती] @[ktī], @deva[भ्री] @[bhrī], and @deva[क्री] @[krī] optionally in the Special Tenses.
+The roots @deva[री], @deva[ली], @deva[ल्ली], @deva[श्री], @deva[ध्रा], @deva[घ्रा], @deva[द्रा], @deva[ब्रा], @deva[वा], @deva[ग्रा], @deva[सू], @deva[वू], @deva[स्वा], @deva[प्सा], @deva[इष्], @deva[बस्] and @deva[स्या] have their finals shortened necessarily, and @deva[क्ती], @deva[भ्री], and @deva[क्री] optionally in the Special Tenses.
 
-e.g. @deva[घुणाति] @[ghuṇāti], @deva[घुणीते] @[ghuṇīte], @deva[रिणाति] @[riṇāti], @deva[रिणीते] @[riṇīte], @deva[इणाति] @[iṇāti], @deva[इणीते] @[iṇīte], &c. @deva[क्तीणाति] @[ktīṇāti], @deva[शिणाति] @[śiṇāti], &c.
+e.g. @deva[घुणाति], @deva[घुणीते], @deva[रिणाति], @deva[रिणीते], @deva[इणाति], @deva[इणीते], &c. @deva[क्तीणाति], @deva[शिणाति], &c.

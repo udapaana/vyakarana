@@ -21,6 +21,6 @@ image: /images/523.png
 
 § 13. This is the commonest of all Sanskrit metres; it forms the chief metre of the great epics and many of the Purāṇas.
 
-There are many varieties of this metre; but that in which there are eight syllables in a @deva[पाद] @[pāda], the fifth being short and no deviation from these rules occur in the Mahābhārata and Rāmāyaṇa.
+There are many varieties of this metre; but that in which there are eight syllables in a @deva[पाद], the fifth being short and no deviation from these rules occur in the Mahābhārata and Rāmāyaṇa.
 
-Examples in the 1st Canto of @deva[रघुवंश] @[Raghuvamśa].
+Examples in the 1st Canto of @deva[रघुवंश].

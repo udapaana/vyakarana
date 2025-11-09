@@ -36,17 +36,17 @@ The neuter singulars of the Nominative and other cases of several nouns are used
 
 **Examples:**
 
-- @deva[चिरं] @[ciraṃ] or @deva[चिरेण] @[cireṇa] or @deva[चिरात् स्थास्यति] @[cirāt sthāsyati] having contemplated for a long time
-- @deva[दुःखं] @[duḥkhaṃ] or @deva[दुःखेन विद्याति] @[duḥkhena vidyāti] he is in distress
-- @deva[सुखं] @[sukhaṃ] or @deva[सुखेन] @[sukhena] etc.
+- @deva[चिरं] or @deva[चिरेण] or @deva[चिरात् स्थास्यति] having contemplated for a long time
+- @deva[दुःखं] or @deva[दुःखेन विद्याति] he is in distress
+- @deva[सुखं] or @deva[सुखेन] etc.
 
-**(a) The word @deva[नित्य] @[nitya]** is used adverbially in combination with several words such as @deva[बहु] @[bahu], @deva[नाना] @[nānā], etc.:
+**(a) The word @deva[नित्य]** is used adverbially in combination with several words such as @deva[बहु], @deva[नाना], etc.:
 
-- @deva[बहुविध] @[bahividha] in various ways
-- @deva[नानाविध] @[nānāvidha] in various ways
+- @deva[बहुविध] in various ways
+- @deva[नानाविध] in various ways
 
-The word @deva[पूर्वं] @[pūrvaṃ] is also used adverbially as the latter member of a compound when some action is to be expressed as having happened before something; said something by way of consolation:
+The word @deva[पूर्वं] is also used adverbially as the latter member of a compound when some action is to be expressed as having happened before something; said something by way of consolation:
 
-- @deva[धृह्यपूर्वं] @[dhṛhyapūrvaṃ] thoughtfully (i.e., thought preceding a certain action)
+- @deva[धृह्यपूर्वं] thoughtfully (i.e., thought preceding a certain action)
 
 Example: O venerable Sir, I killed this cow unwittingly.

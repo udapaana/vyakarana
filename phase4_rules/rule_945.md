@@ -29,8 +29,8 @@ image: /images/512.png
 
 ## § 945. Imperative After a Muhūrta
 
-When time after a @deva[मुहूर्त] @[muhūrta] (nearly equal to an hour) is expressed, the Imperative is used:
+When time after a @deva[मुहूर्त] (nearly equal to an hour) is expressed, the Imperative is used:
 
 **Example:**
 
-@deva[छहनोयायनुतं स्म] @[chahanoyāy­anuṃ sma] offer the sacrifice after an hour.
+@deva[छहनोयायनुतं स्म] offer the sacrifice after an hour.

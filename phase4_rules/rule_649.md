@@ -29,4 +29,4 @@ image: /images/386.png
 
 ## § 649. No Restriction on काम्य Affix
 
-The restriction given at @ref[§ 644] does not hold good in the case of this affix, @deva[किंकाम्यति] @[kiṃkāmyati], @deva[स्वः काम्यति] @[svaḥ kāmyati]
+The restriction given at @ref[§ 644] does not hold good in the case of this affix, @deva[किंकाम्यति], @deva[स्वः काम्यति]

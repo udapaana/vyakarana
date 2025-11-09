@@ -48,93 +48,93 @@ image: /images/255.png
 
 ## § 421. Paradigms for Second Class Verbs
 
-In order to exemplify the rules given under §§ 416-418 we will give the forms of the regular verbs @deva[वी] @[vī], @deva[तु] @[tu], @deva[जाग्रृ] @[jāgṛ], @deva[ई] @[ī], @deva[चक्षु] @[cakṣu], @deva[क्रम्] @[kram], @deva[दुह्] @[duh], @deva[लिह्] @[lih] and @deva[निज्ज्] @[nijj].
+In order to exemplify the rules given under §§ 416-418 we will give the forms of the regular verbs @deva[वी], @deva[तु], @deva[जाग्रृ], @deva[ई], @deva[चक्षु], @deva[क्रम्], @deva[दुह्], @deva[लिह्] and @deva[निज्ज्].
 
 ### वी P. 'to go'
 
 | | Present | | | Imperfect | | |
 |---|---|---|---|---|---|---|
-| 1. | @deva[वेमि] @[vemi] | @deva[वेवः] @[vevaḥ] | @deva[वेमः] @[vemaḥ] | @deva[अवेयम्] @[aveyam] | @deva[अवेव] @[aveva] | @deva[अवेम] @[avema] |
-| 2. | @deva[वेषि] @[veṣi] | @deva[वेथः] @[vethaḥ] | @deva[वेथ] @[vetha] | @deva[अवेः] @[aveḥ] | @deva[अवेतम्] @[avetam] | @deva[अवेत] @[aveta] |
-| 3. | @deva[वेति] @[veti] | @deva[वेतः] @[vetaḥ] | @deva[वियन्ति] @[viyanti] | @deva[अवेत्] @[avet] | @deva[अवेताम्] @[avetām] | @deva[अविषन्] @[aviṣan] (or @deva[अव्यन्] @[avyan] according to some) |
+| 1. | @deva[वेमि] | @deva[वेवः] | @deva[वेमः] | @deva[अवेयम्] | @deva[अवेव] | @deva[अवेम] |
+| 2. | @deva[वेषि] | @deva[वेथः] | @deva[वेथ] | @deva[अवेः] | @deva[अवेतम्] | @deva[अवेत] |
+| 3. | @deva[वेति] | @deva[वेतः] | @deva[वियन्ति] | @deva[अवेत्] | @deva[अवेताम्] | @deva[अविषन्] (or @deva[अव्यन्] according to some) |
 
 | | Imperative | | | Potential | | |
 |---|---|---|---|---|---|---|
-| 1. | @deva[वयानि] @[vayāni] | @deva[वयाव] @[vayāva] | @deva[वयाम] @[vayāma] | @deva[वीयाम्] @[vīyām] | @deva[वीयाव] @[vīyāva] | @deva[वीयाम] @[vīyāma] |
-| 2. | @deva[वीहि] @[vīhi] | @deva[वीतम्] @[vītam] | @deva[वीत] @[vīta] | @deva[वीयाः] @[vīyāḥ] | @deva[वीयातम्] @[vīyātam] | @deva[वीयात] @[vīyāta] |
-| 3. | @deva[वेतु] @[vetu] | @deva[वीताम्] @[vītām] | @deva[वियन्तु] @[viyantu] | @deva[वीयात्] @[vīyāt] | @deva[वीयाताम्] @[vīyātām] | @deva[वीयुः] @[vīyuḥ] |
+| 1. | @deva[वयानि] | @deva[वयाव] | @deva[वयाम] | @deva[वीयाम्] | @deva[वीयाव] | @deva[वीयाम] |
+| 2. | @deva[वीहि] | @deva[वीतम्] | @deva[वीत] | @deva[वीयाः] | @deva[वीयातम्] | @deva[वीयात] |
+| 3. | @deva[वेतु] | @deva[वीताम्] | @deva[वियन्तु] | @deva[वीयात्] | @deva[वीयाताम्] | @deva[वीयुः] |
 
 ### तु P. 'to praise'
 
 | | Present | | | Imperfect | | |
 |---|---|---|---|---|---|---|
-| 1. | @deva[नौमि] @[naumi] | @deva[नुवः] @[nuvaḥ] | @deva[नुमः] @[numaḥ] | @deva[अनवम्] @[anavam] | @deva[अनुव] @[anuva] | @deva[अनुम] @[anuma] |
-| 2. | @deva[नौषि] @[nauṣi] | @deva[नुथः] @[nuthaḥ] | @deva[नुथ] @[nutha] | @deva[अनोः] @[anoḥ] | @deva[अनुतम्] @[anutam] | @deva[अनुत] @[anuta] |
-| 3. | @deva[नौति] @[nauti] | @deva[नुतः] @[nutaḥ] | @deva[नुवन्ति] @[nuvanti] | @deva[अनोत्] @[anot] | @deva[अनुताम्] @[anutām] | @deva[अनुवन्] @[anuvan] |
+| 1. | @deva[नौमि] | @deva[नुवः] | @deva[नुमः] | @deva[अनवम्] | @deva[अनुव] | @deva[अनुम] |
+| 2. | @deva[नौषि] | @deva[नुथः] | @deva[नुथ] | @deva[अनोः] | @deva[अनुतम्] | @deva[अनुत] |
+| 3. | @deva[नौति] | @deva[नुतः] | @deva[नुवन्ति] | @deva[अनोत्] | @deva[अनुताम्] | @deva[अनुवन्] |
 
 | | Imperative | | | Potential | | |
 |---|---|---|---|---|---|---|
-| 1. | @deva[नवानि] @[navāni] | @deva[नवाव] @[navāva] | @deva[नवाम] @[navāma] | @deva[नुयाम्] @[nuyām] | @deva[नुयाव] @[nuyāva] | @deva[नुयाम] @[nuyāma] |
-| 2. | @deva[नुहि] @[nuhi] | @deva[नुतम्] @[nutam] | @deva[नुत] @[nuta] | @deva[नुयाः] @[nuyāḥ] | @deva[नुयातम्] @[nuyātam] | @deva[नुयात] @[nuyāta] |
-| 3. | @deva[नौतु] @[nautu] | @deva[नुताम्] @[nutām] | @deva[नुवन्तु] @[nuvantu] | @deva[नुयात्] @[nuyāt] | @deva[नुयाताम्] @[nuyātām] | @deva[नयुः] @[nayuḥ] |
+| 1. | @deva[नवानि] | @deva[नवाव] | @deva[नवाम] | @deva[नुयाम्] | @deva[नुयाव] | @deva[नुयाम] |
+| 2. | @deva[नुहि] | @deva[नुतम्] | @deva[नुत] | @deva[नुयाः] | @deva[नुयातम्] | @deva[नुयात] |
+| 3. | @deva[नौतु] | @deva[नुताम्] | @deva[नुवन्तु] | @deva[नुयात्] | @deva[नुयाताम्] | @deva[नयुः] |
 
-Conjugate similarly @deva[कु] @[ku] P. 'to sound,' @deva[ध्रु] @[dhru] P. 'to seize,' @deva[क्ष्णु] @[kṣṇu] P. 'to sharpen,' @deva[यु] @[yu] P. 'to attack,' @deva[तु] @[tu] P. 'to join,' @deva[हु] @[hu] P. 'to possess supremacy,' and @deva[स्रु] @[sru] 'to drop out, to distil.'
+Conjugate similarly @deva[कु] P. 'to sound,' @deva[ध्रु] P. 'to seize,' @deva[क्ष्णु] P. 'to sharpen,' @deva[यु] P. 'to attack,' @deva[तु] P. 'to join,' @deva[हु] P. 'to possess supremacy,' and @deva[स्रु] 'to drop out, to distil.'
 
 ### जाग्रृ P. 'to awake'
 
 | | Present | | | Imperfect | | |
 |---|---|---|---|---|---|---|
-| 1. | @deva[जागर्मि] @[jāgarmi] | @deva[जाग्रुवः] @[jāgruvaḥ] | @deva[जाग्रुमः] @[jāgrumaḥ] | @deva[अजागरम्] @[ajāgaram] | @deva[अजाग्रुव] @[ajāgruva] | @deva[अजाग्रुम] @[ajāgruma] |
-| 2. | @deva[जागर्षि] @[jāgarṣi] | @deva[जाग्रुथः] @[jāgruthaḥ] | @deva[जाग्रुथ] @[jāgrutha] | @deva[अजागः] @[ajāgaḥ] | @deva[अजाग्रुतम्] @[ajāgrutam] | @deva[अजाग्रुत] @[ajāgruta] |
-| 3. | @deva[जागर्ति] @[jāgarti] | @deva[जाग्रुतः] @[jāgrutaḥ] | @deva[जाग्रति] @[jāgrati][^1] | @deva[अजागः] @[ajāgaḥ] | @deva[अजाग्रुताम्] @[ajāgrutām] | @deva[अजाग्रुः] @[ajāgruḥ] |
+| 1. | @deva[जागर्मि] | @deva[जाग्रुवः] | @deva[जाग्रुमः] | @deva[अजागरम्] | @deva[अजाग्रुव] | @deva[अजाग्रुम] |
+| 2. | @deva[जागर्षि] | @deva[जाग्रुथः] | @deva[जाग्रुथ] | @deva[अजागः] | @deva[अजाग्रुतम्] | @deva[अजाग्रुत] |
+| 3. | @deva[जागर्ति] | @deva[जाग्रुतः] | @deva[जाग्रति][^1] | @deva[अजागः] | @deva[अजाग्रुताम्] | @deva[अजाग्रुः] |
 
 | | Imperative | | | Potential | | |
 |---|---|---|---|---|---|---|
-| 1. | @deva[जागराणि] @[jāgarāṇi] | @deva[जागराव] @[jāgarāva] | @deva[जागराम] @[jāgarāma] | @deva[जाग्र्याम] @[jāgryām] | @deva[जाग्र्याव] @[jāgryāva] | @deva[जाग्र्याम] @[jāgryāma] |
-| 2. | @deva[जागृहि] @[jāgṛhi] | @deva[जागृतम्] @[jāgṛtam] | @deva[जागृत] @[jāgṛta] | @deva[जाग्र्याः] @[jāgryāḥ] | @deva[जाग्र्यातम्] @[jāgryātam] | @deva[जाग्र्यात] @[jāgryāta] |
-| 3. | @deva[जाग्रतु] @[jāgratu] | @deva[जाग्रुताम्] @[jāgrutām] | @deva[जाग्रतु] @[jāgratu] | @deva[जाग्र्यात्] @[jāgryāt] | @deva[जाग्र्याताम्] @[jāgryātām] | @deva[जाग्र्युः] @[jāgryuḥ] |
+| 1. | @deva[जागराणि] | @deva[जागराव] | @deva[जागराम] | @deva[जाग्र्याम] | @deva[जाग्र्याव] | @deva[जाग्र्याम] |
+| 2. | @deva[जागृहि] | @deva[जागृतम्] | @deva[जागृत] | @deva[जाग्र्याः] | @deva[जाग्र्यातम्] | @deva[जाग्र्यात] |
+| 3. | @deva[जाग्रतु] | @deva[जाग्रुताम्] | @deva[जाग्रतु] | @deva[जाग्र्यात्] | @deva[जाग्र्याताम्] | @deva[जाग्र्युः] |
 
 ### ई Ā. 'to go'
 
 | | Present | | | Imperfect | | |
 |---|---|---|---|---|---|---|
-| 1. | @deva[ऐये] @[aiye] | @deva[ऐवहे] @[aivahe] | @deva[ऐमहे] @[aimahe] | @deva[ऐयि] @[aiyi] | @deva[ऐवहि] @[aivahi] | @deva[ऐमहि] @[aimahi] |
-| 2. | @deva[ऐषे] @[aiṣe] | @deva[ऐयाथे] @[aiyāthe] | @deva[ऐध्वे] @[aidhve] | @deva[ऐथाः] @[aithāḥ] | @deva[ऐयाथाम्] @[aiyāthām] | @deva[ऐध्वम्] @[aidhvam] |
-| 3. | @deva[ऐते] @[aite] | @deva[ऐयाते] @[aiyāte] | @deva[ऐयते] @[aiyate] | @deva[ऐत] @[aita] | @deva[ऐयाताम्] @[aiyātām] | @deva[ऐयत] @[aiyata] |
+| 1. | @deva[ऐये] | @deva[ऐवहे] | @deva[ऐमहे] | @deva[ऐयि] | @deva[ऐवहि] | @deva[ऐमहि] |
+| 2. | @deva[ऐषे] | @deva[ऐयाथे] | @deva[ऐध्वे] | @deva[ऐथाः] | @deva[ऐयाथाम्] | @deva[ऐध्वम्] |
+| 3. | @deva[ऐते] | @deva[ऐयाते] | @deva[ऐयते] | @deva[ऐत] | @deva[ऐयाताम्] | @deva[ऐयत] |
 
 | | Imperative | | | Potential | | |
 |---|---|---|---|---|---|---|
-| 1. | @deva[ऐये] @[aiye] | @deva[ऐयावहे] @[aiyāvahe] | @deva[ऐयामहे] @[aiyāmahe] | @deva[ऐयीय] @[aiyīya] | @deva[ऐयीवहि] @[aiyīvahi] | @deva[ऐयीमहि] @[aiyīmahi] |
-| 2. | @deva[ऐष्व] @[aiṣva] | @deva[ऐयाथाम्] @[aiyāthām] | @deva[ऐध्वम्] @[aidhvam] | @deva[ऐयीथाः] @[aiyīthāḥ] | @deva[ऐयीयाथाम्] @[aiyīyāthām] | @deva[ऐयीध्वम्] @[aiyīdhvam] |
-| 3. | @deva[ऐताम्] @[aitām] | @deva[ऐयाताम्] @[aiyātām] | @deva[ऐयताम्] @[aiyatām] | @deva[ऐयीत] @[aiyīta] | @deva[ऐयीयाताम्] @[aiyīyātām] | @deva[ऐयीरन्] @[aiyīran] |
+| 1. | @deva[ऐये] | @deva[ऐयावहे] | @deva[ऐयामहे] | @deva[ऐयीय] | @deva[ऐयीवहि] | @deva[ऐयीमहि] |
+| 2. | @deva[ऐष्व] | @deva[ऐयाथाम्] | @deva[ऐध्वम्] | @deva[ऐयीथाः] | @deva[ऐयीयाथाम्] | @deva[ऐयीध्वम्] |
+| 3. | @deva[ऐताम्] | @deva[ऐयाताम्] | @deva[ऐयताम्] | @deva[ऐयीत] | @deva[ऐयीयाताम्] | @deva[ऐयीरन्] |
 
 ### चक्षु Ā. 'to speak'
 
 | | Present | | | Imperfect | | |
 |---|---|---|---|---|---|---|
-| 1. | @deva[चक्षे] @[cakṣe] | @deva[चक्षवहे] @[cakṣavahe] | @deva[चक्षमहे] @[cakṣamahe] | @deva[अचक्षि] @[acakṣi] | @deva[अचक्षवहि] @[acakṣavahi] | @deva[अचक्षमहि] @[acakṣamahi] |
-| 2. | @deva[चक्षसे] @[cakṣase] | @deva[चक्षाथे] @[cakṣāthe] | @deva[चक्षुध्वे] @[cakṣudhve] | @deva[अचक्षाः] @[acakṣāḥ] | @deva[अचक्षाथाम्] @[acakṣāthām] | @deva[अचक्षुध्वम्] @[acakṣudhvam] |
-| 3. | @deva[चक्षते] @[cakṣate] | @deva[चक्षाते] @[cakṣāte] | @deva[चक्षते] @[cakṣate] | @deva[अचक्ष] @[acakṣa] | @deva[अचक्षाताम्] @[acakṣātām] | @deva[अचक्षत] @[acakṣata] |
+| 1. | @deva[चक्षे] | @deva[चक्षवहे] | @deva[चक्षमहे] | @deva[अचक्षि] | @deva[अचक्षवहि] | @deva[अचक्षमहि] |
+| 2. | @deva[चक्षसे] | @deva[चक्षाथे] | @deva[चक्षुध्वे] | @deva[अचक्षाः] | @deva[अचक्षाथाम्] | @deva[अचक्षुध्वम्] |
+| 3. | @deva[चक्षते] | @deva[चक्षाते] | @deva[चक्षते] | @deva[अचक्ष] | @deva[अचक्षाताम्] | @deva[अचक्षत] |
 
 | | Imperative | | | Potential | | |
 |---|---|---|---|---|---|---|
-| 1. | @deva[चक्षे] @[cakṣe] | @deva[चक्षावहे] @[cakṣāvahe] | @deva[चक्षामहे] @[cakṣāmahe] | @deva[चक्षीय] @[cakṣīya] | @deva[चक्षीवहि] @[cakṣīvahi] | @deva[चक्षीमहि] @[cakṣīmahi] |
-| 2. | @deva[चक्ष] @[cakṣa] | @deva[चक्षाथाम्] @[cakṣāthām] | @deva[चक्षुध्वम्] @[cakṣudhvam] | @deva[चक्षीथाः] @[cakṣīthāḥ] | @deva[चक्षीयाथाम्] @[cakṣīyāthām] | @deva[चक्षीध्वम्] @[cakṣīdhvam] |
-| 3. | @deva[चक्षाम्] @[cakṣām] | @deva[चक्षाताम्] @[cakṣātām] | @deva[चक्षताम्] @[cakṣatām] | @deva[चक्षीत] @[cakṣīta] | @deva[चक्षीयाताम्] @[cakṣīyātām] | @deva[चक्षीरन्] @[cakṣīran] |
+| 1. | @deva[चक्षे] | @deva[चक्षावहे] | @deva[चक्षामहे] | @deva[चक्षीय] | @deva[चक्षीवहि] | @deva[चक्षीमहि] |
+| 2. | @deva[चक्ष] | @deva[चक्षाथाम्] | @deva[चक्षुध्वम्] | @deva[चक्षीथाः] | @deva[चक्षीयाथाम्] | @deva[चक्षीध्वम्] |
+| 3. | @deva[चक्षाम्] | @deva[चक्षाताम्] | @deva[चक्षताम्] | @deva[चक्षीत] | @deva[चक्षीयाताम्] | @deva[चक्षीरन्] |
 
 ### क्रम् Ā. 'to go'
 
 | | Present | | | Imperfect | | |
 |---|---|---|---|---|---|---|
-| 1. | @deva[क्रमे] @[krame] | @deva[क्रमवहे] @[kramavahe] | @deva[क्रस्महे] @[krasmahe] | @deva[अक्रमि] @[akrami] | @deva[अक्रमहि] @[akramahi] | @deva[अक्रस्महि] @[akrasmahi] |
-| 2. | @deva[क्रमसे] @[kramase] | @deva[क्रमाथे] @[kramāthe] | @deva[क्रड्ड्वे] @[kraḍḍve] | @deva[अक्रमाः] @[akramāḥ] | @deva[अक्रमाथाम्] @[akramāthām] | @deva[अक्रड्ढवम्] @[akraḍḍhavam] |
-| 3. | @deva[क्रते] @[krate] | @deva[क्रमाते] @[kramāte] | @deva[क्रमते] @[kramate] | @deva[अक्रत] @[akrata] | @deva[अक्रमाताम्] @[akramātām] | @deva[अक्रमत] @[akramata] |
+| 1. | @deva[क्रमे] | @deva[क्रमवहे] | @deva[क्रस्महे] | @deva[अक्रमि] | @deva[अक्रमहि] | @deva[अक्रस्महि] |
+| 2. | @deva[क्रमसे] | @deva[क्रमाथे] | @deva[क्रड्ड्वे] | @deva[अक्रमाः] | @deva[अक्रमाथाम्] | @deva[अक्रड्ढवम्] |
+| 3. | @deva[क्रते] | @deva[क्रमाते] | @deva[क्रमते] | @deva[अक्रत] | @deva[अक्रमाताम्] | @deva[अक्रमत] |
 
 | | Imperative | | | Potential | | |
 |---|---|---|---|---|---|---|
-| 1. | @deva[क्रमै] @[kramai] | @deva[क्रमावहै] @[kramāvahai] | @deva[क्रमामहै] @[kramāmahai] | @deva[क्रमीय] @[kramīya] | @deva[क्रमीवहि] @[kramīvahi] | @deva[क्रमीमहि] @[kramīmahi] |
-| 2. | @deva[क्रष्व] @[kraṣva] | @deva[क्रमाथाम्] @[kramāthām] | @deva[क्रड्ढवम्] @[kraḍḍhavam] | @deva[क्रमीथाः] @[kramīthāḥ] | @deva[क्रमीयाथाम्] @[kramīyāthām] | @deva[क्रमीध्वम्] @[kramīdhvam] |
-| 3. | @deva[क्रताम्] @[kratām] | @deva[क्रमाताम्] @[kramātām] | @deva[क्रमताम्] @[kramatām] | @deva[क्रमीत] @[kramīta] | @deva[क्रमीयाताम्] @[kramīyātām] | @deva[क्रमीरन्] @[kramīran] |
+| 1. | @deva[क्रमै] | @deva[क्रमावहै] | @deva[क्रमामहै] | @deva[क्रमीय] | @deva[क्रमीवहि] | @deva[क्रमीमहि] |
+| 2. | @deva[क्रष्व] | @deva[क्रमाथाम्] | @deva[क्रड्ढवम्] | @deva[क्रमीथाः] | @deva[क्रमीयाथाम्] | @deva[क्रमीध्वम्] |
+| 3. | @deva[क्रताम्] | @deva[क्रमाताम्] | @deva[क्रमताम्] | @deva[क्रमीत] | @deva[क्रमीयाताम्] | @deva[क्रमीरन्] |
 
 ### दुह् P. Ā. 'to milk'
 
@@ -142,35 +142,35 @@ Conjugate similarly @deva[कु] @[ku] P. 'to sound,' @deva[ध्रु] @[dhr
 
 | | Parasmaipada | | | Ātmanepada | | |
 |---|---|---|---|---|---|---|
-| 1. | @deva[दोह्मि] @[dohmi] | @deva[दुहवः] @[duhavaḥ] | @deva[दुह्मः] @[duhmaḥ] | @deva[दुहे] @[duhe] | @deva[दुह्वहे] @[duhvahe] | @deva[दुह्महे] @[duhmahe] |
-| 2. | @deva[दोग्धि] @[dogdhi][^2] | @deva[दुग्धः] @[dugdhaḥ] | @deva[दुग्ध] @[dugdha] | @deva[दुग्धे] @[dugdhe] | @deva[दुह्वाथे] @[duhvāthe] | @deva[दुग्ध्वे] @[dugdhve] |
-| 3. | @deva[दोग्धि] @[dogdhi] | @deva[दुग्धः] @[dugdhaḥ] | @deva[दुह्वन्ति] @[duhvanti] | @deva[दुग्धे] @[dugdhe] | @deva[दुहाते] @[duhāte] | @deva[दुहते] @[duhate] |
+| 1. | @deva[दोह्मि] | @deva[दुहवः] | @deva[दुह्मः] | @deva[दुहे] | @deva[दुह्वहे] | @deva[दुह्महे] |
+| 2. | @deva[दोग्धि][^2] | @deva[दुग्धः] | @deva[दुग्ध] | @deva[दुग्धे] | @deva[दुह्वाथे] | @deva[दुग्ध्वे] |
+| 3. | @deva[दोग्धि] | @deva[दुग्धः] | @deva[दुह्वन्ति] | @deva[दुग्धे] | @deva[दुहाते] | @deva[दुहते] |
 
 **Imperfect**
 
 | | Parasmaipada | | | Ātmanepada | | |
 |---|---|---|---|---|---|---|
-| 1. | @deva[अदोहम्] @[adoham] | @deva[अदुहव] @[aduhava] | @deva[अदुह्म] @[aduhma] | @deva[अदुहि] @[aduhi] | @deva[अदुह्वहि] @[aduhvahi] | @deva[अदुह्महि] @[aduhmahi] |
-| 2. | @deva[अधोक्] @[adhok] | @deva[अदुग्धम्] @[adugdham] | @deva[अदुग्ध] @[adugdha] | @deva[अदुग्धाः] @[adugdhāḥ] | @deva[अदुहाथाम्] @[aduhāthām] | @deva[अदुग्ध्वम्] @[adugdhvam] |
-| 3. | @deva[अधोक्] @[adhok] | @deva[अदुग्धाम्] @[adugdhām] | @deva[अदुहन्] @[aduhan] | @deva[अदुग्ध] @[adugdha] | @deva[अदुहाताम्] @[aduhātām] | @deva[अदुहत] @[aduhata] |
+| 1. | @deva[अदोहम्] | @deva[अदुहव] | @deva[अदुह्म] | @deva[अदुहि] | @deva[अदुह्वहि] | @deva[अदुह्महि] |
+| 2. | @deva[अधोक्] | @deva[अदुग्धम्] | @deva[अदुग्ध] | @deva[अदुग्धाः] | @deva[अदुहाथाम्] | @deva[अदुग्ध्वम्] |
+| 3. | @deva[अधोक्] | @deva[अदुग्धाम्] | @deva[अदुहन्] | @deva[अदुग्ध] | @deva[अदुहाताम्] | @deva[अदुहत] |
 
 **Imperative**
 
 | | Parasmaipada | | | Ātmanepada | | |
 |---|---|---|---|---|---|---|
-| 1. | @deva[दोहानि] @[dohāni] | @deva[दोहाव] @[dohāva] | @deva[दोहाम] @[dohāma] | @deva[दोहै] @[dohai] | @deva[दोहावहै] @[dohāvahai] | @deva[दोहामहै] @[dohāmahai] |
-| 2. | @deva[दुग्धि] @[dugdhi] | @deva[दुग्धम्] @[dugdham] | @deva[दुग्ध] @[dugdha] | @deva[धुग्ध] @[dhugdha] | @deva[दुहाथाम्] @[duhāthām] | @deva[धुग्ध्वम्] @[dhugdhvam] |
-| 3. | @deva[दोग्धु] @[dogdhu] | @deva[दुग्धाम्] @[dugdhām] | @deva[दुह्न्तु] @[duhntu] | @deva[दुग्धाम्] @[dugdhām] | @deva[दुहाताम्] @[duhātām] | @deva[दुहताम्] @[duhatām] |
+| 1. | @deva[दोहानि] | @deva[दोहाव] | @deva[दोहाम] | @deva[दोहै] | @deva[दोहावहै] | @deva[दोहामहै] |
+| 2. | @deva[दुग्धि] | @deva[दुग्धम्] | @deva[दुग्ध] | @deva[धुग्ध] | @deva[दुहाथाम्] | @deva[धुग्ध्वम्] |
+| 3. | @deva[दोग्धु] | @deva[दुग्धाम्] | @deva[दुह्न्तु] | @deva[दुग्धाम्] | @deva[दुहाताम्] | @deva[दुहताम्] |
 
 **Potential**
 
 | | Parasmaipada | | | Ātmanepada | | |
 |---|---|---|---|---|---|---|
-| 1. | @deva[दुह्याम्] @[duhyām] | @deva[दुह्याव] @[duhyāva] | @deva[दुह्याम] @[duhyāma] | @deva[दुहीय] @[duhīya] | @deva[दुहीवहि] @[duhīvahi] | @deva[दुहीमहि] @[duhīmahi] |
-| 2. | @deva[दुह्याः] @[duhyāḥ] | @deva[दुह्यातम्] @[duhyātam] | @deva[दुह्यात] @[duhyāta] | @deva[दुहीथाः] @[duhīthāḥ] | @deva[दुहीयाथाम्] @[duhīyāthām] | @deva[दुहीध्वम्] @[duhīdhvam] |
-| 3. | @deva[दुह्यात्] @[duhyāt] | @deva[दुह्याताम्] @[duhyātām] | @deva[दुह्युः] @[duhyuḥ] | @deva[दुहीत] @[duhīta] | @deva[दुहीयाताम्] @[duhīyātām] | @deva[दुहीरन्] @[duhīran] |
+| 1. | @deva[दुह्याम्] | @deva[दुह्याव] | @deva[दुह्याम] | @deva[दुहीय] | @deva[दुहीवहि] | @deva[दुहीमहि] |
+| 2. | @deva[दुह्याः] | @deva[दुह्यातम्] | @deva[दुह्यात] | @deva[दुहीथाः] | @deva[दुहीयाथाम्] | @deva[दुहीध्वम्] |
+| 3. | @deva[दुह्यात्] | @deva[दुह्याताम्] | @deva[दुह्युः] | @deva[दुहीत] | @deva[दुहीयाताम्] | @deva[दुहीरन्] |
 
-@deva[विष्] @[viṣ] to be similarly conjugated; @deva[इ] @[i] and @deva[ए] @[e] being substituted for @deva[उ] @[u] and @deva[ओ] @[o] respectively.
+@deva[विष्] to be similarly conjugated; @deva[इ] and @deva[ए] being substituted for @deva[उ] and @deva[ओ] respectively.
 
 ### लिह् P. Ā. 'to lick'
 
@@ -178,49 +178,49 @@ Conjugate similarly @deva[कु] @[ku] P. 'to sound,' @deva[ध्रु] @[dhr
 
 | | Parasmaipada | | | Ātmanepada | | |
 |---|---|---|---|---|---|---|
-| 1. | @deva[लेह्मि] @[lehmi] | @deva[लिहवः] @[lihavaḥ] | @deva[लिह्मः] @[lihmaḥ] | @deva[लिहे] @[lihe] | @deva[लिह्वहे] @[lihvahe] | @deva[लिह्महे] @[lihmahe] |
-| 2. | @deva[लेक्षि] @[lekṣi] | @deva[लीढः] @[līḍhaḥ] | @deva[लीढ] @[līḍha] | @deva[लिह्से] @[lihse] | @deva[लिह्वाथे] @[lihvāthe] | @deva[लीढे] @[līḍhe] |
-| 3. | @deva[लेढि] @[leḍhi] | @deva[लीढः] @[līḍhaḥ] | @deva[लिह्न्ति] @[lihnti] | @deva[लीढे] @[līḍhe] | @deva[लिह्वाते] @[lihvāte] | @deva[लिह्वते] @[lihvate] |
+| 1. | @deva[लेह्मि] | @deva[लिहवः] | @deva[लिह्मः] | @deva[लिहे] | @deva[लिह्वहे] | @deva[लिह्महे] |
+| 2. | @deva[लेक्षि] | @deva[लीढः] | @deva[लीढ] | @deva[लिह्से] | @deva[लिह्वाथे] | @deva[लीढे] |
+| 3. | @deva[लेढि] | @deva[लीढः] | @deva[लिह्न्ति] | @deva[लीढे] | @deva[लिह्वाते] | @deva[लिह्वते] |
 
 **Imperfect**
 
 | | Parasmaipada | | | Ātmanepada | | |
 |---|---|---|---|---|---|---|
-| 1. | @deva[अलेहम्] @[aleham] | @deva[अलिहव] @[alihava] | @deva[अलिहम्] @[aliham] | @deva[अलिहि] @[alihi] | @deva[अलिह्वहि] @[alihvahi] | @deva[अलिह्वहि] @[alihvahi] |
-| 2. | @deva[अलेट्] @[aleṭ] | @deva[अलीढम्] @[alīḍham] | @deva[अलीढ] @[alīḍha] | @deva[अलीढाः] @[alīḍhāḥ] | @deva[अलिह्वाथाम्] @[alihvāthām] | @deva[अलीढ्वम्] @[alīḍhvam] |
-| 3. | @deva[अलेट्] @[aleṭ] | @deva[अलीढाम्] @[alīḍhām] | @deva[अलिहन्] @[alihan] | @deva[अलीढ] @[alīḍha] | @deva[अलिह्वताम्] @[alihvatām] | @deva[अलीढत] @[alīḍhata] |
+| 1. | @deva[अलेहम्] | @deva[अलिहव] | @deva[अलिहम्] | @deva[अलिहि] | @deva[अलिह्वहि] | @deva[अलिह्वहि] |
+| 2. | @deva[अलेट्] | @deva[अलीढम्] | @deva[अलीढ] | @deva[अलीढाः] | @deva[अलिह्वाथाम्] | @deva[अलीढ्वम्] |
+| 3. | @deva[अलेट्] | @deva[अलीढाम्] | @deva[अलिहन्] | @deva[अलीढ] | @deva[अलिह्वताम्] | @deva[अलीढत] |
 
 **Imperative**
 
 | | Parasmaipada | | | Ātmanepada | | |
 |---|---|---|---|---|---|---|
-| 1. | @deva[लेहानि] @[lehāni] | @deva[लेहाव] @[lehāva] | @deva[लेहाम] @[lehāma] | @deva[लेहै] @[lehai] | @deva[लेहावहै] @[lehāvahai] | @deva[लेहामहै] @[lehāmahai] |
-| 2. | @deva[लीढि] @[līḍhi] | @deva[लीढम्] @[līḍham] | @deva[लीढ] @[līḍha] | @deva[लिह्व] @[lihva] | @deva[लिह्वाथाम्] @[lihvāthām] | @deva[लीढ्वम्] @[līḍhvam] |
-| 3. | @deva[लेढु] @[leḍhu] | @deva[लीढाम्] @[līḍhām] | @deva[लिहन्तु] @[lihantu] | @deva[लीडाम्] @[līḍām] | @deva[लिह्वताम्] @[lihvatām] | @deva[लिह्वताम्] @[lihvatām] |
+| 1. | @deva[लेहानि] | @deva[लेहाव] | @deva[लेहाम] | @deva[लेहै] | @deva[लेहावहै] | @deva[लेहामहै] |
+| 2. | @deva[लीढि] | @deva[लीढम्] | @deva[लीढ] | @deva[लिह्व] | @deva[लिह्वाथाम्] | @deva[लीढ्वम्] |
+| 3. | @deva[लेढु] | @deva[लीढाम्] | @deva[लिहन्तु] | @deva[लीडाम्] | @deva[लिह्वताम्] | @deva[लिह्वताम्] |
 
 **Potential**
 
 | | Parasmaipada | | | Ātmanepada | | |
 |---|---|---|---|---|---|---|
-| 1. | @deva[लिह्याम्] @[lihyām] | @deva[लिह्याव] @[lihyāva] | @deva[लिह्याम] @[lihyāma] | @deva[लिहीय] @[lihīya] | @deva[लिहीवहि] @[lihīvahi] | @deva[लिहीमहि] @[lihīmahi] |
+| 1. | @deva[लिह्याम्] | @deva[लिह्याव] | @deva[लिह्याम] | @deva[लिहीय] | @deva[लिहीवहि] | @deva[लिहीमहि] |
 | 2. | &c. | &c. | &c. | &c. | &c. | &c. |
 
 ### निज्ज् Ā. 'to Purify'
 
 | | Present | | | Imperfect | | |
 |---|---|---|---|---|---|---|
-| 1. | @deva[निज्जे] @[nijje] | @deva[निज्जवहे] @[nijjavahe] | @deva[निज्जमहे] @[nijjamahe] | @deva[अनिज्जि] @[anijji] | @deva[अनिज्जवहि] @[anijjavahi] | @deva[अनिज्जमहि] @[anijjamahi] |
-| 2. | @deva[निङ्क्षे] @[niṅkṣe] | @deva[निज्जाथे] @[nijjāthe] | @deva[निजुध्वे] @[nijudhve] | @deva[अनिङ्क्षथाः] @[aniṅkṣathāḥ] | @deva[अनिज्जाथाम्] @[anijjāthām] | @deva[अनिङ्ध्वम्] @[aniṅdhvam] |
-| 3. | @deva[निङ्क्ते] @[niṅkte] | @deva[निज्जाते] @[nijjāte] | @deva[निज्जते] @[nijjate] | @deva[अनिङ्क्त] @[aniṅkta] | @deva[अनिज्जताम्] @[anijjatām] | @deva[अनिज्जत] @[anijjata] |
+| 1. | @deva[निज्जे] | @deva[निज्जवहे] | @deva[निज्जमहे] | @deva[अनिज्जि] | @deva[अनिज्जवहि] | @deva[अनिज्जमहि] |
+| 2. | @deva[निङ्क्षे] | @deva[निज्जाथे] | @deva[निजुध्वे] | @deva[अनिङ्क्षथाः] | @deva[अनिज्जाथाम्] | @deva[अनिङ्ध्वम्] |
+| 3. | @deva[निङ्क्ते] | @deva[निज्जाते] | @deva[निज्जते] | @deva[अनिङ्क्त] | @deva[अनिज्जताम्] | @deva[अनिज्जत] |
 
 | | Imperative | | | Potential | | |
 |---|---|---|---|---|---|---|
-| 1. | @deva[निज्जै] @[nijjai] | @deva[निज्जावहै] @[nijjāvahai] | @deva[निज्जामहै] @[nijjāmahai] | @deva[निज्जीय] @[nijjīya] | @deva[निज्जीवहि] @[nijjīvahi] | @deva[निज्जीमहि] @[nijjīmahi] |
-| 2. | @deva[निङ्क्ष्व] @[niṅkṣva] | @deva[निज्जाथाम्] @[nijjāthām] | @deva[निजुध्वम्] @[nijudhvam] | @deva[निज्जीथाः] @[nijjīthāḥ] | @deva[निज्जीयाथाम्] @[nijjīyāthām] | @deva[निज्जीध्वम्] @[nijjīdhvam] |
-| 3. | @deva[निङ्क्ताम्] @[niṅktām] | @deva[निज्जताम्] @[nijjatām] | @deva[निज्जताम्] @[nijjatām] | @deva[निज्जीत] @[nijjīta] | @deva[निज्जीयताम्] @[nijjīyatām] | @deva[निज्जीरत्] @[nijjīrat] |
+| 1. | @deva[निज्जै] | @deva[निज्जावहै] | @deva[निज्जामहै] | @deva[निज्जीय] | @deva[निज्जीवहि] | @deva[निज्जीमहि] |
+| 2. | @deva[निङ्क्ष्व] | @deva[निज्जाथाम्] | @deva[निजुध्वम्] | @deva[निज्जीथाः] | @deva[निज्जीयाथाम्] | @deva[निज्जीध्वम्] |
+| 3. | @deva[निङ्क्ताम्] | @deva[निज्जताम्] | @deva[निज्जताम्] | @deva[निज्जीत] | @deva[निज्जीयताम्] | @deva[निज्जीरत्] |
 
-@deva[क्षि] @[kṣi], @deva[विष्] @[viṣ], @deva[विज्] @[vij], @deva[पुज्] @[puj], @deva[भुज्] @[bhuj], @deva[युज्] @[yuj], @deva[पृष्] @[pṛṣ] all Ā. should be similarly conjugated.
+@deva[क्षि], @deva[विष्], @deva[विज्], @deva[पुज्], @deva[भुज्], @deva[युज्], @deva[पृष्] all Ā. should be similarly conjugated.
 
 ---
 [^1]: See वक् p. 272.
-[^2]: For the change of @deva[द्] @[d] to @deva[ध्] @[dh], vide § 95.
+[^2]: For the change of @deva[द्] to @deva[ध्], vide § 95.

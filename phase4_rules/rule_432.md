@@ -28,5 +28,5 @@ image: /images/266.png
 
 [Content extracted from pages 280-281 - to be enhanced with full OCR text and proper tagging]
 
-Key terms: @deva[ब्रू] @[...], @deva[आह] @[...]
+Key terms: @deva[ब्रू], @deva[आह]
 

@@ -35,16 +35,16 @@ image: /images/260.png
 
 Many of the roots of the 2nd class are of irregular conjugation. We will treat of them in alphabetical order.
 
-@deva[अद्] @[ad] P. 'to eat' forms the 2 and 3 sing. Imperf. as @deva[आदः] @[ādaḥ] and @deva[आदत्] @[ādat] respectively. In other respects it is regular.
+@deva[अद्] P. 'to eat' forms the 2 and 3 sing. Imperf. as @deva[आदः] and @deva[आदत्] respectively. In other respects it is regular.
 
 | | Present | | | Imperfect | | |
 |---|---|---|---|---|---|---|
-| 1. | @deva[अद्मि] @[admi] | @deva[अद्वः] @[advaḥ] | @deva[अदमः] @[adamaḥ] | @deva[आदम्] @[ādam] | @deva[आदव] @[ādava] | @deva[आदम] @[ādama] |
-| 2. | @deva[अत्सि] @[atsi] | @deva[अत्थः] @[atthaḥ] | @deva[अत्थ] @[attha] | @deva[आदः] @[ādaḥ] | @deva[आतम्] @[ātam] | @deva[आत] @[āta] |
-| 3. | @deva[अत्ति] @[atti] | @deva[अत्तः] @[attaḥ] | @deva[अदन्ति] @[adanti] | @deva[आदत्] @[ādat] | @deva[आताम्] @[ātām] | @deva[आदन्] @[ādan] |
+| 1. | @deva[अद्मि] | @deva[अद्वः] | @deva[अदमः] | @deva[आदम्] | @deva[आदव] | @deva[आदम] |
+| 2. | @deva[अत्सि] | @deva[अत्थः] | @deva[अत्थ] | @deva[आदः] | @deva[आतम्] | @deva[आत] |
+| 3. | @deva[अत्ति] | @deva[अत्तः] | @deva[अदन्ति] | @deva[आदत्] | @deva[आताम्] | @deva[आदन्] |
 
 | | Imperative | | | Potential | | |
 |---|---|---|---|---|---|---|
-| 1. | @deva[अदानि] @[adāni] | @deva[अदाव] @[adāva] | @deva[अदाम] @[adāma] | @deva[अद्याम्] @[adyām] | @deva[अद्याव] @[adyāva] | @deva[अद्याम] @[adyāma] |
-| 2. | @deva[अद्धि] @[addhi] | @deva[अत्तम्] @[attam] | @deva[अत्त] @[atta] | @deva[अद्याः] @[adyāḥ] | @deva[अद्यातम्] @[adyātam] | @deva[अद्यात] @[adyāta] |
-| 3. | @deva[अत्तु] @[attu] | @deva[अत्ताम्] @[attām] | @deva[अदन्तु] @[adantu] | @deva[अद्यात्] @[adyāt] | @deva[अद्याताम्] @[adyātām] | @deva[अद्युः] @[adyuḥ] |
+| 1. | @deva[अदानि] | @deva[अदाव] | @deva[अदाम] | @deva[अद्याम्] | @deva[अद्याव] | @deva[अद्याम] |
+| 2. | @deva[अद्धि] | @deva[अत्तम्] | @deva[अत्त] | @deva[अद्याः] | @deva[अद्यातम्] | @deva[अद्यात] |
+| 3. | @deva[अत्तु] | @deva[अत्ताम्] | @deva[अदन्तु] | @deva[अद्यात्] | @deva[अद्याताम्] | @deva[अद्युः] |

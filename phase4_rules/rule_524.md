@@ -23,4 +23,4 @@ image: TBD
 
 ## § 524. व्यथ् Takes Samprasāraṇa in Reduplicative Syllable
 
-The root @deva[व्यथ्] @[vyath] takes Samprasāraṇa in the reduplicative syllable in the Perfect; @deva[विव्यथे] @[vivyathe] 1 & 3 sing. @deva[विव्यथिषे] @[vivyathiṣe] 2 sing.
+The root @deva[व्यथ्] takes Samprasāraṇa in the reduplicative syllable in the Perfect; @deva[विव्यथे] 1 & 3 sing. @deva[विव्यथिषे] 2 sing.

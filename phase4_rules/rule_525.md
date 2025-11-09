@@ -23,4 +23,4 @@ image: TBD
 
 ## § 525. Forms of विज्
 
-For the forms of @deva[विज्] @[vij], see § 466, @deva[विविज्ज] @[vivijja] 1 sing., @deva[विविजिथ] @[vivijitha] @deva[विविज्जतुः] @[vivijjatuḥ] @deva[विविज्ज] @[vivijja] 2 per. etc.
+For the forms of @deva[विज्], see § 466, @deva[विविज्ज] 1 sing., @deva[विविजिथ] @deva[विविज्जतुः] @deva[विविज्ज] 2 per. etc.

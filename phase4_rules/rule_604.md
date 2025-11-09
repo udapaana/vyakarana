@@ -34,6 +34,6 @@ image: /images/355.png
 
 ## § 604. Insertion of व् augment before अय् in certain roots
 
-Roots ending in @deva[आ] @[ā] (@deva[ऐ] @[ai], @deva[ओ] @[o] or @deva[औ] @[au] changeable to @deva[आ] @[ā]; see § 459) and the roots @deva[ऋ] @[ṛ] 'to go,' @deva[हृ] @[hṛ] 'to be ashamed,' @deva[हु] @[hu] 'to go,' (9 cl.), 'to flow' (4. cl. Ā.) and @deva[ग्राह्] @[grāh] 'to choose, to go,' insert the augment @deva[व्] @[v] before @deva[अय्] @[ay] and their vowel takes Guṇa substitute:
+Roots ending in @deva[आ] (@deva[ऐ], @deva[ओ] or @deva[औ] changeable to @deva[आ]; see § 459) and the roots @deva[ऋ] 'to go,' @deva[हृ] 'to be ashamed,' @deva[हु] 'to go,' (9 cl.), 'to flow' (4. cl. Ā.) and @deva[ग्राह्] 'to choose, to go,' insert the augment @deva[व्] before @deva[अय्] and their vowel takes Guṇa substitute:
 
-@deva[दापयति] @[dāpayati]—@deva[दा] @[dā], @deva[पै] @[pai], @deva[ह्रो] @[hro]; @deva[पावयति] @[pāvayati]—@deva[पू] @[pū]; @deva[क्षु] @[kṣu]—@deva[क्षावयति] @[kṣāvayati]; @deva[ऋति] @[ṛti]—@deva[अतीपयति] @[atīpayati], @deva[ग्रै] @[grai]—@deva[पेषयति] @[peṣayati], @deva[ग्राह्] @[grāh]—@deva[ग्लापयति] @[glāpayati].
+@deva[दापयति]—@deva[दा], @deva[पै], @deva[ह्रो]; @deva[पावयति]—@deva[पू]; @deva[क्षु]—@deva[क्षावयति]; @deva[ऋति]—@deva[अतीपयति], @deva[ग्रै]—@deva[पेषयति], @deva[ग्राह्]—@deva[ग्लापयति].

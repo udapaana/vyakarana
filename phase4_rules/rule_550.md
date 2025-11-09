@@ -20,4 +20,4 @@ source_pages:
 ---
 ## § 550. Roots Ending in उ Substitute उव
 
-Roots ending in @deva[उ] @[u], short or long, substitute @deva[उव] @[uva] [in certain conditions].
+Roots ending in @deva[उ], short or long, substitute @deva[उव] [in certain conditions].

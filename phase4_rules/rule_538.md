@@ -20,4 +20,4 @@ source_pages:
 ---
 ## § 538. Preceding अ Dropped Before अम्, अन्
 
-The preceding @deva[अ] @[a] is dropped before @deva[अम्] @[am], @deva[अन्] @[an], and [other terminations].
+The preceding @deva[अ] is dropped before @deva[अम्], @deva[अन्], and [other terminations].

@@ -29,4 +29,4 @@ image: /images/377.png
 
 ## § 627. Two Kinds of Frequentative Bases
 
-There are two kinds of Frequentative bases derived from roots; both are formed by a peculiar reduplication of the root; but in one the affix @deva[य] @[ya] (@deva[यङ्] @[yaṅ]) is added to the root before reduplication takes place, and the base is conjugated in the Atm. alone; in the other the affix @deva[य] @[ya] is dropped (@deva[यङ्लुक्] @[yaṅluk]) and the base is conjugated in Parasm. only (in the Atm. also, according to some grammarians). It will be convenient to call the one the Atm. Frequentative, and the other the Parasm. Frequentative.
+There are two kinds of Frequentative bases derived from roots; both are formed by a peculiar reduplication of the root; but in one the affix @deva[य] (@deva[यङ्]) is added to the root before reduplication takes place, and the base is conjugated in the Atm. alone; in the other the affix @deva[य] is dropped (@deva[यङ्लुक्]) and the base is conjugated in Parasm. only (in the Atm. also, according to some grammarians). It will be convenient to call the one the Atm. Frequentative, and the other the Parasm. Frequentative.

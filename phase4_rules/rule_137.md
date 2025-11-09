@@ -35,19 +35,19 @@ image: /images/079.png
 
 ## § 137. Optional Forms of @deva[इदम्] and @deva[एतद्] - @deva[अन्वादेश]
 
-The optional forms of @deva[इदम्] @[idam] and @deva[एतद्] @[etad] in the Acc., Inst. Sing. and Gen. & Loc. Duals are to be used when there is @deva[अन्वादेश] @[anvādeśa],[^1] i.e. their proper forms have already been used in a previous clause.
+The optional forms of @deva[इदम्] and @deva[एतद्] in the Acc., Inst. Sing. and Gen. & Loc. Duals are to be used when there is @deva[अन्वादेश],[^1] i.e. their proper forms have already been used in a previous clause.
 
 ### Examples
 
 **Accusative & Instrumental Singular:**
 
-@deva[अनेन व्याकरणमधीतं एनं छन्दोऽध्यापय] @[anena vyākaraṇamadhītaṃ enaṃ chando'dhyāpaya]
+@deva[अनेन व्याकरणमधीतं एनं छन्दोऽध्यापय]
 
 "He has studied grammar, teach him prosody"
 
 **Genitive & Locative Dual:**
 
-@deva[अनयोः पतित्रं कुरु एनयोः प्रस्तं स्वस्व] @[anayoḥ pavitraṃ kuru enayoḥ prastaṃ svasva]
+@deva[अनयोः पतित्रं कुरु एनयोः प्रस्तं स्वस्व]
 
 "The family of them both is pure, and their wealth ample"
 

@@ -33,34 +33,34 @@ image: /images/183.png
 
 ## § 329. Compounds with Body-Part Final Members
 
-When a compound has for its second member a word denoting a limb of the body of an animal and having no conjunct consonant preceding its final vowel, the feminine is formed by the addition of @deva[आ] @[ā] or @deva[ई] @[ī].
+When a compound has for its second member a word denoting a limb of the body of an animal and having no conjunct consonant preceding its final vowel, the feminine is formed by the addition of @deva[आ] or @deva[ई].
 
-e.g. @deva[अतिकेशा] @[atikeśā] or @deva[अतिकेशी] @[atikeśī]: a woman having abundant hair
+e.g. @deva[अतिकेशा] or @deva[अतिकेशी]: a woman having abundant hair
 
-e.g. @deva[सुकेशा] @[sukeśā] or @deva[सुकेशी] @[sukeśī]: beautiful-haired
+e.g. @deva[सुकेशा] or @deva[सुकेशी]: beautiful-haired
 
-e.g. @deva[चन्द्रमुखा] @[candramukhā] or @deva[चन्द्रमुखी] @[candramukhī]: moon-faced
+e.g. @deva[चन्द्रमुखा] or @deva[चन्द्रमुखी]: moon-faced
 
-But @deva[सुगुल्फा] @[sugulphā]: having beautiful ankles
+But @deva[सुगुल्फा]: having beautiful ankles
 
-@deva[सुहस्ता] @[suhastā] or @deva[सुहस्तनी] @[suhastanī] (@deva[व्रा वा प्रतिमा वा] @[vrā vā pratimā vā])
+@deva[सुहस्ता] or @deva[सुहस्तनी] (@deva[व्रा वा प्रतिमा वा])
 
-@deva[सुमुखा शाला] @[sumukhā śālā]: an edifice with a beautiful front
+@deva[सुमुखा शाला]: an edifice with a beautiful front
 
-**Obs.** If the word denoting the limb, however, be one of the words @deva[क्रोड] @[kroḍa], @deva[नख] @[nakha], @deva[खुर] @[khura], @deva[उखा] @[ukhā], @deva[शिखा] @[śikhā], @deva[बाल] @[bāla], @deva[शफ] @[śapha], @deva[शुक्र] @[śukra], @deva[भुज] @[bhuja], @deva[कर] @[kara] etc., or have more than two syllables, the feminine is formed in @deva[आ] @[ā] alone.
+**Obs.** If the word denoting the limb, however, be one of the words @deva[क्रोड], @deva[नख], @deva[खुर], @deva[उखा], @deva[शिखा], @deva[बाल], @deva[शफ], @deva[शुक्र], @deva[भुज], @deva[कर] etc., or have more than two syllables, the feminine is formed in @deva[आ] alone.
 
-e.g. @deva[कल्याणक्रोडा] @[kalyāṇakroḍā] (@deva[अश्वानामुरः क्रोडा] @[aśvānāmuraḥ kroḍā])
+e.g. @deva[कल्याणक्रोडा] (@deva[अश्वानामुरः क्रोडा])
 
-e.g. @deva[पृथुजघना] @[pṛthujaghanā]: having large hips
+e.g. @deva[पृथुजघना]: having large hips
 
-e.g. @deva[चञ्चुलनासना] @[cañculanāsanā], etc.
+e.g. @deva[चञ्चुलनासना], etc.
 
-Also when the first member is one of @deva[स] @[sa], @deva[सह] @[saha], or @deva[विद्यमान] @[vidyamāna], the feminine is formed in @deva[आ] @[ā] necessarily.
+Also when the first member is one of @deva[स], @deva[सह], or @deva[विद्यमान], the feminine is formed in @deva[आ] necessarily.
 
-e.g. @deva[सकेशा] @[sakeśā]
+e.g. @deva[सकेशा]
 
-e.g. @deva[अकेशा] @[akeśā]
+e.g. @deva[अकेशा]
 
-e.g. @deva[विद्यमाननासिका] @[vidyamānanāsikā]
+e.g. @deva[विद्यमाननासिका]
 
-e.g. @deva[सहनासिका] @[sahanāsikā], etc.
+e.g. @deva[सहनासिका], etc.

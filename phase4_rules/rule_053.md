@@ -31,4 +31,4 @@ image: /images/020.png
 
 ## § 53. Indeclinables - Nipātas and Avyayas
 
-The indeclinables, i.e. words that are incapable of case-affixes, are particles (@deva[अव्यय] @[avyaya]), such as @deva[च] @[ca] and, @deva[यदि] @[yadi] if, @deva[यदा] @[yadā] when, @deva[किम्] @[kim] why. These, as distinguished from ordinary nouns, are therefore technically called Nipātas or Avyayas. The word Pada is applied to such words as well.
+The indeclinables, i.e. words that are incapable of case-affixes, are particles (@deva[अव्यय]), such as @deva[च] and, @deva[यदि] if, @deva[यदा] when, @deva[किम्] why. These, as distinguished from ordinary nouns, are therefore technically called Nipātas or Avyayas. The word Pada is applied to such words as well.

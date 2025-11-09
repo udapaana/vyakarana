@@ -33,8 +33,8 @@ image: /images/417.png
 
 P. P. Participles have sometimes the sense of neuter abstract nouns:
 
-- @deva[भाषितम्] @[bhāṣitam]: 'speech'
-- @deva[शयितम्] @[śayitam]: 'sleep'
-- @deva[हसितम्] @[hasitam]: 'laughing'
+- @deva[भाषितम्]: 'speech'
+- @deva[शयितम्]: 'sleep'
+- @deva[हसितम्]: 'laughing'
 
-Similarly @deva[स्थित] @[sthita], @deva[गत] @[gata], etc. See Bhaṭṭ. VII. 125.
+Similarly @deva[स्थित], @deva[गत], etc. See Bhaṭṭ. VII. 125.

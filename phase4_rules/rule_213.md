@@ -33,4 +33,4 @@ image: /images/132.png
 
 ## § 213. Parts with Time Periods
 
-A word expressive of a part is compounded with another signifying a period of time and is placed first; @deva[मध्यम् अह्नः] @[madhyam ahnaḥ] @deva[मध्याह्नः] @[madhyāhnaḥ] mid-day; @deva[सायाह्नः] @[sāyāhnaḥ], @deva[मध्यरात्रम्] @[madhyarātram] etc.
+A word expressive of a part is compounded with another signifying a period of time and is placed first; @deva[मध्यम् अह्नः] @deva[मध्याह्नः] mid-day; @deva[सायाह्नः], @deva[मध्यरात्रम्] etc.

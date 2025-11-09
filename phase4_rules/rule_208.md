@@ -30,4 +30,4 @@ image: /images/129.png
 
 ## § 208. Aluk of the Dative
 
-Instances of the Aluk of the Dative: @deva[परस्मैपदम्] @[parasmaip adam], @deva[परस्मैभाषा] @[parasmaibhāṣā]; @deva[आत्मनेपदम्] @[ātmanepadam], @deva[आत्मनेभाषा] @[ātmanebhāṣā].
+Instances of the Aluk of the Dative: @deva[परस्मैपदम्], @deva[परस्मैभाषा]; @deva[आत्मनेपदम्], @deva[आत्मनेभाषा].

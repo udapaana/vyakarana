@@ -34,6 +34,6 @@ image: /images/356.png
 
 ## § 608. Roots having two causal forms
 
-The roots @deva[यज्] @[yaj], @deva[विच्छ्] @[vicch], @deva[भुज्] @[bhuj], @deva[पुज्] @[puj], @deva[पन्] @[pan], and @deva[कुट्] @[kuṭ] have two forms in the causal:
+The roots @deva[यज्], @deva[विच्छ्], @deva[भुज्], @deva[पुज्], @deva[पन्], and @deva[कुट्] have two forms in the causal:
 
-@deva[गोपयति-ते] @[gopayati-te], @deva[गोपाययति-ते] @[gopāyayati-te]; @deva[विच्छयति-ते] @[vicchayati-te], @deva[विच्छाययति-ते] @[vicchāyayati-te]; &c.
+@deva[गोपयति-ते], @deva[गोपाययति-ते]; @deva[विच्छयति-ते], @deva[विच्छाययति-ते]; &c.

@@ -30,7 +30,7 @@ image: /images/012.png
 
 ## § 33. Optional Soft Aspirate Change
 
-@deva[स्] @[s] coming after any of the first four letters of a class is optionally changed to the soft aspirate (4th letter) of that class[^1]; @deva[वाक् + हरि: = वाग्हरि:] @[vāk + hariḥ = vāghariḥ] (see b. under § 22), and by this @deva[वाग्हरि:] @[vāghariḥ] (@deva[वाचो हरि:] @[vāco hariḥ]) the possessor of speech, Bṛhaspati.
+@deva[स्] coming after any of the first four letters of a class is optionally changed to the soft aspirate (4th letter) of that class[^1]; @deva[वाक् + हरि: = वाग्हरि:] (see b. under § 22), and by this @deva[वाग्हरि:] (@deva[वाचो हरि:]) the possessor of speech, Bṛhaspati.
 
 
 

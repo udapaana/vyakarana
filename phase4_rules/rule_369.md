@@ -27,8 +27,8 @@ confidence: high
 image: /images/213.png
 ---
 
-## § 369. Secondary @deva[गति] @[Gati] Words
+## § 369. Secondary @deva[गति] Words
 
-There are several other words, also styled @deva[गति] @[Gati] by Sanskrit grammarians, used prepositionally. These are prefixed to certain roots only. We give the more important of them below.
+There are several other words, also styled @deva[गति] by Sanskrit grammarians, used prepositionally. These are prefixed to certain roots only. We give the more important of them below.
 
 See § 370 for the list of secondary Gati words.

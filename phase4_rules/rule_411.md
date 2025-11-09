@@ -32,6 +32,6 @@ image: /images/246.png
 
 ## § 411. Root ज्ञा - न Not Changed to ण्
 
-In the case of the root @deva[ज्ञा] @[jñā] the @deva[न] @[na] of @deva[ना] @[nā] is not changed to @deva[ण्] @[ṇ].
+In the case of the root @deva[ज्ञा] the @deva[न] of @deva[ना] is not changed to @deva[ण्].
 
-e.g. @deva[ज्ञानाति] @[jñānāti], @deva[ज्ञानीताः] @[jñānītāḥ], @deva[ज्ञानन्ति] @[jñānanti], &c.
+e.g. @deva[ज्ञानाति], @deva[ज्ञानीताः], @deva[ज्ञानन्ति], &c.

@@ -29,10 +29,10 @@ image: /images/185.png
 
 ## § 334. Dvigu Ending in Ī
 
-A Dvigu ending in @deva[ई] @[ī] forms its feminine in @deva[ई] @[ī].
+A Dvigu ending in @deva[ई] forms its feminine in @deva[ई].
 
-e.g. @deva[त्रिवर्गी] @[trivargī]
+e.g. @deva[त्रिवर्गी]
 
-But if the ending word be one of those included in the Ajādi group (see foot-note on p. 108) its feminine is formed in @deva[आ] @[ā].
+But if the ending word be one of those included in the Ajādi group (see foot-note on p. 108) its feminine is formed in @deva[आ].
 
-e.g. @deva[त्रिसेना] @[trisenā]: (consisting of three battalions)
+e.g. @deva[त्रिसेना]: (consisting of three battalions)

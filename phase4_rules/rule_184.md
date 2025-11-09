@@ -31,13 +31,13 @@ confidence: high
 image: /images/100.png
 ---
 
-## § 184. @deva[विघ्रह] @[Vigraha] - Expounding of Compounds
+## § 184. @deva[विघ्रह] - Expounding of Compounds
 
-The expounding of a @deva[समास] @[Samāsa] (i.e. giving its @deva[विघ्रहवाक्य] @[Vigrahavākya]) consists in the expression of the various relations existing between the objects or ideas denoted by the various members of a @deva[समास] @[Samāsa] by means of the proper cases or subordinate sentences.
+The expounding of a @deva[समास] (i.e. giving its @deva[विघ्रहवाक्य]) consists in the expression of the various relations existing between the objects or ideas denoted by the various members of a @deva[समास] by means of the proper cases or subordinate sentences.
 
-### (a) @deva[नित्यसमास] @[Nityasamāsa]
+### (a) @deva[नित्यसमास]
 
-When the @deva[विघ्रहवाक्य] @[Vigrahavākya] cannot be given, or cannot be given by using the words actually compounded, the compound is called @deva[नित्यसमास] @[nityasamāsa].[^1]
+When the @deva[विघ्रहवाक्य] cannot be given, or cannot be given by using the words actually compounded, the compound is called @deva[नित्यसमास].[^1]
 
 ---
 

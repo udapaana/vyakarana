@@ -30,14 +30,14 @@ image: /images/514.png
 
 ## § 955. Potential for Hope
 
-When hope is expressed without the use of the word @deva[कवित] @[kavita] the Potential is generally used:
+When hope is expressed without the use of the word @deva[कवित] the Potential is generally used:
 
 **Examples:**
 
-- @deva[काङ्क्षे भुञ्जीत भवान्] @[kāṅkṣe bhuñjīta bhavān] it is my desire (I hope) that it should grow
+- @deva[काङ्क्षे भुञ्जीत भवान्] it is my desire (I hope) that it should grow
 
-But: @deva[कवित भुञ्जीति] @[kavita bhuñjīti] (I hope) he lives
+But: @deva[कवित भुञ्जीति] (I hope) he lives
 
 ---
 
-**Pāṇini Reference:** @deva[काङ्क्षायां कोऽजीवि] @[kāṅkṣāyāṃ ko'jīvi] (Pāṇ. III. 3. 153)
+**Pāṇini Reference:** @deva[काङ्क्षायां कोऽजीवि] (Pāṇ. III. 3. 153)

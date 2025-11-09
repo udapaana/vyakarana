@@ -26,18 +26,18 @@ confidence: high
 image: /images/520.png
 ---
 
-## § 971. The Particle @deva[इति] @[iti]
+## § 971. The Particle @deva[इति]
 
-As @deva[अयु] @[ayu] marks the beginning, so @deva[इति] @[iti] marks the close of a composition. This particle is used in the following senses:
+As @deva[अयु] marks the beginning, so @deva[इति] marks the close of a composition. This particle is used in the following senses:
 
 **(1) Quotation marks:** To quote the exact words spoken or spoken to, it is placed at the place of the quotation marks and being used generally after the words quoted.
 
-Example: A certain Chandaka girl requests Your Majesty to command that those who have come to your majesty's feet wish to enjoy the happiness of the sight of Your Majesty; @deva[एतावेतौ अर्थः एकः स्यात्] @[etāvetau arthaḥ ekaḥ syāt] these two have accomplished one object.
+Example: A certain Chandaka girl requests Your Majesty to command that those who have come to your majesty's feet wish to enjoy the happiness of the sight of Your Majesty; @deva[एतावेतौ अर्थः एकः स्यात्] these two have accomplished one object.
 
 **(2) Cause:** Rendered in English as "because", "since", etc.
 
-- @deva[अदेशकोऽस्मीति पृच्छामि] @[adeśako'smīti pṛcchāmi] I ask you because I am a foreigner
-- @deva[पुराणमित्यस्य न बाधा भवेत्] @[purāṇamityasya na bādhā bhavet] everything is not good simply because it is old
+- @deva[अदेशकोऽस्मीति पृच्छामि] I ask you because I am a foreigner
+- @deva[पुराणमित्यस्य न बाधा भवेत्] everything is not good simply because it is old
 
 **(3) Purpose or motive:** That there should be; in order that.
 
@@ -47,15 +47,15 @@ Example: They have come with a limited number of servants with them that there s
 
 **(5) In the capacity of; as regards:**
 
-- @deva[पिता इति] @[pitā iti] as a father he ought to be respected
-- @deva[गुरु इति] @[guru iti] as a teacher ought to be censured
+- @deva[पिता इति] as a father he ought to be respected
+- @deva[गुरु इति] as a teacher ought to be censured
 
 **(6) To state an opinion:**
 
-@deva[इति आश्मरथ्यः] @[iti Āśmarathyaḥ] this is the opinion of Āśmarathya.
+@deva[इति आश्मरथ्यः] this is the opinion of Āśmarathya.
 
-It is often used by commentators in the sense of "according to the rule": @deva[इति निर्देशात् लिट्] @[iti nirdeśāt liṭ] etc.
+It is often used by commentators in the sense of "according to the rule": @deva[इति निर्देशात् लिट्] etc.
 
 ---
 
-**Note:** In Sanskrit there is no indirect construction, so that in translating indirect constructions the actual words of the speaker followed by @deva[इति] @[iti] must be used.
+**Note:** In Sanskrit there is no indirect construction, so that in translating indirect constructions the actual words of the speaker followed by @deva[इति] must be used.

@@ -36,40 +36,40 @@ image: /images/045.png
 
 ## § 71. Irregular Bases: सखि (friend) and पति (master)
 
-These irregular bases show special forms in certain cases that differ from the regular declension of @deva[इ] @[i]-stem masculine nouns.
+These irregular bases show special forms in certain cases that differ from the regular declension of @deva[इ]-stem masculine nouns.
 
 ### सखि — friend (Irregular Base)
 
-@deva[सखि] @[sakhi] — friend
+@deva[सखि] — friend
 
 | Case | Singular | Dual | Plural |
 |------|----------|------|--------|
-| N. | @deva[सखा] @[sakhā] | @deva[सखायौ] @[sakhāyau] | @deva[सखायः] @[sakhāyaḥ] |
-| V. | @deva[सखे] @[sakhe] | @deva[सखायौ] @[sakhāyau] | @deva[सखायः] @[sakhāyaḥ] |
-| A. | @deva[सखायम्] @[sakhāyam] | @deva[सखायौ] @[sakhāyau] | @deva[सखीन्] @[sakhīn] |
-| I. | @deva[सख्या] @[sakhyā] | @deva[सखिभ्याम्] @[sakhibhyām] | @deva[सखिभिः] @[sakhibhiḥ] |
-| D. | @deva[सख्ये] @[sakhye] | @deva[सखिभ्याम्] @[sakhibhyām] | @deva[सखिभ्यः] @[sakhibhyaḥ] |
-| Ab. | @deva[सख्युः] @[sakhyuḥ] | @deva[सखिभ्याम्] @[sakhibhyām] | @deva[सखिभ्यः] @[sakhibhyaḥ] |
-| G. | @deva[सख्युः] @[sakhyuḥ] | @deva[सख्योः] @[sakhyoḥ] | @deva[सखीनाम्] @[sakhīnām] |
-| L. | @deva[सख्यौ] @[sakhyau] | @deva[सख्योः] @[sakhyoḥ] | @deva[सखिषु] @[sakhiṣu] |
+| N. | @deva[सखा] | @deva[सखायौ] | @deva[सखायः] |
+| V. | @deva[सखे] | @deva[सखायौ] | @deva[सखायः] |
+| A. | @deva[सखायम्] | @deva[सखायौ] | @deva[सखीन्] |
+| I. | @deva[सख्या] | @deva[सखिभ्याम्] | @deva[सखिभिः] |
+| D. | @deva[सख्ये] | @deva[सखिभ्याम्] | @deva[सखिभ्यः] |
+| Ab. | @deva[सख्युः] | @deva[सखिभ्याम्] | @deva[सखिभ्यः] |
+| G. | @deva[सख्युः] | @deva[सख्योः] | @deva[सखीनाम्] |
+| L. | @deva[सख्यौ] | @deva[सख्योः] | @deva[सखिषु] |
 
-**Obs.** (a) The words @deva[सुसखि] @[susakhi] a good friend (@deva[शोभनः सखा] @[śobhanaḥ sakhā]), @deva[अतिसखि] @[atisakhi] a close friend (@deva[अतिशयितः सखा] @[atiśayitaḥ sakhā]), @deva[परमसखि] @[paramasakhi] a best friend, or one having a great friend (@deva[परमः सखा यस्य] @[paramaḥ sakhā yasya]), are declined like @deva[सखि] @[sakhi] in the Nominative, Vocative, and Accusative and like @deva[हरि] @[hari] in the remaining cases.
+**Obs.** (a) The words @deva[सुसखि] a good friend (@deva[शोभनः सखा]), @deva[अतिसखि] a close friend (@deva[अतिशयितः सखा]), @deva[परमसखि] a best friend, or one having a great friend (@deva[परमः सखा यस्य]), are declined like @deva[सखि] in the Nominative, Vocative, and Accusative and like @deva[हरि] in the remaining cases.
 
-But @deva[अतिसखि] @[atisakhi] (@deva[सखीम् अतिक्रान्तः] @[sakhīm atikrāntaḥ] one who has surpassed companionship) is declined like @deva[हरि] @[hari].
+But @deva[अतिसखि] (@deva[सखीम् अतिक्रान्तः] one who has surpassed companionship) is declined like @deva[हरि].
 
-**N. B.** @deva[सखी] @[sakhī] (feminine) is declined like @deva[नदी] @[nadī].
+**N. B.** @deva[सखी] (feminine) is declined like @deva[नदी].
 
 ### पति — master (Irregular Base)
 
-@deva[पति] @[pati] — master, lord, husband
+@deva[पति] — master, lord, husband
 
 | Case | Singular | Dual | Plural |
 |------|----------|------|--------|
-| N. | @deva[पतिः] @[patiḥ] | @deva[पती] @[patī] | @deva[पतयः] @[patayaḥ] |
-| V. | @deva[पते] @[pate] | @deva[पती] @[patī] | @deva[पतयः] @[patayaḥ] |
-| A. | @deva[पतिम्] @[patim] | @deva[पती] @[patī] | @deva[पतीन्] @[patīn] |
-| I. | @deva[पत्या] @[patyā] | @deva[पतिभ्याम्] @[patibhyām] | @deva[पतिभिः] @[patibhiḥ] |
-| D. | @deva[पत्ये] @[patye] | @deva[पतिभ्याम्] @[patibhyām] | @deva[पतिभ्यः] @[patibhyaḥ] |
-| Ab. | @deva[पत्युः] @[patyuḥ] | @deva[पतिभ्याम्] @[patibhyām] | @deva[पतिभ्यः] @[patibhyaḥ] |
-| G. | @deva[पत्युः] @[patyuḥ] | @deva[पत्योः] @[patyoḥ] | @deva[पतीनाम्] @[patīnām] |
-| L. | @deva[पत्यौ] @[patyau] | @deva[पत्योः] @[patyoḥ] | @deva[पतिषु] @[patiṣu] |
+| N. | @deva[पतिः] | @deva[पती] | @deva[पतयः] |
+| V. | @deva[पते] | @deva[पती] | @deva[पतयः] |
+| A. | @deva[पतिम्] | @deva[पती] | @deva[पतीन्] |
+| I. | @deva[पत्या] | @deva[पतिभ्याम्] | @deva[पतिभिः] |
+| D. | @deva[पत्ये] | @deva[पतिभ्याम्] | @deva[पतिभ्यः] |
+| Ab. | @deva[पत्युः] | @deva[पतिभ्याम्] | @deva[पतिभ्यः] |
+| G. | @deva[पत्युः] | @deva[पत्योः] | @deva[पतीनाम्] |
+| L. | @deva[पत्यौ] | @deva[पत्योः] | @deva[पतिषु] |

@@ -29,8 +29,8 @@ image: /images/176.png
 
 ## § 311. Optional Treatment of Case-Endings
 
-@deva[विभाषा सुपो बहुलम्] @[vibhāṣā supo bahulam]
+@deva[विभाषा सुपो बहुलम्]
 
-Optionally, and in various ways, case-endings (@deva[सुप्] @[sup]) may be treated differently.
+Optionally, and in various ways, case-endings (@deva[सुप्]) may be treated differently.
 
 **Obs.** This acknowledges that there are variations in how case-endings are handled in the formation of Avyayībhāva compounds, and that usage may vary.

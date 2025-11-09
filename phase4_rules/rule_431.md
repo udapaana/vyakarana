@@ -27,5 +27,5 @@ image: /images/266.png
 
 [Content extracted from pages 280 - to be enhanced with full OCR text and proper tagging]
 
-Key terms: @deva[द्विष्] @[...]
+Key terms: @deva[द्विष्]
 

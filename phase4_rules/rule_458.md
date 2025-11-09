@@ -28,8 +28,8 @@ confidence: high
 image: /images/281.png
 ---
 
-## § 458. @deva[सेट्] @[Seṭ] Roots - Always
+## § 458. @deva[सेट्] Roots - Always
 
 ### (a) Polysyllabic, Derived, and 10th Class Roots
 
-Roots of more than one syllable, derived roots and roots of the 10th class are always @deva[सेट्] @[Seṭ].
+Roots of more than one syllable, derived roots and roots of the 10th class are always @deva[सेट्].

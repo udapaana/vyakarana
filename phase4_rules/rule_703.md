@@ -28,4 +28,4 @@ image: /images/416.png
 
 ## § 703. Declension of Participles in त् or न
 
-The participles in @deva[त्] @[t] or @deva[न] @[n] follow the Declension of nouns in @deva[अ] @[a].
+The participles in @deva[त्] or @deva[न] follow the Declension of nouns in @deva[अ].

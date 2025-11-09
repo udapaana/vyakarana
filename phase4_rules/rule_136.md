@@ -34,49 +34,49 @@ image: /images/094.png
 
 ## § 136. Declension tables of तद् and एतद् (continued)
 
-**Decline @deva[त्यद्] @[tyad]:** which means the same thing as @deva[तद्] @[tad], e.g. @deva[त्यः त्यौ त्ये] @[tyaḥ tyau tye] Nom.; @deva[त्यं त्यौ त्यान्] @[tyam tyau tyān] Acc., etc.
+**Decline @deva[त्यद्]:** which means the same thing as @deva[तद्], e.g. @deva[त्यः त्यौ त्ये] Nom.; @deva[त्यं त्यौ त्यान्] Acc., etc.
 
-### @deva[तद्] @[tad] neuter
+### @deva[तद्] neuter
 
 | Case | Singular | Dual | Plural |
 |------|----------|------|--------|
-| Nom. and Acc. | @deva[तत्] @[tat] | @deva[ते] @[te] | @deva[तानि] @[tāni] |
+| Nom. and Acc. | @deva[तत्] | @deva[ते] | @deva[तानि] |
 
 The following cases are like the masculine.
 
-### @deva[एतद्] @[etad] masculine
+### @deva[एतद्] masculine
 
 | Case | Singular | Dual | Plural |
 |------|----------|------|--------|
-| Nom. | @deva[एषः] @[eṣaḥ] | @deva[एतौ] @[etau] | @deva[एते] @[ete] |
-| Acc. | @deva[एतम्-एनम्] @[etam-enam][^1] | @deva[एतौ-एनौ] @[etau-enau] | @deva[एतान्-एनः] @[etān-enaḥ] |
-| Ins. | @deva[एतेन-एनेन] @[etena-enena] | @deva[एताभ्याम्] @[etābhyām] | @deva[एतैः] @[etaiḥ] |
-| Dat. | @deva[एतस्मै] @[etasmai] | @deva[एताभ्याम्] @[etābhyām] | @deva[एतेभ्यः] @[etebhyaḥ] |
-| Abl. | @deva[एतस्मात्] @[etasmāt] | @deva[एताभ्याम्] @[etābhyām] | @deva[एतेभ्यः] @[etebhyaḥ] |
-| Gen. | @deva[एतस्य] @[etasya] | @deva[एतयोः-एनयोः] @[etayoḥ-enayoḥ] | @deva[एतेषाम्] @[eteṣām] |
-| Loc. | @deva[एतस्मिन्] @[etasmin] | @deva[एतयोः-एनयोः] @[etayoḥ-enayoḥ] | @deva[एतेषु] @[eteṣu] |
+| Nom. | @deva[एषः] | @deva[एतौ] | @deva[एते] |
+| Acc. | @deva[एतम्-एनम्][^1] | @deva[एतौ-एनौ] | @deva[एतान्-एनः] |
+| Ins. | @deva[एतेन-एनेन] | @deva[एताभ्याम्] | @deva[एतैः] |
+| Dat. | @deva[एतस्मै] | @deva[एताभ्याम्] | @deva[एतेभ्यः] |
+| Abl. | @deva[एतस्मात्] | @deva[एताभ्याम्] | @deva[एतेभ्यः] |
+| Gen. | @deva[एतस्य] | @deva[एतयोः-एनयोः] | @deva[एतेषाम्] |
+| Loc. | @deva[एतस्मिन्] | @deva[एतयोः-एनयोः] | @deva[एतेषु] |
 
-### @deva[एतद्] @[etad] feminine
-
-| Case | Singular | Dual | Plural |
-|------|----------|------|--------|
-| Nom. | @deva[एषा] @[eṣā] | @deva[एते] @[ete] | @deva[एताः] @[etāḥ] |
-| Acc. | @deva[एताम्-एनाम्] @[etām-enām] | @deva[एते-एने] @[ete-ene] | @deva[एताः-एनाः] @[etāḥ-enāḥ] |
-| Ins. | @deva[एतया-एनया] @[etayā-enayā] | @deva[एताभ्याम्] @[etābhyām] | @deva[एताभिः] @[etābhiḥ] |
-| Dat. | @deva[एतस्यै] @[etasyai] | @deva[एताभ्याम्] @[etābhyām] | @deva[एताभ्यः] @[etābhyaḥ] |
-| Abl. | @deva[एतस्याः] @[etasyāḥ] | @deva[एताभ्याम्] @[etābhyām] | @deva[एताभ्यः] @[etābhyaḥ] |
-| Gen. | @deva[एतस्याः] @[etasyāḥ] | @deva[एतयोः-एनयोः] @[etayoḥ-enayoḥ] | @deva[एतासाम्] @[etāsām] |
-| Loc. | @deva[एतस्याम्] @[etasyām] | @deva[एतयोः-एनयोः] @[etayoḥ-enayoḥ] | @deva[एतासु] @[etāsu] |
-
-### @deva[एतद्] @[etad] neuter
+### @deva[एतद्] feminine
 
 | Case | Singular | Dual | Plural |
 |------|----------|------|--------|
-| Nom. | @deva[एतत्] @[etat] | @deva[एते] @[ete] | @deva[एतानि] @[etāni] |
-| Acc. | @deva[एतत्-एनत्] @[etat-enat] | @deva[एते-एने] @[ete-ene] | @deva[एतानि-एनानि] @[etāni-enāni] |
+| Nom. | @deva[एषा] | @deva[एते] | @deva[एताः] |
+| Acc. | @deva[एताम्-एनाम्] | @deva[एते-एने] | @deva[एताः-एनाः] |
+| Ins. | @deva[एतया-एनया] | @deva[एताभ्याम्] | @deva[एताभिः] |
+| Dat. | @deva[एतस्यै] | @deva[एताभ्याम्] | @deva[एताभ्यः] |
+| Abl. | @deva[एतस्याः] | @deva[एताभ्याम्] | @deva[एताभ्यः] |
+| Gen. | @deva[एतस्याः] | @deva[एतयोः-एनयोः] | @deva[एतासाम्] |
+| Loc. | @deva[एतस्याम्] | @deva[एतयोः-एनयोः] | @deva[एतासु] |
+
+### @deva[एतद्] neuter
+
+| Case | Singular | Dual | Plural |
+|------|----------|------|--------|
+| Nom. | @deva[एतत्] | @deva[एते] | @deva[एतानि] |
+| Acc. | @deva[एतत्-एनत्] | @deva[एते-एने] | @deva[एतानि-एनानि] |
 
 The rest of the cases are like the masculine.
 
 ---
 
-[^1]: @deva[द्वितीयातोशः] @[dvitīyātoścenaḥ] Pāṇ. II.4.34. @deva[एन] @[ena] is optionally substituted for @deva[इदम्] @[idam] and @deva[एतद्] @[etad] in the Acc., Inst. Sing. and Gen. & Loc. Duals when there is @deva[अन्वादेश] @[anvādeśa] (see § 137).
+[^1]: @deva[द्वितीयातोशः] Pāṇ. II.4.34. @deva[एन] is optionally substituted for @deva[इदम्] and @deva[एतद्] in the Acc., Inst. Sing. and Gen. & Loc. Duals when there is @deva[अन्वादेश] (see § 137).

@@ -23,4 +23,4 @@ image: TBD
 
 ## § 536. Second Variety Exclusively Parasmaipada
 
-This Variety is exclusively Parasmaipada. @deva[दा] @[dā], @deva[धा] @[dhā], etc. [belong to this variety].
+This Variety is exclusively Parasmaipada. @deva[दा], @deva[धा], etc. [belong to this variety].

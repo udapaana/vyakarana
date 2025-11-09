@@ -36,4 +36,4 @@ When the first member of a Karmadhāraya compound is a numeral it is called 'Dvi
 
 ---
 
-[^1]: @deva[संख्यापूर्वो द्विगुः] @[saṃkhyāpūrvo dviguḥ] Pāṇ. II.1.52.
+[^1]: @deva[संख्यापूर्वो द्विगुः] Pāṇ. II.1.52.

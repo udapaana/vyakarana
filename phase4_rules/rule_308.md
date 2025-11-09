@@ -29,8 +29,8 @@ image: /images/176.png
 
 ## § 308. First Member Retains Original Form
 
-@deva[पूर्वपदप्रकृत्यैकत्वे] @[pūrvapadaprakṛtyaikatve]
+@deva[पूर्वपदप्रकृत्यैकत्वे]
 
-When the first member retains its original form (@deva[प्रकृति] @[prakṛti]), it is treated as one unit.
+When the first member retains its original form (@deva[प्रकृति]), it is treated as one unit.
 
 **Obs.** This principle governs how the first member of an Avyayībhāva maintains its basic stem form throughout the compound.

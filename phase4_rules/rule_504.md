@@ -41,42 +41,42 @@ image: /images/301.png
 
 ## § 504. Roots Rejecting इ in the Perfect
 
-The roots that reject @deva[इ] @[i] altogether in the Perfect:
+The roots that reject @deva[इ] altogether in the Perfect:
 
-### @deva[कृ] @[kṛ] P. Ā. 'to do'
-
-| Person | Parasmaipada Sing. | Dual | Pl. | Ātmanepada Sing. | Dual | Pl. |
-|--------|-------------------|------|-----|------------------|------|-----|
-| 1 | @deva[चकार] @[cakāra], @deva[चकृ] @[cakṛ] | @deva[चक्रुव] @[cakruva] | @deva[चक्रुम] @[cakruma] | @deva[चक्रे] @[cakre] | @deva[चक्रुवहे] @[cakruvahe] | @deva[चक्रुमहे] @[cakrumahe] |
-| 2 | @deva[चकर्थ] @[cakartha] | @deva[चक्रथुः] @[cakrathuḥ] | @deva[चक्र] @[cakra] | @deva[चकृषे] @[cakṛṣe] | @deva[चक्राथे] @[cakrāthe] | @deva[चक्रढ्वे] @[cakraḍhve][^1] |
-| 3 | @deva[चकार] @[cakāra] | @deva[चक्रतुः] @[cakratuḥ] | @deva[चक्रुः] @[cakruḥ] | @deva[चक्रे] @[cakre] | @deva[चक्राते] @[cakrāte] | @deva[चक्रिरे] @[cakrire] |
-
-Conjugate similarly @deva[घृ] @[ghṛ], @deva[भृ] @[bhṛ], and @deva[वृ] @[vṛ] except in the 2nd per. sing. which is @deva[ववरिथ] @[vavaritha].
-
-### But @deva[कृ] @[kṛ] with @deva[सम्] @[sam][^2]
+### @deva[कृ] P. Ā. 'to do'
 
 | Person | Parasmaipada Sing. | Dual | Pl. | Ātmanepada Sing. | Dual | Pl. |
 |--------|-------------------|------|-----|------------------|------|-----|
-| 1 | @deva[सञ्चस्कार] @[sañcaskāra], @deva[सञ्चस्कर] @[sañcaskara] | @deva[सञ्चस्करिव] @[sañcaskariva][^3] | @deva[सञ्चस्करिम] @[sañcaskarim] | @deva[सञ्चस्करे] @[sañcaskare] | @deva[सञ्चस्करिवहे] @[sañcaskarivahe] | @deva[सञ्चस्करिमहे] @[sañcaskarimahe] |
-| 2 | @deva[सञ्चस्करिथ] @[sañcaskaritha] | @deva[सञ्चस्करथुः] @[sañcaskarathuḥ] | @deva[सञ्चस्कर] @[sañcaskara] | @deva[सञ्चस्करिषे] @[sañcaskariṣe] | @deva[सञ्चस्कराथे] @[sañcaskarāthe] | @deva[सञ्चस्करिध्वे] @[sañcaskaridhve][^4] |
-| 3 | @deva[सञ्चस्कार] @[sañcaskāra] | @deva[सञ्चस्करतुः] @[sañcaskaratuḥ] | @deva[सञ्चस्करुः] @[sañcaskaruḥ] | @deva[सञ्चस्करे] @[sañcaskare] | @deva[सञ्चस्कराते] @[sañcaskarāte] | @deva[सञ्चस्करिरे] @[sañcaskarire] |
+| 1 | @deva[चकार], @deva[चकृ] | @deva[चक्रुव] | @deva[चक्रुम] | @deva[चक्रे] | @deva[चक्रुवहे] | @deva[चक्रुमहे] |
+| 2 | @deva[चकर्थ] | @deva[चक्रथुः] | @deva[चक्र] | @deva[चकृषे] | @deva[चक्राथे] | @deva[चक्रढ्वे][^1] |
+| 3 | @deva[चकार] | @deva[चक्रतुः] | @deva[चक्रुः] | @deva[चक्रे] | @deva[चक्राते] | @deva[चक्रिरे] |
 
-### @deva[स्तु] @[stu] P. Ā.
+Conjugate similarly @deva[घृ], @deva[भृ], and @deva[वृ] except in the 2nd per. sing. which is @deva[ववरिथ].
+
+### But @deva[कृ] with @deva[सम्][^2]
 
 | Person | Parasmaipada Sing. | Dual | Pl. | Ātmanepada Sing. | Dual | Pl. |
 |--------|-------------------|------|-----|------------------|------|-----|
-| 1 | @deva[तुष्टाव] @[tuṣṭāva], @deva[तुष्टुव] @[tuṣṭuva] | @deva[तुष्टुव] @[tuṣṭuva] | @deva[तुष्टुम] @[tuṣṭuma] | @deva[तुष्टुवे] @[tuṣṭuve] | @deva[तुष्टुवहे] @[tuṣṭuvahe] | @deva[तुष्टुमहे] @[tuṣṭumahe] |
-| 2 | @deva[तुष्टोथ] @[tuṣṭotha] | @deva[तुष्टुवथुः] @[tuṣṭuvathuḥ] | @deva[तुष्टुव] @[tuṣṭuva] | @deva[तुष्टुषे] @[tuṣṭuṣe] | @deva[तुष्टुवाथे] @[tuṣṭuvāthe] | @deva[तुष्टुध्वे] @[tuṣṭudhve] |
-| 3 | @deva[तुष्टाव] @[tuṣṭāva] | @deva[तुष्टुवतुः] @[tuṣṭuvatuḥ] | @deva[तुष्टुवुः] @[tuṣṭuvuḥ] | @deva[तुष्टुवे] @[tuṣṭuve] | @deva[तुष्टुवाते] @[tuṣṭuvāte] | @deva[तुष्टुविरे] @[tuṣṭuvire] |
+| 1 | @deva[सञ्चस्कार], @deva[सञ्चस्कर] | @deva[सञ्चस्करिव][^3] | @deva[सञ्चस्करिम] | @deva[सञ्चस्करे] | @deva[सञ्चस्करिवहे] | @deva[सञ्चस्करिमहे] |
+| 2 | @deva[सञ्चस्करिथ] | @deva[सञ्चस्करथुः] | @deva[सञ्चस्कर] | @deva[सञ्चस्करिषे] | @deva[सञ्चस्कराथे] | @deva[सञ्चस्करिध्वे][^4] |
+| 3 | @deva[सञ्चस्कार] | @deva[सञ्चस्करतुः] | @deva[सञ्चस्करुः] | @deva[सञ्चस्करे] | @deva[सञ्चस्कराते] | @deva[सञ्चस्करिरे] |
 
-Conjugate similarly @deva[डु] @[ḍu], @deva[षु] @[ṣu], @deva[श्रु] @[śru].
+### @deva[स्तु] P. Ā.
+
+| Person | Parasmaipada Sing. | Dual | Pl. | Ātmanepada Sing. | Dual | Pl. |
+|--------|-------------------|------|-----|------------------|------|-----|
+| 1 | @deva[तुष्टाव], @deva[तुष्टुव] | @deva[तुष्टुव] | @deva[तुष्टुम] | @deva[तुष्टुवे] | @deva[तुष्टुवहे] | @deva[तुष्टुमहे] |
+| 2 | @deva[तुष्टोथ] | @deva[तुष्टुवथुः] | @deva[तुष्टुव] | @deva[तुष्टुषे] | @deva[तुष्टुवाथे] | @deva[तुष्टुध्वे] |
+| 3 | @deva[तुष्टाव] | @deva[तुष्टुवतुः] | @deva[तुष्टुवुः] | @deva[तुष्टुवे] | @deva[तुष्टुवाते] | @deva[तुष्टुविरे] |
+
+Conjugate similarly @deva[डु], @deva[षु], @deva[श्रु].
 
 ---
 
-[^1]: The @deva[ध्] @[dh] of the terminations @deva[धीध्वम्] @[dhīdhvam], @deva[ध्वम्] @[dhvam], and @deva[ध्वे] @[dhve] of 2nd per. pl. of the Benedictive, the Aorist and the Perfect, is changed to @deva[ढ्] @[ḍh] when preceded by any vowel except @deva[अ] @[a] or @deva[आ] @[ā] or by @deva[य्] @[y], @deva[र्] @[r], @deva[ल्] @[l], @deva[व्] @[v] or @deva[ह्] @[h]. When the intermediate @deva[इ] @[i] is added, this change is optional, if the @deva[इ] @[i] be preceded by one of the consonants given above.
+[^1]: The @deva[ध्] of the terminations @deva[धीध्वम्], @deva[ध्वम्], and @deva[ध्वे] of 2nd per. pl. of the Benedictive, the Aorist and the Perfect, is changed to @deva[ढ्] when preceded by any vowel except @deva[अ] or @deva[आ] or by @deva[य्], @deva[र्], @deva[ल्], @deva[व्] or @deva[ह्]. When the intermediate @deva[इ] is added, this change is optional, if the @deva[इ] be preceded by one of the consonants given above.
 
-[^2]: @deva[संपरिम्यां करोति भूषणे । समवाये च । उपाद्विन्तयैकैतत्वाख्याभ्याहारेषु च] @[saṃparinyāṃ karoti bhūṣaṇe | samavāye ca | upādvintayaikaitatvākhyābhyāhāreṣu ca] Pāṇ. VI. 1. 137-139. @deva[स्] @[s] is prefixed to the root @deva[कृ] @[kṛ] after the prepositions @deva[सम्] @[sam] and @deva[परि] @[pari] when it means to ornament or collect together; and after the preposition @deva[उप] @[upa] in the above sense, as well as in the senses of 'imparting an additional quality to a thing without destroying the thing itself (@deva[सतो गुणान्तराधानं प्रतियत्नः] @[sato guṇāntarādhānaṃ pratiyatnaḥ] Kāś. on Pāṇ. II. 3. 53.) or preparing as food, or supplying what is implied.'
+[^2]: @deva[संपरिम्यां करोति भूषणे । समवाये च । उपाद्विन्तयैकैतत्वाख्याभ्याहारेषु च] Pāṇ. VI. 1. 137-139. @deva[स्] is prefixed to the root @deva[कृ] after the prepositions @deva[सम्] and @deva[परि] when it means to ornament or collect together; and after the preposition @deva[उप] in the above sense, as well as in the senses of 'imparting an additional quality to a thing without destroying the thing itself (@deva[सतो गुणान्तराधानं प्रतियत्नः] Kāś. on Pāṇ. II. 3. 53.) or preparing as food, or supplying what is implied.'
 
-[^3]: The @deva[ऋ] @[ṛ] is changed to Guṇa as it is preceded by a conjunct consonant now (Vide § 499. Sid. Kau. on Pāṇ. VII. 1. 10-11.)
+[^3]: The @deva[ऋ] is changed to Guṇa as it is preceded by a conjunct consonant now (Vide § 499. Sid. Kau. on Pāṇ. VII. 1. 10-11.)
 
-[^4]: See footnote 1 above for @deva[ध्वे] @[dhve] changing to @deva[ढ्वे] @[ḍhve].
+[^4]: See footnote 1 above for @deva[ध्वे] changing to @deva[ढ्वे].

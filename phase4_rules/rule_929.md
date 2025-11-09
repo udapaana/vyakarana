@@ -33,26 +33,26 @@ The Perfect denotes an action done before the current day and not witnessed by t
 
 **Examples:**
 
-- @deva[तेनों तायूटकायूस्युयुनों निजयूयूनु रामः] @[tenoṃ tāyūṭakāyūsyuyunoṃ nijayūyūnu rāmaḥ] Rāma killed her whose name was Tāṭakā
+- @deva[तेनों तायूटकायूस्युयुनों निजयूयूनु रामः] Rāma killed her whose name was Tāṭakā
 
-- @deva[युयुयूयूविन्युदट्युच्युयुयुदुच्] @[yuyuyūyūvinyudaṭyucyuyuyuduc] (Bhaṭṭi. XIV. 16)
+- @deva[युयुयूयूविन्युदट्युच्युयुयुदुच्] (Bhaṭṭi. XIV. 16)
 
 **(a) First Person Usage:** In the 1st person the Perfect shows that the speaker was in a distracted state of mind or was unconscious when the event took place, or that he wants to say the story of something he has done:
 
 **Examples:**
 
-- @deva[बहु जुयूयुयुट् पुरुत्तुयुयुस्युयु यूयूयूक्तुछुयुहुयुयु] @[bahu juyūyuyuṭ puruttuyuyusyuyu yūyūyūktuchuyuhuyuyu] (Śiś. XI. 30) being frenzied I prattled much, I am told, before him
+- @deva[बहु जुयूयुयुट् पुरुत्तुयुयुस्युयु यूयूयूक्तुछुयुहुयुयु] (Śiś. XI. 30) being frenzied I prattled much, I am told, before him
 
-- @deva[छुलिङुयूनुयूरुयूस्तोः किंयु] @[chuliṅuyūnuyūruyūstoḥ kiṃyu] didst thou dwell in the country of the Kalingas?
+- @deva[छुलिङुयूनुयूरुयूस्तोः किंयु] didst thou dwell in the country of the Kalingas?
 
-- @deva[यहुयूदु कुलिङुगुयुनुयूयूगायु] @[yahuyūdu kuliṅuguyunuyūyūgāyu] I never went to Kalinga
+- @deva[यहुयूदु कुलिङुगुयुनुयूयूगायु] I never went to Kalinga
 
 With these exceptions the Perfect should not be used in the 1st person.
 
 ---
 
-**Pāṇini Reference:** @deva[परोक्षे लिट्] @[parokṣe liṭ] (Pāṇ. III. 2. 115)
+**Pāṇini Reference:** @deva[परोक्षे लिट्] (Pāṇ. III. 2. 115)
 
-**Commentary:** @deva[इन्युयुयुयूयुनै चिन्तुयुविवुनैयुयूदेन्युयु यरोयुयुयुदु] @[inyuyuyuyūyunai cintuyuvivunaiyuyūdenyuyu yaroyuyuyudu] (Sid. Kau.)
+**Commentary:** @deva[इन्युयुयुयूयुनै चिन्तुयुविवुनैयुयूदेन्युयु यरोयुयुयुदु] (Sid. Kau.)
 
-@deva[अस्युनुयूयुयूयूहुयुनै लिट् वुकुयूयुः] @[asyunuyūyūyūhuyunai liṭ vukuyūyuḥ] (Vārt.)
+@deva[अस्युनुयूयुयूयूहुयुनै लिट् वुकुयूयुः] (Vārt.)

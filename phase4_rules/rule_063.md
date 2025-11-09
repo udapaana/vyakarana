@@ -31,20 +31,20 @@ image: /images/030.png
 
 ## § 63. Declension of Masculine Nouns ending in आ
 
-@deva[गोपा] @[gopā] mas. a cow-herd.
+@deva[गोपा] mas. a cow-herd.
 
-(a) Mas. nouns ending in @deva[आ] @[ā] take the general terminations. The final @deva[आ] @[ā] is dropped before a vowel termination beginning with the Acc. plu.
+(a) Mas. nouns ending in @deva[आ] take the general terminations. The final @deva[आ] is dropped before a vowel termination beginning with the Acc. plu.
 
 | Case | Singular | Dual | Plural |
 |------|----------|------|--------|
-| N. V. | @deva[गोपाः] @[gopāḥ] | @deva[गोपौ] @[gopau] | @deva[गोपाः] @[gopāḥ] |
-| A. | @deva[गोपाम्] @[gopām] | " | @deva[गोपान्] @[gopān] |
-| I. | @deva[गोपा] @[gopā] | @deva[गोपाभ्याम्] @[gopābhyām] | @deva[गोपाभिः] @[gopābhiḥ] |
-| D. | @deva[गोपे] @[gope] | " | @deva[गोपेभ्यः] @[gopebhyaḥ] |
-| Ab. | @deva[गोपात्] @[gopāt] | " | " |
-| G. | " | @deva[गोपयोः] @[gopayoḥ] | @deva[गोपानाम्] @[gopānām] |
-| L. | @deva[गोपि] @[gopi] | " | @deva[गोपासु] @[gopāsu] |
+| N. V. | @deva[गोपाः] | @deva[गोपौ] | @deva[गोपाः] |
+| A. | @deva[गोपाम्] | " | @deva[गोपान्] |
+| I. | @deva[गोपा] | @deva[गोपाभ्याम्] | @deva[गोपाभिः] |
+| D. | @deva[गोपे] | " | @deva[गोपेभ्यः] |
+| Ab. | @deva[गोपात्] | " | " |
+| G. | " | @deva[गोपयोः] | @deva[गोपानाम्] |
+| L. | @deva[गोपि] | " | @deva[गोपासु] |
 
 ---
 
-[^1]: The @deva[न्] @[n] of @deva[इन्] @[in] is changed to @deva[ण] @[ṇ] by § 41. Ins. sing of @deva[जन्] @[jan] is @deva[जनेन] @[janena]
+[^1]: The @deva[न्] of @deva[इन्] is changed to @deva[ण] by § 41. Ins. sing of @deva[जन्] is @deva[जनेन]

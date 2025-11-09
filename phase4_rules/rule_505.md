@@ -50,32 +50,32 @@ image: /images/302.png
 
 ## § 505. Roots Admitting इ in the Perfect
 
-Roots that admit @deva[इ] @[i]—
+Roots that admit @deva[इ]—
 
 ### (1) Set roots ending in a vowel
 
-**@deva[वृ] @[vṛ] 9. Ā. 'to choose':**
+**@deva[वृ] 9. Ā. 'to choose':**
 
 | Person | Parasmaipada Sing. | Dual | Pl. | Ātmanepada Sing. | Dual | Pl. |
 |--------|-------------------|------|-----|------------------|------|-----|
-| 1 | @deva[ववार-ववर] @[vavāra-vavara] | @deva[ववरिव] @[vavariva] | @deva[ववरिम] @[vavarima] | @deva[ववरे] @[vavare] | @deva[ववरिवहे] @[vavarivahe] | @deva[ववरिमहे] @[vavarimahe] |
-| 2 | @deva[ववरिथ] @[vavaritha] | @deva[ववरथुः] @[vavarathuḥ] | @deva[ववर] @[vavara] | @deva[ववरिषे] @[vavariṣe] | @deva[ववराथे] @[vavarāthe] | @deva[ववरिध्वे-ढ्वे] @[vavarìdhve-ḍhve] |
-| 3 | @deva[ववार] @[vavāra] | @deva[ववरतुः] @[vavaratuḥ] | @deva[ववरुः] @[vavaruḥ] | @deva[ववरे] @[vavare] | @deva[ववराते] @[vavarāte] | @deva[ववरिरे] @[vavarire] |
+| 1 | @deva[ववार-ववर] | @deva[ववरिव] | @deva[ववरिम] | @deva[ववरे] | @deva[ववरिवहे] | @deva[ववरिमहे] |
+| 2 | @deva[ववरिथ] | @deva[ववरथुः] | @deva[ववर] | @deva[ववरिषे] | @deva[ववराथे] | @deva[ववरिध्वे-ढ्वे] |
+| 3 | @deva[ववार] | @deva[ववरतुः] | @deva[ववरुः] | @deva[ववरे] | @deva[ववराते] | @deva[ववरिरे] |
 
-@deva[स्तृ] @[stṛ], @deva[पु] @[pu], @deva[यु] @[yu] etc. are similarly conjugated; @deva[तस्तार-तस्तर] @[tastāra-tastara], @deva[तस्तरिव] @[tastariva] etc.
+@deva[स्तृ], @deva[पु], @deva[यु] etc. are similarly conjugated; @deva[तस्तार-तस्तर], @deva[तस्तरिव] etc.
 
-**@deva[शृ] @[śṛ] 9. P. 'to tear,' etc.** and **@deva[छुर्] @[chur] 2. P. 'to sharpen':**
+**@deva[शृ] 9. P. 'to tear,' etc.** and **@deva[छुर्] 2. P. 'to sharpen':**
 
-Forms include @deva[शशार] @[śaśāra], @deva[शशरिव] @[śaśariva] / @deva[शश्रिव] @[śaśriva], @deva[शशरिम] @[śaśarima] / @deva[शश्रिम] @[śaśrima], etc.
+Forms include @deva[शशार], @deva[शशरिव] / @deva[शश्रिव], @deva[शशरिम] / @deva[शश्रिम], etc.
 
-@deva[चुक्षाव] @[cukṣāva], @deva[चुक्षविव] @[cukṣaviva], @deva[चुक्षविम] @[cukṣavima], etc.
+@deva[चुक्षाव], @deva[चुक्षविव], @deva[चुक्षविम], etc.
 
-@deva[स्नु] @[snu] is similarly conjugated.
+@deva[स्नु] is similarly conjugated.
 
-Conjugate similarly @deva[दृ] @[dṛ] and @deva[धृ] @[dhṛ].
+Conjugate similarly @deva[दृ] and @deva[धृ].
 
-**@deva[रु] @[ru] 2. P. Ā. 'to warble, to go,' etc.:**
+**@deva[रु] 2. P. Ā. 'to warble, to go,' etc.:**
 
-Forms include @deva[रुराव] @[rurāva], @deva[रुरुविव] @[ruruviva], @deva[रुरुविम] @[ruruvima], etc.
+Forms include @deva[रुराव], @deva[रुरुविव], @deva[रुरुविम], etc.
 
-Conjugate similarly @deva[डु] @[ḍu] P., @deva[ड्रु] @[ḍru] P.
+Conjugate similarly @deva[डु] P., @deva[ड्रु] P.

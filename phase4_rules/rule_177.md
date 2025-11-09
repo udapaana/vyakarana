@@ -51,29 +51,29 @@ The following is an alphabetical list of the irregular comparatives and superlat
 
 | Positive | Translation | Comparative | Superlative |
 |----------|-------------|-------------|-------------|
-| @deva[अन्तिक] @[antika] | near | @deva[नेदियस्] @[nedīyas] | @deva[नेदिष्ठ] @[nediṣṭha] |
-| @deva[अल्प] @[alpa] | little | @deva[अल्पीयस्] @[alpīyas] | @deva[अल्पिष्ठ] @[alpiṣṭha] |
-| | | @deva[कनीयस्] @[kanīyas] | @deva[कनिष्ठ] @[kaniṣṭha] |
-| @deva[उरु] @[uru] | wide | @deva[वरीयस्] @[varīyas] | @deva[वरिष्ठ] @[variṣṭha] |
-| @deva[क्षिप्र] @[kṣipra] | quick | @deva[क्षेपीयस्] @[kṣepīyas] | @deva[क्षेपिष्ठ] @[kṣepiṣṭha] |
-| @deva[क्षुद्र] @[kṣudra] | mean, small | @deva[क्षोदीयस्] @[kṣodīyas] | @deva[क्षोदिष्ठ] @[kṣodiṣṭha] |
-| @deva[गुरु] @[guru] | heavy | @deva[गरीयस्] @[garīyas] | @deva[गरिष्ठ] @[gariṣṭha] |
-| @deva[त्वरा] @[tvarā] | restless, anxious | @deva[त्वरीयस्] @[tvarīyas] | @deva[त्वरिष्ठ] @[tvariṣṭha] |
-| @deva[दीर्घ] @[dīrgha] | long | @deva[द्राघीयस्] @[drāghīyas] | @deva[द्राघिष्ठ] @[drāghiṣṭha] |
-| @deva[दूर] @[dūra] | distant | @deva[दवीयस्] @[davīyas] | @deva[दविष्ठ] @[daviṣṭha] |
-| @deva[प्रशस्य] @[praśasya] | praiseworthy | @deva[श्रेयस्] @[śreyas] or @deva[ज्यायस्] @[jyāyas] | @deva[श्रेष्ठ] @[śreṣṭha] or @deva[ज्येष्ठ] @[jyeṣṭha] |
-| @deva[प्रिय] @[priya] | dear | @deva[प्रेयस्] @[preyas] | @deva[प्रेष्ठ] @[preṣṭha] |
-| @deva[बहु] @[bahu] | much | @deva[भूयस्] @[bhūyas] | @deva[भूयिष्ठ] @[bhūyiṣṭha] |
-| @deva[बहुल] @[bahula] | much | @deva[बहीयस्] @[bahīyas] | @deva[बंहिष्ठ] @[baṃhiṣṭha] |
-| @deva[बाढ] @[bāḍha] | firm, well | @deva[साधीयस्] @[sādhīyas] | @deva[साधिष्ठ] @[sādhiṣṭha] |
-| @deva[युवन्] @[yuvan] | young | @deva[यवीयस्] @[yavīyas], @deva[कनीयस्] @[kanīyas] | @deva[यविष्ठ] @[yaviṣṭha], @deva[कनिष्ठ] @[kaniṣṭha] |
-| @deva[विशल] @[viśala] | much | @deva[ज्यायस्] @[jyāyas] | @deva[ज्येष्ठ] @[jyeṣṭha] |
-| @deva[वृद्ध] @[vṛddha] | old | @deva[वर्षीयस्] @[varṣīyas], @deva[ज्यायस्] @[jyāyas] | @deva[वर्षिष्ठ] @[varṣiṣṭha], @deva[ज्येष्ठ] @[jyeṣṭha] |
-| @deva[सुन्दरक] @[sundaraka] | great, lovely | @deva[सुन्दीयस्] @[sundīyas] | @deva[सुन्दिष्ठ] @[sundiṣṭha] |
-| @deva[स्थिर] @[sthira] | steady | @deva[स्थेयस्] @[stheyas] | @deva[स्थेष्ठ] @[stheṣṭha] |
-| @deva[स्थूल] @[sthūla] | big, large | @deva[स्थवीयस्] @[sthavīyas] | @deva[स्थविष्ठ] @[sthaviṣṭha] |
-| @deva[स्फिर] @[sphira] | much | @deva[स्फेयस्] @[spheyas] | @deva[स्फेष्ठ] @[spheṣṭha] |
-| @deva[ह्रस्व] @[hrasva] | short | @deva[ह्रसीयस्] @[hrasīyas] | @deva[ह्रसिष्ठ] @[hrasiṣṭha] |
+| @deva[अन्तिक] | near | @deva[नेदियस्] | @deva[नेदिष्ठ] |
+| @deva[अल्प] | little | @deva[अल्पीयस्] | @deva[अल्पिष्ठ] |
+| | | @deva[कनीयस्] | @deva[कनिष्ठ] |
+| @deva[उरु] | wide | @deva[वरीयस्] | @deva[वरिष्ठ] |
+| @deva[क्षिप्र] | quick | @deva[क्षेपीयस्] | @deva[क्षेपिष्ठ] |
+| @deva[क्षुद्र] | mean, small | @deva[क्षोदीयस्] | @deva[क्षोदिष्ठ] |
+| @deva[गुरु] | heavy | @deva[गरीयस्] | @deva[गरिष्ठ] |
+| @deva[त्वरा] | restless, anxious | @deva[त्वरीयस्] | @deva[त्वरिष्ठ] |
+| @deva[दीर्घ] | long | @deva[द्राघीयस्] | @deva[द्राघिष्ठ] |
+| @deva[दूर] | distant | @deva[दवीयस्] | @deva[दविष्ठ] |
+| @deva[प्रशस्य] | praiseworthy | @deva[श्रेयस्] or @deva[ज्यायस्] | @deva[श्रेष्ठ] or @deva[ज्येष्ठ] |
+| @deva[प्रिय] | dear | @deva[प्रेयस्] | @deva[प्रेष्ठ] |
+| @deva[बहु] | much | @deva[भूयस्] | @deva[भूयिष्ठ] |
+| @deva[बहुल] | much | @deva[बहीयस्] | @deva[बंहिष्ठ] |
+| @deva[बाढ] | firm, well | @deva[साधीयस्] | @deva[साधिष्ठ] |
+| @deva[युवन्] | young | @deva[यवीयस्], @deva[कनीयस्] | @deva[यविष्ठ], @deva[कनिष्ठ] |
+| @deva[विशल] | much | @deva[ज्यायस्] | @deva[ज्येष्ठ] |
+| @deva[वृद्ध] | old | @deva[वर्षीयस्], @deva[ज्यायस्] | @deva[वर्षिष्ठ], @deva[ज्येष्ठ] |
+| @deva[सुन्दरक] | great, lovely | @deva[सुन्दीयस्] | @deva[सुन्दिष्ठ] |
+| @deva[स्थिर] | steady | @deva[स्थेयस्] | @deva[स्थेष्ठ] |
+| @deva[स्थूल] | big, large | @deva[स्थवीयस्] | @deva[स्थविष्ठ] |
+| @deva[स्फिर] | much | @deva[स्फेयस्] | @deva[स्फेष्ठ] |
+| @deva[ह्रस्व] | short | @deva[ह्रसीयस्] | @deva[ह्रसिष्ठ] |
 
 ---
 

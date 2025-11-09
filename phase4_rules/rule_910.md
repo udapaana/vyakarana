@@ -34,4 +34,4 @@ image: /images/499.png
 
 ## § 910. Gerunds Used Prepositionally
 
-A few gerunds are used prepositionally in Sanskrit; @deva[ऋते] @[ṛte], @deva[वर्जयत्वा] @[varjayatvā] except, @deva[आद्य] @[ādya] with, @deva[उद्दिश्य] @[uddiśya], @deva[अपिहाय] @[apihāya], @deva[अवधाय] @[avadhāya] with reference to, &c.
+A few gerunds are used prepositionally in Sanskrit; @deva[ऋते], @deva[वर्जयत्वा] except, @deva[आद्य] with, @deva[उद्दिश्य], @deva[अपिहाय], @deva[अवधाय] with reference to, &c.

@@ -35,26 +35,26 @@ image: /images/103.png
 
 The following compounds are always what they are laid down to be (though they do not conform to the proper rules):
 
-### (a) @deva[समाहार] @[Samāhāra] Dvandwas
+### (a) @deva[समाहार] Dvandwas
 
-- @deva[ग्रावभिरूपाधानम्] @[grāvabhirūpādhānam] mortars and grinding stones
-- @deva[खेत्रपूपाधानम्] @[kṣetrūpādhānam] threshing-floors and ovens
-- @deva[पुत्रपौत्रम्] @[putraputram] sons and grandsons
-- @deva[स्त्रीकुमारम्] @[strīkumāram] women and boys
-- @deva[उष्ट्रखरम्] @[uṣṭrakharam] camels and asses
-- @deva[उष्ट्रशाठम्] @[uṣṭraśāṭham] camels and rabbits
-- @deva[दर्भमुञ्जम्] @[darbhamuñjam] holy grass and reeds
-- @deva[दूर्वोदुम्बरम्] @[dūrvodumbaram] grass and soft grass or shrubs
-- @deva[दासीदासम्] @[dāsīdāsam] female and male slaves
+- @deva[ग्रावभिरूपाधानम्] mortars and grinding stones
+- @deva[खेत्रपूपाधानम्] threshing-floors and ovens
+- @deva[पुत्रपौत्रम्] sons and grandsons
+- @deva[स्त्रीकुमारम्] women and boys
+- @deva[उष्ट्रखरम्] camels and asses
+- @deva[उष्ट्रशाठम्] camels and rabbits
+- @deva[दर्भमुञ्जम्] holy grass and reeds
+- @deva[दूर्वोदुम्बरम्] grass and soft grass or shrubs
+- @deva[दासीदासम्] female and male slaves
 
-### (b) @deva[इतरेतर] @[Itaretara] Dvandwas
+### (b) @deva[इतरेतर] Dvandwas
 
-- @deva[दधिमधुनी] @[dadhimadhunī] curds and milk
-- @deva[इन्द्राग्निघी] @[indrāghnī] holy sticks and grass
-- @deva[माधुघृती] @[mādhughṛtī] honey and ghee
-- @deva[अश्वयवनतपसौ] @[aśvayavanatapasau]
-- @deva[आयवसानी] @[āyavasānī]
-- @deva[ऋक्सामनी] @[ṛksāmanī] (@deva[ऋक् + सामन्] @[ṛk + sāman]) Rik and Sāman verses
-- @deva[वाङ्मनसी] @[vāṅmanasī] (@deva[वाक् + मनस्] @[vāk + manas]) speech and mind
+- @deva[दधिमधुनी] curds and milk
+- @deva[इन्द्राग्निघी] holy sticks and grass
+- @deva[माधुघृती] honey and ghee
+- @deva[अश्वयवनतपसौ]
+- @deva[आयवसानी]
+- @deva[ऋक्सामनी] (@deva[ऋक् + सामन्]) Rik and Sāman verses
+- @deva[वाङ्मनसी] (@deva[वाक् + मनस्]) speech and mind
 
-The @deva[न्] @[n] of @deva[सामन्] @[sāman] dropped and @deva[अ] @[a] added to @deva[मनस्] @[manas] irregularly by Pān. V. 4. 77.
+The @deva[न्] of @deva[सामन्] dropped and @deva[अ] added to @deva[मनस्] irregularly by Pān. V. 4. 77.

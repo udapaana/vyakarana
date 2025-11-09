@@ -33,30 +33,30 @@ image: /images/512.png
 
 The Potential Mood expresses the sense of:
 
-- @deva[विधि] @[vidhi] (command, directing a subordinate, etc.)
-- @deva[निमन्त्रण] @[nimantraṇa] (pressing invitation)
-- @deva[आमन्त्र] @[āmantra] (giving permission)
-- @deva[अनादेश] @[anādeśa] (telling one to attend to an honorary office or duty)
-- @deva[सम्प्रश्न] @[sampraśna] (courteously asking a person a question)
+- @deva[विधि] (command, directing a subordinate, etc.)
+- @deva[निमन्त्रण] (pressing invitation)
+- @deva[आमन्त्र] (giving permission)
+- @deva[अनादेश] (telling one to attend to an honorary office or duty)
+- @deva[सम्प्रश्न] (courteously asking a person a question)
 - Prayer
 
 **Examples:**
 
-- @deva[यज्ञःयुः] @[yajñaḥyuḥ] go on should perform a sacrifice
-- @deva[त्वं ग्रामं गच्छेतः] @[tvaṃ grāmaṃ gacchetaḥ] go to the village
-- @deva[इह भवान् भुञ्जीत] @[iha bhavān bhuñjīta] your honour should take food here
-- @deva[इहास्व भवान्] @[ihāsva bhavān] you may sit here
-- @deva[पुत्रामादेयामुरु] @[putrāmādeyāmuru] you may teach my son (as an honorary duty)
-- @deva[किं मे मैदार्यापुत्रय न भक्षं] @[kiṃ me maidāryāputraya na bhakṣaṃ] I see
-- @deva[अह] @[aha] oh! shall I learn the Vedas or logic?
-- @deva[को स्वात् करोमि] @[ko svāt karomi] good Sir, can I get food here? i.e. will you kindly give me food?
+- @deva[यज्ञःयुः] go on should perform a sacrifice
+- @deva[त्वं ग्रामं गच्छेतः] go to the village
+- @deva[इह भवान् भुञ्जीत] your honour should take food here
+- @deva[इहास्व भवान्] you may sit here
+- @deva[पुत्रामादेयामुरु] you may teach my son (as an honorary duty)
+- @deva[किं मे मैदार्यापुत्रय न भक्षं] I see
+- @deva[अह] oh! shall I learn the Vedas or logic?
+- @deva[को स्वात् करोमि] good Sir, can I get food here? i.e. will you kindly give me food?
 
 (All these senses are optionally expressed by the Imperative also.)
 
-**(a)** In the case of the first two senses viz. @deva[विधि] @[vidhi] and @deva[निमन्त्रण] @[nimantrana] and in that of "proper time", the potential participle may also be used for the Potential:
+**(a)** In the case of the first two senses viz. @deva[विधि] and @deva[निमन्त्रण] and in that of "proper time", the potential participle may also be used for the Potential:
 
-@deva[यस्यात् भक्तव्यं] @[yasyāt bhaktavyaṃ], etc.
+@deva[यस्यात् भक्तव्यं], etc.
 
 ---
 
-**Pāṇini Reference:** @deva[विविधिनिमन्त्रणामन्त्रणाधेशवप्रार्थनेषु लिङ्] @[vividhinimantraṇā­mantraṇādeśavarprārt­haneṣu liṅ] (Pāṇ. III. 3. 161)
+**Pāṇini Reference:** @deva[विविधिनिमन्त्रणामन्त्रणाधेशवप्रार्थनेषु लिङ्] (Pāṇ. III. 3. 161)

@@ -30,4 +30,4 @@ image: /images/210.png
 
 ## § 365. Definition of Prepositions (@deva[उपसर्ग])
 
-A preposition, styled '@deva[उपसर्ग] @[Upasarga]' or '@deva[गति] @[Gāti]' in Sanskrit is an indeclinable word, having an independent meaning and prefixed to verbs and also to their derivatives. These prepositions modify, intensify and sometimes totally alter the senses of roots.
+A preposition, styled '@deva[उपसर्ग]' or '@deva[गति]' in Sanskrit is an indeclinable word, having an independent meaning and prefixed to verbs and also to their derivatives. These prepositions modify, intensify and sometimes totally alter the senses of roots.

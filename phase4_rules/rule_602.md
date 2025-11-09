@@ -35,4 +35,4 @@ image: /images/354.png
 
 The Causal Base of a root is formed like that of a root of the Tenth class. In the case of roots of the Tenth class the causal form is identical with the primitive. The Causal form takes either pada.
 
-Thus from @deva[बुध्] @[budh] comes the causal base @deva[बोधय] @[bodhaya], @deva[बोधयति] @[bodhayati] 'he causes to know'; @deva[भ्रम्] @[bhram]—@deva[भ्रामयति] @[bhrāmayati] 'he shakes or agitates,' @deva[गण्] @[gaṇ]—@deva[गणयति] @[gaṇayati] 'he causes to count,' @deva[नी] @[nī]—@deva[नाययति] @[nāyayati] 'he makes another lead or to carry'; @deva[कृ] @[kṛ] 'to do' or 'to scatter'—@deva[कारयति] @[kārayati] 'he causes to do or scatter' @deva[कु] @[ku]—@deva[कावयति] @[kāvayati], &c.
+Thus from @deva[बुध्] comes the causal base @deva[बोधय], @deva[बोधयति] 'he causes to know'; @deva[भ्रम्]—@deva[भ्रामयति] 'he shakes or agitates,' @deva[गण्]—@deva[गणयति] 'he causes to count,' @deva[नी]—@deva[नाययति] 'he makes another lead or to carry'; @deva[कृ] 'to do' or 'to scatter'—@deva[कारयति] 'he causes to do or scatter' @deva[कु]—@deva[कावयति], &c.

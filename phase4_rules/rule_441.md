@@ -29,5 +29,5 @@ image: /images/271.png
 
 [Content extracted from pages 285-286 - to be enhanced with full OCR text and proper tagging]
 
-Key terms: @deva[हन्] @[...], @deva[हन्ति] @[...], @deva[घ्नन्ति] @[...]
+Key terms: @deva[हन्], @deva[हन्ति], @deva[घ्नन्ति]
 

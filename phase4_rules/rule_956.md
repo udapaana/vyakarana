@@ -30,14 +30,14 @@ image: /images/514.png
 
 ## § 956. Potential for Expectation
 
-When the sense of "I expect" is implied, the Potential or the 2nd Future may be used provided the word @deva[काच्] @[kāc] is not used:
+When the sense of "I expect" is implied, the Potential or the 2nd Future may be used provided the word @deva[काच्] is not used:
 
 **Examples:**
 
-- @deva[संभावयामि भवान् भुञ्जीत] @[saṃbhāvayāmi bhavān bhuñjīta] or @deva[भोक्ष्यते वा भवान्] @[bhokṣyate vā bhavān] I expect you will eat
+- @deva[संभावयामि भवान् भुञ्जीत] or @deva[भोक्ष्यते वा भवान्] I expect you will eat
 
-But: @deva[संभावयामि कच् प्रोत्पत्स्यत] @[saṃbhāvayāmi kac protpatsyata] (Sid. Kau.)
+But: @deva[संभावयामि कच् प्रोत्पत्स्यत] (Sid. Kau.)
 
 ---
 
-**Pāṇini Reference:** @deva[विभाषा चातः संभावच्युतेरादीयति] @[vibhāṣā cātaḥ saṃbhāvacyuterādīyati] (Pāṇ. III. 3. 155)
+**Pāṇini Reference:** @deva[विभाषा चातः संभावच्युतेरादीयति] (Pāṇ. III. 3. 155)

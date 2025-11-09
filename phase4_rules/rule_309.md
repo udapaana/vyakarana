@@ -30,8 +30,8 @@ image: /images/176.png
 
 ## § 309. No Initial Change from Technical Designation
 
-@deva[पूर्वपदात् सञ्ज्ञायाम् अग्रहः] @[pūrvapadāt sañjñāyām agrahaḥ]
+@deva[पूर्वपदात् सञ्ज्ञायाम् अग्रहः]
 
 From the first member, when it has a technical designation, there is no initial change.
 
-e.g. @deva[प्रादुर्भाव] @[prādurbhāva]: manifestation - here @deva[प्र] @[pra] retains its form as a recognized upasarga.
+e.g. @deva[प्रादुर्भाव]: manifestation - here @deva[प्र] retains its form as a recognized upasarga.

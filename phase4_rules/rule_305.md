@@ -28,10 +28,10 @@ image: /images/175.png
 
 ## § 305. Doubling in Avyayībhāva
 
-@deva[अव्ययीभावे च] @[avyayībhāve ca]
+@deva[अव्ययीभावे च]
 
 And this doubling occurs in Avyayībhāva compounds.
 
-e.g. @deva[यथायथा] @[yathāyathā]: according to each
+e.g. @deva[यथायथा]: according to each
 
-e.g. @deva[सर्वसर्व] @[sarvasarva]: every single one
+e.g. @deva[सर्वसर्व]: every single one

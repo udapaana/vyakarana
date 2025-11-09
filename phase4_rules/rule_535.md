@@ -23,4 +23,4 @@ image: TBD
 
 ## § 535. गा Substituted for स् in Aorist
 
-The root @deva[गा] @[gā] is substituted for @deva[स्] @[s] in the Aorist; @deva[अगाम्] @[agām], @deva[अगाव्] @[agāv], etc.
+The root @deva[गा] is substituted for @deva[स्] in the Aorist; @deva[अगाम्], @deva[अगाव्], etc.

@@ -42,17 +42,17 @@ The organs of pronunciation are the five parts situated in the mouth, viz., the 
 
 | Class | Unaspirate | Aspirate | Unaspirate | Aspirate | Nasal | Semivowel | Sibilant | Simple vowels | Diphthongs |
 |-------|------------|----------|------------|----------|-------|-----------|----------|---------------|------------|
-| **Gutturals*[^1] | @deva[क] @[k] | @deva[ख] @[kh] | @deva[ग] @[g] | @deva[घ] @[gh] | @deva[ङ] @[ṅ] | @deva[ॠ][^1] @[ṝ] | @deva[ह] @[h] | @deva[अ, आ, ॠ] @[a, ā, ṝ] | @deva[ऐ] @[ai] |
-| **Palatals*[^1] | @deva[च] @[c] | @deva[छ] @[ch] | @deva[ज] @[j] | @deva[झ] @[jh] | @deva[ञ] @[ñ] | @deva[य] @[y] | @deva[श] @[ś] | @deva[इ, ई] @[i, ī] | @deva[ऐ] @[ai] |
-| **Linguals*[^1] | @deva[ट] @[ṭ] | @deva[ठ] @[ṭh] | @deva[ड] @[ḍ] | @deva[ढ] @[ḍh] | @deva[ण] @[ṇ] | @deva[र] @[r] | @deva[ष] @[ṣ] | | |
-| **Dentals*[^1] | @deva[त] @[t] | @deva[थ] @[th] | @deva[द] @[d] | @deva[ध] @[dh] | @deva[न] @[n] | @deva[ल] @[l] | @deva[स] @[s] | | |
-| **Labials*[^1] | @deva[प] @[p] | @deva[फ] @[ph] | @deva[ब] @[b] | @deva[भ] @[bh] | @deva[म] @[m] | @deva[व] @[v] | | @deva[उ, ऊ] @[u, ū] | @deva[औ] @[au] |
+| **Gutturals*[^1] | @deva[क] | @deva[ख] | @deva[ग] | @deva[घ] | @deva[ङ] | @deva[ॠ][^1] @[ṝ] | @deva[ह] | @deva[अ, आ, ॠ] | @deva[ऐ] |
+| **Palatals*[^1] | @deva[च] | @deva[छ] | @deva[ज] | @deva[झ] | @deva[ञ] | @deva[य] | @deva[श] | @deva[इ, ई] | @deva[ऐ] |
+| **Linguals*[^1] | @deva[ट] | @deva[ठ] | @deva[ड] | @deva[ढ] | @deva[ण] | @deva[र] | @deva[ष] | | |
+| **Dentals*[^1] | @deva[त] | @deva[थ] | @deva[द] | @deva[ध] | @deva[न] | @deva[ल] | @deva[स] | | |
+| **Labials*[^1] | @deva[प] | @deva[फ] | @deva[ब] | @deva[भ] | @deva[म] | @deva[व] | | @deva[उ, ऊ] | @deva[औ] |
 
-\[^1] @deva[ॠ] @[ṝ] though not a semivowel is put here as it is a guttural.
+\[^1] @deva[ॠ] though not a semivowel is put here as it is a guttural.
 
 
 
 ---
 
 [^1]: Note:** In the following table the nether stroke (see § 10 below) is omitted. It should be supposed to be present.
-[^2]: Note:** The linguals are called cerebrals in some European Grammars. @deva[ऋ] @[ṛ] and @deva[ऌ] @[ḷ] are both guttural and palatal; @deva[ओ] @[o] and @deva[औ] @[au] are guttural and labial; @deva[व] @[v] is dental and labial. The nose is the organ of pronunciation of the @deva[अनुस्वार] @[anusvāra], while the root of the tongue is that of the @deva[जिह्वामूलीय] @[jihvāmūlīya].
+[^2]: Note:** The linguals are called cerebrals in some European Grammars. @deva[ऋ] and @deva[ऌ] are both guttural and palatal; @deva[ओ] and @deva[औ] are guttural and labial; @deva[व] is dental and labial. The nose is the organ of pronunciation of the @deva[अनुस्वार], while the root of the tongue is that of the @deva[जिह्वामूलीय].

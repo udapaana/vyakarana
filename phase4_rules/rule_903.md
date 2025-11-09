@@ -30,4 +30,4 @@ image: /images/497.png
 
 ## § 903. Future Participle
 
-The future participle denotes that a person or thing is doing, or is about to do the action of or undergo the condition, expressed by the root; @deva[करिष्यन्] @[kariṣyan] going or about to do; @deva[करिष्यमाण] @[kariṣyamāṇa] about to do or what is about to be done.
+The future participle denotes that a person or thing is doing, or is about to do the action of or undergo the condition, expressed by the root; @deva[करिष्यन्] going or about to do; @deva[करिष्यमाण] about to do or what is about to be done.

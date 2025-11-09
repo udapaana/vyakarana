@@ -34,6 +34,6 @@ image: /images/254.png
 
 ## § 420. Optional उन् Termination for आ-Ending Roots
 
-In the case of roots ending in @deva[आ] @[ā], the terminations of the third person plural of the Imperfect is optionally @deva[उन्] @[un].
+In the case of roots ending in @deva[आ], the terminations of the third person plural of the Imperfect is optionally @deva[उन्].
 
-e.g. @deva[अयान्] @[ayān], @deva[अयुः] @[ayuḥ]
+e.g. @deva[अयान्], @deva[अयुः]

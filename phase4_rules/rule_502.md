@@ -39,8 +39,8 @@ image: /images/308.png
 
 ## § 502. Samprasāraṇa - Semi-vowel to Vowel Change
 
-The change of a semi-vowel to its corresponding vowel is called @deva[सम्प्रसारण] @[Samprasāraṇa]. Samprasāraṇa generally takes place before weak terminations in the case of the following roots:
+The change of a semi-vowel to its corresponding vowel is called @deva[सम्प्रसारण]. Samprasāraṇa generally takes place before weak terminations in the case of the following roots:
 
-@deva[वद्] @[vad], @deva[वस्] @[vas], @deva[यज्] @[yaj], @deva[वच्] @[vac], @deva[स्वप्] @[svap], @deva[वह्] @[vah], @deva[यज्] @[yaj], @deva[वह्] @[vah], @deva[दै] @[dai], @deva[व्यध्] @[vyadh], @deva[ग्रध्] @[gradh], @deva[व्येय्] @[vyey], @deva[व्यङ्] @[vyaṅ], @deva[वप्] @[vap], @deva[वञ्च्] @[vañc], @deva[व्यन्च्] @[vyanc], @deva[वञ्ज्] @[vañj], @deva[ग्रह्] @[grah], @deva[सह्] @[sah] and @deva[व्यप्] @[vyap].
+@deva[वद्], @deva[वस्], @deva[यज्], @deva[वच्], @deva[स्वप्], @deva[वह्], @deva[यज्], @deva[वह्], @deva[दै], @deva[व्यध्], @deva[ग्रध्], @deva[व्येय्], @deva[व्यङ्], @deva[वप्], @deva[वञ्च्], @deva[व्यन्च्], @deva[वञ्ज्], @deva[ग्रह्], @deva[सह्] and @deva[व्यप्].
 
-**Exception:** In the Perfect the roots @deva[पद्ध्यू] @[paddhyū], @deva[द्रक्षु] @[drakṣu] and @deva[मध्य] @[madhya] form an exception.
+**Exception:** In the Perfect the roots @deva[पद्ध्यू], @deva[द्रक्षु] and @deva[मध्य] form an exception.

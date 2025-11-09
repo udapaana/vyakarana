@@ -32,4 +32,4 @@ The Simple Future is sometimes used as a courteous way of command:
 
 **Example:**
 
-@deva[पारायापरु स तिष्ठासि] @[pārāyāparu sa tiṣṭhāsi] (Vik. V.) thus you will go (i.e. please then go) to the lake, etc.
+@deva[पारायापरु स तिष्ठासि] (Vik. V.) thus you will go (i.e. please then go) to the lake, etc.

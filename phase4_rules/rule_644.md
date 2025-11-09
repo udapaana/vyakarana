@@ -30,4 +30,4 @@ image: /images/385.png
 
 ## § 644. Restriction on क्यच् Affix
 
-The affix @deva[य] @[ya] is not added to nouns ending in @deva[इ] @[i] and to indeclinables; @deva[कामिच्छति] @[kāmicchati], @deva[स्वरिच्छति] @[svaricchati] (he longs for heaven).
+The affix @deva[य] is not added to nouns ending in @deva[इ] and to indeclinables; @deva[कामिच्छति], @deva[स्वरिच्छति] (he longs for heaven).

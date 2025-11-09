@@ -23,4 +23,4 @@ image: TBD
 
 ## § 516. इ Lengthens Reduplicative इ Before Weak Terminations
 
-The root @deva[इ] @[i] 'to go' lengthens its reduplicative @deva[इ] @[i] before weak terminations. For the forms see p. 311.
+The root @deva[इ] 'to go' lengthens its reduplicative @deva[इ] before weak terminations. For the forms see p. 311.

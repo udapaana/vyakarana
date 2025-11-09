@@ -34,4 +34,4 @@ image: /images/379.png
 
 ## § 631. Insertion of री in Frequentative with Penultimate ऋ
 
-When a root contains a penultimate @deva[ऋ] @[ṛ] (@deva[ऋ] @[ṛ]) original or brought in by samprasāraṇa the syllable @deva[री] @[rī] is inserted between the @deva[अ] @[a] of the reduplicative syllable (which remains short against @ref[§ 629 b]) and the radical consonant; @deva[दृप्=दृप्य=बदृप्य=बरीदृप्यते] @[dṛp=dṛpya=badṛpya=barīdṛpyate], @deva[मृच्छ=मृच्छय=परीमृच्छयते] @[mṛchcha=mṛchhaya=parīmṛchhayate], @deva[दृह्=चरीदृह्यते] @[dṛh=carīdṛhyate], @deva[मृह्=चरीमृह्यते] @[mṛh=carīmṛhyate]
+When a root contains a penultimate @deva[ऋ] (@deva[ऋ]) original or brought in by samprasāraṇa the syllable @deva[री] is inserted between the @deva[अ] of the reduplicative syllable (which remains short against @ref[§ 629 b]) and the radical consonant; @deva[दृप्=दृप्य=बदृप्य=बरीदृप्यते], @deva[मृच्छ=मृच्छय=परीमृच्छयते], @deva[दृह्=चरीदृह्यते], @deva[मृह्=चरीमृह्यते]
