@@ -1,0 +1,46 @@
+{
+  "sources": {
+    "official_1931": {
+      "name": "Official 7th Edition 1931",
+      "path": "source/candidates/Official_7th_Edition_1931.pdf",
+      "total_pages": 732,
+      "priority": 1,
+      "notes": "OCRed version, explicitly labeled 7th edition",
+      "verified": true,
+      "page_offset": 0
+    },
+    "dli_2015": {
+      "name": "DLI 2015 IGNCA Delhi",
+      "path": "source/candidates/DLI_2015_IGNCA_Delhi.pdf",
+      "total_pages": 729,
+      "priority": 2,
+      "notes": "Image-based scan, good quality",
+      "verified": true,
+      "page_offset": 0
+    },
+    "xmqc_1931": {
+      "name": "xMqc 1931 Mulgaokar",
+      "path": "source/candidates/xMqc_1931_Mulgaokar.pdf",
+      "total_pages": null,
+      "priority": 3,
+      "notes": "May be corrupted, needs verification",
+      "verified": false,
+      "page_offset": 0
+    }
+  },
+  "page_mapping": {
+    "strategy": "content_based",
+    "notes": "Map pages by content similarity, not just page numbers. Sources may have different front matter or blank pages.",
+    "canonical_source": "official_1931",
+    "mapping_file": "config/page_equivalency.json"
+  },
+  "ocr_config": {
+    "engines": ["claude"],
+    "claude": {
+      "model": "claude-3-5-sonnet-20241022",
+      "max_tokens": 16000,
+      "temperature": 0,
+      "prompt_template": "scripts/prompts/claude_ocr_prompt.txt"
+    }
+  }
+}

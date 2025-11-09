@@ -1,0 +1,34 @@
+[Internal page: 65]
+§ 110-111 ]                    DECLENSION.                    65
+
+धनिन्, वरिम or वरिमन्, पन्थाः or पथिन् ॥ Final न् being changed to अ
+anusvāra before the acc. sing, affix अम् ( by अनुस्वारस्य ययि
+परसवर्णः, Pan. VIII. 4. 58 ), we get nom., voc., and acc. dual
+राजानौ, धनिनौ, पथिनौ or पन्थानौ ॥ न् is also changed to anusvāra
+in the gen. sing. राज्ञः, धनिनः, पन्थः ॥ In the loc. sing., final न् is
+dropped, its place being optionally supplied by सवर्णदीर्घ, which
+then, along with the short अ of the base, may change to वृद्धि
+ऐ, or may remain intact ( Pan. VI. 4. 10, 11 ); thus राज्ञि or
+राज्ञि or राजनि, धनिनि or धनीनि, पथि ॥ In the ins., dat. and abl.
+plur., final न् becomes ण् as in धनिभिः, धनिभ्यः ; so राज्भिः, राज्भ्यः ;
+but पद्धभिः, पद्धभ्यः, मनोभिः, मनोभ्यः ॥ Before the gen. pl. affix आम्,
+न् is always changed to anusvāra ( Pan. VIII. 3. 24 ), and then
+changed to its parasavarṇa ( i. e., consonant of the same class
+with the following consonant ); thus अनुस्वारस्य ययि परसवर्णः, and we
+get राज्ञाम्, धनिनाम्, पथाम् or पन्थाम् ( = पन्थनाम् ) ॥ In the nom.
+pl., final न् becomes ण् as in राज्ञः, धनिनः, पन्थः or पन्थानः ॥ Before
+the loc. pl. affix सु, न् is dropped, and its place optionally
+supplied by the parasavarṇa letter or by सवर्णदीर्घ ( Pan. VII.
+1. 86, VIII. 4. 2 Vart. ), and thus we have राजसु or राजासु or
+राजस्सु, पथिसु or पथीसु or पन्थसु, धनिषु or धनीषु ॥
+
+§ 111. Tabular representation of the declension of राजन् ॥
+
+                    MASCULINE.
+
+Singular.
+
+    Nom.    राजा            Voc.        राजन्
+    Acc.    राजानम्        Ins.        राज्ञा
+    Dat.    राज्ञे            Abl.        राज्ञः
+    Gen.    राज्ञः            Loc.        राज्ञि or राज्ञि or राजनि

@@ -1,0 +1,39 @@
+[Internal page: 70]
+70                    HIGHER SANSKRIT GRAMMAR.                    [ § 115-117
+
+It may be noted that a नपुंसकलिङ्ग ( neuter ) does not ordinarily
+exist for words in ष् bases.
+
+§ 116. Tabular representation of उषस् and कर्तास् ॥
+
+Singular.                                        Singular.
+
+    ( उषस् )                                        ( कर्तास् )
+
+    Nom.            उषः                            Nom.            कर्तास् or कर्ता
+    Acc.            उषम्                            Acc.            कर्तासम्
+    Ins.            उषसा                            Ins.            कर्तोसा or कर्तसा
+    Dat.            उषसे                            Dat.            कर्तोसे or कर्तसे
+    Abl.            उषसः                            Abl.            कर्तोसः or कर्तसः
+    Gen.            उषसः                            Gen.            कर्तोसः or कर्तसः
+    Loc.            उषसि                            Loc.            कर्तोसि or कर्तसि
+
+Dual.                                            Dual.
+
+    Nom. and acc.    उषसौ                            Nom. and acc.    कर्तासौ
+    Ins., dat. and abl. उषोभ्याम्                    Ins., dat. and abl. कर्तोभ्याम् or कर्तभ्याम्
+    Gen. and loc.    उषसोः                            Gen. and loc.    कर्तोसोः or कर्तसोः
+
+Plural.                                            Plural.
+
+    Nom.            उषसः                            Nom.            कर्तासः
+    Acc.            उषसः                            Acc.            कर्तासः
+    Ins.            उषोभिः                            Ins.            कर्तोभिः or कर्तभिः
+    Dat. and abl.    उषोभ्यः                            Dat. and abl.    कर्तोभ्यः or कर्तभ्यः
+    Gen.            उषसाम्                            Gen.            कर्तसाम्
+    Loc.            उषःसु                            Loc.            कर्त:सु or कर्तस्सु
+
+                Bases ending in र् ॥
+
+§ 117. The nom. singular of a mas. bases ending in र्
+is formed by dropping that र्, along with the affix स्, their

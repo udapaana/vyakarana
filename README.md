@@ -49,7 +49,7 @@ This project digitizes and structures Kale's Higher Sanskrit Grammar through a c
 - ✅ Clean content ready for publication
 - ✅ Output: `phase4_rules/` + `phase4_appendix/`
 
-See [PHASE4_README.md](PHASE4_README.md) and [APPENDIX_README.md](APPENDIX_README.md) for detailed documentation.
+See [docs/PHASE4_README.md](docs/PHASE4_README.md) and [docs/APPENDIX_README.md](docs/APPENDIX_README.md) for detailed documentation.
 
 ## Repository Structure
 
@@ -174,6 +174,9 @@ Rule content with @deva[देवनागरी] @[IAST] tagging...
 ### View Production Content
 
 ```bash
+# Browse complete table of contents
+cat TABLE_OF_CONTENTS.md
+
 # Browse production rules
 ls phase4_rules/
 
@@ -184,8 +187,8 @@ cat phase4_rules/rule_001.md
 ls phase4_appendix/
 
 # View documentation
-cat PHASE4_README.md
-cat APPENDIX_README.md
+cat docs/PHASE4_README.md
+cat docs/APPENDIX_README.md
 ```
 
 ### Run Scripts
@@ -218,8 +221,9 @@ python3 scripts/convert_all_old_schema.py
 
 ## Documentation
 
-- [PHASE4_README.md](PHASE4_README.md) - Phase 4 production documentation
-- [APPENDIX_README.md](APPENDIX_README.md) - Appendix structure and content
+- **[TABLE_OF_CONTENTS.md](TABLE_OF_CONTENTS.md)** - Complete table of contents for all 969 files
+- [docs/PHASE4_README.md](docs/PHASE4_README.md) - Phase 4 production documentation
+- [docs/APPENDIX_README.md](docs/APPENDIX_README.md) - Appendix structure and content
 - [scripts/README.md](scripts/README.md) - Script documentation
 - [docs/README.md](docs/README.md) - Detailed methodology
 

@@ -1,0 +1,26 @@
+[Internal page: 302]
+
+302                    SANSKRIT GRAMMAR.                    [ § 484-487
+
+वत्स्याति; वर्धिप्स्ये, वर्त्स्यम्; स्पन्दिष्ये, स्पन्द्स्याम् 1 sing  2nd Fut ; अकलिप्स्ये, अकल्प्स्यम्; अवर्धिप्स्यम्, अवर्त्स्यम्; अवर्तिष्ये, अवर्तिष्ये, अवर्त्स्यम्; अवर्त्स्ये; असुन्दिष्ये, अस्पन्द्स्यम्, अस्पन्द्स्यम् 1. sing. Cond
+
+§ 485.  The roots कृत्, वृत्, धृत्, वृध् and वृत् take इ optionally when followed by an Ardhadhatuka ( Non-conjugational termination ) beginning with स except in the Aorist; कुत्—कर्तिष्याम, कर्त्स्याम; अकर्तिष्यम्, अकर्त्स्यम् Cond  &c.
+
+§ 486.  In the case of इ with आग्नि, गा is  optionally  substituted for इ in the Conditional  and  the Aorist. इ is substituted for the final vowel of the verbs चा 3 P. A  1 P, प्रा, दो, ते, घे, मा, स्या, भा ( substituted for इ 2 P  and स्था with आग्नि , ) म्रा, मा, and को before a  consonantal  weak  termination.  All  terminations added to मा substituted for इ are weak
+
+Paradigms.
+
+1. अध्येषे      अध्येयाव्हि      अध्येयामहि
+2. अध्येयथाः   अध्येयाथाम्     अध्येयध्वम्
+3. अध्येष्ट     अध्येयाताम्     अध्येष्यन्त
+1. अध्यागीष्ये  अध्यागीष्याव्हि   अध्यागीष्यामहि
+2. अध्यागीष्यथाः अध्यागीष्याथाम्  अध्यागीष्यध्वम्
+3. अध्यागीष्यत  अध्यागीष्याताम्  अध्यागीष्यन्त
+
+§ 487.  We give below the first pers  sing  of some of the roots of more difficult conjugation   The  student  should  find out the various rules by which he should arrive at them.
+
+Roots.      1st Future        2nd Future.      Conditional.
+
+सू        भवितासि        भविष्यामि       अभविष्यम्
+         तवितासि        तविष्याम—ये     अतविष्यम्-ये
+         तर्तितासि       तर्तीष्याम—ये    अतर्तीष्यम्-ये

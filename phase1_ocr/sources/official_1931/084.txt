@@ -1,0 +1,35 @@
+[Internal page: 64]
+64                    HIGHER SANSKRIT GRAMMAR.                    [ § 109-110
+
+Dual.
+    Nom., voc., and acc.    भगवन्ती        Ins., dat., and abl.    भगवद्भ्याम्
+    Gen. and loc.        भगवतोः
+
+Plural.
+    Nom., voc., and acc.    भगवन्ति        Ins.            भगवद्भिः
+    Dat. and abl.        भगवद्भ्यः        Gen.            भगवताम्
+    Loc.            भगवत्सु or भगवदसु
+
+                FEMININE.
+
+    The feminine of भगवत् is भगवती which is formed by
+adding the taddhita affix ङीष् to the Prātipadika of भगवत्
+( by rules वा० III. 2. 7, Pan. IV. 1. 6 ). It is declined like
+नदी ॥ Similarly the fem. of विद्वत् is विद्वती ( विद्वती स्त्री, a learned
+woman, विद्वता: कन्या a learned girl ); महत् ( great ) makes महती ॥
+    Note.—The word सत् ( existent, good ) does not form its
+fem. in ई , but has the irregular fem. सती which is as if it
+were formed from सत् + ङीष् , the final त् of सत् being changed to
+long ई ( Pan. VI. 4. 64 ), the lengthening not taking place
+when the word signifies 'existent, real' ( Pan. Vart. to VII. 3. 114 ),
+when सन्ती will be the fem. of सत् ॥
+
+                Bases ending in न् ॥
+
+§ 110. ( 1 ) Bases ending in न् drop that letter along
+with the nom. sing. affix स्, if there be a short vowel before the
+न् ; if that vowel be long, the dropping is optional ( Pan. VIII.
+2. 7, 23 ); thus राजन् nom. sing. राजा; वरिमन् nom. sing. वरिमा ;
+धनिन् nom. sing. धनी ; मेघिन् nom. sing. मेघी ; पथिन् nom. sing. पन्थाः or
+पथिन् ॥ Similarly in the voc. sing. the dropping is optional
+after long vowel, but necessary after a short vowel; thus राजन्,

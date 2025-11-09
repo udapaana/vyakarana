@@ -1,0 +1,37 @@
+[Internal page: 67]
+§ 112-113 ]                    DECLENSION.                    67
+
+followed by a pause and not by a सु; thus मनस् ( mind ) nom.
+sing. मनः ; but in the voc. sing. सु being replaced by the
+augment ओ ( मनसिजात्, Pan. VIII. 2. 82, and मनसो वृद्धः, VIII. 3. 38),
+स् is dropped by virtue of the rule सोऽचि लोप: ( Pan. VIII. 2. 30 )
+and we have मनओ which becomes मनो. Similarly तेजस् makes तेज:
+( Nom. ), तेजो ( Voc. ). So हविस् makes हविः and हविः ॥ Final स्
+being necessarily preceded by a short vowel, becomes ष्, when
+followed by the case-terminations beginning with a non-nasal
+mute ( तुझटतश्च, VIII. 4. 41 ), and such स् or ष् may become र् ( षत्व-
+रत्वाभ्यां नो णः समानपदे, VIII. 4. 1, and सम्मर्यप्राप्तौ ण: स्यात्, Kāsikā )
+and न् may become ण् as in some forms ; thus इनीषु → मनोभिष् →
+मनोभिर् → मनोभिः, तेजोभिष् → तेजोभिर् → तेजोभिः ; so in dat. and abl. pl.
+मनोभ्यष् → मनोभ्यर् → मनोभ्यः, and in the gen. pl. मनसाम् → मनषाम्,
+( nom. pl. ) मनसष् → मनसर् → मनांसि ( तेजांसि ), or again मनसष् →
+मनसः → मनसः which is the alternative form of nom. pl. of all
+such bases. It will be seen that anusvāra and visarga always
+occur before सु affix ( loc. pl. ) by sibilant being assimilated
+to a सु ( विसर्गस्य सः, VIII. 3. 34 ), but not when सु means a pause
+( विरामे उपसंख्यानम्, 1, ibid ) ; thus मनःसु or मनसु, तेज:सु or तेजसु,
+हविःषु or हविषु ॥ The neuter nom., voc., and acc. pl. forms take
+the augment सुट् before the case-affix स् ( न: सुटि, Pan. VI. 1. 110)
+and the new combination gives rise to the form मनांसि and
+तेजांसि ॥
+
+§ 113. Tabular Representation of Decl. of मनस् ॥
+
+                        MASCULINE.
+
+Singular.
+
+    Nom.        मनः        Voc.        मनो or मनः
+    Acc.        मनः        Instr.        मनसा
+    Dat.        मनसे        Abl.        मनसः
+    Gen.        मनसः        Loc.        मनसि

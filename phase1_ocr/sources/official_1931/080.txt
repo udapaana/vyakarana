@@ -1,0 +1,38 @@
+[Internal page: 60]
+60                    HIGHER SANSKRIT GRAMMAR.                    [ § 105-106
+
+śikṣaṇam ॥ Therefore, in स्वयं अञ्चति इति स्वयञ्च् ( a worshipper of
+his own self, selfish ) the forms in the nom., voc., and acc. sings.
+are स्वयञ्, स्वयन्, स्वयञ्चम् ॥ Similarly प्राञ्च् ( eastern ) becomes
+in the nom. sing. प्राङ् ; in the voc., प्राङ् and ( optionally ) प्राञ्च् ॥
+In the acc. प्राञ्चम् ( प्राचः and optionally प्रातम् ) ॥ In the
+voc. and acc. the word पदान्त does not apply as there is an
+ending beyond च्, before which, therefore, न् cannot be dropped
+by the rule सोऽञ्चि, and so च् is not changed to ग्, being
+already preceded by न् . If, however, we drop न् by the rule
+कृदन्तेषु चान्येषु, then च् becomes ग् before the loc. pl. affix सु
+and the word will take the form of प्रागसु ॥ Or we may drop
+न् optionally after च् has become ग् by the rule सोऽञ्चि, the rule
+कृदन्तेषु चान्येषु authorising the optional dropping; then the loc. pl.
+may be either प्रागसु or प्राङ्सु ॥ In the rest of the cases, the
+forms of प्राञ्च् will be like those of वाच् ( a word ) ॥ Thus
+in the plural:
+
+          Nom.        Acc.            Instr.
+      प्राञ्चः       प्राचः          प्राग्भिः
+                  प्रातः ( opt. )  प्राङ्भिः
+
+          Dat.            Abl.           Loc.
+      प्राग्भ्यः       प्राग्भ्यः      प्रागसु
+      प्राङ्भ्यः       प्राङ्भ्यः      प्राङ्सु ( opt. )
+
+          Gen.
+      प्राचाम्
+
+§ 105. The dual is formed thus: प्राचौ, प्राचौ, प्राग्भ्याम् ॥
+
+§ 106. Feminine forms. All bases derived from अञ्च् drop
+न् in the fem. by the special rule अञ्चेर्नलोपः स्त्रियाम् (Pan. VI. 4. 129),
+and form their fem. by adding ई ( वा० II. 2. 7 ; Pan. IV. 1. 6 )
+Thus प्राञ्च् ( mas. ) becomes in fem. प्राची, and is declined like
+the fem. of म्रियमाण ॥ So also स्वयन्ची, प्रतीची and अपची ॥ It must be

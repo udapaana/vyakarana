@@ -1,0 +1,34 @@
+[Internal page: 173]
+अव्ययीभावः                                                           173
+
+§ 308. पूर्वपदप्रकृत्यैकत्वे ॥
+
+When the first member retains its original form (प्रकृति), it is treated as one unit.
+
+Obs. This principle governs how the first member of an Avyayībhāva maintains its basic stem form throughout the compound.
+
+§ 309. पूर्वपदात् सञ्ज्ञायाम् अग्रहः ॥
+
+From the first member, when it has a technical designation, there is no initial change.
+
+Example:— प्रादुर्भाव 'manifestation' - here प्र retains its form as a recognized upasarga.
+
+§ 310. समासान्तः पराः अव्ययीभावे ।
+
+At the end of an Avyayībhāva compound, the later elements (पर) become fixed.
+
+Obs. This means that once an Avyayībhāva is formed, it becomes invariable and indeclinable.
+
+§ 311. विभाषा सुपो बहुलम् ॥
+
+Optionally, and in various ways, case-endings (सुप्) may be treated differently.
+
+Obs. This acknowledges that there are variations in how case-endings are handled in the formation of Avyayībhāva compounds, and that usage may vary.
+
+Conclusion of Chapter IX - Avyayībhāva
+
+The Avyayībhāva compounds form an important class of indeclinable compounds in Sanskrit. They are characterized by:
+1. Being absolutely indeclinable (अव्यय)
+2. Having neuter gender and singular number in form
+3. The first member determining the meaning
+4. Various case-relations being preserved in the sense though not in form

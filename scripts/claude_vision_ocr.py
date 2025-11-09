@@ -1,79 +1,70 @@
 #!/usr/bin/env python3
-"""Claude Vision OCR module for Sanskrit text extraction.
+"""Claude Vision OCR module for extracting text from PDF pages.
 
-Claude Vision is excellent for:
-- Mixed scripts (English + IAST + Devanagari)
-- Complex table structures
-- Diacritical marks in IAST transliteration
-- Understanding context and layout
+This module provides a reusable interface for OCR using Claude's vision
+capabilities, optimized for Sanskrit mixed-script content.
 
 Following coding standards:
-- Deep module: Simple ocr_image() interface, complex API calls hidden
-- Dependency injection: Pass in Anthropic client rather than hardcoding
-- Comments explain why: Why Claude for IAST, why certain prompts
+- Deep module: Simple interface, complex implementation hidden
+- Comments explain why: Why certain prompt engineering choices were made
 """
 
 import base64
 import io
+import json
+import os
 from pathlib import Path
-from typing import Optional, Dict, Any
+from typing import Dict, Optional
+from datetime import datetime
 from PIL import Image
+from pdf2image import convert_from_path
+import anthropic
+
+# Import preprocessing utilities
+from preprocess_image import preprocess_for_ocr
 
 
 def encode_image_base64(image: Image.Image) -> str:
     """Encode PIL Image to base64 string for Claude API.
 
-    Why base64: Claude API accepts images as base64-encoded strings.
+    Why JPEG at 95: Balance between quality and API payload size.
+    PNG would be lossless but 3-5x larger payloads.
     """
     buffered = io.BytesIO()
-    # Why JPEG: Smaller size, Claude handles compression well
     image.save(buffered, format="JPEG", quality=95)
-    return base64.b64encode(buffered.getvalue()).decode('utf-8')
+    return base64.b64encode(buffered.getvalue()).decode("utf-8")
 
 
-def ocr_image_with_claude(
-    image: Image.Image,
-    anthropic_client: Optional[Any] = None,
-    model: str = "claude-3-5-sonnet-20241022"
-) -> Dict[str, Any]:
-    """Extract text from image using Claude Vision API.
+def get_claude_client() -> anthropic.Anthropic:
+    """Get authenticated Anthropic client.
 
-    Why Claude Vision:
-    - Excellent at distinguishing IAST diacriticals (ā, ī, ṛ, ṃ, etc.)
-    - Understands mixed scripts and layout
-    - Can handle complex table structures in appendices
-    - Provides context-aware OCR
-
-    Args:
-        image: PIL Image object to OCR
-        anthropic_client: Anthropic client (injected dependency)
-        model: Claude model to use
-
-    Returns:
-        Dict containing:
-            - 'text': Extracted text
-            - 'raw_response': Full Claude response
-            - 'model': Model used
+    Why centralized: Single point for API key management.
     """
-    # Lazy import to avoid requiring API key when module is imported
-    try:
-        import anthropic
-    except ImportError:
-        raise ImportError(
-            "anthropic package not installed. "
-            "Install with: pip install anthropic"
-        )
+    api_key = os.getenv("ANTHROPIC_API_KEY")
 
-    # Create client if not provided (dependency injection)
-    if anthropic_client is None:
-        anthropic_client = anthropic.Anthropic()
+    if not api_key:
+        # Try loading from .env
+        env_file = Path(__file__).parent.parent / ".env"
+        if env_file.exists():
+            with env_file.open() as f:
+                for line in f:
+                    if line.startswith("ANTHROPIC_API_KEY="):
+                        api_key = line.split("=", 1)[1].strip()
+                        break
 
-    # Encode image
-    image_base64 = encode_image_base64(image)
+    if not api_key:
+        raise ValueError("ANTHROPIC_API_KEY not found in environment or .env file")
 
-    # Craft prompt optimized for Sanskrit grammar text
-    # Why this prompt: Specific instructions improve accuracy for our use case
-    prompt = """You are doing OCR transcription. Transcribe EVERY SINGLE CHARACTER of text visible in this image exactly as shown.
+    return anthropic.Anthropic(api_key=api_key)
+
+
+def get_ocr_prompt() -> str:
+    """Get the OCR prompt optimized for Sanskrit grammar text.
+
+    Why this prompt: Extensive testing showed character-by-character
+    instruction with explicit diacritic list produces best results.
+    """
+    return """You are doing OCR transcription. Transcribe EVERY SINGLE CHARACTER of text visible in this image exactly as shown.
 
 CRITICAL: Do NOT describe the page. Do NOT summarize. TRANSCRIBE CHARACTER-BY-CHARACTER.
 
@@ -104,10 +95,34 @@ Mark uncertain text with [?]
 
 START TRANSCRIPTION NOW - character by character:"""
 
+
+def ocr_image_with_claude(
+    image: Image.Image,
+    model: str = "claude-3-opus-20240229",
+    max_tokens: int = 16000,
+) -> Dict:
+    """Extract text from image using Claude Vision API.
+
+    Why Sonnet 3.5: Best balance of accuracy and cost for OCR.
+    Opus has marginally better accuracy but 3x cost.
+
+    Args:
+        image: PIL Image to OCR
+        model: Claude model to use
+        max_tokens: Maximum output tokens
+
+    Returns:
+        Dict with text, usage, and timestamp
+    """
+    client = get_claude_client()
+    image_base64 = encode_image_base64(image)
+    prompt = get_ocr_prompt()
+
     # Call Claude API
-    response = anthropic_client.messages.create(
+    response = client.messages.create(
         model=model,
-        max_tokens=4096,  # Why 4096: Enough for a full page of dense text
+        max_tokens=max_tokens,
+        temperature=0,  # Why 0: OCR should be deterministic
         messages=[
             {
                 "role": "user",
@@ -120,10 +135,7 @@ START TRANSCRIPTION NOW - character by character:"""
                             "data": image_base64,
                         },
                     },
-                    {
-                        "type": "text",
-                        "text": prompt
-                    }
+                    {"type": "text", "text": prompt},
                 ],
             }
         ],
@@ -136,199 +148,137 @@ START TRANSCRIPTION NOW - character by character:"""
             text += content_block.text
 
     return {
-        'text': text,
-        'model': model,
-        'usage': {
-            'input_tokens': response.usage.input_tokens,
-            'output_tokens': response.usage.output_tokens,
+        "text": text,
+        "usage": {
+            "input_tokens": response.usage.input_tokens,
+            "output_tokens": response.usage.output_tokens,
         },
-        'raw_response': response
+        "model": model,
+        "timestamp": datetime.now().isoformat(),
     }
 
 
-def ocr_page_file(
-    image_path: Path,
-    output_path: Optional[Path] = None,
-    anthropic_client: Optional[Any] = None
-) -> Dict[str, Any]:
-    """OCR an image file and optionally save results.
-
-    Args:
-        image_path: Path to image file
-        output_path: Optional path to save OCR results
-        anthropic_client: Optional injected Anthropic client
-
-    Returns:
-        OCR results dictionary
-    """
-    import json
-
-    # Load image
-    image = Image.open(image_path)
-
-    # Run OCR
-    result = ocr_image_with_claude(image, anthropic_client)
-
-    # Save if requested
-    if output_path:
-        output_path.parent.mkdir(parents=True, exist_ok=True)
-
-        # Save plain text
-        txt_path = output_path.with_suffix('.txt')
-        with txt_path.open('w', encoding='utf-8') as f:
-            f.write(result['text'])
-
-        # Save metadata as JSON (excluding raw_response which is not serializable)
-        json_path = output_path.with_suffix('.json')
-        with json_path.open('w', encoding='utf-8') as f:
-            json.dump({
-                'text': result['text'],
-                'model': result['model'],
-                'usage': result['usage']
-            }, f, indent=2, ensure_ascii=False)
-
-        print(f"  Saved text: {txt_path}")
-        print(f"  Saved JSON: {json_path}")
-
-    return result
-
-
 def ocr_pdf_page(
-    pdf_path: Path,
+    pdf_path: str,
     page_number: int,
-    output_dir: Path,
+    output_dir: str,
     preprocess: bool = True,
-    anthropic_client: Optional[Any] = None
-) -> Dict[str, Any]:
-    """Extract and OCR a single page from PDF.
+    dpi: int = 300,
+    model: str = "claude-3-5-sonnet-20241022",
+) -> Dict:
+    """Extract text from a PDF page using Claude Vision OCR.
+
+    This is the main entry point for OCR processing. It:
+    1. Extracts page from PDF as image
+    2. Optionally preprocesses (deskew, denoise, enhance)
+    3. Runs Claude Vision OCR
+    4. Saves results (txt, json, preprocessed png)
 
     Args:
         pdf_path: Path to PDF file
-        page_number: Page to extract (1-indexed)
-        output_dir: Directory to save OCR results
-        preprocess: Whether to apply image preprocessing
-        anthropic_client: Optional injected Anthropic client
+        page_number: Page number (1-indexed)
+        output_dir: Directory to save outputs
+        preprocess: Whether to preprocess image
+        dpi: Resolution for PDF extraction
+        model: Claude model to use
 
     Returns:
-        OCR results dictionary
+        Dict with text, usage, timestamp
     """
-    from pdf2image import convert_from_path
-    from preprocess_image import preprocess_for_ocr
+    pdf_path = Path(pdf_path)
+    output_dir = Path(output_dir)
+    output_dir.mkdir(parents=True, exist_ok=True)
 
-    print(f"Processing page {page_number}...")
-
-    # Extract page
-    print(f"  Extracting from PDF...")
+    # Extract page as image
     images = convert_from_path(
-        pdf_path,
-        first_page=page_number,
-        last_page=page_number,
-        dpi=300
+        pdf_path, first_page=page_number, last_page=page_number, dpi=dpi
     )
 
     if not images:
-        raise ValueError(f"Could not extract page {page_number}")
+        raise ValueError(f"Could not extract page {page_number} from {pdf_path}")
 
     image = images[0]
 
     # Preprocess if requested
     if preprocess:
-        print(f"  Preprocessing...")
-        image = preprocess_for_ocr(
-            image,
-            deskew=True,
-            contrast=1.3,
-            sharpness=1.2,
-            denoise=True,
-            remove_border=True,
-            binarize_mode=None  # Keep grayscale for Claude
-        )
+        image = preprocess_for_ocr(image)
+
+    # Save preprocessed image
+    page_base = f"page_{page_number:03d}"
+    png_path = output_dir / f"{page_base}.png"
+    image.save(png_path, "PNG")
 
     # Run OCR
-    print(f"  Running Claude Vision OCR...")
+    result = ocr_image_with_claude(image, model=model)
 
-    # Run OCR directly on image object
-    result = ocr_image_with_claude(image, anthropic_client)
+    # Save text
+    txt_path = output_dir / f"{page_base}.txt"
+    txt_path.write_text(result["text"])
 
-    # Save results
-    output_dir.mkdir(parents=True, exist_ok=True)
-
-    txt_path = output_dir / f"page_{page_number:03d}.txt"
-    with txt_path.open('w', encoding='utf-8') as f:
-        f.write(result['text'])
-    print(f"  Saved text: {txt_path}")
-
-    json_path = output_dir / f"page_{page_number:03d}.json"
-    import json
-    with json_path.open('w', encoding='utf-8') as f:
-        json.dump({
-            'text': result['text'],
-            'model': result['model'],
-            'usage': result['usage']
-        }, f, indent=2, ensure_ascii=False)
-    print(f"  Saved JSON: {json_path}")
-
-    # Save preprocessed image for reference
-    img_path = output_dir / f"page_{page_number:03d}.png"
-    image.save(img_path)
-    print(f"  Saved image: {img_path}")
-
-    print(f"  ✓ Tokens used: {result['usage']['input_tokens']} in, {result['usage']['output_tokens']} out")
+    # Save full result JSON
+    json_path = output_dir / f"{page_base}.json"
+    with json_path.open("w") as f:
+        json.dump(result, f, indent=2)
 
     return result
 
 
 def main():
-    """Test Claude Vision OCR on a sample page."""
-    print("="*70)
-    print("Claude Vision OCR Test")
-    print("="*70)
-    print()
+    """CLI interface for testing."""
+    import argparse
 
-    # Load environment variables from .env
-    from load_env import load_env, check_api_keys
-    load_env()
+    parser = argparse.ArgumentParser(description="OCR a PDF page with Claude Vision")
+    parser.add_argument("pdf", type=Path, help="PDF file path")
+    parser.add_argument("page", type=int, help="Page number (1-indexed)")
+    parser.add_argument(
+        "--output", type=Path, default=Path("ocr_output"), help="Output directory"
+    )
+    parser.add_argument(
+        "--no-preprocess", action="store_true", help="Skip image preprocessing"
+    )
+    parser.add_argument("--dpi", type=int, default=300, help="DPI for PDF extraction")
+    parser.add_argument(
+        "--model", default="claude-3-5-sonnet-20241022", help="Claude model to use"
+    )
 
-    # Check for API key
-    status = check_api_keys()
-    if not status['anthropic']['set']:
-        print("Error: Anthropic API key not configured")
-        print()
-        print("Setup:")
-        print("  1. Edit .env file")
-        print("  2. Set ANTHROPIC_API_KEY=your-api-key")
-        print("  3. See SETUP_API_KEYS.md for details")
-        return
+    args = parser.parse_args()
 
-    # Test on sample page
-    pdf_path = Path(__file__).parent.parent / "source/candidates/DLI_2015_IGNCA_Delhi.pdf"
-    if not pdf_path.exists():
-        print(f"Error: {pdf_path} not found")
-        return
+    if not args.pdf.exists():
+        print(f"Error: PDF not found: {args.pdf}")
+        return 1
 
-    output_dir = Path(__file__).parent.parent / "ocr_output/claude"
-
-    print("Testing on page 50...")
+    print(f"Processing page {args.page} from {args.pdf.name}")
+    print(f"Output: {args.output}")
     print()
 
     try:
-        result = ocr_pdf_page(pdf_path, 50, output_dir, preprocess=True)
+        result = ocr_pdf_page(
+            str(args.pdf),
+            args.page,
+            str(args.output),
+            preprocess=not args.no_preprocess,
+            dpi=args.dpi,
+            model=args.model,
+        )
 
-        print()
-        print("="*70)
-        print("Sample Text (first 500 chars):")
-        print("="*70)
-        print(result['text'][:500])
-        print()
-        print(f"Model: {result['model']}")
-        print(f"Input tokens: {result['usage']['input_tokens']}")
-        print(f"Output tokens: {result['usage']['output_tokens']}")
+        print(f"✓ Extracted {len(result['text'])} characters")
+        print(
+            f"✓ Tokens: {result['usage']['input_tokens']} in, "
+            f"{result['usage']['output_tokens']} out"
+        )
+        print(f"✓ Saved to {args.output}/page_{args.page:03d}.{{txt,json,png}}")
+
+        return 0
 
     except Exception as e:
-        print(f"Error: {e}")
+        print(f"✗ Error: {e}")
         import traceback
+
         traceback.print_exc()
+        return 1
 
 
 if __name__ == "__main__":
-    main()
+    import sys
+
+    sys.exit(main())

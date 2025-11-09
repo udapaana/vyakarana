@@ -1,0 +1,31 @@
+[Internal page: 52]
+                    SANSKRIT GRAMMAR.                    [ §
+
+                            गम्ल m.
+
+  N.    गम्ला           गम्लौ                 गम्लः
+  V.    गम्लद्           ,,                    ,,
+  A.    गम्लम्          ,,                   गम्लून्
+  I.    गम्ला        गम्लभ्याम्              गम्लभिः
+  D    गम्ले           ,,                   गम्लभ्यः
+ Ab.    गम्लः          ,,                     ,,
+  G.     ,,          गम्लोः                गम्लनाम्
+  L.    गम्लि          ,,                   गम्लषु
+       Decline शक्ल similarly.
+
+        Words ending in ए and ओ.
+
+§ 85. Here simply the terminations should be added and Sandhi rules observed.
+
+        सै ( सह इना कोमैन वर्तैतेऽस्सौ )  रै m. f. wealth.
+
+  N.    सै.           सयौ       सय         N. V. रा.    रायौ    रायः
+  V.    सै*           ,,        ,,           A.     रायम्    ,,      ,,
+  A     सयम्          ,,        ,,           I.     राया   राभ्याम् राभिः
+  I.    सया        सैभ्याम्   सैभिः          D.     रायै     ,,     राभ्यः
+  D.    सयै          ,,       सैभ्यः        Ab.    रायः     ,,       ,,
+ Ab.    सै.           ,,        ,,           G.      ,,     रायोः   रायाम
+  G.    ,,          सयोः     सयाम्          L.     राये     ,,      रायु
+  L.    सये           ,,       सैषु
+
+*The Kau. does not specially mention this form. Just as stops after giving the Nom. forms in the case of words lik रै, गौ, स्यौ &c., so does it do in the case of सै also, implyin thereby that the Voc. forms of सै are also like the Nom. one But the Sutra एङ्-हृस्वात्सङ्ऊुदै: Pān. VI. 1. 69 (एङ्-ऋनात् हृस्वान् अङ्गात् हल् छुयते सम्बुद्धै: चर्) (Kau.) seems to apply in the prese case and by dropping the final स् we get the form सै.

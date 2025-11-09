@@ -1,0 +1,18 @@
+[Internal page: 30]
+30                        SANSKRIT GRAMMAR.                    [ § 46
+
+   (c) *Visarga, preceded by इ or उ and not belonging to a termination, is changed to ष् except in the case of मुहुः; often, if followed by a hard consonant of the guttural of the labial class : निः+प्रत्यह=निष्प्रत्यहम् without obstacle.  आविष्कृतम् dis-closed; दुःकृतम् a bad action; but मुहुः कुतम्; आग्रेः करोति as the Visarga is substituted for र् a term. so मातुः छया and not ‌·मातुष्छया. घातुष्टरः is an exception.
+
+   (d)  † तिरस् optionally retains its स् when followed by क्, ख्, प्, or फ्; तिरः करोति or तिरस्करोति bides or scorns द्विः, त्रिः and चतुः; all of them adverbs showing frequency, change their Visarga to ष् optionally under the same circum-stances‡; द्विष्करोति or द्विः.करोति does twice; but चतुष्पदालम् hav-ing four parts ( where चतुः is not an adverb ).
+
+   (e)  § The ending रः or ढः of a word changes its visarga to ष् optionally under the same circumstances when the presence of the following word is necessary for the completion of the sense, सपिष्करोति or सपिःकरोति turns into ghee; घनुष्करोति or घनुःकरोति makes a bow; but तिष्ठतु सपिः विच स्वहुकदम्, as there is no connection here between the words सपिः and विच.
+
+   And necessarily when at the end of the first member of a compound; as सपिष्कृपिंडका a pot for clarified butter: but परम-सपिः कृपिंडका a big ghee-pot ( as the word सपिः is an uttara pada ).
+
+   ( f )  Visarga coming after the अ of a word other than an indeclinable and forming the first member of a compound is changed to ष् when followed by a derivative of the roots कृ, कम्, and by कृत्, कृष्, पाश्, कुश्या and कर्णि × e. g. अयस्कारः an iron-smith; अयस्कामः one who desires iron; अयस्कंसम् an iron pot; अयस्यावच्: अयस्कुशा a bridle; अयस्कर्णा a kind of iron pot:
+
+* इदुपधस्य चाप्रत्ययस्य Pān. VIII. 3. 41.
+†तिरसोऽन्यतरस्याम् । Pān. VIII. 3. 42.
+‡ द्वित्रिश्चतृषूरणि कृत्वोऽर्थे। | Pān. VIII. 3. 43.
+§ इइसो: सामर्थ्ये । निर्वं समासेऽउत्तरपदार्थम् । Pān. VIII. 3. 44-45.
+× अयः कुर्कामैकेतकुम्भवाचकुर्णीहमनन्ययम् । Pān. VIII. 3. 46.

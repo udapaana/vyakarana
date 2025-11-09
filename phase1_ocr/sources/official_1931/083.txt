@@ -1,0 +1,35 @@
+[Internal page: 63]
+§ 108-109 ]                    DECLENSION.                    63
+
+वृद्ध or वृद्धः and योवत् or यौवनः ॥ It will be seen that bases, both
+ending in अन्त् and अवत्, will form a double-accusative plural, viz.
+भगवन्तः and भगवतः, and so also विद्वन्तः and विद्वतः ॥
+
+§ 109. Tabular representation of the declension of भगवत् ॥
+
+                MASCULINE.
+
+Singular :—
+    Nom.    भगवान्            Voc.    भगवन्
+    Acc.    भगवन्तम्
+    Ins.    भगवता            Dat.    भगवते
+    Abl.    भगवतः
+    Gen.    भगवतः            Loc.    भगवति
+
+Dual :—
+    Nom. voc. and acc.    भगवन्तौ
+    Instr. dat. and abl.    भगवद्भ्याम्
+    Gen. and loc.        भगवतोः
+
+Plural :—
+    Nom. and voc.    भगवन्तः or भगवन्तस्    Acc.    भगवन्तः or भगवतः
+    Instr.        भगवद्भिः        Dat. and abl.    भगवद्भ्यः
+    Gen.        भगवताम्        Loc.    भगवत्सु or भगवदसु
+
+                NEUTER.
+
+Singular.
+
+    Nom., voc., and acc.    भगवत्        Ins.    भगवता
+    Dat.                भगवते        Abl.    भगवतः
+    Gen.                भगवतः        Loc.    भगवति

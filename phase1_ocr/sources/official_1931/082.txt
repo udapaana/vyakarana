@@ -1,0 +1,36 @@
+[Internal page: 62]
+62                    HIGHER SANSKRIT GRAMMAR.                    [ § 108
+
+and the base-final त् or द् is dropped if initial or standing
+after a short vowel ( ह्रस्वनद्वे अपि प्रथमयोः, Pan. VIII. 2. 24 ), and
+we have, e. g., भगवन् ( O adorable one ! ), विद्वन् and सन् from
+भगवत्, विद्वत् and सत् ॥ Before the acc. sing. अम्, final द् or त् is
+changed to न् by virtue of the rule त्याद्नमः ( Pan. VIII. 4. 14 );
+thus भगवन्तम्, विद्वन्तम् and सन्तम् ॥ The acc. pl. अः being en-
+tirely dropped after a consonantal base, we have भगवतः,
+विद्वतः and सतः ॥
+
+( 2 ) The आदेश of the instr., dat., and abl. sing., is आ
+which becomes ता by the guna of the short अ ( प्रत्ययस्य लुकि
+तद्धितलुकि च गुणः Pan. VII. 3. 86 ) ; thus भगवता, विद्वता and सता ॥
+
+( 3 ) The आदेश of these cases in the dual is भ्याम् ; but,
+before that and other endings beginning with any consonant
+but य्, त् and द् are changed to द् by virtue of the rule सुप्यजात
+( Pan. VIII. 4. 56 ); thus भगवद्भ्याम्, विद्वद्भ्याम् and सद्भ्याम्. Simil-
+arly in the instr., dat., abl., gen., and loc. plurals we have
+भगवद्भिः, भगवद्भ्यः, भगवताम्, भगवत्सु ( or by Vart. भगवद्द्सु ॥ )
+
+( 4 ) The gen. and loc. sing. forms are भगवतः and भगवति,
+विद्वतः and विद्वति ॥
+
+( 5 ) The nom., voc., and acc. dual are भगवन्तौ, विद्वन्तौ,
+सन्तौ ॥ Here द् or त् is changed to न् by त्याद्नमः ॥
+
+( 6 ) The nom., voc., and acc. plu. are भगवन्तः, विद्वन्तः and
+सन्तः ; sibilant स् of the nom. affix being optionally changed to
+विसर्ग before त्, by the rule सकारस्य विसर्जनीयः स्थाने (Pan. VIII. 3. 36);
+thus भगवन्तस् or भगवन्तः ॥ By the special rule of Vār., the words
+भवत्, महत्, वृद्ध and योवन् retain their finals in the nom.
+pl. masc., which can be optionally changed to सवर्ण दीर्घ by
+the rule दीर्घः ( Pan. VI. 3. 111 ); thus भवन्त् or भवन्तः, मात् or महान्तः,

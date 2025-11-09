@@ -1,0 +1,34 @@
+[Internal page: 80]
+80                    HIGHER SANSKRIT GRAMMAR.                    [ § 129-130
+
+Plural.
+
+    Nom. and voc.        युवानः        Acc.        युवनः
+    Instr.            युवभिः or युवणभिः    Dat. and abl.    युवभ्यः or युवणभ्यः
+    Gen.            युवनाम्        Loc.        युवसु or युवणसु
+
+§ 130. मघवन् ( epithet of इन्द्र ) follows the decl. of
+युवन्, but with certain exceptions. Thus the forms of युवन् are
+allowed to occur throughout its declension ( युवभ्यवत्मघवा Kāsikā
+on VII. 1. 1 ) ; and, besides these, there are the following
+permissible forms viz. मघवन्, मघवा, मघवन्, मघवानम्, मघवने &c.
+The affixes of the nom. etc. dual and pl., viz. औ, ओस्, शस्, भिः
+&c., are to be applied to the end of the base ( यस्यचतुर्थीयुतन्ता निर्देशः,
+Pan. III. 2. 179 ), that is, these affixes are to be added without
+dropping the न् of मघवन्, being preceded by the final syllable वन्
+which is looked upon as an affix for this purpose. That is to
+say, न् is not to be dropped by the rule नाम्यपरे ( Pan. VI. 4. 3 ),
+and so we have the forms मघवन् + औ → मघवनौ → मघोनौ; so also
+मघोनौ, मघवन् + ओस् → मघोनोः, मघवन् + आम् → मघोनाम्, मघवन् + भिः →
+मघोभिः, मघवन् + भ्यः → मघोभ्यः, मघवन् + भ्याम् → मघोभ्याम्, मघवन् + सु → मघवत्सु ॥
+In these forms the voc. of मघवन् is व्, and the termination अस्
+( nom. pl. ) makes the form मघवनः, by dropping the न् of वन् and by
+changing न् to anusvāra ( मघवन् → मघवन् → मघवनः ) ; and then this
+anusvāra-न् may be changed to a parasavarṇa, which gives the
+word मघोनः ॥ According to the Kāsikā, if the vowel of a case-
+affix is dropped and is followed by a consonant, then by the
+rule प्रथमयोरटचौ, विराग इदाघः ( Pan. VIII. 3. 1 and Vart. ) we have
+this rule; viz: योऽयात् स्य:स्वाक्, being applicable; this rule would,
+in the case of words ending in अन् and आन्, drop the न् of the
+base before consonantal case-terminations, viz. भिः, भ्यः, भ्याम्;
+and thus in the instr. pl. we would get मघवभिः, मघवभ्यः &c.

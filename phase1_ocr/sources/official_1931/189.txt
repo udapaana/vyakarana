@@ -1,0 +1,36 @@
+[Internal page: 172]
+172                                     संस्कृतव्याकरणम्
+
+§ 303. न च संख्यापूर्वात् समासादेः ।
+
+Nor does वृद्धि occur before a समास (compound) beginning with a numeral.
+
+Example:— यथात्रिंशत् 'according to thirty' (not यथैत्रिंशत्).
+
+§ 304. एकाचो द्वे प्रथमस्य ।
+
+When the first member has only one vowel, it is doubled in certain Avyayībhāva formations.
+
+Example:— सद्दः becomes सद्दद्दः in reduplicated forms.
+
+Obs. This refers to reduplication rules specific to monosyllabic first members.
+
+§ 305. अव्ययीभावे च ।
+
+And this doubling occurs in Avyayībhāva compounds.
+
+Example:— यथायथा 'according to each', सर्वसर्व 'every single one'.
+
+§ 306. अचि र ऋतः ।
+
+Before a vowel, ऋ becomes र.
+
+Example:— This is a general sandhi rule applicable to Avyayībhāva compounds when ऋ of the first member is followed by a vowel in the second member.
+
+§ 307. हलि च ।
+
+And before a consonant also, ऋ may become र.
+
+Example:— पुनः+कर्म = पुनर्करोति or पुनःकरोति.
+
+Obs. This optional sandhi rule is mentioned for completeness in the context of Avyayībhāva formation.

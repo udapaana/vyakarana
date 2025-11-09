@@ -1,0 +1,18 @@
+[Internal page: 150]
+150                    SANSKRIT GRAMMAR.                    [ § 245
+
+(d)* A Tatpurusha ending in उपज्ञा and उपक्रम is of the neuter gender, when the idea of प्रथमम् 'being the first' of what is known or commenced (introduced) is meant to be expressed; पाणिनेरुपज्ञा पाणिण्युपज्ञं ग्रन्थः the work (grammar) first taught or composed by Pānini. नन्दोपक्रमं द्रोणः the drona (a measure of corn) first brought into use in the reign of King Nanda.
+
+(e)§ A Tatpurusha ending in छाया is neuter when the objects casting the shade are many इक्षूणां इक्षुच्छायम्.
+
+(f)† A Tatpurusha having for its first member a synonym of राजन् (and not राजन् itself) or the words रक्षस्, पिशाच &c. and सभा for its latter member is neuter; as इन्द्रसभम्, ईश्वरसभम्, a king's council; but राजसभा; रक्षःसभम्, पिशाचसभम्; also that ending in सभा when it means 'a multitude'; as स्त्रीसभम् 'an assembly of women'; but धर्मसभा in the sense of धर्मशाला.
+
+(g) × A Tatpurusha ending in सेना, धुरा, छाया, शाला and निशा is optionally neuter; ब्राह्मणसेना-नम्, यवधूरा-रम् malt liquor, beer, कुडुम्बच्छाया-यम्, the shadow of a wall; गोशाला-लम्, श्वनि-शा-शम् (the 14th day of the dark half of a month, so called because certain dogs observe a fast on this night, according to the Sābarabhāshya).
+
+N. B. These rules hold good in the case of Tat. alone; so दष्टसेनो राजा (Bah.); असेना (Neg Tat.), परमसेना (Karm.).
+
+
+* उपत्तोपक्रमौ तदुपाणिच्छुख्यासाग्रायाम् । Pān. II. 4. 21. उपज्ञा ज्ञानमार्यं स्याद् ज्ञात्वारम्भे उपक्रमः । Amara.
+§ छाया बहुल्ये । Pān. II. 4. 22.
++ सभा राजाभमदुष्यघुवां । Pān. II. 4. 23. पर्यपिरसेषेऽधुने Vārt-अशाला च । Pān. II. 4. 24. भमदुष्यञ्चब्दो रुढया रक्षः पिशाचाद्यौ-नाथ । Sid. Kau.
+× विभाषा सेनाढुरान्छायाशालानिशानाम् । Pān. II. 4. 25.

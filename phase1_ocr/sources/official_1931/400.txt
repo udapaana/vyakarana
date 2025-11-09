@@ -1,0 +1,46 @@
+[Internal page: 386]
+
+386                  SANSKRIT GRAMMAR.                   [ § 638-640
+
+is conjugated like a root of the second class, and in the General
+Tenses, it is conjugated like a primitive root, Atm. base taking,
+however, Atm. terminations. ( see § 485, 486 )
+
+§ 638.  As the Parasm. Freq. base is used both in the sense
+of frequency and of intensity, it has been said to denote the
+former in the strong cases and the latter in the weak; i.e.
+जोहूति, जोहवीति 'to invoke frequently'; जुहुती 'to invoke
+repeatedly'. It is, however, not easy to make such a distinction
+with regard to the other roots.
+
+§ 639.  Paradigms:—The Third persons of the Parasmaipada
+Frequentative of चृ ' to do,' पृच् ' to fill,' and कृष् ' to draw
+furrows.' All those tenses of this Intensive in which the weak
+form of the base is used ( vide §§ 485, 486 ) substitute पचृ for
+चृ 'to do'; दृष् 'to fill up,' and कृषृ 'to draw furrows' respect-
+ively. If in any weak form of an Intensive the root has a final
+consonant, र् is inserted between the Guna of the root and the
+termination ( see § 640 )
+
+Special Tenses.
+
+Conjugation in Parasmaipada and Ātmanepada.
+
+       PAR.                                        ĀTM.
+
+Present.
+चेकृ, चेकृत:, चेकृत: । पेपृच्, पेपृचत:, पेपृचत: । कर्षु, कोकर्षत:, कोकर्षत:
+
+Imperfect.
+अचेकृत्, अचेकृताम्, अचेकृन् । अपेपृचत्, अपेपृचताम्, अपेपृचन् । अको-
+कर्षत्, अकोकर्षताम्, अकोकर्षन्
+
+Imperative.
+चेकृतु, चेकृताम्, चेकरतु । पेपृचतु, पेपृचताम्, पेपरतु । कोकृषतु, कोकृ-
+षताम्, कोकृषन्तु ( or कोकृतु, कोकृताम्, कोकरन्तु )
+
+Potential.
+चेकयातत् । पेपृचताम् । कोकृषतु
+
+§ 640.  In the Special Tenses and in the Imperative Mood
+of the General Tenses, the insertion of र् is optional.

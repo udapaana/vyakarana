@@ -1,0 +1,37 @@
+[Internal page: 71]
+§ 117-118 ]                    DECLENSION.                    71
+
+place being supplied by सवर्णदीर्घ of the penultimate vowel
+( Pan. VI. 1. 113 ); thus स्वसृ ( sister ) nom. स्वसा, नप्तृ ( grand-
+son ) nom. नप्ता, होतृ ( priest ) nom. होता, भर्तृ ( husband ) nom. भर्ता,
+मातृ ( mother ) nom. माता, भ्रातृ ( brother ) nom. भ्राता ॥ The voc. sing.
+is either formed like the nom., or the base itself is used in voc.
+by virtue of the rule वक्त्रन्तात् स्ना ( Pan. VIII. 2. 81 ); thus स्वसृ,
+नप्तृ or नप्ता &c., and in the case of नृ ( man ) we have only नृ,
+because there is no सवर्णदीर्घ of ऋ ॥ But the regular nom. will be
+नरः ( derived form नर ) which is formed from नृ by the additional
+affix अङ् or according to some पप् before the case-endings ( so-
+called प्रगृह्य प्रातिपदिक ) ॥ In the acc. sing., र् is changed to its
+anusvāra ( i. e., the vowel and र् become ऋ ) and so we have
+स्वसारम्, नप्तारम्, होतारम्, भर्तारम् &c. ॥ So also in the nom. voc. and
+acc. dual र् is changed to anusvāra before those case-affixes
+( वा० V. 4. 106 ; Pan. VII. 2. 98 ) and we get स्वसारौ, नप्तारौ,
+होतारौ, भर्तारौ &c. ॥ Before the dual and pl. terminations begin-
+ning with भ् or स् the substitution of र्, for न्, by the rule नो णः
+( Pan. VIII. 4. 2 ) takes place optionally, so that न् sometimes
+becomes न् and sometimes ण् ; thus नप्तृभ्याम् or नप्तृभ्याम्, नप्तृभिः or
+नप्तृभिः ॥ Before सु too, this becomes स्वसृषु or स्वसृसु, and by the
+guna rule अत्र लोपः of Vār. quoted in the Kās. ( on VI. 4. 116 ),
+we get पितृषु or पितृसु in which the former has प्रकृतिभाव ऋ, and
+not ॠ for which is only an alternative rule ॥
+
+§ 118. Tabular representation of the Decl. of पितृ ॥
+
+                    MASCULINE.
+
+Singular.
+
+    Nom.        पिता            Voc.        पितृ or पितः
+    Acc.        पितरम्            Ins.        पित्रा
+    Dat.        पित्रे            Abl.        पितुः
+    Gen.        पितुः            Loc.        पितरि

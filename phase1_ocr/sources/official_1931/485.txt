@@ -1,0 +1,42 @@
+[Internal page: 471]
+
+§ 793–795 ]                SYNTAX.                    475
+
+§ 793.  (a) When a pronoun is  used  relatively  with  its
+noun,  it  must  agree  with  it  in  gender  and  number;  यः
+पुरुषः स गच्छति that man goes, या  स्त्री  सा  गच्छति  that woman
+goes, यत् फलं तत् फलम् that  fruit,  &c.
+
+(b) When the nouns are of different genders,  the  pronoun
+is put in the masculine  when  they  are  masculine  and  feminine,
+and in the neuter when they are  masculine,  feminine  and  neuter.
+
+Concord of the Relative with the Antecedent.
+
+§ 794.  When  a  relative  pronoun  refers  to  an  antecedent,
+it must agree with it  in  gender  and  number,  not  in  case:
+यः पुरुषः स आगतः that man has  come  ( the  relative  and  the
+demonstrative are here in the nominative );  येन  पुरुषेण  स  गतः
+that man has gone ( the relative is in the  instr.  while  the  de-
+monstrative is in the nominative  );  यं  पुरुषं  तं  पश्यामि  I  see
+that man ( the relative is in the accusative  while  the  demons-
+trative is in the nominative ).
+
+§ 795.  When the antecedent is  of  the  dual  or  the  plural
+number, the correlative  pronoun  in  the  principal  clause  may
+be omitted, and  the  verb  put  in  that  number  of  which  the
+antecedent is:  ये पुरुषाः तव सुता वा  वस्त्युकुटायुमुगुच्युछुन्ति  or  ये
+पुरुषाः तव सुताः ते गुच्छुन्ति  those  men  who  are  your  sons  go
+( in the first  sentence  the  correlative  pronoun  ते  is  omitted
+and the verb, though  governed  by  an  antecedent  in  the  rela-
+tive clause,  is  made  plural ).
+
+                          SECTION II.
+                         GOVERNMENT.
+                  A.  GOVERNMENT OF CASES.
+
+§ 796.  Government  is  that  influence  which  one  part  of
+speech exerts over another, requiring  it  to  be  put  in  a  parti-
+cular case.  It is mainly concerned with Cases,  viz.  "the  Govern-
+ment of Nouns or of Cases by Verbs  and  Nouns"  and  "Govern-
+ment by Prepositions."

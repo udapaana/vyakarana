@@ -1,0 +1,42 @@
+§ 1-5 ]           APPENDIX.
+                PROSODY. *
+
+§ 1. † Poetical composition in Sanskrit may be in the
+form of 'गद्य' prose, or 'पद्य' verse or metrical composition.
+
+§ 2. Prosody treats of the laws of versification or metri-
+cal composition. Sanskrit verse is regulated by quantity, not
+by accent.
+
+§ 3. A पद्य or stanza consists of four lines each called a
+pâda or quarter. A pâda is regulated either by the number of
+syllables ( अक्षर ) or by the number of syllabic instants (मात्रा).
+
+(a) A syllable is as much of a word as can be uttered
+distinctly by one effort of the voice i. e. a single vowel with
+or without one or more consonants
+
+(b) A mâtrâ ( मात्रा ) is the measure of time required to
+pronounce a short vowel.
+
+§ 4. A syllable is लघु 'light,' or गुरु 'heavy' according as
+its vowel is short or long.
+
+(a) The vowels अ, इ, उ, ऋ and लृ are short, and the
+vowels आ, ई, ऊ, ॠ, ए, ऐ, ओ, and औ are long. ‡ When a short
+vowel is followed by an Anuswâra or Visarga or by a conjunct
+consonant, it is converted into what is called 'a prosodially
+long vowel;' as गच्छ, अरण्य, &c.
+
+§ 5. The last syllable of a pâda is either heavy or light
+according as the exigence of the metre requires it, whatever be
+
+* The earliest writer on Prosody is Pingalâchârya. His work
+is known as "The Pingalachchhandas-śâstra." It is written in
+Sûtras and is divided into eight books. The Agni Purâna also
+deals with the subject very fully. The present chapter, however,
+is chiefly based on the Vṛttaratnâkar and Chandomanjari.
+
+† काव्यं गद्यं च पद्यं च तद्द्विधैव व्यवस्थितम् । Dandin Kâv. Pr. I.
+
+‡ सानुस्वारश्च दीर्घश्च विसर्गी च युक्त मेव च ।

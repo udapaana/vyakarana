@@ -1,0 +1,27 @@
+[Internal page: 282]
+
+282                    SANSKRIT GRAMMAR.                    [ § 444-449
+
+    Note—The first syllable of a  reduplicated  root is called 'the reduplicative syllable; e. g. the first व in पपत्, or first इ in उउत्.
+
+§ 445.  If a conjunct consonant begins a root,  the  first consonant only with the following vowel is reduplicated; e. g. प्रच्छ्-पप्रच्छ्.
+
+    (:) If the first member of a conjunct consonant, however, be a sibilant ( श, ष or स ) and the second a hard consonant, the hard consonant is reduplicated. स्तुड्-तुष्टुड्; स्कुत्-चुस्कुत्; but स्वन्-सुस्वन् &c.
+
+§ 446.  A radical aspirate ( 2nd or 4th letter of a  class ) is changed  to  its corresponding  unaspirate in the reduplicative syllable; as किद्-चिकित्, धुड्-दुधुड्, धुघ्-बुधुघ्, &c.
+
+§ 447.  The guttural of the reduplicative syllable is changed to  the corresponding  palatal ( subject  to  the  above rule ) and इ to च; e g. कम-चकम्-चकस, पवि-सिपव्-ससक्त्-चसक्त्, इुरुड् &c.
+
+§ 448.  A radical long vowel becomes short and ऋ is changed to अ in the reduplicative syllable; as पा-पपा, वी-विवी, छ-चछ &c.
+
+§ 449  The penultimate स or य and आ or ओ become इ and उ respectively in the reduplicative syllable; सेध्-तिसेध्, शोक—जुशोक, &c.
+
+                          Paradigms.
+
+                   कि P. ' to know.'
+
+         Present                        Imperfect.
+
+1. चिकेमि     चिकिवः    चिकिमः        अचिकेम्     अचिकिव्     अचिकिम्
+2. चिकेषि     चिकिथः    चिकिथ         अचिकेः     अचिकितम्   अचिकित
+3. चिकेति     चिकितः    चिक्यति       अचिकेत्     अचिकिताम् अचिक्युः

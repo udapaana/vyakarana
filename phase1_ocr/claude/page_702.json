@@ -1,0 +1,8 @@
+{
+  "text": "SANSKRIT GRAMMAR. [\n\nre are many Varieties of this metre; but that in com\neight syllables in a Pâda the fifth being short ( th\nnal variation from these rules occur in the Mahâbh\ne Râmâyaṇa ):--\n\n--Vide 1st Canto of Rag.\n\n(2) गजगति (4. 4.)\n\nDef. नभहया गजगतिः ।\n\nSch. of G. न, भ, ल, ग. ˘ ˘ ˘ | - ˘ ˘ | ˘ -\n\nEx. रविसुतापरितरे विहरतो हषि हरेः ।\nब्रजवधूगजगतिर्हृदमलं हपगहत ॥\n\n(3) प्रमाणिका (4. 4.)\n\nDef. प्रमाणिका जरौ लगौ ।\n\nSch. of G. ज, र, ल, ग, ˘ - ˘ | - ˘ - | ˘ -\n\nEx. पुनातु भक्तिरम्बुता सदाच्युतोत्तिपत्रयोः ।\nश्रुतिस्मृतिप्रमाणिका भवाब्धुराशिताषिका ॥\n\n(4) भाणवक (4. 4.)\n\nDef. भासहैणा भाणवकम् ।\n\nSch of G. भ, स, छ, ग. - ˘ ˘ | - - ˘ | ˘ -\n\nEx. कंचलत्पुरं वपुर्वैत्सकुलैः कालियपम् ।\nस्याय सर्वै स्मैरवसं नन्दसुतं भाणवकम् ॥\n\n(5) विधुन्माला (4. 4.)\n\nDef. मो मो मो गो विधुन्माला ।\n\nSch. of G. म, म, म, ग. - - - | - - - | - -\n\nEx. वासोवल्लो विधुन्माला वर्ष्मणो शाक्षभापः ।\nयत्सिद्धारतो तागोस्जिक्षये गोमस्यरूपः छन्दभीति",
+  "model": "claude-3-5-sonnet-20241022",
+  "usage": {
+    "input_tokens": 1967,
+    "output_tokens": 664
+  }
+}

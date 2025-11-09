@@ -1,0 +1,225 @@
+OCR TEXT FILES - INTERNAL PAGE NUMBER UPDATE REPORT
+====================================================
+
+Directory: /Users/skmnktl/Downloads/ocr/phase1_ocr/sources/official_1931/
+Total files: 210 (001.txt through 210.txt)
+
+SUMMARY
+-------
+Files WITH internal page numbers: 196
+Files WITHOUT page numbers (front matter): 14
+
+FILES WITH PAGE NUMBERS (196 files)
+------------------------------------
+  007.txt -> Internal page: 1
+  008.txt -> Internal page: 2
+  009.txt -> Internal page: 3
+  016.txt -> Internal page: vi
+  018.txt -> Internal page: 2
+  019.txt -> Internal page: 3
+  020.txt -> Internal page: 2
+  021.txt -> Internal page: 3
+  022.txt -> Internal page: 4
+  023.txt -> Internal page: 5
+  024.txt -> Internal page: 6
+  025.txt -> Internal page: 7
+  026.txt -> Internal page: 8
+  027.txt -> Internal page: 9
+  028.txt -> Internal page: 10
+  029.txt -> Internal page: 11
+  030.txt -> Internal page: 12
+  032.txt -> Internal page: 13
+  033.txt -> Internal page: 14
+  034.txt -> Internal page: 15
+  035.txt -> Internal page: 16
+  036.txt -> Internal page: 17
+  037.txt -> Internal page: 18
+  038.txt -> Internal page: 19
+  039.txt -> Internal page: 20
+  040.txt -> Internal page: 21
+  041.txt -> Internal page: 22
+  042.txt -> Internal page: 24
+  043.txt -> Internal page: 25
+  044.txt -> Internal page: 26
+  045.txt -> Internal page: 29
+  046.txt -> Internal page: 30
+  047.txt -> Internal page: 31
+  048.txt -> Internal page: 32
+  049.txt -> Internal page: 33
+  050.txt -> Internal page: 34
+  051.txt -> Internal page: 35
+  052.txt -> Internal page: 33
+  053.txt -> Internal page: 34
+  054.txt -> Internal page: 35
+  055.txt -> Internal page: 36
+  056.txt -> Internal page: 37
+  057.txt -> Internal page: 38
+  058.txt -> Internal page: 39
+  059.txt -> Internal page: 40
+  060.txt -> Internal page: 41
+  061.txt -> Internal page: 42
+  062.txt -> Internal page: 43
+  063.txt -> Internal page: 44
+  064.txt -> Internal page: 45
+  065.txt -> Internal page: 46
+  066.txt -> Internal page: 47
+  067.txt -> Internal page: 48
+  068.txt -> Internal page: 49
+  069.txt -> Internal page: 50
+  070.txt -> Internal page: 51
+  071.txt -> Internal page: 52
+  072.txt -> Internal page: 53
+  073.txt -> Internal page: 54
+  074.txt -> Internal page: 55
+  075.txt -> Internal page: 56
+  076.txt -> Internal page: 57
+  077.txt -> Internal page: 58
+  078.txt -> Internal page: 59
+  079.txt -> Internal page: 62
+  080.txt -> Internal page: 60
+  081.txt -> Internal page: 61
+  082.txt -> Internal page: 62
+  083.txt -> Internal page: 63
+  084.txt -> Internal page: 64
+  085.txt -> Internal page: 65
+  086.txt -> Internal page: 66
+  087.txt -> Internal page: 67
+  088.txt -> Internal page: 68
+  089.txt -> Internal page: 69
+  090.txt -> Internal page: 70
+  091.txt -> Internal page: 71
+  092.txt -> Internal page: 72
+  093.txt -> Internal page: 73
+  094.txt -> Internal page: 74
+  095.txt -> Internal page: 75
+  096.txt -> Internal page: 76
+  097.txt -> Internal page: 77
+  098.txt -> Internal page: 78
+  099.txt -> Internal page: 79
+  100.txt -> Internal page: 80
+  101.txt -> Internal page: 81
+  102.txt -> Internal page: 84
+  103.txt -> Internal page: 129
+  104.txt -> Internal page: 83
+  105.txt -> Internal page: 87
+  106.txt -> Internal page: 88
+  107.txt -> Internal page: 89
+  108.txt -> Internal page: 90
+  109.txt -> Internal page: 135
+  110.txt -> Internal page: 92
+  111.txt -> Internal page: 93
+  112.txt -> Internal page: 94
+  113.txt -> Internal page: 95
+  114.txt -> Internal page: 96
+  115.txt -> Internal page: 97
+  116.txt -> Internal page: 98
+  117.txt -> Internal page: 99
+  118.txt -> Internal page: 100
+  119.txt -> Internal page: 101
+  120.txt -> Internal page: 2
+  121.txt -> Internal page: 95
+  122.txt -> Internal page: 104
+  123.txt -> Internal page: 105
+  124.txt -> Internal page: 103
+  125.txt -> Internal page: 107
+  126.txt -> Internal page: 108
+  127.txt -> Internal page: 109
+  128.txt -> Internal page: 110
+  129.txt -> Internal page: 111
+  130.txt -> Internal page: 112
+  131.txt -> Internal page: 113
+  132.txt -> Internal page: 114
+  133.txt -> Internal page: 115
+  134.txt -> Internal page: 116
+  135.txt -> Internal page: 117
+  136.txt -> Internal page: 118
+  137.txt -> Internal page: 119
+  138.txt -> Internal page: 120
+  139.txt -> Internal page: 121
+  140.txt -> Internal page: 122
+  141.txt -> Internal page: 123
+  142.txt -> Internal page: 124
+  143.txt -> Internal page: 125
+  144.txt -> Internal page: 126
+  145.txt -> Internal page: 127
+  146.txt -> Internal page: 128
+  147.txt -> Internal page: 129
+  148.txt -> Internal page: 130
+  149.txt -> Internal page: 131
+  150.txt -> Internal page: 132
+  151.txt -> Internal page: 133
+  152.txt -> Internal page: 134
+  153.txt -> Internal page: 135
+  154.txt -> Internal page: 136
+  155.txt -> Internal page: 137
+  156.txt -> Internal page: 138
+  157.txt -> Internal page: 139
+  158.txt -> Internal page: 140
+  159.txt -> Internal page: 141
+  160.txt -> Internal page: 142
+  161.txt -> Internal page: 143
+  162.txt -> Internal page: 144
+  163.txt -> Internal page: 145
+  164.txt -> Internal page: 146
+  165.txt -> Internal page: 147
+  166.txt -> Internal page: 148
+  167.txt -> Internal page: 149
+  168.txt -> Internal page: 150
+  169.txt -> Internal page: 151
+  170.txt -> Internal page: 152
+  171.txt -> Internal page: 153
+  172.txt -> Internal page: 154
+  173.txt -> Internal page: 155
+  174.txt -> Internal page: 158
+  175.txt -> Internal page: 159
+  176.txt -> Internal page: 160
+  177.txt -> Internal page: 161
+  178.txt -> Internal page: 162
+  179.txt -> Internal page: 163
+  180.txt -> Internal page: 164
+  181.txt -> Internal page: 164
+  182.txt -> Internal page: 165
+  183.txt -> Internal page: 166
+  184.txt -> Internal page: 167
+  185.txt -> Internal page: 168
+  186.txt -> Internal page: 169
+  187.txt -> Internal page: 170
+  188.txt -> Internal page: 171
+  189.txt -> Internal page: 172
+  190.txt -> Internal page: 173
+  191.txt -> Internal page: 175
+  192.txt -> Internal page: 178
+  193.txt -> Internal page: 179
+  194.txt -> Internal page: 180
+  195.txt -> Internal page: 181
+  196.txt -> Internal page: 182
+  197.txt -> Internal page: 183
+  198.txt -> Internal page: 184
+  199.txt -> Internal page: 185
+  200.txt -> Internal page: 186
+  201.txt -> Internal page: 187
+  202.txt -> Internal page: 188
+  203.txt -> Internal page: 189
+  204.txt -> Internal page: 190
+  205.txt -> Internal page: 191
+  206.txt -> Internal page: 192
+  207.txt -> Internal page: 193
+  208.txt -> Internal page: 194
+  209.txt -> Internal page: 195
+  210.txt -> Internal page: 196
+
+FILES WITHOUT PAGE NUMBERS (Front Matter/Special Pages)
+--------------------------------------------------------
+  001.txt - Title page
+  002.txt - Empty page
+  003.txt - Title/Publication info
+  004.txt - Copyright/Registration
+  005.txt - Dedication page
+  006.txt - Blank page
+  010.txt - Abbreviations
+  011.txt - Preface
+  012.txt - Preface
+  013.txt - Preface
+  014.txt - Preface
+  015.txt - Preface
+  017.txt - Chapter 1 title

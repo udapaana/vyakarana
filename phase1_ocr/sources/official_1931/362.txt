@@ -1,0 +1,45 @@
+[Internal page: 348]
+
+348                    SANSKRIT GRAMMAR.                     [ 565-567
+
+Exceptions:—
+
+( 1 ) स् and इ, when Parasmaipadi, belong to the Fifth Variety.
+
+( 2 ) Roots ending in ऋ preceded by a conjunct consonant
+may take Fourth or Fifth Form in the Ātmanepada.
+
+( 3 ) भञ्ज् and घ् Par. take the Fifth Form only. घ् Â. may
+take the Fourth or the Fifth Form.
+
+( 4 ) Of Set roots इ and those ending in ऋ ( long ) when Ātm.
+belong to either ( 4th or 5th Variety ). प्रच्, and कृण् when Â.
+belong to the Fourth.
+
+§ 566 ( a ) In the Parasmaipada the radical vowel takes
+its Vrddhi substitute; कृ-करौषीत्; इ-ऐशीत्; मञ्ज-भमाञ्जीत्, &c.
+
+( b ) In the Ātmanepada, Guṇa is substituted for final इ or
+उ, short or long; final ऋ and the penultimate vowel remain
+unchanged; final ऋ is changed to ऋर् or ऊर् in accordance with
+§ 594; चि-अचेष्ट, नी-अनेष्ट, च्यु-अच्योष्ट, द्-अकोष्ट, छ् see below,
+गिर्-गरिष्ट. धू-धोरीष्ट, हू-होदर्ट्.
+
+( c ) The Penultimate ऋ of Anit roots is optionally changed
+to र् or ऊर् सञ्जाघर्सुर् or ञ्जाघोरुत्.
+
+§ 567.  After a short vowel, and after a consonant except a
+nasal or semi-vowel, the स् of terminations beginning with स्त्
+and स्थ is dropped; इ-ऐशीत् 3 sing; इ-ऐशाथाः 2 sing; तिष्-अतेघीत्थाः
+अतिष्ट; छर्-अचरट् 3rd sing. &c.
+
+                     Paradigms.
+
+                       पच्
+
+1 अपाक्षम्  अपाक्ष   अपाक्ष्म    अपक्षि   अपक्षवहि   अपक्षमहि
+2 अपाक्षीः  अपक्षतम्  अपक्षत     अपक्षाः  अपक्षाथाम्  अपक्षध्वम्
+3 अपाक्षीत्  अपक्षताम्  अपक्षुः    अपक्षत   अपक्षाताम्  अपक्षत
+
+Conjugate similarly other Anit roots ending in consonants;
+तिष्-अतैषम्चर् P. 1. sing.; अतिष्टस् Ātm. 1. sing.; युञ्ज-अयौक्षम्,

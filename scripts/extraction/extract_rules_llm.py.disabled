@@ -1,0 +1,218 @@
+#!/usr/bin/env python3
+"""
+LLM-based rule extraction that constructs rules sequentially.
+
+For each rule N:
+1. Read pages starting from last known position
+2. Ask LLM to construct rule N and identify where it ends
+3. Write the rule file
+4. Continue with next rule from the end position
+"""
+
+import anthropic
+import os
+import yaml
+from pathlib import Path
+import json
+import re
+
+
+class LLMRuleExtractor:
+    def __init__(self, structured_pages_dir: Path, output_dir: Path):
+        self.structured_pages_dir = structured_pages_dir
+        self.output_dir = output_dir
+        self.output_dir.mkdir(parents=True, exist_ok=True)
+
+        # Initialize Anthropic client
+        api_key = os.environ.get('ANTHROPIC_API_KEY')
+        if not api_key:
+            raise ValueError("ANTHROPIC_API_KEY environment variable not set")
+        self.client = anthropic.Anthropic(api_key=api_key)
+
+        # Get sorted list of all pages
+        self.all_pages = sorted(
+            self.structured_pages_dir.glob('page_*.md'),
+            key=lambda p: int(p.stem.split('_')[1])
+        )
+        print(f"Found {len(self.all_pages)} structured pages")
+
+    def read_pages(self, start_page: int, num_pages: int = 5) -> tuple[str, list[int]]:
+        """Read multiple pages starting from start_page.
+
+        Returns:
+            (combined_content, page_numbers)
+        """
+        pages_content = []
+        page_numbers = []
+
+        for page_file in self.all_pages:
+            page_num = int(page_file.stem.split('_')[1])
+            if page_num < start_page:
+                continue
+            if page_num >= start_page + num_pages:
+                break
+
+            content = page_file.read_text()
+            pages_content.append(f"=== PAGE {page_num} ===\n{content}\n")
+            page_numbers.append(page_num)
+
+        return '\n'.join(pages_content), page_numbers
+
+    def extract_rule(self, rule_num: int, start_page: int, max_pages: int = 10) -> tuple[str, int, list[int]]:
+        """Extract a single rule using LLM.
+
+        Args:
+            rule_num: The rule number to extract (e.g., 5 for § 5)
+            start_page: Page number to start reading from
+            max_pages: Maximum number of pages to read initially
+
+        Returns:
+            (rule_content, end_page, source_pages)
+            - rule_content: The markdown content for the rule (without YAML front matter)
+            - end_page: The page number where this rule ends (for starting next rule)
+            - source_pages: List of page numbers that contained this rule
+        """
+        print(f"\n📖 Extracting rule {rule_num} starting from page {start_page}...")
+
+        # Read initial batch of pages
+        pages_content, page_numbers = self.read_pages(start_page, max_pages)
+
+        # Construct prompt for LLM
+        prompt = f"""You are extracting individual grammar rules from Kale's Sanskrit Grammar.
+
+I need you to extract rule § {rule_num} from the provided pages.
+
+Here are the pages to analyze:
+
+{pages_content}
+
+Please:
+1. Find and extract the complete content for rule § {rule_num}
+2. Include the rule header (e.g., "## § {rule_num}. Rule Title")
+3. Include ALL content that belongs to this rule (subsections, examples, notes, etc.)
+4. Stop at the boundary where the next rule begins (or end of provided pages)
+5. Tell me which page this rule ends on
+
+IMPORTANT NOTES:
+- Some pages have combined headers like "## § 5-6" which is an introduction/context section, but then § 5 and § 6 are separate rules with their own headers
+- If you see "## § {rule_num}." as a header, that is the START of this rule's main content
+- A rule may span multiple pages
+- The rule ends when you encounter the next rule number's header (e.g., "## § {rule_num + 1}")
+
+Return your response in this EXACT JSON format:
+{{
+  "rule_content": "the complete markdown content for rule § {rule_num}, including the ## header",
+  "end_page": <the page number where this rule ends>,
+  "source_pages": [<list of page numbers that contained parts of this rule>],
+  "notes": "any observations about the extraction"
+}}
+
+If the rule is not found in the provided pages, or continues beyond them, indicate this in the notes field."""
+
+        # Call LLM
+        response = self.client.messages.create(
+            model="claude-sonnet-4-20250514",
+            max_tokens=4096,
+            messages=[{
+                "role": "user",
+                "content": prompt
+            }]
+        )
+
+        # Parse response
+        response_text = response.content[0].text
+
+        # Extract JSON from response (it might be wrapped in ```json blocks)
+        json_match = re.search(r'```json\s*(\{.*?\})\s*```', response_text, re.DOTALL)
+        if json_match:
+            json_text = json_match.group(1)
+        else:
+            # Try to find JSON object directly
+            json_match = re.search(r'\{.*\}', response_text, re.DOTALL)
+            if json_match:
+                json_text = json_match.group(0)
+            else:
+                raise ValueError(f"Could not find JSON in LLM response: {response_text[:500]}")
+
+        result = json.loads(json_text)
+
+        print(f"   ✓ Extracted rule {rule_num}")
+        print(f"   ✓ Content length: {len(result['rule_content'])} chars")
+        print(f"   ✓ Source pages: {result['source_pages']}")
+        print(f"   ✓ Ends on page: {result['end_page']}")
+        if result.get('notes'):
+            print(f"   ℹ Notes: {result['notes']}")
+
+        return result['rule_content'], result['end_page'], result['source_pages']
+
+    def write_rule_file(self, rule_num: int, content: str, source_pages: list[int]):
+        """Write a rule to its output file."""
+        rule_file = self.output_dir / f"rule_{rule_num}.md"
+
+        # Create YAML front matter
+        yaml_data = {
+            'rule': f'§ {rule_num}',
+            'source_pages': source_pages
+        }
+
+        with open(rule_file, 'w', encoding='utf-8') as f:
+            f.write('---\n')
+            f.write(yaml.dump(yaml_data, allow_unicode=True, sort_keys=False))
+            f.write('---\n\n')
+            f.write(content)
+
+        print(f"   💾 Written to {rule_file}")
+
+    def extract_all_rules(self, start_rule: int = 1, end_rule: int = 972):
+        """Extract all rules sequentially."""
+        print(f"\n🚀 Starting sequential LLM-based extraction")
+        print(f"   Rules: {start_rule} to {end_rule}")
+        print(f"   Output: {self.output_dir}\n")
+
+        current_page = 1  # Start from page 1
+
+        for rule_num in range(start_rule, end_rule + 1):
+            try:
+                content, end_page, source_pages = self.extract_rule(rule_num, current_page)
+                self.write_rule_file(rule_num, content, source_pages)
+
+                # Next rule starts where this one ended
+                current_page = end_page
+
+                # Progress indicator
+                if rule_num % 10 == 0:
+                    progress = (rule_num - start_rule + 1) / (end_rule - start_rule + 1) * 100
+                    print(f"\n📊 Progress: {rule_num}/{end_rule} rules ({progress:.1f}%)\n")
+
+            except Exception as e:
+                print(f"   ❌ Error extracting rule {rule_num}: {e}")
+                # Try to continue from next page
+                current_page += 1
+                if current_page > 700:  # Safety check
+                    print(f"   ⚠️  Reached page limit, stopping")
+                    break
+
+        print(f"\n✅ Extraction complete!")
+        print(f"   Processed rules {start_rule} to {rule_num}")
+
+
+def main():
+    import argparse
+
+    parser = argparse.ArgumentParser(description='Extract rules using LLM')
+    parser.add_argument('--start', type=int, default=1, help='Start rule number')
+    parser.add_argument('--end', type=int, default=972, help='End rule number')
+    parser.add_argument('--output', type=str, default='rules_llm', help='Output directory name')
+
+    args = parser.parse_args()
+
+    base_dir = Path('/Users/skmnktl/Downloads/ocr')
+    structured_pages_dir = base_dir / 'structured_pages'
+    output_dir = base_dir / args.output
+
+    extractor = LLMRuleExtractor(structured_pages_dir, output_dir)
+    extractor.extract_all_rules(args.start, args.end)
+
+
+if __name__ == '__main__':
+    main()

@@ -1,0 +1,38 @@
+[Internal page: 78]
+78                    HIGHER SANSKRIT GRAMMAR.                    [ § 126-128
+
+consonant, श् becomes न् by virtue of the rule शोश्चनुत्परे ( Pan.
+VIII. 4. 40 ), and then न् may optionally be changed to ण् by
+the rule नो णः ( Pan. VIII. 4. 2 ); and thus before the case-affixes
+of the dual and plu. beginning with the consonants, we have
+श्वभिः or श्वणभिः, श्वभ्यः or श्वणभ्यः, श्वभ्याम् or श्वणभ्याम्, श्वसु or श्वणसु,
+श्वनाम् । Again before the case-affixes beginning with vowels
+viz. अम्, ओस्, आम्, the वकार of the base श्वन् is dropped
+( वादनात्न् ), when the root-स् is in weak grade ( Pan. VI. 4.
+132, 133 ), and the resultant base is श्न्; and न् is then
+changed to its anusvāra, which is again changed to its
+parasavarṇa; and thus we get शुनम्, शुनः, शुनाम् । So also
+in the ins. dat. and abl. sing., where श् is dropped by the
+general rule, and न् is retained, and consequently we have
+शुना, शुने, शुनः । In the loc. sing. न् may or may not be dropped,
+and thus we have शुनि or शुनि । The fem. is formed by adding the
+affix आ to शुन् and this gives शुनी, which is declined regularly. The
+fem. may also be formed by adding ई to श्वन् → श्वी ( by शुनोष्य, Pan.
+VI. 4. 116 ), which is also declined regularly after the analogy
+of पृथिवी ॥ There are no neuter forms.
+
+§ 127. Tabular representation of श्वन् ( a dog ).
+
+                MASCULINE.
+
+Singular.
+
+    Nom.        श्वा            Voc.            श्वन् or श्व
+    Acc.        श्वानम्        Ins.            शुना
+    Dat.        शुने            Abl.            शुनः
+    Gen.        शुनः            Loc.            शुनि or शुनि
+
+                Bases ending in यु ॥
+
+§ 128. There is only one word ending in यु, viz. युवन्
+( a youth ), though as a secondary base it occurs in such

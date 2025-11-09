@@ -1,0 +1,24 @@
+[Internal page: 307]
+
+§ 493-497 ]         CONJUGATION OF VERBS.                     307
+
+2. थ       अथुः      अ                2. से      आथे      अे
+3. अ       अतुः      उः               3. ए      आते      इरे
+
+§ 494.  The Parasmaipada  singular terminations  are strong; the rest weak.   Before the strong terminations the penultimate short vowel takes its Guṇa  substitute.  The  final  vowel  and penultimate  अ  take  Vṛddhi  necessarily  in  the  third  and optionally in the first person singular.  In  the  2nd  person singular the final  vowel  takes  Guṇa  and  the  penultimate  अ remains unchanged.
+
+§ 495.  *Special rules about the admission  of the intermediate इ before the terminations व, म, व, से, वहे, महे; see (§457 ).
+
+    ( a )  All Set roots admit it, whether set  or  anit, except इ, य, य, हु, व; i, य, इ, य; ग्रु, permit इ इ or अ; But इ with समु, and इ admit  it only as तस्करीय, वस्तीय.
+
+    ( b )  Anit roots ending in short  अ,  except  अ.  reject it before य; as तस्तय् from स्य; but आरिय from इ.
+
+    ( c ) Anit roots with a final vowel or with  a  penultimate अ admit it optionally before य.
+
+§ 496.  When initial इ or य of a root takes  Guṇa or Vṛddhi substitute, the reduplicative इ or य  is  changed  to  इय  or  उय; otherwise the two  vowels  combine  to  form  long  इ  or  उ; as इयय्+अ=इयेय, उच्चोय्+अ=उचोय; इविध्, &c.
+
+§ 497.  The final ग्, short or long,  is  changed  to  सय before a vowel weak termiation and इ to इय or य as  it is  preceded  by  a conjunct consonant or not; as इयय्+इव=इयेयव ! dual; तितिर्+इव=तितिर्+इव=तितिक्व, लिभिर्+इरे=लिभिरिरे, &c.
+
+    * इङ्वुड्सदृत्कूढ्मा लिटि । Pāṇ.  VII.  2.  13,
+      अन्तानुवातोनानुपदस्य्ताद्मिते पूर्वः वेधयति ।
+      सद्वन् इदेदीनवार्चितेनादेव कामद्यो लिटि पोरैव परे ॥ ( Sid. Kau. )

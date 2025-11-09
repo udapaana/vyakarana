@@ -1,0 +1,43 @@
+2                                SANSKRIT GRAMMAR.                    [ § 5-7
+
+its natural length;* as in वस:रथली रस्वु सा जगति, &c.
+(Vik. 1.); तस्या: खुरन्यासपविन्यपाङ्गम् (Rag. II. 2.)
+
+§ 6. In the case of metres regulated by syllables each line
+is divided into groups of three syllables each, called Gaṇas or
+syllabic feet, named as म, न, भ, य, ज, र, स, and त. The names
+and the Schemes of these are given in the following stanza.
+
+मत्रिकाधिललघम् नकारो भादिरक: युनरादिलघुयै: ।
+जो एकमध्यगतो रह्मध्य: सोऽन्तगुरु: कथितोन्तलघुरत: ॥
+
+i. e. म has all its syllables long; न has all its syllables short, भ
+has its first syllable long, य has its first syllable short; ज has
+its middle syllable long; र has its middle syllable short, स has
+its last syllable long and त has its last syllable short. †
+
+The symbol ᵕ stands for a short or light syllable; the sym-
+bol — denotes a long vowel or a heavy syllable. Symbolically
+represented these Gaṇas will stand as under:—
+
+म———        ज ᵕ —ᵕ
+न ᵕ ᵕ ᵕ         र— ᵕ —
+भ— ᵕ ᵕ         स ᵕ ᵕ —
+य ᵕ ——        त — — ᵕ
+
+Similarly the letter ल is used to denote a short syllable and
+ग a long one at the close of a line.
+
+§ 7. In the case of metres regulated by syllabic instants
+each line is divided into groups of four mātrās called the Mātrā
+Gaṇas; one मत्रा or instant is allotted to a short vowel and two
+to a long one. The Mātrā gaṇas are five in number. These
+may be symbolically represented thus:—
+
+म — —, स ᵕ ᵕ —, ज ᵕ — ᵕ, य — ᵕ ᵕ, न ᵕ ᵕ ᵕ ᵕ
+
+* Vide Vṛttaratnākara I. 9.
+श्लो. संयोगपूर्वश्च तथा पादान्तगोऽपि वा ॥ Chhandomanjari.
+† The following verse is easier to remember than one given
+above; आदिमध्यावसानेषु यरता भान्ति लघुप्रम् । भजसा गौरवं प्राप्ति
+मनो तु गुरुलाघवम् ॥

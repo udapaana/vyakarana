@@ -1,0 +1,37 @@
+[Internal page: 75]
+§ 122-123 ]                    DECLENSION.                    75
+
+syllable ). Thus by the former accentuation, the स् of the nom.
+affix is dropped, ङ् being substituted for स् by the rule
+नामाखरे ( वा० II. 3. 48 ; Pan. VI. 1. 168 ), and accordingly we
+have दिङ्मुक् = दिङ् or दिङ्, ङ् being changed to ं before the initial
+letter of the following words by व्यत्ययस्य ( Pan. VII. 4. 87 );
+thus दिङ्मुखम् ( facing the quarter ), दिङ्मूढ ( bewildered as regards
+direction ). If, however, we accent the last syllable, then
+we have दिङ्मुक् + स् by नामाखरे ( Pan. VI. 1. 168 ), and we get
+दिङ्मुक् + स् → विसृजनीय → दिङ्मुक् or दिङ्मुट् ॥ The voc. of दिश्
+( without मुट् is दिक् ॥ )
+
+( 3 ) Neuter दिश् adds मुट् before the case-affixes of the
+nom., voc., and acc. sing. ( पूर्वमुडगमः, Pan. VII. 1. 98 ), and thus
+we have दिम् + क् । = दिम्क् or दिमुक्, but it is not in use in the सं०
+॥ It is customary to use in this sense, the neuter उदक् ( 'water',
+Lat. "udo") derived from the root उन्द् by the affix क्विप् ( उद्गति
+उदक्, Pan. III. 2. 61 ). Before the case-affixes beginning with
+a consonant this base becomes उदग्, and before case-affixes
+beginning with non-nasal mutes, it becomes उदग् ( उदग्भिः or
+उदङ्भिः, उदग्भ्यः or उदङ्भ्यः, उदक्षु ) By the special rule उदपस्सु ततो
+लोपः सकारस्य च ( Pan. VIII. 3. 7 Vart. ) the स्-विसर्ग in the nom. pl.
+is dropped, and we have उदञ्च्, उदञ् च or उदगि ( nom. plu. = northern
+quarters). Similarly the acc. pl. is उदचः or उदङ्, &c.
+
+§ 123. Tabular representation of the declension of दिश्.
+
+                        FEMININE.
+
+Singular.
+
+    Nom.    दिक् or दिङ्        Voc.        दिक्
+    Acc.    दिशम्            Ins.        दिशा
+    Dat.    दिशे            Abl.        दिशः
+    Gen.    दिशः            Loc.        दिशि or दिक्

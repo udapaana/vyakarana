@@ -11,12 +11,13 @@ from pathlib import Path
 from datetime import datetime
 import sys
 
+
 class BatchProcessor:
     def __init__(self, repo_path: str):
         self.repo_path = Path(repo_path)
-        self.ocr_claude = self.repo_path / "ocr_output" / "claude"
-        self.ocr_google = self.repo_path / "ocr_output" / "google"
-        self.output_dir = self.repo_path / "structured_pages"
+        self.ocr_claude = self.repo_path / "phase1_ocr" / "claude"
+        self.ocr_google = self.repo_path / "phase1_ocr" / "google"
+        self.output_dir = self.repo_path / "phase2_structured"
         self.status_file = self.repo_path / "data" / "processing_status.json"
         self.consistency_file = self.repo_path / "data" / "consistency_data.json"
         self.style_guide_file = self.repo_path / "docs" / "STRUCTURING_RAW_OCR.md"
@@ -43,7 +44,7 @@ class BatchProcessor:
                 "validation_failures": [],
                 "last_updated": None,
                 "total_pages": 0,
-                "current_batch": 0
+                "current_batch": 0,
             }
 
     def _save_status(self):
@@ -59,7 +60,7 @@ class BatchProcessor:
                 "citations": {},
                 "abbreviations": {},
                 "topics": [],
-                "devanagari_words": {}
+                "devanagari_words": {},
             }
 
     def _save_consistency(self):
@@ -80,21 +81,23 @@ class BatchProcessor:
         Args:
             include_errors: If True, include pages that were processed with errors
         """
-        claude_pages = set(int(f.stem.split('_')[1])
-                          for f in self.ocr_claude.glob("page_*.txt"))
-        google_pages = set(int(f.stem.split('_')[1])
-                          for f in self.ocr_google.glob("page_*.txt"))
+        claude_pages = set(
+            int(f.stem.split("_")[1]) for f in self.ocr_claude.glob("page_*.txt")
+        )
+        google_pages = set(
+            int(f.stem.split("_")[1]) for f in self.ocr_google.glob("page_*.txt")
+        )
 
         both = sorted(claude_pages & google_pages)
-        processed = set(int(p.split('_')[1]) for p in self.status["processed_pages"])
+        processed = set(int(p.split("_")[1]) for p in self.status["processed_pages"])
 
         # Handle errors list which may contain dicts or strings
         error_pages = []
         for entry in self.status["processed_with_errors"]:
             if isinstance(entry, dict):
-                error_pages.append(int(entry["page"].split('_')[1]))
+                error_pages.append(int(entry["page"].split("_")[1]))
             else:
-                error_pages.append(int(entry.split('_')[1]))
+                error_pages.append(int(entry.split("_")[1]))
 
         if include_errors:
             # Include error pages in the remaining list
@@ -106,7 +109,7 @@ class BatchProcessor:
             "total": len(both),
             "processed": sorted(processed),
             "errors": sorted(error_pages),
-            "remaining": remaining
+            "remaining": remaining,
         }
 
     def process_page_with_claude(self, page_num: int):
@@ -121,8 +124,8 @@ class BatchProcessor:
             print(f"  ❌ OCR files missing for page {page_num}")
             return False
 
-        claude_ocr = claude_file.read_text(encoding='utf-8')
-        google_ocr = google_file.read_text(encoding='utf-8')
+        claude_ocr = claude_file.read_text(encoding="utf-8")
+        google_ocr = google_file.read_text(encoding="utf-8")
 
         # Build prompt
         prompt = self._build_processing_prompt(page_num, claude_ocr, google_ocr)
@@ -132,18 +135,18 @@ class BatchProcessor:
         try:
             # Remove API key from environment to use Max subscription
             env = os.environ.copy()
-            had_key = 'ANTHROPIC_API_KEY' in env
-            env.pop('ANTHROPIC_API_KEY', None)
+            had_key = "ANTHROPIC_API_KEY" in env
+            env.pop("ANTHROPIC_API_KEY", None)
             if had_key:
                 print(f"  🔓 Removed API key, using Max subscription")
 
             result = subprocess.run(
-                ['claude', '--print', '--dangerously-skip-permissions'],
+                ["claude", "--print", "--dangerously-skip-permissions"],
                 input=prompt,
                 capture_output=True,
                 text=True,
                 timeout=300,  # 5 minute timeout
-                env=env
+                env=env,
             )
 
             if result.returncode != 0:
@@ -152,7 +155,10 @@ class BatchProcessor:
                     print(f"     stderr: {result.stderr[:500]}")
                 if result.stdout:
                     print(f"     stdout: {result.stdout[:500]}")
-                self._mark_as_error(page_name, f"CLI error code {result.returncode}: {result.stderr[:200]}")
+                self._mark_as_error(
+                    page_name,
+                    f"CLI error code {result.returncode}: {result.stderr[:200]}",
+                )
                 return False
 
             response = result.stdout
@@ -308,24 +314,24 @@ Process page {page_num} now and return ONLY the JSON:"""
         """Extract key sections from style guide"""
         # For now, return full guide (could optimize later)
         # Extract just the core sections to fit in context
-        lines = self.style_guide.split('\n')
+        lines = self.style_guide.split("\n")
 
         # Find the main style guide section (between the first ## and the MCP section)
         start_idx = None
         end_idx = None
 
         for i, line in enumerate(lines):
-            if '# Kale\'s Sanskrit Grammar - Structuring Style Guide' in line:
+            if "# Kale's Sanskrit Grammar - Structuring Style Guide" in line:
                 start_idx = i
-            if '# MCP Server Configuration' in line and start_idx:
+            if "# MCP Server Configuration" in line and start_idx:
                 end_idx = i
                 break
 
         if start_idx and end_idx:
-            return '\n'.join(lines[start_idx:end_idx])
+            return "\n".join(lines[start_idx:end_idx])
 
         # Fallback: return first 500 lines
-        return '\n'.join(lines[:500])
+        return "\n".join(lines[:500])
 
     def _parse_and_save_response(self, page_num: int, response: str):
         """Parse Claude's response and save results"""
@@ -333,8 +339,8 @@ Process page {page_num} now and return ONLY the JSON:"""
 
         try:
             # Extract JSON from response (it might have markdown wrapper)
-            json_start = response.find('{')
-            json_end = response.rfind('}') + 1
+            json_start = response.find("{")
+            json_end = response.rfind("}") + 1
 
             if json_start == -1 or json_end == 0:
                 print(f"  ❌ No JSON found in response")
@@ -348,14 +354,14 @@ Process page {page_num} now and return ONLY the JSON:"""
 
             # Save structured markdown
             md_file = self.output_dir / f"{page_name}.md"
-            md_file.write_text(data["structured_markdown"], encoding='utf-8')
+            md_file.write_text(data["structured_markdown"], encoding="utf-8")
 
             # Save validation report
             validation_file = self.output_dir / f"{page_name}_validation.json"
             validation_data = {
                 "validation": data["validation"],
                 "ocr_corrections": data["ocr_corrections"],
-                "timestamp": datetime.now().isoformat()
+                "timestamp": datetime.now().isoformat(),
             }
             validation_file.write_text(
                 json.dumps(validation_data, indent=2, ensure_ascii=False)
@@ -367,7 +373,8 @@ Process page {page_num} now and return ONLY the JSON:"""
 
             # Remove from errors list if it was previously there (retry success)
             self.status["processed_with_errors"] = [
-                e for e in self.status["processed_with_errors"]
+                e
+                for e in self.status["processed_with_errors"]
                 if e["page"] != page_name
             ]
 
@@ -383,7 +390,9 @@ Process page {page_num} now and return ONLY the JSON:"""
             self._save_status()
 
             print(f"  ✅ Saved {page_name}.md")
-            print(f"     Content preserved: {data['validation']['content_preserved_percentage']:.1f}%")
+            print(
+                f"     Content preserved: {data['validation']['content_preserved_percentage']:.1f}%"
+            )
             print(f"     OCR corrections: {data['validation']['ocr_corrections_made']}")
 
             return True
@@ -395,12 +404,15 @@ Process page {page_num} now and return ONLY the JSON:"""
             return False
         except KeyError as e:
             print(f"  ❌ Missing expected field in response: {e}")
-            print(f"     Available keys: {list(data.keys()) if 'data' in locals() else 'N/A'}")
+            print(
+                f"     Available keys: {list(data.keys()) if 'data' in locals() else 'N/A'}"
+            )
             self._mark_as_error(page_name, f"Missing field: {e}")
             return False
         except Exception as e:
             print(f"  ❌ Error saving: {e}")
             import traceback
+
             traceback.print_exc()
             self._mark_as_error(page_name, f"Error: {e}")
             return False
@@ -411,7 +423,7 @@ Process page {page_num} now and return ONLY the JSON:"""
             error_entry = {
                 "page": page_name,
                 "error": error_msg,
-                "timestamp": datetime.now().isoformat()
+                "timestamp": datetime.now().isoformat(),
             }
             self.status["processed_with_errors"].append(error_entry)
             self._save_status()
@@ -438,7 +450,7 @@ Process page {page_num} now and return ONLY the JSON:"""
                         self.consistency["terms"][term_key] = {
                             "pages": [page_num],
                             "devanagari": term.get("term_deva"),
-                            "definition": term.get("definition")
+                            "definition": term.get("definition"),
                         }
 
         # Track Devanagari words
@@ -453,7 +465,12 @@ Process page {page_num} now and return ONLY the JSON:"""
 
         self._save_consistency()
 
-    def process_batch(self, batch_size: int = 10, start_page: int = None, reprocess_errors: bool = False):
+    def process_batch(
+        self,
+        batch_size: int = 10,
+        start_page: int = None,
+        reprocess_errors: bool = False,
+    ):
         """Process a batch of pages
 
         Args:
@@ -489,23 +506,34 @@ Process page {page_num} now and return ONLY the JSON:"""
             print()
 
         print(f"\n✅ Batch complete: {success_count}/{len(batch)} successful")
-        print(f"📊 Total processed: {len(self.status['processed_pages'])}/{pages['total']}")
+        print(
+            f"📊 Total processed: {len(self.status['processed_pages'])}/{pages['total']}"
+        )
         print(f"⚠️  Needs review: {len(self.status['needs_review'])}")
         print(f"❌ Errors: {len(self.status['processed_with_errors'])}")
+
 
 def main():
     import argparse
 
-    parser = argparse.ArgumentParser(description='Process Kale Grammar OCR in batches')
-    parser.add_argument('--batch-size', type=int, default=10, help='Pages per batch')
-    parser.add_argument('--start-page', type=int, help='Start from specific page')
-    parser.add_argument('--pages', type=str, help='Specific pages to process (comma-separated, e.g. "2,5,10")')
-    parser.add_argument('--status', action='store_true', help='Show status only')
-    parser.add_argument('--reprocess-errors', action='store_true', help='Reprocess pages that had errors')
+    parser = argparse.ArgumentParser(description="Process Kale Grammar OCR in batches")
+    parser.add_argument("--batch-size", type=int, default=10, help="Pages per batch")
+    parser.add_argument("--start-page", type=int, help="Start from specific page")
+    parser.add_argument(
+        "--pages",
+        type=str,
+        help='Specific pages to process (comma-separated, e.g. "2,5,10")',
+    )
+    parser.add_argument("--status", action="store_true", help="Show status only")
+    parser.add_argument(
+        "--reprocess-errors",
+        action="store_true",
+        help="Reprocess pages that had errors",
+    )
 
     args = parser.parse_args()
 
-    processor = BatchProcessor('/Users/skmnktl/Downloads/ocr')
+    processor = BatchProcessor("/Users/skmnktl/Downloads/ocr")
 
     if args.status:
         pages = processor.get_available_pages()
@@ -515,9 +543,9 @@ def main():
         print(f"   Remaining: {len(pages['remaining'])}")
         print(f"   Needs review: {len(processor.status['needs_review'])}")
         print(f"   Errors: {len(processor.status['processed_with_errors'])}")
-        if processor.status['processed_with_errors']:
+        if processor.status["processed_with_errors"]:
             print(f"\n   Pages with errors:")
-            for entry in processor.status['processed_with_errors']:
+            for entry in processor.status["processed_with_errors"]:
                 if isinstance(entry, dict):
                     print(f"      - {entry['page']}: {entry['error']}")
                 else:
@@ -526,7 +554,7 @@ def main():
 
     # Handle specific pages
     if args.pages:
-        specific_pages = [int(p.strip()) for p in args.pages.split(',')]
+        specific_pages = [int(p.strip()) for p in args.pages.split(",")]
         print(f"\n📦 Processing {len(specific_pages)} specific pages")
         print(f"   Pages: {', '.join(map(str, specific_pages))}")
         print()
@@ -543,5 +571,6 @@ def main():
 
     processor.process_batch(args.batch_size, args.start_page, args.reprocess_errors)
 
-if __name__ == '__main__':
+
+if __name__ == "__main__":
     main()

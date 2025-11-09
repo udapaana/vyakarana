@@ -1,62 +1,74 @@
-# Quick Start Guide
+# Quick Start - Resume Rule Extraction
 
-## Step 1: Get Google Cloud Vision Credentials
+## When API Access Returns (2025-11-01)
 
-You're creating an API key, but for Google Vision we actually need a **Service Account JSON file**.
+### 1. Verify Environment
+```bash
+cd /Users/skmnktl/Downloads/ocr
+echo $ANTHROPIC_API_KEY  # Should show your key
+python3 -c "import anthropic; print('✓ anthropic package installed')"
+```
 
-### Option A: Use API Key (Simpler but less secure)
-The API key you just created can work, but we need to modify our code slightly.
+### 2. Run Extraction
+```bash
+# Full extraction (all 972 rules)
+python scripts/extraction/extract_rules_llm.py --start 1 --end 972 --output rules_llm
+```
 
-### Option B: Use Service Account (Recommended)
-1. In Google Cloud Console, go to "IAM & Admin" > "Service Accounts"
-2. Click "Create Service Account"
-3. Name it "ocr-kale-vision"
-4. Grant role: "Cloud Vision API User"
-5. Click "Create Key" > "JSON"
-6. Download the JSON file
-7. Save it somewhere safe (e.g., `~/credentials/google-vision-ocr-kale.json`)
-8. In `.env`, set:
-   ```
-   GOOGLE_APPLICATION_CREDENTIALS=/Users/yourusername/credentials/google-vision-ocr-kale.json
-   ```
+### 3. Monitor Progress
+- Progress shown every 10 rules
+- Estimated time: 2-3 hours
+- Output: `rules_llm/rule_1.md` through `rules_llm/rule_972.md`
 
-## Step 2: Get Anthropic API Key
+### 4. Verify Results
+```bash
+# Count extracted rules (should be 972)
+ls rules_llm/rule_*.md | wc -l
 
-1. Go to https://console.anthropic.com/
-2. Create an API key
-3. Copy the key
-4. In `.env`, set:
-   ```
-   ANTHROPIC_API_KEY=sk-ant-xxxxxxxxxxxxx
-   ```
+# Check for empty files (should be none)
+find rules_llm -name "rule_*.md" -size 0
 
-## Step 3: Verify Setup
+# Spot check a few rules
+head -20 rules_llm/rule_5.md
+head -20 rules_llm/rule_326.md
+```
+
+## If Interrupted
+
+If extraction is interrupted at rule N, resume from that point:
+```bash
+python scripts/extraction/extract_rules_llm.py --start N --end 972 --output rules_llm
+```
+
+## Current State
+
+- ✅ Phase 1: PDF to images (complete)
+- ✅ Phase 2: Images to structured pages (complete - 729 pages)
+- 🔄 Phase 3: Pages to individual rules (ready to run)
+
+**Files ready:**
+- `scripts/extraction/extract_rules_llm.py` - Main extraction script
+- `EXTRACTION_PLAN.md` - Full documentation
+- `rules_llm/rule_1.md` - Example of correct extraction
+
+**What's wrong with current rules/ directory:**
+- 947/972 rules extracted (25 missing)
+- Unknown correctness (e.g., rule 6 had wrong content)
+- Need full LLM-based re-extraction
+
+## After Successful Extraction
 
 ```bash
-source .venv/bin/activate
-python3 scripts/load_env.py
+# Archive old extraction
+mv rules rules_old_regex_based
+
+# Use new extraction
+mv rules_llm rules
+
+# Verify
+ls rules/rule_*.md | wc -l  # Should show 972
 ```
 
-Should show:
-```
-✓ ANTHROPIC_API_KEY: sk-ant-...
-✓ GOOGLE_APPLICATION_CREDENTIALS: /path/to/file.json
-✓ All API keys configured!
-```
+---
 
-## Step 4: Test OCR
-
-```bash
-# Test Google Vision
-python3 scripts/google_vision_ocr.py
-
-# Test Claude Vision
-python3 scripts/claude_vision_ocr.py
-```
-
-## Next Steps
-
-Once both work, we can:
-1. Implement the merge module
-2. Create the orchestration script
-3. Process all 729 pages!
+**Next command to run:** `python scripts/extraction/extract_rules_llm.py --start 1 --end 972 --output rules_llm`

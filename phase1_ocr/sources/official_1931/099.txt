@@ -1,0 +1,37 @@
+[Internal page: 79]
+§ 128-129 ]                    DECLENSION.                    79
+
+words as पञ्चयुवन् ( containing or aggregating five youths ). In
+the nom. sing. स् is dropped, the अ of युवन् is changed to आ
+by virtue of the rule युवोरनाकौ ( Pan. VII. 1. 1 ) thus युवा. So
+also is the voc. sing. formed: युवन्, युवन् + आ = युवा + आ = युवाः in
+which the substitute-आ takes the place of स्, but it is not dropped
+like स्, and so the terminations ओस्, आम्, ए, आम्, following
+it, do not occasion the dropping of न् by the rule नाम्यन्ते
+( Pan. VI. 4. 3 ). So also we have युवानौ ( dual ), युवानः ( plu. ),
+युवाने, युवानाम् and the loc. sing. युवानि which is like the form
+made from the base युवन् ॥ So also युवना ( ins. sं० ) in which
+न् is retained. Before the case-affixes beginning with consonants,
+न् may be changed to ण् or otherwise ; thus युवभिः or युवणभिः,
+युवभ्यः or युवणभ्यः, युवभ्याम् or युवणभ्याम्, युवसु or युवणसु, युवनाम्; युवनि
+or युवानि ॥ Before न्, अम्, न् is generally dropped, and thus we
+have युवानम्, युवनोः, युवनः ( gen. sं० ) which is also युवनः ( loc. sं०)॥
+The fem. is युवती, which is declined like the fem. of भगवत्; and
+this base is not used in the neuter.
+
+§ 129. Tabular representation of युवन् ( a youth ).
+
+                        MASCULINE.
+
+Singular.
+
+    Nom.        युवा            Voc.            युवन् or युवाः
+    Acc.        युवानम्        Ins.            युवना
+    Dat.        युवने            Abl.            युवनः
+    Gen.        युवनः            Loc.            युवनि or युवानि
+
+Dual.
+
+    Nom., voc., and acc.        युवानौ        Ins., dat., and abl.    युवभ्याम्
+                                                        or युवणभ्याम्
+    Gen. and loc.            युवनोः

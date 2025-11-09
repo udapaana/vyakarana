@@ -1,0 +1,12 @@
+[Internal page: 152]
+152                    SANSKRIT GRAMMAR.                    [ § 247-249
+
+(a) That is a Samānādhikarana Bah. in which both the members are in apposition to each other i. a. have the same case relation when dissolved. There are six kinds of this according as the यद् is in any one of the six oblique cases; e. g. प्राप्तं उदकं यं अर्तौ प्राप्तोदकौ ग्रामः, ऊढः रथः येन अर्तौ ऊढरथः अनुङुत, उपह्तत-पञ्जः रञ्जः; उदुतः औदनः यस्याः सा उदुतौदना स्थालौ, पीतं अम्बरै अस्य स पीताम्बरौ इरिः; वीरः पुरुषाः यस्मिन् स वीरपुरुषौ ग्रामः ।
+
+§ 248. A Vyadhikarana Bah. is that whose members are not in apposition to each other i. e. are in different cases when dissolved. A Vyadhikarana Bah. is not allowed in any case except in the Genitive and the Locative;* as चक्रै पाणौ यस्य स चक्रपाणिः हरिः, चन्द्रस्य इव कान्तिपदेयं स चन्द्रकान्तिः †; so पद्मगन्धः, शेक्षपाणिः, &c. झूषी शेखरे यस्य अर्तौ शूशिशेखरः &c.; but पक्रभिश्छुकूमस्य पक्रश्छुक्तः is not allowed.
+
+§ 249 Obs —The Bah. compounds are also further divided into two kinds; तद्गुणसंविज्ञानबहुव्रीहि: and अतद्गुणसंविज्ञानबहुव्रीहि:. That in which the sense of the attributive member is also present is called Tadgunasamvijnāna. पीताम्बरं हरिमाह्म is an instance of the first; here such a हरि is meant as has the yellow silk garment actually on. चित्रयं गोषां आनय is of the other;
+
+* सप्तमीविधौपणै बहुव्रीहौ । Pān. II, 2. 35. In a Bah. the noun in the Loc. and an adjectival word are placed first; अत् एव ज्ञापकात् व्यधिकरणपदो बहुव्रीहि: । Sid. Kau.
+
+† This is allowed by the Vārt. 'सप्तम्युपमानपूर्वेपदत्योत्तरपदलो-पक्ष वक्तब्यः । In a Bah. comp. the word following a noun in the Loc. or an upamānapada (a) noun denoting a standard of comparison) is dropped; so this ought to be properly analysed as चन्द्रस्य कान्तिः चन्द्रकान्तिः चन्द्रकान्तितरिव कान्तिः अस्तौ चन्द्रकान्तिः । But later grammarians, such as Vāmana, Bhattoji &c., have rejected this Vārt. altogether as of no practical value.

@@ -1,0 +1,34 @@
+[Internal page: 171]
+अव्ययीभावः                                                           171
+
+§ 298. स्वरादिनि च ।
+
+And स्थानिन् is understood when the compound begins with a vowel.
+
+Example:— अध्यृषि 'in or regarding the ṛṣi'.
+
+§ 299. वक्तव्यो व्युत्पत्तौ ॥
+
+The word वक्तव्य 'should be stated' is used when explaining the derivation or etymology of an Avyayībhāva compound.
+
+Obs. This is a general note about how to explain the formation of these compounds in grammatical analysis.
+
+§ 300. तिष्ठद्गुः ॥
+
+The augment गुक् is added to a word ending in ति when forming an Avyayībhāva compound.
+
+Example:— अभीति 'fearlessness' becomes अभीगुति in certain formations.
+
+Obs. This is a special phonetic rule for certain compounds.
+
+§ 301. यथायोगं विकारस्तद्धितेषु ॥
+
+Changes (विकार) occur according to context in तद्धित formations (secondary suffixes).
+
+Obs. This general principle states that phonetic modifications in Avyayībhāva compounds follow the rules applicable to तद्धित affixes.
+
+§ 302. न वृद्धयादेशाः पूर्वपदात् ॥
+
+Vowel strengthening (वृद्धि) substitutions do not occur to the first member of the compound.
+
+Example:— अनुकूलम् (not अनौकूलम्), प्रतिकूलम् (not प्रैतिकूलम्).

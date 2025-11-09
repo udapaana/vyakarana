@@ -1,0 +1,8 @@
+{
+  "text": "§ 14 ]                  PROSODY.                         27\n\n( १ ) वैतालीयम्‌ .\n\nDef. षड्विभेऽत्रे समे कलात्मात्र समे स्युर्नैन्तिका: ।\nन समाश्र पराश्रिता कला वैतालीयेऽन्ते रलौ गुरु: ॥\n\nThe first and third quarters of this metre should contain fourteen syllabic instants, and the second and fourth sixteen each; of these the last eight mâtras should consist of a रगण (-∪-) followed by a short and a long syllable (∪-); the syllabic instants in the even quarters should not be at all composed of short syllables or long syllables; and the even syllabic instant in each quarter (i.e. the 2nd, 4th and 8th) should not be formed conjointly with the next (i.e. 3rd, 5th and 9th).\n\nEx. क्रुद्धले बद्ध कुप्यमेष तत् वज्रनं कृष्णपद्मभ्यासतम्‌ ।\nउपदेशपरा: परेऽपि स्वनिनाशामिमुखेषु साधव: ॥\n\n( २ ) औपच्छन्दसिकम्‌ .\n\nDef. पष्टेन्द्रौ तयैव शेखरौपच्छन्दसिकं सुशोभितम्‌ ।\n\nThis is the same as Vaitâlîya except that at the end of each quarter there must be a र Gaṇa, followed by a य Gaṇa instead of छ and न i.e. it is the same as Vaitâlîya with a long syllable added at the end of each quarter.\n\nEx. धातस्त्वां खुरविक्रान्तास्तौपच्छन्दसिकं हरो विनोदम्‌ ।\nकं सो निर्जघान देवो वन्दे तं भगता स्थिति दधानम्‌ ॥",
+  "model": "claude-3-5-sonnet-20241022",
+  "usage": {
+    "input_tokens": 1963,
+    "output_tokens": 590
+  }
+}
