@@ -198,10 +198,14 @@ python3 scripts/validate_phase2_mapping.py # Full validation suite
 phase3_rules/
 ├── core/
 │   ├── raw/          # Stage 3A: Raw extraction (972 rules) ✅
-│   └── cleaned/      # Stage 3B+3C: Production-ready (972 rules) ✅
+│   ├── cleaned/      # Stage 3B+3C: AI-cleaned and validated (972 rules) ✅
+│   ├── final/        # Final production-ready rules (972 rules) ✅
+│   └── images/       # Source page images (518 images, pages 1-534) ✅
 ├── appendix_prosody/
 │   ├── raw/          # Stage 3A: Raw extraction (14 rules) ✅
-│   └── cleaned/      # Stage 3B+3C: Production-ready (14 rules) ✅
+│   ├── cleaned/      # Stage 3B+3C: AI-cleaned and validated (14 rules) ✅
+│   ├── final/        # Final production-ready rules (14 rules) ✅
+│   └── images/       # Source page images (28 images, pages 535-562) ✅
 └── dhātukośa/        # Verb dictionary (separate extraction) ⏳
 ```
 
@@ -236,10 +240,24 @@ phase3_rules/
 │   │   └── 001.json                     # OCR metadata
 │   └── images/official_1931/            # Source images
 │
-├── phase2_cleaned/                      # 🔄 Phase 2: AI-cleaned (210/731)
-│   └── page_001.md - page_210.md        # Cleaned markdown files
+├── phase2_cleaned/                      # 🔄 Phase 2: AI-cleaned (718/731)
+│   └── page_001.md - page_718.md        # Cleaned markdown files
 │
 ├── phase2_corrected_mapping.json        # 🗺️  Source→output mapping
+│
+├── phase3_rules/                        # ✅ Phase 3: Rule Extraction (COMPLETE)
+│   ├── core/
+│   │   ├── raw/                         # Stage 3A: Raw extraction (972 rules)
+│   │   ├── cleaned/                     # Stage 3B+3C: AI-cleaned (972 rules)
+│   │   ├── final/                       # Final production-ready (972 rules)
+│   │   └── images/                      # Source page images (518 images, pages 1-534)
+│   └── appendix_prosody/
+│       ├── raw/                         # Stage 3A: Raw extraction (14 rules)
+│       ├── cleaned/                     # Stage 3B+3C: AI-cleaned (14 rules)
+│       ├── final/                       # Final production-ready (14 rules)
+│       └── images/                      # Source page images (28 images, pages 535-562)
+│
+├── TABLE_OF_CONTENTS.md                 # 📋 Complete hierarchical TOC
 │
 ├── docs/                                # 📚 Documentation
 │   ├── PHASE2_EXECUTION_GUIDE.md        # ⭐ Phase 2 execution guide
