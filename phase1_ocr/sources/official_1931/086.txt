@@ -1,42 +1,41 @@
-[Internal page: 66]
-66                    HIGHER SANSKRIT GRAMMAR.                    [ § 111-112
+[Internal page: 86]
+84                    SANSKRIT GRAMMAR.                    [ § 129
 
-Dual.
+                             Neu.
+N. V. A.    द्वौ:          द्वौनी         द्वौनि
+The rest like mas.
 
-    Nom., voc., and acc.    राजानौ        Instr., dat. and abl.    राजभ्याम्
-    Gen. and loc.        राज्ञोः
+                 निशा f. night.
 
-Plural.
+N.    निशा            निशे            निशा:
+V.    निशे             "              "
+A.    निशाम्            "            निशा:-श:
+I.    निशया-शा     निशाभ्याम्, निज्भ्याम्-इभ्याम् निशाभि:, निभि:-इभि:
+D.    निशायै-शे         "             निशाभ्य:; निभ्यम्-इभ्य:
+Ab.   निशाया:-श:        "                    "
+G.       "          निशयो:-शो:        निशानाम्-शाम्
+L.    निशायाम्-शि        "            निशाषु, निक्षु, निष्षु-इषु
 
-    Nom.            राजानः        Voc.            राजानः
-    Acc.            राज्ञः        Instr.            राजभिः
-    Dat. and abl.        राजभ्यः        Gen.            राज्ञाम्
-    Loc.            राजसु or राजासु or राजेसु
+                सानु Neu. a summit, a table-land.
 
-                        NEUTER.
+N.    सानु            सानुनी           सानूनि
+V.    सानु-नो           "               "
+A.    सानु              "            सानूनि-स्वनि
+I.    सानुना-स्वुना   सानुभ्याम्-स्वुभ्याम्   सानुभि:-स्वुभि:
+D.    सानुने-स्वुने   सानुभ्याम्-स्वुभ्याम्   सानुभ्य:-स्वुभ्य:
+Ab.   सानुन:-स्वुन:       "                    "
+G.       "          सानुनो:-स्वुनो:      सानूनाम्-स्वूनाम्
+L.    सानुनि, स्वुनि      "             सानुषु-स्वषु
 
-( This declension occurs in names of organs such as आस्य mouth,
-दधि curd, सक्थि thigh, अस्थि bone, &c., and in infinitives of verbs ending
-in अन् or मन् &c. ).
+    सानु is also m. declined like गुरु with the optional forms from
+the Acc. pl. which is सानून्, स्वून्.
+    The remaining words should be similarly declined according
+to the declensions which their various endings follow:—
 
-Singular.
+                पाद् m. a foot.
 
-    Nom., voc., and acc.    नाम ( name )    Instr.    नाम्ना
-    Dat.                नाम्ने        Abl.    नाम्नः
-    Gen.                नाम्नः        Loc.    नाम्नि or नामनि or नाम्नि
-
-Dual.
-
-    Nom., voc., and acc.    नाम्नी or नामनी    Instr., dat., and abl.    नामभ्याम्
-    Gen. and loc.        नाम्नोः
-
-Plural.
-
-    Nom., voc., and acc.    नामानि        Instr.            नामभिः
-    Dat. and abl.        नामभ्यः        Gen.            नाम्नाम्
-    Loc.            नामसु or नामासु or नाम्सु
-
-                Bases ending in स् ॥
-
-§ 112. ( 1 ) After bases ending in स् the nom. sing.
-affix स् is dropped, but the स् of the base is not dropped, being
+N.    पाद:            पादौ            पादा:
+V.    पाद              "               "
+A.    पादम्            "            पादान्-पद:
+I.    पादेन-पदा     पादाभ्याम्-पद्भ्याम्    पादै:-पद्भि:
+L.    पादे-पदि      पादयो:-पदो:        पादेषु-पद्षु

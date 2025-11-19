@@ -1,26 +1,29 @@
-[Internal page: 43]
-§ 76-77 ]                    DECLENSION.                    43
+[Internal page: 62]
+62                        SANSKRIT GRAMMAR.                    [ § 103-104
 
-  G.     वातप्रम्यः      वातप्रम्योः           वातप्रम्याम्
-  L.     वातप्रम्ये         ,,                वातप्रमीषु
+                    अवयाज्.
 
-Decline ( गन्ति अनेन इति ) यथी a way or horse, (गाति लोकं इति) यगौ the sun, &c. similarly
+  N. V.   अवयाः         अवयाजौ              अवयाजः
+    A.    अवयाजम्         ,,                   ,,
+    I.    अवयाजा        अवयोभ्याम्           अवयोभिः
+    L.    अवयाजि        अवयाजौः             अवयत्सु
 
-  Obs. Decline (बहुवः मेषस्य यस्य) बहुमेषी mas. one having many good wives, and (लक्ष्मी अतिक्रान्तः) अतिलक्ष्मी mas. like नदी except in the Acc. plu. which is बहुमेषीन् and अतिलक्ष्मीन् respectively.  अतिलक्ष्मी fem. should be declined like लक्ष्मी.
+                    Bases derived from the root अञ्च् 'to go' to worship.
 
-  The word वातप्रमी, derived with the affix किप् , is declined like प्रधी which see.
+§ 104. Nouns derived form the root अञ्च् ( to go ' by means of such affixes as किप्, किप् &c. such as प्राञ्च् ( प्र-अञ्च् ) eastern, प्रत्यञ्च् ( प्रति-अञ्च् ) western, सम्यञ्च् ( सम्-अञ्च् ) a companion, तिर्यञ्च् ( तिरद्-अञ्च् ) going away, सम्यञ्च् ( सम्-अञ्च् ) going with or well, विष्वञ्च् ( विष्वब्-अञ्च् ) following, देवयञ्च् ( देव-अञ्च् )adoring a deity, सर्वयञ्च् ( सर्वे-अञ्च् ) going every-where, उदञ्च् northen,, अन्वञ्च् following, उद्यञ्च्, अदह्युयञ्च्, असम्युयञ्च् going to that ( all the:e derived from अद्स्+अञ्च् ), गोअञ्च् &c.
 
-§ 77. Root nouns in ई or ऊ :M. F. N.
+  (a)  In the Nom sing. अञ्च् becomes अङ्.  The nasal of अञ्च् is dropped before all terminations beginning with the Acc. plu. and the preceding semi-vowel is changed to its corresponding long vowel before the vowel terminations after which अ is dropped. When अञ्च् is not preceded by a semi-vowel, its अ is changed to ई if not preceded by a long vowel; otherwise it remains unchanged.  तिर्यञ्च् becomes तिरश्च् under similar circumstances. In other respects these words are declined like words ending in च्.
 
-Rule of Sandhi—(a) The ending ई or उ, short or long, of nouns derived from roots with the affix किप्.(o) and of ऋ, is changed to इय् or उव् before the vowel terminations*: the fem. nouns of this description are optionally declined like नदी in the Da. Ab. Gen. and Loc. singulars and the Gen. plu,
+                    प्राञ्च् mas.
 
-  (b) But if the ending ई or उ of a many-voweled noun having a root at the end be not preceded by a radical conjunct conso-nant or the root noun has a preposition termed गति (e. g. as added to the root ) or a word governed by the root preceding it, it is changed to ण or झ, except in the case of सुधी and nouns ending in स्त†.
+N. V.  प्राङ्         प्राञ्चौ              प्राञ्चः
+  A.   प्राञ्चम्        ,,                  प्राचः
+  I.   प्राचा          ,,                  प्राग्भिः
+  D.   प्राचे        प्राग्भ्याम्            प्राग्भ्यः
+ Ab.   प्राचः          ,,                   ,,
+  G.    ,,          प्राचौः               प्राचाम्
+  L.   प्राचि          ,,                  प्राक्सु
+                    प्रत्यञ्च् mas.
 
-                धी fem.                    भू fem.
-N.  धीः    धियौ    धियः       N.  भूः    भुवौ    भुव
-V.   ,,      ,,      ,,        V.   ,,      ,,      ,,
-A.  धियम्    ,,      ,,        V.  भुवम्    ,,      ,,
-
-* अचि इनुधातुभूवां ज्येरिय्वव्द्वौ । Pān. VI. 4. 77.
-
-† एरोकाचोऽसयोगादूमाँस्त्य । ओः हाणि Pān. VI 4. 82. 83. गार्तेकारकेनतु-दूषिदस्य गण नेष्यने । Vār. न भुक्ताधियोः । Pān. VI. 4. 85.
+N V.  प्रत्यङ्        प्रत्यञ्चौ             प्रत्यञ्चः
+  A.   प्रत्यञ्चम्       ,,                 प्रतीचः

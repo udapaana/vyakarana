@@ -1,41 +1,43 @@
-[Internal page: 90]
-90                    SANSKRIT GRAMMAR.                    [ § 134-135
+[Internal page: 108]
+108                    SANSKRIT GRAMMAR.                    [ § 163-166
 
-(d) The shorter forms may or may not be used when there
-is no अन्वादेश ( the subsequent mention of a thing already
-mentioned ); भाता ते मेन्नोऽस्ति, भाता तत्र मे न्नोऽस्ति, इति वा ॥; but must
-be used when there is anvādes'a*; तस्मै ते नमः ' bow to thee
-( already described ) only.'
+सप्तति, अशीति and नवति form their ordinals in the first way
+only; as एकषष्टः or एकषष्टितमः, but षष्टितम only. शत has invari-
+ably शततम.
 
-2—Demonstrative Pronouns.
+DECLENSION OF THE NUMERALS ( CARDINALS AND ORDINALS )
 
-§ 135. The pronouns तद् 'that or he, sha, it,' एतद् 'this,'
-इदम् 'this' and अदस् 'that'. The Nom. sing of the first two is
-respectively सः and एषः mas. and सा and एषा fem. In other
-cases they become त and एत and are declined like nouns in अ
-except in the Nom. pl., D. Ab. sings , G. pl. and L. sing. the
-terminations of which are ई, स्मै, स्मात्, इषाम् and स्मिन् mas.
-and तौ, स्यै , स्यास् , सास् and स्याम् fem. respectively. All
-pronouns ending in अ are similarly declined.
+§ 164  एक ( एका fem.), द्वि ( द्वा fem. ), त्रि ( तिस्र* fem. ), and
+चतुर् ( चतस्र fem. ), are all adjectives and takes the gender, num-
+ber and case of the nouns they qualify.
 
-तद् mas.
+§ 165.  एक is declined in the sing. ( though it may have the
+dual and plural also ), and द्वि in the dual alone. For further
+particulars see § 154.  त्रि and चतुर् are declined in the plu
+alone. E. g.
 
-N.    सः        तौ        ते
-A.    तम्        तौ        तान्
-I.    तेन        ताभ्याम्    तैः
-D.    तस्मै      ,,        तेभ्यः
-Ab.   तस्मात्     ,,        ,,
-G.    तस्य       तयोः       तेषाम्
-L.    तस्मिन्     ,,        तेषु
+        त्रि                            चतुर्
 
-Fem.
+mas.        fem.                mas.        fem.
+N.    त्रयः        तिस्रः    N.    चत्वारः        चतस्रः
+A.    त्रीन्        ,,       A.    चतुरः        ,,
+I.    त्रिभिः        तिसृभिः  I.    चतुर्भिः        चतसृभिः
+D. Ab. त्रिभ्यः    तिसृभ्यः D. Ab. चतुर्भ्यः    चतसृभ्यः
+G.    त्रयाणाम्    तिसृणाम् G.    चतुर्णाम्        चतसृणाम्
+L.    त्रिषु        तिसृषु   L.    चतुर्षु        चतसृषु
 
-N.    सा        ते        ताः
-A.    ताम्       ,,        ,,
-I.    तया       ताभ्याम्    ताभिः
-D.    तस्यै      ,,        ताभ्यः
-Ab.   तस्याः     ,,        ,,
-G.    ,,        तयोः       तासाम्
-L.    तस्याम्     ,,        तासु
+                    neu.
+        त्रि                            चतुर्
+N. V. A.    त्रीणि            N. V. A.    चत्वारि
+The rest like the mas.            The rest like the mas.
 
-* एते बनिवादत्य आत्रेशा अनन्नविदौ या वक्तव्याः । Vārt.
+§  166.  पञ्चन्—नवद्विषत्. These are also adjectives agreeing
+in case with the nouns to which they are applied. They are
+declined in the pl. and are uniform in all the three genders.
+
+            पञ्च        षष्        अष्टन्
+N V. A.    पञ्च        षट्-ड्        भष्टन्
+I.        पञ्चभिः        षड्भिः        अष्टभिः-अष्टाभिः
+Dat. & Ab. पञ्चभ्यः    षड्भ्यः        अष्टभ्यः-अष्टाभ्यः
+
+* त्रिचतुरोः स्त्रियां तिसृचतसृ । Pān. VII. 2. 99.

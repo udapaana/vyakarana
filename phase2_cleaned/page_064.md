@@ -1,0 +1,41 @@
+---
+page_number: 64
+internal_page: 56
+chapter: "Subanta or Declension"
+section: "declension"
+rules_starting: ["§ 93", "§ 94"]
+rules_continuing: ["§ 92"]
+has_footnotes: true
+---
+
+         Nom. sing.   Nom. dual.   I. dual.    Loc. plu.
+
+सर्वेशक्    सर्वेशक्-ग्     सर्वेशकौ     सर्वेशकभ्याम्   सर्वेशक्षु
+चित्रलिख्   चित्रलिख्-ग्    चित्रलिखौ    चित्रलिख्भ्याम्  चित्रलिख्षु
+भ्रुमत्     भ्रुमत्-ग्      भ्रुमतौ      भ्रुमद्भ्याम्    भ्रुमत्षु
+अग्रिमत्    अग्रिमत्-ग्     अग्रिमयौ     अग्रिमद्भ्याम्   अग्रिमत्षु
+तमोनुद्    तमोनुद्-ग्      तमोनुदौ      तमोनुद्भ्याम्    तमोनुद्षु
+युप्        युप्-ग्         युपौ         युभ्भ्याम्       युप्षु
+
+                            Neu.
+
+           N. V. A.                        N. V. A.
+
+सर्वेशक्   सर्वेशकौ   सर्वेशकि    अग्रिमत्    अग्रिमयौ    अग्रिमाणि
+हरित्     हरितौ     हरिति      तमोनुद्    तमोनुदौ     तमोनुदि
+शुचत्     शुचतौ     शुचति      वैभिद्     वैभिदौ      वैभिदि
+The rest like the mas.     So वैछिदि N. V. A. pl &c.
+
+§ 93. Bases ending in च्, छ्, ज्, or झ् and ट्, ड्, ढ्.
+
+§ 94. (a) च् or ज् is changed to क् when followed by a hard consonant or by nothing, and to ग् when followed by a soft consonant.*
+
+(b) The ending ष् or छ् of root-nouns and the final of त्रष्, भष्, वृष्, षष्, पज्, राज्, and झाष् are changed to ट् when followed by any consonant except a nasal or a semi-vowel or by nothing†; the ट् is changed to ड् or ड् when at the end of a word, and to ड when followed by a soft consonant. The ष् of परिव्राज् is similarly changed to ड् or ड्.
+
+(c) But the ज् of the root-nouns दिज्, दज्, स्थुज् and सज् is changed to क् as also the ट् of धृष्टुट् 'a bold or impudent man' and the ष् of such words as विष्टुष् &c. The ज् of नज् is optionally changed to ट् or क्, as also the ष् of तष् and गौरष्. The ज् of कृत्विज् is changed to क्.
+
+---
+
+## Footnotes
+
+* जो: क: । Pāṇ. VIII. 2. 30. † त्रषभसवृषषष्पजराजझाषगोत्राणाम् । Pāṇ. VIII, 2. 36.

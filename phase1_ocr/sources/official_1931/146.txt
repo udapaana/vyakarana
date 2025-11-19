@@ -1,22 +1,20 @@
-[Internal page: 128]
-128                    SANSKRIT GRAMMAR.                    [ § 212-215
+[Internal page: 146]
+146                    SANSKRIT GRAMMAR.                    [ § 239-240
 
-the first हानीषर्णा, among pupils, अर्धं पिप्पलीनाम् half of a number of pippalis &c. and not पूर्वेछात्रः &c.
+word denoting a part of the whole, or by सर्व or by a numeral with a Taddhita affix added to the whole compound, becomes अहुः as अतिक्रान्तमहः exceeding a day (in duration) अत्यह्नः; प्रश्वोह्नः forenoon, सर्वाह्नः the whole day, संध्यातराह्नः, द्वयौरह्नोः भवः द्वयह्नः (·ह्न fem.), द्वयह्नमियः &c.; with संख्यात the change is optional; as संख्यातराह्नः, or ह्नं.
 
-§ 213. A word expressive of a part is compounded with another signifying a period of time and is placed first; मध्यं अह्नः मध्याह्न: mid-day; सायाह्नः, मध्यराज्ञं &c.
+N. B. The*न of the substitute is changed to ण when preceded by र belonging to the first member ending in अ; as सर्वाह्नः; but परागतं अहः पराह्नः (as परा ends in आ).
 
-§ 214.* A word expressive of a period of time that has passed since a certain occurrence is compounded with another expressive of the occurrence; as मासौ जातस्य यस्य स मासजातः 'one since whose birth a month has elapsed'; so द्रुग्मजातः, संवत्सरसृत: &c.
+(d)† सक्षन् when preceded by ग्राम or कोट, and श्वन् by आति or an inanimate object with which it is compounded; e. g. ग्राममन्य सक्षा ग्रामसक्षः 'a village carpenter i. e one not very skilful,' कुच्यां भवः कोटः (स्वैतन्त्रः) स चातौ तक्षा च कोटतक्षः 'an independent carpenter'; अतियः [शुराहः] 'fleeter than a dog', अतिवौ (worse than a dog's life) शैवा; आरण्यं श्वा इव आरण्यैश्वः 'a dog like i. e. bad or unlucky throw of dice;' but वानरश्वा 'a monkey like a dog'.
 
-§ 215† Instances of the Aluk of the Gen. The noun in the Genitive may retain its case ending—
+(e)‡ सक्ति when preceded by उत्तर, झुग or पूर्व or by a word denoting an inanimate object with which it is compounded; उत्तरसक्तिभम् 'the upper part of the thigh', झुगसक्तिभम् 'the thigh of a deer,' पूर्वसक्तिभम्, फलकसिव सक्ति फलकसक्तिभम् 'a thigh like a board'.
 
-(a) when reproach is to be implied, as चोरस्पकुलम्, but ब्राह्मणकुलम्. Also when देवानां is followed by प्रिय and the whole means a fool; otherwise देवप्रिय:.
+(f) A numeral when compounded in a Tat. निर्भातनि विंशतिः निर्विंशतिशुलिभ्यः त्र्यादिणै त्रिंशतोङ्गुलिभ्यः निर्विंशतः खड़ुगः a sword more than thirty fingers in length.
 
-(b) when the words वाचु, दिना and पन्यदू are followed by शुक्ति, दृष्ट and हर respectively; as वाचौयुक्तिः 'skilful speech,' दिञो-द्रष्टः 'a particular appearance of stars in the shape of a staff in the sky,' पन्यदतोहर: 'one who robs another in his very presence while he is looking on,' hence 'a goldsmith, a rogue.'
+§ 240. The following words have an अ added to them when at the end of a Tatpurusha compound:—
+(a) गो except when a Tad. aff. is added and then dropped§; e. g.
 
-(c) in the following cases:—दिवोदासः 'a king of Kāshi,' दिवस्पतिः: 'Indra,' वाचस्पतिः lord of speech, Brihaspati; घुनन्भोषः, शुनःशुच्चः and शुनौलाइपुलः 'sons of Ajigarta.'
-
-(d) and optionally when followed by पुत्र and censure is implied; द्रास्याः पुत्रः or द्रास्योपुत्रः a bastard, a knave; but ब्राह्मणोपुत्रः
-
-* कालाः पर्यामिणा । Pān. II. 2. 5.
-†. पट्य आत्रोधे । Pān VI. 3. 21. देवानां प्रियं इति च दुत्तै । वाचिद-क्मच्यन्दयौ यत्किदष्टहरेषु । शोपएच्छलाडुलैय शुनः । दिव्य ह्यारौ ।
-Vārtikaa. 'पूर्वेस्त्यन्तरस्याद्' Pān. VI. 3. 22.
+* अह्नोऽङन्तात् । Pān. VIII 4. 7.
+† ग्रामकोटाभ्यां च तक्षणः । अतेः शुनः । उपमानादेग्राणिषु । Pān. V. 4. 96-97.
+‡ उत्तरझुगपूर्वैच्च सक्त्यम्. । Pān. V. 4. 98.
+§ गौरतदिन्द्रियोके । Pān. V. 4. 92.

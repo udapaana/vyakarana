@@ -1,42 +1,46 @@
-[Internal page: 469]
+[Internal page: 483]
 
-§ 787–789 ]                SYNTAX.                    473
+§ 817–819 ]                SYNTAX.                    485
 
-§ 787.  When an indeclinable used with an  adjectival  force
-takes the place of the verb,  the  object  governed  by  it is put in
-the Nominative case.  * विपश्युयोपि  संवर्धुयं  घटं  छुट्टुयुमुतुक्तानुत्रु (Kum.
-V. 71) it is not fit to cut down  even  a  poisonous  tree having
-first reared it up; here the indeclinable  अलमुद्युतं  is  equivalent to
-न इच्युयुते and the whole sentence to न्युयुं  संवर्धुयं च्युट्युद्यु  असन्मर्युतुयु (न
-इच्युयुत्युर्)  योति विपश्युयुः  स्मात ।
+(e) motion ( the conveyance or the part of the body  on  which
+a thing is  c:rried  being  put  in  the  Instrumental  case);  रथेन
+संचुर्ते  'he moves about in a chariot.'
 
-Concord of the Adjective with the Substantive.
+(f) price  (real  or  metaphorical)  at  which  a  thing  is
+bought;  शुतेनं  क्रीतुः  bought  for  a  hundred  (rupees,  etc.  ),
+स्युत्युयुणुयुयुदुयुर्युत्युवुगि  स्नुनुगोयुयु  'इहुदुवुन्त्युयु  'the  life  of  a  friend  ought
+to be saved even at the cost of one's life.'
 
-§  788.   An adjective, participial  or  qualitative,  must  agree
-with the  substantive  it  qualifies  in  gender,  number  and  case;
-रुपत्युर युद्युरुः  a  handsome  man; रुपत्युर्ती  स्त्री  a  beautiful woman;
-गतदर्शुनं च  a  great  calamity;  एते  मर्त्यराः  गति  पुन्त्युक्तानि;  गच्छुन्तो
-नरोः, &c.
+§  818.  The following  words  also  gvern  the Instrumental
+e  :
 
-But numeral adjectives of fixed  gender  and  number  remain
-unchanged:—शतं  ब्राह्मणाः  a  hundred  Drāhmaṇas;  शतं  स्त्रियः  a
-hundred women, विविंशति:  वाट्युकुनि  twenty children.
+(a)  Words  expressing  the  idea of  use  or  need,  such  as  किंच्,
+कुयुर्युं, अर्युं', यथोजुनं and the like,  and  the  root  कृ  with  किंच् used in
+the  same  sense;  यनेनं  किं  युः  &c  what is the use of his wealth who
+&c;  दुषुणुच्  कुयुर्युं  भदुतोऽयुयुरुयुणुयु—'  even  the  rich sometimes stand in
+need of Grass;' similarly कुयुयुुः  युयुचुनं  यानेनं  यो  न  विहाञु  यात्मुकुयुयुः न
+स्युतिवियुदुरुनां  यगु  किंयुयुनुत ङुणोषुलं,  &c.
 
-§ 789  When an adjective qualifies two or more  substantives
-it  agrees  with  them  in  their  combined  number;  but  when
-substantives  differ  in  gender,  the  adjective  will  be  masculine
-when  the  substantives  are  masculine  and  feminine;  and  neuter
-when  they  are  masculine,  feminine  and  neuter  राजा  रानी  च
-युत्युच्युवुरुचितौ तुयुः  the  king  and  his  queen  are  of  laudable
-conduct; सर्त्युः  शुमवुत्युस्  द्युर्युद्यु:  कोशुः  भूमिं  वयुः । अर्युद्युदितात्युति  चन्तोपि
-प्रवर्तनुते न लोयुयुयुः  fulfilment of duty, satisfaction of desires,  pride,
-anger, happiness and  long  life,  all  these  proceed  undoubtedly
-from wealth.
+(b)  The  particles  अलं  and  छुतं  meaning 'enough,'  अलं  इरितुते
+'enough of your  weeping  (do not weep ):'  छुतं  अत्युयुदुरेणु  'away
+with overpressing'; अलं is  also  used  with a gerund  अलं  अन्युयुया
+संगुयुन्युयु  'away  with  misunderstanding.'
 
-(a) Sometimes the adjective takes  the  gender of the majority
-of  the  substantives;  पुयुत्युयु  पत्युविभात्युग्र्यो  निरुर्नो  भार्या  भूतः  स्त्रियः ।
-अप्युकुरुयुशुनं कुत्युच्युरु  भवुन्त्युयु  मयुत्युरुवुदिंत ॥ aged  parents, a good wife and
-a  young  son  should  be  maintained  even  by  doing  a  hundred
-foul deeds; so has Manu spoken ( laid  down ).
+(c)  Particles  expressing  '  accompaniment  '  such  as समुङु,
+सार्धं, सर्मं, सहु,  &c.;  आस्स  साकं  मया  सोयुणे  (Bh.  VIII.  70.  );  वनं
+मया सर्पविक्तुति पुन्युत्युः Rag.  XIV.  63;  आङुतो  नित्युस्युयुते  सर्मं  हरिष्णो-
+गुताम्भुः । Sak I. 27. &c.
 
-* निरोतितभिहिते क्तु स्न्ता न विभकुत्युद्युरुपोन्तुच्च प्राविकुच्युकुत ।  Vāman.
+(d)  Words  meaning  '  having  or  destitute  of,'  समुयुट्युकुयोऽयुयुयुयुः
+(परित्युयुक्तुदुदुङु  यास्त्युनं  हुयुयुयुणु)  '  though  possessed  of  wealth,'  &c.;  अर्युनं
+हुनुः 'destitute of wealth.'
+
+N.  B.  For  the  optional  use of  the  Instrumental  see  the  Abl.,
+the  Gen.  and  the  Loc.  cases.
+
+THE DATIVE CASE.
+
+§ 819.  * The  primary  sense  of  the  Dative  case is  Sampra-
+
+* चुत्युर्युर्नों  संप्रदुनं  Pāṇ  II.  3  13.  कुर्मुणा  यसुप्रुधेहि  स  संयुत्युन्युट्
+Pāṇ. I. 4. 32, किंयुयुयु यसुप्रुधेहि सोपि संयुत्युन्युष् Vārt.

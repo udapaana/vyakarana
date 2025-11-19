@@ -1,49 +1,47 @@
-[Internal page: 696]
+[Internal page: 710]
 
-134                   SANSKRIT GRAMMAR.
+148                   SANSKRIT GRAMMAR.
 
-शूर् 10 A. विक्रामै to act as the hero, to make great exertions;
-   शूरयतै pre. शूरयाचक्रै perf. अशुशूरत Aor. शुशूरयिषतै des.
+   to break; स्फोटुति-तै pre. सुस्फोट, सुस्फोट perf. असुफोटत् , असुफोटाटत् ,
+   असुफोटीष्ट Aor. सुस्फोटयति, सुस्फोटयतै, सुस्फोटयिषतै des Cau,—
+   स्फोटययाति-तै pre. असुस्फोटत-न Aor. स्फुटित, स्फोटित p p.
 
-शूर्प् 10 U. मानै to measure; शूर्पयाति-तै pre. शूर्पयाचकार-चक्रै perf.
-   अशुशूर्पत-न Aor.
+स्फुट् 6 P. ( ङुदादि ) विकसनै to split open, to blossom; स्फुटुति
+   pre. सुस्फोट ( सुष्ठुर 2 sing ) perf. स्फुटिता p fut. असुफुटीत
+   aor. सुस्फुटिषति des स्फुटित p. p.
 
-शूल् 1 P. रुजनायां संचातै च to be ill to collect; शूलति pre. शुशूल
-   perf. अशूलीत् Aor.
+स्फुट् 10 U भेदनै to break open; स्फोटुयाति-तै pre स्फोटयाचकार-चक्रै
+   &c. perf असुस्फुटत-न Aor स्फाटयिषाति-तै des.
 
-शूष् 1 P. प्रदवै to produce. to bring forth; शूषुति pre. शुशूष perf.
+स्फुड् 6 P. संवरणै ( ङुदादि: ) to cover; सुफुडति pre. सुस्फोड ( सुष्ठुडिश
+   2nd sing ) perf. असुफुडीत् Aor.
 
-शूष् 1 A. शब्दइत्सयायां ( but it is also Parasmaipadi in the 2nd
-   future, aorist & conditional ) to break wind downwards;
-   शूषतै pre. शुशूषै perf. शूषिता p. fut शूषिष्युतै, शूस्युति fut.
-   अशूषत्, अशोषीष्ट aor. शिशूषिषतै. शिशूषति des. शून्न p. p.
+स्फुण्ड् 1 P. परिमार्गै to joke, to jest; सुफुण्डति pre. सुस्फुण्ड perf.
+   स्फुण्डिष्युति fut. असुफुण्डीत् Aor.
 
-शृध् 1 U. उन्दनै to be wet or moist; शोधाति-तै pre. शर्धिष्युति-तै fut.
-   अशर्धीत्, अशर्धीष्ट Aor
+स्फुण्ड् 10 U. to joke, to laugh at; सुफुण्डयाति-तै pre. असुस्फुण्डत-न Aor.
 
-शृध् 1 A. उपहासनै to mock at to ridicule; शृधुति. शर्षयाति-तै
-   pre. अशर्षीत्, अशर्धिष्ट, अशीशर्धत-न, अशीशृषत-न Aor.
+स्फुण्ड् 1 P. & 10 U. same as स्फुण्ड् .
 
-शृ 9 P. हिंसायां to tear to pieces, to hurt, to kill; शृणाति pre.
-   शशार perf. शरिता, शर्ता p. fut. अशारीत् aor. शिशारिषाति,
-   शिशरीषति, शिशर्यीषति des. Pass,—शीर्युतै pre. शीर्णं p. p.
+स्फुर् 6 P. स्फुरणै ( ङुदादि: ) to tremble, to throb, to flash, to shine;
+   स्फुरुति pre. सुस्फार perf. स्फुरिता p. fut. असुफुरीत् aor.
+   स्फुरित p. p. Cau,—स्फोरयाति, स्फारयाति pre.
 
-शेद् 1 P. to go, to tremble; शैदुति pre. शिशैद perf शेदिता p fut.
-   अशदीत् Aor.
+स्फूर्च् 1 P विस्तृनै to spread; स्फूर्चति pre सुस्फूर्च perf. असुस्फूर्चीत
+   Aor. स्फूर्च्छिता, स्फूर्चं p p.
 
-शेद् 1 A. सैवनै to serve; शैदतै pre. ( See शै ). )
+स्फूर्ज् 1 P. सचलनै ( ङुदादि: ) to tremble, to collect, to kill स्फूर्जुति
+   pre. सुस्फोज ( सुष्ठूर्जिश 2nd sing. ) perf. असुफूर्जीत् Aor.
 
-शै 1 P. पाकै to cook; शायुति pre. शास्युति fut. अशायीत् Aor.
+स्फूर्ज् 1 P. सचनैषै to thunder, to glitter; स्फूर्जुति pre. सुस्फूर्ज perf.
+   स्फूर्जिता p fut असुफूर्जीत् aor. सुस्फूर्जिषति des. Cau.—स्फूर्जयाति
+   -तै pre. असुस्फूर्जत-न aor. स्फूर्जित p. p.
 
-शै 4 P. क्षयणै to waste away; शीयुति pre. शिशैषे pre. शशौ perf.
-   शाता p. fut. अशात् , अशायीत् aor. शिशासाति des. Pass,—शाययै
-   pre. Cau,—शाययाति-तै pre. शात, शित p. p.
+स्मि 1 A. ईषुद्वसनै to smile, to bloom; स्मयतै pre. सिस्मियै perf.
+   स्मैता p. fut. अस्मैषीट aor. सिस्मयिषतै des. Cau.—स्माययाति-तै,
+   -भुाषयतै pre.
 
-शोफ् 1 P. शुणल्युयां: to become red, to go; शोफुति pre. शुशोफ perf.
-   अशोफीत् Aor.
+स्मैन्द् 10 U. अनादरै to despise, to love, to go; स्मैदययाति-तै pre.
+   स्मैदयाचकार-चक्रै perf. स्मैदयिता p. fut. असिस्मैदत-न aor.
 
-शोद् ( शोद् ) 1 P. to be prond or haughty; शोद(ड)ुति pre.
-   शोदयिति fut. अशोदीत aor.
-
-श्वद् 1 P. क्षरणै to ooze, to trickle; श्वैदुति pre. शुश्वैद perf. श्वैदिता
-   p. fut. अश्वैदीत्, अश्वदत् aor. श्वदित, श्वदित p. p.
+स्मीङ्ग् 1 P. निमैषणै to wink, to blink; स्मीङ्गुति. pre. सिस्मीङ्ग perf.

@@ -1,48 +1,41 @@
-[Internal page: 466]
+[Internal page: 480]
 
-470                  SANSKRIT GRAMMAR                   [ § 780
+482                  SANSKRIT GRAMMAR                   [ § 809–812
 
-(a)  The singular may be used to denote a  class;  सिंहः
-भावदरान: the lion is the king of beasts; मुक्तिकमुग्र नरः श्रेष्ठः &c.
+अविच्युद्_, and द्युष् when used in the  Atm.  is  either  put  in the
+Accusative  or  the  Instrumental;  हारुयुति  कारुयुति  वा  युर्स्युं  युर्युनुयुं
+वा क्तुट्युयु  he  causes  the  servant  to  take or weave a mat;  अविवुत्युरु-
+दुत्युयुर्नों  युरुयुयुरु  नेत्रुं  नेतुं  वा  he  makes  the devotee bow down to,
+or see, God.
 
-(b) The word समान sometimes denotes the whole of the
-same class; पितरो parents; चाटुको a male and a female of sparrow.
+§ 810  *When the causal  forms are used in the passive,  the
+principal  object  (i.  e.  the  primitive  subject)  is  put  in the
+Nominative case;  but in the  case  of  roots  implying  'knowledge
+or  eating'  and  roots  having  a  literary  work  for  their  object,
+the  principal  object  is  put  in  the  Nominative  case  and the
+secondary  object in the  Accusative  or  vice  versa;  देवुदुत्तुनं
+कुरोति  Devadatta  prepares a mat—देवुदुत्तुं  देवुदुत्तुनं  वा  क्तुटुं  कारुयुति;
+देवुदुत्तुः  क्तुटुं  कार्युते  he  makes  Devadatta prepare a mat,  देवुदुत्तुः  ग्रामं
+गच्युछुति  Dev.  goes to a village;  देवुदुत्तुं  ग्रामं  गयुयुति  causes  Dev. to
+दुयु  युञु  युत्युति  मार्युयुवुकुः  सूत्रुम्  अध्युयुयुयुति  Devadatta  is  made  to
+&c.; मागुयुवुकं  यर्मं  सोयुयुति  he  makes  Māṇavaka  know  his  duty;
+योश्युयुते  मागुयुकं  यर्मः  मापुयुकुयो  यर्मं  हेति  वा  Māṇavaka  is  made to
+know,  &c.;  वुट्युयोदुनं  भोजुयुते  he  makes  the  child  eat  food;  वुट्यु-
+रोदुनं  भोज्युते  or  वुट्युयोदुनो  भोज्युते  the  boy  is  made,  &c.
 
-(1)  Note:—Words like द्वं, द्वितीयं, द्वा, द्वं, &c.  meaning
-'a pair,' &c  which are dual in sense but singular  in  form ought
-to be always used in the  singular,  except  when  several  pairs
-are meant.
+§ 811.  As  regards  the  causal  of roots  governing  two  Accusa-
+tives the general  rules  given  at § 808  hold  good;  को रोदुन्युरु दूयुरुयुरुयं
+रामं  अयुयुयुच्युत;  (दूयुरुः)  को रोदुनैरुयु  रामुयुङु  गोरुमुयुयुयुयुयुयुरु,  गोयुयुऽज्ञां  ग्रामं
+हुरुते, (स्युक्तो)  गोनेनं  अज्ञां  ग्रामं  हारुयुति,  &c.
 
-(2)  Note:—Words like हस्तो, नेत्रे, पादो, &c. should always
-be used in the dual in Sanskrit.
+THE INSTRUMENTAL CASE
 
-(e)  The plural, like  the  singular,  may  represent  a  class,
-ब्राह्मणाः पूज्याः ('or ब्राह्मणः पूज्यः') Brāhmaṇas (i. e. the Brāhmaṇa
-class) are adorable.
+§ 812.  ‡ The Instrumental case primarily expresses either the
+agent ( when the construction  is  passive) or  the  instrument or
+means by which an action is done; तव महिमानं अज्ञातवा मया अस्युच्छु-
+तोऽऽसि thou wast disrespected  by  me,  not  knowing  thy  greatness;
 
-(1) The plural is not  unfrequently  used  as  a  mark of res-
-pect or reverence.  भवते श्रीशङ्कराचार्याः so ( says )  the venerable
-Śankarāchārya; भूति  आचार्यगुणाः  this  is  the  opinion  of  the
-reverend preceptor, &c.
+* इट्युदिभुत्युयुर्युनोः  घुच्युच्युकुर्मुणां  च  निच्युनैच्छुयुयुयु  ।  यनोऽज्युकुषुर्णुयुच्युयुर्नों
+एयुच्युनानां छुयुयुनो यत्ताः ॥  Sid.  Kau.  on  Pāṇ.  VII.  I  69
 
-(2)  In the first person,  great personages and writers  some-
-times  use  the  plural  instead  of  the  singular;  वयम्पि  भवन्तो
-किमपि पुच्छामः we ( i. e. I, ) too ask  you  something;  भूतं  तु  वयं
-but we (i. e. I, the writer )  hold this opinion;  वयम्पि  च  निरा-
-क्षिमेः we rule over speech ( i. e. language ).
-
-(3)  Words like द्युतः, यद्वाः, अयंदाः, सिक्काः, आयुः, गुणाः, द्वाजाः,
-&c. are always used in the plural,  though  some  of  them  are
-singular in sense.
-
-(4)   Names of countries which are  really the names  of  the
-people inhabiting them, must be used in the plural, स  वविदेहान्
-उपपत्येर he went to Videha, &c.
-
-But in the  case  of  compounds  ending  in  words  denoting a
-country, such as देश, विषय, &c.  the  sing  must  be  used;  आसीत्
-मगधेषो पाटलिपुत्रं नाम नगरं there  is  a  town called  Pātalipụtra
-in the country of Magadha.
-
-(5)  The plural of proper nouns denotes  a  family  or  race
-as in English; जनकानां रघूणां च वंकस्तं गोत्रमङ्कुतः Utta.
+† कुर्दुकुरुणुयोरुद्युयुयुति । Pāṇ. II  3,  18.

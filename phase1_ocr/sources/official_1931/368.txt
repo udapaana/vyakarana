@@ -1,41 +1,43 @@
-[Internal page: 354]
+[Internal page: 368]
 
-354                    SANSKRIT GRAMMAR                     [ § 574-575
+368                    SANSKRIT GRAMMAR.                     [ § 599-603
 
-रप्—अस्तारिषम्. Per. अमतरिषि, स्तु—अस्तारिषम् 1 sing. अस्ता-
-             अस्तरीषि*-Âtm.  1 sing.      बीत् 3 sing
-             अस्तरीषिद्ः-रीषिद्ः 2 sing. भूज्—अभाजिषम् 1 sing. अभाजीद्
-इ, हू Â —अविषिषि-अबरीषि 1 sing.                3 sing.
-             अमरीषिवहि, अबरीष्वहि, &c.  हृत्—अवर्षिषम् , अवर्षिषि 1 sing.
-                                        असरीषिद्ः   or  अबरीषिद्ः  Par  and Âtm. ( See § 569 ).
-                                        2 sing. &c.             कृद्-अक्रिदिषम् 1 sing. अकिदीत्
-                                                                3 sing.
+and ( 4 ) Denominatives or Nāmadhātus ( नामधातवः ).  The
+formation and the conjugation of these will be given in the
+present section.
 
-For the optional forms of these roots see the preceding Variety.
+                         I CAUSALS.
 
-चि—अच्यविषम्  1sing.  अच्यवीत्          Â. P.
-         3 sing                         यूष्— † अगोपायिषम् , अगोपषम्
-                                             1 sing.
-जागृ-अजागरिषम् 1 sing. अजा-            दूष्-अतर्पिषम्  1 sing.  अतर्पीत्
-       गरीत् 3 sing.                           3 sing.
-भञ्ज-आविङ्घिषम्  1 sing. आञ्जीव्         स्यम्-अस्यमिषम् 1 sing. अस्यमीत्
-       3 sing.                                 3 sing.
-त्रज्—अद्राजिषम् 1 sing. अद्राजीत्        क्षम्-अक्षमिषि 1 sing.  अक्षमिष्ट
-       3 sing.                                 3 sing.
-विज्—7. P † अविविषम् . 6. Â.           व्यथ्-अव्यथिषम् , अव्यथिषि 1 sing.
-       अविविषि 1 sing.
-भण्—अभाणिषम् , अभर्णिषम् 1 sing.  क्षर्—अक्षारिषम् 1 sing.
-वद्—अवादिषम् 1 sing. अबार्दीत्          हूल्-अहूलिषम् 1 sing.
-       3 sing.
-यस्—अयसिषम् 1 sing. अयसीत्             शाह्-अगाहिषि 1 sing. अगाहिष्ट
-       3 sing.                                 3 sing
-यह्—अयहीषम् , अयहौषि 1 sing.           यह्—अमूहिषम् x ,अमूहिषि 1 sing.
+§ 600.  Any root belonging to any one of the Conjugational
+classes may have causal form which is conjugated  like a root
+of the Tenth class.
 
-            Irregular Aorists of the Fifth Form.
+§ 601.  The Causal of a root implies that a person or a
+thing causes or makes another person or thing to perform the
+action. वच् in the condition, denoted by the root.  It is
+also employed, sometimes, to convert an intransitive verb into
+a transitive one.
 
-§ 575. The roots दीप् , जन्, घुर् , ताय् and  व्याघ्  optionally sub-
-stitute इ for इष् ( third person sing. Ātm. ).
+                 ( a ) Formation of the Causal Base.
 
-    * See § 475.
-    † Vide § 466. ‡ Vide § 461.
-    x Vide p. 249 foot-note † ; यह् also takes 7th Variety.
+§ 602.  The Causal Base of a root is formed like that of a
+root of the Tenth class.  In the case of roots of the Tenth
+class the causal form is identical with the primitive.  The
+Causal form takes either pada.  Thus from भ्र comes the causal
+base बोधय, बोधयानि‍ ' he causes to know '; भु-बोपयति ' he
+shakes or agitates,' गण-गणयति ' he causes to count,' नी-नाययति
+' he makes another lead or to carry '; क्रु ' to call ' से ' to lie '
+scatter—कारयति ' he causes to do or scatter ' कू—कोतयति, &c.
+
+§ 603.  Roots ending in अय्, except अय् ' to go ' &c., कष्
+'to love,' कस् 'to eat,' हृश् when it means 'to see ' and यस् when
+it does not mean 'to eat,' and the roots* marked with an indica-
+tory ङ् (वे. g., वण्, &c.), shorten their vowel before taking its Vrddhi
+substitute; पन्—पानयति,  कष्—कामयति, यद्—यंदयाति, जत्—जंवयाति,
+          * These are:—यद्, ग्यद्, प्रुट्, प्रत् , ' to spread,' बृ ' to pound,'
+स्वद् 1 Â. ' to destroy, to cut,' अञ्ज् 1 Â. ' to go,' दुश्, कुश् 1 Â.
+' to pity,' कत्, हृत् 1 Â., त्यर्, ज्वर्, नङ् 1 Par. 'to distil,' हृद् ' to
+surround,' यद्, यद् ' to speak,' यद् ' to dance,' क्षुद् 1 P. ' to resist,'
+शाय् 1. P. Â. 'to lie down '; हु ' to dance '; प्रुच् 1 P. to shine,' 1 to
+'tocling to', हृग्,ऱग्,स्पग्, स्पग्, all meaning 'to cover,' बुग्, अग्, अत्
+'to move in a zigzag manner,' कण्, एण् P. 'to go,' वण्, युण्, भुण्,

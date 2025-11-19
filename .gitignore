@@ -24,3 +24,7 @@ extraction_log.txt
 # Backup files
 *.bak
 *~
+
+# Large source files in archive (too big for GitHub)
+archive/source_workfiles/candidates/*.pdf
+archive/source_workfiles/missing_pages/*.pdf

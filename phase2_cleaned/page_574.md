@@ -1,0 +1,47 @@
+---
+page_number: 574
+internal_page: 574
+chapter: "Appendix II - Dhātukośa"
+section: "dhātukośa"
+rules_starting: []
+rules_continuing: []
+has_footnotes: false
+---
+
+                      ऊ—
+
+ऊन्—10 U. घृङ्गुगै to lessen; ऊनयति-तै pre. ऊनयिष्युयति fut. औनन्द्र
+   -न Aor. ऊनितयिषति-तै des.
+
+ऊर्न् 1 A. तन्तुसन्तानै to weave, to sew, ऊयतै pre. ऊर्युयांचक्रै-चश्युर्-
+   शास perf. ऊर्णिता p. fut. ऊर्णिष्युयतै fut और्णिष्युयत् con. और्णिष्टु
+   aor. ऊर्णिषीष्ट ben. Cau—ऊर्युयाति-तै pre ऊत p. p.
+
+ऊर्ज् 1, 10 U. बलप्राणयो: to strengthen to live, ऊर्जति, ऊर्जुयति-तै
+   pre. और्जित, और्जिजत—न aor.
+
+ऊर्णु 2 U. आच्छुादनै to cover. to hide; ऊर्णोति, ऊर्णुते or ऊर्णुतै
+   pre ऊर्णुनाव-न्वु or ऊर्णुवं perf. ऊर्णुविता or ऊर्णुविता p. fut.
+   ऊर्णुविष्युयति-तै or ऊर्णुविष्युयुति-तै fut. ऊर्णुविष्युयात्. और्णिषीष्ट. और्णु-
+   वीत्. और्णीत. or ऊर्णुयीत. aor और्णुवात् or और्णीष्ट or
+   ऊर्णुविषीष्ट ben. Cau—ऊर्युुुययति-तै pre. और्णुवयत-न aor. Pass.
+   —ऊर्णुयतै pre. ऊर्णुयुं perf. और्णोषि aor, ऊर्णुविता, ऊर्णुभाविता or
+   ऊर्णुविता p. fut. ऊर्णुविषीष्ट, ऊर्णुगीषीष्ट or ऊद्धुगषीष्ट ben.
+   ऊर्णुविषयुत, और्णुयिषयुत, और्णुविसयुत con,
+
+ऊर्च् 1 A. to sport to play; ऊर्चुतै pre. ( same as उर्ष्. )
+
+ऊर्य 1 P. चायायाम to be diseased or disordered; ऊर्युयति pre. ऊर्युुं-
+   चकार &c. perf. और्युुत aor, ऊर्युित p. p.
+
+ऊह् 1 A. (sometimes P.) विर्कै to conjecture, to reason, to infer;
+   ऊहतै pre. ऊहांचक्रै-चश्युर्-शास perf. ऊहिता p fut. ऊहि-
+   ष्युयुत fut, औहिष्युयत् con. औहिष्टु aor. ऊहिषीष्ट ben, Pass—ऊह्युतै
+   pre. औहि aor. Cau—ऊहयति-तै pre. और्चूहत-न aor. ऊहित
+   p. p. ऊहित्वा ger:
+
+                      ऋ—
+
+ऋ 1 P. गतिप्रापणौ: to go, to get; ऋच्छुति pre.
+   अरतं aor.                                   } आर perf.
+ऋ 3 A. to go; इयर्ते pre. आरर aor. (with समु, समारात) } ऋतौ p. fut

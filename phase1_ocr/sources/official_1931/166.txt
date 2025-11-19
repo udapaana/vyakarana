@@ -1,19 +1,32 @@
-[Internal page: 148]
-148                    SANSKRIT GRAMMAR.                    [ § 241-244
+[Internal page: 166]
+166                                     संस्कृतव्याकरणम्
 
-ed by कु and महद्; कुन्ब्राह्मा-ह्मः a bad Brāhmana, महाब्राह्मा-ह्मः. The न is dropped necessarily when the compound implies the country in which the Brāhmana dwells; e. g. सुराष्ट्रब्राह्मा a Brāhmana dwelling in Surāshtra.
+§ 274. उपसम्पन्नपदे च ।
 
-§ 242. *The word महद् is changed to महा when it forms the first member of a Karmadhāraya or a Bahuvrihi compound, or when the termination जातीय follows; as महादेवः. the great god, महाबाहुः a great arm (Tat.) or one having a great arm (Bah.); महाजातीयः; but महत: सैवा महत्सैवा (Gen. Tat.).
+When उप is used, in the sense of सम्पत्ति (as stated in the previous section), the Accusative is dropped.
 
-Exception:—When it is followed by यास, कर and विभीष the change takes place necessarily; महतो महत्या वा करः महाकरः; similarly महाघासः, महाविभीषः.
+Example:— उपकण्ठम् 'near the throat', उपकूलम् 'near the bank'.
 
-§ 243. † अष्टन् becomes अष्टा when followed by कपाल and गौ and the compound so formed conveys the sense of 'an oblation' and 'yoked to' respectively; अष्टाकपालः 'prepared or offered in eight pans' (पुरोडाशः); अष्टागवं (शकटम्) 'a carriage with eight bullocks yoked to it'.
+§ 275. प्रभृतिदक्षिणतः परमादिभ्यः ।
 
-§ 244. ‡All the rules given above for the change of the finals of the Tat. compounds do not hold good in the case of the Neg. Tat; e. g. न राजा अराजा one not a king; न सस्या असस्या, &c.
+After प्रभृति, दक्षिणतः, परम etc., the Accusative is dropped.
 
-(a) But in the case of the word पथिन् the final इन् is optionally dropped and अ added; अपथं or अपंथाः 'absence of a road'. पथिन् when so modified in a Tat. is neu.; § (but अपथं:द्वेषा:)。
+Examples:— आप्रभृति 'from the beginning', आदक्षिणतः 'from the south', आपरम् 'to the last', उपान्तम् 'to the end'.
 
-* आच्मभहतः सम्बानाधिकरणजातीययोः । Pān. VI. 3. 46. and the Vārtikas on it.
-† अष्टनः कपालै हविविौ । गावि च युक्तौ । Vārtikas.
-‡ नञ्सस्यरुषेषात् । पथो विभाषा । Pān. V. 4. 71. 72.
-§ अपथं नपुंसकम् । Pān. II. 4. 3.
+§ 276. सहयुक्तेऽप्राणिनि ।
+
+When used with सह, and when the first member denotes a lifeless object, the Accusative is dropped.
+
+Example:— सधनम् 'with wealth', सरथम् 'with a chariot'; but not सहपुत्रम्, because पुत्र is animate.
+
+§ 277. सर्वनाम्नः ।
+
+When the first member is a pronoun, the Accusative is dropped (even when denoting an animate being).
+
+Examples:— सत्वम् 'with thee', समाम् 'with me', सयत् किञ्चित् 'with whatever'.
+
+§ 278. इति चेत्तुल्यार्थे वचनीयम् ।
+
+When the compound has the sense of 'equality' or 'likeness', the word इति should be used (i. e. the Accusative is not dropped).
+
+Example:— सेतिवत् 'like this', सेतित्वम् 'with this equality'.

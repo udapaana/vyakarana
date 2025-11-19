@@ -1,42 +1,40 @@
-[Internal page: 362]
+[Internal page: 376]
 
-362                    SANSKRIT GRAMMAR.                     [ §
+                         SANSKRIT GRAMMAR.                     [ §
 
-                     Imperative.
+                        Conditional.
 
-         1 छुध्ये            छुध्यावहै         छुध्यामहै
-         2 छुध्यस्व          छुध्येथाम्         छुध्यध्वम्
-         3 छुध्यताम्         छुध्येताम्         छुध्यन्ताम्
+1 अबोधयिष्ये,      अबोधयिष्यावहि      अबोधयिष्यामहि
+  अबोधिष्ये       अबोधिष्यावहि      अबोधिष्यामहि
+2 अबोधयिष्यथाः,    अबोधयिष्येथाम्      अबोधयिष्यध्वम्
+  अबोधिष्यथाः     अबोधिष्येथाम्      अबोधिष्यध्वम्
+3 अबोधयिष्यत,     अबोधयिष्येताम्      अबोधयिष्यन्त
+  अबोधिष्यत      अबोधिष्येताम्      अबोधिष्यन्त
 
-                     Potential.
+                     Benedictive.
 
-         1 छुध्येय           छुध्येवहि         छुध्येमहि
-         2 छुध्येथाः         छुध्येयाथाम्       छुध्येध्वम्
-         3 छुध्येत           छुध्येयाताम्       छुध्येरन्
+1 बोधयिषीय,       बोधयिषीवहि,        बोधयिषीमहि
+  बोधिषीय        बोधिषीवहि         बोधिषीमहि
+2 बोधयिषीष्ठाः,    बोधयिषीयाथाम्,      बोधयिषीध्वम्-म्
+  बोधिषीष्ठाः     बोधिषीयाथाम्       बोधिषीध्वम्
+3 बोधयिषीष्ट,     बोधयिषीयास्ताम्,     बोधयिषीरन्
+  बोधिषीष्ट      बोधिषीयास्ताम्      बोधिषीरन्
 
-§ 593.  ( a ) The roots स्तच्, जन्, तन्, and सच्, '
-drop their च् and at the same time lengthen their
-स्तन्यते, सोपते, &c.
+                        Aorist.
 
-( b ) शी 'to lie down' and चि form their bases as ह्यस्
+1 अबोधयिषि,       अबोधयिष्वहि,        अबोधयिष्महि,
+  अबोधिषि        अबोधिष्वहि         अबोधिष्महि
+2 अबोधयिष्ठाः,    अबोधयिषाथाम्,       अबोधयिष्ध्वम्-द्
+  अबोधिष्ठाः      अबोधिषाथाम्        अबोधिष्ध्वम्
+3 अबोधि         अबोधयिषाताम्,       अबोधयिषत,
+                अबोधिषाताम्        अबोधिषत
 
-( c ) ऊह् shortens its ऊ when a preposition is pref
+For the various irregularities, &c.  see the third
 
-( d ) दरिहा, दौषी and वेङी drop their final vowel befo
+                    11. DESIDERATIVES.
 
-( e ) हू and अस् substitute हृच् and भ् for themselves
-भञ्ज् also substitute अञ्ज् and घी respectively.
+§ 613.  Any primitive root of the ten classes,
+causal base,  may optionally* take a Desider
 
-§ 594.  To assist the student, the 3rd sings. pre.
-roots, regular and irregular, are given below.
-
-Roots.        3 sing.  Roots.              3 sing
-
-प्रा                      प्रायते         घे             घीयते
-ज्या                     जीयते          वे              ठयते
-दा I. P. 3. U.  दीयते                    ट्ये            बीयते
-दा 2. P.         दायते                   हृ              हूयते
-धा                      धीयते          गे              गीयते
-पा ' to drink '  पीयते                   पे              पायते
-पा ' to protect '  पायते                 दो              दीयते
-मा                      मीयते          सो              सीयते
+Or the notion of desire may  be conveyed by n
+ance; i. e. पिपठिषति or पठितुमिच्छति 'he wishes to r

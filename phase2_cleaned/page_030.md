@@ -1,0 +1,33 @@
+---
+page_number: 30
+internal_page: 22
+chapter: "Rules of Sandhi"
+section: "sandhi"
+rules_starting: ["§ 27", "§ 28"]
+rules_continuing: ["§ 26"]
+has_footnotes: true
+---
+
+name or the family is actually mentioned, e. g. शो आयुष्मानेषि देवदत्त हे live long, O Devadatta, which is said in reply to "आभिवादये देवदत्तोहम्" I, Devadatta, bow to you; but the last ह in "शो आयुष्मती भव भार्ये" or in आयुष्मानेषि is not pluta; for in the 1st we have the name of a female and in the 2nd no name at all.
+
+But if the sentence end in the word भो: or in the name of a Kshatriya or Vaishya the last vowel becomes optionally pluta e. g. आयुष्मान् एधि भो: or भो हे: आयुष्मानेषीर्धवर्धन्व or षर्ध हे व आयुष्मानेषीर्धवर्षित or त हे ।
+
+(2) The final vowel of a sentence addressed from a distance to a person, and that of the particles है and हे used in such a sentence; e. g. सन्कूर पिच देवदत्त हे; हे राम; राम; है हे ।
+
+§ 27 The particle उ, preceded by a letter of the first five classes except अ and followed by any vowel, is optionally changed to व*; विङ्व उक्ते किन्तुक्तम् and किङ्व उक्ते (by § 26 c.).
+
+II. HALSANDHI, OR THE COALESCENCE OF FINAL CONSONANTS
+              WITH VOWELS AND CONSONANTS.
+
+§ 28 When स् or a consonant of the dental class comes in contact with:—
+
+(a) †श or a consonant of the palatal class, the corresponding letter of the latter class is substituted for the former, and श for स्; हरिस्+शेते=हरिश्शेते Hari sleeps; रामः+चिनोति=रामश्चिनोति Rāma collects: सत्+चित्=सच्चित् Reality and knowledge; शान्तिम्+जय=शान्तिञ्जय Be you victorious, Oh Kṛṣṇa.
+
+Exception:-(1) Dentals coming after श् are not changed into the corresponding palatals: e. g. विश्र: that which spreads lustre;श्र:.
+
+---
+
+## Footnotes
+
+* भव् उजो वा वा । Pāṇ. VIII. 3-33.
+† स्तोः श्चुना श्टुः । गात् । १-च्_ ७६-४३: । Pāṇ. VIII. 4, 40. 44, 41:

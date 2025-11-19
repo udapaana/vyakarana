@@ -1,32 +1,16 @@
-[Internal page: 169]
-अव्ययीभावः                                                           169
+[Internal page: 186]
+186                                     SANSKRIT GRAMMAR.                         [ § 312-313
 
-§ 288. नमः स्वस्तिस्वधाऽलं वषडिति च ।
+teacher '; but आचार्यो ' a woman who teaches; a spititual preceptress '.
 
-The indeclinables नमः, स्वस्ति, स्वधा, अलम्, and वषट् enter into an Avyayībhāva compound.
+(a) * The words मातुल and उपाध्याय insert this आन optionally; मातुलानी. मातुली; उपाध्यायानी. उपाध्यायी; ' the wife of a preceptor,' but उपाध्यायो or उपाध्याया ' a female preceptor ', ' a woman who herself performs the work of an उपाध्याय '; in the case of अर्य and भूनिव, भान is optionally inserted before the ई, when no wife is meant; अर्याँ—अर्याणो. ' a mistress or a woman of the Vaiṣya or trader class '; क्षत्रिया, क्षत्रिथाणी ' a woman of the Kshatriya or warrior class ', अर्या ' the wife of a Vaiṣya '; क्षत्रियो ' the wife of a Kshatriya.'
 
-Examples:— नमोदेवाय 'salutation to the god', स्वस्ति प्रजाभ्यः 'welfare to the people', स्वधापितृभ्यः 'oblation to the manes', अलमर्थाय 'enough for the purpose', वषट्कृतम् 'the utterance of वषट्'.
+313. † Nouns ending in अ and not having य for their penultimate, except द्रय, गव्य a wild ox, द्रुक्य, मड्रुष्य and मत्स्य take ई when ' class ' is implied e. g. द्रुषली ' A Sudra female ' ( also the wife of a द्रुषल, see § 311. above ); similarly म्राहुषी, महाच्युदूद्री, &c., द्यरिणः. ह्युर्गों, औपगर्वो ' a woman of the औपगब class of Brāhmaṇas.' हत्त्रो ' a woman of the हन्त्र class of Brāhmaṇas ', &c., इपौ; गव्यौ. द्रुकौ, मह्युषौ, and मत्स्यौ ( vide § 306. d. ); but देवदत्ता ' a woman of that name '; अज्ञा as it is one of the words included in the Ajādi group ; ( see § 307. and foot-note ); सूद्रा ' a woman of the Sudra class ( see § 307 above ).'
 
-§ 289. प्रत्ययार्थे क्तः पञ्चम्याः ।
+(a) Words ending in पाद, कुण्, पर्ण, पुष्प, फल, स्त्रल and चाल form their fem. in ई when kind is implied ; शोवदागक्रो, शाकुकुर्णो, शालपर्णाँ, शंबेपुष्पाँ, दासीफलौ, दूभंकाली and गोदाली all names of particular herbs.
 
-When a प्रत्यय (affix) has to be understood after the first member in the Ablative case, the affix क्त is added.
+(b) Also words ending in ई and denoting mankind; द्राक्षी ' a woman of the द्राक्ष family,' औदमैयौ (उदमेधरस्याग्रल्यं), but तितित्रिरः.
 
-Example:— यथामुक्तम् 'as said', where मुक्त represents मुख्+क्त.
+* मातुलोपाध्यायोश्चुरुङ्ग वा । या तु स्वयमेवाध्यापिका तत्र वा शान्यः । अयेक्षुविश्याग्य्यो वा त्स्वार्थे । Vārtikas.
 
-§ 290. पञ्चम्याः कृच् ॥
-
-After a word in the Ablative case, the affix क्त (called कृत् in technical grammar) is used.
-
-Examples:— यथाक्रोशम् 'within the distance of a क्रोश (cry)', यथायोजनम् 'within a योजन'.
-
-§ 291. कर्मणि स्थानिनः ।
-
-When the object or कर्मन् is the first member, स्थानिन् (that which occupies a place) is understood.
-
-Example:— अधिशयनम् 'in or upon the bed'.
-
-§ 292. दुर्दुःसुषु च सस्थानिनोर्विशेषणम् ॥
-
-The words दुर्, दुः, and सु (meaning 'bad', 'ill', 'good') are used in place of स and स्थानिन् to express a qualifying sense.
-
-Examples:— दुर्भिक्षम् 'famine' (bad food), दुर्दिनम् 'evil day', सुभिक्षम् 'good food', सुदिनम् 'auspicious day'.
+† जातिज्ञोविपेधवन्येपाताशीभूयर्तातू वा । पाड़कर्णपर्णपुष्पफलोत्थलचालोत्तरपदाच्छ ह इतो मध्यजातेः । Pān IV. 1. 64. 65

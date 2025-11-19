@@ -1,0 +1,54 @@
+---
+page_number: 38
+internal_page: 30
+chapter: "Rules of Sandhi"
+section: "sandhi"
+rules_starting: []
+rules_continuing: ["§ 46"]
+has_footnotes: true
+---
+
+(c) *Visarga, preceded by इ or उ and not belonging to s
+termination, is changed to ष except in the case of मङ्; often,
+if followed by a hard consonant of the guttural of the labial
+class : निः + प्रत्यूह = निष्प्रत्यूह without obstacle. आविष्कृताम् dis-
+closed; दुष्कृतम् a bad action; but दुहुः कृतम्; आविः करोति as the
+Visarga is substituted for म् a term. so मातुः छाया and not
+मातुच्छाया. भातुच्छत्रः is an exception.
+
+(d) †तिरस् optionally retains its स् when followed by क,
+ख, प, or फ; तिरः करोति or तिरस्करोति hides or scorns.
+
+द्विः, त्रिः and चतुः; all of them adverbs showing frequency,
+change their Visarga to ष optionally under the same circum-
+stances‡; द्विःकरोति or द्वि.करोति does twice; but चतुष्कपालम् hav-
+ing four parts ( where चतुः is not an adverb ).
+
+(e) § The ending इः or उः of a word changes its visarga to
+ष optionally under the same circumstances when the presence
+of the following word is necessary for the completion of the
+sense; सर्पिःकरोति or सर्पिःकरोति turns into ghee; धनुःकरोति or
+धनुःकरोति makes a bow; but सिद्धु सर्पिः किम् स्वदुकद्व, as there is
+no connection here between the words सर्पिः and किम्.
+
+And necessarily when at the end of the first member of a
+compound; as सर्पिष्कुण्डिका a pot for clarified butter; but परम-
+सर्पिः कुण्डिका a big ghee-pot ( as the word सर्पिः is an uttara
+pada ).
+
+(f) Visarga coming after the अ of a word other than an
+indeclinable and forming the first member of a compound is
+changed to ष when followed by a derivative of the roots कृ/
+खन्, and by क्षर, क्षम, पाश, कुम्भ and काण्ड × e. g. अयस्कारः an
+iron-smith; अयस्कामः one who desires iron; अयस्कुम्भ an iron
+pot; अयस्पाशम्; अयस्कुम्भ a bridle; अयस्काण्डी a kind of iron p[?]
+
+---
+
+## Footnotes
+
+* इदुपधस्य चाप्रत्ययस्य । Pāṇ. VIII. 3. 41.
+†तिरसोऽन्यतरस्याम् । Pāṇ. VIII. 3. 42.
+‡ द्विस्त्रिश्चतुरिति कृत्वोर्थे । Pāṇ. VIII. 3. 43.
+§ इहतोः सामर्थ्ये । नित्यं समासेऽनुत्तरपदस्थस्य । Pāṇ. VIII. 3. 44-45.
+अनः कृव्यादिषुत्रुम्पाशकुम्भकाण्डेष्वन्यतरस्याम् । Pāṇ. VIII. 3. 46.

@@ -1,18 +1,18 @@
-[Internal page: 15]
-§20-21]                      RULES OF SANDHI.                    15
+[Internal page: 34]
+34                        SUBANTA OR DECLENSION.                    [ § 54
 
-(d) When अ is followed by ऋत: and there is an Inst. Tat.; as सुख+ऋतं=सुखातं: blessed with happiness (सुखेन ऋतः); but परमर्तं: very adorable (परमश्रासी ऋतश्र).
+and Voc. Sing: e.g. नदी a river, and so मती wise.
 
-(e) When the word ऋण comes after प्र, वसतर, रुचल, इत्तन and ऋण; प्र+ऋणं=प्राणम्, principal debts, so वसतराणं debt for a calf; ऋणाणम् (a debt contracted to liquidate a previous debt); दशाणं: (Name of a country; lit. the country with ten fortresses), also दशाणां नदी (lit. the river into which ten other rivers flow).
+III Words ending in उ :—(a) Masculine, feminine, and neuter; m. गुरु a teacher, f. धेनु a milch-cow, n. मधु honey; in this class also adjectives end in उ; e.g. लघु light.
 
-(f) When* a preposition ending in अ is followed by a root having an initial ऋ; as उप+ऋच्छति=उपार्च्छति; प्राछति; but if the root be a denominative, the Vriddhi is optional; प्र+ऋषति=प्रर्षीयति or प्रार्षीयति acts like a bull; but उप+ऋकारीयति=उपकारीयति, as the ऋ is long; also प्र-लृकारीयति=प्रा-प्रल्कारीयति very much wishes for ल lkára; for ल is grammatically considered to be similar to ऋ.
+(b) Feminine words ending in ऊ do not differ in inflection from those ending in short उ except that they have ऊ in the Nom. Acc. and Voc. Sing.; e.g. वधू a bride (f.) and so गुरु (f.)
 
-§21. When अ or आ is followed by ए or ऐ and ओ or औ ऐ and औ are respectively substituted for both†; छृष्ण+एकत्वं=छृष्णैकत्वम् the majesty of god; सा+एवं=सैव she alone; भव+औषधं=भवौषधम् medicine against birth and re-birth; विद्या+औसुक्यं=विद्यौसुक्यम् longing for knowledge.
+IV Words ending in ऋ :—(a) Masculine words such as पितृ a father, ending in ऋ may be divided into two classes; (1) those which are not derivatives and (2) those which are derivatives. The Nom. Dual and Plural of both classes end in आ. The former make their Nom. sing. in आ; as पिता a father: but the latter in आ or आ at will; e.g. भर्ता or भर्तः a husband, दाता or दातः a giver.
 
-Exceptions:—
+(b) Masculine words ending in तृ (properly derivatives formed by means of the affixes तृ, तृच् and क्तृ such as भर्तृ a master, वक्तृ a speaker and कर्तृ one who has made, may make their Nom. Pl. in रः with the tृ changed to री, or in रः with the medial ऋ changed to आ; e.g. वक्तारः or वक्तृः speakers.
 
-(a) । If a preposition ending in अ be followed by a root /beginning with ए or औ, ए or औ is substituted; प्र+एजते=प्रैजते quakes very much; उप+ओषति=उपौषति burns something near; but if the root be a denominative. vrddhi is optional; उप+एङ्कीयति=उपैङ्कीयति or उपेङ्कीयति; प्र+औघीयति=प्रौघीयति or प्रौघीयति.
+V Words ending in ऋ;—Masculine; e.g. होतृ an invoker of the gods (root हु to sacrifice); they are derivatives.
 
-* उपसर्गादृति धानी। Pân. VI. 1. 91. या सुण्योधिशोऽत! Pân. VI. 1. 92.
+VI. Feminine nouns ending in आ decline like नरः a man or like पितृ a father except in the Nom. Acc. Voc. Sing., where they take their own peculiar case-endings; माता mother, स्वसा a sister, दुहितृ a daughter.
 
-† वृद्धिरेचि Pân. VI. 1. 88. । एङि परहपम्। Pân VI. 1. 94.
+VII Feminine nouns ending in ई take their inflectional ending in the same way as those ending in short इ; and those ending in ऊ in the same way as those ending in short उ; e.g. यातृ wife of the husband's brother, स्वश्रू husband's mother. कृऊ is an exception as it declines both as a feminine and a neuter: अमावास्या the night of the new moon declines like Dhenu; तनू the body and ऊर्वी the earth like पृथ्वी.

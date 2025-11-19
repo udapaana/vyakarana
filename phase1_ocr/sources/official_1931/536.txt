@@ -1,40 +1,47 @@
-[Internal page: 522]
+[Internal page: 536]
 
-524                  SANSKRIT GRAMMAR.                   [ § 933–935
+2                   SANSKRIT GRAMMAR.                   [ § 5–7
 
-sorrow or anger (here the अ is not dropped); sometimes it is
-dropped; as in मायुर्युयुयु: स्युयूयूस्युयूनुयूनुयुं do not despise your soul
-(conscience). Some explain these anomalies by considering
-the particle to be युयु and not युुयूडु.
+its natural length; * as in युयूयूयुःस्युयुयूनुयूं रदुयूदु नुयू जुयूयूयूति, &c.
+(Vik. I.); तत्युयू: सुयुरुस्युयूस्युयूयुक्षुरुयूनुच्युरु (Rag. II 2.)
 
-THE TWO FUTURES.
+§ 6. In the case of metres regulated by syllables each line
+is divided by groups of three syllables called gaṇas or
+syllabic feet, named as यू, नु, यू, यू; जु, तु, यू, and स. The names
+and the Schemes of these are given in the following stanza.
 
-§ 934. The difference between the Two Futures is the
-same as that between the Imperfect and the Aorist, the only
-difference being that the former refers to a future time and the
-latter to a past one. The First or Periphrastic expresses
-futurity definitely but not of this day; the Second or Simple
-Future expresses futurity indefinitely as also that of to-day;
-it is also employed to denote recent and future contiguous
-time; as अद्युोयुयुयूर्णों युयुः युयूयुत्युयूति कुरै भरुतुयूनुलितुयूयू (Bhattṛi XXII,)
-oh monkey, to-morrow you will go to Ayodhyā governed by
-Bharata; आत्युयूयुयुत्युरुस्युयुयो इड्युयु युयुयूरुयूयूदुयूयूः शियुयुयूट् । यातुरुः सहुं मायुयुयूयूयो
-होष्युयूमि युयूयुरैणु रुयुष्युयूयूः (Bhattṛi XXII. 14.) they will be delighted
-on seeing you and will ask you questions about the welfare of
-us two and Sītā; and Bharata also will be greatly pleased;
-एते...उच्युयुयूयूतुयुयुः कुपिकुयूतुनुनं (Kir. III. 22) they will be extirpated
-by the monkey-bannered one (Arjuna); सत्युयुयूयुयूयु पुञ्युयूलुयूयो S'ak.
-IV.) Śakuntala will go (goes) to-day; युयूविष्युयूति जिज्युयूयूनै यु
-हुतुयूयूनुयुयूयुयु समुयु (Bhattṛi XVI. 13) if my sons are killed I will
-die or kill the enemy, &c.
+युयुनुयूछुयूनै:विदुयूयूनै नुद्युयूनै युयूविदुयूयूयू पुरुयूलिड्युयूयूयुयूनुयुः।
+जो युयूयुयुस्युयूयुनुर्णो रट्युयुयूरुयुः युौयुस्युयुरुयुयूयूः कुयिनुयूयूल्युयूयुट्युयूयूः ॥
 
-THE FIRST FUTURE OR PERIPHRASTIC FUTURE.
+i. e. यू has all its syllables long; नु has all its syllables short; भु
+has its first syllable long, यु has its first syllable short; जु has
+its middle syllable long; रु has its middle syllable short; सु has
+its last syllable long and तु has its last syllable short. †
 
-§ 935. Obs. * When the continuousness of an action or
-nearness of time (i. e. the non-intervention of the same period
-between the two points of time referred to) is to be expressed the
-First Future must not be used. याबुजीवुयुयूनुयूनुयुं दुयूस्युयूति he will give
-food throughout his life; and not वातु, यु इयुयुं अयुयूयुस्युयूयु आयूनितुनुतो
+The symbol ∪ stands for a short or light syllable; the sym-
+bol—denotes a long vowel or a heavy syllable. Symbolically
+represented these Gaṇas will stand as under:—
 
-* नुयूयुयुतुनुवुच्युक्तुयूयुयुयुच्युन्युयूहुयूर्णों विष्युयुयूः। । युयूविच्युयूतिनुयुर्यूनुदुयुदुच्युनैरुयुयुरुछुयुयु ।
-कुयूलुयूविभुयुगो चुयूकुदुरोयूद्युयूणुयूयुट्। युरोलिङुनुयूयूयूयूयूयु। Pāṇ. III. 3. 135-138.
+यू—— जु∪——
+नु∪∪∪ र—∪—
+भु—∪∪ सु∪∪—
+यू∪—— तु——∪
+
+Similarly the letter युयु is used to denote a short syllable and
+यू a long one at the close of a line.
+
+§ 7. In the case of metres regulated by syllabic instants
+each line is divided into groups of four mātrās called the Mātrā
+Gaṇas; one युयूत्रुयू or instant is allotted to a short vowel and two
+to a long one. The Mātrā gaṇas are five in number. These
+may be symbolically represented thus:—
+
+यू——, नु∪——, भु∪∪∪, सु∪∪∪, तु∪∪∪,
+
+* Vide Vṛittaratnākara I. 3.
+
+युङुयुयूनुविरुयुयूनुयूनु तयूयूयू गन्युयूयूयूर्युयूयुयूनुयु नु स्युयूट् ॥ Chandomanjari.
+
+† The above verse is easier to remember than one given
+above; आदिमुयूयूयूयूयूयूनुयू युयूदुयूयूयू युयूयूति ल्युयूयूवुरु । युत्तुयूयू गोत्तुयूयूं युयूयूति
+युतो दु युयुलुयूयूयूयू ॥

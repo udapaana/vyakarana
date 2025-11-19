@@ -1,13 +1,25 @@
-[Internal page: 198]
+[Internal page: 212]
 
-SANSKRIT GRAMMAR.                                                  [ § 340
+SANSKRIT GRAMMAR                                        [ § 342-343
 
-' a maternal uncle '; (2) and व्य is added to पितृ and भातृ in the sense of ' the brother and the son of' respectively; पितृः भ्राता पितुञ्ज्यः ' a paternal uncle '; भ्रातुः पुत्रः भ्रात्रेयः ' a nephew.'
+लक्ष्मीवद्‌, पशस्वद्‌. भारुद्वद, &c. ;* राजन्‌+वद्‌=राजन्वद्‌; as राजन्वाद् देशः ' a country having a good or just king'; ( cf. Rag. VI. 22. )=राज्ञवद्‌; as राज्ञवाद् देशः ' a country governed by a king'; उदक्‌+वद्‌=उदन्वद्‌ m. ' the sea'; उदकुवद्‌ as उदकुवान्‌ ( घटः: ' a jar ' ) containing water.
 
-ind आयनि, are added to patronymics formed by means of Tad. affixes in the sense of ' the child of,' दाक्षायणः-पिनि ' the son of Dākṣhi '; गार्ग्यायणः-णिः ' the son of गार्ग्य, a descendant of Garga ' आयन is also added to the word कापिशौ ' name of a town' in the sense of 'produced in'—कापिशायनः , and optionally to द्रोण; द्रौणायनः or द्रौणिः son of Droṇa.
+Exceptions :—म is not changed to व in the case of the words यव, रलिय, ऊमि, भूमि, छमि, कुञ्च्म्, ब्रश; इक्षु, भज्र, त्रजि, द्यरित्‌, कन्तुद्‌, इश्चुः and मनु, as यवमान्‌, ऊमिमान्‌, &c.
 
-the meaning of ' a son or a descendant of'; दाक्षिः ' the son of Dākṣa '; वैयासकिः ' the son of Vyāsa,' &c. ( In the case of the words व्यास, वरुड ' name of a low caste,' निषाद, चाण्डाल and चिब, the final अ is changed to अइ before this इ. )
+(b) † मत्‌ also becomes वत्‌ when added to words ending in any of the first four letters of a class ; विद्युद्वान्‌, तडिद्वाद्‌ m. 'possessing lightning' i. e. ' a cloud ', &c The न of विद्युद्‌ &c. is not changed to द्‌ as it is not at the end of a पद्‌.
 
-इ, टञ्. टन्‌ ]—has various senses :—( 1 ) रैवत्याः अपत्यं पुमान् रौवतिकः ˘˘ ' the son of Revatī; ( 2 ) ' happening or given once a month, monthly, lasting for a month', &c. मासेन दीयते इति मासिकं वेतनं पुस्तकं वा; similarly वार्षिकं आयुः &c. ( 3 ) ' gathering together ', सैनिकाः; ( 4 ) ' asking ;' छुस्तातं पृच्छतीति सौस्तातिकः ' one who asks another whether he had an auspicious ablution '; so इसशयनं पृच्छतीति सौषञ्चायनिकः ' one who asks another whether he had comfortable sleep'. ( see Rag. VI. 61 X. 14.); सौखञ्जिकः &c ; ( 5 ) ' using an instrument '; असिः प्रहरणमस्य असिकुः ' one who strikes with a sword, ' a swordsman'; धानुष्कः ' an archer ,' ( 6 ) ' mixed with,'
+( c ) and when the whole expresses a संज्ञा ( a name ); अहीवती; मुनीवती &c.
 
-this sense it is added to a few words only.
+§ 343. When added to words denoting qualities मत्‌ is dropped; ‡ e. g. शुहौ धुणीऽस्य्रास्तीति शुक्लः पदः a white ( i. e. possessed of the white colour ) garment, so द्युष्णं. &c
+
+य ( यद्‌ )—is added to रुप in the sense of ' a stamped coin, or beautiful '; रूप्य ' possessing snow, snowy', यूण्यः ' possessing merits '.
+
+सुष—is added to ऊर्णां, शुभ्, अहं, and ञौ; ऊर्णसुः ' woolen ', शुभसुः ' possessing bliss, fortunate ', अर्हसुः ' proud '; द्रोषुः ' happy '.
+
+र—is added to पाण्डु, सषु, इषि, ऊर्ध, नय, मुष्क, पाडु, स, मुस्‌,
+
+* राजन्वान्यौराज्येि । Pān. VIII. 2. 14. राजवान्न्यत्र । Sid. Kau.
+
+† इयः । संञायाम् । Pān. VIII. 2. 10, 11.
+
+‡ शुणवचनेभ्यो मतुबो लुगिष्टः । Vārt.

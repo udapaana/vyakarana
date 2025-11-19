@@ -1,0 +1,55 @@
+---
+page_number: 74
+internal_page: 66
+chapter: "Subanta or Declension"
+section: "declension"
+rules_starting: ["§ 106", "§ 107", "§ 108"]
+rules_continuing: []
+has_footnotes: true
+---
+
+§ 106. ऊर्ज् s. n. strength, is regularly declined; e. g. s.
+ऊर्जे-ण ऊर्जौ ऊर्जः N.; ऊर्जा ऊर्ज्भ्याम् ऊर्ज्भिः I.; ऊर्जि ऊर्जोः ऊर्जु L.
+
+                    Neu.
+
+N. V. A:    ऊर्ज्     ऊर्जी     ऊर्जि; *the rest like the mas.
+with बहु-   बहूर्जे   बहूर्जी    बहूर्जि or बहूर्जि †
+
+§ 107. Nouns ending in ऋ. There are a few nouns derived
+from the roots ending in ऋ. They have no other peculiarity
+than this, that they change their ऋ to र् before consonantal
+terminations. e. g. प्रशाऋ् m. f. one who is tranquil.
+
+N.    प्रशाऋ्    प्रशारौ      प्रशारः
+A.    प्रशारम्      "          "
+I.    प्रशारा    प्रशाऋ्भ्याम्  प्रशाऋ्भिः
+L.    प्रशारि    प्रशारोः     प्रशारसु or प्रशारसु
+
+                    Neu.
+
+N. V. A.  प्रशाऋ्    प्रशारी      प्रशारि
+The rest like the mas.
+
+                Bases ending in ऋ् :-
+
+§ 108. The penultimate अ of nouns ending in ऋ् is leng-
+thened in the Nom. sing. if it does not belong to root nouns.‡
+
+चन्द्रमस् m. the moon.
+
+N.    चन्द्रमाः    चन्द्रमसौ    चन्द्रमसः
+V.    चन्द्रमः       "          "
+A.    चन्द्रमसम्   चन्द्रमसौ    चन्द्रमसः
+
+---
+
+## Footnotes
+
+* राज्ञामी सयुगेः । Sid. Kau. †बहूर्जि उभयनिर्देशः । अन्यपदार्था वा
+युप् । Várt.
+
+‡ आन्महतस्य बाभावतेः । Pán. VI. 4. 14. The penultimate vowel
+of nouns ending in मस् or वस् and in अस् not belonging to a root
+is lengthened when followed by स् (सु्) not belonging to the
+Vocative

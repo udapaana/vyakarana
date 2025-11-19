@@ -1,0 +1,51 @@
+---
+page_number: 459
+internal_page: 459
+chapter: "Verbal Derivatives or Primary Nominal Bases"
+section: "verbal-derivatives"
+rules_starting: []
+rules_continuing: ["§ 777"]
+has_footnotes: false
+---
+
+रुयुद्—is added to all nouns to form neu. abstract nouns; सह्—।
+सहुनुं endurance, हुरु—हुरुनुं laughing, शो—शयुनुं sleeping, पु—।
+पानुं drinking, मुच्छु—शोजुनुं, रुयुद्—रुयुनुं, &c. This is also added
+in the sense of 'the instrument of an action'; इुवुयु—इुयुनुरुं an
+instrument for cutting; an axe, &c; वुदुह्—गोद्युहुनैत्तुं a milk
+vessel (here it shows the place of action of Adhikaraṇa).
+
+आकु—(युरुकुत्)—is affixed to अटुयु, भिस्, युड्युट् छुरु and वुस् in the
+sense of 'in the habit of,' अटुयुकुः (जनैरुयुहै शालुमुरुस्यु) 'a
+prattler; भिस्—निक्षाकुः 'a beggar,' युड्युट्युकुः 'he who divides or
+cut's;' छुयुड्युकुः 'a robber;' युरुयुकुः 'a poor man.'
+
+आरु—वुट्—शौरुरु destructive, hurtful; वुङु—वैङुरुरु praising, a
+panegyrist.
+
+आदुद्—is added to the cau. of स्थुह्, भहु and पुरु, to युरु and to
+the words निवुरु, नन्द्युरु and अरुयुट्, स्थुयुरुयुहुद् longing for, desirous
+of; दुयुयुहुद् compassionate; निमुरुयुहुद् disposed to sleep; नरुयुहुद्,
+अरुयुहुद्: 'full of faith.'
+
+इु—(इुरु, इुन्युद्, इुयु, किंङु)—
+
+इुरु—डुयु—कुटुतिः 'one who tills the ground'; यू—गिरिः a mountain.
+
+इुन्युद्—is added to युष् and other roots; धुगुतिः a well; वुसुतिः a
+dwelling.
+
+इुयुं—is added to अजु and other roots of the group; आजुतिः a
+battle, आतिः &c.
+
+कि—is added to the roots इु and या and others assuming these
+forms; भू—इुयुरुतिः fraud, condition, &c.; निधिः a treasure,
+संधिः a joint, peace, &c.; जलुधिः the sea (here it is used in
+the sense of आयुदुकुरुणुरु).
+
+ईरु—(इुरु) is added to कु, इु, छु, पु, खु, शुयु, चहु, and चत्; कु—
+वारिड़ a rudder, helm; an oar; छुविङु a sickle; युवुतुं a fan
+made of the deer's skin; सायिङु cause of generation; खुनुङु a
+spade; सहिङु patience, forbearance; चरिङु.
+
+इुयु—(इुति, विदुयुः पोनुति)—।

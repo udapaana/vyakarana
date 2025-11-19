@@ -1,0 +1,50 @@
+---
+page_number: 34
+internal_page: 26
+chapter: "Rules of Sandhi"
+section: "sandhi"
+rules_starting: ["§ 39", "§ 40", "§ 41"]
+rules_continuing: ["§ 38"]
+has_footnotes: true
+---
+
+sibilant ṣ; ṣaṣ + ṭhaḥ = ṣaṣṭhaḥ, ṣāḍḍhaḥ; ṣāḍḍhukaḥ; the sixth
+man gone before; sugan + ṭhaḥ = sugaṇṭhaḥ, sugaṇḍhaḥ, sugaṇḍhukaḥ, the
+sixth good counter.
+
+§ 39. If ṣ or s at the end of a word be followed by t, ṭ
+(changed to ḍ) is optionally inserted between them; * e. g.
+ṣaṣ + santaḥ = ṣaṭsantaḥ or ṣaṭ + ṭ + santaḥ = ṣaṭṭsanta six good men;
+so sat + sa: = satsaḥ or santsaḥ: that good man.
+
+(a) ṣ, s and r at the end of a word and preceded by a short
+vowel double themselves when followed by a vowel †; e. g.
+pratyak + ātmā = pratyaggātmā the individual soul; so suparipṇīḥ: the
+best reckoner; sabacyutaḥ: good Achyuta.
+
+§ 40. Ob. If the ending t of a word be followed by ś, t is
+optionally inserted between them ‡ e. g. sat + śoṣu: = sanśoṣu: and
+santtśoṣu Śambhu existing for all times; and sancśoṣu: = sancśoṣu:
+and sancchśoṣu: (by § 35); then by § 28 (a) t being changed to ñ
+(and t to ṭ) sañśoṣu:, sañcśoṣu: and sañcchśoṣu: and finally by
+dropping t optionally (by § 20 a.) sañśoṣu:, sañcśoṣu: and sañcchśoṣu
+śañcchśoṣu.
+
+§ 41. ṇ coming after ī, ū, or ṛ short or long, in the same
+word is changed to n even though a vowel, a semi-vowel
+except r, a nasal, or a letter of the guttural or labial class or
+h comes between ī, ū or ṛ and ṇ;†e. g. rājena = rājena; sū + ṇā
+puṣṭā by the sun, viṣṇāya &c.; but rāma + ṇāma = rāma nāma (as these
+are two separate words). This change does not take place
+when ṇ is at the end of a word × rāmāṇ.
+
+---
+
+## Footnotes
+
+ṣ ṣaṣṭhaḥ kukṣau nāre । Pāṇ. VIII. 3. 28.
+* ṣaḥ ti śūt । saṃ । Pāṇ. VIII. 3. 22. 32.
+† ṣī ṛtvādiṣu drughinnyam । Pāṇ. VIII. 3. 32.
+‡ śiti tuk । Pāṇ. VIII. 3. 31.
+- rāmāyā ṇo ṇaḥ samānapadye । madhukṛtādiśānyavāyine Pāṇ. VIII. 4. 1. 2.
+× ṇakārāya na । Pāṇ. VIII. 4. 37.

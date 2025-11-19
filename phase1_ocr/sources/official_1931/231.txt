@@ -1,41 +1,36 @@
-[Internal page: 217]
+[Internal page: 231]
 
-§ 344-346 ]                    GENDER.                         217
+§ 373 ]                    INDECLINABLES.                         231
 
-
-from the dictionary or from usage. The following hints, however,
-may be useful to the student in the majority of cases.
-
-                        I MASCULINE WORDS.
-
-§ 345.        Verbal derivatives formed by the affixes अर् and आ,
-and ई added to the roots दा and घा; e. g. पाकः, व्यापः, करः, मरः
-any beverage or drink, poison, गोप्तर्: range, scope, यन्ता, विष:,
-आधिः mental pain or anguish, निधिः a treasure, &c.
-
-    Exceptions:—यास्था fem. and भव, लिङ्ग, and भग all neu.
-
-§ 346. Words ending in ड and those having ऋ, इ, द, प, द,
-स, ष, श, र, or स, for their penultimate; as प्रशु, भाद्य, इशु,
-स्तवकः ' a bunch of flowers ' &c, घट:, पाषाण:, शोथ: ' a swelling,
-फेनः, दीपः, स्तम्भः, रोम:, समयः, क्षुरः a razor,' अङ्कुर:, द्र:, वायस: &c.
-
-    Exceptions:—Words ending in—
-
-( a ) ड—घेडु, रज्जु ( except when it ends a compound, in which
-        case it is both mas. and fem. ) डुड—द ' the last day of a
-        lunar month on which the moon is invisible,' सरयु ' name
-        of a river,' तदु, करेणु and विषेयु ' a kind of creeper,' which
-        are all fem.; इमशु, जाडु, वडु ' wealth,' अश्रु, जतु ' lac,'
-        ईय ' tin or lead', ताडु, दारु, मधु ' honey,' स्वादु ' relish',
-        वस्तु and मस्तु ' sour cream ', which are all neuter.
-
-( b ) क—चिबुक ' the chin', इत्लुक, प्रातिषद्धिक, अंशुक ' a garment,'
-        उल्सक ' a fire brand.'
-
-( c ) इ and ण—किरीट, इङुट, लङाट, गुग्गाट ' a place where four
-        roads meet,' ज्ञण, लवण, पर्ण, उब्ध.
-
-( d ) थ and न—काष्ठ, पृष्ठ, रिक्थ property left at death,' उत्कथ ' a
-        hymn of the Sāmaveda,' ' a kind of sacrifice,' जघन, अजिन
-        ' the hairy skin of a black antelope', तुहिन ' snow', कानन,
+ऋते without, except.                । किञ्च who, what, which ?;
+एकत्र together, in one place.       । किद्धूत How much more?
+एकदा once, once upon a time.        । किइह What, how ?
+एकथा in one way, singly, at the । किन्वा Or.
+    same time                        किन्विद् Whether, how.
+एकपदे all at once, suddenly.        किल Verily, indeed, assuredly.
+एतर्हि Now, at present              किम् What then,  how much
+एवं Just, quite.                         more, &c.
+एवम् Thus, so.                       इतस् Whence, from where?
+ओम् So be it.                        कुत्र Where, in which place?
+काचित्  }                            कुत्राचित् Somewhere, anywhere.
+       I trust, hope, &c.
+कञ्चन                                कुविद् Much.
+कथम् How, in what way.              कुषत् In the best manner.
+कथञ्चन } With great difficulty,     हृपत In a good manner.
+कथाश्चिद् } With great effort.      छत्तम् Enough, no more of.
+कथञ्चाम् How indeed, how possi-     केचलम् only, merely, simply.
+    bly.                             क Whither, where ?
+कदा When, at what time..            कचित् In some place.
+कदाचित् One time, once upon a       न कचित् Nowhere.
+    time.                            खलु Certainly, surely, indeed.
+न कदाचित् Never.                    चिरम् A long time. The singular
+कम् used as an enclitic.                 of any of the oblique cases
+कर्हि When, at what time?                of this word may be used
+कर्हिचित् At any time                    adverbially in the sense of
+किकोल What a pity.                       'long,' 'for a long time,' as
+किञ्च Moreover, further, again.          चिरेण, चिराय, &c.
+किञ्चन  } To a certain degree,      चिररात्राय For a period of many
+किश्चित् } little, somewhat.             nights, long.
+किन्तु  But, yet,  nevertheless,    जातु Perhaps, sometimes.
+    however.                         जोषम् Silently.
+किन्नु What indeed, whether.

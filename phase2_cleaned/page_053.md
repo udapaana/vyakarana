@@ -1,0 +1,55 @@
+---
+page_number: 53
+internal_page: 45
+chapter: "Subanta or Declension"
+section: "declension"
+rules_starting: []
+rules_continuing: ["§ 77"]
+has_footnotes: true
+---
+
+L सहधि सहधौः सहधुः
+
+Decline similarly हड् ( हड हुनाति ), इन्द्र् ( the thunderbolt of
+Indra or the god of death), कर्म्, पुनर्भू, बधूधि, &c. mas. and mas.
+and fem.
+
+• • •
+
+प्रधि* neu. like वारि. खल्डु† neu. like मधु.
+
+N. A. प्रधि प्रधिनी प्रधीनि N. A. खल्डु खल्डुनी खल्डुने
+V. प्रधि-षे " " V. खल्डो-षु " "
+I. प्रध्या-धिना &c. option- I. खल्ड्वा-उना &c. option-
+ally like the mas. before the ally like the mas. before the
+vowel terminations. vowel terminations.
+
+प्रधी fem. mas.
+
+( प्रकृत्या धी: fem. प्रछ्टा धीर्विद्या: यस्य वा fem. mas. )
+
+Voc. sing., Da. Ab. Gen. and Loc. sings. Gen. plu. like नदी;
+the rest like प्रधी mas.; e. g.
+
+N. प्रधीः प्रध्यौ प्रध्यः
+V. प्रधि " "
+A. प्रध्यम् " "
+I. प्रध्या प्रधीभ्याम् प्रधीभिः
+D. प्रध्यै " प्रधीभ्यः
+Ab. प्रध्याः " "
+G. " प्रध्यौः प्रधीनाम्
+L. प्रध्याम् " प्रधीषु
+
+Decline similarly कुमारि ( कुमारीम् इच्छतीति कुमारीप् आवश्यतीति
+वा ) except in the Nom. sing. which is कुमारी.
+
+---
+
+## Footnotes
+
+* ऐैतादयाधीभ्यः । Pāṇ. VII. 3. 116. आम् is substituted for the
+loc. sing. in the case of words ending in नदी, आ and the word नी.
+
+† इस्वो नपुंसके प्रातिपदिकस्य । Pāṇ. I. 2. 47. A prātipadika ending
+in a long vowel has a short vowel substituted for it when
+becoming neu.

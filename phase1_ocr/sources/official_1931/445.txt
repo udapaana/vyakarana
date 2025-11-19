@@ -1,43 +1,42 @@
-[Internal page: 431]
+[Internal page: 445]
 
-§ 712-713 ]        PRIMARY NOMINAL BASES,                    43
+§ 764-767 ]        PRIMARY NOMINAL BASES.                    447
 
-Roots.                              Pot. Ptc.    '
+§ 764  The Gerund अम् does not, in many  instances,  express
+the notion of repetition.
 
-दा—दातव्य, दानीय what must or ought to be given.
-चि—चेतव्य, चयनीय what must or ought to be searched into, &
-नी—नेतव्य, नयनीय                „         „         carried.
-श्रु—श्रोतव्य, श्रवणीय            „         „         heard
-भू—भावितव्य, भवनीय            „         „         been.
-कृ—कर्तव्य, करणीय              „        ,.·        done.
-बुध्-बोद्धितव्य, बोधनीय,
-    बोद्धव्य                      ,.       „         known
-मुच्-मोक्तव्य, मोचनीय           ,.       „         released.
-मृज्-*मार्ष्टव्य, मार्जनीय         „        „         wiped.
-सृज्-स्रष्टव्य, सर्जनीय           „        ,.        created.
-भृज्-भर्ष्टव्य, भर्जनीय,
-    भर्ष्टव्य, भर्जनीय            ,.       ,.        fried.
-भिद्-भेत्तव्य, भेदनीय           „        „         split.
-निन्दु-निन्दितव्य, निन्दनीयं; „      „         censured.
-गुह्-गोहितव्य, गूहनीय,
-    गुहितव्य †                   „        · „       concealed.
+§ 765.  This gerund or the one in स्या  is used with the  words
+अचे, पुयुं and  पुञ्चं,  used  as prepositions, although the notion of
+repetition is not  present in  these compounds; अत्रुभैसुख्वुव्युत्वा हा
+स्त्रौयौ ' having taken to goes out;' so यथायुगोन or पुञ्चवा यृडु-
+भोरिते or पुञ्चवा बुद्धुते.
 
-§ 713.  The final अय of roots of tho tenth class and of cau
-sals, the final अ of Atm. Freq. Bases, when the य is precede
-by a vowel and the whole य when it is preceded by a consonan
-are dropped  before अनीय.   To Desiderative bases  it is adde
-without any change e. g.
+§ 766.  The gerund in अम् of the root कु is used *
 
-कथ्—                  कथनीय what must, or ought to be told.
-चुर्—                  चोरणीय  „       „       stolen.
-बोधय cau. of बुध्—बोधनीय  „       „       made to know.
-बोबुध् Atm.
+( a ) with the noun  governed by it, if it be compounded  with
+it prepositionally when  censure  is  implied;  चौरुकाते  आकोष्युत्ते
+( चौरुछुद्युय उत्याचियुथुर्यै: ) ' cries out ( he is ) a thief, a thief.' In this
+case यु is added to the noun governed.
 
-Freq. Base of „ बोबुधनीय „       „       known frequently
+( b ) with the words स्वाद्, छुण, and  संस्युद् ,  यु  being  added to
+these as before; आस्वात्ङुर स्वादु छुत्युवा थुकैं स्वाद्ङु-छुरूणं-संस्यदै—कारु थुकैं
+'he eats having sweetened or seasoned his food.'
+
+( c )  with the words अत्युया,  एव,  हुर्युं,  and  कुर्युं,  provided the
+root य takes its sense; अत्युयाकारुं  हुत्तो  'he  speaks  in  a coherent
+manner;' ' एवं कृत्वा the acts thus;'  किंकारुते,  कुथंकारुते  हुयुभुरामु ,
+but शिनैत्युयुत्या हुत्वा मुङुकैं.
+
+( d ) with the particles  युथुं  and  युथा  when an angry  reply
+is given; युथुमुकारुं  शोध्युं  तुथुमकारुं  शोध्युं  किं  तवौनैन  ( Sid. Kau. );
+'I will  eat  in  this  manner,  I will  eat in that manner,  what
+have you do with that ?'
+
+§ 767.  The Gerund of the roots हुन् and विद्य † is compounded
+with  their  objects  and  expresse  totality;  कन्यायुच्चु  वरुयति
+' chooses as many girls as he sees, i.  e.  all  of  them,'  ब्रातुषातुवुदै
 
 _________________________________________________
-* The ऋ of मृज् is changed to आर् against § 712.
-† The उ of गुह् is lengthened instead of being Guṇated befor
-a strong termination beginning with a vowel.
-
-H. S. G. 28.
+* कुरुणुमर्योकौ छुतु: सवङुत्र् । स्वुदुहुयै पाकुदै । अत्युयैकुर्युत्यिंद्यैयुङुद्धुविद्यु-
+प्रयाथुस्तुवे । युथुयुथोरुकुरुधुयाप्रुत्युचुसै । Pāṇ. III. 4. 25—28.
+† कर्मोणै द्वादुनि:विदौं: साकल्युं । Pāṇ. III. 6. 29.

@@ -1,43 +1,38 @@
-[Internal page: 379]
+[Internal page: 393]
 
-§ 618-621 ]        CONJUGATION OF VERBS.                    379
+§ 650-653 ]        CONJUGATION OF VERBS.                    395
 
-remember ' or ' to study ' ) are lengthened and final ऋ, short or
-long, changed to ई ; or to ऊ after labials or व when the स् is
-unaugmented; जि-जीजिष्, इ-दूदुर्, छ-चिकीर्ष्, तू-तितीर्ष्, इ-दीध्य्,
-इ-इईर्ष्, &c
+personal terminations being added immediately to the nominal
+base.  The bases thus derived convey the notion of acting or
+behaving like that which is expressed by the noun,  and are con-
+jugated like the Parasm.
 
-( c )  The roots दृष्, तिर् and मृष् do not change their vowel
-to Guṇa ; and the roots मृड् , स्मर् and भृज्ज् take Samprasāraṇa;
-रुरूदिष्, मीवर्तिष्, ममार्जिष्, जिमृग्ष् डुमुग्म् , गुमुच्छेष् .
+§ 651.  The penultimate अ  of a noun ending in a nasal is
+lengthened,  The base is treated like a root of the last gana-
+nation , its last vowel only taking Guṇa before त &c ; ( termina-
+tion of Vishṇu ) इव आचरति—अति ' he acts like Vishṇu, '
+कृष्ण—कृष्णाति ' he acts like कृष्ण ' ( कृष्णाति 1st sing. ), कवि—कव-
+यामि ' I act the poet or behave like a poet, ' विद्—विवाति ' he be-
+haves like a bird, ' माला-मालाति ' he or it acts  like a garland '
+( Perf. मालाञ्च &c. ), पितृ-तिताति 'he acts like a father.' ऋ-भृवति
+' acts like the earth '  ( Perf. चुभाष, &c. as यू  is the base ),
+राजन्-राजनति ' he acts like a king,' पथिन्-पयातति ' it serves as
+a road,' &c  So इदमति from इदम्, ऋतुम्रुवृति from ऋतुषश्व
+name of Indra.
 
-( n )  Roots with an initial consonant, and having इ or ई
-short for their penultimate, and ending in any consonant, except
-ष् or त्, change their vowel to Guṇa optionally or स is
-prefixed to स्; शुन्-तिशुन्तिष्, दिशोतिष्: द्रह्-मद्राहिष् or घुम्राहिष् &c
+( b )  The words असुगल ( a bold man ), हीड ( a child ) and
+विडाल take the affixes यूष् and किर् optionally and are conjugated
+in the Ātmane. असुगलीते or असुगलायते, हीडते or हीडायते, किडाते
+or किडायते.
 
-§ 619  The formation of Desiderative bases of causals and
-of roots of the Tenth class does not differ from that of
-primitive roots
+        ( d )  By means of the affix य ( णयर् ) and
+                  conjugated in the Atm.
 
-Art § 550. should be attended to in forming Desideratives
-from Causals and roots of the Tenth class.
+§ 652.  The affix य ( णयर् ) is added in the same sense as
+above to nominal stems and the nominal verbs so derived are
+conjugated in the Atm.
 
-§ 620  Roots in their Desiderative forms take the same
-terminations, Parasmai or Atmane, that they do in the primitive.
-The roots भृ, मृ, हु and टनु take Atm.  terminations in the
-Desiderative.
-
-§ 621.  The following roots form their Desiderative bases
-irregularly:—
-
-Roots.                Desider. base.  Third pers sing. Pre
-
-अद् ' to eat '                जिघत्स           जिघत्सति
-अत्                          ईत्त            ईत्तति
-इ ' to go '                 जिगमिषु           जिगमिषति
-इ with आधि ' to study '      आधीजिगीषु          आधीजिगीषते
-इ with प्रति ' to be convinced' प्रतीयिषु        प्रतीयिषति
-ड—                         एषिषु             एषिषति
-ज ' to sound '              जगिषु             जगिषति
-ज्ञप्—                       जञ्यूप्सु           जञ्यूसति-ते
+§ 653.  Before this affix the final अ of a nominal base is
+lengthened, अ remains unchanged, other final letters undergo
+the same changes as they do before the other य ( क्यच् ).  The
+final अ of a noun is changed to आ optionally and that of अन्तवर्

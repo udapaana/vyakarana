@@ -1,41 +1,44 @@
-[Internal page: 96]
-96                    SANSKRIT GRAMMAR.                    [ § 144-146
+[Internal page: 114]
+114                    SANSKRIT GRAMMAR                    [ § 180-184
 
-§ 144. The affix अति is added to तद् , यद् and किम् to show
-number or measure e. g  तति 'so many', यति 'as many,' and
-कति ' how many'. These are declined in the plural only, and
-take no termination in the Nom and Acc. ; e. g. Nom. and
-Acc. कति Inst. कतिभिः the rest like हरि.
+§ 180.  In Sanskrit simple words, whether substantives,
+adjectives. verbs or indeclinables, have the power of entering
+into combination with one another and forming what are called
+' Samāsas', compound words or, in short, compounds.
 
-        8—Reciprocal Pronouns.
+(a)  A compound thus formed may further be compounded
+with another simple or compound word, and this again may
+become the member of a new compound.
 
-§ 145. Reciprocity is expressed by the repetition of the
-pronominal adjectives अन्य, इतर and पर; e. g. अन्योन्य, इतरेतर,
-and परस्पर. These are generally used in the sing. and also
-advertially e. g. परस्परेण स्पृहणीयदोभर्म &c. ( Rag. VII. 14);
-परस्परं विबद्धन्ते &c. They are more commonly used as the first
-members of compounds; as अन्योन्यमोभाजनवाद् बुधुत &c. (Ku.
-I, 44, इतरेतरयोगाः (Sis. X. 24.) &c.
+§ 181.  In a compound, as a general rule, words are simply
+joined together, without any relation between the component
+parts being actually expressed ; the whole compound word has
+the power to express the various relations that exist between the
+several parts.  The last word only takes the case termination
+required by its grammatical position in a sentence, the remaining
+words ( those ending in a consonant ) generally assuming their
+crude forms before the consonantal case terminations ; e. g.
+विद्वस् + जनः = विद्वज्जनः ( see below ), राजन् + पुत्रः = राजपुत्रः, &c.
 
-        9- -Possessive Pronouns.
+§ 182.  Final vowels or consonants ( modified as mentioned
+above ) of preceding members of compounds combine with the
+initial letters of the succeeding members according to the usual
+rules of Sandhi.
 
-§ 146. Possessive pronouns are formed by means of the
-secondary affix ईय added to तद्, एतद्, अस्मद्, and युष्मद् ; and
-अ and ईन added to भवत्, and युष्मद्, changed respectively
-to माम्क and तावक् in the sing. and आस्माक and यौष्माक in the
-plu. before these ; e. g.
+§ 183.  In a few cases, the intermediate members retain their
+case endings in which case the compounds are called ' Aluk'
+( अलुक् ), e. g.  देवानां प्रियः a fool, शुष्मठेरः name of the eldest
+Pāṇḍava &c.
 
-        अस्मद्
-        Mas.
+§ 184.  The expounding of a Samāsa ( i. e. giving its Vigra-
+haváckya ) consists in the expression of the various relations
+existing between the objects or ideas denoted by the various
+members of a Samāsa by means of the proper cases or sub-
+ordinate sentences.
 
-Sing.                        Plural.
-मदीय 'my, mine'        अस्मदीय 'our, ours'
-मामक        ,,        आस्माक        ,,
-मामकीन        ,,        आस्माकीन        ,,
+( a )  When the Vigrahaváckya cannot be given, or cannot be
+given by using the words actually compounded, the compound
+is called nityasamāsa ( अविघ्रहो नित्यसमासः अस्वपदविघ्रहो वा ।
+Sid. Kau. ).
 
-        Fem.
-
-Sing.                        Plural.
-मदीया my, mine'        अस्मदीया 'our, ours'
-मामिका        ,,        आस्माकी        ,,
-मामकीना        ,,        आस्माकीना        ,,
+* From अस् with सम to throw together.

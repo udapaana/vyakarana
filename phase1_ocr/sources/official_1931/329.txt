@@ -1,44 +1,45 @@
-[Internal page: 315]
+[Internal page: 329]
 
-§ 505 ]              CONJUGATION OF VERBS.                   315
+§ 520-527 ]          CONJUGATION OF VERBS.                   329
 
-2 पेदिषे   पेदाथे    पेदिरे        2 शेदिथ-शाशाद्
-3 पेदे     पेदाते    पेदिरे        3 शादाद्            शेदतुः     शेदुः
 
-Conjugate मद् Â., सद् P., तद् P. शृध् P., Â., यद् P., ऱद् Â., लद्
-Â., तद् P., यद् P., रद् Â., बद् P., नद् P. similary; बद्-बाबदे
-2 sing , चबद्-बाबद्य-चबदुत् 2 sing , नद्-नेदिथ्य-नन्दुत् 2 sing , स्कंद्
-देहिष्य-स्तंभ 2 sing, नद्-नेदिह्य-नन्दम्. &c
+§ 520  च् is prefixed to vowel weak terminations in the case
+of ही 4. Â. ' to obey.'
 
-     स्कन्द् 1 P. ' to drop '     बन्ध् 9 P. ' to bind. '
+    1 दिदीये          दिदीयिवहे         दिदीयिमहे
+    2 दिदीयिषे        दिदीयाथे          दिदीयिध्वे-द्
+    3 दिदीये          दिदीयाते          दिदीयिरे
 
-1 चस्कन्द् चस्कन्दिव चस्कन्दिम 1 वन्ध्य           बाबन्धिव    बाबन्धिम
-2 चस्कन्दिथ् चस्कन्दथुः चस्कन्द् 2 बवन्धिथ्        बवन्धथुः    बवन्ध
-  चस्कन्थ                        वन्ध
-3 चस्कन्द् चस्कन्दतुः चस्कन्दुः 3 बवन्ध्य         बवन्धतुः    बवन्धुः
+§ 521.  दे 1. Â. 'to protect' assumes as its base the form दिगि
+in the Perfect. दिग्ये, दिगिषवहे, 1 sing. and dual दिगिषष-द् 2 pl.
 
-   गम् 4. 5. P. ' to grow, to accomplish ' स्पृश् 6 P. ' to touch. '
+§ 522.  युत् after reduplication assumes the form दियुव्; दियुते
+1 sing., दियुतिषे 2 sing.
 
-1 रभव    राभविव    राभविम        1 पस्पर्श         पस्पृशिव    पस्पृशिम
-2 राभविथ् राभवथुः  रभव          2 पस्पर्शिषे       पस्पृशथुः   पस्पृश
-3 रभव    राभवतुः  राभुः         3 पस्पर्श         पस्पृशतुः   पस्पृशुः
+§ 523.  पी is substituted for मे 'to grow fat' in the Perfect
+and in the Frequentative; पिप्ये 1 sing., पिपिषष-द् 2 pl.
 
-                स्पृश and छुश are similarly conjugated.
+§ 524.  The root व्यथ् takes Samprasāraṇa in the reduplicative
+syllable in the Perfect; विव्यथे 1 & 3 sing , विव्यथिषे 2 sing.
 
-    ( 4 ) Set roots ending in a consonant.
+§ 525.  For the forms of विज्, see § 466, विवेज 1 sing.,
+विविजिथ् विविजथुः विविज 2 per &c.
 
-       नन्द् 1 P. ' to be glad '      वन्द् 1 Â ' to salute.'
 
-1 ननन्द   ननन्दिव   ननन्दिम        1 वंबन्दे   वंबन्दिवहे   वंबन्दिमहे
-2 ननन्दिथ् ननन्दथुः  ननन्द         2 वंबन्दिषे वंबन्दाथे    वंबन्दिध्वे
-3 ननन्द   ननन्दतुः  ननन्दुः        3 वंबन्दे   वंबन्दाते    वंबन्दिरे
+                   PERIPHRASTIC PERFECT
 
-       घुर् 4. 1 P. ' to dance. '     घुड् Â. 1. ' to rejoice.
+§ 526.  The Periphrastic Perfect is formed by adding आम् to
+the root and then adding the forms of the reduplicated Perfect
+of छ्, धू, or अस् as terminations; when the forms of छ्, are
+added, a Parasmaipadi root takes the Parasmaipadi forms and
+an Ātmanepadi one takes the Ātmanepadi forms.
 
-1 नर्तौ   नर्तृतिव   नर्तृतिम       1 घुघुरे   घुघुरिवहे   घुघुरिमहे
-2 नर्तीथ   नर्तृतथुः  नर्तृत        2 घुघुरिषे  घुघुराथे    घुघुरिध्वे
-3 नर्तौ   नर्तृतुः   नर्तुः         3 घुघुरे   घुघुराते    घुघुरिरे
+§ 527.  Before आम् the final vowel and the penultimate short
+except that of विद्, take their Guṇa substitute
 
-       अर्ह् 1 P. ' to afflict.'        कच्छु 6. P. ' to go '
+                     Paradigms.
 
-1 आनर्ह्   आनर्हिदे   आनर्हिदम्      1 आनच्छे   आनच्छिव    आनच्छिम
+              ईड् 2. Â. ' to praise.'
+
+    1 ईडाचक्रे         ईडाचक्रिवहे        ईडाचक्रिमहे
+      ईडामास           ईडामासिव          ईडामासिम

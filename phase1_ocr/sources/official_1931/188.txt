@@ -1,34 +1,24 @@
-[Internal page: 171]
-अव्ययीभावः                                                           171
+[Internal page: 188]
+188                                     SANSKRIT GRAMMAR.                         [ § 317-321
 
-§ 298. स्वरादिनि च ।
+place; as, शाम्पदेय पतिः ' the mistress of a village', and not पत्नी, similarly गवां पतिः: &c.
 
-And स्थानिन् is understood when the compound begins with a vowel.
+§ 318. * The words अन्तवत्‌ and पतिवन्त form their feminine in ई but have a न prefixed to the ई, अन्तवन्ती ' a woman big with a child' पतिवन्ती ' a woman whose husband is living'. But if the word पति means 'a lord or master of' ई only is added; as गतिमती पृथ्वी ( the earth having a king ).
 
-Example:— अध्यृषि 'in or regarding the ṛṣi'.
+§ 319 Adjectives ending in ई short or long, have no other form for the feminine; as सुचिः, सुधीः &c.
 
-§ 299. वक्तव्यो व्युत्पत्तौ ॥
+§ 320. † Adjectives ending in उ not preceded by a conjunct consonant, except खर, take ई optionally; e g यदु-युद्‌ंही, पदु:-नूः, बहु:-ह्वी; but खरः 'a girl who chooses her husband' ( पतिवरा कन्या Sid Kau. ), याण्दु: and not याण्दूही as the उ is preceded by a conjunct consonant; आखुः as it is a noun.
 
-The word वक्तव्य 'should be stated' is used when explaining the derivation or etymology of an Avyayībhāva compound.
+§ 321 ‡ A prātipadika ending in उ not preceded by य and denoting mankind forms its feminine in ऊ: e. g. कुरुः ' a woman of the Kuru country'; but अध्वर्यू: 'the wife of an Adhvaryu'; also when it does not denote animal-kind § ; as अलावुः, कक्षध्युः, except in the case of रञ्जु and हुञ्जु; रञ्जुः, हुञ्जु:.
 
-Obs. This is a general note about how to explain the formation of these compounds in grammatical analysis.
+(a) Obs. § A prātipadika ending in बाहु and used as a proper name, and the word पदुपुः also form their feminine in ऊ; as भूञ्जबाहुः 'a woman of that name'; but वृत्तबाहुः ' a woman having well-rounded arms'; पदुपुः ।
 
-§ 300. तिष्ठद्गुः ॥
+* अन्तवत्स्तितवत्तोदुच्छ । Pān. IV. 1. 32.
 
-The augment गुक् is added to a word ending in ति when forming an Avyayībhāva compound.
+† क्षेतो शुणवचेनानु Pān. IV. 1. 44. खरसंयोगोपधाच । Vārtika.
 
-Example:— अभीति 'fearlessness' becomes अभीगुति in certain formations.
+‡ ऊङुत्तः Pān. IV. 1. 66. उकारान्तादयोपधात्त्मुष्ठुयजातिबाच्चिनः सियादुह्यवादुहुत्र्याद् । Sid. Kau.
 
-Obs. This is a special phonetic rule for certain compounds.
+§ अप्राणिजातेअरञ्जुञ्जीनाहुपसंख्यान् । Pān. Vārtika.
 
-§ 301. यथायोगं विकारस्तद्धितेषु ॥
-
-Changes (विकार) occur according to context in तद्धित formations (secondary suffixes).
-
-Obs. This general principle states that phonetic modifications in Avyayībhāva compounds follow the rules applicable to तद्धित affixes.
-
-§ 302. न वृद्धयादेशाः पूर्वपदात् ॥
-
-Vowel strengthening (वृद्धि) substitutions do not occur to the first member of the compound.
-
-Example:— अनुकूलम् (not अनौकूलम्), प्रतिकूलम् (not प्रैतिकूलम्).
+§ बाहुनतासंञायाम् । Pān. IV. 1. 67. पदुप्रः । Pān. IV. 1. 68. संञायाम्‌ । Pān. IV. 1. 72.

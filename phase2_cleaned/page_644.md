@@ -1,0 +1,54 @@
+---
+page_number: 644
+internal_page: 644
+chapter: "Appendix II - Dhātukośa"
+section: "dhātukośa"
+rules_starting: []
+rules_continuing: []
+has_footnotes: false
+---
+
+82                   SANSKRIT GRAMMAR.
+
+प्रष्टुं p. fut प्रक्ष्युयुति fut. अप्रक्ष्युयत् con. अप्राक्षीत ( अप्राट्सुम dual )
+  aor. पुच्छुयात् ben. पिपुच्छुिषति-तै des. Pass.—पुच्छुयतै pre.
+  Cau.—प्रच्छुयाति-तै pre. पुष्ट p.p. पुष्टुं ger. प्रष्टुं inf.
+
+प्रथु 1 A. यश्यानै to become famous, to increase, to rise; प्रथुतै
+  pre. पप्रथै perf. प्रथिता p. fut. प्रथिष्युयुतै fut. अप्रथिष्युयत् con.
+  अप्रथीत aor. Cau.—प्रथययाति-तै pre, अपपुरथत-न aor. पिप्रथिषतै
+  des. प्रथित p.p
+
+प्रथु 10 U. to become famous; प्रथुयति-तै pre. प्रथुयाञ्चुकार-चक्रै
+  &c. perf. प्रथुयिता p. fut. अपपुरथुत-न aor. पिप्रथुयिषति-तै des.
+
+प्रा 1 P. पूरणै to fill; प्राति pre. पप्रौ perf. प्राता p. fut. अप्रासीत
+  aor. प्रायात्, प्रेयात् ben. Pass.—प्रायुतै.
+
+प्री 4 A. प्रीतौ to feel pleasure for, to be satisfied; प्रीयुतै pre
+  पिप्रियै perf. प्रेता p. fut. अप्रैष्टु aor. प्रेष्ट ben. पिप्रीषतै des. प्रीत
+  p.p. प्रीत्वा ger. प्रेतुं inf.
+
+प्री 9 U. तुष्णै & to please, to take delight in; प्रीणाति, प्रीणीतै pre.
+  पिप्राय, पिप्रियै perf. प्रेता p. fut प्रेष्युयाति-तै fut. अप्रैषीत, अप्रैष्ट
+  aor. प्रीयात्, प्रेषीष्ट ben. पिप्रीयात-तै des. प्रीत p.p.
+
+प्री 10 U. & 1 U. तुष्णै to please; प्रीणयाति-तै, प्रयाति-तै pre. प्रीणय-
+  याति-तै, प्रेष्युयाति-तै fut. अपीप्रीणत-न, अप्रैषीत, अप्रैष्ट aor.
+
+प्लु 1 A. गतौ to go, to jump. प्लवतै pre, पुप्लुवै perf. प्लोता p. fut
+  अप्लोष्टु aor. Pass—प्लूयुतै pre. Cau.—प्लाययाति-तै pre.
+
+प्लुर् 1 P. अर्दनै to rub; प्लुर्दुति pre. पुप्लोद perf. अप्लुर्दीत aor.
+
+प्लुष् 1 P. दाहै to burn; प्लोषुति pre. पुप्लोष perf. प्लोषिष्युयुति fut.
+  अप्लोषीत aor. पुपुलुषति, पुप्लोषिषति des. प्लुष्ट p.p. प्लुष्टुं, प्लोषित्वा,
+  प्लुष्ट्वा ger.
+
+प्लुष् 9 P संचारनैविव्युयुवहारणै to become wet, to sprinkle, to fill;
+  पुष्णाति pre, पपुष p.p प्लोषित्वा ger.
+
+प्रेकृुोल् 10 U. आन्दुोलनै to swing, to shake; प्रेकुोलयाति-तै pre. अपि-
+  प्रैकुोलत-न aor. Pass.—प्रैकुोल्युतै pre.
+
+प्रैष् 1 A. to go; प्रैषतै pre. अप्रैषिष्टु Aor.

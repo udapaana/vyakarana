@@ -1,44 +1,42 @@
-[Internal page: 333]
+[Internal page: 347]
 
-§ 533-540 ]          CONJUGATION OF VERBS.                   333
+§ 563-565 ]          CONJUGATION OF VERBS.
 
-2. अस्थाः  अस्थातम्  अस्थात          2. अशाः  अशातम्  अशात
-3. अस्थात् अस्थाताम् अस्थुः          3. अशात् अशाताम् अशुः
 
-§ 534.  भू takes अभू instead of उस् in the 3rd per.  pl. and
-changes its vowel to ऊव् before the vowel terminations; e. g.
-अभूवम्, अभूव, अभूव 1st pers.; अभूतः. अभूताव् , अभूवन् 3rd per.
+3 अयुक्षत्   अयुक्षताम्  अयुक्षन्   3 अयुक्षत   अयुक्षताम्
+                                    अयुढ
 
-§ 535.  गा is substituted for इ in the Aorist, अगाम् , अगाव,
-अगाम 1st per.; इ with आवि ' to remember' अध्यगाम्, अध्यगाव,
-अध्यगाम्, &c.
+Roots. 1 sing.                     Roots 1 sing.
 
-§ 536.  This Variety is exclusively Parasmaipadi. दा, धा,
-and स्था take the fourth Variety in the Ātm.  भू when Ātm.
-takes the fifth; and इ with आवि Ātm.  the fourth.
+रिक्ष्—अरिक्षम्                     लिप्—अलिक्षम् , अलिक्षि
+स्क्ष्—अस्क्षम्                     द्रिप्—अद्रिक्षम् , अद्रिक्षि
+लिक्ष्—अलिक्षम् , अलिलिक्षि          त्रिप्—अत्रिक्षम्
+विक्ष्—अविक्षम्                    रिल्प्—अरिल्क्षम्
+कूक्ष्—अकूक्षम्                    गृह्—अगृहिक्षि—अगाहिषि
+क्षिक्ष्*—अक्षिक्षम् , अक्षिषिषम्     भिद्—अभिक्षम्
+स्पुक्ष्—अस्पुक्षम् , अस्पाक्षीम्     तुद्—अतुक्षम्
+               अस्पाक्षीम्
+मूष्—अमूक्षम् , अमाक्षीम् , अमाक्षम्  स्तुह्—अस्तुक्षम् , अस्ताहिं
+कुष् with निर्—निरदुक्षम् , निर्-    बृह्—अबृक्षम् , अबाहिषम्
+               कौषिषम्
+कुष्—अकुक्षम् , अकूषि , अकाक्षम् ,    गृह्—अगृक्षम् , अघाहिषम्
+      अकाक्षम् , अकूषि            रह्—अरक्षम्
 
-                 Second Variety or Form.
 
-§ 537.  In this Variety अ is added on to the root and then
-the terminations of the Imperf. of the first group of conjuga-
-tional classes are added; viz.
+                FOURTH VARIETY OR FORM.
 
-           Par.                          Ātm.
+§ 564.  Terminations:—
 
-1. अम्     व       म                1. इ      वहि       महि
-2. स्      तम्      त                2. थाः    इथाम्     ध्वम्
-3. त्      ताम्     अन्              3. त      इताम्     अन्त
+        Parasm.                    Âtm.
 
-§ 538.  The preceding अ is dropped before अम्, अव्, and
-अन्त and lengthened before इ and म.  The radical vowel except
-a final ऋ, short or long, and the ऋ of हृत्, does not undergo
-Guṇa or Vṛddhi substitute.
+1 सम्     स्व      स्म           1 सि      स्वहि     स्महि
+2 सीः    स्तम्     स्त           2 स्थाः    साथाम्    ध्वम्
+3 सीत्    स्ताम्    सुः           3 स्त      साताम्    सत
 
-§ 539.  This Variety is Parasmaipadā with a few exceptions
-such as ऋ with सम्, स्था, वच्, and अस् 'to throw' with a preposi-
-tion   The roots लिण्., सिन्, and हे take this form in the Par.
-and optionally in the Ātm, in which they also take the
-Fourth Form
+§ 565.  ( a ) Anit roots not belonging to any of th
+ing Varieties take this Form.  Anit roots that
+take any of the preceding Varieties and Wet roots
+belong to this Variety.
 
-§ 540.  The penultimate nasal of a root is dropped; as भेञ्ज्—
-अभञ्जत्, स्कन्द्—अस्कदत्, &c.
+* Wet roots which belong to this Variety, as Anit,
+take the 5th as Set.

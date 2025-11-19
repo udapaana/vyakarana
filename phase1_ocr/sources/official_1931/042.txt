@@ -1,22 +1,35 @@
-[Internal page: 24]
-24                        SANSKRIT GRAMMAR.                    [§31-36
+[Internal page: 42]
+42                        SANSKRIT GRAMMAR.                    [ § 75-76
 
-to ल, the nasalised ल taking the place of न*; तत्+लयः:=तल्लयः: the destruction of that; विद्वांस्+लिखति=विद्वाँल्लिखति a learned man writes.
+  G.     नद्याः           नद्योः                नदीनाम्
+  L.     नद्याम्            ,,                   नदीषु
 
-§32. The य् of स्था and स्तम्भ् is changed into य् when after the preposition उड्।;उड्+स्थानम्=उड्+ध्यानम्=उद्ध्यानम् and उड्ध्यानम् (see §20. a), and then उन्थानम्, उर्ध्यानम् rising up; similarly उत्स्भनम् and उर्ध्स्भनम् upholding.
+Decline all other fem. no uns in ई similarly.
 
-§33 ह coming after any of the first four letters of a class is optionally changed to the soft aspirate (4th letter) of that class‡; वाक्+हरिः:=वाग्हरिः (see b. under§22), and by this वाग्घरिः (वाचां हरिः) the possessor of speech, Bṛhaspati.
+  ( a ) The words अर्वी a woman in her monthly course, लक्ष्मी wealth, तरी a boat, त्तरी smoke, and तन्त्री a lute, do not drop the इ of the nom.* e. g. अर्वीः लक्ष्मीः &c.
 
-§34. Any consonant, except a nasal or a semi-vowel, is changed to the first of its class, when followed by a hard consonant, and to the first or third when followed by nothing; वाक्, वाण्.
+                    वधू f
 
-§35. ण् preceded by a word ending in any of the first four letters of a class and followed by a vowel, a semi-vowel, a nasal or ह, is optionally changed to ळ;– e.g. तत्+शिवः:=तल्+शिवः; and तड्+छिवः. and then तन्+शिवः, and तत्+छिवः by the above, and finally तंशिवः and तंच्छिवः. that Siva (sec. a. §28.). Similarly तच्छोकेन, तंच्छोकेन; but वाक्श्रोत्तति speech falters (as ण् is not followed by any of the letters mentioned in the rule).
+  N.     वधूः           वध्वौ                 वध्वः
+  V.     वधु             ,,                      ,,
+  A.     वधूम्           ,,                    वधूः
+  I.     वध्वा        वधूभ्याम्               वधूभिः
+  D.     वध्वै           ,,                   वधूभ्यः
+ Ab.     वध्वाः          ,,                      ,,
+  G.      ,,           वध्वोः                वधूनाम्
+  L.     वध्वाम्          ,,                   वधूषु
 
-§36. ×स् at the end of a word is changed into an Anusvâra
+Decline ·श्वश्रू a mother-in-law, चमू an army, कर्कन्धू the jujube tree, कफेदू a phlegmatic woman, यवागू rice-gruel, चषू a class of compositions, and other feminine nouns in ऊ similary. आति चमू mas. and fem. is declined like चमू except in the Acc. plu mas. which is अतिचमुन्.
 
-* तोलौ। Pân. VIII. 4. 60,
+§ 76. Mas. nouns ending in ई :—
 
-† उद्: स्थास्तम्भोः पूर्वम्। Pân VIII. 4. 61.
-‡ झयो होऽन्यतरस्याम्। Pân. VIII. 4. 62.
-– शश्छोऽटि। छरि च। Pân. VI. I. 4. 63. 55.
+वातप्रमिक्षेते अर्थी वातप्रमीः ' an antelope as fleet as the wind fr. वात + प्रमाः+ ई Uṇādi IV. 1.—
 
-× मोऽनुस्वारः। नश्चापदान्तस्य झलि। Pân. VII, 3. 23. 24 and Pân VIII. 3, 27, I. 3. 10. (see sec. b).
+    N.  V.  वातप्रमीः      वातप्रम्यौ            वातप्रम्यः
+      A.     वातप्रमिम्         ,,                वातप्रमीन्
+      L.     वातप्रम्या     वातप्रमीभ्याम्        वातप्रमीभिः
+      D.     वातप्रम्ये         ,,                वातप्रमीभ्यः
+    A. b.    वातप्रम्यः         ,,                   ,,
+
+*  अर्वीनन्त्रीतरीरुद्रेमौश्रीौणोऽस्त्रीति-हीभीणाङ्ग्राम्णावि॰  ।  समजीलिङ्रोह्राना   न  हुलोप
+कव्यच्चन ॥

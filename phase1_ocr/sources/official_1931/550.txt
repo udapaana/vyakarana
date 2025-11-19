@@ -1,47 +1,40 @@
-[Internal page: 536]
+[Internal page: 550]
 
-2                   SANSKRIT GRAMMAR.                   [ § 5–7
+16                   SANSKRIT GRAMMAR.
 
-its natural length; * as in युयूयूयुःस्युयुयूनुयूं रदुयूदु नुयू जुयूयूयूति, &c.
-(Vik. I.); तत्युयू: सुयुरुस्युयूस्युयूयुक्षुरुयूनुच्युरु (Rag. II 2.)
+रुगाधरीद्धूवोभिवैत्रुत्राद्युहृद्युट्युद्वोजना ङ्गुसङ्गजातिसुप्रम
+स्त्रं घासुदैव पुण्यल्युम्य गाद्रैदैव वन्युयुपुर्यंचित्रकेश संस
 
-§ 6. In the case of metres regulated by syllables each line
-is divided by groups of three syllables called gaṇas or
-syllabic feet, named as यू, नु, यू, यू; जु, तु, यू, and स. The names
-and the Schemes of these are given in the following stanza.
+                 ( 2 ) पंचचामरम् ( 8. 8 or 4. 4. 4. 4
 
-युयुनुयूछुयूनै:विदुयूयूनै नुद्युयूनै युयूविदुयूयूयू पुरुयूलिड्युयूयूयुयूनुयुः।
-जो युयूयुयुस्युयूयुनुर्णो रट्युयुयूरुयुः युौयुस्युयुरुयुयूयूः कुयिनुयूयूल्युयूयुट्युयूयूः ॥
+           Def. प्रमाणिकापदद्युर्यं वदन्ति पंचचामरम् ।
+           Sch. of G. ज: र, ज, र, ज, ग.
 
-i. e. यू has all its syllables long; नु has all its syllables short; भु
-has its first syllable long, यु has its first syllable short; जु has
-its middle syllable long; रु has its middle syllable short; सु has
-its last syllable long and तु has its last syllable short. †
+Ex. लग्नग्लुयै विचित्रास्त्रनिनिर्विते ल्युसद्वितानभूमिते सल्लीर
+    शोभाभद्धुकोरुगप्रयच्चनररुद्रग्रुरुसमौर्वाशितं सदास्युत
 
-The symbol ∪ stands for a short or light syllable; the sym-
-bol—denotes a long vowel or a heavy syllable. Symbolically
-represented these Gaṇas will stand as under:—
+                      ( 3 ) वाणिनी.
 
-यू—— जु∪——
-नु∪∪∪ र—∪—
-भु—∪∪ सु∪∪—
-यू∪—— तु——∪
+           Def. नुजभञ्चरेयद्वा भवति वाणिनी गशुकै: ।
+           sch. of G. न, ज, भ, ज, र, ग.
 
-Similarly the letter युयु is used to denote a short syllable and
-यू a long one at the close of a line.
+           Ex. स्कुरुखु मयमाननैड्य नन्वु वाणि नीतिरस्यं
+                तव चरणप्रसादपरिपाक्त: कांचलम् ।
+                भनुजल्युदोतिपारकेरणार्षं सुक्रुन्दे
+                सततमहं स्तवैर्ध: स्वचरितैर्ध: स्तुवामि नित्यम्
 
-§ 7. In the case of metres regulated by syllabic instants
-each line is divided into groups of four mātrās called the Mātrā
-Gaṇas; one युयूत्रुयू or instant is allotted to a short vowel and two
-to a long one. The Mātrā gaṇas are five in number. These
-may be symbolically represented thus:—
+                             _______________
 
-यू——, नु∪——, भु∪∪∪, सु∪∪∪, तु∪∪∪,
+       Metres with 17 Syllables in a quart.
 
-* Vide Vṛittaratnākara I. 3.
+                      ( अस्यःष्टि )
 
-युङुयुयूनुविरुयुयूनुयूनु तयूयूयू गन्युयूयूयूर्युयूयुयूनुयु नु स्युयूट् ॥ Chandomanjari.
+                 ( 1 ) नंदृटकम् ( 8. 9 )
 
-† The above verse is easier to remember than one given
-above; आदिमुयूयूयूयूयूयूनुयू युयूदुयूयूयू युयूयूति ल्युयूयूवुरु । युत्तुयूयू गोत्तुयूयूं युयूयूति
-युतो दु युयुलुयूयूयूयू ॥
+           Def. यादै भवतौ नजौ भञ्जला ङ्गुरु नंदृटकम्
+           Sch. of G. न, ज, भ, ज, ज, ल, ग.
+
+           Ex. त्रञ्चवनिताप्रसन्तलतिकाविल्युसन्मयुषां
+                मधुमधनं प्रणम्रजनवाप्रिल्युतल्युरुपदलेम् ।
+                पंचुसूनभिनोनि कापि सुकृतौ सुदितेन हृदा
+                रुचिरपद्वाबलोधीट्टनदंटकेन कविः ॥

@@ -1,40 +1,38 @@
-[Internal page: 442]
+[Internal page: 456]
 
-444                  SANSKRIT GRAMMAR.                   [ § 749-752
+458                  SANSKRIT GRAMMAR.                   [ § 777
 
-(c) Roots ending in चु such as  भुच् ,  रञ्च् ,  सङ्ज् ,  स्पृश् &c.  and
-the root तुञ्ज् optionally drop their nasal before स्या;  भुयु—भुक्त्वा
-or भुक्त्वा,  रञ्च्-रक्त्वा or रक्षवा;  अञ्ज्—भक्तित्वा,  अटु स्वा or  अक्त्वा.
-
-(b) मृञ्ज् and नञ्च् insert a nasal optionally;  मार्क्त्वा or  मृत्त्वा;
-नश्कित्वा, नूढ्वा or नष्ट्वा.
-
-§ 750   Guṇa is optionally  substituted  for the penultimate
-इ and उ, roots  beginning  with  any  consonant and  ending  in
-any except ऋ or व when स्या has इ prefixed to it  सिङु—क्षुधित्वा
-or क्षुद्धित्वा;  रुज़न्  क्षिदुरि or किदुरित्वा । also  किरित्त्वा ।;  क्षुयु—6.  P.
-क्षुधित्वा or  क्षुधित्वा;  स्पृशु  यादुनों or  निदूयोतिवसा;  पिष्-तिषित्वा,  गुनित्वा and
-तिपु, or रुपु, &c., but  विद्-वेदित्वा, पुत्वा.
-
-    2.  Indeclinable Participles formed with य.
-
-§ 751.  When a root is  compounded  with one or more pre-
-positions or  words  prefixed  to  verbs  like  prepositions,  the
-indeclinable  participle  is formed  by  affixing य immediately to
-it ; the य is  changed  to  त्य  after  a  short  radical vowel ( even
-when  it  combines  with the final vowel  of a  preposition  to a
-long vowel ) ; e g.
-
-    दा with आ—आदाय              इु with यू—प्रेत्य
-    वि with विस्-विज्ञस्य           छु with स्तु—संस्कृत्य
-    जि with परा—पराजित्य          छु with विशु—विभाछुत्य
-    नी with वि—विनीय             पिपु with तिपु—तिवाच्य
-    भू with अनु—अनुभूय            प्युदु with उद्-उत्पद्य
-    इु with अभि—अभीत्य           &c.    &c.    &c.
-
-§ 752.  The rules given at § § 394, 395, 459,  502 and 587
-apply to the roots also in the gerund in य :—
-
-    विद्य with यू—प्रवीद्य         अत्च् with यू—प्राच्य
-    कृ  with अव—अवकोर्णुं         वस् with यू—प्रोष्य
-    युज्  with आ—आयुष्यं         शहुङ् with वि—विशक्ष्य
+त्—is  added  to  roots  ending  in  आ  which  insert  यू  be-
+fore it;  दूत्युरुरु: ' one  who  receives  as  share,  a  priest '  ' one
+who  holds;  &c.—to  एट्  when  preceded  by  अथु  and  प्रति,
+आवुरुयुत्युरुः:  ' mist,  frost,'  प्रातौरुयुरुः:  ' a catarrh  or  cold;—to  इु,
+इु  देरु and युहु if preceded by a preposition;  आत्युयुरु:  ' violation,'
+चुरुवाद:  ' breaking,  trickling,'  परितुरु:  ' rest '  and  क  kind,  a
+seasonster;'—to  छुदु,  विदुरु ,  भदु ,  धयुरु ,  'चयु and यू , छुदुं:  ' a
+lambative, an electuary;'  विदुयु:  ' an  embrace,'  ग्राह्युं:  an alligator,'
+चायुरु: ' a  hunter,'  चायुरु:  ' respiration,;  भायु:  ' a  thing;—to नी
+and  पू after a preposition; अवुनीयु: ' leaving as a right; '  अद्युवुनौयु:
+forest-fire;'—to  चत्युद् .  चत्युद् ,  जत्युद् ,  दुछु ' to  be confused,'  वत्युद्
+' to smell,' इुद् , प्रद् , वत्युद् , युरु , कुट् , गट् , इुद् , पुट् ,  पुद् ,  प्रुयु ,
+घुरु , युयु , युरु , युदुदु , डुयुरु , डुरु , डुर् , युरु , रुरु , दुह् , पुह् ( these two
+also  take  अनै );  उड्युहुद्  ( or  छुदुड् ),  ' flame  or  blaze,'  &c:'—
+to  कौत्तुर् ,  कुयु  and  युरुद् ,  when their objects  are  prefixed  to
+them,  गुदुयुहोवुकुर्:  ' one  who  keeps  fish,'  कोतुर्युकुम्:  ' one  who
+पवुभुक्षै  or  beats  flesh,'  प्रसूतुंघ्युरुयुगुः  ' one  who  desires  flesh;'  अत्युरुयु:
+and चर् with आ,  नुरुयुनौवुकौरु:  ' one  desiring  happiness,'  पदुङुछुयुरुयुं
+' forgiving much '  ' संत्युप्तुयुमुचायुरु: ' good-conducted;'—to दु ,  इु  and
+युट् after the objects preceded by  them;  विभुरुत्युत्तुं,  विनुत्रुयुरु:  &c.
+यात्युरुयुरु:  ' measure of  corn;'—to  अयु  with  ति,  रुयुरु:  ' food. '
+त्—is  added  to  यु, मा,  स्था,  यू,  and  द्युय् ; या-चिय:  ' one  who
+drinks;'  मा—विम्:  ' one  who  smells;  द्युय्-युच्छुरु:  ' one  who
+सुदुत्तुरु:—to युट् and युष् to दुट् ;  ग्मत्युयु:  ' one who  goes,'  युषुदुयु
+युष्:  'one who holds;—to छुदुष् and विदुष् ; छुदुयु: 'one who plasters;'
+विन्युद्:'one who knows;' also when the former is preceded by ति
+and the latter by नौ; and other words;  निविदुदु: ' a god;' गौतुनुविन्युवु
+' begana  or Viṣṇu;'  निष्युदुत्तु:  a honest  man;—to  the Atm.  of  युरु ,  द्यु ,
+एरु with उरु ,  and यू;  चैत्युरुयु:  'one  who  thinks  or  knows;'  यूरुरुयुरु:
+' one  who  ails';  उरुयुगुरु: ' one who makes another tremble,'  युट् ,
+' Bhațți.  I.  25. यूरुयुरु: ' one who hold;' अरु-त् is used in  युग्-त् to  a
+forms  abstract  fem.  nouns,  इु-किंयुगुत्  ' an  act; '  इुयु-इुछुत्युं a
+' wish;'  गारुंचुरु-नौरुगुत्युं  ' service;'  घुरु-घुयुरुयुरु  ' hunting;'  अदुद्
+आद्यात्युवुरु rambling;'  जाग्-जागर्युं  ' wakefulness,  &c. '

@@ -1,45 +1,47 @@
-[Internal page: 694]
+[Internal page: 708]
 
-132                   SANSKRIT GRAMMAR.
+146                   SANSKRIT GRAMMAR.
 
-   शैषुति. शैषयाति-तै pre. शिशैष, शैषयाचकार-चक्रै &c. perf.
-   अशिशत्, अशिशिषत-न Aor.
+   about; स्प्ययुति pre. तस्प्यु perf. स्पयुता p. fut. अस्पयुासीत् aor.
+   स्प्युयात् , स्पैयुयात् ben. तिस्पयुासति des. Cau.-स्प्युाययाति-तै pre.
 
-शिष् 7 P. विशेषणै to leave, to distinguish from others; शिनुष्टि
-   pre. शिशेष perf. शेष्टा p. fut. अशैषत् aor. शिष्युयात् ben.
-   शिशिषाति des. Cau —शेषयाति-तै pre. शिष्ट p. p.
+स्पृश् 1 P. संस्पर्शै to cover; स्पुयुषति pre. तस्पर्श perf. स्पर्शिता p. fut.
+   अस्पृशीत्. तिस्परशिषाति des. Cau.-स्पर्शयाति-तै pre. अतिस्पृशत-न
+   Aor.
 
-शी 2 A. स्वप्नै to lie down, to sleep; शैतै pre. शिशै perf. शयिता p.
-   fut. अशैषीष्ट aor शयीषीष्ट ben. शिशयिषतै des. Pass.—शय्युतै
-   pre. अशयि aor. Cau.-शाययति-तै pre. शयित p. p
+स्पृध् 1 P. स्पर्धनै to stand firm; स्पृधुति pre. तस्पृध perf. स्पृधिष्युति
+   fut. असपृधीत् aor.
 
-शीङ्ख् 1 A. सेचनै to sprinkle, to move gently; शीङ्खतै pre. शिशीङ्खै
-   perf. अशीङ्खीष्ट Aor.
+स्था 1 P. गातनिश्चनै to stand, to wait, to be, to be at hand &c.
+   तिष्ठुति pre. तस्थौ perf. स्थाता p. fut. अस्थात् aor. स्थैयुयात् ben.
+   तिष्ठासति des Pass.—स्थीयुतै pre. अस्थायि aor. Cau.—स्थापयाति-
+   तै pre. अतिष्ठिपत-न aor. स्थित p. p. स्थित्वा ger.
 
-शीक्ष् 1 P. & 10 U. आमर्षणै to be angry; ( 10 U. भाषावां दोंक्षौ च )
-   to speak, to shine; शीक्षुति, शीक्षयाति-तै pre. शिशीक्ष, शीक्षयाच-
-   कार-चक्रै perf.
+स्थूद् 1 P. संवरणै to cover; स्थूदुति pre. तुस्थोद perf. स्थूडिष्युति fut.
+   अस्थूदीत aor.
 
-शीभ् 1 A. कथनै to speak, to communicate; शीभुतै pre. शिशीभै
-   perf. अशीभिष्ट aor
+स्थूल् ( Denom. ) P. to become big or stout; स्थूलयुति pre.
+   अतुस्थूलत aor.
 
-शीर् 1 P. ससायां to contemplate; शीर्युति pre. शिशीर्यु perf. शीर्युिता
-   p. fut. अशीर्युीत aor.
+स्नद् 4 P. निस्तत्तै to object; स्नस्युति pre. ससाद perf. अस्नसीत् , अस्ना-
+   षीत् Aor.
 
-शीद् 10 U. उपचारणै to study, to exercise, to honour, to visit;
-   शोल्युति-तै pre. शोल्ययाचकार-चक्रै perf. शोल्युितै p. fut.
-   अशिशीलत-न aor. शिशीलयिषाति-तै des.
+स्ना 2 P. शोचै to bathe, to perform an ablution; स्नाति pre. सनौ
+   perf. स्नाता p. fut. अस्नासीत् aor. स्नायुयात् , स्नैयुयात् ben. सिस्नासाति
+   des. Pass.—स्नायतै pre. अस्नायि aor. स्नात, ( but निष्णात profi-
+   cient in ) p.p. Cau.—स्नापयति, स्नापयति pre.
 
-शुक् 1 P. to go, to move; शोकुति pre. शुशोक perf. शोकिता p. fut.
-   अशोकीत aor
+स्निह् 4 P. शेहै to have affection for, to be kind to; स्निह्युति pre.
+   सिस्नैह perf. स्नेहिता, स्नेहा p. fut. अस्निहत् aor. सिस्निहिषति,
+   सिस्नेहिषति, सिस्नीहिषति des. स्नेहं p. p. स्निह्युयात्, स्नेहिषीष्ट ben.
+   स्निह्या or स्नीढा ger.
 
-शुच् 1 P. शोकै to bewail, to grieve for, to regret; शोचुति pre.
-   शुशोच perf. शोचिता p. fut. अशुचीत् aor. शुशुचिषति, शुशो-
-   चिषति des. शुचित, शोचित p. p.
+स्निह् 10 U. कैहै to love; स्नेहुयाति-तै pre. असिस्निहत-न Aor. स्नेहित p.p.
 
-शुच् 4 U. शुत्तामै ( ङ्वैरै ) to be wet, to be afflicted; शुच्युति-तै pre.
-   शुशोच, शुशुचै perf. शोचिता p. fut. अशुचत्, अशोचीत्,
-   अशोचीष्ट aor. शुचित p. p.
+स्नु 2 P. to flow, to distil; स्नाति pre. सुस्नाव perf. स्नोतिता p. fut.
+   अस्नावीत् aor. स्नुयुयात् ben. Pass —स्तूयुतै pre. Cau —स्नावुयाति-तै
+   pre. असुस्नवत-न aor. स्नुत p p.
 
-शुच्य् 1 P. स्तवर्मैर्गसूरसैचनैषु to bathe, to distil, to churn to
-   press; शुच्युति pre. शुशुच्यु perf. अशुचयीत् Aor.
+स्मद् 4 P. दोषणै to vomit; स्मद्युति pre. सुस्माद perf. स्मौदिता, स्नाम्या,
+   स्नोढा p. fut. स्मत्स्युति, स्मैस्युति fut. असमत्, असम्ररत्, सुस्यु-
+   स्त p. p.

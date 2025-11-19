@@ -1,47 +1,49 @@
-[Internal page: 682]
+[Internal page: 696]
 
-120                   SANSKRIT GRAMMAR.
+134                   SANSKRIT GRAMMAR.
 
-वच् 2 P. परिभाषणै to speak, to relate; वक्ति pre. उवाच perf. वक्ता
-   p. fut वक्ष्युति fut. अवोचत् aor. उच्युयात् ben. विवक्षति des.
-   Cau —वाचयति-तै pre. अवीवचत-न aor.
+शूर् 10 A. विक्रामै to act as the hero, to make great exertions;
+   शूरयतै pre. शूरयाचक्रै perf. अशुशूरत Aor. शुशूरयिषतै des.
 
-वच् 1 P. & 10 U. to speak, to read; वचति, वाचयति-तै pre. उवाच,
-   वाचयाचकार-चक्रै, &c. perf. वक्ता; वाचयिता p. fut. अवचीत् p. fut.
-   अवीवचत-न aor. उक्त; वाचित p. p.
+शूर्प् 10 U. मानै to measure; शूर्पयाति-तै pre. शूर्पयाचकार-चक्रै perf.
+   अशुशूर्पत-न Aor.
 
-वज् 1 P. to go, to roam about; वजुति pre. वव्राज perf. वजिता p.
-   fut. अवजीत्, अवजीत् aor.
+शूल् 1 P. रुजनायां संचातै च to be ill to collect; शूलति pre. शुशूल
+   perf. अशूलीत् Aor.
 
-वज् 10 U. to trim, to go; वाजयति-तै pre. वाजयाम्आस &c. perf.
-   अवीवजत-न aor.
+शूष् 1 P. प्रदवै to produce. to bring forth; शूषुति pre. शुशूष perf.
 
-वञ्च् 1 P. to go, to arrive at; वञ्चुति pre. ववञ्च perf. वाच्या p. fut.
-   अवञ्चीत् aor. विवञ्चिषति des. वञ्चित p. p. Pass.—वञ्च्युतै pre.
-   अवञ्चि aor.
+शूष् 1 A. शब्दइत्सयायां ( but it is also Parasmaipadi in the 2nd
+   future, aorist & conditional ) to break wind downwards;
+   शूषतै pre. शुशूषै perf. शूषिता p. fut शूषिष्युतै, शूस्युति fut.
+   अशूषत्, अशोषीष्ट aor. शिशूषिषतै. शिशूषति des. शून्न p. p.
 
-वञ्च् 10 A. प्रलम्भुनै to cheat; वञ्च्युतै pre. वञ्च्यामास &c. perf. अव-
-   वञ्चत aor. विवञ्चयिषतै des.
+शृध् 1 U. उन्दनै to be wet or moist; शोधाति-तै pre. शर्धिष्युति-तै fut.
+   अशर्धीत्, अशर्धीष्ट Aor
 
-वट् 1 P. वैष्टनै to surround, to cover; वटुति pre. ववाट perf. अवटीत्,
-   अवाटीत् aor.
+शृध् 1 A. उपहासनै to mock at to ridicule; शृधुति. शर्षयाति-तै
+   pre. अशर्षीत्, अशर्धिष्ट, अशीशर्धत-न, अशीशृषत-न Aor.
 
-वट् 10 U. प्रन्युयै, विभाजनै to string, to divide, to surround; वट-
-   युति-तै pre. वटयाचकार-चक्रै perf. अवीवटत-न aor. विवटयिषति-तै
-   des.
+शृ 9 P. हिंसायां to tear to pieces, to hurt, to kill; शृणाति pre.
+   शशार perf. शरिता, शर्ता p. fut. अशारीत् aor. शिशारिषाति,
+   शिशरीषति, शिशर्यीषति des. Pass,—शीर्युतै pre. शीर्णं p. p.
 
-वट् 10 P. स्थैर्युयै to be strong or fat; वटुति pre. ववाट perf. अवटीत्,
-   अवाटीत् aor.
+शेद् 1 P. to go, to tremble; शैदुति pre. शिशैद perf शेदिता p fut.
+   अशदीत् Aor.
 
-वण् 1 P. शब्दै to sound; वणुति pre. अवणीत्, अवाणीत aor. विवणि-
-   षति des.
+शेद् 1 A. सैवनै to serve; शैदतै pre. ( See शै ). )
 
-वण् 1 P. &. 10 U. विभाजनै to divide वण्टुति, वण्टयति-तै pre. वाण्ट-
-   याचकार perf. अवण्टीत्, अववण्टत-न aor.
+शै 1 P. पाकै to cook; शायुति pre. शास्युति fut. अशायीत् Aor.
 
-वद् 1 P. व्युयक्तायां वाचि to say, to tell, to lay down; वदुति pre
-   उवाद perf. वदिता p. fut. अवादीत् aor. विवदिषति des. Pass.—
-   उद्युतै pre. अवादि aor. उदित p. p.
+शै 4 P. क्षयणै to waste away; शीयुति pre. शिशैषे pre. शशौ perf.
+   शाता p. fut. अशात् , अशायीत् aor. शिशासाति des. Pass,—शाययै
+   pre. Cau,—शाययाति-तै pre. शात, शित p. p.
 
-वद् 1 & 10 U. संदैइअव्युयक्तनै to inform; वदुतै तै, वदयति तै pre. ववाद्,
-   ववदै, वदयाचकार &c. perf. अवादीत्, .अवदीष्ट, अवीवदत-न aor.
+शोफ् 1 P. शुणल्युयां: to become red, to go; शोफुति pre. शुशोफ perf.
+   अशोफीत् Aor.
+
+शोद् ( शोद् ) 1 P. to be prond or haughty; शोद(ड)ुति pre.
+   शोदयिति fut. अशोदीत aor.
+
+श्वद् 1 P. क्षरणै to ooze, to trickle; श्वैदुति pre. शुश्वैद perf. श्वैदिता
+   p. fut. अश्वैदीत्, अश्वदत् aor. श्वदित, श्वदित p. p.

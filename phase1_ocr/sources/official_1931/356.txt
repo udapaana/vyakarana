@@ -1,37 +1,50 @@
-[Internal page: 342]
+[Internal page: 356]
 
-342                    SANSKRIT GRAMMAR.                     [ § 549-552
+356                    SANSKRIT GRAMMAR.                     [ § 578-580
 
-cated. उस्द्-उचर्द्-उचिन्द्द्व् and finally औचिन्द्द्त् 3 Sing, similarly
-आविन्द्द्त् from अञ्ज् (considered as अजद्, otherwise आविद्द्त्),
-आविञ्छद्त् from अञ्च्; आविज्जद्त् from अञ्ज्, &c.
+            Roots of the 8th Class.        Roots of the 8th Class
 
-( c ) The roots उच्, आञ्च्, अञ्च्, अञू, आेद्, अर्ध् Ātm. and some
-others, substitute अ for इ in the reduplicative syllable; 3 sing.
-अौनत्त, आवक्त्, आजघत्, आन्चवद्, आैसच्द्, आतैछद्, &c
+कृण्-अकृणीषम् 1 sing.  Par. तन्-चतनीविषम् , अतनिषम् Par.
+  आकृणीषि  1  sing.  Ātm.     अतनिषि Ātm.  1 sing.  अत-
+  आकृणीषाः, आकृण्         तिष्ठा, अतन्य: अतनिष्ठ, अतत्त
+  आकृणीष्ठोः, अकृण 2 & 3 sing. Âtm.     2 & 3 sing. Ātm.
+चिण्-अचेणीषम् 1 sing. Par.    चर्-अचारिषम् 1 sing.
+  अचेणिषि  1  sing.  Ātm.        अचर्तवथा, अचर्त 2 & 3 sing.
+  अचेणीष्ठाः, अचेणीष अचेणीष्ट,  स्-असारिषम् , अचर्तिषम् 1 sing.
+  अचेण 2 & 3 sing. Ātm.      Par. Ātm. अचनिसि, अचनिष्
+तुण्-अतुणीषम्  1 sing.  Par.  अचनीष्ट: अचनाथाः अचनिष्ठ,
+  अतुणीषि 1  sing.  Ātm.      अचत् 2 & 3 sing. Ātm.
+  अतुणीष्ठाः, अतुणाठाः अतुणीष्ट,  यह्-अयहीषम् , अचनिषम् 1 sing.
+  अतुण 2 & 3 sing. Ātm.      अचनीष् 1 sing. Âtm. अचर्तो अचनिस्
+गुण-अगुणीषम्  1 sing.  Par.  अचनाथा, अचत्-अचनिष्ठ, अचत्
+  अगुणीषि  1  sing.  Ātm.     2 & 3 sing.  Ātm.
+  अगुणीष्ठाः, अगुणाषाः अगुणीष्ट,  स्-असारिषम् , अचनिषम् 1 sing.
+  अगुण 2 & 3 sing. Ātm.      Par. अचरिति 1 sing.  Ātm.
+तुष्-अतुषीषम्  1 sing.  Par.  अचन्याह् अचबाथाः अचरिठ्,
+  अतुषीषि  1  sing.  Ātm.     अचत् 2 & 3 sing. Ātm.
+  अतुषीष्ठाः, अतुषाठाः अतुषीष्ट,
+  अतुष 2 & 3 sing. Ātm.
+जिण्-अजेणीषम् , अजनिषम् 1 sing. Par. आतम.
+  अजनीषि  1  sing.  Ātm.      चर-अचारिषम् , अचनिषम् 1 sing.
+  अजेण्ठाः, अजनाष अजनिष्ठ,   Par. अचारिषि 1 sing.  Ātm.
+  अजन 2 & 3 sing. Ātm.       अचार्याः, अचरथाः अचारिष्ठ
+                              अचत् 2 & 3 sing. Ātm.
 
-§ 550.  Roots ending in उ, short or long, substitute इ
-( changeable to ञ; like इ ) for इ in the reduplicative syllable,
-provided it be not (immediately) followed by a labial consonant
-or a semivowel or प्, followed by अ or आ: इ-अस्पुचवद्त्, इ-अप्च्-
-कचवद्त, इ-अशुछुवद्, इ-अवुवुवद्त्, &c     N. B. स्पुर्-पस्पुरत्, इ-अञ्जौ-
-प्रवद्त्; स्पुर्-स्पुर्द् [ इ to hasten' स्त्रौछौत्र्-अद्रौञ्जत् or द्रञ्जत्, इ-अञ्जैव्-
-स्मार् अर्द्र्-अर्द्रिजत् or अर्द्रजत्, &c.
+          ( 6 ) THE BENEDICTIVE ( आशीर्लिङ्ग ).
 
-( e ) The roots इ, छु इ, इ 'to go' इ 'to swim' and च्छुप् optionally
-preserve छ or अ संविमत् or अममत्, आविच्छत् or अविछत्, आविमत्त्व
-or अयुषत्, आविवेत् or अवेत्, अविक्षिपत् or अक्षिपत्, चावित्रप्
-अयत्रमत्त् or ऊयुत्रप्त्त्.
+§ 579.  The Parasmaipada terminations of this mood may
+be obtained by prefixing यास् to those of the Imperative after
+dropping its final स् before स्त् and त् of the 2nd and 3rd per.
+sings.; and the Ātmanepada ones by prefixing स् to the
+terminations of the Ātm.  Potential and also to the त् and थ्
+occurring in them.  These, therefore, are:—
 
-§ 551.  The roots घ्राघ्, मार्, मार्, दीध्, जीव्, मीन्, पीन्, कण्,
-'to moan'च्छुप् 'to sound,' 'to go,' रप् 'to sound,' भण्, चण् इ to sound,'
-अण् 'to give' दुर् 6. P. Â 'to cut,' हृद् 'to harass,' हो, छड्, छुड् and
-प्रुड् on 9. do shorten their vowels; छ sing. आदिद्धरत्, आदिछत्,
-अपुष् or अवाचान् , अचिससम् or अचमार्द्, अचिञ्जान् or अचमाघ्द्,
-छुम्पतिः or अवतिरत्, ञ्छिनायन् or क्षिनतिरत्, आशिगोध् or आविर्-
-मौछ्म्, अघशिरध्म् or आष्टरहम्, अचाकृष् or अचकाघम्, अचाछाघन्
-or अचान्त्राघ्द्, अचाबोतिछ्, अचाघाद्, अचाकोत् or अचकोघ्म् ( see § 553 below ),
-आछुट्टम् or अछुत्ताछ्म्, आछुट्टोद् or आछुत्रतिछ्द् , &c.
+           Parasm.                          Âtmane.
 
-§ 552. The अ of the reduplicative syllable of स्पु, द्, चद्, मच्,
-छड् ' to pound, to wish,' वद् and स्पुस्, is not changed to इ; छड् 1. Â.
+1 यासम्     यास     यास्म            1 सीय      सीवहि     सीमहि
+2 याः       यास्तम्  यास्त             2 सीष्ठाः   सीयाथाम्   सीध्यम्
+3 यात्       यास्ताम्  यासुः            3 सीष्ट     सीयाताम्   सीरन्
+
+(a) Parasmaipadā.
+
+§ 580. The Par. terminations are weak and therefore occasion

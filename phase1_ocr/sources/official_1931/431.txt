@@ -1,45 +1,43 @@
-[Internal page: 417]
+[Internal page: 431]
 
-§ 671-673 ]        PRIMARY NOMINAL BASES.                    419
+§ 712-713 ]        PRIMARY NOMINAL BASES,                    43
 
-in the sense of ' in the habit of ' or ' to show a particular
-standard of age, or capacity to do  A  thing;  e  g.  गोयं घुसुतान:
-' one habituated to enjoy pleasures;' सघुयं विद्यायाम: ' of a sufficient
-age i. e. young enough to learn a art,' संयुयं विज्ञानं ' able to kill
-the enemy, ' &c.
+Roots.                              Pot. Ptc.    '
 
-§ 672. The participle of the Pre, Passive is formed by adding
-मान to the Passive base in यु; e g. श्रुष्यमान ' who or what is
-known, ' अयुमान ' what is eaten, ' दीयुमान who or what is given,
-जीयुमान ' who or what is gathered, ' किंयुमान ' what is done, '
-कू—कीर्युमाण ' what is scattered, ' चोर्युमाण ' who or what is
-stolen ' शुय्—cau. Pass. चोष्युमान ' who or what is caused to
-know, ' Des.   Pass.  वुवोषियुमाण ' who  or  what  is  desired
-to know, ' &c.
+दा—दातव्य, दानीय what must or ought to be given.
+चि—चेतव्य, चयनीय what must or ought to be searched into, &
+नी—नेतव्य, नयनीय                „         „         carried.
+श्रु—श्रोतव्य, श्रवणीय            „         „         heard
+भू—भावितव्य, भवनीय            „         „         been.
+कृ—कर्तव्य, करणीय              „        ,.·        done.
+बुध्-बोद्धितव्य, बोधनीय,
+    बोद्धव्य                      ,.       „         known
+मुच्-मोक्तव्य, मोचनीय           ,.       „         released.
+मृज्-*मार्ष्टव्य, मार्जनीय         „        „         wiped.
+सृज्-स्रष्टव्य, सर्जनीय           „        ,.        created.
+भृज्-भर्ष्टव्य, भर्जनीय,
+    भर्ष्टव्य, भर्जनीय            ,.       ,.        fried.
+भिद्-भेत्तव्य, भेदनीय           „        „         split.
+निन्दु-निन्दितव्य, निन्दनीयं; „      „         censured.
+गुह्-गोहितव्य, गूहनीय,
+    गुहितव्य †                   „        · „       concealed.
 
-§ 673. The participles formed according to § 662 are de-
-clined like nouns ending in अ m f and n
+§ 713.  The final अय of roots of tho tenth class and of cau
+sals, the final अ of Atm. Freq. Bases, when the य is precede
+by a vowel and the whole य when it is preceded by a consonan
+are dropped  before अनीय.   To Desiderative bases  it is adde
+without any change e. g.
 
-        ( b ) Participles of the Perfect.
+कथ्—                  कथनीय what must, or ought to be told.
+चुर्—                  चोरणीय  „       „       stolen.
+बोधय cau. of बुध्—बोधनीय  „       „       made to know.
+बोबुध् Atm.
 
-§ 674.  The terminations of the Perf. and the Past parti-
-ciples are weak, and therefore the radical vowel does not take
-its Guṇa substitute before these.  The penultimate nasal is
-generally dropped before these ( See § 534 )
+Freq. Base of „ बोबुधनीय „       „       known frequently
 
-§ 675.  The participle of the Perf. Par, and Atm. is formed
-by adding वसु and आन generally to that form of the root which
-it assumes before the termination of the 3rd per. plural. If this
-form consists of one syllable only or when the root ends in आ,
-वस् has the intermediate इ added to it. इ is optionally prefixed
-to वस् in the case of the roots गम् , इय् , हुव् , विश् and विद्य् ( 6 cl. );
-चत् and स्पर् , and गुच् and हृत् when they do not take इ, form this
-participle from that base which they would assume before the
-2nd per. sing. termination.
+_________________________________________________
+* The ऋ of मृज् is changed to आर् against § 712.
+† The उ of गुह् is lengthened instead of being Guṇated befor
+a strong termination beginning with a vowel.
 
-                        PARASMAIPADA.
-
-Root            Perf. Base ( 3rd pl )   Pers. Ptc.
-
-इ   to go              इयु                 इयिवसु who or what went
-ऋ, „                   आरु                 आरिवसु „       „
+H. S. G. 28.

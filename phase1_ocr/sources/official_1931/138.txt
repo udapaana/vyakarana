@@ -1,39 +1,15 @@
-[Internal page: 120]
-120                    SANSKRIT GRAMMAR.                    [ § 197-198
+[Internal page: 138]
+138                    SANSKRIT GRAMMAR.                    [ § 223-224
 
-e. g. रामश्च रामश्च रामौ, रामश्च रामश्च रामश्च रामाः । This is called
-एकशेषद्वन्द्वः    In the case of the mas  and fem. genders the one
-of the mas. gender is retained;* as हंसौ च हंसश्च हंसौ; similarly
-ब्राह्मणी, शूद्री, अर्जौ, &c.
+'Name of a town in the east;' उत्तरा कुरुवः 'Northern trees; पञ्च ब्राह्मणाः &c. The compound is forbidden in other cases.
 
-( a )  This principle is further extended to some words dis-
-similar in form, as in the following examples:—प्राता च स्वस्रा च
-भ्रातरी, पुत्रश्च दुहिता च पुत्रौ; माता च पिता च पितरौ ( see also§193. ),
-स्वशृश्च श्वशुराश्च श्वशूरौ † ( also स्वश्रूश्वशुरौ ); स च सा च तौ, स च
-देवदत्तश्च तौ, स च यश्च यौ or तौ×. In the case of words of the
-mas. fem and neu. gender that of the neu. gender is retained; as
-तच्च देवदत्तश्च तौ; तच्च देवदत्तश्च यत्तद्त्ता च तानि ।
+(a)*But words denoting a cardinal point or numerals may be compounded with any other noun when a Taddhita termination is to be affixed to the compound so formed (or it conveys in addition to its sense as a Karm a derivative meaning such as is usually denoted by a Tad. aff.) or when the compound itself becomes the first member of another compound or when the compound forms a proper name; पूर्वां शालां पूर्वेशालां पूर्वैशालं शालायां प्रद् पौर्वैशालः 'being in the eastern hall' from पूर्वेशाला+अ (i. e. Tad. aff. अ added by द्विनपूर्वपददसङ्ख्यायां अः । Pān. IV. 2. 107); so षष्+मातृ=षण्मातृ 'six mothers'+Tad. अ=षाण्मातुरः the son of six mothers; पूर्वां शालां प्रियां यस्य स पूर्वैशालाप्रियः where पूर्वैशाला is a पूर्वपद and not used independently, उत्तरधुष्टः, द्रक्षिणघुवः &c. which are names.
 
-§ 198.  The following rules should be observed in arranging
-the various members of a Dwandwa Compound:—
+§ 224. The particle कु forms a Karm. compound with any other word, कुरुषपः (कुत्सितः पुरुषः) a bad man; कुपुत्रः &c.
 
-( a ) Δ A word ending in ङ or ड should be placed first, and
-when there are more than one of such words one of these should
-be placed first, the rest being arranged according to the will of
-the speaker or writer; हरिहरौ, हरिहरयशस; हरियरुहराः, &c.
+(a)‡ कु is changed to (1) कद् when followed by a noun with an initial vowel in a Tat. by त्रि and the nouns रथ and वद् and by हण 'denoting a species;' कुत्सितोऽश्वः कदश्वः 'bad horse;' so कदुन्नं 'coarse food;' but कूदुः 'having bad camels' (a Bah. comp.) राज्ञा; कुत्सिताः त्रयः कत्रयः 'three inferior things;' कद्रथः 'a bad chariot,' कद्वदः 'speaking ill, a bad speaker;' कनूणम् 'a kind of fragrant grass.'
 
-( b ) †† Words beginning with a vowel and ending in अ
-ought to precede others; as अम्वरयेश्रः or ईश्राम्बरयाः. This rule
-should have preference even over the above rule in case both
-would be simultaneously applicable; ईशायौ.
+(2) To का when followed by पृथिन् and अक्ष and when meaning 'a little;' and optionally when prefixed to पुरुष, काषथश्र, काक्षः 'a sidelong look or a frown of displeasure,' see Bh.V. 54 (अक्षत्राअदैन
 
-( c ) ‖ A word that has fewer syllables should be placed
-
-* एसाज क्रिया । Pān. 1. 2. 67.
-† भातुपुत्रौ स्वश्चदुहितृभ्याम् । पिता माता । Pān. 2. 68, 70.
-‡ श्वश्रुः श्वश्रा । त्यदादीनि सर्वनित्यम् । Pān. 1. 2. 71. 72.
-× पुंसो नोपिं इस्यते इति भाष्यम् । Sid. Kau. on Pān. 1. 2. 72.
-Δईद्ध पिं। Pān. II. 2. 32. अनेकप्रातावेकश्च नियमोऽनियमः शेषे। Vārt.
-†† अजाद्यदन्तम् । Pān. II. 2. 33.
-‖ अल्पाच्तरम् । Pān. II. 2. 34. लघुक्षुरं पूर्वं । धटुनक्षत्राणां समा-
-नाक्षराणामाठुपूर्वेण । अब्यर्हितं च । Vārt.
+* तत्तिदताभेत्तरपदसमाहारे च । Pān. II 1. 51.
+† कौः कस्तुरुषे०ऽञ्चि । (त्रौ च' Vārt:) रथवदयोभेक्रः । त्रणे च जातौ । कापथक्षयोः । ईषदर्थे । विभाग पुरुषे । कर्थ चौष्णे । Pān. VI. 3. 101-107.

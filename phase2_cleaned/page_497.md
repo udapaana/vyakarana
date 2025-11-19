@@ -1,0 +1,52 @@
+---
+page_number: 497
+internal_page: 497
+chapter: "Syntax"
+section: "syntax"
+rules_starting: ["§ 852", "§ 853", "§ 854", "§ 855"]
+rules_continuing: ["§ 851"]
+has_footnotes: true
+---
+
+govern the Genitive of their object when used impersonally or
+when they have for their subject names of diseases; चोरुस्युरु
+ज्युरुस्युरु रुज्युयु the thief is afflicted with the pain of fever; दुयुरुस्युयु
+रुज्युयुनुयुस्युयु coryza; bilious pain on the man; except when
+ज्युरु and संतापु are used as subjects; (vide Bhaṭṭi. VIII. 120;) तं
+रुजुयुति ज्युरुः or संतापुः fever or affliction pains him.
+
+§ 852. * वाञु meaning 'to wish' governs the Genitive when
+the idea of a benediction is implied; युयुत्तुयु नायुस्युयु wish to have
+patience; युत्तुस्युयु मायुयुनं desires to have wealth. So सर्पियुः मायुयुनुयुस्युयु .
+
+§ 853. † The roots वदुट्ु: हन् with नि or यु or with both, यदु,
+कुयु and विवु all mean 'to kill' युट् with वि or युच्छु with both; युयुयुयो-
+punish, &c; चोरुस्युयुयोजुयुरुयुयुति राजुयु a king punishes a thief; निजुतो-
+युर्यु:जुयुयुयुट्युयुनै जगुट्युदुयु (Siṣ. I. 27.) to kill the enemies of the world
+(the demons) by his own power; युन्युयुयोञ्युयुत्युयुयुयुन्युयुः kill (drive
+away) your anger; यराक्तुयुयुस्युयु निधिकुट्युयुति or युविहिकुट्युयुति or
+णियुयुति or युविहिकुणियुयुति रामुः Rāma will kill the R'akshasas,
+युयुट्युयुयुस्युरु—ज्युयुयुट्युयुरुयुति—व्युयुयुयुयुति does injury to a Vṛṣala; साहुनिकुस्युयु
+नियुयुष्टुं गज्ञः &c.; in other senses they govern the Accusative;
+यायुतुः निघुयुष्टे he grinds fried rice.
+
+§ 854. ‡ The roots युयुयुयुट् (i. e. यु with नि and अत्), युयुयु and
+विवु when they all mean to transact business, or to stake in
+gambling, govern the Genitive of their object; शुतुस्युरु युयुवुदुयुति
+invests a hundred rupees in business; गोभुयुयुयुणुयुत्युयुयुसो he staked
+his life; अदेवोत् भुयुयुगुयुनोपुयुनों lost his brothers and pleasures in
+gambling, &c.; but when विवु is preceded by a preposition,
+the Accusative may also be used; शुतुस्युरु शुतं वा प्रतिदुशुयुति
+(Sid. Kau.)
+
+§ 855. ¶ Words having the senses of छुन्युयुः i. e denoting fre-
+
+---
+
+*आशिषि नायुयुः Pāṇ. II. 3. 55.
+
+†जुयुसिनुनुयुयुट्युणुयुट्युकुयुयुर्णों हिंसुयुयुयुट् । Pāṇ II. 3. 56.
+
+‡युयुवुद्युयूयुणोः समुयुयुर्युनोः । विवुस्युयुदुयुरुयुस्युयु । तुकुयुयुरिरुस्तुरो । Pāṇ II. 3.57–59.
+
+¶छुन्युवोयुयुर्युनोयुयो कुयुङुङुऽभुकुरुणो । Pāṇ. II. 3. 64.

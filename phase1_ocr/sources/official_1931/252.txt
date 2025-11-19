@@ -1,38 +1,28 @@
-[Internal page: 238]
+[Internal page: 252]
 
-238                    SANSKRIT GRAMMAR.                    [ § 378
+252                    SANSKRIT GRAMMAR.                    [ § 398-399
 
-                          Chapter XII.
-                          ———◦❖◦———
+चुद् U. to break r cut छुफाति-ते  |  चिष्प् U  to sprinkle चिष्खाति-त
+चिद्* U. to obtain चिन्दाति-ते      |  विश् P  to form विशति.
 
-                    CONJUGATION OF VERBS.
+§ 399   ( a ) The following roots belong optionally to the 1st and 6th Classes:—छुम् 1  P  6   U  to pl agh, to driv, चुम् 1.  A. to return, 6. P  to strike against, शुण् 1.A  6. P. to roll, to whirl, 1.  A. to take, to r ceive, रूद् 1  A.  6   P  to reel, whirl round, move to and fro, चुत् 1  P.  to  divide, 6.  P  to envelope, चुस्, सुत् 1. 6. kill 1 st P  to shut down, किण् P.  I.  to sprinkle, 6. to open the eyes, शुट् P  1   to stur, to churn, 6  to cover, to adhere, चुष् 1. A. to cheat, 6 U. to release, to leave &c.
 
-§ 378. There are in Sanskrit—
+    ( b )  The following roots belong to the 4th as well as to the 6th class:—क्षित्  4 P.  6    U.  to throw, छुस्  4.   P  to confound, 6.  U   to take away,  छुग्  P 4  to covet,  to  be perplexed, 6 A.  to perplex,  चुम् 4  A.  to let loose,  to  send forth, 4, 6  P  to create.
 
-  ( a ) Two kinds of verbs, Primitive and Derivative.
+                    10th Class ( चुरादिगः )
 
-  ( b ) Six Tenses ( काल: ) and four Moods ( अर्थ: ) which are as follow:—
+भर्† P. to ' shake ' भूसति.          यी P ' to please ' यीमर्चति.
+अयू—अयेयति, अयेपयाति-‡          गण्य—गणयति, गणायपयाति ‡
+लज्ज्—लज्जयाति, लज्जापयति-‡      बणय्—बणययाति, बणयायपयाति-‡
 
-TENSES   TECHNICAL NAME. MOODS TECHNICAL NAME.
-वर्तमान: or Present        लट्     आज्ञा  or Imperative      लोट्
-भूत:     or Aorist         लुङ्    विधि   or Potential विधिलिङ्
-अनद्यतनभूत: or Imperfect   लङ्     आशीः: or Benedictive आशीर्लिङ्
-परोक्षभूत: or Perfect      लिट्    सत्ता  or Conditional लृट्
-अनद्यतन-}
-भविष्यत्  } or 1 st Future लृट्
-भविष्यत् or 2 nd Future   लुट्
+    *This root belongs to the 2nd, 4th, 6th, and 7th classes, with different senses.  All these are given in the following couplet.
 
-    हेट् or the Subjunctive is used only in the Veda and is therefore termed 'The Vedic Subjunctive.'
+       सत्तं नि चित्तये ज्ञाने चेति चिन्ते विलाते ।
+       चिन्त्ते विचित्त्ये याची स्म्रतुव्रक्षियचेत्विधां कमाप् ॥
 
-    Note:—The ten tenses and moods are technically called the ten Lakaras in Sanskrit grammars.
+    † The  following  stanza from the ' Kavirahasya ' gives  the various classes to which this root belongs:—
 
-  ( c ) Three Voices ( प्रयोग: ), the Active Voice ( कर्तरिप्रयोग ) as सुतः, the Passive Voice ( कर्मणिप्रयोग ), as सूयते पक्ति यज-भक्त:, and the Impersonal Construction ( भावेप्रयोग ) तेषां गम्यते.
+       भूतोति चायनेजाने भूतेयसोक' चुते चुनाति भुवने स्फुटिगगनुत्पम् ।
+       वाचुयैघूसूयाति चयनकुभत्यकूव गयकानते भवाने चन्युनयसीय ॥
 
-    * These technical names are given in the following Kārikā,
-
-       लट् वर्तमाने लेट् वेदे भूते लुङ् लङ् लिटस्तथा ।
-       विध्याशिषोर्लिङ् लिङ्लोटौ लुट् लृट् लृट् च भविष्यति ॥
-
-    This terminology of Pāṇini, it will be seen, is artificial. Other grammarians use different names   The ten Lakaras of Pāṇini are according to their nomenclature as follow.—वर्तति ( हतिः: ), अवर्ततीत्, हत्ततीत्, परोक्षा, भविष्यती, भविष्यत्ती, पञ्चमी, ससर्गी, कियातिरूपि and आशीः:—
-
-     ' Apte's Guide '.
+    ‡ These optional forms are  according to झ्राकदासन  and others

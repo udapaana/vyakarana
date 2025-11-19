@@ -1,43 +1,50 @@
-[Internal page: 629]
+[Internal page: 643]
 
-                     DHĀTUKOŚA.                               67
+                     DHĀTUKOŚA.                               81
 
-घच् 1 P. गतौ to go; घच्छुति pre. दुघन perf. अघचीत aor.
+पुञ्च् 2 A. to come in contact with; पृङ्क्तै pre. पपृचै perf.
 
-घा 3 U. घ्रारणगोपवीदानै च to put, to grant, to produce, to
-   bear; दुघाति, घत्तै pre. दघौ & दघै perf. घाता p. fut. घास्युयति-तै
-   fut. अघास्युयत, अघोत् con. अघात्, अघेषीष्ट aor. घेयुयात्, घासीष्ट ben.
-   जिघ्रासति-तै des. Pass.—घीयुतै pre. अघायि aor. Cau.—घापयाति-तै
-   pre. अजीघपत-न aor. देग्युयुतै, घायाति, घायाति freq. घित p. p.
-   हित्वा, संघाय ger.
+पुड् 6 P. पृषनै to please, to delight. पुडुति pre. पर्षिष्युयुति fut.
+   अपुडीत aor.
 
-घास् 1 U. पतिछुञ्जतै to rub, to wash, to cleanse; घासुति-तै pre.
-   दुघाव & दुघाव perf घासिता p. fut. घासिष्युयुति-तै fut. अघास्युयत-न
-   con. अघासीत & अघासिष्टु aor. घास्युयात्, घासिषीष्ट ben. दिघासति-
-   षति-तै des Cau.—घावयाति-तै pre अदीघसत-न aor. घास्युयुत p.
-   p. p. घासित्वा, घोस्त्वा, घुवाच्छु ger.
+पुण् 6 P शुषै to please, to satisfy; पुणुति pre प्रुष्णुति aor.
 
-घृ 6 P. धारणै to have, to hold; घृरुति pre. दिघाय perf. अघैषीत
-   aor. दिघृषति des.
+पुष् 10 U. प्रक्षैपै to throw, to send; प्रुष्युयाति-तै pre. पुषयिष्युयुति-तै
+   fut अपपुषत-न, अपीपुषत-न Aor.
 
-घृष् 6 A. संदोपनक्षानर्जनेषु to birdle, to be fatigued, to live;
-   घृषुतै pre. दिघिषै perf. घृषिष्युयतै fut. अघृषिष्टु aor.
+पुर् 1 P. सैचर्गहिंसाक्षैन्दुनैषु to sprinkle, to kill, to give pain to;
+   पुरुति pre. पपुर perf अपपुरीत aor. Cau.—पुरुयति-तै pre. अपपुरत-न
+   अपीपुरुत-न Aor. पिपुरिषति des. पुरित, पुर्ड p.p.
 
-घिन्व् 1 P. तोषनै to delight, to please; घिंतोति pre. दिपिन्व perf.
-   घिन्विता p. fut. अघिन्वीत aor. घिन्व्युयात् ben. घिन्वित p. p.
+पू 3 P. पालनपूरणयो: to fill, to blow; to refresh; पिपर्ति pre. पपार
+   perf. पूरिष्युयति-तै fut. पूरिता, परित्वा p. fut. अपरषीत aor. पीपूर्त
+   पुयुयात् ben. पुपुषति or पिपरिषति, पिपरीषति des. Pass.—पूर्युतै pre.
+   Cau.—पारयाति-तै pre. अपीपरत-न aor. पूर्ण, पूरित p. p. पूर्त्वा ger.
 
-घिष् 3 P. to sound; दिघेषि pre. ( used in the Vedas ).
+पू 9 P. to fill. पुनाति pre. पपार perf. &c.; see the above root.
+   पुण pre. p.
 
-घी 4 A. आधारै to hold; घीयुतै pre. दिघ्यै perf. घैष्टुं fut. अघेष्ट
-   aor. Cau.—घाययति-तै pre. अदीघयत-न aor. दिघीषतै des. घीन p.p.
+पू 10 U. & 1 P. पावरतौतै, पवति pre. पारयिष्युयुति-तै, परिष्युयुति,
+   परीता fut. अपीपवत-न, अपरीत aor.
 
-घु 5 U. कम्पनै to shake to excite; घुनोति & घुनुतै pre. दुघाव, दुघुवै
-   perf. घोता p. fut. घोष्युयुति-तै fut. अघोष्युयत-न con. घुयुयात्, घुषीष्ट
-   ben. अघेषीत & अघोष्टु aor. घुष्युयुतै-तै des. घुत p. p.
+पैल् 1 P. & 10 U. to go, to shake; पैलुति, पैलुयति-तै pre.
 
-घुष् 1 A. संदीपनक्षानर्जनैषु to be kindled, to be weary, to live;
-   घुषुतै pre. दुघुषै perf. घुषिता p. fut. अघुषिष्टु aor. दुघुषिषत des.
-   घुषित p. p.
+पैव् 1 A. सैवनै to serve: पैवतै pre. अपैविष्टु aor.
 
-घुर् 1 U. कम्पनै & 6 P. विष्पनै to shake; घुरुति-तै, घुरुति pre. दुघार,
-   दुधुरै ( दुधुविथु 2nd angular of 6 which is कुत्साद् ) perf.
+पैष् 1 A. सैवनै निश्चयै प्रयत्नै च to serve, to resolve, to act; पैषतै pre. अपैषिष्टु
+   aor.
+
+पैष् 1 P. to go; पैषति pre.
+
+पै 1 P. to dry, to wither; पायुति pre. अपायीत aor.
+
+पोष् 1 P. प्रतिषेधुशुकोषणै to go, to tell, to embrace; पोषति pre.
+
+प्युयाय् 1 A. वुद्धौ to grow, to swell, to increase; प्युयाययतै pre. पिप्ये
+   perf. प्युयाययिता p. fut. प्युयाययिष्युयतै fut. अप्युयाययिष्युयत् con. अप्युयाययि,
+   अप्युयाययिष्टु aor. पिप्युयाययिषतै des. प्युयान, पीन p.p.
+
+प्युयै 1 A वुद्धौ to grow, &c.; प्युयायतै pre, पैप्यै perf. प्युयाता p. fut.
+   प्युयास्युयतै fut. अप्युयास्युयत् con. अप्युयास्त aor. पीन p.p.
+
+प्रच्छु 6 P. ज्ञीप्सायां to ask, to seek for; पुच्छुति pre, पपच्छु pe~f.

@@ -1,31 +1,29 @@
-[Internal page: 255]
+[Internal page: 269]
 
-403-404 ]          CONJUGATION OF VERBS.                     255
+§ 423-424 ]         CONJUGATION OF VERBS.                     269
 
-nation of the 2nd per. sing. of the Imperative is हि. The terminations of the Potential are as follow:—
+Conjugate स्वप्, भ्रस् and रुद् similarly; as स्वपिति 3 sing. Pre., अस्वपीः-त् 2. sing. Imperf.; अस्वपीत्-पत 3 sing. Imperf.; स्वपानि 1. sing. Imp. स्वपिहि 2 sing. Imp.; स्वप्याम् 1. sing. Pot.; &c. भ्रंसति 3. sing. Pre.; अभ्रंसीः-सः 2 sing. Imperf; अभ्रंसीत्-सत 3 sing Imperf; भ्रसानि 1. sing. Imp. भ्रसिहि 2. sing. Imp भ्रसितु 3. sing  Imp; भ्रस्याम् 1. sing. Pot., &c.; रोदिति, रुदिवः रुदिमः 1 Pre; अरोदम् 1. sing Imperf. अरोदीः-द्ः 2 sing  Imperf  अरो-दीत्-दत् 3. sing. Imperf.; रोदानि 1. sing. Imp. रुदिहि 2. sing. Imp. रोदितु 3. sing. Imp.; रुद्याम् 1. sing. Pot. &c.
 
-              1. याम्          याव            याम
-              2. यास्         यातम्          यात
-              3. यात्         याताम्         युस्
+§ 424.  अस्  P.  ( A.* rare ) 'to  be'—drops  its  अ  before weak terminations and स before a termination beginning with स and ध्व.  Before 2 and 3 Imperf.  it takes the augment ई. It is irregular in many respects
 
-                          Ātmanepada.
+                          Present.
 
-         Present                        Imperfect
+    P.                                  A
 
-1. ए      वहे      महे                इ       वहि      महि
-2. से     आथे     ध्वे                थास्     आथ:म्    ध्वम्
-3. ते     आते     अते                त       आताम्    अत
+1. अस्मि      स्वः      स्मः            हे       स्वहे       स्महे
+2. असि       स्थः      स्थ             से       साथे        ध्वे
+3. अस्ति      स्तः      सन्ति           ते       साते        सते
 
-         Imperative                     Potential
+                          Imperfect.
 
-1. ऐ      आवहै     आमहै               The same as those given
-2. स्व    आथाम्    ध्वम्              for the first group
-3. ताम्   आताम्    अताम्
+1. आसम्     आस्व     आस्म           आसि     आस्वहि      आस्महि
+2. आसीः    आस्तम्   आस्त           आस्थाः आसाथाम्    आध्वम्
+3. आसीत्   आस्ताम्  आसन्          आस्त    आसाताम्    आसत
 
-§ 404.  The base of the roots of the 2nd group of Conjugational classes undergoes many modifications with regard to which the terminations are divided into sets, one set is called ' strong ', the other ' weak.' The base taking the strong terminations may be calld ' The strong base;' and  that taking the weak ones ' The weak base'.
+                          Imperative.
 
-    ( a )  The strong terminations are:—
+1. असानि    असाव    असाम           असै     असावहै      असामहै
+2. एधि      स्तम्     स्त             स्व      साथाम्      ध्वम्
+3. अस्तु     स्ताम्    सन्तु          स्ताम्   साताम्      सताम्
 
-    The singulars of all persons of the Present and the Imperfect, the third  person singular  and all numbers  of the first person  of  the Imperative ,  in  the Parasmaipada, and all numbers  of  the  first  person  of  the Imperative in  the Atmanepada.
-
-    ( b )  The rest are weak.
+    * अस् is Atmanepadi in a few cases.  Cf.  Bhaṭṭikārya II. 96 (where) God says, God's task was there it impl as निरपेक्ष or an exchange of duty.

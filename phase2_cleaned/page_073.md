@@ -1,0 +1,47 @@
+---
+page_number: 73
+internal_page: 65
+chapter: "Subanta or Declension"
+section: "declension"
+rules_starting: ["§ 105"]
+rules_continuing: ["§ 104"]
+has_footnotes: false
+---
+
+N. V.    भाइ्           भाउो           भाउ:
+A.       भाउम्          "              "
+I.       भाउा           भाइुभ्याम्      भाइ्भि:
+D.       भाउे           "              भाइ्भ्य'
+&c. &c.
+L.       भाउि          भाउो:           भाइ्षु or भाइ्उु
+
+                  तिर्यञ्च् m.
+
+N. V.    तिर्यङ्        तिर्यञ्चौ        तिर्यञ्च:
+A.       तिर्यञ्चम्      "              "
+I.       तिर्यञ्चा       तिर्यङ्भ्याम्     तिर्यङ्भि:
+&c. &c.
+L.       तिर्यञ्चि       तिर्यञ्चो:        तिर्यङ्षु or तिर्यङ्
+The rest should be similarly declined.
+
+                     Neu.
+
+N. V. A.  तिर्यङ्        तिर्यञ्ची         तिर्यञ्चि
+
+                 Irregular Bases.
+
+§ 105. कुञ्च् a heron &c. ( derived from कुञ्च् क्रौडित्यार्थे
+यो: ), खञ्च् a lame man, and हुवल्न् beautifully bounding become
+ङ्, खञ् and हुवन् before consonantal terminations; e. g.
+
+N. sing.      N. dual         I. dual.         Loc. plur.
+कुङ्          कुञ्चौ          कुड्भ्याम्        कुड्षु or
+खञ्          खञ्जौ          खन्भ्याम्         खन्षु
+हुवन्         हुवल्नौ         हुवल्भ्याम्        हुवल्षु
+The remaining forms should be similarly made up.
+
+                     Neu.
+
+N. V. A.    कुङ्           कुञ्ची           कुञ्चि
+            खञ्           खञ्जी            खञ्जि
+The rest like the mas.

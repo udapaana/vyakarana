@@ -1,39 +1,38 @@
-[Internal page: 104]
-104
+[Internal page: 122]
+122                    SANSKRIT GRAMMAR.                    [ § 202-204
 
-SANSKRIT GRAMMAR.
-                                                        [ § 159
-42  ४२  द्विचत्वारिंशत् or
-        द्विचत्वारिंशत्
-43  ४३  त्रयश्चत्वारिंशत् or
-        त्रिचत्वारिंशत्
-44  ४४  चतुश्चत्वारिंशत्
-45  ४५  पञ्चचत्वारिंशत्
-46  ४६  षट्चत्वारिंशत्
-47  ४७  सप्तचत्वारिंशत्
-48  ४८  अष्टचत्वारिंशत् or
-        अष्टाचत्वारिंशत्
-49  ४९  नवचत्वारिंशत् or
-        एकोनपञ्चाशत् &c.
-50  ५०  पञ्चाशत् f
-51  ५१  एकपञ्चाशत्        पञ्चाशत्, ०शी or पञ्चाशत्तम ०मी
-52  ५२  द्वापञ्चाशत् or
-        द्विपञ्चाशत्
-53  ५३  त्रयःपञ्चाशत् or
-        त्रिपञ्चाशत्
-54  ५४  चतुःपञ्चाशत्
-55  ५५  पञ्चपञ्चाशत्
-56  ५६  षट्पञ्चाशत्
-57  ५७  सप्तपञ्चाशत्
-58  ५८  अष्टापञ्चाशत् or
-        अष्टपञ्चाशत्
-59  ५९  नवपञ्चाशत्
-        एकोनषष्टि &c.
-60  ६०  षष्टि fem.        षष्टितमः, ०मी
-61  ६१  एकषष्टि          एकषष्ट, ०मी or एकषष्टितमः, ०मी
-62  ६२  द्वाषष्टि or द्विषष्टि
-63  ६३  त्रयःषष्टि or त्रिषष्टि
-64  ६४  चतुःषष्टि
-65  ६५  पञ्चषष्टि
-66  ६६  षट्षष्टि
-67  ६७  सप्तषष्टि
+the affixes आ, ई or ऊ and forming the second member of a
+compound used adjectively is shortened; the आ of गौ is changed
+to ड under the same circumstances* ; e. g प्राप् + जौदिकां = प्राप्तजी-
+दिकः (Tat.). अतिमालः (Tat.); पञ्चगुः something bought for five
+cows ; वद्धघौ नाञ्चौ पश्चिन्दः बहुनाद्यिः many-veined देहः (Bah.);
+जित्रा गावौ यस्य चित्रगुः having variegated cows, &c. ; but कल्याण-
+पञ्चमीकः as the ई is not final.
+
+(a)  If the final ई or ऊ be not a fem. termination, it remains
+unchanged; हसु धीः सा हुधीः, बहुतन्त्रीर्पमनी.
+
+1 Tatpurusha.
+
+§ 203.  The first variety consists of such Tatpurusha com-
+pounds as have the attributive member in any one of the
+oblique cases when dissolved.  There are six sub-varieties of
+this corresponding to the six oblique cases
+
+§ 204.  (a)  A noun in the Accusative case is compounded
+with प्रित, अतीत, पतित, गत, अत्यक्त, प्राप्त. आपन्न, गमी, सुत्रुसु, and
+others †; as कृष्णं प्रितः कृष्णाप्रितः one who has resorted to Kṛishṇa
+( as his refuge ); दुःसमर्तीतः दुःस्वातीतः one who has overcome pain;
+हुसं आपन्नः सुसापन्नः one who has obtained happiness. प्रामं गमी
+प्रामगमी going to a village, a passenger; अन्नं इच्छुसुः अन्नेच्छुसुः अन्नेच्छुसुः &c.
+
+N. B.   प्राप्त and आपन्न may also be placed first; as प्रासो जीविकां
+प्राप्तजीविकः or जीविकाप्राप्तः one who has obtained livelihood ;
+similarly आपन्नजीविकः or जीविकाप्राप्तः ; प्राप्तजीविका स्त्री, &c.
+
+(b)  A word expressive of the duration of an action or state is
+compounded with another expressive of the action or state, in the
+
+* गोश्रियोऽपुंसकसंज्ञायाम् । Pān. I. 2. 48.
+† द्वितीया प्रिततीतपततगतात्यक्तप्राप्ताञ्चैः । Pān. II, 1, 24. गम्याद्दी-
+नामपुरसंख्यानम् । Vārtika.

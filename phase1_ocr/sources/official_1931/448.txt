@@ -1,43 +1,44 @@
-[Internal page: 434]
+[Internal page: 448]
 
-436                  SANSKRIT GRAMMAR.                   [ § 723-728
+450                  SANSKRIT GRAMMAR.                   [ § 772-775
 
-                By means of the affix क्यप् ( य )
+हुतैन यहीत्वा;  द्युयुकूलोत्युकुं  खन्तिङ्कुदो  कुदुयति   i.  e.  द्वुयुकूलैन  द्युयुकूलै
+वा उत्युकुय .
 
-§ 723.  The roots इ 1  2. P.  'to go,' स्तु, शाष् , इ 5. P. A. हु,
-डुष् , and roots having ऋ short for their penultimate, except कृष्
-and वृत् , take the affix क्यप् ( य ) in the same sense as यत् . When
-a root  ends  in  a  short  vowel,  त्  is inserted between the final
-vowel of the root; e. g. इ+य=ए+य='worthy of being served ;'
-स्तुय् 'deserving praise;' शाष्-शिष्य 'fit to be instructed;' वुद्-वुद्द्य:
-इ-आइय; डुष्-डुष्य 'worthy of being served;' भृत्-भृत्य; दृष्-दृश्य
-'fit to be increased as wealth, &c. ' but  कल्प ( कृष्+य )  'able;'
-वुद्-वर्य ( वृद्+एयत् ) 'that ought to be told or said.'
+( c )  Nouns  having  the  sense  of  the  Ablative  and the
+Accusative are used  with  this  gerund  of a  root when haste
+or hurry  is  intended;  अत्यर्थुगतो  शर्यन्यरिर्युयै  ' runs  hurriedly  having
+got up from the bed;' शुरुद्युयाहै युष्युन्नै:, कोटुमाहुर् , &c.
 
-§ 724   According to Vāmana, the roots सोत् , इकु and युह् take
-इ यत्   According to Pāṇini the roots स्तु*-स्तु:य 'praiseworthy;' हकु-ह्कु:य; युह्-उह्य;
-optionally they take the affix एयत् ( to be given hereafter ); सोत्य,
-ह्वेत, यौहार्.
+§ 773.  *A  root may  be used  in its gerundive  form  in  अम्
+with its object prefixed to it if that object be a part of the body
+which can be severed without fatal effects;  भुहुनोर्युं  कुषुयति ' nar-
+rates contracting the eyebrows, but  हिमुरं नीदुदुयुरु ( not हिंस्राहुयुरु )
+as the severance of the head would cause death.
 
-§ 725.  शुच् also takes  this affix optionally;  शुय्य 'what is fit
-or ought to be cleansed;'  optionally  it takes एयत् before which
-the final य is changed to प्र; शोच्य.
+( a ) Similarly when a part of  the  body  is  completely  hurt
+or pressed in the action,  the  gerund  in  अम्  is  used  with  that
+part; डुर-गुतितुर्युं  युष्युन्नै  i.  e.  कुलुसुयुदुर:  पीडुयुन्नै:  ' afflicting  the
+whole bosom;' उद्गीनिंहिंसुवातं त्रुन्हिरिषु ग्राह्युं अनुर्युं:
 
-§ 726.  ( a ) भू when it has  a  Subanta  prefixed  to  it and is
-without a preposition takes the affix  क्यप् impersonally;  ब्रह्मणौ
-भाव: ब्रह्मभूयं 'identity with Brahman.' When no Subanta is used
-prepositionally with it, it takes the affix यत् ; भव्य  or भूयम्.
+§ 774.  †The roots विश्रु , युष् , पश्  and  स्कुन्द  are used in their
+gerundive forms in अम् in the sense of ' complete  occupation or
+pervasion or repetition'  with nouns  which  if not  compounded
+would have stood in the Acc.;  गेहुगृहुगुर्युयायुते  गेहं  गेहुयुयुमुभुयुम् ।
+स्कुन्दुम्युगौयुते  ।  so  गेहुदुयुयुर्युयुरु ,  गेहुदुयुनायुरु ,  गेहुदुयु-
+स्कुन्दुम् , &c.
 
-( a ) वह् under similar circumstances takes either  क्यप् or एयत्
-in a passive sense in the Veda, namely: वाह्युं or वहूवत् ' expounding
-the Veda: ' ( वहु वेद: तस्य वृदत् Sid  Kau. ).
+§ 775.  ( a ) ‡ The gerunds of  अम्  and युष्  are used with  nouns
+denoting a period of time intervening  between the repetition or
+performance of the action; द्वुवुहुरुचायुहं or द्वुवुहुभुवुवातुं  गां: पायुयति 'he
+makes the cows drink once  in  every  two days  to intervene,
+i. e  every third day'  अत् पायुवित्युवा द्युयुभुषूहुत्रुकुरुम्यु  पुन: पायुयतीतोर्युर्यै: ।
+( Sid. Kau. ); similarly द्युहुत्युरुयु  or द्युहुतुरुरु .
 
-727.  खद् takes this affix,  but drops its  व and adds  ङ् to its
-penultimate vowel खद्+य=खं+य=खङ्+ङ्+य=खेय  ' what is fit
-or ought to be dug or excavated.'
-
-728.  भृ 1 cl. takes this affix when the  participle  so derived
-does not form a name; भृतुयाः 'those who  ought  to  be nourished
-or maintained,' hence 'soldiers,' &c ;  but भारुयै: ( भृ+एयत् ) a
-class of Kshatriyas'; when  सत्य  precedes भृ,  वत्  and  एयत्  are
-added optionally संभुगुयाः or संघूषुते.
+_________________________________________________
+* स्थातुकूदुयुर्युवे । ( वेन वितुना न जीविनुं तदुयूत्रुयुयुम् । Sid Kau. ) परोक्रुकुयुरुयुमानै
+च । Pāṇ. III. 4. 54, 55.
+† विविक्षुतिपुदिदुयुस्कुन्दो  व्याप्यस्यानाप्रिव्ययुमानो: Pāṇ.  III.  4.  56.
+गेहुदुयुरै गेहुयुमानै यू: । गेहुदुरुस्य  संस्कुर्युरै  पौन:पुन्युं  घ्याह्युकि  ।  किंयुयुत्युं:
+पौन:पुच्चुन्यावेचुयुत्युर् । Sid,  Kau.
+‡ अस्युयितुयुर्युरौ: किंयुगात्युरुं कालुट्युरु ।

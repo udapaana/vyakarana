@@ -1,47 +1,53 @@
-[Internal page: 360]
+[Internal page: 374]
 
-360                    SANSKRIT GRAMMAR                     [ § 590-592
+                         SANSKRIT GRAMMAR.                     [ §
 
-§ 590.  There are three kinds of Passive Verbs:—( 1 ) the
-Passive properly so called ( कर्मणि प्र० ), as राघेण क्रयं दीयते;
-( 2 ) an Impersonal Passive ( भावे प्र० ), as गच्यते ' it is gone; '
-and ( 3 ) a Reflexive (अात्मनेपदी प्र० ), as आस्तां पच्यते ' rice
-is cooked '
+2 बोधयिष्यसि       बोधयिष्यथः      बोधयिष्यथ
+3 बोधयिष्यति       बोधयिष्यतः      बोधयिष्यन्ति
 
-                 CONJUGATIONAL TENSES.
+                         Âtm.
 
-§ 591.  Formation of base:—
+1 बोधयिष्ये        बोधयिष्यावहे     बोधयिष्यामहे
+2 बोधयिष्यसे       बोधयिष्येथे      बोधयिष्यध्वे
+3 बोधयिष्यते       बोधयिष्येते      बोधयिष्यन्ते
 
-( a ) य is added to the root, which is weak i. e. no Guṇa or
-Vrddhi substitute takes place before it ; नी—नीय, चिद्—चिद्य.
+                     Conditional.
 
-( b ) Before य roots undergo the same changes as they do
-before the Âtmanepadi terminations of the Benedictive; चि—चीय, छ—
-छिद्य, स्तृ—स्तर्य,  ऋ—अर्य, क्—कार्य, पु—पूय, कच्-कच्य, ( but नित्य-
-तिर्य ), वच्-उच्य, यह्—यह्य, &c.
+                         Par.
 
-( c ) The final आ ( original or substituted ) of दा ' to give, '
-दे, दो, धा, ग्, ग्ला, मा, गे, प्रा ' to drink, ' ग्रा and हा ' to abandon' is
-changed to ई in other cases it remains unchanged; दा and हा—
-दीय, गेगीय, हा— ह्रीय; but दा ' to cut, to purify '—द्यात्, हा—
-ज्ञाय. ग्य—यायात्.
+1 अबोधयिष्यम्      अबोधयिष्याव     अबोधयिष्याम, &c.
 
-§ 592.  The passive base is conjugated like a root of the 4th
-class in the Âtm., i. e.
+                         Âtm.
 
-" It might even be suspected, that the occasional assumption of
-an Intransitive signification and a Parasmaipada inflexion by a
-passive verb, was the cause which gave rise to a 4th class of Primi-
-tive verbs as distinct from the Passive. Instances of passively
-found of passive verbs taking Parasmaipada terminations, and some
-passive verbs ( e. g. jāyate ' is born,' tr. jan; pūryate, ' is
-filled,' tr. pṛ ; and upyate ' is heated,' tr. tap ) are regard-
-ed by native grammarians as Âtmanepada verbs of cl. 4. Again,
-many roots appear in class 4 as Intransitive verbs, which also
-appear in some one of the other nine as Transitive.  For example,
-yuj, ' to join ' when used in a Transitive sense, is conjugated
-either in cl.  7, or in the Causal; when in an Intransitive, in cl.
-4. So also puṣh, ' to nourish, ' kṣubh, ' to agitate; ' Kliśh ' to vex ';
-Ślāh, ' to accomplish, ' &c.
+1 अबोधयिष्ये       अबोधयिष्यावहि    अबोधयिष्यामहि, &c.
 
-                                            Monier Williams.
+    Par.            Aorist.           Âtm.
+
+म  अबूबुधाव   अबूबुधाम   1 अबूबुधे   अबूबुधावहि  अबूबुध
+तः अबूबुधतम् अबूबुधत   2 अबूबुधथाः अबूबुधेथाम्  अबूबुधध्
+त् अबूबुधताम् अबूबुधन्   3 अबूबुधत  अबूबुधेताम्  अबूबुधुः
+
+                     Benedictive.
+
+                        Parasm.
+
+1 बोध्यासम्         बोध्यास्व        बोध्यास्म
+2 बोध्याः          बोध्यास्तम्      बोध्यास्त
+3 बोध्यात्          बोध्यास्ताम्      बोध्यासुः
+
+                         Âtm.
+
+1 बोधयिषीय,       बोधयिषीवहि,     बोधयिषीमहि
+  बोधिषीय        बोधिषीवहि      बोधिषीमहि
+2 बोधयिषीष्ठाः,    बोधयिषीयाथाम्,   बोधयिषीध्वम्-म्
+  बोधिषीष्ठाः     बोधिषीयाथाम्    बोधिषीध्वम्
+3 बोधयिषीष्ट,     बोधयिषीयास्ताम्,  बोधयिषीरन्
+  बोधिषीष्ट      बोधिषीयास्ताम्   बोधिषीरन्
+
+                        Passive.
+
+    Present                         Imperfect
+
+बोध्यावहे  बोध्यामहे  1 अबोध्ये   अबोध्यावहि  अबोध्यामहि
+बोध्येथे   बोध्यध्वे   2 अबोध्यथाः अबोध्येथाम्  अबोध्यध्वम्
+बोध्येते   बोध्यन्ते   3 अबोध्यत  अबोध्येताम्  अबोध्यन्त

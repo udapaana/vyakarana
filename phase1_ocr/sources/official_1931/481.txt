@@ -1,43 +1,45 @@
-[Internal page: 467]
+[Internal page: 481]
 
-§ 781–784 ]                SYNTAX.                    471
+§ 812–814 ]                SYNTAX.                    483
 
-                            SECTION I.
+रामेण  ज्ञानेन  हतो  वाली  Vāli  was  killed by  Rāma with an  arrow
+(here रामेण  is  the agent; ज्ञानेन  the instrument).
 
-                            CONCORD.
+(a) * The Instrumental is also used in the  following  senses.
+युट्युश्युयु  द्युदुर्युनोरुः  lovely  by nature,  यावुयु  यात्मुकुः he  is  almost  a
+pitbable;  विप्रोभुः  गार्ग्युयु  by family name;  युरुणु  यति  कुत्युयुति  he  buys
+with ease; सो सुचुनेतुवि, विवुयुणोति, &c  द्विहुत्रोणेनं यान्युनं कोणुयुति he buys
+two drones of  corn at a time;  साहुनेणु  यसुयुत् कोणुयुति  he buys one
+thousand beasts at a time, &c.
 
-§ 781.   Concord is the agreement  of  words  in a sentence as
-regards gender, number, person or tense
+(1)  In the case  of  numerals  and words  expressive of mea-
+sure the Acc. may also be used;  द्विहुत्रोणं  कोणुयुति  यान्युयं,  शुनुनं  घोतेनं
+यान्युयं  हतं  वसुयुयुरु  घरुयुं,  &c
 
-The concords deserving  notice  in  Sanskrit  are three:—(1)
-Concord  of  the  verb  with  the  Subject;  (2) Concord of the
-Adjective with the Substantive; and  (3)  Concord of the Rela-
-tive with its  Antecedent.
+(b) Obs.—† The  root  दिवु  'to  play,'  however,  governs  the
+Accusative or  the  Instrumental  of  the  instrument  used;  अक्तुशैः
+यक्तुनुयुरु  वा  दीवुयुति  he  plays at dice.
 
-CONCORD OF THE  VERB WITH THE SUBJECT.
+(c) ‡ The  root  ज्ञा  with  सम्  also  governs  the  Accusative or
+the Instrumental; पितुरु जितं वा संज्ञानीते he  recognises or lives in
+peace  with  his  father,  but  विष्णुं  संजुयुनीयुच्युच्  remember  Vishṇu.
 
-§ 782.  The verb must agree with its  subject  in  number and
-person; आसीद् राजा नलो नाम there  was a king,  Nala  by  name;
-अहं गच्छामि I go; ब्राह्मणौ भुञ्जतः two  Brāhmaṇas go, &c.
+§ 813  ‡ When  the  accomplishment  of  an  object  is  to  be
+expressed, the Instrumental  of  words  expressing  the  length of
+time or space is used; अहुनु कोणेनं  भुङ्युत्युकुट्युवीतुः the  section  (of
+the Veda)  was  studied  by  him  in a  day,  or a Koṣa  (i. e  by
+going over it );  but  यरुयुमुर्योरुयु  नारायुयुः  as  the  accomplishment
+does not take place.
 
-§ 783. (a) When two or more  subjects  differing  in  number
-are connected by  'and'  the  verb  must  be  plural;  नरो वा
-राजा च भीष्मस्य सङ्गो मन्त्रयिषुः ' इदं  आत्म देवा पशुकैः &c. Mah. Bha.
-Sometimes the verb agrees with the  nearest  subject  in  number,
-स वे सेत्युद्युद् देवो रामत्याः च यथास्वमा । राजहरिः  पविदेवो  गान्धारो
-चापि निर्दुर्वो ॥ Mah.  Bhā.  अहुश्च रविमिश्र पेतं  च  सन्ध्ये  घनोऽपि
-बाहुतिश्च  भुयुत्युर पात ॥
+§ 814.  § Words  expressing  some defect  in  a  limb  of  the
+body govern the Instrumental of the defective  limb;  अयुयुणा  कुट्युणः
+blind  of  one eye; so  युदुनुनं  युयुचुः  &c
 
-(b) But when they are  connected  by 'or'  and are all  sing.
-the  verb  will  be  singular,  and  when  the  subject  differ  in
-number the verb  will  agree  with  the  one  nearest  to it; रामः
-गोविन्दो वा वनेतु 'Let Rāma or Govinda  go,' स  वा  भुमे  वाट्युक्त वा
-आदं यह्नन्तु 'let him or these boys take  the  mango fruit.'
+* युकुन्युयुतिर्युच्यु  उयुनुसैदुयुनन्युट् । Vārt.
 
-§ 784.  (a) When a verb agrees with two or more  subjects
-of different  persons  connected  by 'and,'  the  first  person  has
-preference over the second  or  third,  and  the  second  over the
-third; त्वमहं राजभावनः परिस्थाः Rāma, you and  I  shall do  this; त्वं
-रामश्च पक्षभालां गच्छतः.
+† विदुः  कुर्मं  च । सत्तोऽन्युदुरुस्युयुनं  कुर्मुणो । Pāṇ. I  4.  43,  II.  3.  22.
 
-(b) But when  the  subjects  are  connected  by 'or',  the  verb
+‡ संयुट्युनों  द्युदुतीयुयु । Pāṇ. II. 3. 36. अयुयुतः फुत्युयुयुति: । तस्युयो  योस्युनुयुयुर्नों
+कुट्युछुयुचुनोरुयुन्युरुदुत्तुनों  द्युदुतीयुयु  स्युयुट् ।
+
+§ येनाद्युङुविकुयुरुः । Pāṇ  II.  3.  20.

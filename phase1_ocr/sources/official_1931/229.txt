@@ -1,21 +1,37 @@
-[Internal page: 215]
+[Internal page: 229]
 
-TADDHITA AFFIXES.                                                  215
+372-373 ]                    INDECLINABLES.                         229
 
-' Before this the ending अ or आ is changed to इ. but not that of indeclinables; इ or उ is lengthened and हु changed to रो; final न and the ending consonant of अरुस्‌, मनस्‌, चञ्जुस्‌, चेतस्‌. रहुस्‌, and रजस्‌, are dropped and then the preceding rules are applied to the penultimate vowel. After this the termination is dropped and the verbal or other forms of कृ, भू and अस्‌ are added to the base regarded as a preposition; अकुञ्जणः कुञ्जणमस्यपद्यते अकुञ्जीकरोति शाक्रम्‌, जलसम्पयते जक्षीभवति; similarly रङ्गीकरोति मर्ञसम् i. e. ' roasts it ';— ( 4 ) सत्यः सत्याकरोति भाण्डं बर्णिकु ' settles its price '; ( 5 ) and to onomatopeic words not followed by इति and containing more than one vowel, the words being reduplicated; पटद्‌,—पट्पटाकरोति, ' utters the words पटत्‌, पटत्‌. '
+Acc. sing neu. of nouns and adjectives ; and sometimes the sing.
+of other cases also ; सत्यत्र ' truthfully,' हुड 'softly,' हुषत्
+' happily, ' लघु ' quickly, ' निर्भय, अबद्धयम्, अत्यन्तम्, बलवत्
+' strongly,' भुयः, ' again ' &c.; दुःखेन, ' painfully, ' हुषेन, पूर्मेण
+' virtuously, justly, ' दाक्षिणात्, उत्तरेण, अङ्गोषेण, चिरेण ' after a long
+time, ' क्षणेन &c ; चिराय, चिरात्रात्राय ' for a long time, ' अयाय
+' for the sake of,' बलात् ' forcibly, ' हृपाङ्, शोकात्, हूरात्, तस्मात्,
+क्रस्मात् &c.; चिरात् ' for a long time,' हूराद्, उत्तरात् &c.; स्थाने
+' properly, ' हृरे, प्रभाते, प्राह्ने, अग्रे, एकपदे ' at once, ' सपदि, ऋते,
+समीपे, अभ्यासे ' near, ' &c.
 
-is optionally affixed like स्स्विन्‌ but when the change meant is complete*; ( छुस्तं शब्दं अग्रिः सम्पयते ) अग्रिसाद्वति ' is completely changed to fire '; ( also अग्रिभवति ); भस्म-सात्‌ करोति ' completely reduces to ashes '; in the case of this affix the forms of पद with सम्‌ are also added; त्रिक्रमास्यपद्यते अभिष्ठाद्वयते शाकुम्‌, जलसास्पयते जङ्गीभवति &c. सात्‌ also conveys the sense of ' making over or delivering something to another ' &c ; राज-सात्सम्पयते, राजसाकरोति; सात्‌ and इा are similarly added when something is to be given to another; विघयाकरोति, विधयासम्पयते; विधसाकरोति &c.
+    N. B.    Adverbs formed from pronouns and numerals are
+given in their proper places ; while those formed from nouns
+are given in Chapter IX.
 
-N. B.*—The derivatives formed by means of the affix सातु do not share the properties of prepositions; the verbal indecl., therefore, from अग्रिसाद्करोति is अग्रिसात्कृत्वा and not—कृत्य.
+§ 373. In the following list are alphabetically arranged almost
+all the words used adverbially in Sanskrit.—
 
-ADVERBS OF TIME IRREGULARLY FORMED FROM NOUNS:—
-
-सामने अन्नि सद्य ' the same day '; पूर्वास्मिन्नस्तरे परद्‌ ' last year '; पूर्वतरे वत्सरे परारि ' the year before the last '; अस्मिन्संवत्सरे ऐषमः ' this year '; परास्मिन्वहुनि परेद्युः ' the other day ', अस्मिन्नङ्कुहुनि अद्य ' to-day '; पूर्वास्मिन्नहुनि पूर्वेदुः ' yesterday '; अन्यास्मिन्नहुनि अन्येद्युः ' the other or following day '; उभयोरहुनोः उभय-ये-युः ' both the days '.
-
-Chapter X.
-
-Gender.
-
-§ 344. No definite rules can be laid down for the determination of the gender of words in Sanskrit. It can best be studied
-
-* विभाषा सान्ति कान्स्येि । Pān. V. 4. 52.
+अकस्मात् Suddenly, all at once.    अतीव Exceedingly;  rising
+अमृतस् In front of, before.        superior to, with the Acc.
+अग्रे In front of, before,          अतीघान्यार्भर्बिन्यावः M B.
+    ahead, at first.                अत्र Here.
+आविरद्                              अथ Then, afterwards.
+अविरात्        Not long since,     अथ किम् Yes.
+आविरेण        recently, quickly.   अम्दा Truly, certainly, indeed.
+आविराय                              अध To-day, this day.
+अज्ञत्र Ever, constantly.           अयत्वे Now, now-a-days
+अज्ञातत् Through ignorance.         अध_
+अक्रेसा Rightly, correctly, pro-   अधस्      Below, down.
+    perly.                          अधस्तात्
+अन्तर् In, into.                    अपरम् Again, moreover.
+अतः From this, on this account     अपरेश्य: On the following day.
+    &c.                             अधुना Now, at this time.

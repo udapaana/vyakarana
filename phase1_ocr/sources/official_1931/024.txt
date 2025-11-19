@@ -1,16 +1,22 @@
-[Internal page: 6]
-6                         SANSKRIT GRAMMAR.                    [§7-8
+[Internal page: 24]
+24                        SANSKRIT GRAMMAR.                    [§31-36
 
-as ᳵ. These may be regarded as the spirants of Kavarga and Pavarga respectively.
+to ल, the nasalised ल taking the place of न*; तत्+लयः:=तल्लयः: the destruction of that; विद्वांस्+लिखति=विद्वाँल्लिखति a learned man writes.
 
-§7. Some consonants are pronounced with a slight aspiration and are designated as Alpa-prána, while others which are pronounced with a stronger aspiration are called Mahâ-prâna. The first and third letters of each class, the nasals and the semi-vowels belong to the first class; the rest belong to the second class. For the sake of convenience the first and third letters of each class are sometimes called "unaspirates."
+§32. The य् of स्था and स्तम्भ् is changed into य् when after the preposition उड्।;उड्+स्थानम्=उड्+ध्यानम्=उद्ध्यानम् and उड्ध्यानम् (see §20. a), and then उन्थानम्, उर्ध्यानम् rising up; similarly उत्स्भनम् and उर्ध्स्भनम् upholding.
 
-§8. In the following table is given a complete classification of these letters according to the organs with which they are pronounced.
+§33 ह coming after any of the first four letters of a class is optionally changed to the soft aspirate (4th letter) of that class‡; वाक्+हरिः:=वाग्हरिः (see b. under§22), and by this वाग्घरिः (वाचां हरिः) the possessor of speech, Bṛhaspati.
 
-(a) The organs of pronunciation are the five parts situated in the mouth, viz, the throat, the palate, the roof or upper part of the palate, the teeth and the lips.
+§34. Any consonant, except a nasal or a semi-vowel, is changed to the first of its class, when followed by a hard consonant, and to the first or third when followed by nothing; वाक्, वाण्.
 
-Note.—In the following table the nether stroke (see § a 10 below) is omitted. It should be supposed to be present.
+§35. ण् preceded by a word ending in any of the first four letters of a class and followed by a vowel, a semi-vowel, a nasal or ह, is optionally changed to ळ;– e.g. तत्+शिवः:=तल्+शिवः; and तड्+छिवः. and then तन्+शिवः, and तत्+छिवः by the above, and finally तंशिवः and तंच्छिवः. that Siva (sec. a. §28.). Similarly तच्छोकेन, तंच्छोकेन; but वाक्श्रोत्तति speech falters (as ण् is not followed by any of the letters mentioned in the rule).
 
-[THIS IS TABLE: A detailed classification table showing consonants organized by place of articulation (Gutturals, Palatals, Linguals, Dentals, Labials) and type (Unaspirate, Aspirate, Nasals, Semivowels, Sibilants, Simple vowels St L-g., Diphthongs). The table includes Sanskrit characters organized in these categories.]
+§36. ×स् at the end of a word is changed into an Anusvâra
 
-* ह thongh not a semivowel is put here as it is a guttural.
+* तोलौ। Pân. VIII. 4. 60,
+
+† उद्: स्थास्तम्भोः पूर्वम्। Pân VIII. 4. 61.
+‡ झयो होऽन्यतरस्याम्। Pân. VIII. 4. 62.
+– शश्छोऽटि। छरि च। Pân. VI. I. 4. 63. 55.
+
+× मोऽनुस्वारः। नश्चापदान्तस्य झलि। Pân. VII, 3. 23. 24 and Pân VIII. 3, 27, I. 3. 10. (see sec. b).

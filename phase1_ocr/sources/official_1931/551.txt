@@ -1,46 +1,37 @@
-[Internal page: 537]
+[Internal page: 551]
 
-§ 8-13 ]                PROSODY.                                3
+§ 13 ]                   PROSODY                               17
 
-§ 8. A pāda or stanza may be either a वृत्त or a जाति.
+                      ( 3 ) पृथ्वी ( 8. 9. )
 
-(a) A Vṛtta is a stanza the metre of which is regulated by
-the number and position of syllables in each pāda or quarter.
+           Def. जसौ जसयला घडुप्रहयातिक्र पृथ्वी युरुः
+           Sc. of G. ज, स, ज, स, य, ल, ग.
+           Ex. दुरन्तदनुजैश्र्वप्रकरदुःस्थधुश्रीभरं
+                जहार निजलीला त्रञ्जकुलैऽप्रतीयाष्ठु यः ।
+                स एष जगतां गतिर्दुरितमारमस्साद्वितां
+                हृस्थयाति हरिं: स्तुतिस्मरणचाट्विभस्तोपदुतं: ॥
 
-(b) A Jāti is a stanza the metre of which is regulated by
-the number of syllabic instants in each Pāda or quarter.
+                      ( 2 ) मन्द्राक्रान्ता ( 4.
 
-§ 9. * A Vṛtta again is of three kinds; (1) समवृत्त or that
-in which all the quarters are similar; (2) अर्धसमवृत्त or that in
-which the alternate quarters are similar; and (3) विषम or that
-in which the quarters are all dissimilar.
+           Def. मन्द्राक्रान्ताद्युविरसनगेमो भनौ तौ गशुरु
+           Sch, of. G. म, भ, न, त, त, ग, ग.
+           Ex. प्रेमालाधे: श्रिययूविनर्णै: प्रोणितालिद्धुनावै-
+                धैन्द्राकान्ता तदनु नियतै वश्युतामेति बाल्लो ।
+                एवं शिक्षाव्रचतसुधया राधिकायाः सखीनां
+                प्रीतः पायात्स्मृतश्रुवदनौ देवकीनन्दनौ नः ॥
 
-§ 10. There are 26 classes of Samavṛttas or regular metres
-generally accepted. This classification rests on the number of
-syllables in each quarter which my vary from one to twenty-
-six. Each of these classes comprises a variety of metres all
-differing from one another according to the combination of the
-various gaṇas.
+                      ( 4 ) वंशपत्रपतितम् (
 
-§ 11. Yati (यति) is the Sanskrit name for the cæsura or
-pause which may be made in reciting a quarter or verse.
+           Def. दिड्युत्रुनि वंशपत्रपतितं भरवभनलगौ ।
+           Sch. of G. भ, र, न, भ, न, ल, ग.
+           Ex. सम्भ्राति ल्युध्यजनम् झुानकै: कुथमपि लश्युनि
+                क्षीणघ्यस्युपुयुपि भिदां जलधरपटलै ।
+                ख्वाण्डूतोब्रग्रहं वलभैदां धूदुरिहं विविवैधाः
+                पूरायेतु भवत्ति निभनः शिखरभोर्णंदन्य ॥
 
-§ 12. Only the metres in common use with their schemes
-in Gaṇas will be given here; all unimportant metres, as well as
-Vedic and Prākṛta metres will be ignored.
+                      ( 5 ) शिखरिणी ( 6.
 
-SECTION I.
-
-SAMAVṚTTAS.
-
-Metres with 8 Syllables to a Pāda.
-
-( 1 ) अनुष्टुभ् or श्लोक.
-
-§ 13. This is the commonest of all Sanskrit metres; it forms
-the chief metre of the great epics and many of the Purāṇas.
-
-* समसर्वसम् इनं विषमं च तथा त्रिधा ॥ अत्रादौ घन चत्वारिस्थसदृशा:-
-पादाङ्गिता: । तत्त्रैद्वेशाहतचरस्ता: सर्वे इनं नुज्ञेयं ॥ प्रथमाङ्गिद्वद्राते यस्य
-दुतीयक्षरया मेदेन । द्विरीयस्वद्वेविद्वेदं तद्द्वैः सेच्छन्ये ॥ एरं पादच्छेदो
-स्केऽपि लक्षनं निर्वृनुसरस्व । नैकहुद्विनिः इनं टन्दे ज्ञाप्तिविद्विशाग्द्रिनै: ॥
+           Def. रसैरुद्वैविच्छुरुसा यम्नसभूला गः शिखरिणीं
+           Sch. of G. य, म, न, स, भ, ल, ग.
+           Ex. करादस्य भ्रष्टे नन्वु शिखरिणी हुस्युति शिघो-
+                विलोला: स्मः सर्यं नियतमवधैयं तदधिलै:

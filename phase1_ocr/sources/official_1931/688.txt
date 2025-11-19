@@ -1,47 +1,47 @@
-[Internal page: 674]
+[Internal page: 688]
 
-112                   SANSKRIT GRAMMAR.
+126                   SANSKRIT GRAMMAR.
 
-   अरोदीत् Imperf. रुरोष perf. रोदिता p. fut. अरुदत् or अरोदीत्
-   aor. अरुदत्, रुदितुं, रुदिसति des. Pass.—रुद्युतै pre. अरोदि aor.
-   Cau, रोदयति-तै pre. अरुरोदत-न aor. रुदित p p.
+वृज् 2 A. वर्जनै to avoid, to shun; वृक्तै pre. ववृजै perf. वजिष्युतै fut.
+   अवर्जीष्ट aor. विवर्जिषतै des.
 
-रुप् 4 A. ( with अनु ) काति to desire, to obey; रुप्युतै pre. रुरुपै perf.
-   रोत्स्युतै fut. अरुषं. des. रुरुसतै des.
+वृज् 7 P. वर्जनै to avoid, to choose, to turn away, to move, to
+   bend; वृणुक्ति pre. ववर्ज perf. वजिता p. fut. अवर्जीत् aor. विवर्क्ति-
+   षति des.
 
-रुष् 7 U. आमर्षै to beinge, to oppose, to hold up, to oppress;
-   रुणद्धि or रुन्ध्दै pre. रुरोष or रुरुषै perf. रोद्धा p. fut. रोत्स्युति
-   fut. अरुषत्, अरोषीत्भुाग्, अरुष ( अराषाम्. अरुनात्ताम् dual ) aor.
-   रुद्युयात्, रुषीष्ट ben. रुत्साति-तै des. Pass.—रुष्युतै pre. अराधि
-   aor. Cau.—रोषयति-तै pre. अरुरुषत-न aor रुद्ध p.p. रोद्धुं inf.
+वृज् 1 P. & 10 U. to shun, to abandon, to exclude &c.; वर्जुति,
+   वर्जयाति-तै pre. ववर्ज. वर्जयाचकार-चक्रै &c. perf. वजिता, वर्जयिता
+   p. fut. अवर्जीत् , अवीववृजत-न, अववर्जत-न aor.
 
-रुष् 4 P. क्रोधै to be angry, to suffer, to feel, to pain
-   ( in the Vedas ); to dsturb; रुष्युति pre. रुरोष perf. अरुषत् aor.
-   Cau.—रोषयति-तै pre. अरुरुषत-न aor. रुरूषति, रुरोषिति des.
+वृज्ज् 2 A. वर्जनै to avoid; वृकै pre दुर्जिष्युतै fut. अवृजिष्ट aor.
 
-रुश् 6 P. हिंसायां to hurt, to destroy; रुशति pre. रुरोश perf.
-   रोशिता p. fut. अरुशीत aor.
+वृण् 6 P. भोजनै to give pleasure; वृणुति pre ववर्णं perf. अवर्णीत् aor.
 
-रृज् 10 U. 1 P. भाषाणां दोंक्षौ च to speak to shine: रृजयतै-तै, रृजति
-   pre रृजयचकातै, रृजिष्युति fut. अरुरृजत-न, अरृजीत aor.
+वृत्* 1 A. वर्तनै to exist, to happen, to live on, to occupy &c.;
+   वर्ततै pre. ववृतै perf. वर्तिता p. fut वर्तिष्युतै, वर्त्स्युतै fut. अवृतत् ,
+   अवर्तीष्ट aor. वर्तीषीष्ट ben. विवर्तिषतै, विवृत्सति des. Cau.—
+   वर्तयतै pre. अवीवृतत-न, अववर्तत-न aor. वृत्त p. p.
 
-रुर् 1 P. हिंसायां to kill, to hurt, to be annoyed; रुरुति pre.रुरोष
-   perf रुरिता or रोरा p, fut रोरिष्युति fut. अरूषीत aor.रुरुषति,
-   रुरुरिषति or रोरिषा des. रुरिता, रुरिता p.p. रुरुत्वां, रोरुं inf.
+वृद् 4 A. वरणै to choose, to divide; वृद्युतै pre. ( See the above
+   root. )
 
-रुर् 4 P. to kill, to hurt, to vex; रुष्युति pre. अरुषत् aor ( For
-   the other forms see the above root ).
+वृद् 1 P. & 10 U. भाषायां दोंक्षौ च to speak, to shine; वर्दुति, वर्द-
+   यात-तै pre. ववर्द. वर्दयाचकार-चक्रै &c. perf. अवर्दीत् , अवीवृदत-
+   न, अववर्दत-न aor.
 
-रुष् 10 U. रोषै to be angry; रोषयति-तै pre. अरुरुषत-न aor.
+वृध् 1 A. to grow; वृधतै pre. ववृधै perf. वर्धिता p. fut. वर्धिष्युतै,
+   वृत्सीयतै fut. अवृधत्, अवर्षीष्ट aor. वर्धीषीष्ट ben. वृद्ध p.p. विवर्धिषतै,
+   विवृत्सति des.
 
-रूह् 1 P. बाजन्यामनै मासुषाषै च to grow, to increase, to rise, to
-   reach on; रोहति pre. रोरोह perf. रोहा p. fut. रोहिष्युति or रोक्ष्युति
-   ben. अरुक्षुत-न aor. रुरुहातै des. रूढ़ p p.रुढ़ा, भारुहा ger. रोहुं inf.
+वृध् 1 P. & 10 U. भाषावां दोंक्षौ च to speak, to shine; वर्धुति, वर्धु-
+   यात-तै pre. ( See वृद् above ).
 
-रूक्ष् 10 U. पारुष्युयै to be rough, to be unkind, to make dry, ( in
-   the Vedas ); रूक्षयति-तै pre. रूक्षयाचकार-चक्रै perf. रूक्षयिता p.
-   fut. अरुरुक्षत-न aor
+वृध् 4 P. वरणै to choose; वृश्युति pre. ववर्धं perf. वर्षिष्युति fut. अवृ-
+   दत् aor.
 
-रूप् 10 U. रुपंक्रियायां to find out, to form, to consider, to fix,
-   to appoint; रूपयति-तै pre. रूपयाचकार-चक्रै perf. रूपयिता p.
-   fut. अरुरुपत-न aor रुपविषयति-तै des.
+वृष् 1 P. सैचनिसंगतिषु to rain, to pour forth, to torment;
+   वर्षुति pre ववर्ष perf. वर्षिता p. fut. अवर्षीत् aor. विवर्षिषति des.
+   वृष्ट p. p.
+
+   * Is is also Parasmaipadi in the 2nd future, conditional, aorist,
+   ªand desiderative.

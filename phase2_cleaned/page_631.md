@@ -1,0 +1,53 @@
+---
+page_number: 631
+internal_page: 631
+chapter: "Appendix II - Dhātukośa"
+section: "dhātukośa"
+rules_starting: []
+rules_continuing: []
+has_footnotes: false
+---
+
+                    DHĀTUKOŚA.                               69
+
+घुष्र्, घुञ्ज् 1 P. गतौ to go, to move; घुष्र्ति, घुञ्जुति pre, दुघुर्ज-
+  दुघुञ्ज perf. अघुष्र्त-अघुञ्जीत aor.
+
+घुष् 1 P. to come together, to hort; घुष्युति pre. दुघुष perf.
+  घुष्युत p. p.
+
+घुर् 5 P. प्रागल्भुयै to be bold, to be confidect to be prood or
+  brave; घुष्णोति pre दुघुर perf. घर्षुता p. fut घर्षिष्युयुति fut.
+  अघर्षिष्युयत् con. अघर्षीत aor. Cau.—घर्षयति-तै pre. अदुघुष्रत-न,
+  अदुघुर्षयत-न aor. दिघुर्षिषति des. भर्षुत, भुष्ट ( immodest ) p. p.
+
+घुष् 1 P. & 10 U. भहुदुनै to offend, to insult, to conquer; घुषति
+  & घुषयति-तै pre. दुघुष, घुषयाञ्चुकार-चक्रै perf. अघुषीत, अद्री-
+  घुषत-न, संदीपनै aor. घुष्युयात्, घुष्युयात् ben. घुषिता, दिघुषीषति-तै,
+  घिषुति, दिघुर्षिषति-तै des.
+
+घु 9 P. to become old घुर्णाति pre. घरि-रौ-ष्युयुति fut अघारीत aor.
+
+घे 1 P. पानै to suck, to draw away; प्रयाति pre. गौगौ perf. घाता p.
+  fut, अपयात्, अघासीत, अदग्धुत् aor. घेयुयात् ben. घिस्युति des.
+  Pass—घीयुतै pre. अधायि aor Cau.—भापयाति ( Parasm. also, if
+  it does not convey a reflective sense; अत्मान्युपयुयति परः )
+  pre. अदीघपत aor. घीत p.p.
+
+घोर् 1 P. गतिचातुर्ये to tread skilfully, to be skilful; घोरुति pre.
+  दुधोर perf. अघोरीत aor.
+
+घ्मा 1 P. शब्दाप्रेदैषणगत्यो: to exhale, to blow, to throw away;
+  घ्माति pre. दुश्मौ perf. घ्माता p. fut. घ्मास्युयति fut. अश्मास्युयत्
+  con. अघ्मासीत aor. घ्मायुयात् or घ्मेयुयात् ben. दिद्युमासति des.
+  Pass.—घ्मायतै pre. अध्मायि aor. Cau.—घ्मायुयाति-तै pre. अदि-
+  द्युमत-न aor. घ्मात p.p.
+
+घ्यै 1 P चिन्तायां to think of, to ponder over; घ्यायुति pre.
+  दुध्यौ perf. घ्याता p. fut. घ्यास्युयाति fut. अघ्यास्युयत् con. अघ्यासीत
+  aor. घ्येयुयात् or घ्यायात् ben. दिध्यासति des. Pass —ध्यायतै pre.
+  अदघायि aor Cau —ध्यापयुति-तै pre. अदिद्यर्षत-न aor ध्यात, ध्याततै,
+  ताध्युयाति, दाध्येति freq. ध्यात p.p. ध्यात्वा ger. ध्यातुं inf.
+
+घ्रुज् ( also प्रञ्ज् ) 1 P. गतौ to go; प्रजुति or प्रुजुति pre. दुध्राट.
+  दुप्रुज perf. अप्रुजीत, अभ्राजीत, अप्रुजीत aor.

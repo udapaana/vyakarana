@@ -1,0 +1,57 @@
+---
+page_number: 696
+internal_page: 696
+chapter: "Appendix II - Dhātukośa"
+section: "dhātukośa"
+rules_starting: []
+rules_continuing: []
+has_footnotes: false
+---
+
+134                   SANSKRIT GRAMMAR.
+
+शूर् 10 A. विक्रामै to act as the hero, to make great exertions;
+  शूरयतै pre. शूरयाचक्रै perf. अशुशूरत Aor. शुशूरयिषतै des.
+
+शूर्प् 10 U. मानै to measure; शूर्पयाति-तै pre. शूर्पयाचकार-चक्रै perf.
+  अशुशूर्पत-न Aor.
+
+शूल् 1 P. रुजनायां संचातै च to be ill to collect; शूलति pre. शुशूल
+  perf. अशूलीत् Aor.
+
+शूष् 1 P. प्रदवै to produce. to bring forth; शूषुति pre. शुशूष perf.
+
+शूष् 1 A. शब्दइत्सयायां ( but it is also Parasmaipadi in the 2nd
+  future, aorist & conditional ) to break wind downwards;
+  शूषतै pre. शुशूषै perf. शूषिता p. fut शूषिष्युतै, शूस्युति fut.
+  अशूषत्, अशोषीष्ट aor. शिशूषिषतै. शिशूषति des. शून्न p. p.
+
+शृध् 1 U. उन्दनै to be wet or moist; शोधाति-तै pre. शर्धिष्युति-तै fut.
+  अशर्धीत्, अशर्धीष्ट Aor
+
+शृध् 1 A. उपहासनै to mock at to ridicule; शृधुति. शर्षयाति-तै
+  pre. अशर्षीत्, अशर्धिष्ट, अशीशर्धत-न, अशीशृषत-न Aor.
+
+शृ 9 P. हिंसायां to tear to pieces, to hurt, to kill; शृणाति pre.
+  शशार perf. शरिता, शर्ता p. fut. अशारीत् aor. शिशारिषाति,
+  शिशरीषति, शिशर्यीषति des. Pass,—शीर्युतै pre. शीर्णं p. p.
+
+शेद् 1 P. to go, to tremble; शैदुति pre. शिशैद perf शेदिता p fut.
+  अशदीत् Aor.
+
+शेद् 1 A. सैवनै to serve; शैदतै pre. ( See शै ). )
+
+शै 1 P. पाकै to cook; शायुति pre. शास्युति fut. अशायीत् Aor.
+
+शै 4 P. क्षयणै to waste away; शीयुति pre. शिशैषे pre. शशौ perf.
+  शाता p. fut. अशात् , अशायीत् aor. शिशासाति des. Pass,—शाययै
+  pre. Cau,—शाययाति-तै pre. शात, शित p. p.
+
+शोफ् 1 P. शुणल्युयां: to become red, to go; शोफुति pre. शुशोफ perf.
+  अशोफीत् Aor.
+
+शोद् ( शोद् ) 1 P. to be prond or haughty; शोद(ड)ुति pre.
+  शोदयिति fut. अशोदीत aor.
+
+श्वद् 1 P. क्षरणै to ooze, to trickle; श्वैदुति pre. शुश्वैद perf. श्वैदिता
+  p. fut. अश्वैदीत्, अश्वदत् aor. श्वदित, श्वदित p. p.

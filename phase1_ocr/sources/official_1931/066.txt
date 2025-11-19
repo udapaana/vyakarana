@@ -1,41 +1,42 @@
-[Internal page: 47]
-77-78 ]                    DECLENSION.
+[Internal page: 66]
+66                    HIGHER SANSKRIT GRAMMAR.                    [ § 111-112
 
-                    वषाभू fem.
+Dual.
 
-  N.    वषाभूः        वषाभ्वौ              वषाभ्वः
-  V.    वषाभु          ,,                    ,,
-  A.    वषाभ्वम्       ,,                  वषाभूः
-  I.    वषाभ्वा      वषाभूभ्याम्           वषाभूभिः
-  D.    वषाभ्वै        ,,                  वषाभूभ्यः
- Ab.    वषाभ्वाः       ,,                    ,,
-  G.     ,,          वषाभ्वोः             वषाभूनाम्
-  L.    वषाभ्वाम्      ,,                  वषाभूषु
+    Nom., voc., and acc.    राजानौ        Instr., dat. and abl.    राजभ्याम्
+    Gen. and loc.        राज्ञोः
 
-Decline similarly प्रसू, वीरसू, पुनर्भू a widow remarried; ।
+Plural.
 
-§ 78. Obs. ( सखाधिच्छेतीति ) सखी; ( सद् खैन वेतते इति
-तम्मिच्छतीति ) सखी; ( छुताम्मिच्छतीति ) छुती; ( छुखम्मिच्छतीति
-द्रुग्मिच्छतीति ) द्रुगी, ( क्षामम्मिच्छतीति ) क्षामी; ( प्रस्तीमिच्छ
-स्तीगी &c:—
+    Nom.            राजानः        Voc.            राजानः
+    Acc.            राज्ञः        Instr.            राजभिः
+    Dat. and abl.        राजभ्यः        Gen.            राज्ञाम्
+    Loc.            राजसु or राजासु or राजेसु
 
-                सखी ( सखायाम्मिच्छतीति ).
+                        NEUTER.
 
-  N.   सखा          सखायौ               सखायः
-  V.   सखीः          ,,                    ,,
-  A.   सखायम्        ,,                  सख्यः
-  I.   सख्या        सखीभ्याम्            सखीभिः
-  D.   सख्ये         ,,                  सखीभ्यः
- Ab.   सख्युः        ,,                    ,,
-  G.    ,,          सख्योः               सख्याम्
-  L.   सखिम्         ,,                  सखीषु
+( This declension occurs in names of organs such as आस्य mouth,
+दधि curd, सक्थि thigh, अस्थि bone, &c., and in infinitives of verbs ending
+in अन् or मन् &c. ).
 
-                सखी ( सखयाम्मिच्छतीति )
+Singular.
 
-N. V.  सखीः         सख्यौ                सख्यः
-  A.   सख्यम्         ,,                    ,,
+    Nom., voc., and acc.    नाम ( name )    Instr.    नाम्ना
+    Dat.                नाम्ने        Abl.    नाम्नः
+    Gen.                नाम्नः        Loc.    नाम्नि or नामनि or नाम्नि
 
-The rest like tho other सखी- Declino similarly सख
-सख्ती, क्षामी, प्रस्तीमी &c.
+Dual.
 
-Words like गुशकी, पकी should be declined like सुधी.
+    Nom., voc., and acc.    नाम्नी or नामनी    Instr., dat., and abl.    नामभ्याम्
+    Gen. and loc.        नाम्नोः
+
+Plural.
+
+    Nom., voc., and acc.    नामानि        Instr.            नामभिः
+    Dat. and abl.        नामभ्यः        Gen.            नाम्नाम्
+    Loc.            नामसु or नामासु or नाम्सु
+
+                Bases ending in स् ॥
+
+§ 112. ( 1 ) After bases ending in स् the nom. sing.
+affix स् is dropped, but the स् of the base is not dropped, being

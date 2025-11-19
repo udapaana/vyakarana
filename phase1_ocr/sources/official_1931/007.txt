@@ -1,34 +1,23 @@
-[Internal page: 1]
-CONTENTS.
+[Internal page: 7]
+§9-10]                        THE ALPHABET.                       7
 
+This can be more easily remembered from its Sanskrit form which is as follows:—
 
-JAPTER.                                                PAGE.
-I.   The Alphabet         ...         ...         ...    1
-II.  Rules of Sandhi :— ...             ...         ... 12
-     1 Svarasandhi        ...         ...         ... 12
-     2 Halsandhi          ...         ...         ... 22
-     3 Visargasandhi      ...         ...         ... 28
-III. Subanta or Declension of nouns, substantive
-     and adjective        ...         ...         ... 32
-     1 Bases ending in vowels (Section I)     ... 34
-     2 Bases ending in consonants (Section II)... 54
-     3 Irregular bases    ...         ...         ... 65
-     4 Words of irregular declension          ... 82
-IV.  Pronouns and their Declension ...         ... 87
-V.   Numerals and their Declension ...         ... 102
-VI.  Degrees of Comparison        ...         ... 110
-VII. Compounds           ...         ...         ... 113
-     1 Dwandwa or copulative compounds    ... 115
-     2 Tatpurusha or the Determinative com-
-       pounds             ...         ...         ... 121
-     3 Karmadháraya or the Appositional com-
-       pounds             ...         ...         ... 138
-     4 Upapada compounds        ...         ... 144
-     5 Bahuvrîhi or Attributive compounds ... 147
-     6 Avyayibhâva or the Adverbial compounds. 160
-     7 General rules applicable to all compounds. 168
-     8 Other changes in connection with com-
-       pounds             ...         ...         ... 171
-III. Formation of Feminine Bases ...         ... 180
-IX.  Secondary Nominal Bases derived by the addi-
-     tion of the Taddhita or Secondary affixes. 194
+अकुहविसर्जनीयां कण्ठः।                    ।: कण्ठतालु।
+इचुयशानां तालु।                          ओदौतौः कण्ठौष्ठम्।
+ऋटुरषाणां मूर्धा।                         वकारस्य दन्तौष्ठम्।
+ऌतुलसानां दन्ताः।                        जिह्वामूलीयस्य जिह्वामूलम्।
+उपूपध्मानीयानां ओष्ठौ।                    नासिकाऽऽऽनुस्वारस्य
+नमङणनां नासिका च।
+
+The linguals are called cerebrals in some European Grammars. ए and ऐ are both guttural and palatal; ओ and औ are guttural and labial; व is dental and labial. The nose is the organ of pronunciation of the Anusvâra, while the root of the tongue is that of the Jihvâmûliya.
+
+§9. Those letters are called सवर्ण or homogeneous whose place of pronunciation is the month and the effort required to pronounce them is the same or equal.* Letters which are not सवर्ण or similar are called असवर्ण or heterogeneous.
+
+§10. A svara or vowel is that which can be pronounced without the help of any other letter; a vyañjana or consonant is that which is pronounced with the help of a vowel. The consonants, therefore, are written with a slanting nether stroke to denote their imperfect character.
+
+(a) Hence the consonants are given, in the system of Pânini, with an अ added to them for the sake of pronunciation.
+
+(b) As already remarked, there are no separate names for
+
+* तुल्यास्यप्रयत्नं सवर्णम्। Pân. I. 1. 9.

@@ -1,34 +1,22 @@
-[Internal page: 173]
-अव्ययीभावः                                                           173
+[Internal page: 190]
+190                                     SANSKRIT GRAMMAR.                         [ § 325-328
 
-§ 308. पूर्वपदप्रकृत्यैकत्वे ॥
+( a )*सुवन्‌ forms its feminine by the addition of ति before which the final न is dropped; सुषतिः
 
-When the first member retains its original form (प्रकृति), it is treated as one unit.
+§ 326. † If prātipadika end in बन्‌ it changes its न to द् before ई; शक्वन्‌-शाकरी the strong one; पीवन्‌ पीवरी, शुबेन्‌-शुबेरो the night, इन्स्यन्नतिक्रान्ता अतिरुखरी, आतिथेवरी, &c.
 
-Obs. This principle governs how the first member of an Avyayībhāva maintains its basic stem form throughout the compound.
+Exception.—‡ But if a base end in बन्‌ applied to roots ending in a soft consonant; or if a compound has such a base for its latter member, the fem. is formed by adding आ only, before which the preceding अन्‌ is dropped, e. g. अवावन्‌+आ-अवाना a Brāhmaṇa woman ( ब्राहणी ) or a female thief; राजयुष्मा.
 
-§ 309. पूर्वपदात् सञ्ज्ञायाम् अग्रहः ॥
+§ 327. § A Bahuvrīhi ending in अन्‌ forms its fem. in आ optionally; as इष्‌+पश्वन्‌=इषपश्वन्‌-ङी, बहु +यश्वन्‌ ज्चा, &c. but if the word ending in अन्‌ be such as drops its अ before the आ of the Inst, sing. it takes ई also optionally; e. g. बहु+राजन्‌—बहुराजन्‌-राजा-राज्ञी &c.
 
-From the first member, when it has a technical designation, there is no initial change.
+( a ) × If a Bah. ends in बन्‌, the न is optionally changed to द्‌; as बहुपीवन्‌-बहुपीवा or बहुपीवरो a town in which there are many fishermen.
 
-Example:— प्रादुर्भाव 'manifestation' - here प्र retains its form as a recognized upasarga.
+§ 328. ‖ If a Bah. end in ऊघ it takes the suffix ई in the fem. before which न is substituted for the final अन्‌; पीनं ऊघः यस्याः सा पीनोध्री having a large udder: कुण्डोध्री ( see Rag. I. 84.); also when it is preceded by a numeral or an indeclinable,
 
-§ 310. समासान्तः पराः अव्ययीभावे ।
+* सुषतिः ।                      † वनौरच् । Pán. VI. 1. 77. 7.
 
-At the end of an Avyayībhāva compound, the later elements (पर) become fixed.
+‡ अनो बहुत्रीहे । अन हुपपाल्योपिनोऽन्यतरस्याम् Pán. IV. 1, 12. 28, § बनो न हो इति वक्तव्यम् । Vārtika.
 
-Obs. This means that once an Avyayībhāva is formed, it becomes invariable and indeclinable.
+× बहुत्रीहो वा । Vārt. on Pán. IV. 1, 7.
 
-§ 311. विभाषा सुपो बहुलम् ॥
-
-Optionally, and in various ways, case-endings (सुप्) may be treated differently.
-
-Obs. This acknowledges that there are variations in how case-endings are handled in the formation of Avyayībhāva compounds, and that usage may vary.
-
-Conclusion of Chapter IX - Avyayībhāva
-
-The Avyayībhāva compounds form an important class of indeclinable compounds in Sanskrit. They are characterized by:
-1. Being absolutely indeclinable (अव्यय)
-2. Having neuter gender and singular number in form
-3. The first member determining the meaning
-4. Various case-relations being preserved in the sense though not in form
+‖ इघसोऽनङ् । Pán V. 4. 131. बहुत्रीहेष्वसो ड़ीप् । संख्याव्ययादिंष । बयोधाच्चकर्भेव इयघशब्देस्य ङीण्यन्तं चेण्यते । Vārtika.

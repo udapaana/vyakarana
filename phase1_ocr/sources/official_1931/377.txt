@@ -1,33 +1,42 @@
-[Internal page: 363]
+[Internal page: 377]
 
-§ 594 ]              CONJUGATION OF VERBS.                   363
+§ 613-616 ]        CONJUGATION OF VERBS.                    377
 
-Roots.  3 sing.                      Roots  3 sing
+which, like the causal base, is conjugated in all the ten Tenses
+and Moods of three voices.
 
-हा P.   हीयते                        वच्     उच्यते
-हा Â.   हायते                        त्रक्ष्   त्रक्ष्यते
-चि     चीयते                        ट्यच्    दिच्यते
-भि     भीयते                        प्रच्छ्   पृच्छयते
-मि     मीयते                        विच्छ्   विच्छयते, विच्छाग्यते
-मी     मीयते                        भञ्ज्    भज्यते
-शी     शय्यते                       यज्     इज्यते
-ऊर्ण्    ऊर्णीते                      पण्     पण्यते, पण्यते
-क      घीयते                        क्रद्    कल्यते, क्रदीयते
-क्     क्रीयते                       अद्     अद्यते
-जागृ   जाग्यते                       वद्     उद्यते
-स्मु    स्मर्यते                       इन्य्य   इष्यते
-ह      हृयते                        ध्यघ्    दिध्यते
-स्तु    स्तूयते                       वन्धु    वध्यते
-ऱु     स्तर्यते                       रुध्     रुध्यते
-तन्    तान्यते, तन्यते                सन्     सान्यते, सन्यते
-पन्    पान्यते, पन्यते                जन्     जान्यते, जन्यते
-युष्    युप्यते, गोप्यते गोषाट्यते     वस्     जस्यते
-वप्    उप्यते                        वस् ' to dress ' वस्यते
-स्तप्   स्तूप्यते                      क्षस्    क्षस्यते
-कम्    कम्यते, काम्यते               शास्    शिष्यते
-उर     चीयते                        सीस्    सह्यते
-दिव्    दीव्यते                       वन्द्    वन्द्यते
-वृश्    वृश्यते                       वह्     उह्यते
-&c.    &c.                          यह्     यह्यते
-                                    यह् with सम् संयुह्यते
-                                    &c.
+§ 614  The Desiderative expresses the notion that a person
+or thing wishes ( or is about ) to perform the action, or to be
+in the condition denoted by the root or the desiderative base;
+विपठिषति ' he wishes to study ' from पठ् ; मुमूर्षति ' he is about
+to die ' fr. मृ ; &c.
+
+615.  There are a few primitive roots, which, though they
+take a Desiderative form, do not convey a desiderative sense
+( See § 39. b ). As has been looked upon as primitive roots,
+the Desiderative bases may be derived from them according
+to the rules given below; as जुगुप्सिषत ' he wishes to censure '
+from जुगुप्स् &c.
+
+§ 616.  The Desiderative base is formed by reduplicating the
+root or base according to the general rules of reduplication
+given at § 444-448 and § 549 (c) (h), and by adding स् ( which
+may by changed to य् according to the rules of Sandhi ) to it.
+The अ of the reduplicative syllable is changed to इ; e  g.  चर्-
+चचर्-विचर्+स=चिचरिष् by the following rule.
+
+N. B.  The स् of a primitive root is not changed to य् when
+the characteristic स् is changed to स् ; स्म-सिस्मिष्, सिस्व-सिस्विष्,
+स्व-सुस्वः ); स्ना-सिस्नासिष् ; स्वप्-सुस्वप्सिष् ; स्था-तिष्ठासा; स्थिव-तिष्ठीविष्,
+स्फायि ( सु ); स्फारि; स्वप्, however, forms सुषुप्तिष्.
+
+Note:—(1) A root takes a Desiderative form only when the
+agent of the wish and of the action expressed by the root is the
+same; so हिंस्या: पदन् इति इच्छति छः and not पिपदिषति; also the
+sense of the root must be the object of the wish: गमनं इच्छति
+cannot, therefore, be equal to जिगमिषति
+
+Note:—(2)  Though the Desiderative form of a root is not
+to be met with often enough to assume a classical character as
+a verb, yet nominal and participal derivatives from it are not
+uncommonly to be met with.

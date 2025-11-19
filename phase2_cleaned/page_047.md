@@ -1,0 +1,38 @@
+---
+page_number: 47
+internal_page: 39
+chapter: "Subanta or Declension"
+section: "declension"
+rules_starting: ["§ 70"]
+rules_continuing: ["§ 69"]
+has_footnotes: false
+---
+
+मधु neu. honey.
+
+N.  मधु          मधुनी         मधूनि
+V.  मधो or मधु'     „           . "
+A.  मधु          "            "
+I.  मधुना         मधुभ्याम्      मधुभि
+D.  मधुने         „            मधुभ्य
+Ab. मधुनः        „            "
+G.   „           मधुनोः        मधुनाम्
+L.  मधुनि         „            मधुषु
+
+§ 70. Adjectives ending in इ and उ when used with neuter nouns are optionally declined like mas. nouns in इ and उ in the Da. Ab. Gen. and Loc. singulars and Gen. Loc. duals, e.g. शुचि neu. white, pure; गुरु neu. heavy:—
+
+शुचि neu.
+
+N.  शुचि         शुचिनी         शुचीनि
+V.  शुचि or शुचे    „            „
+Ac. शुचि         „            „
+I.  शुचिना        शुचिभ्याम्      शुचिभिः
+D.  शुचये or शुचिने   „          शुचिभ्यः
+Ab. शुचेः or शुचिनः   „            „
+G.   „     „    शुच्योः or शुचिनोः शुचीनाम्
+L.  शुचौ or शुचिनि   „     „      शुचिषु
+
+गुरु neu.
+
+N.  गुरु          गुरुणी         गुरूणि
+V.  गुरु or गुरो     „            „

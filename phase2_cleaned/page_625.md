@@ -1,0 +1,49 @@
+---
+page_number: 625
+internal_page: 625
+chapter: "Appendix II - Dhātukośa"
+section: "dhātukośa"
+rules_starting: []
+rules_continuing: []
+has_footnotes: false
+---
+
+दु 5 P. उपतापै to barn, to distress, to give pain; दुनोति pre.
+   दुदाव perf. दोता p. fut. दोष्युयुति fut. अदोष्युयत् con. अदावीत aor.
+   दोष्युयात् ben. दुद्युयुति des. Cau.—दावयति-तै pre. अदावीत aor. दुत p. p.
+
+दुक्ष् 10 U. दुःखुदैक्षाग to give pain; दुक्षयति pre. अददुक्षत-न Aor
+
+दुर् 1 P. हिंसाग्यां to kill; दूरुति pre, दुदूर perf. दूरिता p. fut.
+   अदूरीत aor.
+
+दुल् 10 U. उच्छैषै to shake to and fro, दोलयाति-तै pre. दोलयाञ्चुकार-
+   चक्रै perf. दोलुयिता p. fut. अदुदुलत-न aor. दुदोलयिषति-तै des.
+
+दुप् 4 P. वैकुण्ठयै to be wrong, to be impure, दुप्युति pre, दुदोप perf.
+   दोष्टुं p. fut. अदोष्युयत् con. दोष्युयात् fut. अदूपत् aor. दुप्युयात् ben.
+   Cau.—दूपयाति-तै, also दोपयति-तै ( to make depraved ) pre. अदु-
+   दुपत-न aor. दुदुषुति des. Pass.—दुप्युतै pre. अदोपि aor. दुष्ट p. p.
+
+दुह् 1 P. अदंनै to hurt, to give pain; दोहुति pre. दुदोह perf. दोहि-
+   ष्युयुति fut. अदुहुत, अदौहीत aor. दुहित p. p.
+
+दुह् 2 U. प्राप्नुतै to milk, to make profit; दोग्धुि, दुग्धै pre. दुदोह,
+   दुदुहै perf. दोहाम p. fut. धोक्ष्युयुति-तै fut. अधुअत्, अधुक्षत &
+   अदुग्ध aor. दुह्युयात्, दुक्षिष्ट ben. दुदुक्षति-तै des. Pass.—दुह्युतै
+   ( also gen. Prp. III. 1, 89 ) pre. अदोहि ( also अदुग्ध,
+   अधुक्षत ) aor. Cau.—दोहयाति-तै pre. अदुदुहत-न aor. दुग्ध p. p.
+   दुग्धुवा ger. दोग्धुं inf.
+
+दू 4 A. परितापै to suffer pain, to be sorry; दूयुतै pre, दुदुवै perf.
+   दुविता p. fut. दुविष्युयतै fut. अदुविष्युयत् con. अदुविष्टु aor. दुविषीष्ट
+   ben, दुदुषतै des. Cau.—दावयाति-तै pre. अदुदुवत-न aor. Pass.—
+   दूयुतै pre. अदावि aor. दून p. p.
+
+दृ 6 A. आदुरै to worship, to regard ( with आ ), दिरुतै pre,
+   दैरै perf. दरिता p. fut. अदरिष्टु aor. दरिषीष्ट ben. दिदरिषतै des. Pass.—
+   दिरुयतै pre. अदारि aor. Cau.—दारयति-तै pre. अदिदरत-न aor.
+   दृत p. p. दृत्वा ger. दर्तुं inf.
+
+दृप् 4 P. हर्षमोहनयो: to be glad, to be proud; दर्प्युति pre, दुदर्प
+   perf. दर्पिता, दर्प्ता, दर्न्ता p. fut. दर्पिष्युयुति, दर्प्स्युयुति, दर्स्युयुति fut.

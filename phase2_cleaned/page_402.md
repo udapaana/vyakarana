@@ -1,0 +1,51 @@
+---
+page_number: 402
+internal_page: 402
+chapter: "Parasmaipada & Ātmanepada"
+section: "parasmaipada-atmanepada"
+rules_starting: []
+rules_continuing: ["§ 664"]
+has_footnotes: true
+---
+
+क्रीड्*—'to play' is Ātm. after the prepositions अव्, आ, परि
+and सम्, अव्-आ-परि-सं-क्रीडते, but not when अव् governs a noun, as
+मायाप्रकृतीनक्रीडति i. e. 'plays with Mānavaka.' संऊ with सत्य is
+Par. when it means 'to play (or) 'to gamble' सत्येन संऊ सङ्-
+क्रीडति
+
+क्षिप्†—'to throw' is Par when preceded by the prepositions
+अनि, परि and अति; अतिक्षिपति 'throws up;' आतिक्षिपति 'throws out,'
+क्षिपति 'throws back.'
+
+शुध्—with सम् is Ātm; सुंषुते षत्रं 'whets or sharpens his
+weapon,' उत्कुद्धो संयुधते 'fight fiercely.'
+
+युज्‡—with सम् is Ātम. in the sense of 'to be proper, unite
+with, join'; वाक्यं संयुज्यते, सर्वे निः संयुज्यते, &c., but ग्रामं संयुयच्छति
+स्वेष स्थ उपहियात् 'In the Causal it takes the Ātm. in the sense of
+'having patience or waiting,' आनसुयस्त ताव् 'have patience first'.
+
+लुब्—'to be greedy' is Ātम in the Cau. when the sense is 'to
+deceive,' मानवकं मत्तुबेते 'he deceives Māṇavaka;' but श्वानं गत्तर्पयति
+'he makes the dog greedy.'
+
+दंश्—with सम् is Ātम. when the meaning is 'to pledge one's
+word, to promise, to proclaim;' सतिसते शब्दं 'he pledges his word;
+सतं सतिसते 'he promises 100 (Rupees, &c.),' सतिसते स्वाविनो गुणान्
+'proclaims the merits of his master;' but संतिसति द्राघं 'he swallows
+down a mouthful.' If it (i. e पृ 6 Cau.) be preceded by अप्, it
+is Ātम. अपदंसति शोनितं निशाचरः 'the fiend drinks blood.'
+
+चर्§—'to walk' with उद् is Ātम. when used transitively,
+
+---
+
+## Footnotes
+
+* क्रीडात्कर्षर्विरम्भद्या Pāṇ., 1. 3. 21. अनो: कर्मोष्चत्रौयाम। Sid.Kau.
+† आरिप्रतिपरेषु: तिय: । Pāṇ. 1. 3. 80.
+‡ सञ्यो गच्यायौउट्युर्य्गृष्म । Pāṇ. 1. 3. 23,
+§ सज्यङुख्यसं नेम: प्रतिनाङोऽ । Pāṇ. 1. 3. 51–52,
+§ उद्यच्छारं सङ्कर्मोकाय । समत्कूतौपयादुकाय । सूथायाइन वा वैवबुत्र्ये ।
+Pāṇ. 1, 3, 63–75.

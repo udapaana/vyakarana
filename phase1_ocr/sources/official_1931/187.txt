@@ -1,34 +1,24 @@
-[Internal page: 170]
-170                                     संस्कृतव्याकरणम्
+[Internal page: 187]
+§ 314-317 ]                             FEMININE BASES.                                  187
 
-§ 293. अव्ययीभावे कृत्यलुकि न च ॥
+§ 314. * Prātipadikas expressive of colour, having त for their penultimate and ending in an Anudātta vowel, except आसित black and पलित grey, and the word पिञ्जा form their feminine in ई or आ; एता or एती 'variegated' from एत; रोहिता, रोहिती; पिञ्जूनी-पिञ्जूणी; but असिता, पलिता, श्वेता ( as the त here is Udātta ).
 
-When a कृत् affix is elided in an Avyayībhāva compound, the substitution (of दुर् etc.) does not take place.
+(a) † But if the Prātipadika has no त for its penultimate, it simply takes ई; कल्माषी variegated, चारुषी; but कृष्णा कपिला ( as the last vowels are not Anudātta ).
 
-Example:— दुर्दर्शम् 'difficult to see' (here दुर् is not replacing स).
+§ 315. The Feminine of नृ and नर् is नारी and that of words included in the Shāṅgaravādi ( शाङ्गरवादि०ण ) group†is formed by adding ई; as शाङ्गरवी. गौतमी, आतिथेयी, आशोकैयी, वैदी, एदी, &c.
 
-§ 294. सुषु च ॥
+§ 316. The feminine of words expressive of relationship is irregular; भ्रातृ-भञात्‍, पितृ-मातृ, &c.
 
-The substitution of सु is also not made when a कृत् affix is elided.
+§ 317. ¶ The feminine of पति is पत्नी meaning ' the sharer with her husband in the fruit of the sacrifices performed by him; but if it end a compound it may optionally remain unchanged except when preceded by समान, एक, बीर. पिण्ड, भ्‍, भानु, भद्, and पुत्र &c before which this change is necessary ; गृहपति or गृहपत्नी, the mistress of the house; or द्युहपति or द्युहपत्नी; द्रुपलपति or इषलपत्नी &c. but समानः पतिर्येस्या सा सपत्नी a co-wife, एकपत्नी, बीरपत्नी.
 
-Example:— सुदर्शम् 'easy to see', सुकरम् 'easy to do'.
+N. B.—‖ If there be no compound this change does not take
 
-§ 295. उत्तमाधममध्यमाः सुदुःकुल्युत्तरपदे ।
+* वर्णोदुदत्तानत्तोपधात्तो न । Pān, IV. 1. 39, पिञ्जक्तुदुसंख्यानम् । असितपलितयोनं । Vārtikas.
 
-The words उत्तम 'best', अधम 'lowest', and मध्यम 'middle' become सु, दुः, कु, and उत्तर when used as the latter member of a compound.
+† अन्यतो ड़ीप् । Pān. IV. 1. 40.
 
-Examples:— सत्सुः 'very good', सद्दुः 'very bad', सत्कुः 'middling', सदुत्तरः 'better'.
+‡ This group consists of the following words—शाङ्गरव, कागुदुव, ञात्राण, गौतम, आतिथेय, आशोकेय, वात्स्यायन, मौत्राधन, शौञ्ज्य. आक्रमरश्च, चाण्डाल, पुत्र and some others not very important.
 
-Obs. These substitutions occur only in special contexts, and उत्तर substitutes for उत्तम in comparative sense.
+¶ पत्स्यन्तै यत्नुसंयोगे । Pān. IV. 1. 33. पतिशब्दस्य नक्षरादिदः स्थानुं यत्रैन सम्बन्धे । वसिस्थस्य पत्नी । तत्कुतुकुचत्त्व फलभोक्त्रीत्यर्थः । Sid. Kau
 
-§ 296. न त्रिषु सप्तमीप्रतिरूपकाधिकरणे ॥
-
-These substitutions (सु, दुः, कु) do not occur when the first member is in the Locative case denoting प्रतिरूप (resemblance) or अधिकरण (locus).
-
-Example:— यथाक्षौद्रम् 'like honey', अधिहरि 'over Hari' - here we do not substitute सु etc.
-
-§ 297. तत्र स्थानिनोऽधिकरणे ॥
-
-In the sense of अधिकरण (locus), स्थानिन् is understood.
-
-Example:— अधिकार्यम् 'in or regarding the work' (meaning अधिकरणे कार्ये).
+‖ विभाषा सपुवर्देश । निस्त्यं सपत्नयादिदु । Pān. IV. 1. 31. 33.

@@ -1,0 +1,52 @@
+---
+page_number: 603
+internal_page: 603
+chapter: "Appendix II - Dhātukośa"
+section: "dhātukośa"
+rules_starting: []
+rules_continuing: []
+has_footnotes: false
+---
+
+चल् 10 U घूनै to foster; चाल्युयति-तै pre. चाल्युयाञ्चुकार-चक्रै &c.
+   perf. अजीचलत् Aor.
+
+चष् 1 U. भक्षणै to eat; चषति-तै pre, चचाष, चेषै perf अचषीत,
+   अचाषीत, अचषिष्टु Aor.
+
+चह् 1 P. & 10 U. परिकर्मनै to be wicked; चहति & चहयति-तै pre.
+   अचहीत-अजचहत-न, अचाहीत or ( घाट्युयुत-न ) Aor.
+
+चाय् 1 U. पूजाविशाभमर्षै: to worship. to observe; चायति-तै pre
+   चचाय-चचायै perf. चायिता p. fut. चायिष्युयति-तै fut. अचायीत,
+   अचायिष्टु aor. Cau-चाययति-तै pre. अचचायत-न aor. चिचायिष-
+   ति-तै des.
+
+चि 5 U. चयनै to heap up, to collect; चिनोति, चिनुतै pre, चिकाय,
+   चिचाय, चिचैै, चिचै perf. चेता p. fut. चैष्युयाति-तै fut. अचैष्युयत-न
+   con, अकार्षीत्, अकैट aor. चेयात् ben. चीयतै-चीयतै fut. जिकीषति des
+   Pass.—चीयतै pre. अचायि aor. चित p. p. चित्वा ger.
+
+चि 10 U. to gather, चयति-तै, चपयति-तै pre, चययाञ्चुकार-चक्रै,
+   चयुयाञ्चुकार-चक्रै perf. अजीचयत-न, अजीचयत-न aor.
+
+चिट् 1 P & 10 U. परेषैणै to send out; चैटति, चैटयति-तै pre,
+   चिचेट, चैटयाञ्चुकार-चक्रै &c perf. चैटिता, चैटक्षुता p. fut.
+   अचैटीत, अजीचैट्युत-न aor.
+
+चित् 1 P. संज्ञानै to notice, to understand; चैतति pre. चिचेत perf.
+   चैतिता p. fut. चैतिष्युयुति fut. अचैतिष्युयत् con, अचैत्सीत aor.
+   चित्युयात् ben. चैतिषीष्ट, चिचितिषति des. Cau.—चैतयति-तै
+   pre. अजीचितत-न aor. Pass.—चित्युतै pre अचेति aor. चित
+   p. p. चितित्वा & चेतित्वा ger.
+
+चित् 10 A. संचैतनै to perceive, to be anxious; चैतयतै pre. अजी-
+   चितत Aor. चिचैतयिषतै des.
+
+चित् 1 P. संकल्युै अचुर्त्तुदर्शनै च to paint &c.; चित्रयति-तै pre.
+   आचिचित्रत-न aor. चिचित्रयिषति-तै des.
+
+चित् 1. P. think, चितति pre. चिचित perf. चितिता p. fut. अचिषीत
+   aor. चित्रत p. p.
+
+चित् 10 U. स्मृयाय to think, to consider; चितयति-तै pre. चितयाञ्च-

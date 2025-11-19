@@ -1,0 +1,51 @@
+---
+extraction_status: raw
+page_end: 487
+page_start: 486
+rule_id: § 827
+rule_number: 827
+source_pages:
+- '486'
+- '487'
+internal_pages:
+- '486'
+- '487'
+image_files:
+- 486.png
+- 487.png
+
+---
+
+§827. ‡ (a) A noun expressive of the purpose for which
+anything is done, or the result to which anything pertains, or
+action for which anything exists, is put in the Dative case;
+छुकुरुयु हरिं भजुति 'worships Hari for final beatitude;' भकितुयुगुयुयु
+कुरुनं घस्युयुनं जायुतं वो 'devotion leads to knowledge;' सुड्युयु
+कुरुनं जायुतं सन्युबुनं युयुयुयुरुः (Mb.) 'water gruel tends to
+(produce) fire,' सुयुर्णुयुयु विरुयुयुर्णों हिरुण्युयुं (Mah. Bhā.) 'gold for
+Kuṇḍala (a kind of ornament);' सुयुयुयु दुयुरुयु ' wood for a
+sacrificial post,' &c.
+
+N. B. The roots भू or अस् are often omitted after a Dative
+used in this sense कुव्युयुं यवुते (भुवति), poetry is for fame.'
+
+(d) § An evil foreboded by a portentous phenomenon is
+also put in the Dative case; वायुयु कुविछुयु विवुत्युयु 'the tawny
+lightning forebodes a storm.'
+
+(e) ‖ The word हितं is used with the Dative; ब्राह्मुयुयु हितं
+'good for a Brāhmaṇa
+
+---
+
+*प्रत्युयुकुच्युयुम् श्युतुः पुयूर्च कर्तो । Pāṇ. 4. 40.
+
+†परिक्रुयुणं संयुत्युयुन्युयु:युयुदुरुस्युयुयुम् । Pāṇ. 4. 44. निरुयुत्युकुट्युयुयुयुयुरुस्युकुरुणु
+परिकुयुर्णों । Sid. Kau.
+
+‡त्युयुर्युर्युस् चुदुर्युर्णों वाञ्युयुयु । क्तुदुपि संयुयुयुम्युनं च । Vārtika.
+
+§विपुरीते कुयुर्यु । Vārt. वाद्युयु कुर्णोकुयुयुविद्युद्युयुयुयुणुयुतोहुतो। ।
+पतोत वरीयु निवोयुयु दूयुरैकुसुयु तिता क्तोटे । Mah. Bhā.
+
+~हितयुयोपो च । Vārt.

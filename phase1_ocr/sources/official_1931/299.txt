@@ -1,40 +1,33 @@
-[Internal page: 285]
+[Internal page: 299]
 
-§ 454              CONJUGATION OF VERBS.                     285
+§ 469-475 ]         CONJUGATION OF VERBS.                     299
 
-2. दधासि      धत्थः     धत्थ          धत्से      दधाते       धड्ढ्वे
-3. दधाति      धत्तः     दधति         धत्ते      दधाते       दधते
+case of Set roots, optionally in the case of Wet roots,  and  not fixed at all in that of Anit roots.
 
-                          Imperfect.
+§ 470.  All these terminations are strong.   The  final  vowel and the penultimate short of a root  therefore  take their Guṇa substitute before them.
 
-1. अदधाम्     अदध्व    अदध्म         अदधि      अदध्वहि     अदध्महि
-2. अदधाः     अधत्तम्  अधत्त         अधथाः    अदधाथाम्   अधढ्वम्
-3. अदधात्    अधत्ताम् अदधुः        अधत      अदधाताम्   अदधत
+§ 471.  Anit roots with a penultimate अ change  it  to आ optionally before a strong termination beginning with any consonant except a nasal or a semi-vowel; सूय—सूतासि,  व्रतासि &c.
 
-                          Imperative.
+                   दा P. Â. ' to give &c.,'
 
-1. दधानि      दधाव    दधाम          दधै       दधावहै      दधामहै
-2. धेहि       धत्तम्   धत्त          धत्स्व    दधाथाम्     धढ्वम्
-3. दधातु      धत्ताम्  दधतु         धत्ताम्   दधाताम्     दधताम्
+1. दातासि     दातास्वः   दातास्मः     1. दाताहे    दातास्वहे   दातास्महे
+2. दातासि    दातास्यः   दातास्थ      2. दातासे   दाताध्यथे   तास्ध्वे
+3. दाता      दातारौ    दातारः       3. दाता     दातारौ     दातारः
 
-                          Potential.
+    वी  P.  A.  ' carry '—नेतासि,  नेताऽस्य,  नेतास्मः  &c , नेताहे,
+नेतास्वहे, नेतास्महे, &c.
 
-1. दध्याम्     दध्याव   दध्याम        दधीय     दधीवहि      दधोमहि
-2. दध्याः     दध्यातम् दध्यात        दधीथाः   दधीयाथाम्   दधीध्वम्
-3. दध्यात्    दध्याताम् दध्युः       दधीत     दधीयाताम्   दधीरन्
+    पत् P.—पतितासि, पतिताऽस्य, पतितास्मः &c.
 
-    दा is similarly conjugated.  The forms of दा will be obtained by changing य to द् wherever it occurs.
+    ईश् A.—ईशिताहे, ईशिताऽस्वहे, ईशितास्महे &c.
 
-                   निज् P. Â. ' to cleanse.'
+                       IRREGULAR BASES.
 
-                          Present.
+§ 472.  The  roots  इस्,  कृष् 1 A.,  घुय,  तिय and  इद् admit इ optionally in the First Future; e g. 1 sing   भवितासि,  पशासि,
+सृजिताहे,  शोचाहे;  लोभितासि,  लोध्यासि;  रवितासि,  रेषासि;  पेनरिशतासि,  गरिष्टासि,  रोधितासि.
 
-1. नेनेज्मि    नेनिज्वः  नेनिज्मः      नेनिजे     नेनिज्वहे    नेनिज्महे
-2. नेनेक्षि    नेनिक्थः  नेनिक्थ       नेनिक्षे   नेनिजाथे     नेनिग्ध्वे
-3. नेनेक्ति    नेनिक्तः  नेनिजति      नेनिक्ते   नेनिजाते     नेनिजते
+§ 473.  कुप् is optionally  Parasm.  in  the  First  Future and when so it rejects इ: कोपितासि, कल्प्तासि; कल्प्ताहे ! sing. &c.
 
-                          Imperfect.
+§ 474.  The augment इ as  added  to  सह् is long  in  all Non-conjugational Tenses, except in the Perfect; सृजीतासि 1 sing
 
-1. अनेनिज्म्   अनेनिज्व  अनेनिज्म      अनेनिजि   अनेनिज्वहि   अनेनिज्महि
-2. अनेनेक्-ग्  अनेनिक्तम् अनेनिक्त      अनेनिक्थाः अनेनिजाथाम् अनेनिग्ध्वम्
-3. अनेनेक्-ड्  अनेनिक्ताम् अनेनिजुः     अनेनिक्त   अनेनिजाताम् अनेनिजत
+§ 475.  The intermediate  इ  is  optionally  lengthened  in  the case of घु and roots  ending  in  अ,  except in  the Perfect,  the

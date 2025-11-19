@@ -1,12 +1,7 @@
 {
-  "text": "REGISTERED UNDER ACT XXV OF 1867.\nALL RIGHTS RESERVED BY THE PUBLISHERS,\nGOPAL NARAYEN & Co.\n\n\nPrinted by S. V. Parulekar, at the Bombay Vaibhav Press,\nServants of India Society's Home, Sandhurst Road,\nGirgaum, Bombay.\n\nAND\n\nPublished by D. V. Mulgaokar, (Proprietor)\nGOPAL NARAYEN & Co., Kalbadevi Road, BOMBAY.",
-  "model": "claude-code-interactive",
-  "usage": {
-    "input_tokens": 0,
-    "output_tokens": 0
-  },
-  "timestamp": "2025-11-01",
+  "page_number": "022",
   "source": "official_1931",
-  "page": 4,
-  "notes": "Copyright and publication information"
+  "content_type": "chapter_1",
+  "ocr_method": "claude_interactive",
+  "timestamp": "2025-11-01"
 }

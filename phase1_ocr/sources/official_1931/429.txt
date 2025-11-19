@@ -1,40 +1,45 @@
-[Internal page: 415]
+[Internal page: 429]
 
-§ 667 ]        PRIMARY NOMINAL BASES.                    417
+§ 705-709 ]        PRIMARY NOMINAL BASES.                    431
 
-                        SECTION I.
+मविष्टित: ' dwelt in Vaikuntha;' तिन्नुड्ुगुसितु: ' served Shiva,' इरि-
+दिनूदृशोरितै: ' observed a fast on the day sacred to  Hari,' रामजाङुङ
+जात: ' was born after Rāma;' गदुड़ासास्तु: sat on Garuḍa; विच्चुन्नुङ-
+धीर्तौ: ' grown after this,' &c.
 
-        PARTICIPLES ( Declinable and Indeclinable )
+§ 706  P. P. Participles have sometimes  the sense of  neuter
+abstract nouns; as जातिसं 'speech', शासिसं 'sleep', ह्सित 'laughing,'
+similarly स्थित, गत, etc.; See Bhaṭṭ  VII. 125.
 
-            1. Participles ( Declinable )
+§ 707.  The P. P. Participles of roots meaning 'to think or to
+wish,' 'to know,' ' to adore,' and of the roots मून्, भा  etc.  have
+the sense of the present Tense; राञुतं मतै:  ' he is honoured by the
+king;' सत्तं इत्युनै: द्युप् पदं the root is kindled ;' so म्रि: etc
 
-        ( a ) Participles of the Present Tense
+            (d) Past Active Participles.
 
-§ 667.  The participle of the present  Parasm.  is formed by
-the addition of the affix अत् to  that form of a  root,  primitive
-or derivative, which it assumes before the third person plural
-termination of the Present Tense.  If the base ends in अ, the अ
-is dropped; e  g.
+§ 708  Past Active participles are derived  from  the  P.
+Passive Participle in त् or न by changing it to them the affix वत्; e.g.
 
-यू ( 1 cl. )—अत्+अन्ति Pre. 3rd pl. यू+अत्=भवत् Pre. P being
-रूरा ( I cl  )—तिद्+अन्ति „        तिद्+अत्=तिह्वद् „, standing
-दिर् ( 2 cl. )—विष्+अन्ति „        विश्+अद्=विह्वद् „, hating.
-    similarly from
-अद् ( 2 cl. ) अद्यद् eating.       रुज् ( 7 cl. ) रुज्यद् preventing.
-या ( 2 cl. ) याद् going            छु ( 8 cl. ) छुर्वद् doing.
-हु ( 3 cl. ) डुर्वद् sacrificing    तन् ( 8 cl. ) तन्वत् stretching, &c.
-दिव् ( 4 cl. ) दीव्यद् playing.      क्री ( 9 cl. ) क्रीणत् buying.
-सु ( 5 cl. ) सुन्वद् extracting.    चुर् ( 9 cl. ) चुर्णत् stealing, &c.
-दुर् ( 6 cl. ) दुवुर्द् giving pain.   चोर् ( 10 cl. ) चोरयत् stealhng.
-या cau  of कृ, मुरयद् causing to know.
-युवोषियु desid. of कुश् , वुवोषियत् desiring to know.
-दित्स्व desid. of दा, दिदासत् desiring to give.
-वेरिक्षु freq. of क्षिप् , वेक्षिपद् throwing again and again.
-    &c.        &c.        &c.        &c.        &c.
+Roots.          P. P. Ptc.      P. Ac. Ptc.
 
-( a ) The form. अत् is optionally changed to वुच्  when added
-to the root विद् ; विदद् or विद्वद् ' knowing. '
+भू  to be            भूत           भूतवत् one or that has been
+कृ  to do            कृत           कृतवत् „     „      done
+कू  to scatter       कीर्ण          कीर्णवत् „     „      scattered
+छिद् to cut          छिन्न          छिन्नवत् „     „      cut
+etc.                etc.           etc.                etc.
 
-( b ) The affix अत् when added to दृषु and हु ' to extract Soma
-juice in a sacrifice' has the sense of an agent; as दृषुवद् m. ' an enemy.'
-पदं सनं सुन्वन्तो वृत्त्र्यत: य: । Sid. Kau. ' all who sacrifice in a sacrifice.
+        ( e ) Participle of the Future Tense.
+
+§ 709.  The Participle of the Simple Future,  Active as well
+as Passive, is formed from the  third  person  singular form of
+the Second Future  of  a  root.   The Parasm.   Ptc.  is formed
+simply by dropping the final इ, and the Atm.  and  the Passive
+one by substituting मान for the final इ; e. g.
+
+                        Participles.
+
+Roots.  Par.           Atm.                  Passive.
+
+दा—  द्रास्यत्         द्रास्यमाण           द्रास्युमाण or द्रायिष्यमाण
+भू—  भविष्यत्         भविष्यमाण           भविष्यमाण or भाविष्यमाण

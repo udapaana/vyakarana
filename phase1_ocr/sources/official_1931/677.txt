@@ -1,42 +1,46 @@
-[Internal page: 663]
+[Internal page: 677]
 
-                     DHĀTUKOŚA.                               101
+                     DHĀTUKOŚA.                               115
 
-मुथु 1 P. समुडुति to strike, to collect; मुथुति pre. ममुथु perf.
-   अमुथुीत aor.
+   लैभै perf. लभ्या p. fut. लप्स्युतै fut. अलभ्र aor. लिप्सतै des. Cau,—
+   लभ्युयाति-तै pre. अललभत-न aor. लब्ध p. p.
 
-मुग् 4 P. अन्वेषणै to seek, to hunt, to examine, to beg, मुग्युति pre.
-   ममर्ग perf. मगिता p fut. मगिष्युयुति fut. अमगीत aor. मुगित p p.
+लम्ब् 1 A. शब्दै अवसैत्तनै च to sound, to hang cown, to sink, &c.;
+   लम्बतै pre. ललम्बै perf. लम्बिता p. fut. अलम्बिष्ट aor. Pass,—
+   लम्युयतै pre. अलम्बि aor. Cau.—लम्बयति-तै pre. अललम्बत-न aor.
+   लिलम्बिषतै des. लम्बित p. p.
 
-मुग् 10 A. अन्वेषणै to seek, &c; मुगयतै pre. मुगयाचक्रै perf.
-   मुगयिता p. fut. मुगयिष्युयत् fut. अममुगत aor. मुगयिषीष्ट ben.
-   निमुगयिषतै des. Pass.—मुग्युतै pre. अमुगि aor.
+लप् 1 A. to go, to move; लष्युतै pre. लैषै perf. लषिता p. fut. अलषीष्ट
+   aor.
 
-मुज् 1 P. शौचालङ्कुगुरत्वो. to wipe etc; माजुति pre ममाज perf. ( See
-   the root below ).
+लष् 1 P. to go, to move; लषुति pre. ललर्ष perf. अलषीत aor.
 
-मुज् 2 P. शुद्धौ to wipe off, to rule, to carry ( as a horse ), to
-   adorn; माष्टि pre ममार्ज perf मार्जिता or माष्टुं p. fut. माजिष्युयुति
-   or माक्ष्युयुति fut. अमार्जिष्युयत-अमाक्ष्युयत् con. अमाजीत or अमार्ष्युयत्
-   aor. मुज्युयात् ben. निमुक्षति. निमार्जिषति des Pass.—मुज्युतै pre.
-   अमार्जि aor Cau.—माजुयाति-तै pre अममाजत-न अमीमुजत-न, aor.
-   मुष्ट. मार्जित p p.
+लस् 1 P. विलासै to play, to move about; लसति pre. लसाल perf.
+   लसिष्युति fut. अललसीत aor. लिललसिति des. Cau.—लासयति pre.
+   अलीलसत् aor. लसित p. p.
 
-मुज् 10 U शौचालङ्कुगुरत्वो: to wipe off &c.; माजयाति-तै pre. माजया-
-   चकार-चक्रै. perf. माजयिता p. fut. माजयिष्युयुति-तै fut. अमीमाजत-न,
-   अमीमुजत-न aor. Pass.—माजुयाति-तै pre. माजित p. p.
+लस् 10 A. दैन्यावां to desire, to fondle; लासयतै pre. लासयाचक्रै
+   perf. लासयिता p. fut. अललसत-न aor. लिललसयिषतै des.
 
-मुद् 6 & 9 P. सुखनै to be gracious, to pardon, to be delighted;
-   मुदुति and मुदुनाति pre, ममर्द perf. मुदिता p. fut. अमर्दीत aor.
+लह् 10 U. शिल्पुयोगै to use any art; लाह्यति-तै pre. लाह्याचकार-
+   चक्रै perf. अलीलहत-न aor. V. 1. for लप्.
 
-मुण् 6 P. हिंसायां to kill, to destroy; मुणुति pre, ममृण perf. अम-
-   र्णीत aor.
+लष् 1 & 4 U. काकौ to wish, to long for; लषति-तै, लष्युति-तै pre.
+   ललाष or लैषै perf लषिता p. fut. अलषीत्, अलषीत्, अलषीष्ट aor.
+   लिललषति des. लषित p. p.
 
-मुद् 9 P. कोटै to press, to crush, to kill, to rub off; मुदुनाति pre.
-   ममृद perf. मदिता p. fut. मदिष्युयुति, मर्दिष्युयुति fut. अमदीत, अमर्दीत
-   aor. Pass—मृद्युतै pre. अमादि aor. Cau.—मर्दुयाति-तै pre. अमी-
-   मुदत-न or अममर्दुत-न aor. निमर्दिषति des. मृदित p. p.
+लसै 1 P. श्लेषणाउलसनयो: to appear, to embrace, to play, to
+   shine; लसैति pre. ललास perf. लसैता p. fut. अलसैत्-अलसैत्
+   aor. Cau,—लासयति-तै pre. अलीलसत-न aor. लिललसयति des.
+   लसित p. p.
 
-मुद् 1 U. अन्दनै (हिंसाग्यां च) to be moist, to hurt, to kill, ( in the
-   Vedas) to disregard; मुदुति-तै pre. ममुर्द or ममुदै perf. अमुदीत
-   अमृदिष्टु aor. मृदित्वा, मुदुवा ger.
+लप् 10 U. शिल्पुयोगै See लह् above.
+
+लज्ज् 1 A. ह्रीदनै to be ashamed, to blush; लज्जतै pre. ललज्जै perf.
+   लज्जिता p. fut. अलज्जिष्ट aor. Pass —लज्युयतै pre. अलज्जि aor.
+   Cau,—लज्जयति-तै pre. अललज्जत-न aor. लिललज्जिषतै des.
+   लज्ज p. p.
+
+ला 2 P. दानै हातौ च to take, to obtain; लाति pre. ललौ perf.
+   लाता p. fut. अलासीत् aor. Cau,—लापयति-तै, लायति-तै ( to
+   cause to melt ) pre. अलीलयत-न, अलीलपत-न aor. लिलासति des.

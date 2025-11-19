@@ -1,37 +1,15 @@
-[Internal page: 294]
+[Internal page: 308]
 
-294                    SANSKRIT GRAMMAR.                    [ § 456
+308                    SANSKRIT GRAMMAR.                    [ § 498-502
 
-2. रिञ्च्याः   रिञ्च्यातम्  रिञ्च्यात    रिञ्चीथाः   रिञ्चीयाथाम्  रिञ्चीध्व
-3. रिञ्च्यात्  रिञ्च्याताम्  रिञ्च्युः    रिञ्चीत     रिञ्चीयाताम्  रिञ्चीर
+§ 498.  Roots ending in आ take ओ  instead  of  अ  in  the  1st and 3rd per. sing and drop their final  आ  before  vowel  weak terminations, and before such as  take the  augment  इ; as  ददौ. द्विव, द्विव 1st Per. ददौ; द्विव 2. Per. sing. of दा.
 
-Conjugate similarly विञ्च् P. A. ' to separate,' तञ्च् P. ' to contract ' and पृच् ' to touch.'
+§ 499.  Guṇa is substituted for the final vowel of roots ending  इ अ preceded  by  a  conjunct  consonant,  and  in  long  अ and of the roots अ. चच्छु  and  जाग्; as तस्तरिव 1 dual of स्यु, &c. इ, 1 dual of गा; विधविव 2 sing.  of विध्; रुरुव 1st dual of रु; सूषुप्व, शुश्रुविव 1 dual of सू, &c weak terminations. and shorten their vowel  when  they do not; as शासरिव, सासविव 1 dual of शु, &c.
 
-                   रुध् P. Â. ' to obstruct.'
+§ 500.  Monosyllabic  roots,  having  a  short  अ  for  their penultimate, change it to य and drop  the  reduplicaive  syllable before the weak  terminations  and  before  य  when  it  takes  इ, provided  their  initial  letter  undergoes  no  change  in  the reduplication, e. g   पत् 1st dual  पेतुव्+इव=पेत्+इव=पेतिव, पेरिव 2 sing. शोक्ष्व, शसक्ष्व 2. sing. of शक्, but निनेश्व  2nd  dual of नन्द् as the अ here is prosodially long,
 
-                          Present.
+Exceptions:—Roots  beginning  with  व  and  the  roots  शासु and ग्रस्.
 
-1. रुणध्मि     रुन्ध्वः    रुन्ध्मः      रुन्धे      रुन्ध्वहे      रुन्ध्महे
-2. रुणत्सि     रुन्द्धः*   रुन्द्ध       रुत्से      रुन्धाथे       रुन्ध्ढ्वे
-3. रुणद्धि     रुन्द्धः    रुन्धन्ति     रुन्द्धे    रुन्धाते       रुन्धते
+§ 501.  त is inserted after the  reduplicative  syllable  in  the case of  roots  beginning  with  अ  and  ending  in  a  conjunct consonant, in that of अह् ' to  pervade ' and  चच्छु ' to  go ' consequently त् after is  changed  to  आ; अञ्ज् अञ्ज्+अ=आत्+अ+अ=आनञ्ज, similarly आनन्द् 1 sing. of अन्द्, आनत्र of अत्र, &c.
 
-                          Imperfect.
-
-1. अरुणधम्    अरुन्ध्व   अरुन्ध्म      अरुन्धे    अरुन्ध्वहि     अरुन्ध्म
-2. अरुणत्-द्  अरुन्द्धम्  अरुन्द्ध      अरुन्द्धाः  अरुन्धाथाम्   अरुन्ढ्ढ्व
-   अरुणः
-3. अरुणत्-द् अरुन्द्धाम् अरुन्धन्     अरुन्द्ध   अरुन्धाताम्   अरुन्धत
-
-                          Imperative.
-
-1. रुणधानि    रुणधाव   रुणधाम       रुन्धै     रुणधावहै      रुणधामहै
-2. रुन्द्धि    रुन्द्धम्  रुन्द्ध       रुत्स्व    रुन्धाथाम्     रुन्ढ्ढ्व
-3. रुणद्धु    रुन्द्धाम् रुन्धन्तु    रुन्द्धाम् रुन्धाताम्    रुन्धताम्
-
-                          Potential.
-
-1. रुन्ध्याम्  रुन्ध्याव  रुन्ध्याम    रुन्धीय   रुन्धीवहि     रुन्धीमहि
-2. रुन्ध्याः  रुन्ध्यातम् रुन्ध्यात    रुन्धीथाः रुन्धीयाथाम्  रुन्धीध्व
-3. रुन्ध्यात् रुन्ध्याताम् रुन्ध्युः   रुन्धीत   रुन्धीयाताम्  रुन्धीरन्
-
-    * Or रुन्धः &c.; see note * p. 290.
+§ 502   The change of a  semi-vowel  to  its  corresponding vowel is called Samprasāraṇa.   Samprasāraṇa generally takes place before weak  terminations  in  the  case  of  the  following roots:—वद् वस् शप् वच् स्वप् वह् यज् वह् दै. वष्, ग्रध्, दो, स्यम् वप्, भच्, श्वन्च्, भञ्ज्, ग्रह्, सह् and स्यप् In  the  Perfect the roots पद्ध्यू, द्रक्षु and , मध्य form  an  exception.

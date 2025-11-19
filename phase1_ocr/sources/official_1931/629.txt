@@ -1,45 +1,43 @@
-[Internal page: 615]
+[Internal page: 629]
 
-                     DHĀTUKOŚA.                               53
+                     DHĀTUKOŚA.                               67
 
-तिक् 1 A. to go; तैकतै pre. तैकिता p. fut अतैकिष्टु aor.
+घच् 1 P. गतौ to go; घच्छुति pre. दुघन perf. अघचीत aor.
 
-तिक् 5 P. आक्रम्दुनै वधै च to attack; तिक्नोति pre तितिक perf.
-   तैक्ता p. fut. अतैक्षीत aor.
+घा 3 U. घ्रारणगोपवीदानै च to put, to grant, to produce, to
+   bear; दुघाति, घत्तै pre. दघौ & दघै perf. घाता p. fut. घास्युयति-तै
+   fut. अघास्युयत, अघोत् con. अघात्, अघेषीष्ट aor. घेयुयात्, घासीष्ट ben.
+   जिघ्रासति-तै des. Pass.—घीयुतै pre. अघायि aor. Cau.—घापयाति-तै
+   pre. अजीघपत-न aor. देग्युयुतै, घायाति, घायाति freq. घित p. p.
+   हित्वा, संघाय ger.
 
-तिग् 5 P. to attack, तिगोति pre. तितिग perf. तैगिता p. fut. अतैगीत
-   aor.
+घास् 1 U. पतिछुञ्जतै to rub, to wash, to cleanse; घासुति-तै pre.
+   दुघाव & दुघाव perf घासिता p. fut. घासिष्युयुति-तै fut. अघास्युयत-न
+   con. अघासीत & अघासिष्टु aor. घास्युयात्, घासिषीष्ट ben. दिघासति-
+   षति-तै des Cau.—घावयाति-तै pre अदीघसत-न aor. घास्युयुत p.
+   p. p. घासित्वा, घोस्त्वा, घुवाच्छु ger.
 
-तित् 5 P. हिंसाग्यां to hurt; तिंतोति pre. तितित perf. तैत्ता p. fut.
-   अतैत्सीत aor.
+घृ 6 P. धारणै to have, to hold; घृरुति pre. दिघाय perf. अघैषीत
+   aor. दिघृषति des.
 
-तिर् 1 A क्षमाग्यां च to endure, to suffer with courage; तिर्तुतै
-   pre तिर्तुराञ्चक्रै perf. तिर्तुक्षता p. fut. तिर्तुक्षिष्युयतै fut.
-   अतितिक्षिष्टु aor. तितिक्षिषीष्ट ben. तितितिक्षितुं des. Cau.—तितो-
-   युयति-तै (When it means to sharpen ( तितिक्षै ) तैत्सुयति-तै or
-   तैतिष्युयतै fut. अतैतिष्टु aor.
+घृष् 6 A. संदोपनक्षानर्जनेषु to birdle, to be fatigued, to live;
+   घृषुतै pre. दिघिषै perf. घृषिष्युयतै fut. अघृषिष्टु aor.
 
-तिज् 10 U. निशानै to whet; तेजयाति-तै pre. तेजयाञ्चुकार-चक्रै perf.
-   तेजयिता p. fut. अतीतैजत-न aor.
+घिन्व् 1 P. तोषनै to delight, to please; घिंतोति pre. दिपिन्व perf.
+   घिन्विता p. fut. अघिन्वीत aor. घिन्व्युयात् ben. घिन्वित p. p.
 
-तिप् 1 A. क्षरणै to drop down, to sprinkle, तैपतै pre, तितैपै perf.
-   तैपता p. fut तैप्स्युयतै fut. अतैप्स्युयत con. तिप्सीष्टु ben, अतैप aor.
+घिष् 3 P. to sound; दिघेषि pre. ( used in the Vedas ).
 
-तिश् 4 P. आद्रांभावै to be wet; तिष्युति pre. तितिश perf. तैशिता p. fut.
-   अतैशीत aor. तितिशिषति, तितितिशति des. तिशित p. p.
+घी 4 A. आधारै to hold; घीयुतै pre. दिघ्यै perf. घैष्टुं fut. अघेष्ट
+   aor. Cau.—घाययति-तै pre. अदीघयत-न aor. दिघीषतै des. घीन p.p.
 
-तिह् 1 P. गतौ to go; तैहुति pre. तितैह perf. तैहिता p. fut. अतैहीत
-   aor.
+घु 5 U. कम्पनै to shake to excite; घुनोति & घुनुतै pre. दुघाव, दुघुवै
+   perf. घोता p. fut. घोष्युयुति-तै fut. अघोष्युयत-न con. घुयुयात्, घुषीष्ट
+   ben. अघेषीत & अघोष्टु aor. घुष्युयुतै-तै des. घुत p. p.
 
-तिल् 6 P. & 10 U. to be oily or unctuous; तिलुति, तैलुयति-तै pre.
-   तितैल, तैलुयाञ्चुकार-चक्रै &c perf. तैलिता, तैलयिता p. fut.
-   अतैलीत, अतीतैलत-न aor.
+घुष् 1 A. संदीपनक्षानर्जनैषु to be kindled, to be weary, to live;
+   घुषुतै pre. दुघुषै perf. घुषिता p. fut. अघुषिष्टु aor. दुघुषिषत des.
+   घुषित p. p.
 
-तिह् 1 P. to go, तिहुति pre. अतिहीत Aor.
-
-तीक् 1 A. to go; तीकतै pre. तितीकै perf तीकिता p. fut. अतीकिष्टु aor.
-
-तीच् 4 P. कैचनै to be wet, तीच्युति pre, अतीचीत Aor.
-
-तीव् 1 P. स्थैलयै to be fat, तीवुति pre, तितीव perf. तीविता p. fut..
-   अतीवीत Aor
+घुर् 1 U. कम्पनै & 6 P. विष्पनै to shake; घुरुति-तै, घुरुति pre. दुघार,
+   दुधुरै ( दुधुविथु 2nd angular of 6 which is कुत्साद् ) perf.

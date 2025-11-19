@@ -1,30 +1,39 @@
-[Internal page: 51]
-83-84 ]                    DECLENSION                    51
+[Internal page: 70]
+70                    HIGHER SANSKRIT GRAMMAR.                    [ § 115-117
 
-        N.    क्रोढा        क्रोढरौ               क्रोढरः
-        V.    क्रोढः        ,,                    ,,
-        A.    क्रोढरम्      क्रोढर्यौ               क्रोढृन्
-        I.    क्रोढ्रा-क्रोढुणा ,,                क्रोढृभिः
-        D.    क्रोढ्रे-क्रोढुणे क्रोढृभ्याम्       क्रोढृभ्यः
-       Ab.    क्रोढुः-क्रोढुणः ,,                  ,,
-        G.    ,,           क्रोढ्रोः-क्रोढुणोः     क्रोढूणाम्
-        L.    क्रोढरि-क्रोढुणि ,,                क्रोढृषु
+It may be noted that a नपुंसकलिङ्ग ( neuter ) does not ordinarily
+exist for words in ष् bases.
 
-(a) क्रोढु becomes क्रोड in the fem. also ( by स्त्रियां ङ III. 1 96.) which with the fem. term. ई becomes क्रोढू declined like नदी.
+§ 116. Tabular representation of उषस् and कर्तास् ॥
 
-Obs —The word प्रियक्रोढु neu. is declined like मधु and optionally like क्रोढु mas. before the vowel terminations from the Inst. sing.; e.g D. sing प्रियक्रोढुने-धुने-प्रुने.
+Singular.                                        Singular.
 
-                    Words ending in ऋ and ल्.
+    ( उषस् )                                        ( कर्तास् )
 
-§ 84. There are no words ending in ऋ or ऌ; therefore imitative sounds of the roots कृ and तृ and शक्ष and शृ taken to show what the forms of such words will be, in need to use such words.
+    Nom.            उषः                            Nom.            कर्तास् or कर्ता
+    Acc.            उषम्                            Acc.            कर्तासम्
+    Ins.            उषसा                            Ins.            कर्तोसा or कर्तसा
+    Dat.            उषसे                            Dat.            कर्तोसे or कर्तसे
+    Abl.            उषसः                            Abl.            कर्तोसः or कर्तसः
+    Gen.            उषसः                            Gen.            कर्तोसः or कर्तसः
+    Loc.            उषसि                            Loc.            कर्तोसि or कर्तसि
 
-                    कृ m.
+Dual.                                            Dual.
 
-N. V.  कौ*, कुः       किरौ, क्रौ             किरः, क्रः
-  A.   किरम्, कूम्      ,,                    किरः, कूम्
-  I.   किरा, क्रा     कीभ्याम्, कृभ्याम्,      कीभिः; कृभिः
-  D.   किरे, क्रे      ,,                    कीभ्यः, कृभ्यः
- Ab.   किरः, कृः       ,,                     ,,
-  G.    ,,           किरोः, क्रोः             किराम्, कृ
-  L.   किरि, क्रि     ,,    ,,               किषु, कृषु
-       Decline तृ similarly.
+    Nom. and acc.    उषसौ                            Nom. and acc.    कर्तासौ
+    Ins., dat. and abl. उषोभ्याम्                    Ins., dat. and abl. कर्तोभ्याम् or कर्तभ्याम्
+    Gen. and loc.    उषसोः                            Gen. and loc.    कर्तोसोः or कर्तसोः
+
+Plural.                                            Plural.
+
+    Nom.            उषसः                            Nom.            कर्तासः
+    Acc.            उषसः                            Acc.            कर्तासः
+    Ins.            उषोभिः                            Ins.            कर्तोभिः or कर्तभिः
+    Dat. and abl.    उषोभ्यः                            Dat. and abl.    कर्तोभ्यः or कर्तभ्यः
+    Gen.            उषसाम्                            Gen.            कर्तसाम्
+    Loc.            उषःसु                            Loc.            कर्त:सु or कर्तस्सु
+
+                Bases ending in र् ॥
+
+§ 117. The nom. singular of a mas. bases ending in र्
+is formed by dropping that र्, along with the affix स्, their

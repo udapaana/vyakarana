@@ -1,41 +1,32 @@
-[Internal page: 249]
+[Internal page: 263]
 
-§ 395 ]              CONJUGATION OF VERBS.                     249
+§ 420-421 ]          CONJUGATION OF VERBS
 
-यम्* U. ' to conceal, to keep      अश् II P. ' to pervade.'
-       secret,' यदाति—ते.
-कट् ‡ P. ' to go,' कटयति.          तङ्ख् P. ' to pang,' तङ्खति, नः
-चस् † P. ' to spit,' चसति          कदं ' to reproach,' ' to reproach
-चष् with आ ' to sip,' आचष्यति           कदीयते.
-मात् ‡ and रूलम् A. ' to shin-;'    गम् P. ' to go,' गच्छति.
-       मातते, मायते, रूलाते, रूलायते.   पा § P, ' to drink,' पिबति.
-घट् P. ' to roam,' घटति, घमति,      घ्रा P. ' to smell,' जिघ्रति.
-       भाम्यति.                    धा P. ' to be killed.' धीयते
-काश् P, 'to walk,' कामति,कायति.     स्था P. ' to stand,' तिष्ठति.
-ठम् P. A. ' to desire,' छमति-ते,    मा P. ' to think,' मनति.
-       ठयति ते.                    दा P. ' to give.' यच्छति.
-नाय P. ' to lease,' नायोति.         हा P. ' to go,' यायाति.
-छुण् P. ' to kill, to hurt,' इच्छति. क् P. ' to go ' कच्छति.
+                          Paradigms.
 
-    * इतुम्भाष्य शीअ | Pāṇ. VI. 4. 89. The penultimate इ of
-lengthened in the Spec al Tenses and b. fore a strong termination
-beginning with a vowel
+                      या P. ' to go.'
 
-    † दिइकुन्म्य गिति । Pāṇ. VII. 3 75. आइ चय इति मक.गम
-These roots lengthen their vowel in the Sp-cıal Tenses
+         Present                        Imperfect.
 
-    ‡ या प्रातस्यालासह्रादकुम्यसिलित्रिखल्लकाः । Pāṇ  III. 1. 70. These
-take the य of the 4th class optionally in the Special Tenses.
+1. यामि      यावः     यामः            अयाम्     अयाव      अयाम
+2. यासि      याथः     याथ             अयाः     अयातम्    अयात
+3. याति      यातः     यान्ति           अयात्    अयाताम्   अयान्,
 
-    § विभिप्र इच्छोर च । अतो लोप: । Pāṇ. III. 1 87  VI  4 48  The
-तित्‌ and चुम् are substitute अ for their त and then the final त
-इ ( before which the अ is dropped). These are then conjugated
-like roots of the 6th class
+         Imperative.                    Potential.
 
-    || अष् and गधु when it means to make thin, belong to the
-class optionally,
+1. यानि      याव      याम             यायाम्    यायाव     यायाम
+2. याहि      यातम्    यात             यायाः    यायातम्   यायात
+3. यातु      याताम्   यान्तु           यायात्   यायाताम्  यायुः
 
-    ¶ इङ्गनाविभाया अः । ( इ च । see § 44 ) Pāṇ. VII. 3. 77
+    Conjugate similarly स्था P  ' to tell, ' दा P. ' to cut, ' पा P ' to protect,' धा P  'to fill,' त्ता P.  ' to eat,' क्षा P. ' to fly, मा P. ' to shine,' मा ' to measure, रा  ' to give,' ला  ' to give or  take,' ' to blow, ' भा ' to cook ' add हा ' to bathe '.
 
-    ᵝ यातायाख्यातसूच्यनुत्तानसात्तिनिदाचर्षसाः   पिबनिजग्भरायमवतथभयमधलि. Pāṇ. 4. 2. 74. ।
-संदेह । Pāṇ.   III. 1. 78.
+§  421.   In  order  to  exemplify  the  rules  given  under §§  416-418 we will give the forms  of the regular  verbs ई , जाग्र्, ईर्, चक्ष्, कुट्, दुह्, लिह् and  निज्ज्.
+
+                      वी P. ' to go '
+
+         Present.                        Imperfect.
+
+1. वेमि      वीवः     वीमः            अवयम्     अवीव      अवीम
+2. वेषि      वीयः     वीथ             अवेः     अवीतम्    अवीत
+3. वेति      वीतः     वियन्ति          अवेत्    अवीताम्   अवियन्(or अ
+                                                        according to some

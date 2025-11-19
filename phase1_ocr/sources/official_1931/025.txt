@@ -1,23 +1,14 @@
-[Internal page: 7]
-§9-10]                        THE ALPHABET.                       7
+[Internal page: 25]
+§36-38]                      RULES OF SANDHI,                    25
 
-This can be more easily remembered from its Sanskrit form which is as follows:—
+when followed by a consonant; e.g. हरिष्+वन्दे=हरिं वन्दे I salute Hari. But गय्+य+ते=गम्यते as य् is not at the end of a word. The word सप्राद् is an exception (see Pân. VIII. 3. 25)
 
-अकुहविसर्जनीयां कण्ठः।                    ।: कण्ठतालु।
-इचुयशानां तालु।                          ओदौतौः कण्ठौष्ठम्।
-ऋटुरषाणां मूर्धा।                         वकारस्य दन्तौष्ठम्।
-ऌतुलसानां दन्ताः।                        जिह्वामूलीयस्य जिह्वामूलम्।
-उपूपध्मानीयानां ओष्ठौ।                    नासिकाऽऽऽनुस्वारस्य
-नमङणनां नासिका च।
+(a) य and न, not at the end of a pada, are turned into an Anusvâra when followed by a consonant except a nasal or a semivowel or ह; आक्रम्+स्यते=आक्रंस्यते he will overcome; यशांस्+सि=यशांसि (nom. pl. of यशस् fame); but मन्यते he thinks, as न is followed here by य which is a semi-vowel; ग्रामान्+गच्छति=ग्रामान्स्च्छति as न is at the end of a pada (grammatical form).
 
-The linguals are called cerebrals in some European Grammars. ए and ऐ are both guttural and palatal; ओ and औ are guttural and labial; व is dental and labial. The nose is the organ of pronunciation of the Anusvâra, while the root of the tongue is that of the Jihvâmûliya.
+(b) This change is optional in the case of न् when ह followed by य comes after it; e.g. किं+झलयति=किंझलयति and किन्ह्मलयति what does he shake?; but if this ह be followed by य्, and if by य् झ, ठ, the nasalised य्, व्, ल्, are optionally substituted for य्: e.g. कि+द्वोते=किंद्वोते or किंद्वोते what does he conceal? किं+ह्यः:=किंह्यः and किंह्यः what! yesterday! so किंह्मलयति, किंह्मलयति; किल्लादयति and किल्लैलादयति; but अहन्+आगतः:=अहमागतः।
 
-§9. Those letters are called सवर्ण or homogeneous whose place of pronunciation is the month and the effort required to pronounce them is the same or equal.* Letters which are not सवर्ण or similar are called असवर्ण or heterogeneous.
+§37. An Anusvâra followed by any consonant except म्, य्, व् or ह is changed to the nasal of the class to which the following letter belongs, necessarily when in the middle, and optionally when at the end of a word*; e.g. अनुक्+इतः:=अं+क्+इतः (by the preceding rule and then) अङ्क्तः marked (by this); so अनुच्+द्वतः:=अंचितः honoured; कृपितं obstructed; ज्ञान्तः calmed; ग्रप्फेतः woven; त्वम्+ करोषि=त्वं करोषि or त्वङ्करोषि thou doest; similarly संयन्ता or सयंन्ता a restrainer; संवर्षरः or संवत्सरः a year; यं लोकय् or यल्लोकम् to which people.
 
-§10. A svara or vowel is that which can be pronounced without the help of any other letter; a vyañjana or consonant is that which is pronounced with the help of a vowel. The consonants, therefore, are written with a slanting nether stroke to denote their imperfect character.
+§38. If ङ and ण be followed by a sibilant, ङ and ट respectively are suffixed to them optionally; and hard unaspirates are optionally changed into hard aspirates when followed by a
 
-(a) Hence the consonants are given, in the system of Pânini, with an अ added to them for the sake of pronunciation.
-
-(b) As already remarked, there are no separate names for
-
-* तुल्यास्यप्रयत्नं सवर्णम्। Pân. I. 1. 9.
+* अनुस्वारस्य यषि परसवर्णः। वा पदान्तस्य Pân. VIII. 4. 48-52.

@@ -1,37 +1,35 @@
-[Internal page: 44]
-44                        SANSKRIT GRAMMAR.                    [ § 77
+[Internal page: 63]
+§ 108-109 ]                    DECLENSION.                    63
 
-  I.   धिया     धीभ्याम्  धीभिः       I.  भुवा    भूभ्याम्   भूभिः
-  D.   धियेऽनै   ,,      धीभ्यः       D.  भुवेऽनै   ,,       भूभ्यः
- Ab.   धियःऽयाः  ,,        ,,        Ab.  भुवःऽवाः  ,,         ,,
-  G.    ,,  ,,   धियोः { धियाम्       G.   ,,  ,,  भुवोः  { भुवाम्
-                       { धीनाम्                              { भूनाम्
-  L.   धियिऽयाम् ,,      धीषु        L.  भुविऽवाम् ,,       भूषु
+वृद्ध or वृद्धः and योवत् or यौवनः ॥ It will be seen that bases, both
+ending in अन्त् and अवत्, will form a double-accusative plural, viz.
+भगवन्तः and भगवतः, and so also विद्वन्तः and विद्वतः ॥
 
-Decline similarly हा, भा, डुभा,    Decline similarly स्, च, सु
-रुवी, गुन्दुधी, दुर्धी, भीं, ङ्र्मिकर्मी, &c. श्, सुभ् &c.
+§ 109. Tabular representation of the declension of भगवत् ॥
 
-                    प्रधी mas. ( भकुहा ष्यायाति. )
+                MASCULINE.
 
-N. V.  प्रधीः         प्रध्या              प्रध्यः
-  A.   प्रध्यम्         प्रध्यौ              प्रध्यः
-  I.   प्रध्या         प्रधीभ्याम्           प्रधीभिः
-  D.   प्रध्ये           ,,                प्रधीभ्यः
- Ab.   प्रध्यः           ,,                   ,,
-  G.    ,,            प्रध्योः             प्रध्याम्
-  L.   प्रधिक्षि         ,.                प्रधीषु
+Singular :—
+    Nom.    भगवान्            Voc.    भगवन्
+    Acc.    भगवन्तम्
+    Ins.    भगवता            Dat.    भगवते
+    Abl.    भगवतः
+    Gen.    भगवतः            Loc.    भगवति
 
-Decline similarly बेगी ( चेगं इच्छति ), जलगी, डूती, मामगी, सेनानी
-&c. mas. and fem ; the Loc. sing. of nouns ending in नी
-made up by adding आम्* e. g. उरुगाम्, भाधणाम्, सेनान्याम्, &c.
+Dual :—
+    Nom. voc. and acc.    भगवन्तौ
+    Instr. dat. and abl.    भगवद्भ्याम्
+    Gen. and loc.        भगवतोः
 
-                    खलुप् mas. ( खलं पुनाति. )
+Plural :—
+    Nom. and voc.    भगवन्तः or भगवन्तस्    Acc.    भगवन्तः or भगवतः
+    Instr.        भगवद्भिः        Dat. and abl.    भगवद्भ्यः
+    Gen.        भगवताम्        Loc.    भगवत्सु or भगवदसु
 
-N. V.   खलुप्ः         खलुप्यौ             खलुप्यः
-  A.    खलुप्यम्          ,,                   ,,
-  I.    खलुप्वा        खलुपूभ्याम्          खलुपूभिः
-  D.    खलुप्वे           ,,                खलुपूभ्यः
- Ab.    खलुप्वः          ,,                   ,,
-  G.     ,,            खलुप्वोः            खलुप्वाम्
+                NEUTER.
 
-* See * on page 45
+Singular.
+
+    Nom., voc., and acc.    भगवत्        Ins.    भगवता
+    Dat.                भगवते        Abl.    भगवतः
+    Gen.                भगवतः        Loc.    भगवति

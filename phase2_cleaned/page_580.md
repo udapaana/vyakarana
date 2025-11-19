@@ -1,0 +1,50 @@
+---
+page_number: 580
+internal_page: 580
+chapter: "Appendix II - Dhātukośa"
+section: "dhātukośa"
+rules_starting: []
+rules_continuing: []
+has_footnotes: false
+---
+
+किद् 1 P. संशुयै रोपागमनै च to suspect, to cure; चिकित्साति pre.
+   -चिकित्साचकार &c. perf. चिकित्सिता p. fut. चिकित्सिष्युयति fut.
+   अचिकित्सिष्युयत् con. अचिकित्सीत् aor Pass.-चिकित्स्युतै pre. Cau.
+   -चिकित्सयति-तै pre. चिकित्सितिषति des. ( Also A. चिकित्सतै pre.
+   अचिकित्सिष्टु aor. )
+
+किन् 1 P इच्छुायां to desire, to live; कित्ति pre, चिकैत perf. अकैतीत्
+   aor.
+
+किन् 10 P. निवासै to dwell; कैतयति pre. कैतयिष्युयति fut. अचीकित्त
+   aor.
+
+किर् 1 P. ऋवैतकौडलगतौ: to become white, to sport; किरति pre.
+   चिकैर perf. कैरिता p fut, कैरिष्युयति fut. अकैरिष्युयत् con. अकै-
+   रीत aor.
+
+कीर्द् 1 P. हिंसायाम to bind; कीर्दति pre, चिकीर्द perf. कीर्दिता p. fut.
+   अकीर्दीत aor. चिकीर्दिषति des.
+
+कु 1 A. शब्दै to sound; कवतै pre. चुकवै perf. कोता p fut. कोष्युयतै
+   fut. अकोष्युयत् con. अकोष्टु aor.
+
+कु 2 P. to sound; कौति pre. चुकाव ( चुकविष, चुकोष 2nd sing )
+   perf. कोता p. fut. कोष्युयति fut. अकोष्युयत् con. अकोषीत् aor.
+   चोकूयतै Freq.
+
+कु 6 A शब्दै ( शातंस्वरै ) to sound. to moan; कुवतै pre. चुकुवै perf.
+   कुता p. fut. अकुत aor. कोकूयतै freq.
+
+कुज् 1 P. शब्दै तर्कै संयनकौडिट्युयतिषट्युमतिदष्युढैषु च to sound
+   loudly, to come in contact, to be crooked &c.; कोजति pre.
+   चुकोज perf. कोजिता p. fut. कोजिष्युयति fut. अकोजिष्युयत् con.
+   अकोजीत aor.
+
+कुज् 6 P. संकोचनै ( कुत्सुति ) to contract; कुजति pre. चुकोज ( चुकु-
+   जिष 2nd sing. ) perf. अकुजीत aor. चिकुजिषति des.
+
+कुट् 6 P. to curve, to bend; कुटति pre, चुकोट ( चुकुटिष 2nd sing )
+   perf. कुटिता p. fut. कुटिष्युयति fut. अकुटिष्युयत् con. अकुटीत aor.
+   Cau.-कोटयति-तै pre. कुटित p. p.

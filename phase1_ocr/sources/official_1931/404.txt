@@ -1,42 +1,42 @@
-[Internal page: 390]
+[Internal page: 404]
 
-392                  SANSKRIT GRAMMAR.                   [ § 639-642
+406                  SANSKRIT GRAMMAR.                   [ § 664
 
-शी to lie down        षाध्यते              शेशयीति or शेशेति
-श्वि to swell         श्वेश्वयते or शोश्वयते  शेश्वयीति or शेश्वेति
-सद् to obtain         संसद्यते or सासायते   संसदीति or संसदति
-द्रु to injure        जेवीयते              जद्वनीति or जद्वनि
-   in other cases     जद्रुष्यते or जद्रुष्यते
+Atm. उत्तपते or विततपे सूर्य: when used transitively it is Atm.
+If it has a limb of the body of the agent for its object; इत्तपते
+or विततपे पान्नि ' he warms his hands. but सूर्य: सुवर्णासारु
+or सुवर्णङ् सूर्यं  he warms his hand,  but स्वर्य: सुवर्णाङ्गतपति: when  it means
+'to practise penance' it is Atm. and  is conjugated like a root
+of the fourth class.
 
+According to some दृप् with अनु is Atm; अनुतपते 'repents,'
 
-                        IV. NOMINAL VERBS.
+दा—*'to give ' ( 3 cl. ) by itself takes either pada;  but when-
+preceded by आ it is Atm. in any other sense than opening ( the
+mouth, &c. ); पदं आदत्ते  'accepts money;'  विद्या आदत्ते  'acquires
+knowledge;' नादते भवता रुद्वेऽ या पहुट्व  ( Sāk. ) ' does not pluck
+your foliage through devotion;' but गात्रं आदान: स्यायाति  'opens
+mouth ; ' द्वीत्वोकं सातेति शुद : ' the doctor opens the tumour on
+the root;' नदीद्वुरं स्यादद्वाति  ' breaks open the bank of a river;'
+but if the mouth belongs to another the exception is removed;
+स्यादद्वते पत्रकुस्य मुखं पिपीलिका: 'ants break open the mouth of a
+moth' ( Mah. Bha. ).
 
-§ 649.  Verbs are formed from nominal bases by means of
-certain affixes  These are not very much in common use and are
-generally used in the Present Tense.  They have various mean-
-ings.  They sometimes convey the notion of performing, practis-
-ing, or using,  or treating like the thing or quality expressed
-by the noun and are used transitively ; sometimes they express
-the idea of acting, behaving or becoming like the person or
-thing expressed by the noun ; and at others they yield the sense
-of wishing or wishing for the thing expressed by the noun.
-These will be arranged here under four heads,  according to the
-affixes by which they are derived.
+दा†—'to give' ( I cl. ) when preceded by  the preposition  सत्य
+simply or coupled with any other  preposition  takes the Atm.
+provided it is used with the Instrumental in the sense of the
+Dative; दासरा सुनुस्यत्ते or संपदस्यत्ते ' gives ( something ) to the
+maid-servant,'  but दासरा धन संपदस्यदति विद्यां ' gives  wealth to a.
+Brāhman through the maid-servant '
 
-       ( a ) By means of the affix य ( क्यच् ) and
-                  Conjugated in Parasm.
+दृश्‡—'to see preceded by उप and used intransitively takes the
+Atm.; स्वर्गं ङेति इति-क वेद्य ; ' this root takes the Atm. in
+the Desiderative; दिदृक्षते 'wishes to see.'
 
-§ 641.  When the sense of 'wish' is to expressed,  a nominal
-verb may be derived from any Subanta or nominal stem by affix-
-ing य to it   The derivative verbal base derived in this manner
-is conjugated in the Parasm. only.
+हृ—'to run' is Par, in the Cau,
 
-§ 642.  Before this य,
+नह्—with सत्य is Atm. in the sense of 'preparing, being ready
 
-( 1 ) final अ and आ are changed to ई; पुत्र आत्मज: इच्छति—पुत्रीय-
-ति ( पुत्र+य=पुत्री+य+ति ) 'he wishes for a son.'
-
-( 2 ) final इ and उ are lengthened ; कवि-कवीयति  ' he wishes
-for a poet.'
-
-( 3 ) final ऋ is changed to री; कवृ-कवीयति.
+_________________________________________________
+* आद्ये देऽनास्स्याविवोपे । Pāṇ.  1.  3,  20.  आस्यमूण्णाविद्यत्तिद्य
+Sid. Kau. परादुकमुकाय निर्वेय: । Vārt.

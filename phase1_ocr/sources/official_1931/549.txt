@@ -1,45 +1,40 @@
-[Internal page: 535]
+[Internal page: 549]
 
-§ 1–5 ]                APPENDIX.
+                     PROSODY.                                 15
 
-PROSODY. *
+                     ( 3 ) लीलाखेलः ।
 
-§ 1. ‡ Poetical composition in Sanskrit may be in the
-form of 'युयु' prose, or 'युयू' verse or metrical composition.
+           Def. एकन्युनो विद्युन्मालापादो चैल्लौलाखेलः ।
+           Sch.of G. म, म, म, म, म.
 
-§ 2. Prosody treats of the laws of versification or metri-
-cal composition. Sanskrit verse is regulated by quantity, not
-by accent.
+Ex. पायाद्वो गोविन्दं: कालिन्दोकुल्युद्रोगैणोचक्रे
+    रासोक्राङ्कसोड्दुगोभि: साधुं लीलाखेलं ।
+    मन्दाकिन्यास्तोरीपान्ते स्वैरक्रोडाभिलं:लौ
+    यद्वुद्वतानाभोश: स्वैवैद्युयांभिः ब्ललन्तोर्भि: ॥
 
-§ 3. A युयू or stanza consists of four lines each called a
-pāda or quarter. A pāda is regulated either by the number of
-syllables (अक्षुरु) or by the number of syllabic instants (युयूत्रुयू).
+                   ( 4 ) शशिकला ( 7. 8 )
 
-(a) A syllable is as much of a word as can be uttered
-distinctly by one effort of the voice †. e. a single vowel with
-or without one or more consonants.
+           Def. उरुनिधनमधुलधुरिहं शिशिकला ।
+           Sch. of G. न, न, न, न, स.
 
-(b) A mātrā (युयूत्रुयू) is the measure of time required to
-pronounce a short vowel.
+Ex. सल्युजतिल्युकसमुदितराशिकला त्रञ्चयुवातिस्वसदिल्युकभगगन
+    सरसिजनयनहृदयसलिलनैधिं व्यतनुत वित्तररभसपरितरल
 
-§ 4. A syllable is छुयु 'light,' or युयू 'heavy' according as
-its vowel is short or long.
+ame is called लग्नु when the cæsura is at 6th
+e, and यणिग्युणिदकर when it is at : the 8th and
+is in
 
-(a) The vowels अ, इ, दु, कु and लु are short; and the
-vowels आ, ई, ऊ, कू, ए, ओ, औ, and औ are long. ‡ When a short
-vowel is followed by an anusvāra or Visarga or by a conjunct
-consonant, it is converted into what is called 'a prosodially
-long vowel;' as युयू, अच्छुयु, &c.
+    ग्रायै सहचरै रुचिरतरुणमर्यां म्रादैवसातिरनपरातपरिमर्द
+    हागिव निवस विल्युसद्वुमुपमरत्सा डुमुखि सुदितरदुजदल्न्द्धु
+    नरकारपुरवतु निखिलधुरगीतरमितमहिमभरषेहजॉनैवसाति:
+    अनवधिमर्णिणुणीनकरपरिचित: सरिदधिपतिरिव धृततधुविक
 
-§ 5. The last syllable of a pāda is either heavy or light
-according as the exigence of the metre requires it, whatever be
+       Metres with sixteen syllables in a quarter.
 
-* The earliest writer on Prosody is Pingalāchārya His word
-is known as "The Pingalachhandas-śāstra." It is written in
-Sūtras and is divided into eight books. The Agni Purāṇa also
-deals with the subject very fully. The present chapter, however,
-is chiefly based on the Vṛittaratnākāra and Chandomanjari.
+                 अत्रि: ( षोड्शाक्षरा वृत्ति: )
+                 (1) चित्रम् ( 8. 8. or 4. 4. 4. 4. )
 
-† कुयूयूयुनुयुयूयुनै च युयूयूनै च तद्युदुशुयूच्युयु च्युयुयुस्युरुयूनुयूयु । Dandin Kāv. Pr. I.
+           Def. त्रिच्चसंड्गमौरितं समानिकापदद्यं दु ।
 
-‡ सुयूदुच्युयूयूयु दोरोयुयूनै निरुयूयूर्णों च दुयूत्युनैदुदुयु ।
+idas of Samānikā make one Pāda of Chitra.
+           Sch. of G. र, ज, र, ज, र, ग.

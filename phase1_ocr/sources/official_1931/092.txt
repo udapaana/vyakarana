@@ -1,37 +1,39 @@
-[Internal page: 72]
-72                    HIGHER SANSKRIT GRAMMAR.                    [ § 118-119
+[Internal page: 92]
+92
 
-Dual.
+SANSKRIT GRAMMAR.
+                                                        [ § 135
+Notes:—The visarga of सः and एषः is dropped when followed
+by any letter except स् in which case the usual Sandhi takes
+place; स गच्छुह, एष आगतः; but एकोऽअश्वकर् &c. Vide § 50.
 
-    Nom., voc., and acc.    पितरौ        Instr., dat., and abl.    पितृभ्याम्
-    Gen. and loc.        पित्रोः
+                    इदम् mas.
+N.  अयम्            इमौ            इमे
+A.  इमम्-एनम्        इमौ-एनौ        इमान्-एनान्
+I.  अनेन-एनेन        आभ्याम्         एभिः
+D.  अस्मै           ,,             एभ्यः
+Ab. अस्मात्          ,,             एभ्यः
+G.  अस्य            ,,             एषाम्
+L.  अस्मिन्          अनयोः-एनयोः     एषाम्
+                                    एषु
+                    Fem.
+N.  इयम्            इमे             इमाः
+A.  इमाम्-एनाम्      इमे-एने         इमा-
+I.  अनया-एनया       आभ्याम्          आभिः
+D.  अस्यै           ,,              आभ्यः
+Ab. अस्याः          ,,              आभ्यः
+G.  ,,              अनयोः-एनयोः     आसाम्
+L.  अस्याम्          ,,              आसु
+                                    Neu.
+N.  इदम्            इमे             इमानि
+A.  इदम्-एनत्       इमे-एने         इमानि-एनानि
+The rest like the mas.
 
-Plural.
-
-    Nom. and voc.        पितरः        Acc.        पितृन्
-    Instr.            पितृभिः        Dat. and abl.    पितृभ्यः
-    Gen.            पितॄणाम्        Loc.        पितृषु or पितृसु
-
-§ 119. ( a ) In the nom. sing. of the fem. bases ending in
-ऋ the substitution of सवर्णदीर्घ is optional, so स्वसृ makes स्वसा or
-स्वसृ; and in the acc., nom., voc., and acc. dual र् is changed to
-anusvāra regularly, and we get स्वसारम्, स्वसारौ; मातरम्, मातरौ &c.
-So also before the case-termination of the gen. and loc. dual र्
-is changed to anusvāra, and we get पित्रोः, मात्रोः, स्वस्रोः ॥
-
-( b ) Bases ending in तृ or नृ, like कर्तृ ( doer ) नेतृ
-( leader ), नृ ( man ) make the nom. voc. and acc. dual कर्तारौ,
-नेतारौ, नरौ ॥ So also the fem. forms will be कर्त्री ( optionally
-कर्तृ in nom. sing ), कर्तारम् and कर्तारौ; नेत्री, नेतारम्, नेतारौ; नारी,
-नारम्, and नारौ. It may be noted that only such noun-bases ending
-in तृ as are derived from roots by the affix अल, can also add
-ङीष् ( fem. affix ) to the crude base before case-affixes ( वा० III.
-2. 7 ; Pan. IV. 1. 6 ), when we get the fem. bases कर्त्री and
-नेत्री which are then, like any other ई-ending base, declined
-regularly. Similarly the fem. of नृ is नारी ( नृ + ङीष् = नारी )
-which is also declined regularly. So also देवृ has the fem.
-नारी, which may optionally be made देवरी ( from the बहुव्रीहि
-प्रातिपदिक देवर ). The fem. of पितृ is formed by adding the affix
-टाप् to the crude base, which gives us पितरी which is in general
-use in the सं० ( पितर्, पितरम्, पितरौ &c. ). Such bases have
-no form in ई ॥
+                    अदस् mas.
+N.  असौ            अमू             अमी
+A.  अमुम्           ,,              अमून्
+I.  अमुना          अमूभ्याम्        अमूभिः
+D.  अमुष्मै         ,,              अमीभ्यः
+Ab. अमुष्मात्        ,,              अमीभ्यः
+G.  अमुष्य          अमुयोः          अमीषाम्
+L.  अमुष्मिन्        ,,              अमीषु

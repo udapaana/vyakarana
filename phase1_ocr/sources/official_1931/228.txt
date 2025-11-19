@@ -1,23 +1,41 @@
-[Internal page: 214]
+[Internal page: 228]
 
-SANSKRIT GRAMMAR.                                        [ § 343.
+228                    SANSKRIT GRAMMAR.                [ § 369-372
 
-SECTION III.
+( 2 ) नमः, प्राडु, निष्या, वहो, साक्षात् and some other words may
+e optionally prefixed to छ or remain separate; नमस्कारः, वहोछ
+r वहो छ 'to bring urder subjection,' साक्षाद् छ or साक्षाछ 'to·
+nake manifest,' &c.
 
-AFFIXES FORMING ADVERBS.
+( c ) अन्तर् is prefixed to roots meaning 'to go,' धा, भू, and
+imilar roots;  अन्तरित्य ' having disappeared,' अन्तर्धानं ' dis-
+ppearance,' अन्तर्भूत, &c.
 
-अक ( अकच्‌ )—is inserted before the final vowel of indeclinables without any change of meaning ; उच्चैः-उच्चकैः; नीचैः-नीचकैः:
+( d ) अस्तम् is prefixed to roots implying motion; अस्तमयः
+        'setting,' अस्तंगत 'set,' अस्तंनी 'to cause to set, to lead
+        to destruction,' &c.
 
-एन—is added to nouns indicating ' a direction ' in the sense of ' not far from '; पूर्वेणा ग्रामं ' to the east of the village not far from it '; अपरेण ग्रामं, &c.
+( e ) आवि:, and प्राडु: are prefixed to कृ, अस् and भू and तिरस्
+        to भू, धा and similar roots, and optionally to छ,
+        आविष्करणं,  आविर्भवतं 'manifestation,' प्राडुर्—आविर्भूत
+        'manifested,' &c.; तिरोभुय 'vanishing out of sight,'
+        तिरोधानं 'disappearance,' &c
 
-तस्‌ ( तसि )—has the sense of the Ablative; आदितः ' from the beginning,' मध्यतः, स्वरतः, वर्णतः &c.; sometimes this is added in the sense of the Gen ; as देवा अञ्जुनतोभवन्‌ ' the gods declared themselves on the side of Arjuna '; ( तसिद्‌)-परितः ' on all sides '; अभितः ' on both sides '.
+( f ) पुरः is prefixed to छ, म् , गम् &c.; पुरस्कृत 'placed before,
+        headed by, पुरोगत 'gone in the front,' &c.
 
-ना—विना ' without ', नाना ' in various ways ', &c.
+§ 370.    Several nouns, substantive and adjective, may be·
+        prefixed to tho roots छ, भू , and  अस् to form what are
+        called in Sanskṛt ' chvi-derivatives' ( vide chap. IX.
+        See. III. ) कृष्णीकरणम् = कृष्णीकरणम् :, धन = भूत = धनीभूतः.
+        Such nouns are also termed 'Gati '
 
-वत्‌—* is affixed in the sense of ' equally with ' or ' like to ' when the equality or likeness refers to an action ; व्राह्मणेणा तुल्यं ब्राह्मणवदुधोते; but पुत्रेण तुल्यः रथुलः and not पुत्रववद् रथुलः; similarly क्षत्रियवद्‌; or (2) ' as in the case of that मयूरायामिव मयूरावद्‌ लत्रे प्राकारः; चैत्रस्य इव चैत्रवद्‌ ( मैत्रस्य गावः ); (3) विधिमङ्गोति विधिवद्‌ पुज्यते.
+§ 371    Like prepositions may be further used the words to·
+        which the Taddhita affix सात् is affixed, अग्निसाछ 'to
+        consign to flames;' भस्मसाह्नत· 'reduced to ashes,' राज—
+        साह्नता 'made over to the king.' &c. ( vide p. 216, )
 
-इशद्‌-अल्पेश्रः ' little by little '; बहुशः &c.
+                        II. Adverbs.
 
-स्मिन्‌-is added to nouns or indeclinables to express that a person or thing, not being like what is denoted by the base to which it is added, becomes or is made like it.
-
-* तेन तुल्यं क्रिया चैद्यातिः । तत्र तस्येव । तदहुयम् । Pān. V. 1, 115-117. कुम्बसतिगोगौ संयक्करोति स्स्विन्‌ । Pān. V. 4. 50. अभूततद्भावः इति वक्तव्यम् । Vārt.
+§ 372.    Adverbs are either primitive or derived from nouns,
+pronouns or numerals.  As adverbs may also be further used the

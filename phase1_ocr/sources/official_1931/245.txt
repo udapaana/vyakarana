@@ -1,36 +1,35 @@
-[Internal page: 231]
+[Internal page: 245]
 
-§ 373 ]                    INDECLINABLES.                         231
+§ 393 ]              CONJUGATION OF VERBS.                     245
 
-ऋते without, except.                । किञ्च who, what, which ?;
-एकत्र together, in one place.       । किद्धूत How much more?
-एकदा once, once upon a time.        । किइह What, how ?
-एकथा in one way, singly, at the । किन्वा Or.
-    same time                        किन्विद् Whether, how.
-एकपदे all at once, suddenly.        किल Verily, indeed, assuredly.
-एतर्हि Now, at present              किम् What then,  how much
-एवं Just, quite.                         more, &c.
-एवम् Thus, so.                       इतस् Whence, from where?
-ओम् So be it.                        कुत्र Where, in which place?
-काचित्  }                            कुत्राचित् Somewhere, anywhere.
-       I trust, hope, &c.
-कञ्चन                                कुविद् Much.
-कथम् How, in what way.              कुषत् In the best manner.
-कथञ्चन } With great difficulty,     हृपत In a good manner.
-कथाश्चिद् } With great effort.      छत्तम् Enough, no more of.
-कथञ्चाम् How indeed, how possi-     केचलम् only, merely, simply.
-    bly.                             क Whither, where ?
-कदा When, at what time..            कचित् In some place.
-कदाचित् One time, once upon a       न कचित् Nowhere.
-    time.                            खलु Certainly, surely, indeed.
-न कदाचित् Never.                    चिरम् A long time. The singular
-कम् used as an enclitic.                 of any of the oblique cases
-कर्हि When, at what time?                of this word may be used
-कर्हिचित् At any time                    adverbially in the sense of
-किकोल What a pity.                       'long,' 'for a long time,' as
-किञ्च Moreover, further, again.          चिरेण, चिराय, &c.
-किञ्चन  } To a certain degree,      चिररात्राय For a period of many
-किश्चित् } little, somewhat.             nights, long.
-किन्तु  But, yet,  nevertheless,    जातु Perhaps, sometimes.
-    however.                         जोषम् Silently.
-किन्नु What indeed, whether.
+                          Potential.
+
+      स्मृ P. ' to remember.'            मुद् Â ' to rejoice.'
+
+1. स्मरेयम्    स्मरेव     स्मरेम       मोदेय     मोदेवहि      मोदेमहि
+2. स्मरेः     स्मरेतम्    स्मरेत       मोदेथाः   मोदेयाथाम्   मोदेध्वम्
+3. स्मरेत्    स्मरेताम्   स्मरेयुः     मोदेत     मोदेयाताम्   मोदेरन्
+
+                          4th Class.
+
+      तुष् P. ' to be pleased.'            युध् A ' to fight'
+
+                          Present.
+
+1. तुष्यामि    तुष्यावः    तुष्यामः      युध्ये     युध्यावहे     युध्यामहे
+2. तुष्यसि    तुष्यथः    तुष्यथ       युध्यसे    युध्येथे      युध्यध्वे
+3. तुष्यति    तुष्यतः    तुष्यन्ति     युध्यते    युध्येते      युध्यन्ते
+
+                          Imperfect.
+
+1. अतुष्यम्   अतुष्याव   अतुष्याम     अयुध्ये    अयुध्यावहि   अयुध्यामहि
+2. अतुष्यः   अतुष्यतम्  अतुष्यत      अयुध्यथाः अयुध्येथाम्  अयुध्यध्वम्
+3. अतुष्यत्  अतुष्यताम् अतुष्यन्     अयुध्यत   अयुध्येताम्  अयुध्यन्त
+
+                          Imperative.
+
+1. तुष्याणि   तुष्याव    तुष्याम      युध्यै     युध्यावहै    युध्यामहै
+2. तुष्य*    तुष्यतम्   तुष्यत       युध्यस्व   युध्येथाम्   तुष्यध्वम्
+3. तुष्यतु*  तुष्यन्ताम् तुष्यन्तु    युध्यताम्  युध्येताम्   युष्यन्ताम्
+
+    * Hereafter the optional form in तात् will not be given a the student can easily form them by adding तात् to the base if he has to express the sense of the Benedictive.

@@ -1,43 +1,46 @@
-[Internal page: 372]
+[Internal page: 386]
 
-372                    SANSKRIT GRAMMAR.                     [ § 611-612
+386                  SANSKRIT GRAMMAR.                   [ § 638-640
 
-the Parasmaipadā, the Ātmanepadā and the  Passive.  The अय्
-with the final अ dropped is retained,  as remarked before, in
-the General Tenses, except the Aorist and the Benedictive, and
-is dropped before  the य of the Passive.  The formation of the
-Aorist of causals has been fully explained along with that of the
-roots of the Tenth class,  at § 548-556.
+is conjugated like a root of the second class, and in the General
+Tenses, it is conjugated like a primitive root, Atm. base taking,
+however, Atm. terminations. ( see § 485, 486 )
 
-§ 612.  Paradigms of all the Tenses and Moods in the Par.
-Ātm.  and Pass. of युर्, Causal base बोघय्.
+§ 638.  As the Parasm. Freq. base is used both in the sense
+of frequency and of intensity, it has been said to denote the
+former in the strong cases and the latter in the weak; i.e.
+जोहूति, जोहवीति 'to invoke frequently'; जुहुती 'to invoke
+repeatedly'. It is, however, not easy to make such a distinction
+with regard to the other roots.
 
-                     Special Tenses.
+§ 639.  Paradigms:—The Third persons of the Parasmaipada
+Frequentative of चृ ' to do,' पृच् ' to fill,' and कृष् ' to draw
+furrows.' All those tenses of this Intensive in which the weak
+form of the base is used ( vide §§ 485, 486 ) substitute पचृ for
+चृ 'to do'; दृष् 'to fill up,' and कृषृ 'to draw furrows' respect-
+ively. If in any weak form of an Intensive the root has a final
+consonant, र् is inserted between the Guna of the root and the
+termination ( see § 640 )
 
-                        Present.
+Special Tenses.
 
-           Par.                               Âtm.
+Conjugation in Parasmaipada and Ātmanepada.
 
-1 बोधयामि    बोधयावः     बोधयामः   1 बोधये     बोधयावहे    बोधयामहे
-2 बोधयसि    बोधयथः     बोधयथ     2 बोधयसे    बोधयेथे     बोधयध्वे
-3 बोधयति    बोधयतः     बोधयन्ति   3 बोधयते    बोधयेते     बोधयन्ते
+       PAR.                                        ĀTM.
 
-                        Imperfect.
+Present.
+चेकृ, चेकृत:, चेकृत: । पेपृच्, पेपृचत:, पेपृचत: । कर्षु, कोकर्षत:, कोकर्षत:
 
-                          P.
+Imperfect.
+अचेकृत्, अचेकृताम्, अचेकृन् । अपेपृचत्, अपेपृचताम्, अपेपृचन् । अको-
+कर्षत्, अकोकर्षताम्, अकोकर्षन्
 
-           1 अबोधयम्                      अबोधयाम
-           2 अबोधयः        अबोधयतम्        अबोधयत
-           3 अबोधयत्        अबोधयताम्        अबोधयन्
+Imperative.
+चेकृतु, चेकृताम्, चेकरतु । पेपृचतु, पेपृचताम्, पेपरतु । कोकृषतु, कोकृ-
+षताम्, कोकृषन्तु ( or कोकृतु, कोकृताम्, कोकरन्तु )
 
-                          Â.
+Potential.
+चेकयातत् । पेपृचताम् । कोकृषतु
 
-           1 अबोधये                       अबोधयावहि
-           2 अबोधयथाः
-           3 अबोधयत        अबोधयेताम्       अबोधयन्त
-
-                P.        Imperative.        Â.
-
-1 बोधयानि   बोधयाव   बोधयाम    1 बोधये    बोधयावहै    बोधयामहै
-2 बोधय     बोधयतम्  बोधयत    2 बोधयस्व   बोधयेथाम्    बोधयध्वम्
-3 बोधयतु   बोधयताम् बोधयन्तु  3 बोधयताम् बोधयेताम्   बोधयन्ताम्
+§ 640.  In the Special Tenses and in the Imperative Mood
+of the General Tenses, the insertion of र् is optional.

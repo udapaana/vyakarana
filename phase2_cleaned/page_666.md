@@ -1,0 +1,49 @@
+---
+page_number: 666
+internal_page: 666
+chapter: "Appendix II - Dhātukośa"
+section: "dhātukośa"
+rules_starting: []
+rules_continuing: []
+has_footnotes: false
+---
+
+104                   SANSKRIT GRAMMAR.
+
+स्लौ 1 P. हर्षक्षयै to fade, to grow weary, to be sad; स्लायुति pre.
+  मस्लौ perf स्लाता p. fut. स्लास्युयुति fut. अस्लासीत aor. स्लायात्
+  or स्लेयात् ben. Cau.—स्लापुयाति-तै pre. अमिस्लुयत-न aor.
+  निमिस्लुासति des. Pass —स्लाप्युतै per. अस्लापि aor. स्लात p. P.
+
+युथु 1 P. to stir, to move; यथुति pre. ययथु perf. यथिता p. fut.
+  अयथीत aor.
+
+यक्ष् 10 A. पूजायां to honour, to adore: यक्षुयतै pre. यक्षुयाचक्रै
+  perf. यक्षुयिता p. fut. अययक्षत aor. यक्षित p.p.
+
+यज् 1 U. देवपूजासांगतिकरणदानदानैषु to sacrifice, to make an
+  oblation to, to give, to associate with; यजुति-तै pre. इयाज,
+  ईजै perf. यष्टुं p fut. यक्ष्युयुति-तै fut. अयक्ष्युयत-न con अयाक्षीत
+  ( मयाक्ष्म du.), अयत aor. इज्युयात्, यक्षीष्ट ben. यियक्षति-तै des.
+  Pass—इज्युतै pre. अयाजि aor. Cau.—याजुयाति-तै pre. अयीय-
+  जत-न aor. इष्ट p.p. इष्टुं, यक्षित्वुं ger. यष्टुं inf.
+
+यत् 1 A. प्रयत्नै to attempt, to strive after, to labour, &c; यततै
+  pre. यैतै perf. यतिता p fut. यतिष्युयुतै fut. अयतिष्टु aor. यतिषीष्ट
+  ben. यियतिषतै des. Cau.—यत्युतै-यतायतै pre. अयाति aor. Cau.—यातय-
+  ति pre. अयीयतत-न aor. यत p. p. यतित्वा, आयत्य ger.
+
+यत् 10 U. निकुतोपुत्कारणयो: to injure, to encourage; यातुयाति-तै
+  pre. यातयिष्युयुति-तै fut. अयीयतत-न aor. यियायिषति-तै des.
+
+यन्त्र् 10 U. संकोचै to restrain, &c; यन्त्रुयाति-तै pre, यन्त्रुयाचकार-
+  चक्रै, &c. perf. यन्त्रुयिता p. fut. यन्त्रुयिष्युयति-तै fut. अययन्त्रुत-न
+  aor. यियन्त्रुयिषति-तै des. Pass.—यन्त्रुयतै pre. यन्त्रित p p.
+  यन्त्रुयितुं inf.
+
+यभ् 1 P मैथुनै to cohabit; यभुति pre. ययाभु perf. यभ्युयात् fut.
+  यभ्स्युयुति fut. अयभ्युयत् con. अयभीत aor. Cau.—याभुयाति pre
+  अयीयभत-न aor. यियभितै des.
+
+यम् 1 P. उपरमै to check, to offer, to lift up, to go, to show, यच्छु-
+  ति pre ययाम perf. यन्ता p fut. यंस्युति fut. अयंस्युयत् con.

@@ -1,26 +1,43 @@
-[Internal page: 302]
+[Internal page: 316]
 
-302                    SANSKRIT GRAMMAR.                    [ § 484-487
+316                    SANSKRIT Gr                      [ § 505-506
 
-वत्स्याति; वर्धिप्स्ये, वर्त्स्यम्; स्पन्दिष्ये, स्पन्द्स्याम् 1 sing  2nd Fut ; अकलिप्स्ये, अकल्प्स्यम्; अवर्धिप्स्यम्, अवर्त्स्यम्; अवर्तिष्ये, अवर्तिष्ये, अवर्त्स्यम्; अवर्त्स्ये; असुन्दिष्ये, अस्पन्द्स्यम्, अस्पन्द्स्यम् 1. sing. Cond
+2 आनर्हिथ  आनर्हथुः  आनर्हे      2 आनच्छिथ्य  आनच्छथुः   आनच्छ
+3 आनर्हे   आनर्हतुः  आनर्हुः     3 आनच्छे    आनच्छतुः   आनच्छुः
 
-§ 485.  The roots कृत्, वृत्, धृत्, वृध् and वृत् take इ optionally when followed by an Ardhadhatuka ( Non-conjugational termination ) beginning with स except in the Aorist; कुत्—कर्तिष्याम, कर्त्स्याम; अकर्तिष्यम्, अकर्त्स्यम् Cond  &c.
+     अर्च् 1. P ' to worship. '    कृज् 1. Â. to go, to acquire ' &c
 
-§ 486.  In the case of इ with आग्नि, गा is  optionally  substituted for इ in the Conditional  and  the Aorist. इ is substituted for the final vowel of the verbs चा 3 P. A  1 P, प्रा, दो, ते, घे, मा, स्या, भा ( substituted for इ 2 P  and स्था with आग्नि , ) म्रा, मा, and को before a  consonantal  weak  termination.  All  terminations added to मा substituted for इ are weak
+1 आनर्चे   आनर्चिवे   आनर्चिम     1 आञुज्जे   आञुज्जिवहे   आञुज्जिमहे
+2 आनर्चिथ् आनर्चथुः  आनर्चे      2 आञुज्जिषे  आञुज्जाथे    अञुज्जिच्छे
+3 आनर्चे   आनर्चतुः   आनर्चुः     3 आञुज्जे   आञुज्जाते    आञुज्जिरे
 
-Paradigms.
+            वम् P. ' to vomit. '         दह् Â. ' to give. '
 
-1. अध्येषे      अध्येयाव्हि      अध्येयामहि
-2. अध्येयथाः   अध्येयाथाम्     अध्येयध्वम्
-3. अध्येष्ट     अध्येयाताम्     अध्येष्यन्त
-1. अध्यागीष्ये  अध्यागीष्याव्हि   अध्यागीष्यामहि
-2. अध्यागीष्यथाः अध्यागीष्याथाम्  अध्यागीष्यध्वम्
-3. अध्यागीष्यत  अध्यागीष्याताम्  अध्यागीष्यन्त
+1 ववाम-वववम् ववमिव    ववमिम        1 दध्रे      दध्रिवहे     दध्रिमहे
+2 ववमिथ्    ववमथुः    ववम         2 दध्रिषे    दध्राथे      दध्रिध्वे
+3 ववाम      ववमतुः    ववमुः       3 दध्रे      दध्राते      दध्रिरे
 
-§ 487.  We give below the first pers  sing  of some of the roots of more difficult conjugation   The  student  should  find out the various rules by which he should arrive at them.
+      कुम् 6. P. ' to be crooked.'  स्फुर् 6. P. ' to flash forth. '
+            ' to cheat. '                    ' to throb. '
 
-Roots.      1st Future        2nd Future.      Conditional.
+1 चुकोट, चुकुट्ः     चुकुटिव  चुकुटिम      1 पुस्फोर   पुस्फुरिव  पुस्फुरि
+2 चुकुटिथ्          चुकुट्थुः चुकुट        2 पुस्फुरिथ् पुस्फुरथुः पुस्फुर
+3 चुकोट            चुकुट्थुः चुकुट्ः       3 पुस्फोर   पुस्फुरतुः पुस्फुरः
 
-सू        भवितासि        भविष्यामि       अभविष्यम्
-         तवितासि        तविष्याम—ये     अतविष्यम्-ये
-         तर्तितासि       तर्तीष्याम—ये    अतर्तीष्यम्-ये
+§ 506.  Roots taking सम्प्रसारण ( regular and irregular )—
+
+                  यज् 1. P. Â. ' to worship. '
+
+1 इयाज-ईयज्    ईजिव     ईजिम        1 ईजे    ईजिवहे
+2 इयाजिथ्-ईयाघ्  ईजथुः    ईज         2 ईजिषे  ईजाथे
+3 इयाज         ईजतुः    ईजुः        3 ईजे    ईजाते      ईजिरे
+
+   वच् † 1. 2. P ' to speak. '      वस् 1. P ' to dwell.'
+
+1 उवाच, उववच्,   ऊचिव     ऊचिम        1 उवास-उवस   ऊषिव     ऊषिम
+
+* Roots of the कृदादि class ( see § 463 ) retain their vowel un-
+changed optionally in the 1st pers. sing. of the Perf.; इ-ईयाय,
+हूनव 1st sing.
+† भृज as a substitute for अ may also be conjugated in Âtm.
+अ. g. क्षे, क्षविहे, क्षविमहे, 1 Per &c.

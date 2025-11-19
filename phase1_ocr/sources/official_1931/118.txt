@@ -1,43 +1,39 @@
-[Internal page: 100]
-100                    SANSKRIT GRAMMAR.                    [ § 154-157
+[Internal page: 118]
+118                    SANSKRIT GRAMMAR.                    [ § 192-194
 
-A.        एकम्        एकाम्        द्वौ            द्वे
-I.        एकेन        एकया        द्वाभ्याम् The rest like
-D        एकस्मै        एकस्यै        ,,            the mas.
-Ab.        एकस्मात्        एकस्याः        ,,
-G.        एकस्य        ,,            द्वयोः
-L.        एकस्मिन्        एकस्याम्        ,,
-एक neu. एकम् N. A. The rest like the mas.
-एक when it does not mean 'one' is declined in the dual and
-plural also.
+षेत्राश्च; पुत्रपौत्रम् ; so स्त्रीकुमारन् , उट्रुखरम् camels and asses, उट्रशाठम्
+camels and rabbits, नाभ्मसंगितम्, दूषीशराद् holy grass and reeds,
+दूर्णोदुम्बम् grass and soft grass or shrubs, दासीदासम् &c.
 
-§ 155. The various meanings of एक are:—
-        एकोल्पार्थे प्रधाने च प्रथमे केवले तथा ।
-        साधारणे समानेति संख्यायां च प्रयुज्यते ॥
+( b ) Itaretara Dwandwas:—दधिमधुसी curds and milk, इन्धा-
+वहिर्यं holy sticks and grass, तार्पंथूर्ती, मधुस्तप्ती honey and ghee,
+शुकैकुण्णौं, अश्वयवनतपसौं, आयवसानिं, उदसलघुसलौ, ऋकसामं ( ऋक्+
+सामन् ) Rik and the Sāman verses; वाङ्मनसे ( वाक्् + मनस् ) speech
+and mind ( the न् of सामन् dropped and अ added to मनस्
+irregularly by Pān. V. 4. 77 ).
 
-अल्प or little, प्रधान or chief, pre-eminent, प्रथम or foremost
-केवल or sole, only, साधारण or common ( as अर्थेषुश्रयकारित्वं द्वि
-आपद् एको देव: ), समान or the same ( as अर्थं एकान्वयो मम ), and
-संख्या or number ( one ).
+§ 193.  When words ending in ऋ and implying relationship
+by blood or literary avocation are compounded together, the
+last but one word changes its ऋ to आ. The same happens
+when the word भ्रा follows a word ending in ऋ under the
+same circumstances; * होता च पोता च होतापोतारौ two priests so
+called, होता च पोता च नेटा च उद्गाता च होतृपोतृनेटोद्गातारः; ( but if
+two words be taken at a time the ऋ may, at every step, be
+changed into आ; as होता च पोता च होतापोतारौ तौ च उद्गाता च
+होतापोतोद्गातारः &c. ), पिता च पुत्रश्चं पितापुत्रौ, माता च पिता च
+मातापित्रौ, also मातरपितरौ ( Pān. VI. 3. 32. ), and पितरौ
+( vide § 197 a).
 
-§ 156. प्रथम, चरम, अल्प, अर्थ, कतिपय, and words ending in
-the termination तय optionally form their Nom. plu. like that
-of pronouns; e. g. प्रथमेः-प्रथमाः, कोतपये-कतिपयाः, द्वितयेः-द्वितयाः &c.
+§ 194.  ( a ) When the names of deities well known to be
+in constant association with each other are compounded, आ is
+substituted for the final vowel of the preceding word, except
+in the case of the word वायु × ; e. g. मित्राबरुणौ, सुर्याचन्द्रमसौ,
+अभ्रामरूतौ, &o. but आद्रिवायु or बाग्मयी.
 
-11—Pronominal Adverbs.
+( b )  The word अग्नि followed by the word सोम or बरुण
+lengthens its इ; as अग्नीषोमौ, अग्नीवरुणौ.
 
-§ 157. The pronominal adverbs that are most commonly
-met with are derived from the pronouns तद् , एतद् , यद् , इदम् ,
-किम् , and सर्व and the pronominal adjectives पूर्व, पर &c. by means
-of such affixes as तस् , त्र, *द, क् &c. added in the sense of the
-Ab. or the Loc., द्वा , द्वानीम् , द्वि &c. showing time, ताद् , † showing
-point of time, place or direction, आ, आत् आहि &c. expressing
-direction, था, थ + &c. expressing way or manner &c. ; e g.
-
-* See § 130.
-† सर्वैकान्यदिपयन्तदः काले द्वा । इदमोहिल । अयुना दानीं च । तदो द्वा
-च । अनेयतनैहिठन्यत्तरस्याम् । Pān. V. 3. 15-19. 21.
-‡ द्वितीयान्द्रेथ्यं सामीपस्थभमयमाभ्यो हिरेदीराकाटेऽषपसागतिः । Pān. V.
-3. 27
-+ उत्तराभरदक्षिणादातिः । दक्षिणादाच आहि च द्वारे । Pān. V. 3.
-34. 36. 3. प्रकारचते शाल । इदमस्थः किमश्च । Pān. V. 23-25.
+आनङ् ऋतो हर्त्ते । Pān. VI. 3. 25. द्वयोर्देवयोर्विद्ध टस्या सुनद्ध टु
+होतापोत्रोद्गातारः । Sid. Kau.
+× दैवतादृद्धिं च । Pān. VI. 3. 26. बायुशब्दप्रयोगे प्रतिषेधः । Vārt.
+ईद्धेः सोमबरुणयोः । Pān. VI. 3. 27.

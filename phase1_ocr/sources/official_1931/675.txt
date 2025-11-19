@@ -1,43 +1,50 @@
-[Internal page: 661]
+[Internal page: 675]
 
-                     DHĀTUKOŚA.                               99
+                     DHĀTUKOŚA.                               113
 
-मुद् 10 U. संचूर्णनै to pound, to break; मोदुयाति-तै pre. अमुमुदत-न
+रुप् 1 P. स्वुरासुप to adorn, to decorate, to anoint; रूपुति pre.
+   रुरूप perf. रूपिता p. fut. अरूपीत aor. रूपित p.p.
+
+रेख् 1 P. शब्दुयो: to doubt, to suspect; रेखति pre. रिरेख perf. रेखिष्युति
+   fut. अरैखीत aor.
+
+रेप् 1 A. to shine, to shake; रेपतै pre.
+
+रेष् 1 U. पवामाणै to speak, to ask; रेषति pre. रिरेष perf. अरैषीत्-
    aor.
 
-मुण्ठ् 1 P मर्दनै to crush, to grind; मुण्ठुति pre. मुमुण्ठ perf. मुण्ठिता
-   p. fut. अमुण्ठीत aor.
+रैष् 1 A. to go; रैषतै pre. रैषिष्युतै fut. अरैषीषीट aor.
 
-मुण्ठ् 1 A. पलायनै पघायनै सु to protest, to run away; मुण्ठुतै pre. मुमुण्ठै
-   perf. मुण्ठिता p. fut. अमुण्ठिष्टु aor. मुण्ठिषीष्ट ben. Pass. मुण्ठुयतै pre.
+रेष् 1 A. शब्दै to sound, to low; रैषतै pre.
 
-मुण्ड् 1 P. क्षौरणै to shave, to grind; मुण्डुति prf. मुमुण्ड perf. मुण्डिता
-   p. fut. अमुण्डीत aor. मुमुण्डिषति des. Cau.—मुण्डुयाति-तै pre.
+रे 1 A. अव्युयक्तै शब्दै to utter an indistinct sound, to neigh; रैषतै
+   pre रिरै perf. रैता p. fut. अरैषीषीट aor. रैता p.p. ( Also
+   written as रै ).
 
-मुण्ड् 1 A. मज्जनै मज्जनै सु to sink; मुण्डुतै pre. मुमुण्डै perf मुण्डिता
-   p. fut अमुण्डीत aor.
+रै 1 P. to sound, to bark at; रायुति pre. ररौ perf. अरायीत aor.
 
-मुश् 6 P. प्रतिज्ञानै to promise, मुशुति pre, मुशोष perf. मोशिता p.
-   fut. अमोषीत aor.
+रोद् 1 P. अनादरै रुदम्बै च to despise, रोदुति pre. रुरोद perf. अरोदीत्
+   aor.
 
-मुद् 1 A. हर्षै to rejoice, to be glad; मुदुतै pre मुमुदै perf. मोदिता
-   p. fut. मोदिष्युयुतै fut. अमोदिष्टु aor. मोदिषीष्ट ben. मुमुदिषतै,
-   मुमोदिषतै des. मुदित, मोदित p p.
+रोद् ( रोद् also ) 1 P. to despise, रोदुति, रोदाति pre.
 
-मुद् 10 U. संसर्गै to mix, to blend, to purify; मोदुयाति-तै pre. मोदुया-
-   चकार-चक्रै perf. मोदुयिता p. fut. अमुमुदत-न aor.
+                              ल—
 
-मुष् 6 P. संवैष्टनै to cover; मुषुति pre. मुमोष perf. अमोषीत aor.
+लक्ष् 10 U. आलोचनै यातौ च to taste, to obtain; लाक्षयति-तै pre.
+   लाक्षयाचकार-चक्रै perf. लाक्षयिता p. fut. अलुलक्षत-न aor.
 
-मुच्छु 1 P मोहमूष्युच्छुरापयो: to faint, to become senseless, to grow,
-   to prevail, to be match for; मूच्छुति pre. मुमुच्छु perf. मूर्च्छुिता
-   p. fut. अमूच्छुीत aor. मूच्छुयात् ben. Cau —मूच्छुयाति-तै pre. अमु-
-   मूच्छुत-न aor. मुमुच्छुुयिषति des. मूर्च्छुित, मून p p.
+लक्ष् 1 A. आलोचनै to perceive, to observe; लक्षतै pre. ललक्षै perf.
+   लक्षिता p. fut. अलक्षीषीट aor. लक्षयिषीष्ट ben.
 
-मुद् 1 P. बन्धनै to bind, to tie; मुदुति pre. मुमुद perf. मुदिता p. fut.
-   अमुदीत aor.
+लक्ष् 10 U. दर्शानाङवननै. to notice, to define, to regard; लक्षयति-तै
+   pre. लक्षयाचकार-चक्रै &c. perf. लक्षयिता p. fut. अललक्षत-न aor
+   लक्षित p.p. लिलक्षयिषति-तै des.
 
-मुल् See मुद्.
+लख् or लङ्ग् 1 P. to go; लखति or लङ्गुति pre.
 
-मुस् 9 P. स्तैयै to steal, to carry off; मुष्णाति pre. मुष्णाण 2nd sing.
-   Impers. मुमोष perf. मोषिता p. fut. मोषिष्युयुति fut. अमोषीत
+लग् 1 P. साङै to attach oneself to, to touch, to meet, to follow
+   closely; लगुति pre. ललाग perf. लग्धिता p. fut. अलगीत aor. लिल-
+   गिषति-तै des. लग्ध p.p.
+
+लप् 10 U. आलापनै यातौ च to taste, to obtain; लापयति-तै pre.
+   लापयाचकार-चक्रै perf. लापयिता p. fut. अललपत-न aor.

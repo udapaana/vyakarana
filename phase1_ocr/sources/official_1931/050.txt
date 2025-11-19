@@ -1,18 +1,32 @@
-[Internal page: 34]
-34                        SUBANTA OR DECLENSION.                    [ § 54
+[Internal page: 50]
+50                        SANSKRIT GRAMMAR                    [ 81-83
 
-and Voc. Sing: e.g. नदी a river, and so मती wise.
+ Ab.  धातुः-तृणः      धातृभ्याम्           धातृभ्यः
+  G.    ,,            धात्रोः-तृणोः         धातृणाम्
+  L.   धातरि            ,,                 धातृषु
 
-III Words ending in उ :—(a) Masculine, feminine, and neuter; m. गुरु a teacher, f. धेनु a milch-cow, n. मधु honey; in this class also adjectives end in उ; e.g. लघु light.
+Decline similarly कर्तृ, नेतृ, ज्ञातृ, &c.
 
-(b) Feminine words ending in ऊ do not differ in inflection from those ending in short उ except that they have ऊ in the Nom. Acc. and Voc. Sing.; e.g. वधू a bride (f.) and so गुरु (f.)
+स्वसृ and other fem. nouns should be declined like धातृ except in the Acc. plu. which is स्वसृः . See below.
 
-IV Words ending in ऋ :—(a) Masculine words such as पितृ a father, ending in ऋ may be divided into two classes; (1) those which are not derivatives and (2) those which are derivatives. The Nom. Dual and Plural of both classes end in आ. The former make their Nom. sing. in आ; as पिता a father: but the latter in आ or आ at will; e.g. भर्ता or भर्तः a husband, दाता or दातः a giver.
+§ 82. Nouns expressive of relationship like पितृ m. a father, मातृ f a mother, देवृ m. a husband's brother, &c. with the excep-tion of नप्तृ a grandson, भर्तृ a husband and स्वसृ a sister, as also the words शोतृ one who praises (Un. II. 92), नृ a man (Un.II 98) and सत्येतृ a charioteer, do not change their ऋ to आर् in the N. dual and plural and Acc. sing. and dual; e. g.
 
-(b) Masculine words ending in तृ (properly derivatives formed by means of the affixes तृ, तृच् and क्तृ such as भर्तृ a master, वक्तृ a speaker and कर्तृ one who has made, may make their Nom. Pl. in रः with the tृ changed to री, or in रः with the medial ऋ changed to आ; e.g. वक्तारः or वक्तृः speakers.
+  N.  पिता   पितरौ  पितरः       N.  माता  मातरौ  मातरः
+  V.  पितः(र्) ,,     ,,         V.  मातः(र्) ,,     ,,
+  A.  पितरम्   ,,   पितृन्       A.  मातरम्  ,,    मातृः
+        The rest like धातृ .              The rest like स्वसृ
 
-V Words ending in ऋ;—Masculine; e.g. होतृ an invoker of the gods (root हु to sacrifice); they are derivatives.
+Decline similarly भ्रातृ.              Declıne similarly यातृ a hus-
+जामातृ, देवृ, शोतृ, दायदृ and...        band's brother's wife, दुहितृ a
+वृ. The Gen. plu. of नृ is            daughter, and ननान्दृ or नन्न्द्री
+नृणाम् or नृणाम्*                      a husband's sister.
 
-VI. Feminine nouns ending in आ decline like नरः a man or like पितृ a father except in the Nom. Acc. Voc. Sing., where they take their own peculiar case-endings; माता mother, स्वसा a sister, दुहितृ a daughter.
+§ 83. The word क्रोधु a jackal, is declined like a word ending in ऋ necessary in the first five ınflections and optionally before the vowel terminations beginning with the Inst. sirg. except that of the Gen. plu.‡ e. g.
 
-VII Feminine nouns ending in ई take their inflectional ending in the same way as those ending in short इ; and those ending in ऊ in the same way as those ending in short उ; e.g. यातृ wife of the husband's brother, स्वश्रू husband's mother. कृऊ is an exception as it declines both as a feminine and a neuter: अमावास्या the night of the new moon declines like Dhenu; तनू the body and ऊर्वी the earth like पृथ्वी.
+* नृ च । Pān. VI. 4. 9. नृ इत्येतस्य नामि वा ङौधः स्यात् । Sid. Kau.
+
+‡ नञ्जि च नन्दै। Un. II 97 न नन्दति ननान्दा। इइं वृद्धेनोड्वनते इत्येके। Sid. Kau.
+
+* ननान्दा तु स्वसा पत्युर्वनेन्दा नमो॰ उत्तरं । Sid. Kau.
+
+‡ त्रुञ्जन्कोटुः विभाषा तृतीयादिषु । Pán. VII, I. 95. 97.

@@ -1,41 +1,38 @@
-[Internal page: 520]
+[Internal page: 534]
 
-522                  SANSKRIT GRAMMAR.                   [ § 927–930
+536                  SANSKRIT GRAMMAR.                   [ § 971–972
 
-ring to a very recent time; अगुच्छुदु किंयु (Qu.) (Ans) अगुच्छुदुयुः
-or कुयुयुयू किंयु? कुयुयुयुयुः but when the question refers to a very remote
-time the Perfect alone ought to be used; छुयुयुयुयु-कुरे अगुयुनु किंयु? अगुयूनु.
+§ 971. As अयु marks the beginning, so इति marks the close
+of a composition. This particle is used in the following senses;
+(1) to quote the exact words spoken or spoken to, it is placed at
+the place of the quotation marks and being used generally after
+the words quoted; * इयु विज्ञुत्युयूयूहुयूयुच्युन्युयूयु शुकुयूयुयूयूयु दैयुनै विज्ञुयूयु-
+युत्युनै. देयुयूयूदुयूछुयूयुयूयूयूदुयूहुहिनुयूयूमि दैयुयूरुयूयूनुयूयूदुच्युयूयूनुयूविहुनोयू । 0 man
+a certain Chandaka girl requests Your Majesty to command * If
+who have come to your majesty's feet wish to enjoy the happi-
+ness of the sight of Your Majesty;' युयूयूयूयूयू: अच्युयुः छुयुकुयूयूयू: स्युयु
+इति युयुयूयू इयु are two have accomplished one object; युत्युनुयूयूयूष्युत् (रायु);
+(2) cause (rendered in English because, since &c.); युदैदैशुको-
+स्युयूति युयूच्युयूयूरु I ask you because I am a foreigner; युयूरुयूयूयूयूयूनुयूं न
+बायुयू युयुनै every thing is not good simply because it is old; (3)
+purpose or motive; यु छुयूयूयूयूनुयूति परिरुयुयूयूवितुयुयूयूर्णो they have come to
+a limited number of servants with them that there should be no
+disturbance, &c.; (4) so, thus; as follows; युयूयूयूयूयूयूनुयूयूयू हुरिरुयूयूनुयूयू युयूवु.
+(5) in the capacity of, as regards; हिकुयूत पितुयु, पितृरू, युनुर्युरु
+as a father he ought to be respected, as a teacher ought to be
+censured; (6) to state an opinion; इति आस्युयूरुयूयूयूयूयुः this is the
+opinion of Āśmarathya. It is often used by commentators in
+the sense of 'according to the rule'; इति यूयूयुयूयूर्युनुयूं लिदुयुट् &c. &c.
 
-§ 928. When the particle युयु in combination with स्युयु is used
-with the Imperfect in the sense of the Imperative, the augment
-अ is dropped; युयु स्युयु भुवुः युयु स्युयु करोतु, युयु स्युयु युटुवितुयुं युयूयूयु.
+INTERJECTIONS.
 
-PERFECT.
+§ 972 The following stanza from the Bhaṭṭi Kāvya
+illustrates the uses of some of these interjections:—
 
-§ 929. *The Perfect denotes an action done before the current
-day and not witnessed by the speaker. It has reference to a very
-remote time and should, therefore, be used in narrating events
-of the remote past; तुयुनों तुयूटुकुयूस्युयुयुनों निजुयुयूनु रामुः। Rāma killed her
-whose name was Tātakā. युयुयुयूयूविन्युदुट्युच्युयुयुदुच् (Bhattṛi. XIV.16.).
+आयुः कुयुयूं वनु हो चिदुयूनुयुं हू युयूदैयुयूनुत्तुयुयूति ऐक्तुयु ।
+हुयू यिनुयुः कुयूरुयि हं शुयूदै वुदुयुनुयूयूं निजुयूलुयु संयु ॥
 
-(a) In the 1st person the Perfect shows that the speaker was
-in a distracted state of mind or was unconscious when the event
-took place, or that he wants to say too story of something he
-has done, बहु जुयूयुयुट् पुरुत्तुयुयुयुस्युयु यूयूयूक्तुछुयुहुयुयु (S'is XI. 30) being
-frenzied I prattled much, I am told, before him; छुलिङुयूनुयूरुयूस्तो: किंयु।
-didst thou dwell in the country of the Kalingas? यहुयुदु कुलिङुगुयुनुयूयू-
-गायु I never went to Kalinga; With these exceptions the Per-
-fect should not be used in the 1st person.
 
-AORIST.
-
-§ 930. †The Aorist simply expresses past action indefinitely
-i. e. without reference to any particular time (भूतुयूयुयूयुनुयुनै छुदुट्);
-कोरुयुदुट् चैकुलिङुदुयूदुयूयुयुनुयुयु यिनुयूयुयुरितुसुयुर्युतु बन्युयुदु। ययुरे यद्युयुगैरुयूस्युरु नोतो:
-युयुट्युयुयुयूतुं त्युयुयुनैयुयुनुयुरियुकु (Bhatt. I. 2.) 'He studied the Vedas, offered
-sacrifices to the gods, satisfied his departed ancestors, honoured
-
-* युरोद्युदु लिट् Pāṇ. III, 2. 115. इन्युयुयुयुयूयुनै चिन्तुयुविवुनैयुयूदेन्युयु यरो-
-युयुयुदु । (Sid. Kau.); अस्युनुयूयुयूयूहुयुनै लिट् वुकुयूयुः। Vārt.
-
-† छुदुयु Pāṇ. III. 2. 110.
+* In Sanskrit there is no indirect construction, so that in
+translating indirect constructions the actual words of the
+speaker followed by इति must be used.

@@ -1,33 +1,42 @@
-[Internal page: 299]
+[Internal page: 313]
 
-§ 469-475 ]         CONJUGATION OF VERBS.                     299
+§ 505 ]              CONJUGATION OF VERBS                   313
 
-case of Set roots, optionally in the case of Wet roots,  and  not fixed at all in that of Anit roots.
 
-§ 470.  All these terminations are strong.   The  final  vowel and the penultimate short of a root  therefore  take their Guṇa substitute before them.
+                  पच् P. Â. 'to cook.'
 
-§ 471.  Anit roots with a penultimate अ change  it  to आ optionally before a strong termination beginning with any consonant except a nasal or a semi-vowel; सूय—सूतासि,  व्रतासि &c.
+1. पपाच-पपच    पेचिव   पेचिम        1. पेचे    पेचिवहे    पेचिमहे
+2. पेचिथ, पपक्थ पेचथुः  पेच          2. पेचिषे  पेचाथे     पेचिध्वे
+3. पपाच        पेचतुः   पेचुः        3. पेचे    पेचाते     पेचिरे
 
-                   दा P. Â. ' to give &c.,'
+                  मुच् 6 P. Â. 'to release.'
 
-1. दातासि     दातास्वः   दातास्मः     1. दाताहे    दातास्वहे   दातास्महे
-2. दातासि    दातास्यः   दातास्थ      2. दातासे   दाताध्यथे   तास्ध्वे
-3. दाता      दातारौ    दातारः       3. दाता     दातारौ     दातारः
+1. मुमोच       मुमुचिव   मुमुचिम       1. मुमुचे   मुमुचिवहे   मुमुचिमहे
+2. मुमोचिथ     मुमुचथुः   मुमुच         2. मुमुचिषे मुमुचाथे    मुमुचिध्वे
+3. मुमोच       मुमुचतुः   मुमुचुः       3. मुमुचे   मुमुचाते    मुमुचिरे
 
-    वी  P.  A.  ' carry '—नेतासि,  नेताऽस्य,  नेतास्मः  &c , नेताहे,
-नेतास्वहे, नेतास्महे, &c.
+           रिच् 1 P. 'to separate.' Â. 'to purge.'
 
-    पत् P.—पतितासि, पतिताऽस्य, पतितास्मः &c.
+1. रिरेच   रिरचिव   रिरचिम        1. रिरिचे   रिरिचिवहे   रिरिचिमहे
+2. रिरेचिथ रिरचथुः  रिरेच         2. रिरिचिषे रिरिचाथे    रिरिचिध्वे
+3. रिरेच   रिरेचतुः  रिरेचुः       3. रिरिचे   रिरिचाते    रिरिचिरे
 
-    ईश् A.—ईशिताहे, ईशिताऽस्वहे, ईशितास्महे &c.
+Conjugate विच् 7 P. Â., रिच् 6. P. Â., तिज् 3 P. Â., विज्
+3. P. Â., युज् 7. P Â., युज् 7 P. Â., क्षुर् 7. P. Â. and others
+having इ or उ for their penultimate, similarly; रिच्—रिरेच
+1 sing. रिरिचिच dual; रिषेचिचथ 2 sing &c., क्षुर्—चुक्षोद् 1 sing.
+चुक्षोदिथ 2 sing. &c.
 
-                       IRREGULAR BASES.
+                  प्रच्छ् 6 P. 'to ask.'
 
-§ 472.  The  roots  इस्,  कृष् 1 A.,  घुय,  तिय and  इद् admit इ optionally in the First Future; e g. 1 sing   भवितासि,  पशासि,
-सृजिताहे,  शोचाहे;  लोभितासि,  लोध्यासि;  रवितासि,  रेषासि;  पेनरिशतासि,  गरिष्टासि,  रोधितासि.
+    1 पप्रच्छ             पप्रच्छिव             पप्रच्छिम
+    2 पप्रच्छ्य-पपृछ्     पप्रच्छथुः            पप्रच्छ
+    3 पप्रच्छ             पप्रच्छतुः            पप्रच्छुः
 
-§ 473.  कुप् is optionally  Parasm.  in  the  First  Future and when so it rejects इ: कोपितासि, कल्प्तासि; कल्प्ताहे ! sing. &c.
+                  त्यज् 1 P. 'to abandon.'
 
-§ 474.  The augment इ as  added  to  सह् is long  in  all Non-conjugational Tenses, except in the Perfect; सृजीतासि 1 sing
-
-§ 475.  The intermediate  इ  is  optionally  lengthened  in  the case of घु and roots  ending  in  अ,  except in  the Perfect,  the
+    1 तत्याज              तत्यजिव              तत्यजिव
+      तत्यज
+    2 तत्यजिथ            तत्यजथुः             तत्यज
+      तत्यक्थ
+    3 तत्याज             तत्यजतुः             तत्यजुः

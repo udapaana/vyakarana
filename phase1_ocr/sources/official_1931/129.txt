@@ -1,39 +1,18 @@
-[Internal page: 111]
-§ 171-176 ]        DEGREE OF COMPARISON.                    111
+[Internal page: 129]
+§ 215-216 ]                    COMPOUNDS.                    129
 
-विद्वस्-विद्वत्तर, विद्वत्तमः; प्राच्-प्राक्तर, प्राक्तमः; धनिन्-धनित्तर, धनित्तमः
-धर्मीयस्—धर्मीयस्तर, धर्मीयस्तमः; यश् - यश्तर, यश्तमः, &c; आति-आतितर
-आतितमः; उद्-उत्तर, उत्तम, &c.
+(e)* When a word ending in इक is compounded with another and there is the relation by blood or some kind of learning, the aluk is necessary; and optional when it is followed by स्वसृ and वत्ति. The initial सु of स्वसृ is optionally changed to स when preceded by मातुर् or पितृ and when there is aluk, and necessarily when there is no aluk in a compound; e. g. होतुःस्वसा, होतृरत्तेवासौ, a pupil of the hotri; मातुःस्वसा, or मातु.ब्वसा and मातुश्यसा; so पितुःस्वसा, &c. (but मातुः स्वसा, पितुः स्वसा when uncompounded); स्वसुपति: or स्वसु.पति:; but होतृभनम्.
 
-§ 172.  Before these the final ई and ऊ of a prātipadika are
-optionally shortened, e g  श्रीतरा or श्रित्रा, श्रीतमा or श्रित्मा;
-घेष्ठरा ( more lame ) or घेष्ठुरा, घेष्ठतमा, घेष्ठुतमा, &c.
+§ 216. A noun in the Locative is compounded—
 
-§ 173.  तर and तम when attached to verbs, and indeclinables
-forming adverbs, assume the forms of तराम् and तमाम्*; पत्तरितराम्, पत्तितत्तमाम् ; उच्चैस्तराम् ; उच्चैस्तमाम् ; नितराम् नितमाम् ; or सुतराम्
-&c ; but उच्चैस्तरः adj. ( higher )
+(a)†with शौण्ड, धर्तं, कितव a rogue, प्रशीण, संसीत adorned, invested with, अन्तर, आवि, वद्, प्रणीत, कुशल, चल, निपुण, सिद्ध, गुष्ट, पक्व, and बन्ध्य; as अक्षेषु शौण्डः अक्षशौण्डः skilled in dice; ईश्वरे भक्ति ईश्वरभक्तिः dependent on God (when compounded the affix इन i. e. इन is compulsory; so the compounded form is always with अभीन); आतपञुष्कः dried in the sun; स्थालीपक्वः cooked in a pot; चक्रबन्ध्यः a kind of poetic composition; &c.
 
-§ 174.  ईयस् is another termination of the comparative degree
-and ईष् of the superlative.  These are added  to adjectives of
-quality only †   Before these the last vowel of a word with the
-following consonant if any is dropped; e g. लघु-लघीयस् , लघिष्ठ ;
-यट्, पटीयस् , पटिष्ठ; महत् महीयस् , महिष्ठ; &c. but पाच्कतर, पाच्कतम
-only.
+(b)‡ with words meaning a 'crow' when contempt is implied; तीर्थे स्वाइङ्घ इव तीर्थैस्वाइङ्घः said in contempt of one who is very greedy; so तीर्थैकाकः; similarly मगरकाकः:—वायसः &c. &c.
 
-§ 175.  The possessive affixes at the end of words and the
-affix न्  are dropped before ईयस् and ईष्‡ and then these
-terminations are applied subject to the above rule;  e. g. मतिमत्
-talented  मतीयस् , मतिष्ठ; मेधाविन्-मेधीयस् , मेधिष्ठ; धानिन्-धनीयस्-
-धनिष्ठ. कृते-करीयस् , कारिष् ( अतिशयेन कर्तो ); स्तोढ-स्तवीयस् , स्तविष्ठ;
-so स्रजीयस् , स्राजिष् from स्रग्विन् one having a garland &c.
+There are a few Loc. Tat. compounds given in the list परमेसमितादि having a similar sense; e. g. कुपे मण्डूक इव कुपमण्डूकः a well-abiding frog i. e. one who knows nothing of the world
 
-§ 176.  § र is substituted for the ऋ ( short ) of a base
-preceded by a consonant before ईयस् , ईष् and the Tad aff.
-इमन् e. g.
-
-* किमेतिङ्ङन्यङ्घ:दाम्न्द्रव्यप्रकुषै । Pān V. 4 11. आपु is added
-to तर and तम after क्रिय , or a word ending in ए or a subanta or
-unantá ( तिङ्न्त ) except when they form adjectives.
-†  अजादी ( i. e. ईयस् and ईष् ) गुणवचनादेव । Pān. V. 3. 58.
-‡  विनमतेह्वृक । सुरिष्ठेमेयु घ । Pān. VI  4, 154.
-§  र ऋतो हलादेः।Pān. VI. 4. 151
+* ऋतो विद्यायोनिसम्बन्धैभेध्यः । विभागा स्वसुरभ्यौः Pān. VI 3. 28. 24,
+मातुःपितृभ्यांस्वसाः स्वसा । मातृपितृभ्यां स्वसा । Pān. VIII. 3. 84, 85.
+† समर्थं शौण्डैः । सिद्धञुष्कपक्वबन्धेश्रः । Pān. II. 1. 40, 41.
+‡ स्वाइंक्षेण क्षेत्रे । पानेसमितादिमश्रं । Pān. II. 1. 42, 43. चकातौ-एषारणाधे । तेनेषां समासान्तरे षट्कर्थां प्रवेशो न । Sid. Kāu.
+H. S. G. 9.

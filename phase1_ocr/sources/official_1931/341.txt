@@ -1,43 +1,42 @@
-[Internal page: 327]
+[Internal page: 341]
 
-§ 514-518 ]          CONJUGATION OF VERBS.
+§ 548-549 ]          CONJUGATION OF VERBS.                   341
 
-    2 चिकियिथ्-चिक्रेथ्            चिकयथुः               चिकय
-      चिचयिथ्-चिचेथ्              चिच्यथुः               चिच्य
-    3 चिक्षाय-चिक्राय             चिकयतुः-चिच्यतुः चिकयुः-चिच्युः
+tnted for the long one (र् and ऋ being shortened to इ, and औ
+and भै to उ ).
 
-§ 515.  अद्, कट् and हथे admit इ necessarily before ग्.
-               कट्
+The base so modified is then reduplicated according to the
+general rules; शाच्य ( Cau  B  of छ् ) =शाद-शूद-शद्द् after
+reduplication; चकम् ( from कम् )=कम-पक्त-चक्कर्.
 
-  आर्      आरिव     आरिम  For अद् and हथे see p. p. ३
-आरिथे    आरथुः    आर
-आर्      आरतुः    आरःः
+( b ) इ is substituted for the अ of the reduplicative syllable if
+the vowel following it is short, or of the base if the vowel long; the
+इ of the reduplicative syllsble is lengthened if not followed by
+a long syll. or a conjunct consonant; thus चक्षम्-विक्षम्-वीक्षम्;
+चिचित्-चिचित्; त्रकर्-चत्रकद्-चित्रकद्, the इ is not lengthened
+as it is followed by a conjunct consonant; स्पुर्-स्पुस्पुर् only,
+as प is followed by a syllable prosodially long.
 
-                    भस्ज्.*
+( c ) Roots having a penultimate ऋ, short or long, optionally
+preserve it, the long ऋ te ng changed to the short one; यदत्
+causal base वर्तय-वर्तय after cropping अय and वदत् by this: वर्त्-
+चुद्-वुद्-विवर्द्-शीचद्; कुत्-कोत्तय-कोत्तद् and कुत् by this; कात्-
+विकोत्; कूत्-वाहद्.
 
-    1 ममज         ममजिव            ममजिम
-    2 ममजिथ्,ममङ्क्‌थ् ममजथुः           ममज
-    3 ममज         ममजतुः           ममजुः
+( d ) To the base so prepared the augment अ is to be prefixed
+and the terminations added; अविक्षमत् from ऋ; अचीकमत् from
+सघुम्; अचीचित् from चित्; अविचर्द् or अचविर्द्त् from चर् ; अविकोत्य्त् from
+स्पुर्; अस्पुस्पुरत् from स्पुर्; अचविर्द्त्, अचविकत्त्य् from हृद्,
+अविकोत्त्य्,अचविकुत्त् १†,वुद्;अस्पुस्पुद्,वेछुद्यद्त् from हूद्,&c.
 
-                 †अज् 'to go.'
+N. B.  The Ātm.  form in ऋ when no: given should be
+supposed to bs understood.
 
-    1 विवाय, विवय्    विव्येव, आजिव    विव्येयम्, आजिम्
-    2 विवयिथ्, विवेथ्  विव्यथुः          विव्य
-      आजिथ्
-    3 विवाय           विव्यतुः          विव्युः
+§ 549.  Bases with initial vowels:—
 
-§ 516.  इ ' to go ' lengthens its reduplicative इ be
-weak terminations.
+( a ) If a root begins with a vowel and ends in a single con-
+sonant, the consonant is reduplicated and इ added to it in the
+reduplicative syllable: शद्-शौ-पद्-स्पौविद्द्त्; आद्छू-आप्जर-आपजिहूद्त्; &c.
 
-For the forms see p. 311.
-
-§ 517.  The base of इ with अधि ' to study ' is अधीज्
-
-    1 अधिजगे          अधिजगिवहे         अधिजगिमहे
-    2 अधिजगिषे        अधिजगाथे          अधिजगिध्वे
-    3 अधिजगे          अधिजगाते          अधिजगिरे
-
-§ 518.  ऊर्ण् forms its base as ऊर्णुव्.  Its vowel is op
-ot guṇated before a strong termination when it takes इ
-
-    * See § 476.             † See § 477.
+( b ) If it ends in a conjunct consonant with द्, इ or द् for
+its first member,  the second member of the conjunct is redupl-

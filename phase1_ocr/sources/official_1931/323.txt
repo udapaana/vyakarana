@@ -1,30 +1,41 @@
-[Internal page: 309]
+[Internal page: 323]
 
-§ 503-504 ]         CONJUGATION OF VERBS.                     309
+§ 508-509 ]          CONJUGATION OF VERBS.                   323
 
-§ 503  Before the strong terminations of the  Perfect Samprasāraṇa takes place in the reduplicative syllable only. In  this case the initial conjunct consonant of a root  is  reduplicated  as it is ; i. e. e. without Samprasāraṇa; as
+2 दुदोहिथ्,      दुदुहथुः  दुदुह        2 तत्तुहिथ्   तत्तुहथुः   तत्तुह्
+  दुदोह, दुद्रेहथ्*                        तस्तुद्रहे
+3 दुदोह         दुदुहतुः  दुदुहुः       3 तत्तुह्     तत्तुहतुः   तत्तुहुः
 
-    ( a )  The vowel following the Samprasāraṇa  is  dropped.
+  मुह् is similarly conjugated       वह् is similarly conjugate
+छुह्रहिव छुह्रह 1 dual, छुह्राहिथ्,    बर्बाहिथ्-बर्बढ़ 2nd sing, बढ़ाहि
+हुमोह, छुमर्भथ् 2 sing. &c.           बढ़ह 1 dual.
 
-§ 504   The roots that reject इ altogether in the Perfect—
+                स्निह् 4. P. ' to love. '
 
-                   कृ P. Â. ' to do '
+    1 सिष्णेह्              सिष्णिहिव              सिष्णिहिम
+                         सिष्णिह्र               सिष्णिह्र
+    2 सिष्णेहिथ्           सिष्णिहथुः             सिष्णिह्
+      सिष्णेह्, सिष्णेभथ्
+    3 सिष्णेह्             सिष्णिहतुः             सिष्णिहुः
 
-1. चकार, चकर     चक्र      चक्रम      चक्रे    चक्रवहे   चक्रमहे
-2. चकर्थ         चक्रथुः   चक्र        चक्रिषे  चक्राथे    चक्रध्वे‡
-3. चकार         चक्रतुः   चक्रुः      चक्रे    चक्राते    चक्रिरे
+स्तेह् is to be similarly conjugated.
 
-Conjugate similarly धु, यू, and इ except in the 2nd  per.  sing. which is वर्धिथ.
+                      IRREGULAR BASES
 
-                   But इ with समु*
+§ 509.  The roots श्रन्थु, मन्थु, रम्भु. and स्वड़्जू drop their nasa
+optionally before the terminations of the Perfect. श्रन्थु, श्रन्थु
+रम्भु obey § 500, even before the strong terminations when thei
+nasal is dropped.
 
-1, सचकार  सचक्रविह† सचक्रविह  सचक्रे सचक्रविहे सचक्रमिहे
-   समक्रन्                        समक्रन्
-2, सचक्रिथ सचक्रथुः  सचक्र      सचक्रिषे सचक्राथे सचक्राध्वे‡
-3, सचकार सचक्रतुः  सचक्रः     सचक्रे सचक्रते सचक्रिरे
+                    श्रन्थु                              मन्थु
 
-    * समर्थय्मान् कसोती पुरुणो । तमर्थादे च । उयायतिर्वन्यत्रिनुस्त्वमज्यायाद्रिरुषु च Pan.  VI. 1. 137—139.  स is prefixed to the root इ after  the prepositions सम् and परि when it means  to  ornament  or  collect together; and after the preposition उप in the above  sense, as well as in the sense of  procuring  agreeably  to  a  supplicating  to  a thing without destroying the thing itself ( सनी प्रणातपानं मनितल्हः   S. 33. on Pan  H. 3. 58. ) or preparing as  food,  or  supplying what is in hand without obtaining anything new from elsewhere.
+1 शश्रन्थु    शश्रन्थिव    शश्रन्थिम      1 जमन्थु    जमन्थिव     जमन्थि
+  श्रेथु      श्रेथिव      श्रेथिम          मेथु       मेथिव       मेथिम
+2 शश्रन्थिथ्  शश्रन्थुथुः   शश्रन्थु       2 जमन्थिथ्  जमन्थुथुः    जमन्थु
+  श्रेथिथ्    श्रेथथुः     श्रेथ            मेथिथ्     मेथथुः      मेथ
+3 शश्रन्थ     शश्रन्थुतुः   शश्रन्थुः      3 जमन्थ     जमन्थुतुः    जमन्थुः
+  श्रेथ       श्रेथतुः     श्रेथुः           मेथ        मेथतुः      मेथुः
 
-    † The इ is changed to Guṇa as it is preceded  by  a  conjunct consonant now ( Vide § 499  Sid. Kau.  on Pan VII. 1. 10-11. )
-
-    ‡ The य of the terminations क्यष्व , स्यम् , and हे of 2nd per. pl. of the Benedictive, the  Aorist and the Perfect,  is  changed to क् when preceded by any vowel except अ or आ or by य, र, य, र or ल्. When the aforesaid terminations are preceded  by the vowel,  if  र ‍ the इ be preceded by one of the consonants given above.
+* The final इ of the roots दुह्, मुह्, स्निह्, and स्तुह् is change
+to घ् or ह् when followed by any consonant except अ nasal or
+semi-vowel or by nothing.

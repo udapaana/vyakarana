@@ -1,42 +1,47 @@
-[Internal page: 465]
+[Internal page: 479]
 
-§ 778–780 ]                SYNTAX.                    469
+§ 808–809 ]                SYNTAX.                    481
 
-of words is not of material importance, though a perfect
-arbitrariness in that respect is not allowable  Sanskrit Syntax
-also takes further into account the meaning and  use of partic-
-ples, the  various tenses of verbs, and  participles  *  These
-will be  treated of in their proper order.
+noun other than one denoting a driver,  govern  the Instrumental
+of the primitive subject;*  नायुयुति  वाहुयुति  वा  भारं  यरुथेनं  he  mak:s
+his servant  carry  a  load;  युरुञ्चुयुति  रथं  वाहानं  यत्तुः  the  charioteer
+makes the horses draw the chariot.
 
-THE ARTICLE.
+(1) ‡ The same holds good in the case of the causal of अट् and
+साहुङु; आदुयुति  युवुदुवुनं  ना  अन्नं  वुट्युनुं he ma!kes the boy eat his food.
 
-§ 779.  There are no  articles in Sanskrit corresponding to
-the English Definite and Indefinite articles  The words  कश्चित्
-and एकं, however, are often used in the sense of ' a certain ' and
-the numeral एकः, i. e. as equivalent to 'one:' एकस्य नरस्य a certain
-man; एकः पान्थः a traveller, स राजा the king, &c.
+(2) § यट्, when it  has not the sense of  हिंसा ' pain or injury
+to a sentient  thing'  does the same;  भुक्तुयुयुच्युच्युन्  वुट्युनुं;  but भुक्तुयुति
+वुछोरुवुदुदुरे  सस्युयु  (when the loss of corn causes pain to the mind).
 
-§ 780.  As  already remarked ( See § 54 ) there are  three
-numbers in Sanskrit: a singular number,  denoting a single indi-
-vidual, a dual number  denoting  two,  and  a  plural  number
-denoting more than two.  Besides these general senses—
+(b) स्तु and ब्रू which denote a kind of knowledge are construed
+with  the  Instrumental  in  the  Atm.  भोयुनं  याद्युयुङोरुद्युवुचु  when  meaning
+'to  remember  with  pain'  is  sometimes  found  used  with the
+Accusative also;  स्मरुयुति  भीयुयुयुति  वा  देवुदुत्तुनं;  अरिघु  चैदुयुयुयुनोयु
+अतिकुञ्युत्युयुषिश्युयुष्युयुकुनैरे स्मार्युयुन्ते प्रकुट्युतीः । Vide also Siṣ.  VI.  66.
 
-* As the great bulk of Sanskrit literature is thrown in the
-form of verses, the laws of Syntax will be found to be in many
-ways observed by the poets.   In ordinary prose  writings  the
-usual order of words in a sentence is, first the subject  with its
-adjuncts, then  the  object  with its adjuncts,  then  the adverbs
-and other indeclinables ( extensions of the predicate ) and lastly
-the predicate.   The chief characteristics  of  Sanskrit  verse  are,
-in the words of Prof. Max Müller,  "the predominance  of  co-
-ordination, the  use  of the Locative Absolute,  a fondness  for
-compounds and indeclinable participles  supplying  the  place
-of subordinate clauses, the  frequent  employment of the  Past
-Participle instead  of the finite verb,  a  preference  for  verbal
-forms, and the absence of the indirect  construction and  of  the
-subjunctive mood.   For the latter reason the use  of the  tenses
-and moods is comparatively simple, on the  other  hand,  the  use
-of the cases, being much more definite than in  Latin  and Greek
-presents some difficulties.'
+(c) § The causal of the denominative घुच्युयुरु also is construed
+with the Instrumental;  घुच्युयुवुयुति  देवुदुत्तुनं  he  causes  Devadatta
+do  make a sound.
 
-M. Williams' Grammar for Beginners.
+Note:—¶ By intransitive  roots are  meant  such  roots  as are
+not  capable  of  governing an  object  other  than  one  denoting
+space,  time,  &c.  and not such as,  though  transitive,  may  be
+used without their object being  actually  expressed;  भारं  आरुयुति
+देवुदुत्तुं;  but देवुदुत्तुं गच्युयुति and युदुत्युति  though  वुदुतुं  and  देवुदुत्तुं-
+एवं is not actually expressed.
+
+§ 809.  ‖ The  primitive  subject  of  the  verbs  द्युच्  and  स्तु,  of
+
+* नीवुहुयोर्नों । नियुच्युकुटुवुर्त्युयु  वुङूरोनियेयुः । Vārtikas.
+
+† आदिस्युवुरोवें । Vārtika.  ‡ यसैरुहुङुत्युयुनें स न । Vārt.  § इच्युच्युयुवुरुतं
+Vārt
+
+¶ यर्मों देशुकुट्युछोदिविनुर्तों  कुर्मं  न  संजुयुति  सेवुङुकुर्मुकुः  ।  न  त्युविकुयुहुसु-
+कुर्मुणोपि Sid.  Kau.
+
+‖ द्युकुत्तोरुयुयुयुदुरुस्युयुयुम् Pāṇ. I. 4. 43. अविमुवुटिहुड्युनोरुयुर्मुदुवुश्  चेति  वार्त्युकुम् ।
+Vārt.
+
+E. S. G.  31

@@ -1,0 +1,45 @@
+---
+page_number: 88
+internal_page: 80
+chapter: "Subanta or Declension"
+section: "declension"
+rules_starting: ["§ 126", "§ 127", "§ 128"]
+rules_continuing: []
+has_footnotes: true
+---
+
+WORDS OF IRREGULAR DECLENSION.
+
+§ 126. अस्थि n. a bone, दधि n. curds, सक्थि n. a thigh and अक्षि n. an eye, become अस्थ्न्, दध्न्, सक्थ्न्, and अक्ष्न् respectively before the vowel terminations beginning with the I. sing.* and then they follow the declension of nouns in न्; in other respects they are declined like वारि.
+
+अस्थि.
+
+N.    अस्थि         अस्थिनी        अस्थीनि
+V.    अस्थे-स्थि       "             "
+A.    अस्थि          "             "
+I.    अस्थ्ना        अस्थिभ्याम्     अस्थिभिः
+D.    अस्थ्ने        अस्थिभ्याम्     अस्थिभ्यः
+Ab.   अस्थ्नः         "             "
+G.     "           अस्थ्नोः        अस्थ्नाम्
+L.    अस्थ्नि-स्थ्नि     "           अस्थिषु
+
+दधि and the rest should be similarly declined.
+
+§ 127. अप् f. water, is declined in the plural; it lengthens its अ in the N. and changes its प् to द् before consonantal terminations. आपः-आपः-आप्भिः-आद्भ्यः-आद्भ्यः-आपाम्-आप्सु.
+
+§ 128. The words जरा f. old age, अजर m. one not getting old and निजर a god, optionally assume the forms जरस्, अजरस् and निजरस् before the vowel terminations:—
+
+जरा.
+
+N.    जरा          जरे, जरसौ      जराः, जरसः
+V.    जरे           "              "
+A.    जराम्, जरसम्    "              "
+I.    जरया, जरसा    जराभ्याम्       जराभिः
+D.    जरायै, जरसे     "            जराभ्यः
+Ab.   जरायाः, जरसः    "             "
+
+---
+
+## Footnotes
+
+* अस्थिदधिसक्थ्यक्ष्णामनङ्याच । VII. 1. 75.

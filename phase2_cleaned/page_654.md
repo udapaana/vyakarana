@@ -1,0 +1,55 @@
+---
+page_number: 654
+internal_page: 654
+chapter: "Appendix II - Dhātukośa"
+section: "dhātukośa"
+rules_starting: []
+rules_continuing: []
+has_footnotes: false
+---
+
+92                   SANSKRIT GRAMMAR.
+
+स्लुोक्ष्( see    ,, भुुाक्ष्).  }
+स्लुाष्( see    ,, भुुाष्).  } changing भु to स्लु.
+स्लुेष् ( see    ,, भुैष् ).  }
+
+                     म—
+
+मंह् 1 A वुद्धौ to grow; P. भाषाग्यां दीप्तौ च to speak, to shine;
+  मंहुतै-ति pre ममंह-भै perf. मंहिता p. fut. अमंहिष्टु अमंहीत Aor.
+  मंहीष्ट. मंह्युयात् ben. Pass.—मंहुतै निमंहिषत-ति des. मंहित p. p.
+
+मंह् 10 U. to speak, to shine; मंहयिष्युयुति-तै fut. अममंहत-न Aor.
+
+मक्क् 1 A. to go, to move; मक्कुतै pre. ममक्कै perf. अमक्किष्टु aor.
+
+मश् 1 P. संचतै to accumulate, to be angry; मशुति pre. ममक्ष
+  perf. अमक्षीत aor.
+
+मस् 1 P. गतौ to go, to creep; मसुति pre. ममास perf. मसिता p.
+  fut. अमासीत, अमासीत aor.
+
+मकु 1 P. अदनै to adorn; मकुति pre, ममक्कै perf. मकुिता p. fut.
+  अमकुिष्टु aor.
+
+मकू 1 P. गतौ to go; मकूति pre. ममकू perf. मकूिता p. fut. अमकुीत
+  aor. Pass.—मकु्युतै pre. अमाकुि aor.
+
+मकु 1 P. to go, to move; ( same as above ).
+
+मकू 1 P. मण्डनै to adorn, to decorate; मकूति pre. ममकू perf.
+  मकुिता p. fut. अमकुीत aor. Pass.—मंकुतै
+
+मंच् 1 A. मन्त्रादनै आरम्भै कैलनै च to move quickly, to start; to
+  begin, to cheat; मंचुतै pre. ममंचै perf. मंचिता p. fut अमंचिष्टु
+  aor. मंचिषीष्ट ben.
+
+मंष् 1 A. दम्भै कम्युनै कलनै च to cheat, to be wicked, to boast, to
+  pound; मंषुतै pre. मैषै perf. मंषिता p. fut अमंषिष्टु aor.
+
+मंत्र् 1 A. पारणोङ्खुयापुनुनेषु to hold, to grow high, to go, to adore,.
+  to shine; मञ्छुत pre. ममञ्छुै perf. मंत्रिता p. fut. अमंत्रिष्टु aor.
+
+मञ्ज् 10 U. शोदै to sound; मञ्जुयाति-तै pre. मञ्जुयाचकार-चक्रै, &c.
+  perf. मञ्जुयिता p fut. अमिमञ्जत-न aor.

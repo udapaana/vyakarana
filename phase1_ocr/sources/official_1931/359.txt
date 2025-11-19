@@ -1,45 +1,40 @@
-[Internal page: 345]
+[Internal page: 359]
 
-§ 558-563 ]          CONJUGATION OF VERBS.                   345
+§ 587-589 ]          CONJUGATION OF VERBS.                   359
 
-take this Variety.  पभ् with उप or उद्द्, Â. and रश् Â. take the
-fourth Variety.
+2 स्तरिषीष्ठाः स्तरिषीयाथाम्                2 स्तुषीष्ठाः स्तुषीयाथाम्
+             स्तरिषीध्वम्-म्                          स्तुषीध्वम्-म्
+3 स्तरिषीष्ट  स्तरिषीयाताम् स्तरिषीरन्    3 स्तुषीष्ट स्तुषीयाताम्  स्तुषीरन्
 
-§ 559.  The roots ending in आ which are restricted to the
-First, Second and Third Varieties do not take this Variety.
+    Conjugate रह् Par. like स्तृ
+                         1 sing
 
-                      PARADIGMS
+स्तृद्-स्तीर्यासम् , स्तरिषीय, स्तीरीय        वृप्-उच्यासम् , वृप्सीय
+वृ-वूर्यासम् , वरिषीय, वूरीय               वृह्-उह्यासम् , वह्सीय
+दृ-दैयासम् , दरिसीय                      वे-उच्यासम् , वासीय
+धा-धैयासम् , धासीय                      ट्ये-नैयासम् , ट्यासीय
+प्रा- प्रा-प्रे-यासम् , प्रासीय             हे-हूयासम् , हासीय
+वच्-उच्यासम्                            यह्-यह्यासम् , यहीषीय
+स्वर्-सुप्यासम्                           त्रह्-त्रूह्यासम्
+प्रच्छ्-पृच्छयासम्                        शास्-शिष्यासम्
+क्षिच्-क्ष्उज्यासम् , भक्षीय, भक्षीय       शो-शायीषीय
+यज्-इञ्यासम् , यक्षीय                     हृत्-वध्यात्
 
-                      घछू.
+                Irregular Benedictives.
 
-         1 अयंसिषम्        अयंसिष्व         अयंसिष्म
-         2 अयंसीः          अयंसिष्टम्        अयंसिष्ट
-         3 अयंसीत्          अयंसिष्टाम्        अयंसिषुः
+§ 588   इ ' to go '—ईयासम् ; but shortens its ई after a prepo-
+sition , सनियासम् ; Ātm· एषीय. ऊह् also, when  joined with
+prepositions. shortens its ऊ before weak terminations beginning
+with य; सहुयासम्.
 
-विरम्—अरंसिषम्, व्यरंसिष्व, व्यरंसिष्म &c ; नम्—अनंसिषम्, अनंसिष्व,
-अनंसिष्म, &c ; शो—अशासिषम्, &c ; ळो—अञ्छासिषम्, &c.; भि or
-भी—अभासिषम्, अभासिष्व, अभासिष्म, &c.; ली—अलासिषम् अलासिष्व,
-अलासिष्म, &c.
+                    SECTION II.
 
+                   THE PASSIVE
 
-          SEVENTH VARIETY OR FORM.
-                ( Parasam. and Ātm. )
+§ 589.  Every root in every one of the ten conjugational
+classes may take a Passive form conjugated like an Ātmanepadi
+root of the 4th Class *
 
-§ 560.  Terminations:—
-
-           Par.                            Âtm.
-
-1 सम्     साव     साम               1 सि      सावहि     सामहि
-2 सः     सतम्    सत                2 सथाः    साथाम्     सध्वम्
-3 सत्     सताम्   सन्               3 सत      साताम्     सन्त
-
-§ 561.  Anit roots ending in घ्र, इ, स्, and द् and having इ, उ,
-छू or द् for their penultimate take this Form    हृम् is an excep-
-tion; it therefore takes the Fourth Variety.
-
-§ 562.  उञ्च्, रुञ्च्र and हुञ्च्र, 1 P. 6 P. Â. optionally belong to
-this Variety.
-
-§ 563   The roots हुह् , दिह् , लिह् , and यघुह् when Ātmanepadi
-drop the initial स or घ्रा of the terminations of the 1st dual. 3rd
-sing. and 2nd sing and pl. optionally.
+* The only difference is in the accent; in the Passive it falls
+on य, whereas in the case of the primitive verbs of the 4th class,
+Ātm., it falls on the radical syllable.

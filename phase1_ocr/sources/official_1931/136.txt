@@ -1,39 +1,18 @@
-[Internal page: 118]
-118                    SANSKRIT GRAMMAR.                    [ § 192-194
+[Internal page: 136]
+136                    SANSKRIT GRAMMAR.                    [ § 222
 
-षेत्राश्च; पुत्रपौत्रम् ; so स्त्रीकुमारन् , उट्रुखरम् camels and asses, उट्रशाठम्
-camels and rabbits, नाभ्मसंगितम्, दूषीशराद् holy grass and reeds,
-दूर्णोदुम्बम् grass and soft grass or shrubs, दासीदासम् &c.
+or reproached are placed first; as वैयाकरणासदन्चिः 'a bad grammarian,' 'one who has forgotten his grammar and therefore can make no use of his knowledge;' (पुत्र: सद् पुदर्ग वित्तमारयिन्नु यं सुच्यति अध्यात्मवेद्युपत्ति एकद्युब्ध्यते । Tatv.); so मीमांसकाद्धुङ्घेः 'a mīmāmsaka who is a sceptic' or 'an unbeliever', except in the case of the words पाप, अपक and किं; as पापनापितः 'a bad barber,' अपककुत्सालः 'a mean, silly potter,' कुत्सितः रामा किंराज:, किंसब्दा (कुत्सितः सखा), &c.
 
-( b ) Itaretara Dwandwas:—दधिमधुसी curds and milk, इन्धा-
-वहिर्यं holy sticks and grass, तार्पंथूर्ती, मधुस्तप्ती honey and ghee,
-शुकैकुण्णौं, अश्वयवनतपसौं, आयवसानिं, उदसलघुसलौ, ऋकसामं ( ऋक्+
-सामन् ) Rik and the Sāman verses; वाङ्मनसे ( वाक्् + मनस् ) speech
-and mind ( the न् of सामन् dropped and अ added to मनस्
-irregularly by Pān. V. 4. 77 ).
+(d)* Words in apposition to इन्द्रारक, नाग and कुञ्जर are also placed first; e. g. वृपवुन्द्रारकः 'an eminent king,' तापसकुञ्जरः, छुरुषनाग:, &c.
 
-§ 193.  When words ending in ऋ and implying relationship
-by blood or literary avocation are compounded together, the
-last but one word changes its ऋ to आ. The same happens
-when the word भ्रा follows a word ending in ऋ under the
-same circumstances; * होता च पोता च होतापोतारौ two priests so
-called, होता च पोता च नेटा च उद्गाता च होतृपोतृनेटोद्गातारः; ( but if
-two words be taken at a time the ऋ may, at every step, be
-changed into आ; as होता च पोता च होतापोतारौ तौ च उद्गाता च
-होतापोतोद्गातारः &c. ), पिता च पुत्रश्चं पितापुत्रौ, माता च पिता च
-मातापित्रौ, also मातरपितरौ ( Pān. VI. 3. 32. ), and पितरौ
-( vide § 197 a).
+(e)† कतर and कतम are compounded only when they ask a question with reference to a class ( जाति family), and are placed first; e. g. कतर-कतम-कटः 'which Brāhmana of the Katha branch'? कतर-कतम-कलापः 'which Brāhmana of the Kalāpa branch'? But कतरः पुत्रः 'which son'?
 
-§ 194.  ( a ) When the names of deities well known to be
-in constant association with each other are compounded, आ is
-substituted for the final vowel of the preceding word, except
-in the case of the word वायु × ; e. g. मित्राबरुणौ, सुर्याचन्द्रमसौ,
-अभ्रामरूतौ, &o. but आद्रिवायु or बाग्मयी.
+(f)‡ The word कुमार (and also कुमारी changed to कुमार) is placed first when compounded with one of the words अम्रणा, मन्तिता, कुलटा, गर्भिणी, तापसी, दासी, अध्यापक, पीण्ढत, पद्धु, भुच्छ, कुषल, चपल and निपुण; as कुमारअम्रणा 'a female mendicant,' कुमारमन्तिता 'a young female ascetic'; कुमारसुद्धु-द्धौ 'a delicate boy or girl, कुमारगर्भिणी, कुमारध्यापकः, &c.
 
-( b )  The word अग्नि followed by the word सोम or बरुण
-lengthens its इ; as अग्नीषोमौ, अग्नीवरुणौ.
+(g)§ The words एक, सर्व, जरद्, पुराण, नव and केवल; and the
 
-आनङ् ऋतो हर्त्ते । Pān. VI. 3. 25. द्वयोर्देवयोर्विद्ध टस्या सुनद्ध टु
-होतापोत्रोद्गातारः । Sid. Kau.
-× दैवतादृद्धिं च । Pān. VI. 3. 26. बायुशब्दप्रयोगे प्रतिषेधः । Vārt.
-ईद्धेः सोमबरुणयोः । Pān. VI. 3. 27.
+* वृन्द्रारकनागकुञ्जरौ. पूज्यभातम् । Pān. II. 1. 62.
+† कतरकतमौ जातिपरिमर्ने Pān. II. 1. 68.
+‡ कुमारः अम्रणादिभिः । Pān. II. 1. 70.
+§ पूर्वकालैकसर्वजरत्पुराणवकेवलाः समानाधिकरणेन । Pān. II. 1. 49.
+पूर्वेपरप्रथमरत्नमध्यमसमानमध्यमवत्तरात्रः । Pān. II. 1. 58. अपर-स्याभे पक्षभावौ घकुच्छयः । Vārt.

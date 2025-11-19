@@ -1,0 +1,49 @@
+---
+page_number: 46
+internal_page: 38
+chapter: "Subanta or Declension"
+section: "declension"
+rules_starting: []
+rules_continuing: ["§ 69"]
+has_footnotes: true
+---
+
+V.   धते          धक्          धत्त:
+A.   धत्य         धक्          धत्तम्
+I.   धत्त्वा       धक्यात्       धत्तै:
+D.   धते          "           धत्तभि:
+Ab.  धत:          "           धत्तभ्य:
+G.    "           "            "
+L.   धते          धयै:         धत्तनाम्
+                               धत्तसु
+
+धेनु fem. a cow.
+
+N.   धेनु:         धेनू          धेनव:
+V.   धेनो          "             "
+A.   धेनुम्         "           धेनू:
+I.   धेन्वा        धेनुभ्याम्     धेनुभि:
+D.   धेन्वै, धेन्वे    "           धेनुभ्य:
+Ab.  धेनो:, धेन्वा:    "             "
+G.    "    "       धेन्वो:        "
+I.   धेनौ, धेन्वाम्    "           धेनुनाम्
+                               धेनुषु
+
+वारि neu. water.
+
+N.   वारि         वारिणी       वारिणि
+V.   वारे or वारि    "            "
+A.   वारि          "            "
+I.   वारिणा       वारिभ्याम्    वारिभि:
+D.   वारिणे         "          वारिभ्य:
+Ab.  वारिण:         "             "
+G.   वारिण:       वारिणो:         "
+L.   वारिणि         "          वारीणाम्
+                               वारिषु
+
+---
+
+## Footnotes
+
+इन्द्राग्नि त्रिषम्कौ । Pāṇ. VII. 1. 73. Neu. nouns ending in
+इ, उ, ऋ or ऌ take the augment न् before vowel case terminations.

@@ -1,43 +1,26 @@
-[Internal page: 283]
+[Internal page: 297]
 
-§ 449-451 ]         CONJUGATION OF VERBS.                     283
+§ 458-463 ]         CONJUGATION OF VERBS.                     297
 
-         Imperative.                    Potential.
+    माह् मासिते जानैडु सामनी हिवातौ स्पम्रतौ ।
+    रथतिः शेषितीशान्तो पान्तः पञ्चेन कल्पतौ ॥ २ ॥
+    योपयतितव्यमानिदं जृपं द्युवातितसाः था ।
+    मान्तो हामतौ क्षमतेःधुढौ कोडानाति नष्यताः ॥ ३ ॥
+    ज्ञानन्तावरोगातितधेश्च निस्तूष्याविदेश तम्भिति ।
+    तक्षतीदेश चकारोन्तो हाय हानाद्धेश मागरे ॥ ४ ॥
+    पदुद्रवे सहतिदेश ऋचारोनाम्बनृगतौ ।
+    ठुरुतिनेदेहुड्ढिसग्या हुहुति हुभूति ॥ ५ ॥
+    स्थूहृति निर्भहृति स्थुझर्भृति मेडुग्रि हिं भातवः ।
+    याज्ञानां तु याज्येष्य येहै स्मृतद्रन्यचु संयुतौ ॥ ६ ॥
 
-1. चिकयानि    चिकयाव   चिकयाम       चिकियाम्   चिकियाव    चिकियाम्
-2. चिकिहि     चिकितम्  चिकित        चिकियाः   चिकियातम्  चिकियात
-3. चिकेतु     चिकिताम् चिकियतु      चिकियात्  चिकियाताम् चिकियुः
+§ 459.  Roots ending य, रु, and ओ are to be treated  as roots ending in अय.  Also roots of त्री 3 Â. ' to kill,' सि 4 Â. ' to perish,' before a termination causing Guṇa or Vṛddhi; सि 9 P. 4 Â. ' to adhere or cling to ' changes its vowel to अय optionally under the same circumstances
 
-                   हु P. ' to sacrifice.'
+§ 460  Roots of the tenth class preserve  their अयु ( i. e  अयु with the final अ dropped ) with all the changes  that  the  root undergoes before अयु in the general tenses.
 
-         Present.                       Imperfect.
+§ 461.  The roots मय,  पयु,  विच्छु, पचू, पज़, कम, and कत् preserve their conjugational bases optionally.
 
-1. जुहोमि     जुहुवः    जुहुमः        अजुहवम्    अजुहुव      अजुहुम
-2. जुहोषि     जुहुथः    जुहुथ         अजुहोः     अजुहुतम्    अजुहुत
-3. जुहोति     जुहुतः    जुहुति        अजुहोत्    अजुहुताम्   अजुहुवुः
+§ 462. अचू  and  ञ  substitute  for  themselves  ञ  and  ञ्च respectively.
 
-         Imperative.                    Potential.
+§ 463  Neither Guṇa nor Vṛddhi is substituted for the vowel of a few roots of the 6th class even before a strong termination except the स्य of the 1st and 3rd person  sing.  of the Perfect, the सीय of the causal and the स्य of the 3rd pers. sing. of the Passive
 
-1. जुहवानि    जुहवाव   जुहवाम       जुहुयाम्    जुहुयाव     जुहुयाम्
-2. जुहुहि     जुहुतम्  जुहुत        जुहुयाः    जुहुयातम्   जुहुयात
-3. जुहोतु     जुहुताम् जुहुवतु      जुहुयात्   जुहुयाताम्  जुहुयुः
-
-                   ह्री P. ' to be  ashamed
-
-         Present                        Imperfect
-
-1.             जिह्रीवः   जिह्रीमः      अजिह्रयम्   अजिह्रीव    अजिह्रीम्
-2.             जिह्रीथः   जिह्रीत       अजिह्रेः    अजिह्रीतम्  अजिह्रीत
-3.             जिह्रीतः                अजिह्रेत्   अजिह्रीताम् अजिह्रयुः
-
-         Imperative.                    Potential.
-
-1. जिह्रयाणि   जिह्रयाव  जिह्रयाम      जिह्रीयाम्  जिह्रीयाव   जिह्रीयाम
-2. जिह्रीहि    जिह्रीतम् जिह्रीत       जिह्रीयाः  जिह्रीयातम् जिह्रीयात
-3. जिह्रेतु    जिह्रीताम् जिहियतु      जिह्रीयात् जिह्रीयाताम् जि
-
-                       IRREGULAR BASES:—
-
-§ 450 The vowel of the roots मा, हा ' to go ' ध्, घु or घु 'to fill' and च is changed to इ in the reduplicative syllable.
-
-§ 451.  The इ of the reduplicative syllable of  निज्, विच् and
+    * These couplets as well as those  bearing  on  the  2nd  variety of the Aorist are composed by Mr. Chintāmaṇa Ātmārām Kelk r, of the Poona learned S'ästris of the Training College.

@@ -1,47 +1,22 @@
-[Internal page: 704]
+[Internal page: 718]
 
-142                   SANSKRIT GRAMMAR.
+156                   SANSKRIT GRAMMAR
 
-   सुसूयाति-तै des. Pass.—सूयुतै pre. असावि aor. Cau.—सावयाति-तै
-   pre. असूषवत-न aor.
+   1 A. ह्लुसै, अन्युयक्तै शब्दै च to be glad, to sound; ह्लादतै pre. जह्लादै
+   perf ह्लादिता p fut. अह्लादीष्ट aor. Cau.—ह्लादुयाति-तै pre जिह्ला-
+   दिषतै des. ह्लन्न p.p.
 
-सुख् 10 U. सुखक्रियायां to make happy; सुखयाति-तै pre.
+   1 P. वैकुल्युयै to be afflicted, to go, to shake; ह्ललति pre. जह्लाल
+   perf. ह्ललिता p fut. अह्लालीत aor. Cau.—ह्ललुयाति-तै, ह्ललुययाति-तै,
+   ( with a prep ह्ललुयाति-तै only ) pre. आजिह्ललत्—aor जिह्ल-
+   लिषाति des. ह्ललित p p
 
-सुद् 10 U. अनादरै to despise; सुदुयाति तै pre.
+   1 P. कैटिल्युयै to be crooked, to deceive, to be afliicted; ह्लृषति
+   pre. जह्लार perf. ह्लृतौ p. fut ह्लरिष्युति fut. अह्लारीत् aor. ह्लर्युयात्
+   ben. जुह्लुरीति des. Cau.—ह्लारयाति-तै pre. ह्लूत p.p.
 
-सुर् 1 & 6 P. भाषाहिंसयो: to speak, to hurt; सोर्युति, सुभुति pre.
-   असोर्युीत् Aor. Also सुष्य् 1 & 6 P.
-
-स 2 & 4 A. प्राणनैषर्त्तनञै to bring forth, to produce; क्षते,
-   सूयुतै pre. सुसुवै perf. सोता, सोतिता p. fut. असोषीष्ट, असोषीष्ट aor.
-   सोषीष्ट, सवीषीष्ट ben. सुसुतै des. Pass.—सूयुतै pre. असूति aor.
-   Cau.—सावयाति तै pre. असूषवत-न aor. सूत ( 2 ), सून ( 4 ) p. p.
-
-स 6 P. प्रेरणै to excite, to impel; सुवुति pre. सविष्युति fut. असूवीत्
-   Aor.
-
-सुत् 10 U. पैदुन्युयै to point out, to betray; to indicate by gesture,
-   to direct, to impel; सूतयाति-तै pre. सूतयाचकार-चक्रै perf. सूचयिता
-   p. fut. असूसुतत-न aor. सुसूयिषाति-तै des. सूचित p. p.
-
-सुत्र् 10 U. वैष्टनै to string, to write in the form of a concise
-   rule, to plan, to unbind; सूत्रुयाति-तै pre सूत्रयाम्आस perf.
-   सूत्रयिता p. fut. असूसूत्रत-न aor.
-
-सुद् 1 A. क्षरणै to strike, to pour out, to deposit, to destroy;
-   सुदतै pre. सुसुदै perf. सुदितै p. fut. असुदिष्ट aor. सुसुदिषतै des.
-   Cau.—सूदयति-तै pre. असूसुदत-न aor.
-
-सुद् 10 U. क्षरणै to incite, to strike, to cook, to dress, to pour
-   out, to promise; सूदयाति-तै pre. सूदयञ्चकार-चक्रै perf. सूदयिता
-   p. fut. असूसुदत-न aor. सूदित p. p.
-
-सुद् 1 P. आदरै to respect, to disregard; सूदुति pre. सुसूद perf.
-   सूदिता p. fut. असुदीत् Aor.
-
-स 3 ( Vedic ) & 1 P. to go, to run; ससति, सरात ( षासति he
-   runs ) pre. to stir perf. सर्ता p. fut. असरत् ( 3 P. ); असाषीत्
-   ( 1 P. ) aor. सियुयात् ben. सिसरिषति des. Cau.—सारयाति-तै pre.
-
-सृज् 4 A. विसर्गै to let loose, to send forth; सृज्युतै pre. सृसृजतै fut.
-   असृष्ट Aor. सिसृक्षतै des
+   1 U. स्पधैयां शङइ च to vie with, to call by name, to invoke,
+   to call upon, to ask, ह्वयाति-तै pre. जुहुाव, जुहुवै perf ह्वाता p.
+   fut. अह्ववत-न, अह्वास्त aor. हूयुयात्, ह्वासीष्ट ben. जुहुूषाति-तै des.
+   Pass,—ह्वूयुतै pre. अह्वायि aor. Cau.—ह्वायुयाति-तै pre अजूहवत-न
+   aor. हूत p.p हुत्वा ger. ह्वातुम inf

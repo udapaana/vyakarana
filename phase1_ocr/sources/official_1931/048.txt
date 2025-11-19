@@ -1,27 +1,42 @@
-[Internal page: 32]
-32                        SANSKRIT GRAMMAR.                    [49-52
+[Internal page: 48]
+48                        SANSKRIT GRAMMAR.                    [ § 79-
 
-and रात्रि, visarga is substituted for it; अहः, अहरह: day by day; अहःपतिः or अहर्पतिः the lord of the day, the sun; गीपतिः or गीष्पतिः Bṛhaspati; प्रणेतिः or प्रण्वतिः a leader; but अहोऽभ्याम्  Inst-dual; अहोऽस्पम् the form of the day गतमहो रात्रिरगा; अहोरात्रः day and night; अहोरथन्दसम् a protection of Saman to be chanted by day.
+§ 79.                    स्त्री fem. a woman *
 
-   (c) *र् or ङ् followed by र or ङ respectively is droppped, and the preceding अ, इ or उ if short is made long; पुनर्+रमते=पुना रमते spor's again;  हरिः+रम्य=हरिरु+रम्य:=हरी रम्यः Hari is graceful; but वृद्+ढः=वृढः ( form वृह्+त ) p. p. of वृह् to grow.
+N.  स्त्री       स्त्रियौ    स्त्रियः     D.  स्त्रियै   स्त्रीभ्याम्  स्त्रीभ्य
+V.  स्त्रि        ,,        ,,        Ab.  स्त्रियाः      ,,         ,,
+A.  स्त्रियम्-स्त्रीम् ,,    ,, स्त्रीः G.  स्त्रियाः  स्त्रियोः    स्त्रीणाम्
+I.  स्त्रिया    स्त्रीभ्याम्  स्त्रीभिः L.  स्त्रियाम्    ,,        स्त्रीषु
+    Obs.  अतिस्त्री m. n. f.
 
-   § 50. †(a) The स् of the nom. sing. of तद् and एतद् mas. is dropped before a consonant when they do not end in क् or are not used in a negative Tatpurusha; e.g. स शंसुः, एष विष्णुः; but एषको रुद्रः this Rudra; असडिधःधः that is not Siva ( a neg. Tat. ); एषोड्र.
+                            mas.
+    N.   अतिस्त्रिः              अतिस्त्रियौ          अतिस्त्रियः
+    V.   अतिस्त्रि                  ,,                  ,,
+    H.   अतिस्त्रियम्-अतिस्त्रिम्      ,,              अतिस्त्रियःअतिञ्ज
+    I.   अतिस्त्रिणा            अतिस्त्रिभ्याम्       अतिस्त्रिभिः
+    D.   अतिस्त्रिये                ,,              अतिस्त्रिभ्यः
+   Ab.   अतिस्त्रिः                 ,,                  ,,
+    G.    ,,                   अतिस्त्रियोः         अतिस्त्रीणाम्
+    L.   अतिस्त्रौ                  ,,              अतिस्त्रिषु
 
-   (b) ‡ Sometimes in poetry the स् of सः and एषः is considered as not existing when followed by a vowel other than अ, so that the two vowels may combine in order to meet the exigencies of the metre: e. g. तेषामर्षडिङ्कुद्धु पश्येति य ईक्षीधे &c. Rg. II. 24. I
+                            fem.
 
+Acc. plu. अतिस्त्रियः अतिस्त्रीः; the I. D. Ab. G. and L. si
+lars. अतिस्त्रिया, अतिस्त्रियै—स्त्रै, अतिस्त्रियाः—स्त्राः—अतिस्त्रिया:
+अतिस्त्रियाम्—स्त्रौ respectively; the rest like the mas.
 
-सैष द्राड्राथौ रामः सैष राजा युधिष्ठिरः ।
-सैष कर्णो महात्यागी सैष भीमो महाबलः ॥
+                            neu.
 
-                            Chapter III.
-                              ———O:O———
+    Like शुचि except in the Gen. and Loc. duals forms w
+are अतिस्त्रियोः—नोः.
 
-                    SUBANTA OR DECLENSION.
+§ 80. Mas. words ending in ऊ not derived from roots;
+हह name of a Gandharva.
 
-   § 51.  In the present chapter Declension or the inflection of nouns, substantive and adjective, is considered
+        N. V.   हूहः                 हूहौ                 हूहः
+          A.    हूहम्                 ,,                  हूहून्
+          I.    हूहा              हूहभ्याम्             हूहभिः
+          D.    हूहे                 ,,                 हूहभ्यः
+         Ab.    हूहः                 ,,                   ,,
 
-   § 52.  The crude form of a noun ( any declinable word ) not yet inflected is technically called a Prātipadika ( प्रातिपदिक )
-
-* रात्रि । दूलोमे एवेस्य ङीघवोऽण्याः Pān. VIII. 3. 14. VI. 3. 111.
-† एतत्तदोः सुलोपेऽकोरनञ्समासे हलि ।       ‡ तेऽपि लोपे नेत्यादुदुराण्वड् ।
-Pān. VI. 1. 132, 134.
+* स्त्रियाः । वाभ्यासौ । Pān. VI. 4. 79. 80.

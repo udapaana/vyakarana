@@ -1,0 +1,50 @@
+---
+page_number: 663
+internal_page: 663
+chapter: "Appendix II - Dhātukośa"
+section: "dhātukośa"
+rules_starting: []
+rules_continuing: []
+has_footnotes: false
+---
+
+                    DHĀTUKOŚA.                               101
+
+मुथु 1 P. समुडुति to strike, to collect; मुथुति pre. ममुथु perf.
+  अमुथुीत aor.
+
+मुग् 4 P. अन्वेषणै to seek, to hunt, to examine, to beg, मुग्युति pre.
+  ममर्ग perf. मगिता p fut. मगिष्युयुति fut. अमगीत aor. मुगित p p.
+
+मुग् 10 A. अन्वेषणै to seek, &c; मुगयतै pre. मुगयाचक्रै perf.
+  मुगयिता p. fut. मुगयिष्युयत् fut. अममुगत aor. मुगयिषीष्ट ben.
+  निमुगयिषतै des. Pass.—मुग्युतै pre. अमुगि aor.
+
+मुज् 1 P. शौचालङ्कुगुरत्वो. to wipe etc; माजुति pre ममाज perf. ( See
+  the root below ).
+
+मुज् 2 P. शुद्धौ to wipe off, to rule, to carry ( as a horse ), to
+  adorn; माष्टि pre ममार्ज perf मार्जिता or माष्टुं p. fut. माजिष्युयुति
+  or माक्ष्युयुति fut. अमार्जिष्युयत-अमाक्ष्युयत् con. अमाजीत or अमार्ष्युयत्
+  aor. मुज्युयात् ben. निमुक्षति. निमार्जिषति des Pass.—मुज्युतै pre.
+  अमार्जि aor Cau.—माजुयाति-तै pre अममाजत-न अमीमुजत-न, aor.
+  मुष्ट. मार्जित p p.
+
+मुज् 10 U शौचालङ्कुगुरत्वो: to wipe off &c.; माजयाति-तै pre. माजया-
+  चकार-चक्रै. perf. माजयिता p. fut. माजयिष्युयुति-तै fut. अमीमाजत-न,
+  अमीमुजत-न aor. Pass.—माजुयाति-तै pre. माजित p. p.
+
+मुद् 6 & 9 P. सुखनै to be gracious, to pardon, to be delighted;
+  मुदुति and मुदुनाति pre, ममर्द perf. मुदिता p. fut. अमर्दीत aor.
+
+मुण् 6 P. हिंसायां to kill, to destroy; मुणुति pre, ममृण perf. अम-
+  र्णीत aor.
+
+मुद् 9 P. कोटै to press, to crush, to kill, to rub off; मुदुनाति pre.
+  ममृद perf. मदिता p. fut. मदिष्युयुति, मर्दिष्युयुति fut. अमदीत, अमर्दीत
+  aor. Pass—मृद्युतै pre. अमादि aor. Cau.—मर्दुयाति-तै pre. अमी-
+  मुदत-न or अममर्दुत-न aor. निमर्दिषति des. मृदित p. p.
+
+मुद् 1 U. अन्दनै (हिंसाग्यां च) to be moist, to hurt, to kill, ( in the
+  Vedas) to disregard; मुदुति-तै pre. ममुर्द or ममुदै perf. अमुदीत
+  अमृदिष्टु aor. मृदित्वा, मुदुवा ger.

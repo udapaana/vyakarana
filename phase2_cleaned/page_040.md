@@ -1,0 +1,53 @@
+---
+page_number: 40
+internal_page: 32
+chapter: "Subanta or Declension"
+section: "declension"
+rules_starting: ["§ 50", "§ 51", "§ 52"]
+rules_continuing: ["§ 49"]
+has_footnotes: true
+---
+
+und राजि, visarga is substituted for it; अहः, अहरहः: day by day;
+अहःपतिः or अहर्पतिः the lord of the day, the sun; गीर्पतिः or
+गीस्पतिः Bṛhaspati; धूर्पतिः or धूष्पतिः a leader; but अहोभ्याम् Inst.
+dual; अहोरूपम् the form of the day गतमहो रात्रिरपि; अहोरात्रः day
+and night; अहोरात्रन्तरम् a protection of Śaman to be chanted
+by day.
+
+(c) *र् or ह् followed by र् or ह् respectively is dropped, and
+the preceding अ, इ or उ if short is made long; पुनर् + रमते = पुना
+रमते sports again; हरिः + रम्य = हरिर् + रम्यः = हरी रम्यः Hari is
+graceful; but वृद्ध + हः = वृद्धः ( form वृह् + त ) p. p. of वृह् to grow.
+
+§ 50. †(a) The स् of the nom. sing. of तत् and एतत् mas. is
+dropped before a consonant when they do not end in क or are
+not used in a negative Tatpurusha; e. g. स शङ्कुः; एष विष्णुः; but
+एतत्को रुद्रः this Rudra; असाद्विशिवः that is not Siva ( a neg.
+Tat. ); एतोष्य
+
+(b) †Sometimes in poetry the स् of सः and एषः is considered
+as not existing when followed by a vowel other than अ, so that
+the two vowels may combine in order to meet the exigencies of
+the metre; e. g. सैमानसित्रिदु पश्यति च ईक्षिये &c. Ṛg. II. 24. I.
+
+सैव दानास्यौ रामः सैव राजा युधिष्ठिरः ।
+सैव कर्णो महात्यागी सैव भीमो महाबलः ॥
+
+Chapter III.
+SUBANTA OR DECLENSION
+
+§ 51. In the present chapter Declension or the inflection of
+nouns, substantive and adjective, is considered.
+
+§ 52. The crude form of a noun ( any declinable word ) not
+yet inflected is technically called a Prātipadika ( प्रातिपदिक ).
+
+---
+
+## Footnotes
+
+* एति । द्वल्लोप पूर्वस्य दीर्घोऽणः Pāṇ. VIII. 3. 14. VI. 3. 111.
+
+† क्वत्वोः क्षलोपोऽकारान्तस्यमाङि हिति ।        † सोचि लोप उदात्तयुक्
+Pāṇ. VI. 1. 132, 134.

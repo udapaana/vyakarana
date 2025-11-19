@@ -1,0 +1,54 @@
+---
+page_number: 672
+internal_page: 672
+chapter: "Appendix II - Dhātukośa"
+section: "dhātukośa"
+rules_starting: []
+rules_continuing: []
+has_footnotes: false
+---
+
+110                   SANSKRIT GRAMMAR
+
+रिख् 1 P. गतौ to go; रैखुति pre. रिरैख perf. रैखिष्युयुति fut. अरैखीत aor.
+
+रिख् or रिङ्कु 1 P. गतौ to crawl, to creep, to go slowly; रिखुति or
+  रिङ्कुति pre. रिरिख or रिरिङ्कु perf. अरिखुीत, अरिरङ्कुीत aor.
+
+रिच् 7 U रिक्तुचनै to empty, to clear, to deprive of, to give up;
+  रिणुक्ति or रिङ्क्तै pre. रिरैच or रिरिचै perf. रैक्ता p. fut. रैक्ष्युयाति-तै
+  fut. अरैक्ष्युयत-न con. अरिचत्, अरैचीत, अरिक्त aor. रिच्युयात् or
+  रैक्षीष्ट ben. Pass.—रिच्युतै pre. अरैचि aor. Cau.—रैचुयाति-तै
+  pre. अरिरिचत-न aor. रिरिक्षति-तै des. रिक्त p p. रिक्त्वा ger.
+
+रिच् 1 & 10 P. विनिगमनसम्बुनयो: to divide, to leave, to come
+  together; रैचुति, रैचुयति, pre. रिरैच, रैचुयाचकार perf. अरैचीत,
+  अरिरिचत-न aor. रिरिक्षति, रिरैचयिषति-तै des. रिचित p. p.
+
+रिफ् 6 P. कर्मुश्वदुत्तानिबर्षाहिंसादनैषु to boast, to speak, to fight,
+  to utter a rough grating sound, to give; रिसुति pre. रिरिफु
+  perf. रिसिता p. fut. अरैषीत aor. रिरिफुिषति. रिरिषिषति des.
+  रिसित p.p. ( also written as रिख ).
+
+रिश् 1 A. to crackle, to murmur, to chatter; रैषुतै pre. रिरैषै perf.
+
+रिक्ष् 6 P. to hurt, to kill; रिक्षुति pre. रिरिक्ष perf. रिक्षिता p.
+  fut. अरिक्षीत aor.
+
+रिष् 6 P. हिंसायां to tear, to injure, रिषुति pre. रिरैष perf. रैषा
+  p. fut. रैक्षुति fut. अरैक्ष्युयत् con. अरिक्षुत् aor. रिरिक्षति des.
+
+रिष् 1 & 4 P. हिंसायां to kill, to fail, to perish, to be injured;.
+  रैषुति, रिष्युति pre. रिरैष perf रैषिता or रैषा p. fut. रैषिष्युयुति
+  fut. अरैषीत ( 1st cl. ), अरिष्युत् ( 4th cl. ) aor. रिरिषिषति.
+  रिरैषिषति des रिषु p.p.
+
+री 4 A. श्रवणै to trickle, to ooze, to flow; रीयुतै pre, रिरै perf.
+  रैष्युयुतै fut. अरैष्ट aor.
+
+री 9 P. गतिरैषणयो: to go, to injure, to howl; रिणाति pre. रिराय
+  perf. रैष्युयुति fut. अरैषीत aor. रिरीषति des.
+
+रीष् 1 U. to take, to cover; रीक्षुयाति-तै pre.
+
+रु 1 A. गातरैषणयो: to go, to hurt, to break to pieces ( in the

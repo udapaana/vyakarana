@@ -1,0 +1,52 @@
+---
+page_number: 660
+internal_page: 660
+chapter: "Appendix II - Dhātukośa"
+section: "dhātukośa"
+rules_starting: []
+rules_continuing: []
+has_footnotes: false
+---
+
+98                   SANSKRIT GRAMMAR.
+
+मिम्यै perf. मैथ्युयुतै fut. अमेष्ट aor. निमीषतै des. Cau.—मापुयाति-तै
+  pre. अमीमयत-न aor.
+
+मी 9 U. हिंसायां to kill, to lessen, to change, to be lost
+  मीनाति, मीनीतै pre. ममौ, मिम्यै perf. माता p. fut. अमासीत
+  अमासीत aor. मीयुयात्, मासीष्ट ben. निमासति-तै des. Pass.—
+  मीयुतै pre. Cau.—मापुयाति-तै pre, अमीमयत-न aor. मीत p.p.
+  मीत्वा ger.
+
+मी 1 P. & 10 U. गतौ to go. to understand; मयुति, मायुयति-तै pre.
+  मिमाय, मायुयाचकार-चक्रै, &c. perf. मैता, मायुयिता p. fut. अमै-
+  षीत, अमीमयत-न aor.
+
+मींट् 1 P. निमेषणै to close ( as the eyes ); to twinkle, to be
+  closed or shut ( as the eyes of flowers ), to move, to
+  cause to shut; मीलुति pre मिमील perf. मीलिता p. fut.
+  अमीलीत aor. Cau.—मीलुयाति-तै pre. अमीमिलुत-न, अमीमीलुत-न
+  aor. निमीलिषति des.
+
+मीन् 1 P. स्थैलयै to grow fat; to move मीनुति pre. मिमीन perf.
+  मीनिता p. fut. अमीनिमत aor.
+
+मुट् 1 A. कलनै to deceive, to cheat; मुटुतै pre मुमुटै perf.
+  अमुट्विष्टु aor.
+
+मुट् 6 U. मोक्षणै to loose, to set free, to leave, to abandon;
+  मुडुति-तै pre. मुमोट, मुमुटै perf. मोक्ता p. fut. मोक्ष्युयाति-तै fut.
+  अमुट्युत्, अमुट्त aor. मुट्युयात्, मुट्षीष्ट ben. मुमुुक्षति (मुमुक्षतै, मोक्षितै
+  intran.) des. Cau.—मोचुयाति-तै pre. अमुमुटत-न aor. मुक्त p.p.
+  मुत्त्वा ger.
+
+मुच् or मुञ्च् 1 P. & 10 U. शुद्धौ to cleanse, to purify, to sound;
+  मोचुति, मुञ्चुति, मोचुयाति-तै, मुञ्चुयाति-तै pre. मुमोच, मुमुञ्ज, मोचुया-
+  चकार-चक्रै, मुञ्चुयाचकार-चक्रै, &c. perf.
+
+मुट् 1 P. to अर्दनै to crush, to grind, to kill, मुदुति pre. मुमोट perf.
+  मोडिता p. fut. अमोडीत aor.
+
+मुट् 6 P आक्रोषमर्दुनबन्धनैषु to blame, to crush, to bind; मुदुति pre.
+  See the above root.

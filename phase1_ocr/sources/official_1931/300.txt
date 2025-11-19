@@ -1,41 +1,33 @@
-[Internal page: 286]
+[Internal page: 300]
 
-286                    SANSKRIT GRAMMAR.                    [ § 454
+300                    SANSKRIT GRAMMAR                     [ § 475-480
 
-                          Imperative.
+Benedictive Atm  and  the  Aorist  Par ; वरितासि,  वरीतासि,
+1 sing. दा—करितासि, कारीतासि 1 sing.
 
-1. नेनिजानि   नानिजाव  नेनिजाम      नेनिजै     नेनिजावहै   नेनिजामहै
-2. नेनिग्धि    नेनिक्तम् नेनिक्त       नेनिक्ष्व   नेनिजाथाम्  नेनिग्ध्वम्
-3. नेनेक्तु    नेनिक्ताम् नेनिजतु      नेनिक्ताम् नेनिजाताम्  नेनिजताम्
+§ 476.  त is inserted before the ending consonant of the root मसु before which स is dropped,  and  after  the  vowel  of  नसु, पोरु and दिवु followed by any  consonant  except  a  nasal or a semi-vowel: मग्रु &c.; वंद्र,  मशिद्र.  The  स  of मसु  is  changed to य when not  dropped
 
-                          Potential.
+§ 477.  वी is substituted  for  अच्  1 P. ' to go '  necessarily before  any  non-conjugational  termination,  and  optionally before such as begin with any consonant except य , चेता,  अचिता;
+चेयाम,  अचियाम &c.
 
-1. नेनिज्याम्  नेनिज्याव  नेनिज्याम   नेनिजीय   नेनिजीवहि   नेनिजीमहि
-2. नेनिज्याः  नेनिज्यातम् नेनिज्यात   नेनिजीथाः नेनिजीयाथाम् नेनिजीध्वम्
-3. नेनिज्यात् नेनिज्याताम् नेनिज्युः   नेनिजीत   नेनिजीयाताम् नेनिजीरन्
+        ( 2 ) Second Future ( लुट् ) and  ( 3 )  Conditional ( लुड्_ ).
 
-Conjugate विच् P  A.  similarly.
+§ 478.  Terminations of the Second Future:—
 
-                   पु P. ' to fill, to protect.'
+         Parasm.                        Atmane
 
-         Present.                       Imperfect.
+1. स्यामि*     स्याव:     स्याम:        1. स्ये     स्यावहे     स्यामहे
+2. स्यसि      स्यथ:     स्यथ          2. स्यसे    स्यसेथे     स्यध्वे
+3. स्यति      स्यत:     स्यन्ते        3. स्यते    स्यसेते     स्यन्ते
 
-1. पिपर्मि     पिपृवः    पिपृमः        अपिपरम्    अपिपृव      अपिपृम
-2. पिपर्षि     पिपृथः    पिपृथ         आपिपः     अपिपृतम्    अपिपृत
-3 पिपर्ति     पिपृतः    पिपृति        आपिपः     अपिपृताम्   अपिपरुः
+§ 479.  Terminations of the Conditional:—
 
-         Imperative.                    Potential.
+1. स्यम्†      स्याव     स्याम          1. स्ये     स्यावहि     स्यामहि
+2. स्य:       स्यतम्    स्यत           2. स्यथा:   स्येथाम्    स्यध्वम्
+3. स्यत्      स्यताम्   स्यन्          3. स्यत    स्येताम्    स्यन्त
 
-1. पिपराणि    पिपराव   पिपराम       पिपृयाम्   पिपृयाव     पिपृयाम
-2. पिपृहि     पिपृतम्  पिपृत        पिपृयाः   पिपृयातम्   पिपृयात
-3. पिपर्तु    पिपृताम् पिपृतु       पिपृयात्  पिपृयाताम्  पिपृयुः
+§ 480.  इ is substituted for the ending स of a  root when followed by any  non-conjugational termination beginning with a conso-
 
-                   पू P. ' to protect, to fill.'
+    * These terminations, it will be seen, is obtained  by adding to the Present tense सि or स्य the suffixes mentioned  before which स  and य,  and dropped before a vowel.
 
-         Present.                       Imperfect.
-
-1. पिपर्मि     *पिपूवः   पिपूमः        अपिपरम्    अपिपूर्      अपिपूर्
-2. पिपर्षि     पिपूथः    पिपूथ         आपिपः     अपिपूतम्    अपिपूत
-3. पिपर्ति     पिपूतः    पिपूरति       आपिपः     अपिपूताम्   अपिपरुः
-
-    * See § 394.
+    † These are obtained similarly by adding  the terminations of the Imperfect to स्य the usual rules of Sandhi being  observed.

@@ -1,44 +1,46 @@
-[Internal page: 658]
+[Internal page: 672]
 
-96                   SANSKRIT GRAMMAR.
+110                   SANSKRIT GRAMMAR
 
-मामाति, मामिति freq. Pass.—मीयुतै pre. अमायि aor. Cau.—
-   माययाति-तै pre. अमीमयत-न aor. मित p.p. मित्वा ger.
+रिख् 1 P. गतौ to go; रैखुति pre. रिरैख perf. रैखिष्युयुति fut. अरैखीत aor.
 
-मा 3 & 4 A. to measure, &c; मिमाति, मायुतै pre. मैमै perf. माता
-   p. fut. मास्युयुतै fut. अमास्त aor. मासीष्ट ben. निमासतै des; for
-   other forms see the above मा.
+रिख् or रिङ्कु 1 P. गतौ to crawl, to creep, to go slowly; रिखुति or
+   रिङ्कुति pre. रिरिख or रिरिङ्कु perf. अरिखुीत, अरिरङ्कुीत aor.
 
-मांक्ष् 1 P. कांक्षायां to wish, to desire; मांक्षुति pre. अमांक्षीत aor.
+रिच् 7 U रिक्तुचनै to empty, to clear, to deprive of, to give up;
+   रिणुक्ति or रिङ्क्तै pre. रिरैच or रिरिचै perf. रैक्ता p. fut. रैक्ष्युयाति-तै
+   fut. अरैक्ष्युयत-न con. अरिचत्, अरैचीत, अरिक्त aor. रिच्युयात् or
+   रैक्षीष्ट ben. Pass.—रिच्युतै pre. अरैचि aor. Cau.—रैचुयाति-तै
+   pre. अरिरिचत-न aor. रिरिक्षति-तै des. रिक्त p p. रिक्त्वा ger.
 
-मान् 1 A. जिज्ञासायां to seek knowledge; मानुतै pre. मीमासौ
-   बभर्ष perf. मानुत्वा ger. मीमासिता p. fut. अमीमासिष्टु aor. मीमा-
-   सिषीष्ट ben. मीमासितै des. Cau.—मीमांसत-न aor. Pass.—
-   मीमास्युतै pre. अमीमांसि aor. मीमासित p. p.
+रिच् 1 & 10 P. विनिगमनसम्बुनयो: to divide, to leave, to come
+   together; रैचुति, रैचुयति, pre. रिरैच, रैचुयाचकार perf. अरैचीत,
+   अरिरिचत-न aor. रिरिक्षति, रिरैचयिषति-तै des. रिचित p. p.
 
-मार् 10 A. स्तम्भै to stop, to be proud; मारुयतै pre, मारयिष्युयुतै fut.
-   अमीममत, Aor मारयिषीष्ट ben.
+रिफ् 6 P. कर्मुश्वदुत्तानिबर्षाहिंसादनैषु to boast, to speak, to fight,
+   to utter a rough grating sound, to give; रिसुति pre. रिरिफु
+   perf. रिसिता p. fut. अरैषीत aor. रिरिफुिषति. रिरिषिषति des.
+   रिसित p.p. ( also written as रिख ).
 
-मान् 10 & 1 P. पूजायां to honour, to worship; मानुयति, मानुति
-   pre. अमीमनत, अमाउीत Aor. निमानयिषति, निमानयिषति des.
+रिश् 1 A. to crackle, to murmur, to chatter; रैषुतै pre. रिरैषै perf.
 
-मास् 1 P. अन्वेषणै to seek, to chase; मासुति pre. ममास perf.
-   मासिता p fut. अमासीत aor. निमासिषति des. Pass.—मास्युतै
-   pre. अमासि aor.
+रिक्ष् 6 P. to hurt, to kill; रिक्षुति pre. रिरिक्ष perf. रिक्षिता p.
+   fut. अरिक्षीत aor.
 
-मार्ग् 10. U. to seek for, to go, to decorate; मार्गुयाति-तै pre. मार्ग-
-   याचकार-चक्रै, &c. perf. मार्गयिता p. fut. मार्गयिष्युयुति-तै fut. अम-
-   मार्गत-न aor. मार्गुयात्, मार्गयिषीष्ट des. मार्गत p. p. मार्गयितुं inf.
+रिष् 6 P. हिंसायां to tear, to injure, रिषुति pre. रिरैष perf. रैषा
+   p. fut. रैक्षुति fut. अरैक्ष्युयत् con. अरिक्षुत् aor. रिरिक्षति des.
 
-माजु 10 U. शब्दै शुद्धौ च to sound, to purify, to wipe; माजुयाति-तै
-   pre. माजुयाचकार-चक्रै, &c. perf. माजुयिता p. fut. अममाजुत-न
-   aor. माज्युयात्, माजयिषीष्ट ben. निमाजयिषति-तै des.
+रिष् 1 & 4 P. हिंसायां to kill, to fail, to perish, to be injured;.
+   रैषुति, रिष्युति pre. रिरैष perf रैषिता or रैषा p. fut. रैषिष्युयुति
+   fut. अरैषीत ( 1st cl. ), अरिष्युत् ( 4th cl. ) aor. रिरिषिषति.
+   रिरैषिषति des रिषु p.p.
 
-मि 5 U. प्रक्षैषणै to throw, to scatter, to measure; मिनोति, मिनुतै
-   pre. ममौ, मिमियै perf. माता p. fut. मास्युयाति-तै fut. अमास्त,
-   अमाता, अमात् मासीष्ट ben. निमासति-तै des. Pass.— मीयुतै
-   pre. Cau.—मापयाति-तै pre. अमीमयत-न aor. मित p. p.
+री 4 A. श्रवणै to trickle, to ooze, to flow; रीयुतै pre, रिरै perf.
+   रैष्युयुतै fut. अरैष्ट aor.
 
-मिथु 1 U. मैथुनकर्मुणो: to unite, to understand, to hurt, to seize;
-   मैथुति-तै pre. मिमेथु, मिमिथुै perf. मैथिता p. fut. अमैथीत, अमै-
-   थिष्टु aor. मिथ्युयात्, मैथिषीष्ट ben.
+री 9 P. गतिरैषणयो: to go, to injure, to howl; रिणाति pre. रिराय
+   perf. रैष्युयुति fut. अरैषीत aor. रिरीषति des.
+
+रीष् 1 U. to take, to cover; रीक्षुयाति-तै pre.
+
+रु 1 A. गातरैषणयो: to go, to hurt, to break to pieces ( in the

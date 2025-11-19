@@ -1,36 +1,41 @@
-[Internal page: 74]
-74                    HIGHER SANSKRIT GRAMMAR.                    [ § 121-122
+[Internal page: 94]
+94
+                    SANSKRIT GRAMMAR.
+                                                    [ § 138-139
 
-this ग् becomes ग् before the case-terminations beginning with
-non-nasal mutes, i. e. before भ्, स्, सु ( Pan. VIII. 4. 56 );
-thus युग्भिः, युग्भ्यः ( or optionally युङ्भिः, युङ्भ्यः ), युक्सु ॥ So in
-the mas. and fem. nom. pl. we have युज् ( loc. युजि ), nom. युजः
-or युजी ( fem. ), dat. युजे. ( युगे ), gen. युजः ( युगः ), ins. युजा
-( युग्-आ = युगा ॥ )
+N.      यः        यद् mas.        ये
+A.      यम्       यौ              ये
+I.      येन       याभ्याम्         यैः
+D.      यस्मै     ,,              येभ्यः
+Ab.     यस्मात्    ,,              येभ्यः
+G.      यस्य      ,,              येषाम्
+L.      यस्मिन्    ययोः            येषु
+                                  येषु
+                  Fem.
+N.      या        ये              याः
+A.      याम्       ,,              ,,
+I.      यया       याभ्याम्         याभिः
+D.      यस्यै      ,,              याभ्यः
+Ab.     यस्याः     ,,              याभ्यः
+G.      ,,        ययोः            यासाम्
+L.      यस्याम्     ,,              यासु
+                  Neu.            यासु
+N. & A. यत्       ये              यानि
+The rest l.ke the mas.
 
-( b ) Similarly राज् ( shining ) makes राट् ( nom. sing. ), राजी
-( राजा, nom. fem. sing. ), राजम्, राजे, राजः &c. ॥
+4—The Interrogative Pronouns.
 
-§ 122. ( 1 ) दिशि to point, rule. This root gives rise to
-three nominal bases differing in gender; the mas. base is दिश्
-( Pan. III. 2. 61 ; वा० III. 2. 70 ) which forms its nom. sing. after
-the analogy of युज्, viz. दिक् ॥ Thus वदिजः, प्रदिजः &c. ॥ The word
-occurs in the sense of 'Lord' or 'ruler,' being a compound and
-having a base in अच् ( Pan. VI. 1. 168 ).
+§ 139. The pronoun किम् mas. fem & neu.; m. base क; fem.
 
-( 2 ) Fem. दिश् is formed by the affix क्विप् by the
-general rule of Pāṇini किजुगुखश्मुखाणां कृज्विप्रयोर्न्युडपः ( Pan. III.
-2. 61 ), or by क्विप् by शिवादिभ्यश्च ( वा० III. 2. 77 ; Pan. VI.
-1. 63 ). Before case-affixes beginning with a consonant this fem.
-base becomes दिक् or दिग्; and ग् changes to ग् before the case-
-affixes beginning with non-nasal mutes viz. ( दिग् → ) दिग्भिः or
-दिङ्भिः, ( दिक् → ) दिग्भ्यः or दिङ्भ्यः, दिक्षु ॥ But optionally क् may
-remain intact by virtue of the rule कृदात्तः किः which appears
-to have been suggested by Vār., ( quoted in the Kās. on VI. 1.
-63 ); and thus we will have दिग्भिः or दिङ्भिः or दिक्भिः; दिग्भ्यः or
-दिङ्भ्यः or दिक्भ्यः ( similarly दिक्सु or दिक्षु ); so also in acc. pl.
-दिशः or दिक्षः ॥ The word दिश् occurs in the सं० in the sense of
-'side,' 'quarter' &c., and optionally takes an augment मुट् ( म्
-+ क् ) before स् ( nom. affix ) by the rule वच्सुग् ( पू० II. 4. 3 ;
-Pan. VIII. 2. 72 ), and thus we have ( दिश् + म् + सु = दिशः
-or दिङ्मुः ) दिङ् ( accented either on the first or on the last
+                  Mas.
+N.      कः        को
+A.      कम्       कौ              कान्
+I.      केन       काभ्याम्         कैः
+D.      कस्मै     ,,              केभ्यः
+Ab.     कस्मात्    ,,              केभ्यः
+G.      कस्य      ,,              केषाम्
+L.      कस्मिन्    कयोः            केषाम्
+                                  केषु
+                  Fem.
+N.      का        के
+A.      काम्       ,,              काः

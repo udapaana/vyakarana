@@ -1,34 +1,33 @@
-[Internal page: 37]
-§ 68-69 ]                    DECLENSION.                    37
+[Internal page: 56]
+56                        SANSKRIT GRAMMAR.                    [ § 92-94
 
-§ 68. Several adjectives ending in अ follow the declension of pronouns, for which see the chap. on pronouns.
+                Nom. sing.  Nom. dual.  I.  dual.  Loc. plu.
 
-        Nouns ending in इ and उ mas. fem. and neu.
-§ 69. हरि &c.—
+सर्वेज्ञक      सर्वेज्ञक-ग्      सर्वेज्ञग्कौ      सर्वेज्ञग्भ्याम्  सर्वेज्ञक्षु
+चित्रलिङ्      चित्रलिङ्-ग्      चित्रलिङ्गौ      चित्रलिङ्भ्याम् चित्रलिङ्षु
+क्षुभूत्       क्षुभूत्-द्       क्षुभूतौ         क्षुभ्द्भ्याम्   क्षुभ्दषु
+अग्निमध्      अग्निमद्-द्      अग्निमधौ        अग्निमद्भ्याम्  अग्निमत्सु
+तमोङ्गुद्     तमोङ्गुद्-द्     तमोङ्गुदौ        तमोङ्गुद्भ्याम्  तमोङ्गुत्सु
+गुष्          गुष्-द्         गुषौ            गुष्भ्याम्
 
-                    हरि mas. Hari.
-        Sing.         Dual.              Plural.
-  N.    हरिः                हरी                    हरयः
-  V.    हरे                 ,,                     ,,
-  A.    हरिम्               ,,                     ,,
-  I.    हरिणा            हरिभ्याम्                हरीन्
-  D.    हरये                                      हरिभिः
- Ab.    हरेः                                      हरिभ्यः
-  G.     ,,               हर्योः                    ,,
-  L.    हरौ                                      हरीणाम्
-                                                  हरिषु
+                            Neu.
 
-                    मति fem. intellect.
-        Sing.         Dual.              Plural.
-  N.    मतिः              मती                    मतयः
-  V.    मते               ,,                     ,,
-  A.    मतिम्             ,,                     ,,
-  I.    मत्या          मतिभ्याम्                मतीः
-  D.    मतये or मत्यै                            मतिभिः
- Ab.    मतेः or मत्याः      ,,                   मतिभ्यः
-  G.    मतेः or मत्याः   मत्योः                    ,,
-  L.    मतौ or मत्याम्     ,,                   मतीनाम्
-                                                 मतिषु
+                N. V. A.
 
-                    गुरु mas. preceptor.
-  N.    गुरुः              गुरू                   गुरवः
+सर्वेज्ञक्    सर्वेज्ञकी   सर्वेज्ञङ्कि  अग्निमद्   अग्निमदी   अग्निमन्धि
+हरित्       हरिती      हरिन्ति     तमोङ्गुद्   तमोङ्गुदी   तमोङ्गुन्धि
+सुश्रुत्      सुश्रुती     सुश्रुन्धि    प्राङ्        प्राञ्ची     प्राञ्चि
+                                            or          or
+                                           प्राशी       प्राशिन्
+
+            The rest like the mas.         So चेन्छिदि N. V. A. pl. &c.
+
+§ 93. Bases ending in च् , छ् , ज् , or झ् and ब्, प्, ह्.
+
+§ 94. (a) च् or ज् is changed to क् when followed by a hard consonant or by nothing, and to ग् when followed by a soft consonant.*
+
+  (b) The ending स्र् or ड्र् of root-nouns and the final of त्रक्ष्, भ्रज्, डुग्र्, यज्, यज्, राज्. and भ्राज् are changed to ग् when followed by any consonant except a nasal or a semi-vowel or by nothing†; the ग् is changed to ङ् or ङ् when at the end of a word, and to ड् when followed by a soft consonant. The ड् of परित्राज् is similarly changed to ङ् or ङ्.
+
+  (c)  But the स्र् of the root-nouns द्विट् . इट् , स्फुट् and मुट्  is changed to क् as also the प् of द्युगु ' a bold or impudent man ' and the क्ष् of such words as विषक्ष् &c. The ड्र् of नड्र् is optionally changed to ङ् or क् , as also the क्ष् of तड्र् and गारक्ष् . The ड्र् of ऋत्विज् is changed to क्
+
+* चोः कुः । Pán VIII 2. 30  † त्रक्षभ्रज्स्र्      गजराजभ्राजच्छशोषिः। Pān. VIII. 2. 36.

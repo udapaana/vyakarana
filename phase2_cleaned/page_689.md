@@ -1,0 +1,58 @@
+---
+page_number: 689
+internal_page: 689
+chapter: "Appendix II - Dhātukośa"
+section: "dhātukośa"
+rules_starting: []
+rules_continuing: []
+has_footnotes: false
+---
+
+                    DHĀTUKOŚA.                               127
+
+वृष् 10 A. शाक्तिकभ्युयनै to have virile power; वर्षयतै pre. वर्षयिष्युतै
+  fut. अवीवृषत, अववषत aor.
+
+वृह् 6 P. उद्युमनै to exist, to work; ( see वृढ् ).
+
+वृ 9 U. वरणै to choose; वृणाति, वृणीतै pre. ववार, ववृर perf. वरिता,
+  वरीता p. fut. भुवरीष्ट, अवर्षीष्ट, अवार, अवरत्, अवरीष्ट, वरीष्ट,
+  वृषीष्ट ben. वुवुरीति-तै, विवरिषाति-तै, विवरीषाति-तै des.
+
+वै 1 U. वैत्तुतानै to weave, to cover; वयाति-तै pre. उवाय, ऊयै.
+  ऊवै, ववौ, वेव perf. वाता p. fut. अवासीत् , अवाषत aor ऊयुयात् ,
+  वासीष्ट ben. विवायाति-तै des. Cau,—वाययाति-तै pre. Pass,—
+  ऊयुयतै pre. अवायि aor. उत p. p. उत्वा, उयाय ger.
+
+वैप् 1 U. प्रतिदानविचारतानिज्ञासत्सादिप्रुययुञपै to go, to know, to
+  contemplate &c ; वैपाति-तै pre विवैप, विवैषं perf. वैषिष्युति-तै
+  fut. अवैपीत्, अवैषीष्ट aor.
+
+वैश् 1 A. याचनै to beg, to solicit; वैशतै pre. अवैषीष्ट aor.
+
+वैप् Same as वैप which see.
+
+वैप् 1 A. कम्पनै to tremble, to quake; वैषतै pre. विवैष perf. वैषिता
+  p. fut. अवैषीष्ट aor Cau.—वैपयति-तै pre. अविवैषत-न aor.
+  विविषिषतै des.
+
+वैल् 1 P. चलनै to shake, to be wanton; वैलति pre. विवेल perf.
+  वैलेता p. fut. अवैलीत् aor.
+
+वैल् 10 U. कालप्रदैशौ to count the time; वैलयाति-तै pre. वैलयाचकार-
+  चक्रै perf. वैलयिता p. fut. अविवैलत-न aor.
+
+वैल् 1 P. चलनै to go, to shake; वैलति pre. विवैल perf. अवैलीत् aor.
+
+वैय् 2 A. गतिमादनार्दै to go, to obtain, to be pregnant, to
+  pervade; to eat, to dry, to shine; वैयति pre. अवैषीष्ट aor.
+  ( Vedic ).
+
+वैद् 1 A. वेष्टनै to surround, to wind round, to dress; वैदतै pre.
+  विवैद perf. वेदिता p. fut. अवैदीष्ट aor. Cau.—वैदयाति-तै pre.
+  विविदिषतै des.
+
+वैष् 1 A. प्रयत्नै endeavour; वैषतै pre. विविषै perf. अवैषीष्ट aor.
+
+वै 1 P. शोषणै to dry, to be weary; वायुति pre. ववौ perf. वास्युति
+  fut. अवायीत् aor.

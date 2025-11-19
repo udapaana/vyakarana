@@ -1,0 +1,48 @@
+---
+page_number: 385
+internal_page: 385
+chapter: "Conjugation of Verbs"
+section: "conjugation-of-verbs"
+rules_starting: ["§ 634", "§ 635", "§ 636", "§ 637"]
+rules_continuing: ["§ 633"]
+has_footnotes: false
+---
+
+Tense.               Active.                     Passive.
+
+Perfect.        बोबोधाञ्चके,&c.   देदीयाञ्चके,&c.  Like the Active.
+Aorist.         अबोबोधिष        अदेदीयिष        अबोबोधि        अदेदीयि
+F. Future.      बोबोधिता        देदीयिता        Like the Active.
+Sec. Future.    बोबोधिष्यते      देदीयिष्यते       „
+Conditional.    अबोबोधिष्यत      अदेदीयिष्यत       „
+Benedictive.    बोबोधिषीष्ट       देदीयिषीष्ट        „
+N. B. Irregular Ātm. Fre, Bases will be given under § 639.
+
+______________________________________________________________
+
+             PAR. SMAIPADA FREQUENTATIVES.
+
+The Parasm Frequentative is peculiar to the Veda. Its
+forms are very rarely to be met with in Classical composition.
+
+                 Formation of the Base.
+
+§ 634 The root is reduplicated according to the general
+rules of reduplication; the vowels इ and उ (I the reduplicativ
+syllable take their guṇa substitute, and the अ of the redupli-
+cative sylla-ble is lengthened: भू-बोभू, चो-नौच; दिव्-देदिव् &c
+बोर्वच्; पू-चोव-चाट; विद् विवद्-वेविद्; डुय् डुयड्-डोयुड् &c.
+
+§ 635. The rules § 630 (a) (b) apply likewise to the
+Parasm Frequen. Base; चर्-वंचर् or वैचर्; वद्-वंवद् or वंवद्;
+वञ्ज्-वंवोञ्ज् &c
+
+§ 636. व or the syllable रि or रु is inserted between the अ
+of he reduplicative syllable and the radical consonant of roots
+ending in short ऋ or having it for their penultimate; similarly
+ऋ,ऋ: रु or ॠ or ल is inserted in the case of कृत्; लृत्-ल्लृत्-वलृद् or
+वरिलृद् or वरूलृद् or ललृ-लु: छु-चोछु, or चारिछु or चारूछु.
+
+              Conjugation of the Parasm. Fre. Base
+
+§ 637. In the Conjugational Tenses the Parasm. Frequentative

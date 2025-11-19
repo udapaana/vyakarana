@@ -1,35 +1,33 @@
-[Internal page: 230]
+[Internal page: 244]
 
-230                    SANSKRIT GRAMMAR.                [ § 373
+244                    SANSKRIT GRAMMAR.                    [ § 393
 
-भनिशञ्च Incessantly, ceaselessly. । आसात् Near, in the vicinity of,
-। अन्तर्     \ Except,  without,   at a distance.
-  अन्तरा                           आर्यंहलय Forcibly [ Pān. I. 1.
-। अन्तरेण     inside.               47 ].
-  अन्तरे      Between, amidst.     आविस् Openly. before the eyes.
-अन्यथ } Again, moreover, be-      इतस् Hence
-अन्यत्   sides.                    इतस्ततस् Hither and thither, to
-अन्यत्र Elsewhere, in another       and fro, here and there, &c.
-    place.                         इति In this manner, so.
-अन्यथा Otherwise, in a diffe-      इत्तरम् Again.
-    rent manner.                   इत्तरेयुस् On another day,  the
-अभित: Near, close by in the         other day.
-    proximity of.                  इतिह Thus, indeed,  quite in·
-अभीक्ष्णश Frequently,  repeat-       conformity to tradition.
-    edly.                          इस्थम् Thus, so, in this manner.
-अश Quickly, little.                इचानीं Just now, at. this· mo-
-अभा Together with, in com-          ment.
-    pany with.                     इच्छा Truly.
-अधुत्र There, in the next world,   इह Here.
-    above.                         ईषत् Slightly, little.
-अरम्  Quickly.                     डुचेत् Loudly.
-अवान्दु Before.                    चन्तरम् Then.
-अलम् Enough,  sufficient for.      उत्तरेयुस् On the day following:
-    It is a prefix also.           उपांशु Secretly, in private.
-अवस without, on the outside.       उभयतस् From both sides.
-अस्तेदर् Repeatedly,  often and    उभयुयुस्  } On both days.
-    often.                         उभयेयुस्
-असंप्रति  }                        डुषा Early in the morning, at·
-असंप्रतत् } Improperly, unfitly.     dawn.
-अक्षोप Instantly, speedily.        आहुषह } Uninterruptedly, one    ऋतम्   } Truly, Truthfully.
-आहुषह } after another.            ऋषञ्च
+                          Imperfect.
+
+§ 293.  The augment अ is prefixed to roots in this tense. This अ is replaced by आ in the case of roots beginning with a vowel*; this आ forms Vṛddhi with an initial vowel; e. g. अ+ह्रत्+त्=आ+ह्रत्+अ+त्=ऐह्रत्; similarly ईक्ष्-ऐक्षत्; उक्ष्-औक्षत्; ऊह्-औहत्; ऋच्छ्-आर्च्छत् &c.
+
+    ( a )  When a preposition ( उपसर्ग ) is prefixed to a root, the augment अ or आ comes between the prep.  and the roo:s; e. g. इ with प्र, प्राहरत्.
+
+           बुध् P. ' to know.'            ईक्ष् Â. ' to see.'
+
+1. अबोधम्      अबोधाव      अबोधाम       ऐक्षे      ऐक्षावहि    ऐक्षामहि
+2. अबोधः      अबोधतम्     अबोधत        ऐक्षथाः   ऐक्षेथाम्   ऐक्षध्वम्
+3. अबोधत्     अबोधताम्    अबोधन्       ऐक्षत     ऐक्षेताम्   ऐक्षन्त
+
+                              नी.
+
+1. अनयम्      अनयाव      अनयाम        अनये      अनयावहि    अनयामहि
+2. अनयः      अनयतम्     अनयत         अनयथाः   अनयेथाम्   अनयध्वम्
+3. अनयत्     अनयताम्    अनयन्        अनयत     अनयेताम्   अनयन्त
+
+                          Imperative.
+
+           भू P. ' to be.'            लभ् Â. ' to get.'
+
+1. भवानि                भवाव      भवाम         लभै      लभावहै     लभामहै
+2. भव or  }             भवतम्    भवत          लभस्व    लभेथाम्    लभध्वम्
+   भवतात्  }
+3. भवतु or }            भवताम्   भवन्तु       लभताम्   लभेताम्    लभन्ताम्
+   भवतात्  }
+
+    *आडजादीनाम् । Pāṇ. VI. 4,  102.

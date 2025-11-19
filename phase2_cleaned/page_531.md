@@ -1,0 +1,46 @@
+---
+page_number: 531
+internal_page: 531
+chapter: "Syntax"
+section: "syntax"
+rules_starting: ["§ 964", "§ 965", "§ 966"]
+rules_continuing: ["§ 963"]
+has_footnotes: false
+---
+
+several words such as बहु, नाना, &c.; बहुविध, नानाविध in various
+ways. The word पूर्युनुयूं is also used adverbially as the latter
+member of a compound when some action is to be expressed as
+having happened before something; said something by way
+of consolation; दूह्युयूपूर्युनुयूं thoughtfully, (i. e. thought preceding
+a certain action); असु विपुयूदुयुनुयूं युगुत्युनैदुयूनुयूरुयु हुतुयू युयूयू O venerable Sir,
+I killed this cow unwittingly; शुरुयुयुयूनै अयुयुयूयुरु &c.
+
+PREPOSITIONS.
+
+§ 964. The use of Prepositions has already been explained
+at § 365–371. The Prepositions governing cases are already
+noticed under the various cases.
+
+CONJUNCTIONS.
+
+§ 965. The use of Conjunctions has not many syntactical
+Peculiarities and needs no special notice here. They are used
+in their proper senses in sentences.
+
+§ 966. The most important of these conjunctions and the
+one very frequently used is च. It can never stand first in a
+sentence, nor can it be used like 'and' in English. It is has a
+sentence, we can it be used like 'and' in English. It is has a
+with such as the words or assertions it connects or is placed
+after the last of the words or assertions it joins together, रामुयु
+लुक्ष्युयूणुयु or रामुः लुक्ष्युणुयूयूः कुयूयूयूनुयुयुं युयूविनुयूयूणुयो गवुयुनैनुयूनुयूं च love with
+its excellences expanded, and fresh youth; कुदुलुयूनु कुन्युयूयु बयुयूयुयो
+नवुनुनै युयूणोयूनु नैतीविरुयूयूयूयूयुनै।
+
+(a) Sometimes this particle has a disjunctive force; ज्ञुयूयूनु-
+तिदुयूनुयूभ्युयूयूदु स्युयुरुयूति च बाहु:—the hermitage is tranquil yet my
+arm throbs.
+
+(b) Rarely this particle is used in the sense of 'if';
+जीविदुयूं चैच्छुसि यट् हेदुयूं युनै गहुरु: युण्युयुं oh fool, if you wish to live, &c.

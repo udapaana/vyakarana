@@ -1,45 +1,44 @@
-[Internal page: 599]
+[Internal page: 613]
 
-                     DHĀTUKOŚA.                               37
+                     DHĀTUKOŚA.                               51
 
-घुषु 1 A. शब्दै to sound; घुषतै pre चुघुषै perf. अघोष्टु Aor. चुघुषतै
-   des. घुस्त p.p.
+तक्र् 1 P. तरुकरणै to pare, to cut; तक्रुति, तक्रुणोति pre. ( belongs
+   to 5th conj. optionally in the Conj. Tenses ) तताक्र perf.
+   तक्रिष्युयुति, तक्रोता, तक्रुयिता fut. अताक्रीत aor. तक्रुयात ben.
+   तत्र p. p. तक्रिता, तद्रुं, तक्ष्युं inf. तक्रिष्युयत, तत्र p. p.
 
-घुर् 1 A. परित्युागै to return, to exchange; घोरतै pre. चुघुरं perf.
-   अघोरत्, अघोषीष्टु aor. घुरित p. p.
+तकु 1 P. गतौ रथुलनै कम्पनै च to go, to stumble, to shake; तकुति
+   pre. तताकु perf. तकुिता p. fut. अतकुीत aor. तकित p. p.
 
-घुर् 6 P. प्रतिघातै ( कुत्साद् ) to strike against; घुरति pre चुघोर
-   ( चुघुडिष 2nd sing. ) perf. अघुरीत Aor.
+तञ्ज् 1 P. to go; तञ्जुति pre. तताञ्ज perf. तञ्जिता p. fut. अतञ्जीत
+   aor. to move.
 
-घुर् 6 P. to strike; घुडति pre ( the same as above ).
+तञ्च् 7 P. संकोचनै to contract, to shrink; तनक्ति pre. तताञ्च perf.
+   तंक्ता p. fut. तंक्ष्युयुति, तन्चिष्युयुति fut; अतन्क्ष्युत,
+   अतताञ्जीत Aor. Cau.—तञ्चुयति-तै, तितन्चुषति, तितद्चुषति des.
 
-घुण् 6 P घुस्पणै to roll, to turn round; घुणति pre. चुघोण perf.
-   घोणिता p. fut. अघोणीत Aor. घुणित p p.
+तञ्च् same as तञ्च्.
 
-घुषु 1 A. क्रुमैणै to roll, to whirl; घोषति pre. चुघुषं perf. अघोषीष्टु
-   aor
+तत् 1 P. उञ्छुलायै to grow; तदुति pre. तताद perf. तदिता p. fut.
+   अतदीत, अतादीत aor.
 
-घुण्ण् 1 A. ग्रहणै to take, to receive; घुण्णतै pre चुघुण्णं perf.
-   घुण्णिता p. fut. अघुण्णीष्टु aor घुण्णित p p
+तस्10 U. आभाषनै भाषाग्यां च to beat; ताडयति-तै pre. ताडयाञ्चुकार-
+   चक्रै &c. perf. ताडयिता p. fut. ताडयिष्युयति-तै fut. अतीतडत-न
+   aor. Pass.—ताड्युतै pre. ताडित p. p.
 
-घुर् 6 P. भीमार्षैशोचनयो: to be frightful, to sound; घुरति pre.
-   चुघोर perf. घोरिता p. fut. घोरिष्युयुति fut. अघोरिष्युयत्, con,
-   अघोरीत् aor.
+तड्र् 1 A. ताडनै to beat; तड्रतै pre. तताड्रै perf. तड्रिता p. fut.
+   अतड्रिष्टु aor.
 
-घुष् 1 P. आविष्कर्त्सनै ( शब्दै कुरुन्दै ) to sound, to declare; घोषति
-   pre चुघोष perf. घोषिता p. fut. घोषिष्युयुति fut घुष्युयात् ben.
-   अघुषुत्, अघोषीत् aor. Cau.—घोषयति-तै pre. अजुघुषत् aor.
-   चुघोषिषति, चुघुषिषति des. घुस्त, घोषित or घुष्ट p p.
+तत् 3 U. वितर्कै to spread, to go; तनाति, तनतै pre. ततान, तेनै perf.
+   तनिता p. fut. तनिष्युयुति-तै -त, अतनीत, अतनीत & अतन्युयु, अतत
+   aor. सुरून, सुतनुर्यत्, सुतनीष्टु aor. tan. तन्युयात् & तनिषीष्ट ben. तितनिषति-तै
+   des. Pass.—तन्युतै & तायतै pre. अतानि aor. Cau.—तानयाति-तै
+   pre. अतितनत-न aor. तत p. p. तनित्वा, तत्वा ger.
 
-घुष् 1 A. कान्तिज्ञर्णै to be bright; घोषतै pre. चुघुषं perf. अघोषीष्टु
-   Aor. चुघोष-चुघुषतै des
+तत् 1 P. 10. U. अङ्कोपकायो: to believe, to subserve; तनुति,
+   तानयति-तै pre. अतानीत, अतानात, अतीतनत-न Aor.
 
-घुष् 10 U. निशब्द्नै to proclaim aloud; आ+घुष=कन्दुशायनतै to cry
-   continuously; घोषयति-तै pre. घोषयाञ्चुकार-चक्रै &c. perf.
-   घोषुयिता p. fut. घोषयिष्युयुति-तै fut. अजुघुषत-न aor. घुष्ट or घुष्ट p.p.
+तन्त् 10 A. कुड़ुम्भुधारणै to support, to govern; तन्वुयतै pre
+   तन्वुयाञ्चक्रै perf. अतीतन्वुत Aor. तितन्वुयिषतै des. Pass-तन्वुयतै.
 
-घुर् 4 A. हिंसायेकाहानौ: to kill, to become old; घुरतै pre. अघुरिष्टु
-   aor.
-
-घूर्ण् 6 U. भ्रुमैणै to move to and fro, to whirl; घूर्णुति, घूर्णतै pre,
-   चुघूर्णं, चुघूर्णै perf. घूर्णिता p fut. घूर्णिष्युयुति-तै fut. अघूर्णिष्युयत-न
+तप् 1 P. सन्तापै to shine, to heat; तपुति pre. तताप, perf. तप्ता

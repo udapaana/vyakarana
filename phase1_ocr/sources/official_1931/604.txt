@@ -1,45 +1,46 @@
-[Internal page: 590]
+[Internal page: 604]
 
-28                   SANSKRIT GRAMMAR.
+42                   SANSKRIT GRAMMAR.
 
-खद् 1 P. काङ्क्षुायाम to desire, to wish, to search; खदति pre. चखाद'
-   perf. खदिता p. fut खदिष्युयति fut. अखदिष्युयत् con, अखदीत,
-   अखादीत Aor
+कार-चक्रै, &c. perf. चितयिता p. fut. अचिचितत-न aor. चित्युयात्
+   & चितयीष्ट ben, Pass-चित्युतै pre. अचेति aor. चितित p. p.
+   चितित्वा ger.
 
-खद् 10 U. संवरणै to cover; खदयति—तै pre खदयाञ्चुकार—चक्रै perf.
-   अचखदत-न aor.
+चित् 6 P. दर्शनै to put on clothes, to dress, चितति pre. चिचेल
+   perf. चितिता p. fut. अचैटीत aor.
 
-खण्ड् 1 A. भेदनै to break, to disturb; खंडतै pre खंडित p p.
+चिट्ट् 1 P. शैथिल्युै to become loose; चिट्टुति pre, चिचिट्ट perf.
+   चिट्टिता p. fut. अचिट्टीत aor. चिट्टित p. p.
 
-खण्ड् 10 U. alsc. खण्डुयति—तै pre अचखण्डुदत-न Aor. चिखण्डुयिषति-तै
-   des.
+चीक् 10 U. 1 P. आमर्षणै to suffer; चीकयति-तै, चीकति pre. चीक-
+   याञ्चुकार-चक्रै, चिचीक perf. अजीचिकत-न, अजीकीत aor.
 
-खद् 1 P. स्थैर्युहिंसाभक्षणैषु to be steady, to kill, to eat, खदति pre.
-   चखाद perf. खादिता p. fut. खादिष्युयति fut. खदिष्युयत् con, अखादीत्
-   अखादीत aor. खद्युयात् ben. Pass –खद्युतै pre, अखादि aor. Cau.–
-   खादयति-तै pre. अचिखदत-न Aor. चिखादिषति des. खादित p p.
+चीष् 1 A. कल्युनै to boast; चीषतै pre, चिचीषै perf. चीषिता p. fut.
+   अचीषिष्टु aor.
 
-खन् 1 U अवदारणै to dig; खनति-तै pre. चखान or चखनै perf.
-   खनिता p. fut खनिष्युयति—तै fut. अखनिष्युयत—न con. अखनीत,
-   अखन्युत, अखनिष्टु aor. खन्युयात्, खायात्, खानीष्टु Ben, Pass.—
-   खन्युतै-खनुतै: चखानि aor Cau –खानयति—तै, अचिखनत-न aor.
-   चिखनिषति-चिखानिषति des p. p खनित with चु, अखुनुत with चु
-   खनत्वा, उखत्वा. )
+चीव् 1 U. आदानपंसरणयो: to take. to cover; चीवुति-तै pre, चिचीव-
+   च perf. चीविता p. fut. अचीवीत & अजीविष्टु aor.
 
-खद् 1 P. गतौ to go; खनुति pre चखान perf अखनीत, अखादीत aor.
+चीष् 10 U. मार्षुयाय दीप्तौ च to speak, to shine; चीषयत-न pre.
 
-खर्ज् 1 P. पूजाइध्युयनयो to worship, to pain, to be uneasy; खर्जुति
-   pre. चुखर्ज perf खर्जिता p fut. खर्जिष्युयति fut. अखर्जिष्युयत् con.
-   अखर्जीत् aor खर्जित p.p.
+चुच्य् 1 P. अभिषवै to bathe; चुच्युति pre. चुचुच्यु perf. चुच्युिष्युयुति
+   fut. अचुच्युषीत Aor.
 
-खर्ब् 1 P. दन्तुकुर्कुट to bite; खर्बुति pre चखर्बं perf खर्बिता p fut.खर्बित
-   p. p.
+चुट् 6 P. छैदनै ( कुत्साद् ) to cut; चुटुति pre, चुचोट perf. चुटिता p.
+   fut. अचुटीत aor.
 
-खर्व् 1 P. खुर्वै to be proud, to go, to move; खर्वोति pre, चखर्वं
-   perf अखर्वीत aor. खर्वित p.p
+चुड् 6 P. संकोचनै ( कुत्साद् ) to conceal; चुडति pre, चुचोड perf.
+   चुडिता p. fut. अचुडीत aor.
 
-खल् 1 P. चलनै, संन्युयै च to move, to gather, खलति pre. चखाल
-   perf. खालिता p. fut खालिष्युयति fut. अखालीत aor. खालित p.p.
+चुण्ट् 10 U. 1 P. छैदनै to cut; चुण्टुयति-तै, चुण्टति pre. अजुचुण्टुत-न,
+   अचुण्टीत Aor.
 
-खर् 9 P. प्रुदनपुदुयोष to come forth, to purify; खनाति pre.
-   Another reading for खद्.
+चुद् 10 U. क्षैन्दिनुं to direct, to throw; चोदयति-तै pre. चोदयाञ्च-
+   कार-चक्रै &c. perf- चोदयिता p. fut. चोदयिष्युयुति-तै fut. अचोदु-
+   यिष्युयत-न con, अजुचुदत-न aor. चुचोदयिषति-तै des चोदित p. p.
+
+चुर् 1 P. भन्दुायां गतौ to move slowly; चोरति pre. चुचोर perf.
+   चोरिता P. fut. अचोरीत aor. चुच-चोरिषति des.
+
+चुम्ब् 1 P. चुन्वुर्षैणै to kiss; चुम्बति pre. चुचुम्ब perf. चुम्बिता p.
+   fut. अचुम्बीत aor. चुचुम्बिषति des. चुम्बित p. p.

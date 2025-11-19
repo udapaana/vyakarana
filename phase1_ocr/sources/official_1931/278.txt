@@ -1,41 +1,36 @@
-[Internal page: 264]
+[Internal page: 278]
 
-264                    SANSKRIT GRAMMAR.                    [ § 4
+278                    SANSKRIT GRAMMAR.                    [ § 437-440
 
-         Imperative.                     Potential.
+2. शाधि       शिष्टम्    शिष्ट         शिष्याः     शिष्यातम्    शिष्यात
+3. शास्तु      शिष्टाम्   शासतु        शिष्यात्    शिष्याताम्   शिष्युः
 
-1. वयानि     वयाव      वयाम          वीयाम्     वीयाव      वीयाम
-2. वीहि      वीतम्     वीत           वीयाः     वीयातम्    वीयात
-3. वेतु      वीताम्    वियन्तु        वीयात्    वीयाताम्   वीयुः
+§ 438.  शी A.  ' to lie down'  guṇates  its  vowel  before all terminations and prefixes इ to the termination of the third pers. pl except that of the Potential.
 
-                   नु P ' to praise '
+         Present.                       Imperfect.
 
-         Present.                        Imperfect.
+1. शये       शयवहे     शयमहे        अशयि       अशयवहि      अशयमहि
+2. शेषे      शयाथे     शेध्वे        अशेथाः     अशयाथाम्    अशेध्वम्
+3. शेते      शयाते     शेरते        अशेत       अशयाताम्    अशेरत
 
-1. नौमि      नुवः      नुमः           अनवम्     अनुव       अनुम
-2. नौषि      नुथः      नुथ            अनौः     अनुतम्     अनुत
-3. नौति      नुतः      नुवन्ति         अनौत्    अनुताम्    अनुवन्
+         Imperative.                    Potential.
 
-         Imperative.                     Potential.
+1. शयै       शयावहै     शयामहै        शयीय       शयीवहि      शयीमहि
+2. शेष्व     शयाथाम्   शेध्वम्        शयीथाः    शयीयाथाम्   शयीध्वम्
+3. शेताम्    शयाताम्   शेरताम्        शयीत      शयीयाताम्   शयीरन्
 
-1. नवानि     नवाव     नवाम          नुयाम्     नुयाव      नुयाम
-2. नुहि      नुतम्    नुत           नुयाः     नुयातम्    नुयात
-3 नौतु      नुताम्   नुवन्तु        नुयात्    नुयाताम्   नुयुः
+§  439.   सू  A.  ' to give birth to '—does not change  its vowel to Guṇa before strong terminations.
 
-    Conjugate  similarly हु P.  ' to sound, '  क्षु P  ' to seize, P. ' to sharpen,' यु  P.  ' to attack,  यु P.  ' to join, ' इु  P. ' to possess supremacy, ' and स्तु ' to drop out, to distil '
+         Present.                       Imperfect.
 
-                   जाग्र् P. ' to awake. '
+1. सुवे      सूवहे     सूमहे         असुवि      असूवहि      असूमहि
+2. सूषे      सुवाथे    सूध्वे        असुथाः     असुवाथाम्   असूध्वम्
+3. सूते      सुवाते    सुवते        असूत       असुवाताम्   असुवत
 
-         Present.                        Imperfect.
+         Imperative                    Potential.
 
-1. जागर्मि    जाग्रवः   जाग्रमः         अजागरम्    अजाग्रव     अजाग्रम
-2. जागर्षि    जाग्रथः   जाग्रथ          अजागरः    अजाग्रतम्   अजाग्रत
-3. जागर्ति    जाग्रतः   जाग्रति*        अजागरः    अजागृताम्  अजागारुः
+1. सुवै      सुवावहै    सुवामहै        सुवीय      सुवीवहि     सुवीमहि
+2. सूष्व     सुवाथाम्  सूध्वम्        सुवीथाः    सुवीयाथाम्  सुवीध्वम्
+3. सूताम्    सुवाताम्  सुवताम्        सुवीत      सुवीयाताम्  सुवीरन्
 
-         Imperative.                     Potential.
-
-1. जागरानि   जागराव   जागराम         जाग्र्याम्   जागृयाव    जागृयाम
-2. जाग्रहि    जाग्रतम्  जाग्रत          जाग्र्याः   जाग्र्यातम्  जाग्र्यात
-3. जागर्तु    जाग्रताम् जाग्रतु         जाग्र्यात्  जाग्र्याताम् जाग्र्युः
-
-    * See चकार् p. 272.
+§ 440. स्तु P. A. ' to praise,' तु P. ' to grow' and रु ' to sound ' have ई optionally prefixed to the consonantal terminations.

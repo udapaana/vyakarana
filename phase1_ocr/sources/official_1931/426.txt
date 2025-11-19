@@ -1,31 +1,40 @@
-SANSKRIT GRAMMAR.
+[Internal page: 426]
 
+428                  SANSKRIT GRAMMAR.                   [ § 696-699
 
-किंयप्त्यतिद्रतौ तुद्रङित्त्रिदते व्यतिपिङ्क्ते ॥
-शब्द्राङुधुल्भुस्पूकुरोहुगोतिहुंसार्थुकोत्रं तवे ॥ २ ।
-व्यतिन्यां जह्यति इत्स्वर्येनवे इन्तीस्यादुमूर्देङ्ः: ॥
-नात्रं संयुवदुन्ते संयुह्रन्ते निबुधनम् ॥ ३ ॥
-द्विरुक्तोन्यतरेतरोपूपदुग्नोत्मुनेपदम् ॥
-अन्योऽन्यस्य व्यतिइटुनन्त्यापा दिदु निष्यरुद्धिहो:
-प्रदिष्यवेष्य: क्रोणोतेजेयतैदिपुरागताः ॥
-आदौ दोडुविकाशुस्त्सस्त्याष्यसारणयोश्रने हि ॥ ५
-गमै: क्षुमायां पराडु जुगुच्छेयो: क्रीडतेरनो:
-पर्याङ्झस्यां च संशोऽकुत्रे जिज्ञासायां रबेः सनु
-अषारेकरतद्रुतगौत्तोच्छिस्य आशिषि ॥
-नाथे: हाषुंतु शुपुथे स्योऽ निर्गुतोऽ प्रक्राशुने ॥
-प्रतिज्ञायां चावुसुविप्राङ्दुश्नुनच्च्वेव्योषे ॥
-देवाचुसुणुकुरणोभेत्रोष पथि कदुकै ॥ ८ ॥
-धुल्भुथे मन्त्रुकुरणेऽऽऽकर्मुके चोपपूर्दुकात् ॥
-वा छिस्त्मायां समु: पृष्ट्रुञ्चुयुवृद्त्रुङ्धूमोचेतित:
-इशोतेश्राकर्मुकैष्यु आडू पदौष्यां यमोर्देनै: ॥
-उद्विच्यां तपूते स्मार्त्तुकैर्मुकंग्योप्यश्वाज्रत: ॥
-ऊद्धेङ्गों सोपूसद्गोष्यां हु: संनिकुङ्पूपूदुकात् ॥
-आष्टु स्पृशुते: सूचुनावद्धेषुणुसंवते ॥ ११ ॥
-प्रतियत्प्रकूयेषौघूधुगे साहूसे कुन्यै: ॥
-अध्यैं प्रङृसतै वेस्तु शब्दुकर्मुण्यकर्मुकात् ॥ ९।
-पूजात्वायैक्रुतिज्ञातोत्सङूने च भत्तो व्यये ॥
-निद्याे निगुर्णुने कर्तोस्ये तु चास्मुतैकर्मोण ॥ १३
-यूस्युत्स्वाह्मुपूकोत्तोध्य कर्मोस्तुंद्रुपुरोपयो: ॥
-ज्योतिरूद्रुमैनै त्वाड्धौ घे: पादुदुहूतोर्थुकात् ॥ ९
-आरम्भुणेष्वे त्रोपाम्चुयां विभाषानुजूपूसद्गेकात् ॥
-अपह्वुवेकर्मुकाङ ज्ञोऽनाप्यानै सम: प्रतैं: ॥ १६
+§ 696. ( a ) Roots ending in a nasal lengthen  their  penulti-
+mate vowel  before  a  weak  termination  beginning  with  any
+consonant except a nasal or a semivowel, or before the affix किन्
+चर्-चार्न्, कर्-कार्न्, &c
+
+( b ) Anit roots ending in a nasal,  the root वद् 1. P. and the
+eight roots of the  8th  class-तन्  and others ( see p. 355 ) drop
+their nasal before a weak  termination  beginning  with  any
+consonant except a nasal or a semivowel:—
+
+Roots.            P. P  Ptc.       Roots.            P. P. Ptc.
+
+मन् 'to think', &c.      मत          नम् 'to bow'           नत
+ङृम् 'to strike,'        हत          यम् 'to restrain '      यत
+एष् 'to sport'          हत          वन् 1. P. 'to sound,
+गच् 'to go '            गत       ·   to serve,' &c.       वत
+तन्                    तत      –  यूण् 'to shine '         यत
+झाण्                   सत      ·   वुच् 'to graze'         वत
+कम्प्                   सप्त          नुद् 'to beg '          नत
+
+§ 697.  The roots हुन् , जुन् and सृन् , drop their nasal and at
+the same time lengthen their vowel; सुस्, जास्, सास्.
+
+§ 698.  A radical इ preceding or following a vowel is some-
+times changed to ऊ before त् or न्;  when it is preceded by य it is
+dropped; इङ्-गत, वुय; पुरीत्, पुर्ङ-पूर्ण, तिर:-एप्त, पि:-पूत,
+यून ( See § 693, c. ).
+
+§ 699.  The  following  roots  ( some forming their  P. P. P.
+irregularly ) reject इ in the limited sense attached to each:—
+
+क्षुम्-क्षुप्त 'a churning handle,'  विरेर्-वितिङ्प 'a note.'
+स्मर्-स्मास्त 'the mind.'           कृण्-फूणृष्ट 'a decoction easily
+स्मर्-स्थास्त 'darkness.'                 prepared.' ( अनायाससाश्चय:
+लग्-लग्न 'attached.'                     कदायाविङोष: Sid.  Kau. )
+स्वैन्च्छु-स्थैब्द 'indistinct.'         वाहू-वाह ' much.'

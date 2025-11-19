@@ -1,41 +1,34 @@
-[Internal page: 46]
-                        SANSKRIT GRAMMAR.
+[Internal page: 65]
+§ 110-111 ]                    DECLENSION.                    65
 
-ष्वी ( सुटु ध्यायति ) m. and f. also according
+धनिन्, वरिम or वरिमन्, पन्थाः or पथिन् ॥ Final न् being changed to अ
+anusvāra before the acc. sing, affix अम् ( by अनुस्वारस्य ययि
+परसवर्णः, Pan. VIII. 4. 58 ), we get nom., voc., and acc. dual
+राजानौ, धनिनौ, पथिनौ or पन्थानौ ॥ न् is also changed to anusvāra
+in the gen. sing. राज्ञः, धनिनः, पन्थः ॥ In the loc. sing., final न् is
+dropped, its place being optionally supplied by सवर्णदीर्घ, which
+then, along with the short अ of the base, may change to वृद्धि
+ऐ, or may remain intact ( Pan. VI. 4. 10, 11 ); thus राज्ञि or
+राज्ञि or राजनि, धनिनि or धनीनि, पथि ॥ In the ins., dat. and abl.
+plur., final न् becomes ण् as in धनिभिः, धनिभ्यः ; so राज्भिः, राज्भ्यः ;
+but पद्धभिः, पद्धभ्यः, मनोभिः, मनोभ्यः ॥ Before the gen. pl. affix आम्,
+न् is always changed to anusvāra ( Pan. VIII. 3. 24 ), and then
+changed to its parasavarṇa ( i. e., consonant of the same class
+with the following consonant ); thus अनुस्वारस्य ययि परसवर्णः, and we
+get राज्ञाम्, धनिनाम्, पथाम् or पन्थाम् ( = पन्थनाम् ) ॥ In the nom.
+pl., final न् becomes ण् as in राज्ञः, धनिनः, पन्थः or पन्थानः ॥ Before
+the loc. pl. affix सु, न् is dropped, and its place optionally
+supplied by the parasavarṇa letter or by सवर्णदीर्घ ( Pan. VII.
+1. 86, VIII. 4. 2 Vart. ), and thus we have राजसु or राजासु or
+राजस्सु, पथिसु or पथीसु or पन्थसु, धनिषु or धनीषु ॥
 
-                        Kaiyata.
+§ 111. Tabular representation of the declension of राजन् ॥
 
-N. V.  ष्वधीः          ष्वधियौ              ष्वधियः
-  A.   ष्वधियम्          ,,                    ,,
-  I.   ष्वधिया        ष्वधिभ्याम्            ष्वधिभिः
-  D.   ष्वधिये          ,,                  ष्वधीभ्यः
- Ab.   ष्वधियः          ,,                    ,,
-  G.    ,,            ष्वधियोः             ष्वधियाम्
-  L.   ष्वधिधि          ,,                  ष्वधीषु
+                    MASCULINE.
 
-cline similarly गुम्भा, गुन्दुधी, परम्धी, नी &c. mas. an
-L. sing. of नी is नियाम्.
+Singular.
 
-                स्वभू mas. ( स्वेन भवति ) self-existent.
-
-N.  V.  स्वभूः                              स्वभुवः
-  A.    स्वभुवम्          ,,                    ,,
-  I.    स्वभुवा        स्वभूभ्याम्            स्वभूभिः
-  D.    स्वभुवे                              स्वभूभ्यः
- Ab.    स्वभुवः          ,,                    ,,
-  G.     ,,            स्वभुवोः             स्वभुवाम्
-  L.    स्वभुवि          ,,                  स्वभूषु
-
-cline similarly स्वर्भू, परम्लू, ( परम्श्रावाशो द्रुञ्च ) द्रुभू
-as. and mas. and fem.
-
-                    ष्वधि neu. like वारि.
-
-N.  A.  ष्वधि          ष्वधिनी              ष्वधीनि
-  V.    ष्वधिऽधे          ,,                    ,,
-  I.    ष्वधिया-ष्वधिना  &c.  optionally  like  th
-the vowel terminations. G. Dual ष्वधियोः-नोः.
-N.  A.  स्वभु          स्वभुनी              स्वभूनि
-  V.    स्वभु-भो          ,,                    ,,
-  I.    स्वभुवा-ना &c. optionally like the mas.
-owel termination.
+    Nom.    राजा            Voc.        राजन्
+    Acc.    राजानम्        Ins.        राज्ञा
+    Dat.    राज्ञे            Abl.        राज्ञः
+    Gen.    राज्ञः            Loc.        राज्ञि or राज्ञि or राजनि

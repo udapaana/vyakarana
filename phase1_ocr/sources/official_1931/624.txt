@@ -1,46 +1,44 @@
-[Internal page: 610]
+[Internal page: 624]
 
-48                   SANSKRIT GRAMMAR.
+62                   SANSKRIT GRAMMAR.
 
-ज् 1 & 9 P. to wear out; जरुति. जृणाति, pre जजार perf जरिता-
-   जरीता p. fut. अजारीत aor. Cau —जारयति-तै pre.
+   rejoice, to be sleepy, &c; दिव्युति pre. दिदेव perf. दुविता p. fut.
+   अदैवीत aor. दीव्युयात् ben. दुद्युयुति, दिदैविषति des. Pass.—दीव्युतै
+   pre. Cau.—देवयति-तै pre. अदीदिवत-न aor. द्युत or द्युदुत p. p.
 
-जृ 10 U to grow old; जारयति-तै pre जारयाञ्चुकार-चक्रै &c.
-   perf. जारयिता p fut अजीजरत-न aor जिजारयिषति-तै des.
+दिव् 1 P. & 10 U मर्दनै to rub; दैवति, दैवयति-तै pre. दिदेव, देव-
+   याञ्चुकार-चक्रै &c. perf. अदैवीत, अदीदिवत-न aor.
 
-जेष् 1 A. to go, गतौ pre जिजेषै perf. जेषिता p fut अजेषीष्टु aor.
+दिव् 10 A. परिश्रुञ्जतै to cause, to lament; देषयतै pre. अदीदिषत Aor.
 
-जेह् 1 P. अनलसैयै to try, to go, जैहुति pre जिजेह perf. जैहिता
-   p. fut. अजैहीत aor.
+दिश् 6 U. अतिसर्जनै to grant, to allow; दिशुति-तै pre. दिदेश. दिदिशै
+   perf. देष्टुं p. fut. दैक्ष्युयुति-तै fut. अदेक्ष्युयत-न con. अदेशीत्, अदिशिष्ट
+   दिदेशात, दिक्षीष्ट ben, दिदिक्षति-तै des. Pass.—दिश्युतै pre. अदेशि
+   aor. Cau —देशयाति-तै pre. अदीदिशत-न aor. दिष्ट p. p. देष्टुं inf.
+   दिष्टुं ger.
 
-जै 1 P. क्षयै to decay; जायुति pre जजौ perf जाता p fut अजासीत
-   aor जायात् ben जिजासति des.
+दिह् 2 U. उपचयै to augment, to anoint; दैघ्व, दिग्धै pre. दिदेह,
+   दिदिहै perf. देष्टुं p. fut. देक्ष्युयुति-तै fut. अधैक्ष्युयत-न, con, अधिषत्,
+   अधैक्षीत aor. दिहीष्ट, दिह्युयात्, दैक्ष्युयात्, दैक्षीष्ट ben. दिदिक्षति-तै des.
+   Pass—दिह्युतै pre. अदेहि aor. Cau.—देहयाति-तै pre अदीदिहत-न
+   aor. दिग्ध p. p. दिग्धुवा ger. देग्धुं inf.
 
-ज्ञप् 10 U ज्ञानै ज्ञापनै च to know, to cause to know, to see, to
-   please; ज्ञापयति-तै pre ज्ञपयाञ्चुकार-चक्रै, &c. perf ज्ञपयिता p.
-   fut. ज्ञपयिष्युयुति-तै fut अज्ञप्युयत-न con. अजीज्ञपत-न aor.
-   ज्ञीप्युतै-ज्ञाप्युतै Pass.—ज्ञप्युतै pre. अज्ञापि aor. ज्ञप्त,
-   ज्ञपित p. p.
+दी 4 A. क्षयै to perish; दीयुतै pre दिदीयै perf. दाता p. fut. दास्युयतै
+   fut. अदास्युयत con अदासत aor. दासीष्ट ben दिदासतै des. दीन p. p.
 
-ज्ञा 9 U अवबोधनै to know; जानाति, जानीतै pre जजौ,-जंजै perf.
-   ज्ञाता p fut ज्ञास्युयुति-तै fut. भज्ञास्युयत-न con अज्ञासीत, अज्ञासि
-   aor. ज्ञायात्. जैयात्. ज्ञासीष्ट ben. जिज्ञासति-तै des Cau —ज्ञाप-
-   युयति-तै & ज्ञपयति-तै (in the sense of ' to gratify, to slay or to
-   cause to know') pre ज्ञपयित्वा gre अज्ञीज्ञपत, अज्ञिज्ञपत् Pass अज्ञायि
-   aor. ज्ञातुं inf. ज्ञात ger. ज्ञात p p
+दीक्ष् 1 A. भाण्डुपोजैयातपव्रुतनियमातादिशेषु to invest with a sacred
+   thread, to dedicate oneself to, to sacrifice, &c ; दीक्षतै pre.
+   दिदीक्षै perf. दीक्षिता p. fut. अदीक्षिष्टु aor. Pass.—दीक्ष्युतै pre.
+   अदीक्षि aor. Cau —दीक्षयाति-तै pre. अदिदीक्षत-न aor दिदीक्षितै
+   des. दीक्षित p. p. दीक्षित्वा ger.
 
-ज्ञा 10 U. नियोगै to direct; ज्ञापयति-तै pre ज्ञापयाञ्चुकार-चक्रै perf.
-   ज्ञापयिता p fut. ज्ञापयिष्युयुति-तै fut. Pass—ज्ञाप्युतै ज्ञापित p.p
+दीप् 2 A. दीप्तिदैवैयो: to shine, to appear; दीप्युतै pre. दीप्युवाचक्रै
+   perf. दीप्तुता p fut. दीपिष्युयतै fut. अदीपिष्टु Aor ( Vedic. )
 
-ज्या 9 P. वयोहानौ to become old; जिनाति pre. जिज्ये perf. ज्याता
-   p. fut. ज्यास्युयुति fut अज्यास्युयत् con अज्यासीष्टु aor. जीयुयात् ben.
-   जिज्यासति des. Pass.—ज्यायतै aor, अज्यायि, अज्यापि aor, Cau.—ज्याप-
-   युयति-तै pre. ज्यात ger. जीना ger.
+दीप् 4 A. दीप्तौ to shine, to burn; दीप्युतै pre. दिदीप perf. दीपिता
+   p. fut. अदीपिष्टु, अदीपि aor. दीपिषीष्ट ben. दिदीपिषतै des. Cau.—
+   दीपयति-तै pre. अदीदिपत-न & अदिदीपत-न aor. Pass.—दीप्युतै pre.
+   अदीपि aor. दीप p. p.
 
-ज्यु 1 A. to go; जुयतै pre जुजुयै perf. ज्युता p fut अज्युष्टु aor.
-
-जि 1 P जयै अभिभवै च to conquer, to defeat जयुति pre जिजाय
-   perf. जैता p. fut. अजैषीत aor.
-
-जि 10 U. वयोहानौ to become old; जायुयति-तै pre. जाययाञ्चुकार-
-   चक्रै &c. perf. जाययिता p. fut. अजीज्ययत-न aor.
+दु 1 P. to go; दवुति pre. (for other forms see the following
+   root.) दुत P.p.

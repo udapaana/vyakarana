@@ -1,45 +1,42 @@
-[Internal page: 348]
+[Internal page: 362]
 
-348                    SANSKRIT GRAMMAR.                     [ 565-567
+362                    SANSKRIT GRAMMAR.                     [ §
 
-Exceptions:—
+                     Imperative.
 
-( 1 ) स् and इ, when Parasmaipadi, belong to the Fifth Variety.
+         1 छुध्ये            छुध्यावहै         छुध्यामहै
+         2 छुध्यस्व          छुध्येथाम्         छुध्यध्वम्
+         3 छुध्यताम्         छुध्येताम्         छुध्यन्ताम्
 
-( 2 ) Roots ending in ऋ preceded by a conjunct consonant
-may take Fourth or Fifth Form in the Ātmanepada.
+                     Potential.
 
-( 3 ) भञ्ज् and घ् Par. take the Fifth Form only. घ् Â. may
-take the Fourth or the Fifth Form.
+         1 छुध्येय           छुध्येवहि         छुध्येमहि
+         2 छुध्येथाः         छुध्येयाथाम्       छुध्येध्वम्
+         3 छुध्येत           छुध्येयाताम्       छुध्येरन्
 
-( 4 ) Of Set roots इ and those ending in ऋ ( long ) when Ātm.
-belong to either ( 4th or 5th Variety ). प्रच्, and कृण् when Â.
-belong to the Fourth.
+§ 593.  ( a ) The roots स्तच्, जन्, तन्, and सच्, '
+drop their च् and at the same time lengthen their
+स्तन्यते, सोपते, &c.
 
-§ 566 ( a ) In the Parasmaipada the radical vowel takes
-its Vrddhi substitute; कृ-करौषीत्; इ-ऐशीत्; मञ्ज-भमाञ्जीत्, &c.
+( b ) शी 'to lie down' and चि form their bases as ह्यस्
 
-( b ) In the Ātmanepada, Guṇa is substituted for final इ or
-उ, short or long; final ऋ and the penultimate vowel remain
-unchanged; final ऋ is changed to ऋर् or ऊर् in accordance with
-§ 594; चि-अचेष्ट, नी-अनेष्ट, च्यु-अच्योष्ट, द्-अकोष्ट, छ् see below,
-गिर्-गरिष्ट. धू-धोरीष्ट, हू-होदर्ट्.
+( c ) ऊह् shortens its ऊ when a preposition is pref
 
-( c ) The Penultimate ऋ of Anit roots is optionally changed
-to र् or ऊर् सञ्जाघर्सुर् or ञ्जाघोरुत्.
+( d ) दरिहा, दौषी and वेङी drop their final vowel befo
 
-§ 567.  After a short vowel, and after a consonant except a
-nasal or semi-vowel, the स् of terminations beginning with स्त्
-and स्थ is dropped; इ-ऐशीत् 3 sing; इ-ऐशाथाः 2 sing; तिष्-अतेघीत्थाः
-अतिष्ट; छर्-अचरट् 3rd sing. &c.
+( e ) हू and अस् substitute हृच् and भ् for themselves
+भञ्ज् also substitute अञ्ज् and घी respectively.
 
-                     Paradigms.
+§ 594.  To assist the student, the 3rd sings. pre.
+roots, regular and irregular, are given below.
 
-                       पच्
+Roots.        3 sing.  Roots.              3 sing
 
-1 अपाक्षम्  अपाक्ष   अपाक्ष्म    अपक्षि   अपक्षवहि   अपक्षमहि
-2 अपाक्षीः  अपक्षतम्  अपक्षत     अपक्षाः  अपक्षाथाम्  अपक्षध्वम्
-3 अपाक्षीत्  अपक्षताम्  अपक्षुः    अपक्षत   अपक्षाताम्  अपक्षत
-
-Conjugate similarly other Anit roots ending in consonants;
-तिष्-अतैषम्चर् P. 1. sing.; अतिष्टस् Ātm. 1. sing.; युञ्ज-अयौक्षम्,
+प्रा                      प्रायते         घे             घीयते
+ज्या                     जीयते          वे              ठयते
+दा I. P. 3. U.  दीयते                    ट्ये            बीयते
+दा 2. P.         दायते                   हृ              हूयते
+धा                      धीयते          गे              गीयते
+पा ' to drink '  पीयते                   पे              पायते
+पा ' to protect '  पायते                 दो              दीयते
+मा                      मीयते          सो              सीयते

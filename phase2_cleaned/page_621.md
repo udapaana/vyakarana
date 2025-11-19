@@ -1,0 +1,52 @@
+---
+page_number: 621
+internal_page: 621
+chapter: "Appendix II - Dhātukośa"
+section: "dhātukośa"
+rules_starting: []
+rules_continuing: []
+has_footnotes: false
+---
+
+त्वच्कुष् 1 P. गता कम्पनै च to go, to shake; त्वकुति pre. तत्वकु perf.
+   त्वकुिता p fut. अत्वकुीत aor.
+
+त्वच् 6 P. संवरणै to cover; त्वचुति pre. तत्वाच perf. त्वचिता p. fut.
+   भत्वचीत, अत्वाचीत aor.
+
+त्वञ्ज् 1 P. to go, to move; त्वजुति pre. तत्वञ्ज perf. त्वञ्जिता p fut.
+   अत्वञ्जीत aor. त्वज्युयात् ben. तित्वञ्जिषति des. Pass.—त्वज्युतै.
+
+त्वर् 1 A. शैग्युयै to hurry, to move with speed; त्वरतै pre, तत्वरै
+   perf. त्वरिता p. fut. अत्वरिष्टु aor. त्वरीष्ट ben तित्वरिषतै des.
+   त्वरित or त्वूर्णं p. p. Cau.—त्वरयति-तै pre. अतीत्वरत-न aor.
+
+त्विष् 1 U. दीप्तौ to shine, to glitter; त्वेषुति-तै pre. तित्वेष, तित्विष
+   perf. त्वेष्टुं p. fut. त्वेषुिष्युयुति-तै fut. अत्वेषिष्युयत-न con. अत्विषुत-न
+   aor. त्विषित des.
+
+त्सर् 1 p. छद्मुगात to proceed with fraud; त्सरुति pre. तत्सार perf.
+   त्सरिता p. fut. अत्सरीत aor.
+
+                      थ—
+
+थुर् 6 P. संवरणै ( कुत्साद् ) to cover, to hide; थुरुति pre. तुथोर
+   perf. थुरिता p. fut. अथुरीत aor.
+
+थूर्द् 1 P. हिंसाग्यां to injure, to hurt; थूर्दुति pre. तुथूर्द perf. थूर्दिता
+   p. fut. अथूर्दीत aor.
+
+                      द—
+
+दंश् 1 P. दैशनै to bite, to sting; to speak; ( भाषाग्यां च ) दंशति pre.
+   ददंश perf. दंश्ट p. fut. दंक्ष्युयुति fut. अदंक्षीत ( अजीदशत dual)
+   aor. दश्युयात् ben. दशीष्ट ben. दशितुं inf. Pass.—दंश्युतै, अदंशि aor.
+   p. p. दष्टुं inf. दष्टुं ger.
+
+दंश्10 U. दैशनै to bite; दंशयतै pre. अददंशत Aor. दिदंशयिषतै des
+   Pass.—दंश्युतै pre. दंशित p. p.
+
+दंष् 10 U. भाषाग्यां to speak; दंषयति-तै pre. अददंषत-न Aor.
+
+दक्ष् 1 A. दक्षौ क्षीयार्थै ( गातिहिंसनमोक्ष ) to grow, to go in speed
+   to go, to hurt; दक्षतै pre. ददक्षै perf. दक्षिष्युयतै fut. अदक्षिष्टु Aor.

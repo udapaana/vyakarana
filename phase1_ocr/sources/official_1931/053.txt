@@ -1,34 +1,32 @@
-[Internal page: 34]
-34                        SANSKRIT GRAMMAR.                    [ § 57-60
+[Internal page: 53]
+§ 85-86 ]                    DECLENSION.                    53
 
-§ 57. The following are the normal case-terminations :—
+                    The neu. प्रसे ( प्रकृष्ठा रै यस्य )
 
-                    Mas. and Fem.                    Neu.
+Decline similarly स्यते ( स्यत: तद् ) changed to प्रारे ( by एञ्च इ. प्रेन ) one who has thought इग्रप्रसदेश Pān. I. 1. 48. and of Kāma.            I. 2. 47.) should be declined like वारि except before the con-sonantal terminations, when it should be declined like रै m. f.
+                    N. A.  प्ररि    प्ररिणी       प्ररोणि
+                    I.     प्ररिणा प्ररिभ्याम्    प्ररभिः &c.
 
-                Sing.  Dual  Plural.        Sing.  Dual  Plural.
-N.  V.  स्     औ     अस्  N. A.   अ      ई      ई
-A.       अम्    ,,      ,,   V.            ,,      ,,
-I.       आ     स्याम्  भिस्  The rest like the mas.
-D.       ए     ,,     स्यस्
-Ab.      अस्    ,,      ,,
-G.       ,,    ओस्  आम्
-L.       इ      ,,     सु
+                    Words ending in ऐ and औ.
 
-§ 58. The Vocative is considered to be a different aspect of the nom. and is identical with it in the dual and plural,. It is, therefore, supposed to have no separate terminations of its own. In the sing. it sometimes coincides with the original stem, sometimes with the nom., at others, it differs from both.
+§ 86. Vṛddhi ( औ ) is substituted for the औ of words ending in औ in the first five inflections except the Acc. sing ; आ is substituted for औ in the Acc. sing. and plural * Nouns ending in ऐ are regularly declined.
 
-                DECLENSION OF NOUNS AND ADJECTIVES.
+                    गौ mas. fem.                    ग्लौ mas.
+                    a bull or a cow.                the moon.
 
-§ 59. Declension is for the sake of convenience divided into two classes:—
+N. & V  गौः गावौ    गावः    N. & V. ग्लौः     ग्लावौ      ग्लावः
+  V.     गाम् ,,      गाः       A.      ग्लावम्      ,,         ,,
+  I.     गवा गोभ्याम् गोभिः     I.      ग्लावा    ग्लोभ्याम्  ग्लोभिः
+  D.     गवे  ,,     गोभ्यः     D.      ग्लावे        ,,      ग्लोभ्यः
+ Ab.     गोः  ,,       ,,       Ab.     ग्लावः        ,,        ,,
+  G.     ,,   गवोः   गवाम्      G.       ,,         ग्लावोः    ग्लावाम्
+  L      गवि  ,,     गोषु       L.      ग्लावि        ,,       ग्लौषु
 
-        I. BASES ENDING IN VOWELS.
+Decline similarly स्युतौ          Declıne similarly नौ f. a beat,
+( स्युत· उ शोकर: येन ) and ग्यौ     a ship. The neu. सुनौ ( सुटु नौ·
+f. the sky. The neu. प्रुशौ        यस्मिन् ) changed to डुठु should
+( प्रकृष्ठा ग्यौः यस्मिन् तद् )     be declined lıke मधु.
+ohanged to प्रुसु should be
+declined lıke मधु.
 
-        II. BASES ENDING IN CONSONANTS.
-
-§ 60. The declension of adjectives does not, in general, differ from that of substantives. It will not, therefore, be given here separately; the points of difference only will be noted.
-
-
-                        SECTION I.
-
-            1. BASES ENDING IN VOWELS.
-
-Note:—The variations and modifications, which the general terminations given above undergo when applied to several of the vowel bases are so numerous, that it has been thought
+* गोतो गिद् । औतोऽश्राशौः । Pān. VII. 1. 90. VI 1. 93

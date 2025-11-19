@@ -1,43 +1,43 @@
-[Internal page: 368]
+[Internal page: 382]
 
-368                    SANSKRIT GRAMMAR.                     [ § 599-603
+384                  SANSKRIT GRAMMAR.                   [ § 624-626
 
-and ( 4 ) Denominatives or Nāmadhātus ( नामधातवः ).  The
-formation and the conjugation of these will be given in the
-present section.
+Roots. 3 sirg  Pre         Roots, 3 sing. Pre
 
-                         I CAUSALS.
+वर—विवर्षति, विवर्षन्    ङु,  विमानविषति-ते, पुमानविषति-ते
+स्पर्श्—सिस्पर्षति, सिस्पर्शयिषते.  ड्,  विड्भ्रावविषति-ते, पुड्भ्रावविषति-ते
+     सिस्पर्शते                  स्ठुु,  चिच्छानविषति ते, चुच्छानवि-
+झाम्—चिकल्पसति, चिकल्पिषते,         षति-ते         &c.         &c.
+     चिकल्पते                ड्c.
 
-§ 600.  Any root belonging to any one of the Conjugational
-classes may have causal form which is conjugated  like a root
-of the Tenth class.
 
-§ 601.  The Causal of a root implies that a person or a
-thing causes or makes another person or thing to perform the
-action. वच् in the condition, denoted by the root.  It is
-also employed, sometimes, to convert an intransitive verb into
-a transitive one.
+                    III. FREQUENTATIVES.
 
-                 ( a ) Formation of the Causal Base.
+§ 625.  A Frequentative or Intensive form may be derived
+from any monosyllabic root of the first nine classes,  beginning
+with a consonant   The Frequentative or Intensive is used to
+signify the repetition or the intensity of the action denoted
+by the verb from which it is derived  *
 
-§ 602.  The Causal Base of a root is formed like that of a
-root of the Tenth class.  In the case of roots of the Tenth
-class the causal form is identical with the primitive.  The
-Causal form takes either pada.  Thus from भ्र comes the causal
-base बोधय, बोधयानि‍ ' he causes to know '; भु-बोपयति ' he
-shakes or agitates,' गण-गणयति ' he causes to count,' नी-नाययति
-' he makes another lead or to carry '; क्रु ' to call ' से ' to lie '
-scatter—कारयति ' he causes to do or scatter ' कू—कोतयति, &c.
+Exceptions:—
 
-§ 603.  Roots ending in अय्, except अय् ' to go ' &c., कष्
-'to love,' कस् 'to eat,' हृश् when it means 'to see ' and यस् when
-it does not mean 'to eat,' and the roots* marked with an indica-
-tory ङ् (वे. g., वण्, &c.), shorten their vowel before taking its Vrddhi
-substitute; पन्—पानयति,  कष्—कामयति, यद्—यंदयाति, जत्—जंवयाति,
-          * These are:—यद्, ग्यद्, प्रुट्, प्रत् , ' to spread,' बृ ' to pound,'
-स्वद् 1 Â. ' to destroy, to cut,' अञ्ज् 1 Â. ' to go,' दुश्, कुश् 1 Â.
-' to pity,' कत्, हृत् 1 Â., त्यर्, ज्वर्, नङ् 1 Par. 'to distil,' हृद् ' to
-surround,' यद्, यद् ' to speak,' यद् ' to dance,' क्षुद् 1 P. ' to resist,'
-शाय् 1. P. Â. 'to lie down '; हु ' to dance '; प्रुच् 1 P. to shine,' 1 to
-'tocling to', हृग्,ऱग्,स्पग्, स्पग्, all meaning 'to cover,' बुग्, अग्, अत्
-'to move in a zigzag manner,' कण्, एण् P. 'to go,' वण्, युण्, भुण्,
+§ 626   ( a ) † A Frequentative may be formed from अद्
+' to go,' ‡ ऋ ' to go, अन् ' to eat ' and जुप् ' to conceal, ' though
+these begin with a vowel: and from सत्त् cl. 10 ' to hint, ' दूष्
+cl. 10 ' to string together ', and मुख् cl. 10. though they belong
+to the 10th cl.
+
+( b )  The Frequentative of roots signifying.motion conveys
+the notion of tortuous motion and not of repetition, † The
+Frequentative of roots छुअ्.' to cut, ' सद् ' to sink down, ' वत्
+' to go ' गम्.' to mutter prayers, ' यच्.' to yawn, ' दह् ' to burn, '
+दंश् ' to bite, ' and गृ ' to swallow, ' imply reproach on the
+manner of doing the act § अडोलच्छति ' he cuts awkardly, '
+सासत्यते ' falls down badly, ' संवद्यते, &c. &c.
+
+______________________________________________________
+* घातोत्कर्षा हलादे: किंयाक्सर्मनिहोरे वद्य। Paṇ III 1. 23 पानुत्क
+वङाथाये किंयाक्सनिहोरः । तत्किन्योपेषु वद्य स्याद् । Sid. Kau
+† दुडिर्धातुसम्यपावादु:पार्वम् Pan. III, 1. 22, vide above.
+‡ तिर्वै डोटादेर् गते। Pan. III, 1. 23,
+* हुस्वदेवरजनावंर्दाष्पूर्भी भाषणहारा। Pan III, 1 24

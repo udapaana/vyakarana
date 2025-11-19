@@ -1,18 +1,41 @@
-[Internal page: 5]
-§5-6                         THE ALPHABET.                        5
+[Internal page: 23]
+§ 26']                RULES OF SANDHI.                   21
 
-These are also called the five classes designated as Kavarga, Chavarga, Tavarga, Tavarga, and Pavarga respectively.
+(b) When ई or ऊ follows the इ of the pronoun अदस्* e. g., 
+अमी ईशा: these lords; अमू आसाते the two sit down.
 
-(b) Semivowels————य y, र, r, ल l, व v.
-(c) Sibilants————श ś श sh, ष s.
-(d) Sonant Aspirate—ह h.
+Ob. The इ of the Vedic forms अस्मे and युष्मे also does not 
+blend with a following vowel (सेा । Pāṇ. 1. 1. 13.'); e. g. अस्मे 
+इन्द्राबृहस्पती &c. Ṛg. IV.-49. 4. Similarly a Vaidic word hav-
+ing the sense of the loc. (but not ending in the termination of 
+the loc.) remains unaffected by a following vowel; सोमो गौरी 
+अविष्टित: &c. Ṛg. X. 12. 3. where गौरी stands for गौर्याम् the 
+loc. term, being dropped by पुगं वुञुक् Pāṇ: VII. 1. 30.
 
-Besides these we have two more characters occurring in the Veda, viz. ळ and ळ्ह (often substituted for ड and ढ; as ईळे for ईडे, मीळ्हुषे for मीढुषे &c.) In Marâthi ळ is generally substituted for the final ल of Sanskrit words.
+(c) § Particles consisting of a single vowel, except आ mean-
+ing 'a little, or a limit' exclusive or inclusive or used as 
+a preposition, when followed by a vowel, e. g. इ इन्द्र Oh Indra. 
+उ उद्येष, आ पूर्वं न मन्यसे ah, you think so; but आ + उष्णम्=ओष्णम् 
+(a little warm) &c.
 
-§5. The first two letters of the five classes and the sibilants are called surds or hard consonants. The rest are called sonants or soft consonants.
+(d) When an indeclinable ends in ओ; e. g. अहो ईशा:; the 
+final ओ of a noun   the vocative case optionally combines 
+when followed by इति; e. g. विष्णो इति=विष्णविति, and विष्णो इति: 
+also विष्ण इति (see § 24 a.).
 
-§6. In addition to the characters given above there are in Sanskrit two nasal sounds:—the one called Anusvâra, is denoted by ं i.e. a dot placed above the letter after which it is to be pronounced, e.g. कं; the other, called Anunâsika is denoted by ° i.e. a dot within a semi-circle placed above the letter after which it is to be pronounced e.g. कँ.
+N. B. All these vowels which do not blend with others, 
+and sometimes the words in which they occur are technically 
+called प्रगृह्य
 
-(a) And a sort of hard breathing is known as Visarga (generally called Visarjanîya by Sanskrit grammarians). It is denoted by the sign: i.e. two vertical dots placed after the letter after which it is to be pronounced. In pronunciation it is a harder aspirate than ह. The Visarga is not an original character but only a substitute for a final ह s or र r.
+II.  and pluta vowels; e. g. पश्य छागा ३ अत्र गोष्ठगताि Com: 
+Kṛṣhṇa; here is the cow grazing.
 
-(b) Jihvâmûlîya (जिह्वामूलीय) and Upadhmânîya (उपध्मानीय) are terms given to a sort of Semi-Visarga, when pronounced before क ख, and प फ respectively. It is written symbolically
+A vowel becomes pluta under the following circumstances:-† 
+(1) The last vowel of a sentence uttered in reply to a 
+salutation from a male person other than a S'ūdra when the
+
+* अदसो मात् । Pāṇ. I. 1. 11, 12.
+§ निघातएकाजनाह्: । ओत् । संबुद्धौ शाकल्यस्येतावनार्षे । Pāṇ. I. 14-16.
+† वाक्यस्य टे: प्लुत-उदात्त: । प्रत्यभिवादेऽशूद्रे । Pāṇ. VIII. 2. 82-83.
+द्वियां च । भोजनचर्यिका चेति वाच्यम् । Vārtikas on the latter sū-
+tra. द्राह्वये च । हैहेप्रयोगे हैहयो: । Pāṇ. VIII. 2 84-85.

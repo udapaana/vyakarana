@@ -1,45 +1,47 @@
-[Internal page: 578]
+[Internal page: 592]
 
-16                   SANSKRIT GRAMMAR.
+30                   SANSKRIT GRAMMAR.
 
-कथ् 1 A. श्लाघायाम to praise, to boast; कथतै pre. चकथै perf.
-   कथिता p. fut कथिष्युयतै fut, अकथिष्युयत् con. कथिषीष्ट ben.
-   अकथिष्टु aor. चिकथिषतै des. कथित p p.
+गञ्ज् 1 P. to sound in a particular way; गञ्जुति pre. जगञ्ज perf.
+   गञ्जिता p. fut. अगञ्जीत् aor.
 
-कथ्10 U वाक्युप्रचनै to tell; कथयति-तै Pre. एकथयाचकार, &c. Perf.
-   कथयिता p. fut. कथयिष्युयति-तै fut अकथयिष्युयत-न con, अचक-
-   थत-न aor. चिकथुयिषति-तै des कथुयात् or कथुयुषीष्ट ben. Pass.—
-   कथ्युतै pre.
+गड् 1 P. शैचनै to distil, to draw; गडति pre. जगाड perf. गाढिता
+   P. fut. अगाढीत Aor.
 
-कद् 1 A. वैकुण्युठै to grieve; कदतै pre. चकदै perf. कदिता p. fut. अक-
-   दिष्टु aor. कदिषीष्ट ben.
+गण् 10 U. संख्युानै to count. enumerate: गणयति-तै pre. गणयाचु-
+   कार-चक्रै &c. perf. गणयिता p. fut. गणयिष्युयति—तै fut. अगणयि-
+   ष्युयत-न con. अजीगणत—न, अजगणत—न aor. गण्युयात्, गणयीष्ट
+   Ben. चिगणयिषति—तै des. गणित p p. गणयित्वा, चिगण्युयुं ger.
+   Pass.—गण्युतै ( गणाय्युतै according to some ) pre.
 
-कन् 1 P. दीतिकान्तिमर्गतिषु to shine &c.; कनति pre. चकान perf.
-   कनिता p fut. अकनीत् aor.
+गद् 1 P. व्युयुक्तायां वाचि to speak; गदति pre, जगाद perf गदिता p.
+   fut. गदिष्युयुति fut. अगदिष्युयत् con, अगदीत, अगादीत aor. गद्युयात्
+   ben, जिगदिषति des Cau.—गादयति—तै pre. अजीगदत—न aor.
+   Pass.—गद्युतै pre, अगादि aor. गदित्वा ger. गदितुं inf गदित p.p.
 
-कनय ( derom ) कनयति pre
+गन्ध् 10 A. अदैनै to injure, to ask, to go, गन्धुयतै pre. अजगन्धुयत
+   Aor.
 
-कम् 1 A काम्तौ to desire; काम्युयतै pre चक्रै or कामयाचक्रै &c.
-   perf कामयेता or काम्ता p fut. कामयिष्युयतै or काम्युयतै fut.
-   अकामयिष्युयत् or अकाम्युष्युयत् con. काम्युष्युीष्ट or काम्युुषीष्ट ben.
-   अकामिष्ट or अचक्रत aor. Pass. कायुयुतै or कम्युतै pre अकामि
-   aor Cau —काम्युयति-तै pre. काम्त p. p. काम्त्वा-काम्ता, काम्यं
-   पिस्या ger
+गम् 1. P. गतौ to go; गच्छुति pre. जगाम perf. गन्ता p fut गमिष्युयति
+   fut. अगमिष्युयत् con. अगमत् aor. गम्युयात् Ben. जिगमिषति des.
+   Pass.—गम्युतै, अगामि aor. Cau.—गमयति—तै, अजीगमत-न aor.
+   गत p.p. गत्वा ger. गन्तुं inf.
 
-कम्यु 1 A चलनं to shake, to tremble; कंपतै pre. चकंपै perf, कंपिता
-   p. fut कम्युिष्युयतं fut, अकम्युष्युयत् con. कंपुषीष्ट ben. अकंपिष्टु aor.
-   Pass.—कम्युुयतै pre. Cau.—कंपयति-तै pre. अचकम्पुत-न Aor.
-   चिकम्पिषतै des
+गर्ज् 1 P शब्दै to thunder, to roar; गर्जुति pre जगर्ज perf. गर्जिता
+   p. fut. गर्जिष्युयुति fut अगर्जिष्युयत् con. अगर्जीत aor. गर्ज्युयीत Ben.
+   जिगर्जिषति des,
 
-कम्ब् 1 P. to go, कम्बति pre, चकम्ब perf. कम्बिता p fut. अक-
-   म्बीत aor.
+गर्ज् 10 U. to roar; गर्जुयातै—तै pre. अजगर्जुीदै—न Aor.
 
-कर्ण् 10 U. भेदनै to pierce; कर्णुयति-तै pre. कर्णुयाचकार-चक्रै perf.
-   कर्णयिता p. fut कर्णुयिष्युयति-तै fut, अकर्णुयिष्युयत-न con, अच-
-   कर्णत aor.
+गर्द् 1 P. शब्दै to sound, to roar, गर्दुति pre. जगर्दं perf. गर्दिष्युयुति
+   fut, अगर्दीत Aor.
 
-कर्ब् 1 A. गतौ to slacken; कर्बुयति-तै pre अचकर्बुत-न Aor.
+गर्द् 10 U. to sound; गर्दुयति—तै pre. गर्दुयाञ्चुकार—चक्रै &c. perf.
 
-कल् 1 A. संख्युयानै to sound, to count; कलतै pre चकलै perf
-   कलिता p fut, कलिष्युयतं fut. अकलिष्युयत् con, कलिषीष्ट ben.
-   अकलिष्टु aor. कलित p.p.
+गर्भु 10 U. अर्भैकोशायां to wish; गर्भुयति—तै pre. गर्भुयाचकार—चक्रै
+   &c. perf. अजगर्भुयत-न Aor.
+
+गर्ह् 1 P. to go; गर्हुति pre जगर्हं perf. गर्हिता p. fut. गार्हिष्युयतै p. fut.
+
+गर्ह् 1 P. दुर्पै to be proud; गर्हीति pre. जगर्हं perf. गर्हिता p. fut.
+   अगर्हीत Aor. जिगर्हिषति des,

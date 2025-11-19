@@ -1,16 +1,43 @@
-[Internal page: 161]
-§ 261-264 ]                    BAHUVRIHI.                    161
+[Internal page: 177]
+§ 294-295 ]                 COMPOUNDS.                           175
 
-§ 261. *The words उरस्, सर्पिस्, डुपानह्, दाधि, मधु, ज्ञालि-ही and धूर्, अनडुह्, पयस्, नौ and लुरुसी when used in the singular, have a क added to them, when they form the latter member of a Bah. comp.; उध्वं (expanded, well-developed) डुरः यस्य उध्वोरस्कः; प्रियसर्पिष्कः 'one fond of ghee', &c. एकः एषाद् यस्य अर्तौ एकाषुर्कः 'having one man only', &c; when धूर् and the words following it are used in the dual and the plural they take क optionally. द्विड्माद् or द्विड्मकः &c.
+( e ) and when the object denoted by the latter member is
+not visibly seen, but is to be inferred: as सरारक्षीय ( Bah-
+comp. ) निशा 'a night in which presence of demoness is
+to be inferred'
 
-(a) अर्थ takes the final क, necessarily when preceded by अन् and optionally in any other case; अनर्थकः 'useless'; but अपृथंयर्थं 'meaningless' वच.
+§ 295. *समान becomes स—
 
-§ 262. † A fem. Bah. ending in हन् takes this क necessarily; as बहुरेणीङका नगरी 'a city having many ascetics', बहुवागिमका सभा 'an assembly having many eloquent speakers in it'; but बहुमुणीङको ग्रामः (vide § 263 below), as it is mas.
+( a ) when followed by the words ज्योतिस्, जनपद, राशि, नाभि,
+नामन्, गोत्र, रूप, स्थान, वर्ण, वयस्, बन्धन, and बन्धु; सजानं ज्योति:
+अस्य सञ्ज्योति: a kind of mourning which lasts from the rising
+of the sun or a particular collection of stars to its setting.
+(समानं ज्योतिरस्येति बहुव्रीहि: । प्रतिमं ज्योतिरि जातिरिवे नक्षत्रे वा
+संजाते तदस्तमयपर्यन्तमनुव्रतमानमाशौचं सञ्ज्योतिरित्युच्यते । Tat. Bod.);
+सजनपद: belonging to the same country; सराशि:, सनाभि: 'con-
+nected by the same navel, sprung from the same ancestor,' &c.
 
-§ 263. ‡ And as a general rule, when the final word of a Bah. comp. does not undergo any additions or alterations mentioned in the foregoing rules, it optionally takes the affix क. महायशस्कः-महायशाः 'of mighty glory'; but उत्तरपूर्वं, व्याघ्रपाद्, डुगन्धिः &c.
+( b ) when followed by the word ब्रह्मचारिन् † 'a student of the
+Veda who belongs to the same S'âkhâ or branch as another,'
+समान: ब्रह्मचारी सब्रह्मचारी.
 
-§ 264. But if the last word of a Bah. compound be a fem. noun ending in ई or ऊ not capable of being changed into इय or उव before the vowel case termination, or if it ends in ङ, क is necessarily affixed; ईश्वरः कर्त्र यस्य तद् ईश्वरकर्तृकं जगत्, बहुनदीको देशः, रूपवती वधू यस्य स रूपवद्धूकः, &c.; but सुधी: स्त्री is an exception; बहुस्त्रीकः, सस्त्रीकः &c.
+( c ) when followed by तीर्थ with the Tad. affix य added to
+it; as समानतीर्थयं वासी सतीर्थ्य: 'a disciple of the same preceptor,'
+and optionally when followed by उदर under the same circum-
+stances; समानोदर्यं शयित: सोदर्य: or समानोदर्य: 'born of the same
+womb,' 'a brother by whole blood.'
 
-* उरःप्रभृतिभ्यः कप् । Pān. V. 4. 151. इह उमान्, अनङुान्, पयः, नौ-लुशौरीति एकवचनेऽन्ताति पठ्यन्ते । द्विवच्चनागतेभ्यसूं 'शौषाङ्भाषा' इति विकल्पैन कप् । Sid. Kau. × अर्थाऽनत्त्रः । Vārtika.
-† इनः स्त्रियाम् । Pān. V. 4. 152.
-‡ शेषाद्विभाषा । Pān. V. 4 154.
+( d ) when followed by हृक्, एश and एष; सहृक्, सएश:, सएष: ।
+( e ) ‡ and in the case of compounds like सपक्ष, शाखर्य,
+स्वजातीय, &c.
+
+* ज्योतिर्जनपदराशिनाभिनामगोत्ररूपस्थानवर्णवयोबन्धुबन्धन । ब्रह्मे
+ब्रह्मचारिणि । तीर्थे य । विभाषोदरे । हृदएषएषच् Pân. VI. 3, 85-89. हृक्
+चेति वक्तव्यम् । Vârt.
+
+† शरप्: शाखा, ब्रह्म वेद: । तदधययनार्थं व्रतमिति ब्रह्म संचरतीति
+ब्रह्मचारी । Sk:
+
+‡ समानस्य छन्दस्यसुर्येऽन्युपूर्वस्य । Pân. VI. 3. 84. The proper
+meaning of this sûtra is that the word समान is changed to स
+in the Veda when followed by any other word than सर्व्व, प्रभृति,

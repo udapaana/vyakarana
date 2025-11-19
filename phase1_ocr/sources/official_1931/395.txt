@@ -1,37 +1,62 @@
-[Internal page: 381]
+[Internal page: 395]
 
-§ 621 ]
-                                CONJUGATION OF VERBS.          381
+§ 655-657 ]        CONJUGATION OF VERBS.                    397
 
-Roots.
-घे                  Desider. base.    3rd pers. sing Pre.
-                     धित्सु            धित्सति
-नश्                  निनङ्क्षु          निनङ्क्षति
-                     निनाशिषु          निनाशिषति
-पत्                  पित्सु            पित्सति
-                     पिपतिषु          पिपतिषति
-पद्                  पित्सु            पिप्सते
-प् A.
-                     पिपविषु          पिपविषते
-अन्ज                 विभक्षु           विभक्षति
-„                    विभञ्जिषु         विभञ्जिषति
-„
-„
-मस्त्र               मिमङ्क्षु (also मिमञ्जिषु) मिमङ्क्षति ( मिमञ्जिषति ).
-मा 'to measure'      मित्सु            मित्सति
-नि 'to throw'        „
-मी 'to destroy'      „
-भे 'to barter'       „
-छत्त                 „                मित्सते
-                     मोक्षु            मोक्षते 'he desires for liberation,'
+( d ) to शुख् and others in the sense of ' experiencing or enjoy-
+ing,' शुख वेदयते सुखायते ' he enjoys happiness*; but परस्य शुख
+वेदयते ' he shows the happiness of another.'
 
-                     मुमुक्षु           मुमुक्षति 'he wishes to be free,'
-                     मिमुक्षु          मिमुक्षति
-                     मिमासिष्         मिमासिषति
-श                    शुश्रुष्           शुश्रुषति
-                     शियासिष्          शियासिषति
-रभ्                  रिप्सु            रिप्सते
-राधु 'to injure, to kill' रित्सु        रित्सते
-   to propitiate'     रिरात्सु          रिरात्सति
-लभ्                  लिप्सु            लिप्सते
-शक्                  शिक्षु            शिक्षते
+( e ) to शब्द्, घेर्, कलङ, अम्भ्, कुण् ' sin,' शुदित् 'a fair day', दुदित्
+'a cloudy day' and नीहार 'fog, heavy dew,' in the sense of 'mak-
+ing or doing;' शब्द् करोति शब्दायते  ' he makes a sound ' ( also
+शब्दयति cau. ), शुदितायते &c.
+
+        ( e ) By means of the affix क्यद्य ( य ) and
+             conjugated in Parasm. and Atm.
+
+§ 656  The affix य is added to लोहित and some other words
+and to words ending in the affix आ ( शट् ) and the nominal
+base thus formed is conjugated in the Parasm. and Ātmane.;
+e g लोहित—लोहितायति-ते ' becomes red. ' पटवायते ' utters the
+sound Paṭpaṭ.'
+
+     (f) By means of the affix इङ् ( गिङ् and गाङ् )
+             and conjuga'ed in Parasm. and Atm.
+
+§ 657.  Verbal bases are formed from the nouns given below
+by the addition of the affixes इङ् ( गिङ् ), and इङ् ( गाङ् ) with vari-
+ous senses; those derived by means of गिङ् are conjugated in
+the Atm. and those by गाङ् in the Par; e. g पुङ्क्ष्  with हि, देत्,
+and घट्-शपुष्युङ्यते 'raises the tail,' विवुष्युंगति 'he raises the load:'
+घटे 'collects together the vessels;' सुयेश्वरते विष्ठु. 'drinks सुरा
+cooked in pots,' कनीसकरति ङर् 'causes to sprinkle,' &c
+§ 658.  इङ् is changed to आगिङ्  when added to सत्य, अर्थ and
+वर्द. सत्यं करोति आत्मङ् वा सत्याधुरति: अर्थायुरति, वर्दायुयात.
+
+§ 659.  इङ् is further added in the following cases;—कैनपा अभि-
+यात—आभीषेशयात; लाताप अदुभाट—अदुभाषयात; काणया उपगायत
+—उपकाणायति, भूतीके दूपस्तोति—उपभूतीकयति; तट्ड यूद्वाति—तड्यति,
+पाणीज्-पाणीजीगति; निवायते-निवाते 'clears the air of vapours.';
+चूर्णायति; एनीयाञ्चडे—एनयते ( declares her variegated ); &c., &c.
+
+The various changes taking place here before the affix य the
+student will easily notice as irregularities.
+
+        ( g ) By means of the affix य ( यङ् ).
+
+§ 660.  There are several roots* which are also Pratipadī-
+kas and which may be regarded as Nominal verbal bases derived
+from those Pratipadikas by means of the affix य ( यङ् ).  The
+more important of these are given below:—
+
+दयुण-दयुयति-ते he scratches,   सुशूर्-सुशूर्यति he worships,
+मन्द-मंदयति he offends against,   निभञ्ज-निभञ्चयति treats medically,
+  he becomes angry, also  इडुप-इडुष्यति it contains arrows,
+  मंदयते according to चन्द्र.  गद्द—गद्दयति he stammers,
+क्ला—क्लायति is delighted; कला, सेला-कैलायति, सैलायति धुरा
+  once, mild or gentle, honours  he sports ?, he becomes merry,
+अङ्ग—अङ्गयति-ते ( शुस्यति ) he is गुणि—शूर्णायति he  is angry  or
+  jealous, he envies, &c.      feels ashamed.
+
+* In the Kaumadi these roots are classed separately under
+the head of 'कुपूत्रादिगण' or the group of roots beginning with कुपूत्र.

@@ -1,42 +1,41 @@
-[Internal page: 471]
+[Internal page: 485]
 
-§ 793–795 ]                SYNTAX.                    475
+§ 822–824 ]                SYNTAX.                    487
 
-§ 793.  (a) When a pronoun is  used  relatively  with  its
-noun,  it  must  agree  with  it  in  gender  and  number;  यः
-पुरुषः स गच्छति that man goes, या  स्त्री  सा  गच्छति  that woman
-goes, यत् फलं तत् फलम् that  fruit,  &c.
+due ) in the  case  of  the  root  युट्  'to  owe;  '  and  the person  or  the
+thing  desired in the  case  of  स्युङुट्,  are  put in  the Dative  case;  दुयुयु-
+संचुनं  तुं  यारुयुदि  मे  'you  owe me two sprinklings of trees ' (Sa'k.);
+शुकुत्युयु  यारुयुति  कोयुं  हरिः  (  Sid.  Kan.  )  तस्युयुं  स्पृहुयुमुयुणाती  '  he
+longing for her  (Bhatti  VIII.  15.  );'  पुयुसेस्पृहः  स्युदुयुति  'he  longs
+for trees;'  but युरुयुयुयुगुम्  स्पृहुयुद्युति  where  no  longing  is  implied.  --
 
-(b) When the nouns are of different genders,  the  pronoun
-is put in the masculine  when  they  are  masculine  and  feminine,
-and in the neuter when they are  masculine,  feminine  and  neuter.
+§ 823.  * The  roots  कुयुयु,  द्युट्,  ईर्युच्,  and  असूयु,  and  others  hav-
+ing  the  same  sense govern  the  Dative  of  the person against whom
+the  feeling  of  anger,  hatred,  &c,  is  directed;  द्रुयुरे  कुयुयुस्युति  द्युड्युटिङु-
+हुयुयुतिश्युयुदुरुतु  वा  (Sid  Kan  )  'he is angry  with  Hari,  or  bears
+hatred  towards  him,  or  is  jealous  of  him  or  finds  fault  with
+him;'  रातोयुयु  मोङुक्तुयुच्युस्युयुयुयुरुद्युत  (Bhatt.  VIII  75.  )  'he  did
+neither  get  angry  with  Ṡibā  nor  find  fault  with  her;'  but  भार्यु-
+मीर्चुति  '  he keeps  a  jealous  watch over his  wife  '  (that  others
+may  not  see  her  प्रेमुयुर्ती:असूयुर्त्योऽधेति Sid.  Kau  )
 
-Concord of the Relative with the Antecedent.
+(a) † But कुयुयु and  द्युट्  preceded  by  a  preposition  govern  the
+Accusative case; किं मां सकुयुयुयुसि  '  why  do  you  get  angry  with
+me?'  निरुयुयुयुस्युच्छुटुरीसुर्नुवितुरुयुङु  वनते  (Mud. I.)  'he  always  endea-
+vours  to  do  harm to my  body.'
 
-§ 794.  When  a  relative  pronoun  refers  to  an  antecedent,
-it must agree with it  in  gender  and  number,  not  in  case:
-यः पुरुषः स आगतः that man has  come  ( the  relative  and  the
-demonstrative are here in the nominative );  येन  पुरुषेण  स  गतः
-that man has gone ( the relative is in the  instr.  while  the  de-
-monstrative is in the nominative  );  यं  पुरुषं  तं  पश्यामि  I  see
-that man ( the relative is in the accusative  while  the  demons-
-trative is in the nominative ).
+Obs:—द्युट्  with  अवि  is  also  found  used  with  the  Dat.;  मया
+स्युयुम्युदुवुट्युस्योयुयुवुरुयुर्नों (Rag.  XII.  52.)
 
-§ 795.  When the antecedent is  of  the  dual  or  the  plural
-number, the correlative  pronoun  in  the  principal  clause  may
-be omitted, and  the  verb  put  in  that  number  of  which  the
-antecedent is:  ये पुरुषाः तव सुता वा  वस्त्युकुटायुमुगुच्युछुन्ति  or  ये
-पुरुषाः तव सुताः ते गुच्छुन्ति  those  men  who  are  your  sons  go
-( in the first  sentence  the  correlative  pronoun  ते  is  omitted
-and the verb, though  governed  by  an  antecedent  in  the  rela-
-tive clause,  is  made  plural ).
+§ 824  † The  roots  भुयु  and  प्रुच्छु  both  meaning  'to  detemine
+the  good  or  bad  fortune  of,'  govern  the  Dative  o:  the  person
+with reference to whom the inquiry is made; कुलुयुयुयु राष्युयुति  हंदुते
+वा । पृच्छो गर्नः अयुयुयुरुक्तो पयुट्युटुत्युच्युयुरुस्युयुयुः । Sid. Kau.
 
-                          SECTION II.
-                         GOVERNMENT.
-                  A.  GOVERNMENT OF CASES.
+‡ कुयुयुट्युदुयुर्णों  सुयुयुयुर्णों  यं  यति  कोयुः । Pāṇ.  I  4  37.  कुयेभोऽसूयुः
+कोषो युक्तुरिरिः कैन्युयुऽअसूयुयु अस्युच सोयुवित्युच्युत्युयुयुवें । द्युङुत्युयुनोपि कैनै-
+युयुभुरु एवु यद्युयुन्ते । अतो विवोषुर्णों सोयुयुन्युच्युनं । Sid. Kau.
 
-§ 796.  Government  is  that  influence  which  one  part  of
-speech exerts over another, requiring  it  to  be  put  in  a  parti-
-cular case.  It is mainly concerned with Cases,  viz.  "the  Govern-
-ment of Nouns or of Cases by Verbs  and  Nouns"  and  "Govern-
-ment by Prepositions."
+† कुयुयुट्युद्युट्युयुङुयुट्युयुयुयुर्नों  कुर्मं । Pān  I  4.  38.
+
+‡ राभोरुयोयुयु विपुरुनु: । Pāṇ  I. 4, 39.

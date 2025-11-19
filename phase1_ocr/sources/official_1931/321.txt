@@ -1,24 +1,43 @@
-[Internal page: 307]
+[Internal page: 321]
 
-§ 493-497 ]         CONJUGATION OF VERBS.                     307
+§ 508 ]              CONJUGATION OF VERBS.                   321
 
-2. थ       अथुः      अ                2. से      आथे      अे
-3. अ       अतुः      उः               3. ए      आते      इरे
 
-§ 494.  The Parasmaipada  singular terminations  are strong; the rest weak.   Before the strong terminations the penultimate short vowel takes its Guṇa  substitute.  The  final  vowel  and penultimate  अ  take  Vṛddhi  necessarily  in  the  third  and optionally in the first person singular.  In  the  2nd  person singular the final  vowel  takes  Guṇa  and  the  penultimate  अ remains unchanged.
+             त्रप् 1. Â. ' to be ashamed.'   क्षम् 4. P. ' to forgive.'
 
-§ 495.  *Special rules about the admission  of the intermediate इ before the terminations व, म, व, से, वहे, महे; see (§457 ).
+1 त्रेपे*    त्रेपिवहे   त्रेपिमहे        1 चक्षाम    चक्षमिव    चक्षमिम
+            त्रेप्‌वहे   त्रेप्‌महे            चक्षम     चक्षम्‌व†   चक्षम्‌म्
+2 त्रेपिषे   त्रेपाथे    त्रेपिध्वे        2 चक्षमिथ्  चक्षमथुः   चक्षम
+  त्रेप्से                त्रेप्ध्वे          चक्षम्‌‍न्य
+3 त्रेपे     त्रेपाते    त्रेपिरे         3 चक्षाम    चक्षमतुः   चक्षमुः
 
-    ( a )  All Set roots admit it, whether set  or  anit, except इ, य, य, हु, व; i, य, इ, य; ग्रु, permit इ इ or अ; But इ with समु, and इ admit  it only as तस्करीय, वस्तीय.
+             क्षिप् 1 Â. ' to forgive.'     अनू 5. Â. ' to pervade.'
 
-    ( b )  Anit roots ending in short  अ,  except  अ.  reject it before य; as तस्तय् from स्य; but आरिय from इ.
+1 चक्षमे     चक्षमिवहे   चक्षमिमहे       1 आनशे     आनशिवहे   आनशिमहे
+            चक्षम्‌वहे   चक्षम्‌महे           आनश्‌रहे   आनश्‌महे
+2 चक्षमिषे   चक्षमाथे    चक्षमिध्वे       2 आनशिषे   आनशाथे    आनशिध्वे
+  चक्षम्से               चक्षम्ध्वे           आनश्से                आनशध्वे
+3 चक्षमे     चक्षमाते    चक्षमिरे        3 आनशे     आनशाते    आनशिरे
 
-    ( c ) Anit roots with a final vowel or with  a  penultimate अ admit it optionally before य.
+             क्षिश्र् P. ' to be afflicted.'    नश् 4. P. ' to perish.'
 
-§ 496.  When initial इ or य of a root takes  Guṇa or Vṛddhi substitute, the reduplicative इ or य  is  changed  to  इय  or  उय; otherwise the two  vowels  combine  to  form  long  इ  or  उ; as इयय्+अ=इयेय, उच्चोय्+अ=उचोय; इविध्, &c.
+1 चिक्षेश    चिक्षिरिव   चिक्षिरिम        1 नताश     नेशिव      नेशिम
+            चिक्षिश्‌व   चिक्षिश्‌म           नन्श      नेश्‌व      नेश्‌म्
+2 चिक्षिशिथ् चिक्षिरथुः  चिक्षिश         2 नेशिथ्   नेशथु.    नेश
+  चिक्षेश्‌‍ठ्                              नर्नेङ्†
+3 चिक्षेश    चिक्षिरतुः  चिक्षिरुः        3 नताश     नेशतुः    नेशुः
 
-§ 497.  The final ग्, short or long,  is  changed  to  सय before a vowel weak termiation and इ to इय or य as  it is  preceded  by  a conjunct consonant or not; as इयय्+इव=इयेयव ! dual; तितिर्+इव=तितिर्+इव=तितिक्व, लिभिर्+इरे=लिभिरिरे, &c.
+अक्ष् 1 P. ' to occupy.' कुश् with तिर् 9 P. ' to tear, to expel.'
 
-    * इङ्वुड्सदृत्कूढ्मा लिटि । Pāṇ.  VII.  2.  13,
-      अन्तानुवातोनानुपदस्य्ताद्मिते पूर्वः वेधयति ।
-      सद्वन् इदेदीनवार्चितेनादेव कामद्यो लिटि पोरैव परे ॥ ( Sid. Kau. )
+1 आनक्ष     आनक्षिव    आनाक्षम्         1 निस्तुकोष  निस्तुकुपिव निस्तुकुपि
+            आनक्ष्‌व   आनक्ष्‌म्            निस्तुकुष्व निस्तुकुष्म्
+2 आनक्षिथ् अञानक्षथुः  आनक्ष          2 निस्तुकोषिथ् निस्तुकुषथुः निस्तुकुष
+  आनश्ठ्                                  निस्तुकोष्ठ्
+3 आनक्ष     अञानक्षतुः  आनक्षुः         3 निस्तुकोष  निस्तुकुषतुः निस्तुकुषु
+
+रक्ष् and तक्ष् ' to pare ' should be similarly conjugated.
+
+    * See § 512
+    † Roots ending in म् change to न् when followed by म् or व्.
+    ‡ Sec. § 476.
+    H. S. G. 21.

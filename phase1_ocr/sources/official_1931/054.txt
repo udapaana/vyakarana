@@ -1,29 +1,36 @@
-[Internal page: 35]
-§ 60-63 ]                    DECLENSION.                    35
+[Internal page: 54]
+54                        SANSKRIT GRAMMAR.                    [ § 87-89
 
-advisable not to notice them here, as being tedious, but simply to give the forms and leave the students to find them out for themselves. Every word declined here should be considered a model and words alike in form should be declined similarly to it.
+                        SECTION II.
 
-                    Nouns euding in अ Mas. and Neu.
+                BASES ENDING IN CONSONANTS.
 
-§ 61.      राम m. Rāma.                    ज्ञान n. knowledge.
-        Sing.  Dual.    Plural.        Sing.  Dual.  Plural.
-N.  रामः  रामौ      रामाः      N. ज्ञानम् ज्ञाने  · ज्ञानानि
-V.  राम    ,,        ,,        V. ज्ञान    ,,      ,,
-A.  रामम्  ,,       रामान्      A. ज्ञानम्  ,,      ,,
-I. *रामेण रामाभ्याम् रामैः              The rest like राम.
-D.  रामाय  ,,       रामेभ्यः
-Ab. रामात्  ,,        ,,
-G.  रामस्य रामयोः    रामाणाम्
-L.  रामे   रामयोः    रामेषु
+§ 87. Bases ending in any of the first four letters of a class and in थ्, र्, ष्, श्, ष्, प्, स् and ह्. The declension of these bases consists, for the most part, in adding the general case termi nations and observing the rules of sandhi.
 
-§ 62. Decline all nouns ending in अ mas. and neu. similarly.
+§ 88. Bases ending र्, ल् , and ण् .
 
-(a) The Loc. sing. of words ending in अह् ( substituted for अहन् a day, at the end of a Tat. comp. ) is optionally formed like that of nouns ending in न्; e. g. ऽयह् has ऽयह्नि, ऽयनि or ऽयहनि. So ऽयह्नि, ऽयह्नि or ऽयहनि &c. See p. 73.
+§ 89. (a) After final ल् the इ of the loc. is changed to उ.
 
-                    Nouns ending in आ Mas and Fem.
+  (b)  इ ( optionally changeable to इ ) may be optionally inserted between ण and सु.
 
-§ 63.  गोपा      mas.  a  cow-herd.
+                कमल mas fem. neu. naming the goddess of wealth or a lotus कमलं कमलौ वा आत्र्क्षणा:—णा-ण-वा )—
 
-(a) Mas. nouns ending in आ take the general terminations. The final आ is dropped before a vowel termination beginning with the Acc. plu.
+                        Mas. and Fem.
 
-* The न् of इन् is changed to ण by § 41. Ins. sing of जन् is जनेन
+    N. & V.  कमलः*                कमलौ                   कमलः
+      A      कमलम्                ,,                      ,,
+      I.     कमला                कमलभ्याम्               कमलिभिः
+      D.     कमले                ,,                     कमलभ्यः
+     Ab.     कमलः                ,,                       ,,
+      G.      ,,                  कमलोः                  कमलाम्
+      L.     कमलि                ,,                     कमलसु
+
+Decline similarly सुगण , डुगाण , m. f one who counts well, द्वार f. a door and other words ending in र् or ल्  The loc. plu. of द्वार is द्वारषु-द्वारसु,-ण्द्वरसु. The Nom. sing. of द्वार is द्वाः.
+
+                        Neu.
+
+    N. N. & A.    कमल्         कमली               कमलि
+
+        The rest like the mas.
+
+* See § 91. a.

@@ -1,0 +1,51 @@
+---
+page_number: 593
+internal_page: 593
+chapter: "Appendix II - Dhātukośa"
+section: "dhātukośa"
+rules_starting: []
+rules_continuing: []
+has_footnotes: false
+---
+
+गर्ह् 10 A. मानै to be proud; गर्हयतै pre. अजगर्हत Aor. जिगर्हवि-
+   षतै des.
+
+गर्ह् 1 A. कुत्सायां to blame; गर्हतै pre. जगर्हं perf गार्हिता p. fut.
+   गर्हिष्युयतै fut. गर्हिष्युयत-न con, अगर्हिष्टु aor. गर्हिषीष्ट Ben, Cau.—
+   गर्हुयति-तै pre अजीगर्हत-न aor. जिगर्हिषतै des.
+
+गर्ह् 10 U 1. P. विनिन्दनै to censure, to reproach; गर्हयति-तै.
+   गर्हति pre गर्हयाचकार—चक्रै &c. जगर्हं perf. गर्हियता, गर्हिता p
+   fut गर्हयिष्युयति-तै, गर्हिष्युयुति fut. अजगर्हुदत-न, अगर्हीत् aor.
+   जिगर्हुयिषति-तै, जिगर्हिषति des.
+
+गल् 1 P भक्षणै ज्ञापै च to eat, to drip, to fall down; गलति pre.
+   जगाल perf. गलिता p fut, गलिष्युयुति fut. अगलिष्युयत् con.
+   अगलीत aor. गलत p. p. Cau.—गालयति pre. अगालिट aor.
+
+गल् 10 A. क्षुरणै to pour out, to filter, to digest; गालयतै pre. गालयाञ्चक्रै
+   perf. अगालयत Aor गलित p.p.
+
+गल्भ् 1 A. धार्युष्ट्युै to be bold ( generally with प ); गल्भतै pre. जगल्भै
+   perf. अगल्भिष्टु Aor. जिगल्भिषतै des.
+
+गवैष् 10 U. मार्गुणै to hunt for, to seek; गवैषुयति—तै pre. गवैषुया-
+   ञ्चुकार—चक्रै &c. perf. गवैषयिता p. fut. गवैषयिष्युयति—तै fut.
+   अजगवैषयत—न aor. गवैषित p.p. गवैषयित्वा ger.
+
+गहु 10 U. गहुनै to be thick, to enter deeply into; गहयति—तै pre.
+   गहयाञ्चुकार—चक्रै &c. perf. अजगहत—न Aor.
+
+गा 1 A. to go; गातै pre. जगै perf. गाता p. fut. गास्युयतै fut. अगास्युयत
+   con, अगास aor. गासीष्टु Ben. जिगासतै des. Cau.—गापयति-तै
+   pre. अजीगपत-न aor. गात p.p. उत्तेषाम् aor. जिगापि aor.
+
+गा 3 P to praise; निगायति pre. ( Vedic )
+
+गाश् 1 A. प्रतिहूआर्षुयेधैश्रै च to stand, to remove; to announce; गाशतै
+   pre. जिगाषै perf. गाषिता p. fut गाषिष्युयतै fut. अगाषिष्टु aor.
+   गाषिषीष्ट Ben, Pass.—गाष्युतै pre. अगाषि aor. जिगाषिषतै des.,
+
+गाह् 1 A. हिलोलनै to dive into, to bathe; गाहतै pre. जगाहं perf.
+   गाहिता or गाढा p. fut. गाहिष्युयतै, घाढुयतै fut. अगाहिष्युयत्,

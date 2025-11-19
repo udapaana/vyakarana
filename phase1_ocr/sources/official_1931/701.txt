@@ -1,51 +1,45 @@
-[Internal page: 687]
+[Internal page: 701]
 
-                     DHĀTUKOŚA.                               125
+                     DHĀTUKOŚA.                               139
 
-विद् 6 P. विषानै to pierce: विषुति pre. विविषाति fut. अवैषीत् ºor.
-   Cau,—वैषयाति-तै pre. अवीविषत-न aor.
+सत्र् 10 A. सन्तानक्रियायां to extend; सत्रुयतै pre. सत्रुयिष्युतै fut. असु-
+   सत्रत aor.
 
-विपु 6 P. प्रक्षेपै to send, to fall to the share of; विषुति pre. विवैष
-   perf. वैषा p. fut. अविषत-न aor. विविषाति des. विप् p. p.
+सद् 6 P. विशेरणगत्युयवसादनैषु to break, to go, to sink down, to
+   decay, to be languid; सीदुति pre ससाद perf. सत्ता p. fut.
+   असदत् aor. सद्युयात् ben. सिषत्साति des. Pass—सद्युतै pre. Cau.—
+   सादयाति तै pre. असीषदत-न aor. सन्न p. p.
 
-विष् 1 P. वैचनै to sprinkle, to pour out; वैषुति pre. विवैष perf.
-   वैषुति fut. अविषत् aor. विष्ट p.p.
+सद् 10 U. to go; सादयाति-तै pre. असीषदत-न Aor. सिषादयिषाति-तै
+   des.
 
-विष् 3 U. व्युयाप्तौ to pervade, to surround; वैषाष्टि वैक्षटै pre. विवैष.
-   विविष perf. वैषा p. fut. अविषत् . अविक्षत aor विविषाति-तै des.
+सद् 1 P. सम्भुक्तौ to divide & 8 U. दानै to give, to worship; सदुति,
+   सदोति, सत्ततै pre ससान, सैदै perf. सदिता p. fut. असा-
+   दीत् , असदीत् , असदिष्ट, असात ( 8 ) aor. सिसनिषाति, सिषासति,
+   सिषत्निषाति-तै, सिषासाति-तै des. Pass.—सद्युयतै, साद्युतै pre. सदित
+   ( 1 ) सात ( 8 ) p. p.
 
-विष् 9 P. विषानै to enter to sink; विषणाति pre. विवैष perf. अविषीत aor.
+सप् 1 P. समद्वायै to connect; सपुति pre. ससाप perf. सपिता p. fut.
+   असषीत् , असाषीत् aor.
 
-विष् 1 U. 10 U. Skh. U. विषणातौ perf. अविविषत-न aor. Cau —विषायति-तै pre.
-   आविविक्षत. आविविष्यत-न aor.
+सभुाज् 10 U. प्रीतिदर्शनयो: to serve, to honour, to gratify; सभुाज-
+   याति-तै pre. असुसभुाजत-न Aor.
 
-वी 2 P. गातिलाभैपुजननकान्त्युयदसंदानदर्शै to go, to pervade, to
-   conceive, to be born, to shine, to boteis, to throw, to be
-   beautiful, to desire, to eat; वेति pre. विवाय perf. वेता p. fut.
-   ववेयुयात् &c. वीयुयात् pre. विषीष्ट des. Cau –वायति pre. ( वाय-
-   याति-तै ) pre. वीत p p.
+सम् 1 P. वैकल्युयै to be confused; समुति pre. ससाम perf. असामीत्
+   Aor.
 
-वीज् 10 U. अजनै to fan; वीजयाति-तै pre. अवीविजत-न aor.
+सम् 4 P. परिणामै to be transformed; सम्युति pre. ससाम perf.
+   असमत् Aor.
 
-वीर् 10 A. विक्रमै to display valour; वीरयतै pre. वीरयिष्युतै fut.
-   अविवीरत aor.
+सम्ब् 1 P. सम्बन्धनै to be connected, सम्बुति pre. ससम्ब perf. सम्बिता
+   p. fut. असम्बीत् aor.
 
-वृ 1 U. विरोधौ to cover, to surround; वृणाति-तै pre. ( See the
-   following root )..
+सम्ब् 10 U. to collect; सम्बयाति-तै pre. सम्बयाचकार-चक्रै perf
+   असुसम्बत-न Aor.
 
-वृ 5 U. वरणै to choose, &c.; वृणीति, वृणुतै pre. ववार, वव्रै perf.
-   वरिता, वरीता p. fut. अवरीत्, अवर्षीष्ट, अवरीष्ट. अवरीट aor. वियुयात्,
-   वरीषीष्ट, वृषीष्ट ben. Cau.—वारयाति-तै pre. अवीवरत-न aor. विवर-
-   षति-तै pre. विररीषाति-तै. वुवुरीति-तै des.
+सय् 1 A. to go, to move; सययतै pre. ससयै perf.
 
-वृ 9 A. to choose &c.; वृणीतै pre. वव्रै perf. ( Same as the
-   above A. ).
+सर्ज् 1 P. सर्जनै to gain, to earn by labour; सर्जुति pre. ससर्ज perf
+   सर्जिता p. fut. असर्जीत् aor.
 
-वृक् 1 A. आदानै to take, to accept; वृकतै pre. ववृकै perf. वृङकुयतै
-   fut. अवृक्षीट aor. विवर्कुिषतै des.
-
-वृक् 1 A. आवरणै to cover; वृकतै pre. ववृकै perf. अवृकीष्ट aor.
-
-वृच् 1 P. वरणै to chooser वृचुति pre. ववर्च perf. वर्चिष्युति fut.
-   अवचीत् aor. वृक् p.p.                    ·
-   H. S. G. 44.
+सर्व् 1 P. to go, to move; सर्वुति pre. सर्वषुति fut. असर्वीत् Aor.

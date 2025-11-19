@@ -1,43 +1,45 @@
-[Internal page: 576]
+[Internal page: 590]
 
-14                   SANSKRIT GRAMMAR.
+28                   SANSKRIT GRAMMAR.
 
-                      ऋ—
+खद् 1 P. काङ्क्षुायाम to desire, to wish, to search; खदति pre. चखाद'
+   perf. खदिता p. fut खदिष्युयति fut. अखदिष्युयत् con, अखदीत,
+   अखादीत Aor
 
-ऋ 9 P. to go; to move; ऋणाति pre अरांच्चुकार &c. p rf.
-   अर्णिता or अर्णुता p. fut, अर्रिष्युयति or अर्रिष्युयति fut, अारीत् aor.
-   ऋयात् ben. ऋर्णं p p.
+खद् 10 U. संवरणै to cover; खदयति—तै pre खदयाञ्चुकार—चक्रै perf.
+   अचखदत-न aor.
 
-                      ए—
+खण्ड् 1 A. भेदनै to break, to disturb; खंडतै pre खंडित p p.
 
-एज् 1 A. दीप्तौ to shine. P. कम्पनै to shake; एजनै—ति pre, एजन-न
-   imperf. एजाञ्चक्रै-चक्रार perf. एजिता p. fut, एजिष्युयतै-ति fut.
-   ऐजिष्युयतन् con. ऐजिट,-एजीतु aor. एजित p p.
+खण्ड् 10 U. alsc. खण्डुयति—तै pre अचखण्डुदत-न Aor. चिखण्डुयिषति-तै
+   des.
 
-एद् 1 A. गाधायां to annoy, to resist; एदतै pre, एदित pp.
+खद् 1 P. स्थैर्युहिंसाभक्षणैषु to be steady, to kill, to eat, खदति pre.
+   चखाद perf. खादिता p. fut. खादिष्युयति fut. खदिष्युयत् con, अखादीत्
+   अखादीत aor. खद्युयात् ben. Pass –खद्युतै pre, अखादि aor. Cau.–
+   खादयति-तै pre. अचिखदत-न Aor. चिखादिषति des. खादित p p.
 
-एध्* 1 A. वृद्धौ to grow, to prosper; एधतै pre. एधांचक्रै-चश्युर-शास
-   perf. एधिता p. fut. एधिष्युयतै fut. एधिष्युयन con. एधिष्टु aor.
-   एद्वितिषतै des. एधिषीष्ट Ben. Pass.—एध्युतै pre, एधि aor. Cau —
-   एधयति-तै. एदिद्युयद-न Aor. एधित p.p.
+खन् 1 U अवदारणै to dig; खनति-तै pre. चखान or चखनै perf.
+   खनिता p. fut खनिष्युयति—तै fut. अखनिष्युयत—न con. अखनीत,
+   अखन्युत, अखनिष्टु aor. खन्युयात्, खायात्, खानीष्टु Ben, Pass.—
+   खन्युतै-खनुतै: चखानि aor Cau –खानयति—तै, अचिखनत-न aor.
+   चिखनिषति-चिखानिषति des p. p खनित with चु, अखुनुत with चु
+   खनत्वा, उखत्वा. )
 
-एष् 1 A. to go; एषतै pre. एषित p.p.
+खद् 1 P. गतौ to go; खनुति pre चखान perf अखनीत, अखादीत aor.
 
-                      ओ—
+खर्ज् 1 P. पूजाइध्युयनयो to worship, to pain, to be uneasy; खर्जुति
+   pre. चुखर्ज perf खर्जिता p fut. खर्जिष्युयति fut. अखर्जिष्युयत् con.
+   अखर्जीत् aor खर्जित p.p.
 
-औशुत्† 1 P. शोषणालंमधेय: to be dry, to adorn, to be sufficient;
-   औशति pre. आखुयांचकार-चश्युर-शास perf. औषिता p. fut.
-   औषिष्युयति fut. औषिष्युयुत् con औषीत् aor. औषितिषति des.
-   Cau.—औषयति-तै pre. औचिषत-न aor.
+खर्ब् 1 P. दन्तुकुर्कुट to bite; खर्बुति pre चखर्बं perf खर्बिता p fut.खर्बित
+   p. p.
 
-ओठु 10 U. उल्युैपनै to throw up; ओलुण्युयुति-तै pre. ओलुष्युित p.p.
+खर्व् 1 P. खुर्वै to be proud, to go, to move; खर्वोति pre, चखर्वं
+   perf अखर्वीत aor. खर्वित p.p
 
-                      क—
+खल् 1 P. चलनै, संन्युयै च to move, to gather, खलति pre. चखाल
+   perf. खालिता p. fut खालिष्युयति fut. अखालीत aor. खालित p.p.
 
-कक् 1 A. लोल्युै to wish to be proud; ककतै pre. चक्रै perf.
-   कक्रिता p. fut. कक्रिष्युयतै fut, अकक्रिष्युयत् con. अकक्रिष्टु aor.
-
-कख् 1 P. हसनै to laugh; कखति pre. चकाख perf. कखिता p. fut.
-   कखिष्युयुति fut, अकखिष्युयत् con, अकाखीत-अकुखीत aor.
-
-* with उप=उपेषते.            † With प्र=प्रोषति.
+खर् 9 P. प्रुदनपुदुयोष to come forth, to purify; खनाति pre.
+   Another reading for खद्.

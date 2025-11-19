@@ -1,35 +1,32 @@
-[Internal page: 281]
+[Internal page: 295]
 
-§ 441-444 ]         CONJUGATION OF VERBS.                     281
+§ 456-458 ]         CONJUGATION OF VERBS.                     295
 
-         Imperative.                    Potential.
-
-1. ह्नै       हनावहै    हनामहै        घ्नीय      घ्नीवहि     घ्नीमहि
-2. हन्स्व     घ्नाथाम्   हन्ध्वम्       घ्नीथाः    घ्नीयाथाम्  घ्नीध्वम्
-3. हताम्     घ्नाताम्   घ्नताम्        घ्नीत      घ्नीयाताम्  घ्नीरन्
-
-§ 442.  हु A. 'to take away':—
+                   हिंस् P. ' to kill.'
 
          Present.                       Imperfect.
 
-1. हुवे      हुवहे     हुमहे          अहुवि      अहुवहि      अहुमहि
-2. हुषे      हुवाथे    हुध्वे         अहुथाः    अहुवाथाम्   अहुध्वम्
-3. हुते      हुवाते    हुवते          अहुत      अहुवाताम्   अहुवत
+1. हिनस्मि     हिंस्वः    हिंस्मः        अहिनसम्     अहिंस्व      अहिंस्म
+2. हिनस्सि     हिंस्यः    हिंस्य         अहिनः-त्-द्  अहिंस्तम्    अहिंस्त
+3. हिनस्ति     हिंस्तः    हिंसन्ति       अहिनत्-द्   अहिंस्ताम्   अहिंसन्
 
          Imperative.                    Potential.
 
-1. हुवै      हुवावहै    हुवामहै        हुवीय     हुवीवहि     हुवीमहि
-2. हुष्व     हुवाथाम्   हुध्वम्        हुवीथाः   हुवीयाथाम्  हुवीध्वम्
-3. हुताम्    हुवाताम्   हुवताम्        हुवीत     हुवीयाताम्  हुवीरन्
+1. हिनसानि    हिनसाव   हिनसाम       हिंस्याम्    हिंस्याव     हिंस्याम
+2. हिंस्धि     हिंस्तम्  हिंस्त        हिंस्याः    हिंस्यातम्   हिंस्यात
+3. हिनस्तु    हिंस्ताम् हिंसन्तु      हिंस्यात्   हिंस्याताम्  हिंस्युः
 
-                 THIRD OR जुहोत्यादि CLASS.
+                       II. GENERAL
+                           OR
+            NON-CONJUGATIONAL TENSES AND MOODS.
 
-§ 443.  ( a ) The base is formed by reduplication of the root.
+§ 457.  In the  General  Tenses and  Moods  and in the formation of verbal derivatives generally,  the  augment  इ  is prefixed ( necessarily or optionally )  to  terminations beginning with any consonant except य in the case of certain roots. Such roots as take the augment इ  necessarily are called Set ( स+इट् i. e.  with इ ); such as take it  optionally are called Wet ( वा+इट् ), and those that do not,  are called  Anit ( अन्+इट् i. e.  without इ ).
 
-( b )  The third personal plural termination loses its त.
+§ 458.  ( a ) Roots of more than one syllable,  derived  roots and roots of the 10th class are always Set.
 
-( c )  The  Imperfect  third  person  plural  termination is उस् ( P ), before which the final  आ  of roots is dropped and the final इ, उ and ऋ, short or long, are guṇated.
+    ( b ) Of all monosyllabic roots ending in a vowel those given in the following couplet ( Kārikā ) are Set and the rest Anit.
 
-    Rules of Reduplication:—
+       " ऊदूनौयौगितिदेयूङ्ज्ञोविदुद्राबिहारिभिमिभिः ।
+         इडङ्ढुळभ्यां च विनेकाच्योऽजन्तेषु निहताः स्थूताः ॥
 
-§  444.  The first vowel of a root  together  with  the initial consonant, if any, is reduplicated  i. e.  doubled; as पत्=पपत्. उत्—उउत्, &c. after reduplication.
+i. e.  roots ending in long  उ  and long  ऋ,  the roots ग्, रु, ध्यू

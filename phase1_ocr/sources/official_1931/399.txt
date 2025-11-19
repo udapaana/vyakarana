@@ -1,42 +1,42 @@
-[Internal page: 385]
+[Internal page: 399]
 
-388                  SANSKRIT GRAMMAR.                   [ § 633-637
+663-664 ]  PARASMAIPADA & ĀTMANEPADA.                    401
 
-Tense.               Active.                     Passive.
+§ 663.  The Causals of the roots कृष् , सुश् , जल् , इ with अभि , भृ ,
+हु, and हु are Parasm; कोषरति  पदय,  घोषयति काड्यापि, मासयति
+दूष्तक , जनयति डुयक , अष्यापयति,  भावयते भारपवेतास्वर्थे: ( Sid.
+Kau. ); ज्ञापयति विलाप्यर्थीस्वर्थे: ( Sid. Kau. ). ज्ञापयति स्पन्दवर्थीस्वर्थे:
+( Sid. Kau. ).
 
-Perfect.        बोबोधाञ्चके,&c.   देदीयाञ्चके,&c.  Like the Active.
-Aorist.         अबोबोधिष        अदेदीयिष        अबोबोधि        अदेदीयि
-F. Future.      बोबोधिता        देदीयिता        Like the Active.
-Sec. Future.    बोबोधिष्यते      देदीयिष्यते       „
-Conditional.    अबोबोधिष्यत      अदेदीयिष्यत       „
-Benedictive.    बोबोधिषीष्ट       देदीयिषीष्ट        „
-N. B. Irregular Atm. Fre, Bases will be given under § 639.
+664.  The following is an alphabetical list of the roots that
+change their proper  Pada after certain prepositions under the
+circumstances given in each case.
 
-______________________________________________________________
+अद्—when preceded by a preposition is conjugated in either
+Pada ; चर्घ तिरस्यति-ते.
 
-              PAR. SMAIPADA FREQUENTATIVES.
+इ with अभि-in the causal takes the Parasm.  अष्यापयति.
 
-The Parasm  Frequentative is peculiar to the Veda.  Its
-forms are very rarely to be met with in Classical composition.
+ऊह्—when preceded by a preposition  is conjugated in either
+Pada ; पापं अवोहति-ते 'he destroys sin ;' तद्योहति  'discards ; सङ्गृ-
+ह्णि-ते 'he gathers together.'
 
-                  Formation of the Base.
+ऋ with सम् is Atm.; समारन्त समासीष्टा: Bh.  VIII.  16; 'all
+my desires have come to me i. e. are gratified.'
 
-§ 634  The root is reduplicated according to the general
-rules of reduplication ; the vowels इ and उ ( I the reduplicativ
-syllable take their guṇa substitute, and the अ of the redupli-
-cative sylla-ble is lengthened : भू-बोभू, ङो-नौष; दिव्-देदिव् &c
-बोर्वच् ; भू-चोव-चाट; विद् विवद्-वेविद् ; डुय् डुयड्-डोयुड् &c.
+ऋच्छ with सम्—is  Par.  when used transitively, and Atm.
+when used intransitively; समच्छति 'he collects ;'  समच्छते  'is
+collected.'
 
-§ 635.  The rules § 630 ( a ) ( b ) apply likewise to the
-Parasm Frequen.  Base; वर्-वंवर् or वैवर्; वद्-वंवद् or वंवद्;
-वञ्ज्-वंवोञ्ज् &c
+कृ—without a preposition  admits of either Pada.  It is
+Parasm,  with समि and परि ; समीकरोति वेदम् ( Kādā.),
+तौ ह्रुदयाम्बरातुङ्गेव &c.  ( Bhatt̤i.   VIII.  9. ); it is Atm. with
+preposition in following senses:—( 1 ) सन्वन † or 'hurting,' 'kill-
+ing,' as उत्कुरुते  ' informs against ( with a view to injure )'
+( 2 ) अवरूपण or 'censuring,  overcoming ;' उदाकुरुते रेवको कर्तिको:आय
+'the hawk overreaches the eagle,' ( 3 ) सेवन or 'serving, attending
 
-§ 636.  व or the syllable रि or रु is inserted between the अ
-of he reduplicative syllable and the radical consonant of roots
-ending in short ऋ or having it for their penultimate; similarly
-ऋ,ऋ: रु or ॠ or ल is inserted in the case of कृत् ; लृत्-ल्लृत्-वलृद् or
-वरिलृद् or वरूलृद् or ललृ-लु: छ-चोछु, or चारिछु or चारूछु.
-
-               Conjugation of the Parasm. Fre. Base
-
-§ 637.  In the Conjugational Tenses the Parasm. Frequentative
+_________________________________________________
+* जङुपरास्यो छन्द: । Pāṇ. 1. 3, 79.
+† गत्यर्थाकर्मोपसंवेदनाद्धिनिङ्-यमर्थीसंयत्कुश्वनीपरीणां कुम्: Pāṇ.I,3,32.
+H. S. G. 26

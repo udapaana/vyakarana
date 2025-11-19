@@ -1,46 +1,45 @@
-[Internal page: 655]
+[Internal page: 669]
 
-                     DHĀTUKOŚA.                               93
+                     DHĀTUKOŚA.                               107
 
-मद् 1 P. मर्दुपविचारणयो: to grind, to dwell, to go; मदुति pre
-   ममाद perf. मदिता p. fut. अमदीत aor.
+यक्ष् 1 P. पाहनै to protect, to avoid; रक्षुति pre, रक्ष perf. रक्षिता
+   p. fut. रक्षिष्युयुति fut. अरक्षीत aor. रक्ष्युयात् ben. Pass.—रक्ष्युतै pre.
+   Cau.—राक्षुयाति-तै pre. अररक्षत-न or अरिराक्षयत des. रक्षित p. p.
 
-मण्ठ् 1 A. स्मृतौ to remember with regret, to long for; मण्ठुतै perf.
-   ममण्ठै perf. मण्ठिता p. fut. अमण्ठिष्टु aor.
+रख् 1 P. to go, to move; रखुति pre. रराख perf. अरखीत, अराखीत
+   aor.
 
-मण् 1 P. शब्दै to sound, to murmur; मणुति pre. ममाण perf. मणिता
-   p. fut. अमणीत aor.
+रग् 1 P. शङ्कुायां to doubt; रगुति pre. रराग perf.
 
-मण्ड् 1 P. स्वात्मायं to decorate oneself; मण्डुति pre ममण्ड perf.
-   मण्डिता p. fut मण्डिष्युयुति fut अमण्डीत aor. मण्ड्युयात् ben. Cau.
-   —मण्डुयति-तै pre. अमीमण्डत-न aor. निमण्डिषति des.
+रङ्कु 1 P. to go, to move; रङ्कुति pre. ररङ्कु perf. अरङ्कुीत aor.
 
-मण्ड् 1 A. निश्पादनै to distribute; मण्डुतै pre. ममण्डै perf. मण्डिता
-   p. fut मण्डिष्युयुतै fut. अमण्डिष्टु aor. मण्डिषीष्ट ben. निममण्डिषतै
-   des. Pass.—मण्ड्युतै pre. अमण्डि Aor.
+रङ्कु 1 U. to go quick; रङ्कुति-तै pre. ररंकु, ररङ्कुै perf. रंकिता p. fut.
+   अरंकीत, अरंकिष्टु aor.
 
-मण्ड् 10 U. to adorn; मण्डुयाति-तै pre. मण्डुयाचकार-चक्रै &c. perf.
-   मण्डुयिता p fut. अममण्डुत-न aor. मण्ड्युयात्, मण्डुयिषीष्ट ben.
-   निमण्डुयिषति-तै des.
+रंष् 10 U. to shine, to speak; रंषुयाति-तै pre. रंषुयाचकार-चक्रै perf.
+   अररंषत-न, अरंषीत aor.
 
-मथु 1 P. विलोडनै to stir, to churn; मथिष्युयुति fut. अमथीत Aor.
-   Cau.—माथुयाति-तै pre. अमीमथुत-न aor. निमथिषतै des.
+रच् 10 U. प्रतिष्रुज्जै to arrange, to make, to write, to adorn, to
+   direct; रचुयाति-तै pre. रचुयाचकार-चक्रै perf. रचुयिता p. fut.
+   रचुयिष्युयति-तै fut. अररचत-न aor. रिरचयिषति-तै des. रचित p. p.
+   रचुयित्वा ger.
 
-मद् 4 P. हर्षुोल्लासयो: to be glad, to be in a pitiable condition;
-   माद्युति pre. ममाद perf. मदिता p. fut. मदिष्युयुति fut अमदीत-
-   अमात्स्युत् aor. Cau —to inebriate, मादुयति-तै pre. अमीमदत-न ( to ine-
-   briate ) pre, अमीमदुत-न aor. निमदिषति des. मामदतै, मामदीति.
-   मामत्ति freq. Pass. मद्युतै pre. अमादि, अमदिष्ट aor. मत्त p.p.
+रञ्ज् 1 & 4 U. रागै to be coloured to paint, to be pleased, to be
+   devoted to, to be in love with; रजुति-तै, रञ्जुति-तै pre. रज्ज or
+   ररज perf. रक्ताम p.fut. रङ्क्ष्युयति-तै fut. अरक्ष्युयत-न con. अराङ्क्षात
+   or अरक्त aor. रञ्जुयात् or रङ्क्षीष्ट ben. रिरजाति-तै des. Cau.—
+   to dye, &c. रञ्जुयाति-तै pre. अररजत-न aor.—to be delighted
+   रञ्जुयाति-तै pre. अरिरञ्जत-न aor. Pass.—रज्युतै pre, रञ्ज p.p.
+   रञ्ज. रञ्जनाम (!) रञ्जत्, रञ्जनाम (4) pre. p. रङ्कुन्ता,
+   रक्त्वा ger.
 
-मद् 10 A. तुष्टौ to please; मादुयतै pre. मादुयाचक्रै perf. मादुयिता
-   p. fut. मादुयिष्युयुतै fut. अमीमदत    मादुयिष्युयुत ben निमादुयिषतै
-   des. Pass-मद्युतै pre. मादुयित्वा, माविता ger.
+रद् 1 P. परिभाषणै to shout, to call out, to shout with joy; रदुति
+   pre. ररट perf. रदिता p. fut. अरदीत, अरादीत aor. Pass —to be
+रद् 1 P. to speak; रदुति pre, ररट perf.
 
-मन् 4 A. ज्ञानै to know, to think; मन्युतै pre. मैनै perf. मन्ता p.
-   fut. मंस्युयतै fut. अमंस्युयत con. अमत aor. मंसीष्ट ben. निमंसतै des.
-   Cau.—मानुयाति-तै pre. अमीमनत-न aor. ममन्युयतै, ममनीति, ममन-
-   ति freq. ( 2 ) 1 P. मद् p p. मन्त्वा ger. मन्तुं inf.
+रण् 1 P. शब्दै to sound, to go, to rejoice (in the Vedas); रणुति
+   pre. रराण perf. रणिता p. fut. अरणीत, अराणीत aor. Cau.—
+   राणुयाति-तै pre. अरिरणत-न, अरराणत-न aor. रिरणिषति des.
 
-मन् 8 A. अवबोधनै to consider, to esteem; मनुतै pre, मैनै perf.
-   मनिता p. fut. मनिष्युयुतै fut. अमनिष्टु, अमत ( अमनिहुा, अमथुः.
-   H. S. G. 42.
+रद् ! P. हिंसनै to split; to gnaw, to dig; रदुति pre, ररात perf.
+   रदिता p. fut. रदिष्युयुति fut. अरदीत or अरादीत aor. रिरदिषति des.

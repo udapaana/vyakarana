@@ -1,48 +1,25 @@
-[Internal page: 236]
+[Internal page: 250]
 
-236                    SANSKRIT GRAMMAR.                [ § 375-376
+250                    SANSKRIT GRAMMAR.                    [ § 396-397
 
-ness' or 'smallness'; as अनुदरा कन्या ' a girl having a
-slender waist ' ; ( 5 ) अप्राङ्कास्य ' badness, unfitness' ,&c.;
-अकार्यं ' something unfit to be done', अकालः ' an
-improper time, not a favourable opportunity,' and
-lastly ( 6 ) विरोध or ' opposition '; अनीतिः ' non-mora-
-lity'; immorality असुरः 'opposed to a god' i e 'a demon'.
+च P. ' to run,' धावति.              रञ्ज् P  A. to dye, रजति, रजते.
+शदू P. (*A ) ' to perish,' शीद्यते.  चज् P  to be clean, म्लजति.
+सुप् † P. (§)‡ to perish, दुःशाति.    वद् A  to yawn, यायते.
+मृग † P  to bite, मृगाति.            कूप् A. to be adequate, कल्पते.
+सञ्ज् † to adhere, सजति.             लज्ज् A  to blush, लज्जते.
+स्वञ्ज् A  to embrace, स्वजते.        सरज् P. ' to be ready ' सज्जति.
 
-म—is generally used as an expletive.  Used with a form of
-        the present tense of a verb, it gives in the sense of the
-        past tense ; as भवति स्म i. e. अभवत्.  When used with
-        the particle मा it has an intensive force; as मा स्म शोकं
-        मनः कुथाः &c.
+    396  The following seven roots form their bases like the Desiderative in the senses indicated   These are:—क्षिद्  to admonish medicine, to treat as a patient 'चिकीषति;' शाङ्ख्  to censure, जुगुप्साते; तिअ to bear, to forgive,  तितिक्षति; वृष् to abhor, to act loathsomely, विद्राति; दाग् to make straight, दीदाषाति-ते; माग् to reason, to think, मीमांसति; घाण् to sharpen, शीषाष्टाति-ते  But किद् to desire केकति; to dwell, केदाति; दाग् to cut दादायति-ते &c.
 
-इद—is added to कि and other indeclinables and asks a question
-        or implies a doubt ; किन्विद्, अहोस्विद्, &c.
+§ 397.  There are a few roots which add a penultimate nasal in the Special Tenses and Moods necessarily; e g  क्षिद् to cut चिन्दति, अह् to go अहते, पिष् to  roll into a ball पिण्डति, छार् to purify, to go शुञ्जति &c; and a few more which do so optionally, e. g  दुम् to be firm चदुति-दुदुति; घुत् or म्लुत् to go झागति-घुचति, उपसर्ग-रहित-मुञ्जति; छुत् to pluck छुञ्जति, लुञ्जति all P; शु A. to hum गुञ्जते, गुनति; यत्‌ P. to roar गर्जति, गजति and others less important
 
-स्वी—is used with छ and its derivatives like a preposition in the
-        sense of ' acceptance ' ; स्वीकारः, स्वीकृतम्, &c.
+                      4th Class ( दिवादिगः ).
 
-                        IV. CONJUNCTIONS.
+नन्द् P  ' to go ' कान्यति.          | शम्य ‡ P. 'to be pacific' शाम्यति.
+जन् A. ' to be born ' जायते.        | ताम् P. ' to desire ' तामाति.
 
-§ 376.    The following are the principal conjunctions in
-Sanskrit:—
+    * शद्ह: शीत: । Pāṇ. I. 3. 60.  शद् is Atm. in the Special Tenses.
 
-( a ) Copulative अथ, अथो, उत, च, किन्च, &c.
+    † दंशसक्तसञ्ज शाण् | (शीद्  P  VI. 4  25-26.  These roots drop their nasal in the Special Tenses.
 
-( b ) Disjunctive वा, वा...वा, &c.
-
-( c ) Adversative अथवा, तु, किन्तु, किन्वा, &c.
-
-( d ) Conditional चेत्, यदि, यदापि, नेत्, नोचेत्, वेद् ( used in
-        sacrificial ceremonies ), &c.
-
-( e ) Causal हि, तत्, तेन, &c.
-
-( f ) Interrogative  आहो अहोस्विद्,  उत,  उताहो,  कि,  किच्चु,
-        किधुत, किन्चित्, नञु, नघा, नु, &c.
-
-( g ) Affirmatives and negatives अहु, अथ किम् , आम्, अत्ता &c.
-
-( h ) Conjunctions of time यावत्—तावत्, यदा, तदा &c.
-
-( i ) अथ and इति are used to mark the beginning and the close
-        of a work respectively.
+    ‡ षामायताम् दीर्घः स्वति । Pāṇ. VII. 3  94. Of these  ग्रस् is given under जातीअ.

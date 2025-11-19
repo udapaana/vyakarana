@@ -1,15 +1,32 @@
-[Internal page: 151]
-§ 246-247 ]                    BAHUVRIHI.                    151
+[Internal page: 169]
+अव्ययीभावः                                                           169
 
-III. BAHUVRIHI OR THE ATTRIBUTIVE COMPOUNDS.
+§ 288. नमः स्वस्तिस्वधाऽलं वषडिति च ।
 
-§ 246.* A Bahuvrihi compound consists of two or more nouns in apposition to each other the attributive member being placed first and denotes or refers to something else than what is expressed by its members. It generally attributes that which is expressed by its second member, determined or modified by what is denoted by its first member, to something denoted by neither of the two; e. g, महाबाहुः 'one whose arm is great;' पीताम्बरः 'one whose garment is yellow.' When dissolved it must have the pronoun यद् in any one of the oblique cases; as महान् बाहुः यस्य स महाबाहुः [नलः]; पीतं अम्बरं यस्य स पीताम्बरः [हरिः]. A Bahuvrihi compound partakes of the nature of an adjective and assumes the gender of the substantive it qualifies.
+The indeclinables नमः, स्वस्ति, स्वधा, अलम्, and वषट् enter into an Avyayībhāva compound.
 
-Note—In English such compounds are by no means rare; cf. high-souled, good-natured, narrow-minded &c.
+Examples:— नमोदेवाय 'salutation to the god', स्वस्ति प्रजाभ्यः 'welfare to the people', स्वधापितृभ्यः 'oblation to the manes', अलमर्थाय 'enough for the purpose', वषट्कृतम् 'the utterance of वषट्'.
 
-N. B. The difference between a Karm. and Bah. comp. is this:—In the former, one of the member alone is in apposition to the substantive it qualifies, while in the latter the whole compound is an adjective. In the former the sense is complete in the comp. itself; in the latter it is not so; e.g. घनश्यामः नलः; here one of the members viz. श्यामः is in apposition to नलः and therefore the comp. is a Karm. गंभीरनादः as a Karm. simply means 'गंभीरश्यासौ नादः 'a deep sound,' and the sense is complete; as a Bah. it is equivalent to 'गंभीरः नादः यस्य 'some one whose sound is deep'; here the sense is not complete unless it is known whose sound is meant.
+§ 289. प्रत्ययार्थे क्तः पञ्चम्याः ।
 
-§ 247. Bahuvrihi compounds are divided into two classes, समानाधिकरणबहुव्रीहि and व्यधिकरणबहुव्रीहि. †
+When a प्रत्यय (affix) has to be understood after the first member in the Ablative case, the affix क्त is added.
 
-* अनेकमन्यपदार्थे । Pān. II. 2. 24. समस्यमानपदातितिरिक्तस्य पदस्यार्थे इत्यर्थः । Tb.
-† Strictly speaking this is not a division of the Bah. but an exception to the general rule. We have given it as a separate division to avoid confusion.
+Example:— यथामुक्तम् 'as said', where मुक्त represents मुख्+क्त.
+
+§ 290. पञ्चम्याः कृच् ॥
+
+After a word in the Ablative case, the affix क्त (called कृत् in technical grammar) is used.
+
+Examples:— यथाक्रोशम् 'within the distance of a क्रोश (cry)', यथायोजनम् 'within a योजन'.
+
+§ 291. कर्मणि स्थानिनः ।
+
+When the object or कर्मन् is the first member, स्थानिन् (that which occupies a place) is understood.
+
+Example:— अधिशयनम् 'in or upon the bed'.
+
+§ 292. दुर्दुःसुषु च सस्थानिनोर्विशेषणम् ॥
+
+The words दुर्, दुः, and सु (meaning 'bad', 'ill', 'good') are used in place of स and स्थानिन् to express a qualifying sense.
+
+Examples:— दुर्भिक्षम् 'famine' (bad food), दुर्दिनम् 'evil day', सुभिक्षम् 'good food', सुदिनम् 'auspicious day'.

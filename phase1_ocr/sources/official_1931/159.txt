@@ -1,18 +1,16 @@
-[Internal page: 141]
-§ 229-231 ]                    DWIGU COMPOUNDS.                    141
+[Internal page: 159]
+§ 257-255 ]                    BAHUVRIHI.                    159
 
-§ 229. In some Karmadhāraya compounds the last member of the first word which is itself a compound word is dropped*; e. g. शाकप्रियः पाण्डवः शाकपाण्डवः 'a king who likes vegetables;, देवपुत्रको ब्राह्मणः देवब्राह्मणः &c These compounds, though they should be properly called "Uttamapadalopl" are popularly designated "Madhyamapadalopl". Any compound requiring a similar explanation is classed under this group (शाकपाधिवादि) which is an आकलितगण.
+(c)* दन्त necessarily when it is preceded by a numeral or सु indicating age, or when the whole compound forms a feminine name; and optionally when it is preceded by स्फुाद्, अर्घ, a word ending in अम, शुद्ध, शुघ, टष, or वराह; द्वौ दन्तौ यस्य स द्विदन्त 'a child so small as to have two teeth only,' पड़ दन्ता अस्य । षोदन्त; शोभना दन्ता अस्य सुदन्त, सुदन्ती (i. e. youthful) fem.; but द्विदन्तः कषी, सुदन्तः (having beautiful teeth) पुरुष, अयोदन्ती, फलदन्ती (both proper names, ) &c. but समदन्ती having even rows of teeth, श्यावा (black) दन्ता यस्य स श्यावदन्त-न्तः; अरोष्टदन्त-दन्तः having black or thick-set teeth; कुम्भडुलाश्वदन्त-न्तः, having teeth like the points of buds, शुक्रवदन्त-न्तः &c.
 
-DWIGU OR NUMERAL APPOSITIONAL COMPOUNDS.
+(d) ‡ ककुद् 'when the compound denotes a particular stage of growth;' अजातं ककुदं यस्य सः अजातककुद् 'a bull that has not got his hump as yet' i. e. 'who is very young'; also when it is preceded by त्रि and the compound designates the mountain of that name; as त्रिककुद् 'name of a mountain with three peaks'; but त्रिककुदः. 'having three humps'.
 
-§ 230. † When the first member of a Karmadhāraya com pound is a numeral it is called 'Dwigu'.
+(e) § कालुद् 'the palate' (कालुदं ताल् Kās.) necessarily when preceded by उद् and त्रि and optionally when preceded by पूर्ण; as उत्कालुद्, त्रिकालुद्; पुणेंकालुदू-लुदः.
 
-§ 231. A Dwigu compound is possible (a) under the circumstances mentioned in § 223 (a) i. e.—
+§ 258. || हृदय is changed to हृद् when preceded by सु or दुश् meaning 'a friend', or an 'enemy' respectively; सुर्भं हृदयं यस्य स सुहृद् 'a friend', दुष्टं हृ दुर्हृद् 'an enemy'; but सुहृदयः 'one who has got a good heart' i. e. 'one who is able to appreciate merits', &c; दुर्हृदयः 'a man of wicked intentions.'
 
-(1) when a Taddhita affix is to be added to the compound so formed; षण्णां मातृणामपत्यं षाण्मातुरः 'the son of six mothers, Kārtikeya' (vide Ku. IX); पञ्चकपालः &c; or (2) when the compound itself becomes the first member of another compound, as पञ्चगावः पर्वं यस्यो पञ्चगवघनः; पञ्चनार्धिमयः &c.
-
-(b) And when the compound denotes an aggregate; in this case it is singular; ‡ as त्रयाणां भुवनानां समाहारः त्रिभुवनम् the three worlds (taken collectively); as पञ्चपात्रम्, पञ्चगवम्, &c.
-
-* शाकपाधिवादीनां सिद्धं उत्तरपदलोपस्योयसंख्यानम् । Vārt on Pān. II. 1. 60.
-† संख्यापूर्वो द्विगुः । Pān. II. 1. 52.
-‡ द्विगुरेकवचनम् । Pān. II. 4. I.
+* यशति दन्तस्य द्वौ । स्त्रियां संज्ञायाम् । विभाषा स्फुादश्रतीरां । अयान्तशुद्धुवर्षवराहिभयश्रः । Pān. V. 4. 141. 143-145.
+| See Foot-note p. 102.
+‡ ककुदस्णास्थायां लोषः । त्रिककुदपर्वतै । Pān V. 4. 146, 147.
+§ उदिभ्यौ कालुदस्य पूर्णोक्तिभाषा । Pān. V. 4. 148. 149.
+†† षुहृदुर्हृदौ मित्राभित्रयोः Pān. V. 4. 150.

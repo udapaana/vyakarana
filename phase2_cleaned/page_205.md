@@ -1,0 +1,11 @@
+---
+page_number: 205
+internal_page: 197
+chapter: "Secondary Nominal Bases - Taddhita Affixes"
+section: "taddhita-affixes"
+rules_starting: []
+rules_continuing: ["§ 340"]
+has_footnotes: false
+---
+
+&c.; दध्ना संसृष्टं दाधिकं 'mixed with curds', मारीचिकं fr. मरीचि 'black pepper'; (7) धर्मे रत इति धार्मिकः 'pious, religious', similarly अधार्मिकः. (8) उड्डुपेन तरतीति नौपिकः 'a boatman'; नाविकः &c. (9) हेष्टिना क्षरतीति हास्तिकः 'one who rides an elephant'; शाकटेन क्षरतीति शाकटिकः 'one who drives in a carriage'; (10) दध्ना भक्षयतीति दाधिकः 'one who eats with curds'; (11) 'living upon' वेतनेन जीवतीति वैतनिकः 'one who lives upon wages', so वाहनिकः, भोजवेदिकः &c. (12) 'carrying upon'; कटवेण हरतीति कौत्सङ्गिकः (13) अस्तीति बुद्धिः अस्य आस्तिकः 'a believer in God and sacred writings'; नास्तिकः &c. (14) it is added to लाक्षा, रोचना, शाकल and कर्दम in the sense of 'dyed with', लाक्षया रक्तं लाक्षिकं 'dyed with lac'. रोचनिकः, शाकलिकः 'chequered or spotted', कार्दमिकः:-(15) वेद, न्याय, श्रुति, लोकायत and words ending in सूत्र except कल्पसूत्र &c.; in the sense of 'one who studies them'; वेदमधीते वैदिकः 'a student of the Veda'; नैयायिकः 'one who studies Nyāya or logic'; श्रुतिमधीते श्रौतिकः 'one who studies a commentary' &c.; लौकायतिकः 'an atheist, a student of the materialistic philosophy', सौत्रान्तिकः; but कल्पसूत्रम्; (16) to हस्तिन्, धेनु, केदार and कवच in the sense of 'a collection of'; हास्तिकं 'a herd of elephants', धैनुकं 'a herd of cows', केदारिकं 'a collection of fields,' कवचिकं 'a collection of armours';-(17) to अध्यात्मन्, अधिदैव, अधिभूत, इहलोक, परलोक, &c. in the sense of 'relating to &c.;' आत्मानमधिकृत्य भवः आध्यात्मिक 'relating to the Supreme spirit', 'spiritual'; आधिदैविक 'relating to or coming from the governing deity'. आधिभौतिकः 'proceeding from the elements', ऐहलौकिकः 'temporal', पारलौकिकः &c.-(18) to क्रय, विक्रय, क्रयविक्रय, and वह in the sense of 'living upon (in these cases no Vṛddhi substitute takes place); क्रयेण जीवतीति क्रयिकः 'one who lives upon selling things, a trader', विक्रयिकः, वहिकः,

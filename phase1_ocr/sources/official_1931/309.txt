@@ -1,32 +1,30 @@
-[Internal page: 295]
+[Internal page: 309]
 
-§ 456-458 ]         CONJUGATION OF VERBS.                     295
+§ 503-504 ]         CONJUGATION OF VERBS.                     309
 
-                   हिंस् P. ' to kill.'
+§ 503  Before the strong terminations of the  Perfect Samprasāraṇa takes place in the reduplicative syllable only. In  this case the initial conjunct consonant of a root  is  reduplicated  as it is ; i. e. e. without Samprasāraṇa; as
 
-         Present.                       Imperfect.
+    ( a )  The vowel following the Samprasāraṇa  is  dropped.
 
-1. हिनस्मि     हिंस्वः    हिंस्मः        अहिनसम्     अहिंस्व      अहिंस्म
-2. हिनस्सि     हिंस्यः    हिंस्य         अहिनः-त्-द्  अहिंस्तम्    अहिंस्त
-3. हिनस्ति     हिंस्तः    हिंसन्ति       अहिनत्-द्   अहिंस्ताम्   अहिंसन्
+§ 504   The roots that reject इ altogether in the Perfect—
 
-         Imperative.                    Potential.
+                   कृ P. Â. ' to do '
 
-1. हिनसानि    हिनसाव   हिनसाम       हिंस्याम्    हिंस्याव     हिंस्याम
-2. हिंस्धि     हिंस्तम्  हिंस्त        हिंस्याः    हिंस्यातम्   हिंस्यात
-3. हिनस्तु    हिंस्ताम् हिंसन्तु      हिंस्यात्   हिंस्याताम्  हिंस्युः
+1. चकार, चकर     चक्र      चक्रम      चक्रे    चक्रवहे   चक्रमहे
+2. चकर्थ         चक्रथुः   चक्र        चक्रिषे  चक्राथे    चक्रध्वे‡
+3. चकार         चक्रतुः   चक्रुः      चक्रे    चक्राते    चक्रिरे
 
-                       II. GENERAL
-                           OR
-            NON-CONJUGATIONAL TENSES AND MOODS.
+Conjugate similarly धु, यू, and इ except in the 2nd  per.  sing. which is वर्धिथ.
 
-§ 457.  In the  General  Tenses and  Moods  and in the formation of verbal derivatives generally,  the  augment  इ  is prefixed ( necessarily or optionally )  to  terminations beginning with any consonant except य in the case of certain roots. Such roots as take the augment इ  necessarily are called Set ( स+इट् i. e.  with इ ); such as take it  optionally are called Wet ( वा+इट् ), and those that do not,  are called  Anit ( अन्+इट् i. e.  without इ ).
+                   But इ with समु*
 
-§ 458.  ( a ) Roots of more than one syllable,  derived  roots and roots of the 10th class are always Set.
+1, सचकार  सचक्रविह† सचक्रविह  सचक्रे सचक्रविहे सचक्रमिहे
+   समक्रन्                        समक्रन्
+2, सचक्रिथ सचक्रथुः  सचक्र      सचक्रिषे सचक्राथे सचक्राध्वे‡
+3, सचकार सचक्रतुः  सचक्रः     सचक्रे सचक्रते सचक्रिरे
 
-    ( b ) Of all monosyllabic roots ending in a vowel those given in the following couplet ( Kārikā ) are Set and the rest Anit.
+    * समर्थय्मान् कसोती पुरुणो । तमर्थादे च । उयायतिर्वन्यत्रिनुस्त्वमज्यायाद्रिरुषु च Pan.  VI. 1. 137—139.  स is prefixed to the root इ after  the prepositions सम् and परि when it means  to  ornament  or  collect together; and after the preposition उप in the above  sense, as well as in the sense of  procuring  agreeably  to  a  supplicating  to  a thing without destroying the thing itself ( सनी प्रणातपानं मनितल्हः   S. 33. on Pan  H. 3. 58. ) or preparing as  food,  or  supplying what is in hand without obtaining anything new from elsewhere.
 
-       " ऊदूनौयौगितिदेयूङ्ज्ञोविदुद्राबिहारिभिमिभिः ।
-         इडङ्ढुळभ्यां च विनेकाच्योऽजन्तेषु निहताः स्थूताः ॥
+    † The इ is changed to Guṇa as it is preceded  by  a  conjunct consonant now ( Vide § 499  Sid. Kau.  on Pan VII. 1. 10-11. )
 
-i. e.  roots ending in long  उ  and long  ऋ,  the roots ग्, रु, ध्यू
+    ‡ The य of the terminations क्यष्व , स्यम् , and हे of 2nd per. pl. of the Benedictive, the  Aorist and the Perfect,  is  changed to क् when preceded by any vowel except अ or आ or by य, र, य, र or ल्. When the aforesaid terminations are preceded  by the vowel,  if  र ‍ the इ be preceded by one of the consonants given above.

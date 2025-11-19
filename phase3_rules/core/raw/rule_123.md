@@ -1,0 +1,76 @@
+---
+extraction_status: raw
+note: This rule was lost in Phase 2 AI cleaning and extracted directly from Phase
+  1 OCR
+page_end: 76
+page_start: 75
+rule_id: § 123
+rule_number: 123
+source: phase1_direct
+source_pages:
+- '075'
+- '076'
+internal_pages:
+- '67'
+- '68'
+image_files:
+- 075.png
+- 076.png
+
+---
+
+§ 123. Tabular representation of the declension of दिश्.
+
+                        FEMININE.
+
+Singular.
+
+    Nom.    दिक् or दिङ्        Voc.        दिक्
+    Acc.    दिशम्            Ins.        दिशा
+    Dat.    दिशे            Abl.        दिशः
+    Gen.    दिशः            Loc.        दिशि or दिक्
+
+
+[Internal page: 76]
+76                    HIGHER SANSKRIT GRAMMAR.                    [ § 123
+
+Dual.
+
+    Nom., voc., and acc.    दिशौ        Instr., dat., and abl.    दिग्भ्याम् or दिङ्भ्याम्
+                                                        or दिक्भ्याम्
+    Gen. and loc.        दिशोः
+
+Plural.
+
+    Nom. and voc.        दिशः        Acc.        दिशः or दिगः
+    Instr.            दिग्भिः or दिङ्भिः        Dat. and abl.    दिग्भ्यः or दिङ्भ्यः
+                    or दिक्भिः                    or दिक्भ्यः
+    Gen.            दिशाम्            Loc.        दिक्षु or दिक्सु
+
+                    NEUTER.
+
+( उदक् )
+
+Singular.
+
+    Nom., voc., and acc.    उदक्        Instr.        उदका
+    Dat.                उदके        Abl.        उदकः
+    Gen.                उदकः        Loc.        उदकि or उदगि or उदचि
+
+Dual.
+
+    Nom., voc., and acc.    उदची or उदगी or उदचा    Instr., dat., and abl.    उदग्भ्याम्
+                                                            or उदङ्भ्याम्
+    Gen. and loc.        उदचोः
+
+Plural.
+
+    Nom., voc., and acc.    उदक् or उदञ् च or उदगि    Instr.    उदग्भिः or उदङ्भिः
+    Dat. and abl.        उदग्भ्यः or उदङ्भ्यः        Gen.    उदचाम्
+    Loc.            उदक्षु
+
+Note.—The student should in this way make the declension
+tables of the words प्राञ्च् ( eastern ), प्रत्यञ्च् ( western ), and
+अवाञ्च् ( southern ), which, like उदञ्च् ( northern ), are derived
+from the root अञ्च् by the affix क्विप् or क्विन् ( according to the
+genders mas. and neu. ) ॥

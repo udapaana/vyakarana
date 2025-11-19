@@ -1,32 +1,18 @@
-[Internal page: 168]
-168                                     संस्कृतव्याकरणम्
+[Internal page: 185]
+§ 310-312                             FEMININE BASES.                                  185
 
-§ 283. उपसर्गादसंज्ञायाम् ।
+made of iron. काद्रुकी ' desirous of enjoyment,' and कुवर ' a knot of hair; as जानपदी [ द्रुनिः ], 'जानपदा नगरी '; कुण्डी अमन्वे [ a vessel ] कुण्डान्या, ( one that burns ) गोर्णी आवषने चेत्‌, गोर्णा अन्या । e. ' an empty sack;' स्थली अहुत्रिमा चेत्‌, स्थला अन्या; नार्गी रशेला चेत्‌, नागा अन्या; नार्गो स्थेला चेत्‌, नागा अन्या, कोली इषश्त्रेवे, काला अन्या; । i. e. ' if it be a proper name;' नीली अवाञ्छाट्रदने [ औषधिवेधौञ्चौ गोवां ] चेत्‌, नीला अन्या नीलया रहा छादौ इच्यर्थे नीली or नीला ( when a name ), कुशो अयोविकारुब्देत्‌ but कुशा ' a wooden peg'; काद्रुकी ' a woman desirous of enjoyment,' द्राद्रुका ' one anxious to meet her lover,' कवरी ' a braid of hair,' but कवरो variegated; द्रोण has द्रोणी-णा.
 
-When the उपसर्ग does not receive a technical designation (i.e. when it is not termed गति or कर्मप्रवचनीय), it is not used in an Avyayībhāva compound.
+§ 311. * The feminine of nouns denoting 'a male' is formed by adding ई when the wife of that male is meant; गोपस्य स्त्रौ गोपी; सूद्री ( sometimes सूत्राणी also ) ' wife of a Sudra '.
 
-Example:— We cannot say प्रभवम्, but should say प्रभवः, because प्र in प्रभव is not गति or कर्मप्रवचनीय.
+(a) but not of nouns ending in पालक; as गोपालिका ' the wife of a cowherd' ( but गोपाल has गोपाली ), अश्वपालिका ' the wife of a horse-groom '.
 
-§ 284. न ननि ।
+(b) सूर्य has सूर्या ' the divine wife of Sūrya;' but सूरी i. e. कूत्तो who was a mortal
 
-The negative particle न does not enter into an Avyayībhāva compound.
+§ 312. † The words इन्द्र, वरुण, भव, शुब, रुद्र, यड़्, and आचार्य. हिम and अरण्य both implying ' vastness '; यव meaning ' bad or spoiled barley ', यवन when the feminine denotes the alphabet of the Yavanas, मातुल and आचार्य form their fem in ई but insert आन before this ई e. g. इन्द्राणी ' the wife of Indra;' वरुणानी ' the wife of Varuna ', &c.; हिमानी ' a vast sheet of ice,' अरण्यानी ' an immense expanse of forests,' द्रुरो यवौ यवानी, यवनानां लिपियं-बनानी, but यवनी ' the wife of a Yavana or Yavana woman ;' आचार्यानी‡ ( and not पी ) ' the wife of an Achārya or a holy
 
-Example:— We cannot say अनीश्वरम् or अब्राह्मणम्. These must be expressed by a Bahuvrīhi or a Nañ Tatpurusha compound.
+* पुद्रोगादिष्वयाचाम् । Pān. IV. 1. 48 पालकान्ताच । Vārtika. सुर्यीदेवतार्ग्यां चाष्ट वाच्यः । Vārtika.
 
-§ 285. दिक्शब्देभ्यः सस्य ।
+† इन्द्रवरुणभवशुबरुद्रयुडादिमारण्यवयवनमातुलाचार्याञ्चार्याणामाङुर् । Pān. IV. 1, 49, हिमारण्ययोमेहद्वे । यवाहोषि । यवनाहुष्णुयाम् । Vārtikas.
 
-After words denoting quarters or directions, सा (originally सह 'with') enters into an Avyayībhāva compound.
-
-Examples:— सपूर्वम् 'from the east', सपश्चात् 'from the west', सदक्षिणम् 'from the south', सोत्तरम् 'from the north'.
-
-§ 286. इष्टप्राप्त्योः ।
-
-सा also enters into compounds when the sense is 'wish' or 'attainment'.
-
-Examples:— सकामम् 'according to wish', साधिपम् 'unto the sovereign', सालम्बम् 'with support'.
-
-§ 287. व्रतसमाप्तिपरिसमाप्तिभ्यः पूर्वाह्णादेः ।
-
-सा is used after व्रत, समाप्ति, and परिसमाप्ति when followed by words like पूर्वाह्ण etc.
-
-Examples:— साव्रतम् 'with vow', सासमाप्तम् 'unto completion', सपूर्वाह्णम् 'up to forenoon'.
+‡ आचार्यादिदुपादां च । Vārtika.

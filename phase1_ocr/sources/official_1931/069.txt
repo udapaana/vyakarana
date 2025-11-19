@@ -1,32 +1,34 @@
-[Internal page: 50]
-50                        SANSKRIT GRAMMAR                    [ 81-83
+[Internal page: 69]
+§ 114-115 ]                    DECLENSION.                    69
 
- Ab.  धातुः-तृणः      धातृभ्याम्           धातृभ्यः
-  G.    ,,            धात्रोः-तृणोः         धातृणाम्
-  L.   धातरि            ,,                 धातृषु
+which are bases of the present participle active ; ( b ) bases of
+the perfect participle, ending in वस् which takes the place of
+the primary affix क्त ( जुष्टवान् ), and ( c ) those of the periphrastic
+future, taking the secondary affix तासि &c., viz. कर्तासि ॥ Except
+उषस्, all other bases in ष् which take the nom. affix वान् or वस्
+affix are participial words, and as such, they possess all three
+genders and take all case-terminations. But as words in वान्
+and वस् are explained in the chapter of Verbs we will confine
+our illustrations to the decl. of उषस् in the fem. gender, and
+कर्तासि in the mas., which is thus formed :
 
-Decline similarly कर्तृ, नेतृ, ज्ञातृ, &c.
-
-स्वसृ and other fem. nouns should be declined like धातृ except in the Acc. plu. which is स्वसृः . See below.
-
-§ 82. Nouns expressive of relationship like पितृ m. a father, मातृ f a mother, देवृ m. a husband's brother, &c. with the excep-tion of नप्तृ a grandson, भर्तृ a husband and स्वसृ a sister, as also the words शोतृ one who praises (Un. II. 92), नृ a man (Un.II 98) and सत्येतृ a charioteer, do not change their ऋ to आर् in the N. dual and plural and Acc. sing. and dual; e. g.
-
-  N.  पिता   पितरौ  पितरः       N.  माता  मातरौ  मातरः
-  V.  पितः(र्) ,,     ,,         V.  मातः(र्) ,,     ,,
-  A.  पितरम्   ,,   पितृन्       A.  मातरम्  ,,    मातृः
-        The rest like धातृ .              The rest like स्वसृ
-
-Decline similarly भ्रातृ.              Declıne similarly यातृ a hus-
-जामातृ, देवृ, शोतृ, दायदृ and...        band's brother's wife, दुहितृ a
-वृ. The Gen. plu. of नृ is            daughter, and ननान्दृ or नन्न्द्री
-नृणाम् or नृणाम्*                      a husband's sister.
-
-§ 83. The word क्रोधु a jackal, is declined like a word ending in ऋ necessary in the first five ınflections and optionally before the vowel terminations beginning with the Inst. sirg. except that of the Gen. plu.‡ e. g.
-
-* नृ च । Pān. VI. 4. 9. नृ इत्येतस्य नामि वा ङौधः स्यात् । Sid. Kau.
-
-‡ नञ्जि च नन्दै। Un. II 97 न नन्दति ननान्दा। इइं वृद्धेनोड्वनते इत्येके। Sid. Kau.
-
-* ननान्दा तु स्वसा पत्युर्वनेन्दा नमो॰ उत्तरं । Sid. Kau.
-
-‡ त्रुञ्जन्कोटुः विभाषा तृतीयादिषु । Pán. VII, I. 95. 97.
+§ 115. The Nom. and acc. dual उषसी, the nom. voc. and
+acc. pl. उषसः are formed regularly by adding the case-affixes. So
+also कर्तासौ and कर्तासः ( nom. pl. ) and कर्तासः ( acc. pl. ). Simi-
+larly the dat., abl. and loc. dual of both these words will be
+formed as follows: उषोभ्याम् and कर्तोभ्याम्, उषसोः and कर्तसोः ॥
+Similarly also we have the ins. कर्तासा ॥ But in the ins. of
+उषस् we have उषसा by virtue of the special rule वाष्प-अदभ्यष्प्राच्वराब्वि-
+भ्यो निचा ( Pan. VI. 4. 116 ). So also we have उषसे, उषसः, उषसः
+and उषसि, though the गुण ओ ought to be substituted for अ by
+virtue of the general rule प्रत्ययस्य लुकि तद्धितलुकि च गुणः ॥ But
+the गुण is not admitted here by virtue of the rule पच्यदात् of
+Vār. ( quoted in the Kāsikā on VI. 4. 116 ). The Gen. dual should
+have been उषोः by VI. 4. 116, but there being no counteracting
+rule like पच्यदात् to the general गुण-rule, Pāṇini explains this
+exception by suggesting an आदेश एकादेश of वृद्धि औ for अ of the
+base + ओ of the सादेश ( Pan. VII. 3. 102 ). Thus we have उषौस्,
+उषोभिः ( उषसः + भिः ), उषोभ्यः ( उषसः + भ्यः ), उषसाम् ( उषसाम् ),
+उषःसु ; and so of कर्तासि we have in all cases where गुणोकार is
+compulsory, namely ins., dat., and abl. sing., ins. dat. abl. pl.,
+gen. dual viz. कर्तोसा, कर्तोसि, कर्तोसः, कर्तोभिः, कर्तोभ्यः, कर्तोसोः.

@@ -1,0 +1,47 @@
+---
+page_number: 367
+internal_page: 367
+chapter: "Conjugation of Verbs"
+section: "conjugation-of-verbs"
+rules_starting: ["§ 599"]
+rules_continuing: ["§ 598"]
+has_footnotes: false
+---
+
+2nd Future.
+
+1. बोधिष्ये      बोधिष्यावहे      बोधिष्यामहे
+2. बोधिष्यसे     बोधिष्येथे       बोधिष्यध्वे
+3. बोधिष्यते     बोधिष्येते       बोधिष्यन्ते
+
+Conditional.
+
+1. अबोधिष्ये     अबोधिष्यावहि     अबोधिष्यामहि
+2. अबोधिष्यथाः   अबोधिष्येथाम्     अबोधिष्यध्वम्
+3. अबोधिष्यत     अबोधिष्येताम्     अबोधिष्यन्त
+
+Aorist.
+
+1. अबोधिषि      अबोधिष्वहि      अबोधिष्महि
+2. अबोधिष्ठाः    अबोधिषाथाम्     अबोधिष्ध्वम्
+3. अबोधि        अबोधिषाताम्     अबोधिषत
+
+Benedictive.
+
+1. बोधिषीय      बोधिषीवहि       बोधिषीमहि
+2. बोधिषीष्ठाः   बोधिषीयाथाम्     बोधिषीध्वम्
+3. बोधिषीष्ट     बोधिषीयाताम्     बोधिषीरन्
+
+N. B. The Passive forms of roots of the tenth class
+differ from the Passive forms of Causals for which see
+णिज् cau. Pass. given in the next section.
+
+SECTION III.
+
+DERIVATIVE VERBS (प्रत्ययान्तधातवः)
+and
+THEIR CONJUGATION.
+
+§ 599. The Derivative Verbs are divided into four classes:
+(1) Causals or Nijantas (णिजन्तः); (2) Desideratives or San-
+antas (सन्नन्तः); (3) Frequentatives or Yanantas (यङन्तः);

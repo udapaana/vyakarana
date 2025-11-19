@@ -1,40 +1,48 @@
-[Internal page: 222]
+[Internal page: 236]
 
-222                    SANSKRIT GRAMMAR.                [ § 359-360
+236                    SANSKRIT GRAMMAR.                [ § 375-376
 
-हुय, सिन्धु, ककन्धु, 'क्षिङ्क्षु ' a measure of one hand in length,'
-कण्डु, रेणु, रज्जु ( when at the end of a comp. ), इङुभि, मांभि, इंङुभि,
-इडु, बाहु, लङ्गानि, अर्गणि, भर्गणि, इनि ' a leather strap,' भौणि,
-यानि, and ऊर्मि.
+ness' or 'smallness'; as अनुदरा कन्या ' a girl having a
+slender waist ' ; ( 5 ) अप्राङ्कास्य ' badness, unfitness' ,&c.;
+अकार्यं ' something unfit to be done', अकालः ' an
+improper time, not a favourable opportunity,' and
+lastly ( 6 ) विरोध or ' opposition '; अनीतिः ' non-mora-
+lity'; immorality असुरः 'opposed to a god' i e 'a demon'.
 
-                V. WORDS MASCULINE AND NEUTER.
+म—is generally used as an expletive.  Used with a form of
+        the present tense of a verb, it gives in the sense of the
+        past tense ; as भवति स्म i. e. अभवत्.  When used with
+        the particle मा it has an intensive force; as मा स्म शोकं
+        मनः कुथाः &c.
 
-§ 360    यत्र, भूत, मुस्त ' a kind of grass ( also मुस्ता )', श्चेलित
-' play, joke, tremor,' एरावत, पुरस 'a wooden or earthen doll', चुल्त
-' roasted meat,, छोहित ' blood ', शुष्क, अर्थं, निदाथ, उद्यम, शल्य,
-इह, त्रत्र ' the name of Gokula,' कुम्भ, कुभ, कूर्चं ' a peacock's fea-
-ther, the beard, ' &c , कन्च, दर्प, अर्धं ' a kind of eye disease ',
-अर्म, दर्श, एच्छ, कवन्ध, औषध, आयुध, अनत, द्रण्ड, मण्ड ' the scum of
-boiled rice, ' संणड, शव, सैन्यच, पार्यं, आकाश, कुश, काश, अङ्कुश,
-डलिश, यह, मेह, बीहं ' a peacock's feather, ' रेह, पह, पदह, अयापद,
-' gold ' अभ्चुत, देव, कडुव, मङु ' name of an aquatic bird ' मधु,
-सीधु, शीधु, साठ, कमण्डलु, सक्त ' the flour of barley first fried and
-then ground ' ( used in the pl. ), झाळक ' the root of the water
-lily ', कण्टक, अनीक, सरक, मौदक ' spirituous liquor,' also 'the act
-of drinking liquor ( vide. Śiś XV. 80 ), मौदक, चषक ' a drink-
-ing cup', मस्तक, एस्तक, तटाक, निष्क, शुष्क, झुर्चेंक ' lustre, vigour'
-पिनाक, ' a bow, the bow of Śiva, ' भाण्डक, पिण्डक ' incense ', &c ,
-पुलाक ' a lump of boiled rice ', वट, लोष, छुड, पद कषद, कपाद,
-कपोत ' a rage, ' वट ' a kind of plant ', ढोट, हट, रण, तीरण,
-कापोषण ' a particular coin, ' स्वर्ण, सुवर्ण, त्रण, चरण, द्रुषण,
-विषाण, तृण, तीर्यं ( n. ) ' a holy place ' ' a descent into water,
-the stairs of a landing place, &c ( m. ) a respectable
-person ' ( generally used as an affix, as भारतीतोभे, &c. ), प्रोषु ' the
-nose or nostrils of a horse युभ, यूयं, मान, यान, अभिधान, नलिन,
-उल्लिन, उद्यान, शयन, आसन, स्थान, चैवदन, आलान ' the tie-post or the
-tie-chain of an elephant,' समान m. a friend, n. a letter having
-the same organ of utterance, भवन, वसन, संभावन, वितान a
-canopy, विमान, चूर्ण, a winnowing basket, कृतप,* the eighth
+इद—is added to कि and other indeclinables and asks a question
+        or implies a doubt ; किन्विद्, अहोस्विद्, &c.
 
-* भहो उहनो विष्पाता दूशं पञ्च च सर्वंदा ।
-तमाटसौ हुहतौ यः स कालः कृतपः स्मृतः ॥
+स्वी—is used with छ and its derivatives like a preposition in the
+        sense of ' acceptance ' ; स्वीकारः, स्वीकृतम्, &c.
+
+                        IV. CONJUNCTIONS.
+
+§ 376.    The following are the principal conjunctions in
+Sanskrit:—
+
+( a ) Copulative अथ, अथो, उत, च, किन्च, &c.
+
+( b ) Disjunctive वा, वा...वा, &c.
+
+( c ) Adversative अथवा, तु, किन्तु, किन्वा, &c.
+
+( d ) Conditional चेत्, यदि, यदापि, नेत्, नोचेत्, वेद् ( used in
+        sacrificial ceremonies ), &c.
+
+( e ) Causal हि, तत्, तेन, &c.
+
+( f ) Interrogative  आहो अहोस्विद्,  उत,  उताहो,  कि,  किच्चु,
+        किधुत, किन्चित्, नञु, नघा, नु, &c.
+
+( g ) Affirmatives and negatives अहु, अथ किम् , आम्, अत्ता &c.
+
+( h ) Conjunctions of time यावत्—तावत्, यदा, तदा &c.
+
+( i ) अथ and इति are used to mark the beginning and the close
+        of a work respectively.

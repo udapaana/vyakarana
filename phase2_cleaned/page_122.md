@@ -1,0 +1,25 @@
+---
+page_number: 122
+internal_page: 114
+chapter: "Compounds"
+section: "compounds"
+rules_starting: ["§ 187", "§ 188", "§ 189"]
+rules_continuing: []
+has_footnotes: true
+---
+
+§ 187. When the several members of a Dwandwa compound are viewed separately, it is called Itaretara Dwandwa, e. g. धवखदिरौ छिन्धि, 'cut down the Dhava and the Khadira trees' In this species each member is of equal importance i. e. has its own independent meaning. It takes the dual or the plural according as the objects denoted by it are two or more in number; the gender of the final noun is the gender of the whole;* as कुक्कुटश्च मयूरी च कुक्कुटमयूर्यौ इमे (fem. dual of इमद् ); but मयूरी च कुक्कुटश्च मयूरीकुक्कुटौ इमौ; रामश्च लक्षमणश्च भरतश्च शत्रुघ्नश्च रामलक्षमणभरतशत्रुघ्नाः &c.
+
+Exception—अश्वश्च वडवा च अश्ववडवौ (mas. dual) a horse and a mare; अहश्च रात्रिश्च अहोरात्रः (mas. sing. day and night).
+
+§ 188. Samāhāra Dwandwa is that species of Dwandwa which implies an aggregate of the things enumerated in which constitute a complex idea. It is always singular and neuter Thus आहारनिद्राभयम् does not merely mean 'food, sleep and fear' but all that characterises animal life. In this species the meaning of the different members is subordinate to the collective sense of the whole compound.
+
+§ 189. †A Dwandwa compound of words denoting limbs of the body of an animal, players on musical instruments, parts of an army, inanimate objects (things or द्रव्यs and not qualities) names of rivers differing in gender, as also of countries (and not villages), and insects, and animals between which there is naturalantipathy, is always of this nature; पाणौ च पादौ च पाणिपादम् hands and feet; रथिनाश्च अश्वारोहाश्च रथिनाश्वारोहम् chariot-warriors and horse-men माद्र्दङ्गिकाश्च पाणविकाश्च माद्र्दङ्गिकपाणविकम् players on
+
+---
+
+## Footnotes
+
+* परवल्लिङ्गं द्वन्द्वतत्पुरुषौ । Pāṇ. II. 4. 26.
+
+† अङ्गप्राणितुर्येसेनाङ्गानाम् । Pāṇ. II. 4. 2; जातीरुपाणाम् Pāṇ. II. 4. 6.; विशिष्टलिङ्गो नदीदेशोऽग्रामः । Pāṇ. II. 4. 7., शत्रुनिततः Pāṇ. II. 4. 8. वैरं च द्विषतोः शाश्वतिकम् Pāṇ. II. 4. 9.

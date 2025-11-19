@@ -1,35 +1,41 @@
-[Internal page: 233]
+[Internal page: 247]
 
-§ 373                    INDECLINABLES.                         233
+§ 393 ]              CONJUGATION OF VERBS.                     247
 
-पुनः पुनः Again and again, re-   प्रायः Mostly.
-    peatedly.                      प्राह्णे In the noon.
-पुरतस्   }                        प्रेत्य After death.
-पुरः     } Before, in front.       बलवत्  } Forcibly, powerfully
-पुरस्तात् }                       बलात्    } excessively.
-पुरा In former times, of yore,    बहिः Out, beside, except.
-    at first.                      भाञ्जर् Quickly.
-पूर्वतः In or to the east, before, भूयः Exceedingly,  again an·
-    in front of &c.                     again.
-पूर्वेयुः On the former day, yester- भूयाश्च Greatly, exceedingly, re·
-    day.                                peatedly.
-पृथक् Severally, apart from.      संझु Quickly, immediately.
-प्रकाममं } Exceedingly,            मनाहु A little, slightly, slowly
-प्रकामत  } at will, with pleasure.      tardily.
-प्रातो In the morning.             मालिकं  }
-प्रताम् Extensively.                     Except.
-                                   मावित्र
-प्रतम्          Being exhausted.   मावचिरम् Without delay, imme-
-प्रशान्त                                diately.
-प्रतिदिनम् Every day.               मियोः  } To each other, secretl·
-प्रत्युत On the contrary, on the   मियो   }
-    other hand, rather, &c.        मिथ्या Wrongly, incorrectly, '
-प्रवाह्युका } On high, at the           no purpose, in vain.
-प्रवाह्युकम् } same time.           मुधा To no purpose, in vai
-प्रसह्य Forcibly, violently, ex-        unprofitably, wrongly.
-    ceedingly, much.               मुहुर् Often, again and again.
-प्राकु Before, at first, in or to  मृषा Falsely, lyingly, in vai
-    the east.                      यद् Since.
-प्रातर् In the morning.             यतः Since, for which reas6
-प्राख्यम् Crookedly, in an oppo-        wherefore.
-    site manner favourably.        यत्र Where, in which place.
+                          10th Class.
+
+                   चुर् P. A. ' to steal.'
+
+    P.              Present.                A.
+
+1. चोरयामि     चोरयावः    चोरयामः      चोरये      चोरयावहे     चोरयामहे
+2. चोरयसि     चोरयथः    चोरयथ       चोरयसे     चोरयेथे      चोरयध्वे
+3. चोरयति     चोरयतः    चोरयन्ति     चोरयते     चोरयेते      चोरयन्ते
+
+                          Imperfect.
+
+                            Par.
+
+            1. अचोरयम्              अचोरयाव             अचोरयाम
+            2. अचोरयः              अचोरयतम्            अचोरयत
+            3. अचोरयत्             अचोरयताम्           अचोरयन्
+
+                            Atm.
+
+            1. अचोरये              अचोरयावहि           अचोरयामहि
+            2. अचोरयथाः            अचोरयेथाम्          अचोरयध्वम्
+            3. अचोरयत              अचोरयेताम्          अचोरयन्त
+
+    P.              Imperative.                A.
+
+1. चोरयाणि     चोरयाव    चोरयाम      चोरयै      चोरयावहै     चोरयामहै
+2. चोरय       चोरयतम्   चोरयत       चोरयस्व    चोरयेथाम्    चोरयध्वम्
+3. चोरयतु     चोरयताम्  चोरयन्तु    चोरयताम्   चोरयेताम्    चोरयन्ताम्
+
+                          Potential.
+
+1. चोरयेयम्   चोरयेव    चोरयेम      चोरयेय     चोरयेवहि     चोरयेमहि
+2. चोरयेः     चोरयेतम्  चोरयेत      चोरयेथाः   चोरयेयाथाम्  चोरयेध्वम्
+3. चोरयेत्    चोरयेताम् चोरयेयुः    चोरयेत     चोरयेयाताम्  चोरयेरन्
+
+    The forms of other roots should be similarly made up

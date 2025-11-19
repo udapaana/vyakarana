@@ -1,44 +1,49 @@
-[Internal page: 624]
+[Internal page: 638]
 
-62                   SANSKRIT GRAMMAR.
+76                   SANSKRIT GRAMMAR.
 
-   rejoice, to be sleepy, &c; दिव्युति pre. दिदेव perf. दुविता p. fut.
-   अदैवीत aor. दीव्युयात् ben. दुद्युयुति, दिदैविषति des. Pass.—दीव्युतै
-   pre. Cau.—देवयति-तै pre. अदीदिवत-न aor. द्युत or द्युदुत p. p.
+पद् 10 A. नताप to go; पद्युतै pre, ष्पदायाचक्रै perf. पदयिष्युयतै fut.
+   अपपदत aor. पिपदयिषतै des. Pass.—पद्युतै pre. अपदि aor.
 
-दिव् 1 P. & 10 U मर्दनै to rub; दैवति, दैवयति-तै pre. दिदेव, देव-
-   याञ्चुकार-चक्रै &c. perf. अदैवीत, अदीदिवत-न aor.
+पन् 1 A. to praise; पनतै, पनायाति pre. पैनै, पनायाचकार, &c. perf.
+   पनिता, पनायिता p. fut पनिष्युयत्; पनायिष्युयुति fut. अपनिष्टु, अप-
+   नायीत aor. पनीष्ट. पनायिष्ट. पनास्युयात्, पनित, पनायित p.p.
 
-दिव् 10 A. परिश्रुञ्जतै to cause, to lament; देषयतै pre. अदीदिषत Aor.
+पन्य् 10 U. & 1 P. to go; पन्युयाति-तै, पन्युयुति pre अपपन्युयत-न अप-
+   न्युयीत aor.
 
-दिश् 6 U. अतिसर्जनै to grant, to allow; दिशुति-तै pre. दिदेश. दिदिशै
-   perf. देष्टुं p. fut. दैक्ष्युयुति-तै fut. अदेक्ष्युयत-न con. अदेशीत्, अदिशिष्ट
-   दिदेशात, दिक्षीष्ट ben, दिदिक्षति-तै des. Pass.—दिश्युतै pre. अदेशि
-   aor. Cau —देशयाति-तै pre. अदीदिशत-न aor. दिष्ट p. p. देष्टुं inf.
-   दिष्टुं ger.
+पथ् 1 A. to go, to move; पथुतै pre, पैथै perf. अपथिष्टु aor.
 
-दिह् 2 U. उपचयै to augment, to anoint; दैघ्व, दिग्धै pre. दिदेह,
-   दिदिहै perf. देष्टुं p. fut. देक्ष्युयुति-तै fut. अधैक्ष्युयत-न, con, अधिषत्,
-   अधैक्षीत aor. दिहीष्ट, दिह्युयात्, दैक्ष्युयात्, दैक्षीष्ट ben. दिदिक्षति-तै des.
-   Pass—दिह्युतै pre. अदेहि aor. Cau.—देहयाति-तै pre अदीदिहत-न
-   aor. दिग्ध p. p. दिग्धुवा ger. देग्धुं inf.
+पर्ण् 10 U हरितत्वावै to make green; पर्णुयति-तै pre, पर्णुयाचकार-
+   चक्रै perf. पर्णयिता p. fut; अपपर्णत-न aor.
 
-दी 4 A. क्षयै to perish; दीयुतै pre दिदीयै perf. दाता p. fut. दास्युयतै
-   fut. अदास्युयत con अदासत aor. दासीष्ट ben दिदासतै des. दीन p. p.
+पर्द् 1 A. to break wind; पर्दुतै pre. पपर्दै perf. अपर्दिष्टु aor.
 
-दीक्ष् 1 A. भाण्डुपोजैयातपव्रुतनियमातादिशेषु to invest with a sacred
-   thread, to dedicate oneself to, to sacrifice, &c ; दीक्षतै pre.
-   दिदीक्षै perf. दीक्षिता p. fut. अदीक्षिष्टु aor. Pass.—दीक्ष्युतै pre.
-   अदीक्षि aor. Cau —दीक्षयाति-तै pre. अदिदीक्षत-न aor दिदीक्षितै
-   des. दीक्षित p. p. दीक्षित्वा ger.
+पर्द् 1 P. to go: पर्दुति pre. पपर्द perf. अपर्दीत aor.
 
-दीप् 2 A. दीप्तिदैवैयो: to shine, to appear; दीप्युतै pre. दीप्युवाचक्रै
-   perf. दीप्तुता p fut. दीपिष्युयतै fut. अदीपिष्टु Aor ( Vedic. )
+पर्व् 1 P. to go; पर्वुति pre. पपर्व perf.
 
-दीप् 4 A. दीप्तौ to shine, to burn; दीप्युतै pre. दिदीप perf. दीपिता
-   p. fut. अदीपिष्टु, अदीपि aor. दीपिषीष्ट ben. दिदीपिषतै des. Cau.—
-   दीपयति-तै pre. अदीदिपत-न & अदिदीपत-न aor. Pass.—दीप्युतै pre.
-   अदीपि aor. दीप p. p.
+पर्व् 1 P. पूरणै to fill; पर्वुति per. पपर्व perf. अपर्वीत aor.
 
-दु 1 P. to go; दवुति pre. (for other forms see the following
-   root.) दुत P.p.
+पल् 1 P. to go. to move पलुति pre, पपाल perf. अपालीत aor.
+
+पश् 10 U. बन्धनै to bind; पाशयाति-तै pre, अपीपशत-न aor. पाशयात्-
+   पाशयिषीष्ट ben. पिपाशयिषति-तै des.
+
+पश् 10 U. to go; पश्युयाति-तै pre.
+
+पंस् 10 U. & 1 P. नाशनै to perish, पंसुयाति-तै, पंसुति pre, पंसयिता,
+   पंसिता fut. अपपंसत-न, अपंसीत aor.
+
+पा 1 P. पानै to drink, to absorb; पिवुति pre. पपौ perf. पाता p.
+   fut. पास्युयति fut. अपास्युयत् con. अपात् aor. पेयुयात् ben. पिपासति
+   des. Pass.—पीयुतै pre, अपायि aor. Cau.—पाययाति-तै pre.
+   अपीपयत-न aor. पेपीयतै, पापाति, पापेति freq. पीत p.p. पीत्वा ger.
+   पातुं inf.
+
+पा 2 P. रक्षणै to protect, to rule, पाति pre, पपौ perf. पात्वुति fut.
+   9 P. पानै, शुराग्यर्थै to arrive at, पाता pre. पिपासति des. Pass.—
+   पाप्युतै pre, Cau.—पालयाति-तै pre. अपीपलत-न aor.
+
+पार् 10 U. कर्मुसमाग्यां to finish, to get through or over; पारयाति-तै
+   pre, पारयाञ्चुकार-चक्रै perf. पारयिता p. fut. पारयिष्युयुति-तै fut.

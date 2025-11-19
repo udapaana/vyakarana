@@ -1,38 +1,40 @@
-[Internal page: 401]
+[Internal page: 415]
 
-§ 664 ]        PARASMAIPADA & ĀTMANEPADA.                    403
+§ 667 ]        PRIMARY NOMINAL BASES.                    417
 
-When the root has its original sense, the Par. is used and
-य् is not inserted:  कुरुपति अपकर्वति  त्री  'the woman scatters
-flowers;' अयोदुपति fruit scatters it
+                        SECTION I.
 
-कुत्*—when not preceded by a preposition is conjugated in both
-the Padas.   But it is used in Atm. by itself when the meaning is
-'free movement, energy, development or increase, '&c,. कचिच्य फमते
-इतिर्: 'his intellect moves freely in ( i. e proves very powerful in
-mastering ) the Rigveda;' फत्तामाणोरिसदति 'moving unobstructed in
-the assembly of the enemy' (Bh. VIII. 22); अष्यचनाय फमते 'shows
-ability or energy for studying ;' न त्स्नाय फमते जडानाम्। Vikra.I.16
-फमनेऽन्तेष् शास्त्राणौ 'the Śāstras find enlargement in him or are
-satisfactorily  mastered by him.'  In the same sense it is Atm.
-when preceded by उप and परा only ( i. e. is Par. if preceded by any
-other preposition) परक्रामति, परक्रीडति i. c. is Par. if ' शक्ति ( showed
-might ); परिक्रामसुरातते  ( made bold ) पाङ्क्ती यस्य कुरुते ( किंचुग । Bh.
-VIII. 22–23; but क्रामनिते ( शाकेबृद् इतिर्: ). When preceded by आति
-is Atm. in the sense of 'the ascending or the rising of a heavenly
-body;' आक्रमते सूर्य: 'the sun rises;' but आकामति धूमो इस्थीतेऽसात् 'the
-smoke issues forth from the upper terrace.' Also when preceded by
-क्ति, in the sense of 'a graceful movement of the feet, or ascending,'
-सादुशु विक्रमते वाजौ 'the horse moves gracefully;' but विक्रामति सत्रय:
-'the joint splits,'—and by य and उय in the sense of ' beginning,'
-यक्रमते; as in सन्दृत्ते तिर: प्राक्रमनेवनूत्र । Kum. III. 2.  'thus began to
-talk with him in private;' but प्रक्रामति 'goes,' उपक्रामति 'comes near.'
+        PARTICIPLES ( Declinable and Indeclinable )
 
-क्री†—'to buy' is Atm. when the prepositions अद्, परि  and हि
-are prefixed to it; e.g. अदुक्रीत्ते वं means 'to sell'), अपक्रीणीते, परिक्रीते
-cf. Bh.  VIII. 8. छुनेत्ोपह्युतं वाणौ: परिक्रीत्णातम्बुयितवत् ।
+            1. Participles ( Declinable )
 
-_________________________________________________
-*नोनिपूर्वात्तनेष्रुकम्::उपूयपाशुध्य । आट् उत्तमते। ज्ञौ तिहुरुनसृतिद्वाच्चा।
-Vārt.वे: पादुविदूरणोंऽधूरिणर्था यु । आङुपसाता । Pāṇ.1,2,38-43.
-† परिस्थरूपे: किम: Pāṇ. 1. 3. 18.
+        ( a ) Participles of the Present Tense
+
+§ 667.  The participle of the present  Parasm.  is formed by
+the addition of the affix अत् to  that form of a  root,  primitive
+or derivative, which it assumes before the third person plural
+termination of the Present Tense.  If the base ends in अ, the अ
+is dropped; e  g.
+
+यू ( 1 cl. )—अत्+अन्ति Pre. 3rd pl. यू+अत्=भवत् Pre. P being
+रूरा ( I cl  )—तिद्+अन्ति „        तिद्+अत्=तिह्वद् „, standing
+दिर् ( 2 cl. )—विष्+अन्ति „        विश्+अद्=विह्वद् „, hating.
+    similarly from
+अद् ( 2 cl. ) अद्यद् eating.       रुज् ( 7 cl. ) रुज्यद् preventing.
+या ( 2 cl. ) याद् going            छु ( 8 cl. ) छुर्वद् doing.
+हु ( 3 cl. ) डुर्वद् sacrificing    तन् ( 8 cl. ) तन्वत् stretching, &c.
+दिव् ( 4 cl. ) दीव्यद् playing.      क्री ( 9 cl. ) क्रीणत् buying.
+सु ( 5 cl. ) सुन्वद् extracting.    चुर् ( 9 cl. ) चुर्णत् stealing, &c.
+दुर् ( 6 cl. ) दुवुर्द् giving pain.   चोर् ( 10 cl. ) चोरयत् stealhng.
+या cau  of कृ, मुरयद् causing to know.
+युवोषियु desid. of कुश् , वुवोषियत् desiring to know.
+दित्स्व desid. of दा, दिदासत् desiring to give.
+वेरिक्षु freq. of क्षिप् , वेक्षिपद् throwing again and again.
+    &c.        &c.        &c.        &c.        &c.
+
+( a ) The form. अत् is optionally changed to वुच्  when added
+to the root विद् ; विदद् or विद्वद् ' knowing. '
+
+( b ) The affix अत् when added to दृषु and हु ' to extract Soma
+juice in a sacrifice' has the sense of an agent; as दृषुवद् m. ' an enemy.'
+पदं सनं सुन्वन्तो वृत्त्र्यत: य: । Sid. Kau. ' all who sacrifice in a sacrifice.

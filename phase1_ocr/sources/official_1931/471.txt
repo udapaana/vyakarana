@@ -1,41 +1,42 @@
-[Internal page: 457]
+[Internal page: 471]
 
-§ 777 ]                PRIMARY NOMINAL BASES.                    459
+§ 793–795 ]                SYNTAX.                    475
 
-अ-forms  abstract  nouns  from  derivative  bases;  दु-विकौकुंत्युं a:
-desire to do;  पुत्युक्युमुच्चुत् a desire  to  have a son,  &c. Also  from
-roots  ending in  a  consonant  having a long  vowel for their
-penultimate,  इत्युद् desir. आयुतै; चुदुष्युत्युं—to युरु  reasonable,  &c.
+§ 793.  (a) When a pronoun is  used  relatively  with  its
+noun,  it  must  agree  with  it  in  gender  and  number;  यः
+पुरुषः स गच्छति that man goes, या  स्त्री  सा  गच्छति  that woman
+goes, यत् फलं तत् फलम् that  fruit,  &c.
 
-युदु—similarly  forms abstract nouns;  it is added  to  roots marked
-with an indicatory  युं  and to निश्च् and others;  च्—चरुत् old age;
-वुयु-वुयुरु shame,  &c.;  निश्च्-निशुद्  distinction;  separation;  विचुद्-
-चिन्तुं contemplation,  anxiety;  युच्-युच्चुं cleansing  &c.—to  कुयु
-which  changes its युट् and युट्-अत्युरु:  mercy ;  to  roots  giving
-a preposition or the words युरु and अत्युरु  precede,  यू-युञुत् giving
-gift,  भू-भूयुरु lustre,  &c.  यू with  अरु-अरुयुरु faith;  with  अत्युरु-
-अत्युघै disappearance.
+(b) When the nouns are of different genders,  the  pronoun
+is put in the masculine  when  they  are  masculine  and  feminine,
+and in the neuter when they are  masculine,  feminine  and  neuter.
 
-इुवु-( इुरु , पुरुदु. युच्चु, द्युयु , छुमुरु )—
+Concord of the Relative with the Antecedent.
 
-इुरु—is  added  to  रुच्छुयु;  रुवुकु:  ' a  washerman,  '
+§ 794.  When  a  relative  pronoun  refers  to  an  antecedent,
+it must agree with it  in  gender  and  number,  not  in  case:
+यः पुरुषः स आगतः that man has  come  ( the  relative  and  the
+demonstrative are here in the nominative );  येन  पुरुषेण  स  गतः
+that man has gone ( the relative is in the  instr.  while  the  de-
+monstrative is in the nominative  );  यं  पुरुषं  तं  पश्यामि  I  see
+that man ( the relative is in the accusative  while  the  demons-
+trative is in the nominative ).
 
-इुर्-to  affixed  to  all roots and denotes the agent  of the action;
-छु—कारुकु:  one who makes,  acting,  &c,;  पुद्-पायुकु:  one who
-cooks;  युदुरु-यूरुरुदुकु:  दू-वायुकु:,  धुत्त्यु-धोयुकु,  &c;  it is  added to the
-युरुयु and other roots  of  that  group,  but in this case  the  preced-
-ing  vowel  is  not  lengthened    युयुर्-युयुकुयु ,  दुयु-दुरुयुकु ,  युयुकुत्युरु:
-a  killer,  अयुकु:  a father,  &c.  Added  to some  roots  it  forms
-the  name  of  diseases;  इुच्छु  विछुयुद्युंक्तुं  vomiting;  यदु-पनायुड्युंक्तुं
-dysentery;  diarrhœa;  युड्-दुर्शुत्यु:ड्युंक्रा itch,  scab,  &c;  sometimes
-it  is  added to  denote  the  meanings  of  roots  आवुद्-आतिड्युक्तुं
-sitting,  शो-चायिकुं sleeping,  &c.;  sometimes  it  has  the  sense
-of  futurity,  छुष्यो  दुशैकै  यूवुते  he  goes  desirous  of  seeing
-Krishna;  नरुर्युं युरुक्रु  &c.
+§ 795.  When the antecedent is  of  the  dual  or  the  plural
+number, the correlative  pronoun  in  the  principal  clause  may
+be omitted, and  the  verb  put  in  that  number  of  which  the
+antecedent is:  ये पुरुषाः तव सुता वा  वस्त्युकुटायुमुगुच्युछुन्ति  or  ये
+पुरुषाः तव सुताः ते गुच्छुन्ति  those  men  who  are  your  sons  go
+( in the first  sentence  the  correlative  pronoun  ते  is  omitted
+and the verb, though  governed  by  an  antecedent  in  the  rela-
+tive clause,  is  made  plural ).
 
-त्युरु—is  added  to  निन्युद् ,  विदुष् , किदुयु , युयुद् ; नन्युरु with ति , किदुयु with पति
-रुरु., भद्यु, नै, नारु and इतौ in the sense of the ' agent,'  or  ' in the
-habit of,'  निन्युद्-निन्युकु:  'one  who  blames  or  is in the habit of
-blaming or censuring others,'  हिंस्-हिंसुकु:;  किंदुयु-कैदुयुकु:  &c.;
-—to विदुष् and इुच्छु preceded by आ; आविदुक्रु: ' a  gambler,'  आकोक्षुकु:
-' one  who  calls  out or  vociferates,  reviler.  '
+                          SECTION II.
+                         GOVERNMENT.
+                  A.  GOVERNMENT OF CASES.
+
+§ 796.  Government  is  that  influence  which  one  part  of
+speech exerts over another, requiring  it  to  be  put  in  a  parti-
+cular case.  It is mainly concerned with Cases,  viz.  "the  Govern-
+ment of Nouns or of Cases by Verbs  and  Nouns"  and  "Govern-
+ment by Prepositions."

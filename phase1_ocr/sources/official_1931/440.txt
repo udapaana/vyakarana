@@ -1,40 +1,45 @@
-[Internal page: 426]
+[Internal page: 440]
 
-428                  SANSKRIT GRAMMAR.                   [ § 696-699
+442                  SANSKRIT GRAMMAR.                   [ § 746-747
 
-§ 696. ( a ) Roots ending in a nasal lengthen  their  penulti-
-mate vowel  before  a  weak  termination  beginning  with  any
-consonant except a nasal or a semivowel, or before the affix किन्
-चर्-चार्न्, कर्-कार्न्, &c
+§ 746.  When the intermediate इ is  inserted,  the  preceding
+vowel takes its Guṇa substitute;  शि—शयित्वा,  कु—कवित्वा, जाग्-
+जागरित्वा, &c.
 
-( b ) Anit roots ending in a nasal,  the root वद् 1. P. and the
-eight roots of the  8th  class-तन्  and others ( see p. 355 ) drop
-their nasal before a weak  termination  beginning  with  any
-consonant except a nasal or a semivowel:—
+( a )  The roots तृष् , युष् ,  हुष् and  कुल् take  Guṇa  optionally;
+दृषित्वा or तृपित्वा,  द्विषित्वा  or  द्विपित्वा,  छुषित्वा  or  छुपित्वा,  कुल्-
+कितित्वा or आतित्वा
 
-Roots.            P. P  Ptc.       Roots.            P. P. Ptc.
+( b )  But the roots युडु , पुष् , छुयु , कुश् , इष् , and किञ्छु , the roots
+mentioned at § 493 ( i. e. किच् , &c. ) do not take Guṇa; इष्—युड़ित्वा
+' having rejoiced;'  युड्-पुषित्वा,  छुयु—युुषित्वा  ' having covered,'
+कुषित्वा,  इङुषित्वा,  किञ्छु—किङ्छित्वा  or  किदुष्युं:  कुर्-कुदित्वा,  विंङुन्-
+विनित्वा; &c.
 
-मन् 'to think', &c.      मत          नम् 'to bow'           नत
-ङृम् 'to strike,'        हत          यम् 'to restrain '      यत
-एष् 'to sport'          हत          वन् 1. P. 'to sound,
-गच् 'to go '            गत       ·   to serve,' &c.       वत
-तन्                    तत      –  यूण् 'to shine '         यत
-झाण्                   सत      ·   वुच् 'to graze'         वत
-कम्प्                   सप्त          नुद् 'to beg '          नत
+§ 747. Wet roots, except  प्रच्चु  which takes इ  necessarily, and
+रुच् , पूर् which reject इ, the five roots  given under § 472 and
+the roots marked  with  an indicatory  उ* admit  of इ  optionally
+before स्या e. g.
 
-§ 697.  The roots हुन् , जुन् and सृन् , drop their nasal and at
-the same time lengthen their vowel; सुस्, जास्, सास्.
+Roots.                  Ind.  P.  Ptc. or Ger.
 
-§ 698.  A radical इ preceding or following a vowel is some-
-times changed to ऊ before त् or न्;  when it is preceded by य it is
-dropped; इङ्-गत, वुय; पुरीत्, पुर्ङ-पूर्ण, तिर:-एप्त, पि:-पूत,
-यून ( See § 693, c. ).
+पुच् to cleanse           मातित्वा, मृष्ट्वा
+भो to enter              गाहित्वा, गाढ्वा
 
-§ 699.  The  following  roots  ( some forming their  P. P. P.
-irregularly ) reject इ in the limited sense attached to each:—
-
-क्षुम्-क्षुप्त 'a churning handle,'  विरेर्-वितिङ्प 'a note.'
-स्मर्-स्मास्त 'the mind.'           कृण्-फूणृष्ट 'a decoction easily
-स्मर्-स्थास्त 'darkness.'                 prepared.' ( अनायाससाश्चय:
-लग्-लग्न 'attached.'                     कदायाविङोष: Sid.  Kau. )
-स्वैन्च्छु-स्थैब्द 'indistinct.'         वाहू-वाह ' much.'
+_________________________________________________
+* The following are  the more important of the  roots marked
+with उ; अचु 1  P  A. अटुत् 1. 10.  P.  A. अस् 4  P. कय्,  कश् 5. P.
+1. A. कुज् . कष् 1. P.  हुष् 4. P. क्षुष् 8. P.  A.  क्षिप् ?  P A., तिक्षु
+1. 4. P. संत् 1. P. सुर् 1.  P.   स्न  1.  P.  A. स्पुश् 4  P.  झुत् 1.  A.
+युष् 1. P. हुत्वुड् 1.  P.  यहुत्र्  ? 1. गुण  P P  A.  यूग् 1. 4.  छुञ्ज,
+&c. 1. P.  चञ्च् 1. P. A  10.  P.-me  P.  A.  10. P  A.  चे 1.  10  P.  1.
+तुदुत् 1. P. तरु 8. P.  A.  1.  P.  A. 10  P.  यूग् 8. P. तुग्म् 5. P.
+त्रद् 4. P. तिदुर् 4.  P.  10.  A.  पाच  1.  P.  A.  प्स्स्  1.  A.  युग् 1  P.
+युष् 1. P.  पुस्  4.  P.  यूष्  4.  P.  बुघ् 1. 4. P. भुयु, 1. A. 4. P.  भुस्
+1.  A. मुयुङो P.  विल्  1. 4. A.  निद् 1.  A.  रुदु  1. 4. P. सुर् 1. 4. A.  एटु,
+र्पुर् , छुयु , all of the 4th cl.  P. as well as  A.  चरु 8. P. पुस् 1. 4. A.
+विद् 1. P. इुष् 1.  4  A.  10. P. A.  मृष् 1  A. 10. P. A  युष् 1. P.
+शक् 4. P. A.  भेत् 1. P. सोस् 1.  P  शाष्  1. P. 2. P. A.  शुष् 1. P.  A.
+स 4. P.  भुस् 4. P.  घुश् 4. P. A.  रि.श्रु 1  P.  सुर् 1.  P.  8.  P.  A.
+सेदु 1. 4  P.  तिर्पु  1.  4.  P.  स्कुछु: सुत्वाय,  4.  P.  स्यात् 8.  P. संस्
+1. A. छुविदु 4. P. and हुस् 1. P.

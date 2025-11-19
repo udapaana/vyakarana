@@ -1,20 +1,20 @@
-[Internal page: 178]
-178                                     SANSKRIT GRAMMAR.                         [ § 299-300
+[Internal page: 192]
+192                                     SANSKRIT GRAMMAR.                         [ § 330-333
 
-(a) When the nouns derived from the roots नह्, द्वद्, द्रुध्, द्यध्, रुच्‍, सह्, and नन् with the aff. डिप् ( o ) follow prepositions termed Gati or nouns which they govern; उपान्ह‌ , नीड्वद् an inhabited country. a realm, प्रादुद् the rainy season, मर्मोबिद् piercing the vitals; so सुगाबिद् a hunter (cf. Bhaṭṭi II. 7). नीरुद्‌; अभीरुद्‌, कुनीपद् overpowering an assailant परीतद्‌. But परिषणपद्‌ as नह् is not followed by Kuip.
+one of the words नर्मिका, उदर्, ओष्ठ, जङ्घा, दन्त, कर्ण, भुज्, अङ्ग, गात्र, कष्ट and पुच्छ the fem. is fomed either in आ or ई; तड़क्ताकिका हौ; हुशोदरा-री ' a woman having a slender waist; ' तिम्बोष्ठा-धुग ' with a lip as red as the bimba fruit,' त्रिघे जङ्घे यस्याः सा द्वीर्घ-जङ्घा-ङी ' one having long legs,' hence ' a she-camel; ' स्त्रज्धा-ङी ( शोभने अङ्गं यस्याः सा ) fair-bodied; सुपच्छा-च्छी &c.
 
-(b) When followed by the aff. वल, and the whole is a name;-हुर्वीवलः: a husbandman.
+( a ) but if पुच्छ be preceded by कुवर, मुषि and विषु, or if पुच्छ and पदु be used in a Bah. involving comparison, the fem. is formed in ई only; कत्रर्युच्छी, ' one having a variegated plumage ' i. e. ' pea-hen ', ड्रुट्टुरुप्रुनी शाला ' a hall having its sides like the wings of an owl'; उल्लुकपुच्छो सेना ' an army with its rear arrayed. in the shape of the tail of an owl '.
 
-( c ) Words containing more than two vowels when followed by मद् ( वद् ) except in the case of अजिर, सदिर, इठिन, ईश, कारण्ड and चकवाक and the whole is a name; अमरावती and इरावती which are names; but अजिरवती; झोतिषती, वलयवती which is not a name. Also in the case of शर्, वेश, धूम, अहि, केति, धुनि, धुस्ति, and हुव्; शरावती &c.
+§ 331. * A Bah. ending in नख and मुख and used as proper names forms fem. in आ; सूर्पेणखा, गोर्मुखा; but ताम्रमुखा a girl having a ruddy face.
 
-(d) When a verbal derivative with the aff. अ ( घञ् ) follows a preposition, in most cases, when the comp does not signify a human being, परिपाद्‌:-परीपाद्‌:; but निषादः: one of a mountain-tribe. Similarly प्रति-नी-वेश:; प्रति-नी-कार: &c.
+§ 332. † Names of the limbs of the body, preceded by words denoting a cardinal point in a compound, form their fem. in ई उद्वञ्जुषाँ, &c.
 
-(e) When काश follows a preposition ending in इ‌; वीकाश:, नीकाश:; but प्रकाशः
+§ 333. A Bah. ‡ ending in पाद् ( substituted for पाद् ) optionally forms its fem. in ई before which it is changed, to पद्‌; व्यामस्य इव पादौ यस्याः सा द्व्याम्यपाद्-पदी, द्विपाद्-पदी and in आ when पाद means ' a foot of a Vedic verse '; द्विपदा ऋकु, एकपदा &c.
 
-( f ) When अश्व is the first, and नर् the second member of a compound, and the whole is a name; अश्वाषम् gold, अश्वाषद्‌: a spider; but अश्वपद्‌:, विस्वातर: an epithet of Savitṛi.
+( a ) But if पाद् be preceded by one of the words कुम्भ, बूल, तुण, हस्त, काक, हुरुष्ण, द्रुकर, &c the fem is necessarily formed in ई-पाद् changing into पद् as before; कुम्भपदी ' a woman whose feet are as big as a pitcher.
 
-(g) When स्मित्र is the latter member and the whole is the name of a rishi; विश्वामित्र:, but विश्वमित्रो माणवकः ।
+* नखमुखस्यार्संञायाम् । Pán. IV. 1. 58,
 
-§ 300. *स is inserted in the case of the following compounds:—
+† विदिग्यवेपदान्दष्टिप । Pán. IV. 1. 60.
 
-* अपरस्परः किवाघातत्वे । आश्रयर्मनित्ये । वच्चेस्केअस्तुकरः । अपस्कर्ये रथाकृष्ण । विश्वङ्: शाकुनितिविकिरो वा । प्रतिस्कन्धाध्रवश कठोः । मस्करत्स्कारिणौं वैष्णपरिज्ञाप्तक्वर्गो । कारस्करो बूक्षः । पारस्करप्रुब्वतोनि च संञायाम् । Pān. VI. 1, 144, 147, 148-152, 154, 156, 157. तड़वत्कतोः कारतप्योइत्रोस्तविगौः मुद्‌तळोग्यत्र । Vārt. प्राप्स्य चिन्तितिचित्त्रयोः । Vārt.
+‡ पादोऽपवत्तस्या । टापुच्चि । Pāṇ. IV.1. 8, 9.

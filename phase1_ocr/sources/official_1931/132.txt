@@ -1,44 +1,16 @@
-[Internal page: 114]
-114                    SANSKRIT GRAMMAR                    [ § 180-184
+[Internal page: 132]
+132                    SANSKRIT GRAMMAR.                    [ § 217-219
 
-§ 180.  In Sanskrit simple words, whether substantives,
-adjectives. verbs or indeclinables, have the power of entering
-into combination with one another and forming what are called
-' Samāsas', compound words or, in short, compounds.
+(e)*When a noun in the Loc. case ending in अ or a consonant and not denoting time is compounded with घ्रय, वास and वास्तिन and with वन aluk is optional; तेऽसत्राय:, ग्रामेऽमवास:, ग्रामे-मवास्ती, इत्तेऽस्तवन्यः, but भूमिश्रयः, युत्तिवन्यः &c.
 
-(a)  A compound thus formed may further be compounded
-with another simple or compound word, and this again may
-become the member of a new compound.
+2. Nañ or the Negative Tatpurusha.
 
-§ 181.  In a compound, as a general rule, words are simply
-joined together, without any relation between the component
-parts being actually expressed ; the whole compound word has
-the power to express the various relations that exist between the
-several parts.  The last word only takes the case termination
-required by its grammatical position in a sentence, the remaining
-words ( those ending in a consonant ) generally assuming their
-crude forms before the consonantal case terminations ; e. g.
-विद्वस् + जनः = विद्वज्जनः ( see below ), राजन् + पुत्रः = राजपुत्रः, &c.
+§ 218. (a) The negative particle न changed to अ before a consonant and अन् before a vowel, may be compounded with any poun to form the Negative-Tatpurusha†; as न ब्राह्मणः अब्राह्मणः, one not a Brāhmana; न अश्वः अनश्वः, असद्, non-existent, or not good, &c.
 
-§ 182.  Final vowels or consonants ( modified as mentioned
-above ) of preceding members of compounds combine with the
-initial letters of the succeeding members according to the usual
-rules of Sandhi.
+§ 219. The न is not changed to अ or अन् in the following cases‡:-नभ्रादू 'that which does not shine,' 'a cloud;' नपादू(pre. p.) 'one who does not protect;' नवेद्यः 'one who does not know,' नासत्याः [न सत्याः असत्याः न असत्याः नासत्याः × ] the two Aświns, the physicians of the gods. नश्वित्रिः [न ञु श्वेतीति: ] name of a demon slain by Indra; नकुलः [न कुलमस्य, for the mungoose is supposed to belong to no particular species of animals]; नसंद् [न स्वमस्य that which leaves no cavity, or does not go to heaven being burnt down with the dead body]; नईत्तकं [न क्रौ एषार ]; नक्षत्रं [न क्षरतीति ] that which does not move from its proper place, hence a star; नक्रः [न क्रामतीति that which does not go far off from water]; नाकः [न कं अकं न अकं अक्रिन्दु]; नग when it
 
-§ 183.  In a few cases, the intermediate members retain their
-case endings in which case the compounds are called ' Aluk'
-( अलुक् ), e. g.  देवानां प्रियः a fool, शुष्मठेरः name of the eldest
-Pāṇḍava &c.
+* वन्ये च विभाषा । शुयवासवासिब्विकालादि । Pān. VI. 3. 13. 18.
+† नञ्। Pān. II.2,6. न लौपो नञ्ः । तस्मानन्त्युहाचिः। Pān.VI.3,73.74
+‡ नञोऽप्रतिपदानात्राब्दुत्सिकुलनसंञ्ञदृशना। Pān. VI. 3. 75. नगोऽसागिष्यन्यन्तरस्याम् । Pān. VI. 3. 77.
 
-§ 184.  The expounding of a Samāsa ( i. e. giving its Vigra-
-haváckya ) consists in the expression of the various relations
-existing between the objects or ideas denoted by the various
-members of a Samāsa by means of the proper cases or sub-
-ordinate sentences.
-
-( a )  When the Vigrahaváckya cannot be given, or cannot be
-given by using the words actually compounded, the compound
-is called nityasamāsa ( अविघ्रहो नित्यसमासः अस्वपदविघ्रहो वा ।
-Sid. Kau. ).
-
-* From अस् with सम to throw together.
+× अत्रे बहुत्वचनसविवासिती (is not the point) तेन 'नासस्थाताविनौ दुत्तो' इति सिद्धस । Tatvabodhini.

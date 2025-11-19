@@ -1,0 +1,49 @@
+---
+page_number: 473
+internal_page: 473
+chapter: "Syntax"
+section: "syntax"
+rules_starting: ["§ 794", "§ 795", "§ 796", "§ 797"]
+rules_continuing: ["§ 793"]
+has_footnotes: true
+---
+
+Obs:—Sometimes the antecedent noun or pronoun is omitted
+and has to be inferred from the gender and number of the
+relative; e. g. धोनिनं किं भो न दुर्गति पानकं i. e. तस्य धोनिनं, &c. what
+is the use of wealth to him who does not bestow it on men-
+dicants, &c.
+
+
+## SECTION II.
+GOVERNMENT.
+
+§ 794. The only portion of Syntax treated separately in
+Sanskrit grammars is the Kārakavivechanam or the chapter on
+Government. Kāraka is the name given to the relation
+subsisting between a noun and a verb in a sentence. There are
+six Kārakas in Sanskrit belonging to the first seven cases,
+except the Genitive, which is, therefore, not a Kāraka case.
+There are कर्तृ, कर्म, करण, सम्प्रदान, अपादान and अधिकरण Kāraka.
+
+§ 795. There are several indeclinables in Sanskrit which also
+govern cases. Cases governed by indeclinables are called Upa-
+padavibhaktis, as distinguished from those governed by verbs
+which are called Kārakavibhaktis. In cases where both are
+possible the latter predominates over the former (उपपदविभुक्तौः
+कुरकुयुविभुक्तुरुदुतुयुत्युङु) as is क्तुते स्वरोष्युत्युङु although verb also
+would govern the Dative.
+
+§ 796. The Nominative, as in English and other languages
+is simply the naming case, its office, when used by itself, is to
+express the crude form of a word, gender, measure and number
+and nothing more.* When used with a verb it forms its subject.
+
+THE ACCUSATIVE CASE.
+
+§ 797. The Accusative denotes the object i. e. the person or
+thing upon whom or which the effect of an action takes place;
+
+---
+
+*भूतिसिद्युदुशोक्तिकुरुपुरिमाणुचुचुनामुङ्ङ प्रथमा Pāṇ. II. 3. 46.

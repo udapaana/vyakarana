@@ -1,15 +1,24 @@
-[Internal page: 164]
-164                    SANSKRIT GRAMMAR.                    [ § 269-270
+[Internal page: 181]
+§ 306-307 ]                             FEMININE BASES.                                  181
 
-(c)*अ is optionally substituted for the final of नदी, गीर्णंभासौ. आयहायणी and निति; उपनदम्-दि, उपगीर्णंभासम्-सि, उपाग्रहायणम्-णि 'near to the full-moon day of Mārgas'irsha'; उपगिरसम्-रि.
+. ( b ) the preceding अ or ई is dropped; as गोर्—गोरी, ओक्ष-ओक्षी, पावर्ती. &c.
 
-(d)+ It is also optionally added to all nouns ending in any of the first four letters of a class; उपसमिधम्-मिद्.
+( c ) if a Prātipadika* end in य, part of a Taddhita affix, that य is dropped गार्य+ई=गार्गी ' the daughter of Garga.' &c.
 
-(e) अ is attached to the final of the following nouns when compounded in an Avyaya.‡:—शरद्, विपाश्, मनसु, मनसु, उपानह्, अनडुह्, दिव्, हिमवद्, विरु, इषु, विक्रु, चेतस्, चतुर् तद्, यद्, कियद्, जरस् (substituted for जरा) &c; शरद् समीपम् उपशरदम्, प्रतिवि-पाशम्, 'towards the Vipāśa;' दिश्योमद्यं अपदिशम् between two divisions of the compass, उपजरसम् towards old age, अध्यात्मम् on the soul, &c.; and to आक्षि when preceded by प्राति, पर changed to परि. सुचु and अट, the इ of आक्षि being dropped; अक्षः प्राति प्रत्यक्षम् before one's eyes; अक्षू परं परोक्षम् out of sight; समक्षम्, and अनक्षम् afterwards, forthwith.
+( d ) the final य of the words ऋष्य, तिष्य the constellation of stars called पुष्य, अभस्त्य and मस्त्य † is dropped; as सौरी, मस्ती, &c.
 
-§ 270. The indeclinables forming Avyayibhāva compounds have various senses §; e. g. (1) the meaning of case; as गौपि इति अधिगोपदम् 'in the protector of the cowherd,' so हरावितै अधिहरि, अध्यात्मम् &c.; (2) सामीप्य or 'vicinity; as कृष्णस्य समीपच्छलम् near Krishus; so उपगवम् &c., (3) सम्पद् or 'prosperity' as मद्राणां सम्पद्धिः सुमद्रम्, 'in a country wherein the Madras are in a prosperous condition.' (4) व्युत्ति (वि+ऋद्धिः) or 'bad condition;' as यवनानां व्युत्तिः दुर्यवनम् 'when the Yavanas are in a bad condition;' (4) अभाव or absence; as मक्षिकाणामभावः निर्मक्षिकम् 'where flies are
+( e ) in the case of the participles of the present and the future न is inserted, as in the Nom. dual of the nau. ( vide § 311, a. b. ); for instances, see § 286.
 
-* नदीगीर्णंभासाष्याग्रहायण्योः । निरिक्र सैनकस्य । Pān. V 4. 110,112.
-† इयः । Pān. V. 4. 111
-‡ अन्यत्रोभात्रै शरत्प्रभृतिभ्यः । Pān. V 4. 107.
-§ अन्ययै विभक्तिसमीपस्सम्पत्तिख्युत्तिध्युत्पयञ्ञान्तस्ञाङातिष्ञाङादिमर्ग-यायाथादुष्ठयोगोपदसाहइश्यसन्मतिसाइद्धुमादुभाविष
+§ 307. A Prātipadika ending in अ and the words included in the Ajādi group ‡ form their feminine in आ ई; as भुञ्जान-भुञ्जाना ; अज-अजा, एडका, अम्बा, चटका, सूर्पिका; चाला, वस्ता, हौड़ा, मन्दा, विलाता, all meaning ' a young girl'; ( of these the first five form an exception to § 313, and the second to § 308, c ); आ is also added to फल when compounded with सद्‌, भज्या, अर्जिन, पण and स्त्रिण्ड; to पुष्य when compounded with सद्‌, words ending in अच्‌, to कृण्ड, प्रात्त, शत and एक; to शूद् not preceded by महद्‌, when class is implied, and to मूल preceded by अ; संफला; भञ्जफला, पणफला, &c all ' kinds of creeper '; सद्-पाकु-काण्ड-प्रान्त-शत-एक-पुष्पा, 'kinds of creeper' व्यूहा ' a woman of the व्यूह class;' अम्बुला.
+
+( a ) ¶ But if the Prātipadika end in क ( the member of the
+
+* इलेस्तनिहितस्त्व । Pān VI, 4. 150. For the meaning of the term P'ātipadika vide § 52.
+
+† सुर्यतिध्यागस्पमस्त्यानां च उपघाधाः । Pān VI. 4 149.
+
+‡ The words included in the Ajādi group are.—अज, एडक ' a ram ', अम्ब, चटक ' a sparrow', सुषक, चाल, घंल, हौड़, पाकु ' a young child,' मन्द्‌, विलात, हुञ्ज्यच्व 'a heron,' उर्षिण्ह‌ , देवविद्य्‌ 'a deity,' उखेय, मरुभम, फनिष and कौकिल.
+
+§ अजायतटाप् । Pān IV. 1. 4. 4. संभञ्जानिनपणस्त्रिण्डेभ्यः फलात् क्वदुङ्कण्डप्रान्तशतैकैभ्यः पुष्पात् । व्यूहा चामहदुर्वां जातिः । मूलान्न त्रिज्ञः । Vārtikas.
+
+¶ प्रत्ययस्यात्कात्पूर्वेधात इदा०प्पहुयः । Pān. VII. 3. 44. मात्रमकनरकयो-कुपसंख्यानभ् । त्यक्तगोभ्रा । Vārtikas.

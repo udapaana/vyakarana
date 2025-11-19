@@ -1,41 +1,43 @@
-[Internal page: 529]
+[Internal page: 543]
 
-§ 958–961 ]                SYNTAX.                    531
+§ ]                      PROSODY.                              9
 
-सोयूविपुयूयुदुयु वा भुवुयुरु (Sid. Kau.) I wish Your Honour will drink
-Soma.
+                     ( 3 ) चन्द्रवदना ( 4. 8. )
 
-(a) But when the agents of both the actions are the same, the
-Potential alone is used in the sense of the Infinitive; युयुयूजीवि-
-च्युयूति (Sid. Kau.) i. e. भोकुयूदिष्युच्युयूति wishes that he will eat
-(wishes to eat).
+           Def. चन्द्रवदनं निगदन्ति रनभसै: ।
 
-§ 959. Sometimes the Potential is used without a subject
-when it is used in the sense of 'a precept or advice'; आयुयूयुर्युनुयूं यनुयुं
-रक्तुनुयूरुयु रक्तुनैन्युनुरुयूति । मुयूत्युयूयूयुनुयूं युयूतुनुयूं रक्तुनुयूरुयूयूति युयूनुयूति ॥ ('a man)
-should save money for adversity, he should serve his wife at the
-cost of his wealth and himself even at the expense of his wife
-and wealth; युयूयुनोजुनुनं विश्युयुयूयूत्तुदुयूयूनुयूनुयूरुयुः (Obs) should serve
-Brāhmaṇas with all that they like, without being jealous.
+Sch. of G. र, न, भ, स. —∪— | ∪∪∪ | —∪∪ | —
+  Ex. चन्द्रवदने पिहितं घनतौमिरै: राज्रवदने रहितं जनगमन: ।
+       इध्यवदने तदलङ्कुत सरसे कुञ्जवदनिनि हरिस्तनं ङ्गुनुकौ ॥
 
-THE BENEDICTIVE MOOD.
+                   ( 4 ) जलधरमाला ( 4. 8 )
 
-§ 960. The Benedictive Mood is used to confer a blessing
-or to express the speaker's wish; जियुयूदु नीरोयूनुयू भुवुयुरु may you
-live long! बुयुदिरोयूष्टुः स्युजुतोदुच् वस्युयून्युनै दिदुयूतेरुयूतिः। युयूयूरुयूस्युनै युयूयूनितुनैं
-मुयून्युदुर्यैरुयै स्युयूयुयु युयूनुयूरुयूयूयो ॥ (Bhattṛi. XIX. 20); छुतुयूयुः युयूरुयूदुयुरु
-may I be successful!
+           Def. मौ भस्नौ चैज्जलधरमालाइस्यन्यौ: ।
 
-THE CONDITIONAL.
+Sch. of G. म, म, स, स. ——— | —∪∪ | ∪∪— | —
+  Ex. या भक्तानां कलिद्विरितीत्तोमा तान्च्छैदै जलधरमालो नह्यो
+       भव्याकारा दिनकरपुत्रीकुले केलोलोला हरितनुरुत्यासा न: ॥
 
-§ 961. * The Conditional is used in those conditional
-sentences in which the Potential may be used when the nonper-
-formance of the action is implied or in which the falsity of the
-antecedent is involved as a matter of fact. It expresses both
-future and past time. It must be used in both the antecedent
-and the consequent clauses; हुयुयुविरुक्तुयुयुयुविरुयूयूयुयुयुनुयूयुयूयूनुच्युनुयूनुयु०युयूयूनु: if ever
-if there would be plentiful rain there would be an abundance of
+                   ( 5 ) जलोद्धतगति: ( 6. 6. )
 
-* लिङुलिविधौ छुयुट् युयूयूलिविधूनो। Pāṇ. III. 3 139 इनुयुहुयूयूयुच्युयूनुयूति
-लिड्युलिविनुनैयुयुनं तदु युयूर्युयुयूयूस्युयु छुयुट् स्युयूट् क्रियुयूयूयूः श्रेतिधुर्यो गयुस्युयूयूनुयूयूरुयु :
-Sid. Kau.
+           Def. जसौ जसयुतौ जलोद्धतगति: ।
+
+Sch. of G. ज, स, ज, स. ∪—∪ | ∪∪— | ∪—∪ |
+  Ex. यदीयहुत्सो विलोक्य विपदं कालिन्दतन्या जलोद्धतगतिः ।
+       विलासवांगिनं विनेद्व सहसा करोतु ङ्गुठालं हरिं: स जगताम्
+
+                      ( 6 ) तामरसम् ( 5. 7. )
+
+           Def. हृहु वद तामरसे ननजा य: ।
+
+Sch. of G. न, न, ज, य. ∪∪∪ | ∪∪∪ | ∪—∪ | —
+  Ex. स्पुटस्मृषमाकरन्दसनोदं त्रजलल्नानयनालिनिपीतम् ।
+       तवनूखुताभरसं भुरसातो हृदयतडागाविकाशि भमास्तु ॥
+
+                      ( 7 ) तोटकम् ( 4. 4. )
+
+           Def. वरु तोटकमन्चिधसकारशुतम् ।
+
+Sch. of G. स, स, स, स. ∪∪— | ∪∪— | ∪∪— | —
+  Ex. यशुनातटमच्युतकौलिक्रलालसद्गुत्रिसरोदहसं षचिम् ।
+       मुदितोऽड्ट कैलरपेतुमर्षं यदि चेच्छसि जन्म निजं सफलम्

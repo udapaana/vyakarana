@@ -1,41 +1,43 @@
-[Internal page: 420]
+[Internal page: 434]
 
-422                  SANSKRIT GRAMMAR.                   [ § 681-684
+436                  SANSKRIT GRAMMAR.                   [ § 723-728
 
-(b) Such of the roots of the 1st class as have उ for their
-penultimate change their vowel to Guṇa optionally,  when  the
-affix त् is  added  with  the  Intermediate इ,  and in P. P.  Parti-
-ciple as used impersonally, or when it conveys the sense of
-beginning to perform the action or undergoing the condition
-expressed by the root; मृड् 'to delight' मृदित, but ' to begin to
-delight ' मृदित or प्रमृदित: म्हुदित or म्राजित राजयुत: प्रहुद्दित: or
-प्रमोदित: माधु: , &c. similarly; वुद-प्रवुदित or प्रवोदित &c.
+                By means of the affix क्यप् ( य )
 
-( c )  The Penultimate radical nasal is generally dropped.
-( See § 674 ).
+§ 723.  The roots इ 1  2. P.  'to go,' स्तु, शाष् , इ 5. P. A. हु,
+डुष् , and roots having ऋ short for their penultimate, except कृष्
+and वृत् , take the affix क्यप् ( य ) in the same sense as यत् . When
+a root  ends  in  a  short  vowel,  त्  is inserted between the final
+vowel of the root; e. g. इ+य=ए+य='worthy of being served ;'
+स्तुय् 'deserving praise;' शाष्-शिष्य 'fit to be instructed;' वुद्-वुद्द्य:
+इ-आइय; डुष्-डुष्य 'worthy of being served;' भृत्-भृत्य; दृष्-दृश्य
+'fit to be increased as wealth, &c. ' but  कल्प ( कृष्+य )  'able;'
+वुद्-वर्य ( वृद्+एयत् ) 'that ought to be told or said.'
 
-§ 683.  The augment इ is prefixed to this त् in the case of
-certain roots, optionally in the case of some and not at all in
-the case of others.
+§ 724   According to Vāmana, the roots सोत् , इकु and युह् take
+इ यत्   According to Pāṇini the roots स्तु*-स्तु:य 'praiseworthy;' हकु-ह्कु:य; युह्-उह्य;
+optionally they take the affix एयत् ( to be given hereafter ); सोत्य,
+ह्वेत, यौहार्.
 
-§ 684.  As a general rule, all roots ending in a vowel,  and
-such as take the इ optionally before any termination,  and Anit
-roots ending in consonants  generally, do  not take  इ; the rules
-of Sandhi given in the foregoing chapters that are applicable in
-particular cases ought to be observed,—
+§ 725.  शुच् also takes  this affix optionally;  शुय्य 'what is fit
+or ought to be cleansed;'  optionally  it takes एयत् before which
+the final य is changed to प्र; शोच्य.
 
-Roots.       P. P. Ptc             Roots.      P. P. Ptc.
+§ 726.  ( a ) भू when it has  a  Subanta  prefixed  to  it and is
+without a preposition takes the affix  क्यप् impersonally;  ब्रह्मणौ
+भाव: ब्रह्मभूयं 'identity with Brahman.' When no Subanta is used
+prepositionally with it, it takes the affix यत् ; भव्य  or भूयम्.
 
-पा—पात protected                  सजु-त्यक्त abandoned.
-क्षि—क्षित resorted to              भुज्-भुग्ध fried.
-नी—नीत carried.                    यज्-इष्ट sacrificed
-श्रु—श्रुत heard.                    दुष्-दुष्ट awakened.
-ऋ—ऋत become.                     जय्-जित pierced.
-कृ—कृत done.                      स्तृ-स्तृत spread.
-ऊर्ण्-ऊर्णुत covered.                लब्-लब्ध obtained.
-वै—ऊन woven                       बन्धु-बद्ध bound.
-व्ये—वीत covered                    ङाम-दृष्ट seen.
-ङे*—हूत called &c.,                 हुर-छिद्ग cut out &c.
+( a ) वह् under similar circumstances takes either  क्यप् or एयत्
+in a passive sense in the Veda, namely: वाह्युं or वहूवत् ' expounding
+the Veda: ' ( वहु वेद: तस्य वृदत् Sid  Kau. ).
 
-_________________________________________________
-* ङ substitutes ञ for its इ.
+727.  खद् takes this affix,  but drops its  व and adds  ङ् to its
+penultimate vowel खद्+य=खं+य=खङ्+ङ्+य=खेय  ' what is fit
+or ought to be dug or excavated.'
+
+728.  भृ 1 cl. takes this affix when the  participle  so derived
+does not form a name; भृतुयाः 'those who  ought  to  be nourished
+or maintained,' hence 'soldiers,' &c ;  but भारुयै: ( भृ+एयत् ) a
+class of Kshatriyas'; when  सत्य  precedes भृ,  वत्  and  एयत्  are
+added optionally संभुगुयाः or संघूषुते.

@@ -1,16 +1,18 @@
-[Internal page: vi]
-                                vi
+[Internal page: 16]
+16                        SANSKRIT GRAMMAR.                    [§21
 
-The Dhâtukosha has been considerably improved, the meanings of all the important roots being given in Sanskrit along with those in English and many useful forms added. Prosody, which properly does not form a part of Grammar, has been separated from the body of the main work and given as Appendix I.
+Counter-exception:—If a form of the root ऋ to go, or एय् to· grow, with an initial ए, comes after अ, and एष् or एष्य derived from इष् of the 4th, 6th or 9th conj., after प्र, vridhi takes place; इप्+एति=इपैति, उप+एषते=उपैषते; (but इप्+इत:=इपेतः; अबेहि know; from अब्+एहि which is equal to अब्+आ+इहि, and not अबैहि;) मा भवान्॑ प्र+इदिषत्=प्रैदिषत्); प्र+एषः:=प्रैषः sending or directing; प+एष्यः:=प्रेष्यः a servant. But प्रेष, प्रेष्यः (from ईष्)·
 
-Girgaon, Bombay,  }
-25th October, 1905.}              M. R. Kâle.
+(b) *When अ is followed by एव in an indefinite sense, ए is substituted for both; क्+एव=केव भोक्ष्यते where will you dine to-day? (The place being not definitely known); but तवैव (why, I shall dine at your house).
 
+(c) † अ followed by ओष and आ (prep.) is dropped e.g. शिवाय+ओं नमः:=शिवायों नमः; शिव+एहि (आ+इहि)=शिवेहि.
 
-                        SEVENTH EDITION.
+(d) ‡The vṛddhi is optional when the ending अ of a word is followed by ओष्ठ् a cat, or ओष the lower lip, in a compound स्यूल+ओष्ठुः=स्यूलोष्ठुः or स्यूलौष्ठुः विम्बोष; विम्बोष:
 
+(e) §The final vowel or the final consonant with the preceding vowel is dropped in the case of the following words when followed by certain words in a compound†:—शक the country of the Sakas+अन्यु a well=शकन्युः, कई name of a country+अन्युः:=कैन्युः, कुल+अटा=कुलटा one who moves from one mansion to another, a woman of bad character; साम्न+अन्तः:=
 
-A reprint of the 6th Edition with some additions here and there.
+* एते च्यातियोगे Vârtik. † ओमाडौक Pân. VI. 1 95.
 
-     Bombay,       }
-     15-8-1931.    }                               PUBLISHER.
+‡ 'ओष्ठोष्ठौयोः समासे वा।' § शकन्यादिङ परुषं वाच्यम् Vârt.
+
+† And also in the case of an onomatopoaic wording in अत followed by इति e.g. पटत्+इति=पटिति; but not in the case of a monosyllabic word थट्+इति=थाटिति; and when the word is repeated, only the त is optionally dropped, as पटत्पटत्+इति=पटत्पटिति or पटत्पटद्विति.

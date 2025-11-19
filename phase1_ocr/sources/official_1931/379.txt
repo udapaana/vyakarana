@@ -1,42 +1,43 @@
-[Internal page: 365]
+[Internal page: 379]
 
-§ 597-598 ]          CONJUGATION OF VERBS.                   365
+§ 618-621 ]        CONJUGATION OF VERBS.                    379
 
-(d) The roots at § 461 will have two forms; यूद्-अगोपायि, अगो-
-पायि, विच्छ-अविच्छायि, आविच्छायि &c.; कृद्-आत्तारि or आतारिषि 3 sing.
+remember ' or ' to study ' ) are lengthened and final ऋ, short or
+long, changed to ई ; or to ऊ after labials or व when the स् is
+unaugmented; जि-जीजिष्, इ-दूदुर्, छ-चिकीर्ष्, तू-तितीर्ष्, इ-दीध्य्,
+इ-इईर्ष्, &c
 
-(e) § 596 (b) holds good in the Passive  Aorist except in
-the 3rd sing.;  the optional forms must be made up by append-
-ing the Âtmanepada terminations of the 5th Variety as those of
-the Aorist optionally take इ; दा—अदायि, अदायिषि; नी—अनेषि, अनायिषि;
-छ—अछायि, अकारयिषि; हूर्—अहारि, अहारयिषि; अदारयिषि 1 sing ; यह्—
-अयहायि, अयाहायिषि 1 sing. &c.
+( c )  The roots दृष्, तिर् and मृष् do not change their vowel
+to Guṇa ; and the roots मृड् , स्मर् and भृज्ज् take Samprasāraṇa;
+रुरूदिष्, मीवर्तिष्, ममार्जिष्, जिमृग्ष् डुमुग्म् , गुमुच्छेष् .
 
-§ 598.  Roots of the tenth Class—
+( n )  Roots with an initial consonant, and having इ or ई
+short for their penultimate, and ending in any consonant, except
+ष् or त्, change their vowel to Guṇa optionally or स is
+prefixed to स्; शुन्-तिशुन्तिष्, दिशोतिष्: द्रह्-मद्राहिष् or घुम्राहिष् &c
 
-(a) The अय् ( i. e. अय् with the final अ dropped ) is optionally
-dropped in the General Tenses, except the Perfect.  The Aorist
-forms, except that of the 3rd sing.,  are made up by adding the
-Âtmanepada terminations that of the Fifth Form; दृ-तर्पयाति,
-चोरयामासे Perf ; चोरयिष्यते चोरितासाः, 1st Fu. चोरयिष्ये चोरियिष्य
-2nd Fu.; अचोरयिषि, अचोरयिषि, Aor. 1st sing., &c.
+§ 619  The formation of Desiderative bases of causals and
+of roots of the Tenth class does not differ from that of
+primitive roots
 
-(b) Roots which do not lengthen thier penultimate अ ( see
-also § 603 ) lengthen it optionally in the general Tenses of the
-Passive, except in Perf., when अय् is dropped; कम्-अकम्यिषि,
-अकाम्यिषि, Aor. 1 sing., &c.
+Art § 550. should be attended to in forming Desideratives
+from Causals and roots of the Tenth class.
 
-(c) The 3rd per. sing. of the Pass.  Aorist is formed by drop-
-ping अय्, necessarily and adding इ; चोर-अचोरि-अचोरायि; पीड़-
-अपीड़ायि; &c.—अपार्षि, अपारिषि Aor. 3 sing ; यह्—अपारि, अपार्षि
-अपार्षि Aorist, 3rd sing.
+§ 620  Roots in their Desiderative forms take the same
+terminations, Parasmai or Atmane, that they do in the primitive.
+The roots भृ, मृ, हु and टनु take Atm.  terminations in the
+Desiderative.
 
-                     PARADIGMS.
+§ 621.  The following roots form their Desiderative bases
+irregularly:—
 
-              छुध् 1 P. ' to know.'
+Roots.                Desider. base.  Third pers sing. Pre
 
-    Perfect.                    1st Future.
-
-1 छुछुधे  छुछुधिवहे  छुछुधिमहे  1 बोक्ष्याति  बोक्ष्यावहे  बोक्ष्यामहे
-2 छुछुधिषे छुछुधाथे  छुछुधिध्वे  2 बोक्ष्याते  बोक्ष्याथे    बोक्ष्याध्वे
-3 छुछुधे  छुछुधाते  छुछुधिरे  3 बोक्ष्यता  बोक्ष्यातारौ  बोक्ष्यातारः
+अद् ' to eat '                जिघत्स           जिघत्सति
+अत्                          ईत्त            ईत्तति
+इ ' to go '                 जिगमिषु           जिगमिषति
+इ with आधि ' to study '      आधीजिगीषु          आधीजिगीषते
+इ with प्रति ' to be convinced' प्रतीयिषु        प्रतीयिषति
+ड—                         एषिषु             एषिषति
+ज ' to sound '              जगिषु             जगिषति
+ज्ञप्—                       जञ्यूप्सु           जञ्यूसति-ते

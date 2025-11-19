@@ -1,0 +1,29 @@
+---
+page_number: 199
+internal_page: 191
+chapter: "Formation of Feminine Bases"
+section: "feminine-bases"
+rules_starting: ["§ 334", "§ 335", "§ 336"]
+rules_continuing: ["§ 333"]
+has_footnotes: true
+---
+
+( b ) In other cases the fem. of pratipadikas ending in पाद् is formed by adding आ; हरिपादा, अजपादा, &c.
+
+§ 334. A Dwigu ending in अ forms its fem. in ई; as त्रिलोकी; but if the ending word be one of those included in the Ajadi group ( see foot-note on p. 108 ) its fem. is formed in आ; सेना., त्रिसेना ( consisting of three battalions ) सेना, &c.
+
+§ 335. (a) A Dwigu ending in काण्ड ( a particular measure ) and qualifying a word denoting 'a field' has its fem. formed by the addition of आ, but when a Taddhita affix has been first added to it and then dropped; as द्वे काण्डे प्रमाणौ यस्यः अस्य द्विकाण्ड + मात्रा = द्विकाण्डा क्षेत्रभक्तिः 'a piece of land 30 hands in extent'; but द्विकाण्डी रज्जुः 'a rope, 30 hands in length'; also when the ending word is one that does not denote a measure, except the words विस्त 'a tola', आविध 'the load of a cart,' and केवल्य ( a weight equal to 3½ tolas ); पञ्चश्रीः अस्यः क्रीता पञ्चश्रा, द्वौ विस्तौ पञ्चविष्टवैति द्विविस्ता स्थाली; so द्व्याविधा, द्विकेवल्या.
+
+(b) When the word पुरुष expressive of measurement ends a Dwigu and the Taddhita affix is added and dropped as before, its fem. is formed both in आ and ई; द्वौ पुरुषौ प्रमाणौ अस्याः द्विपुरुषा-षी खनिका 'a ditch two purushas ( 13 feet ) in depth'
+
+§ 336. Participles ( those of the Pres. and Fut. ) of Parasm. roots take ई in the fem., न being inserted before त् as in the Nom. or Acc. dual of the Neu. ( see § 116 ) and so do adjectives ending in a consonant; पचन्ती; याद्र्ती, खादती, ददती, धीयन्ती, महती, &c.
+
+---
+
+## Footnotes
+
+* द्विगोः । अपरिमाणविस्ताविधकेवल्येभ्यो न तद्धितलुकि । Pāṇ. IV. 1. 21. 22.
+
+† काण्डान्ताच्छेत्रे । Pāṇ. IV. 1. 23.
+
+‡ पुरुषाद्धम्माणेऽन्यतरस्याम् । Pāṇ. IV. 1. 24.

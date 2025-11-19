@@ -1,0 +1,55 @@
+---
+page_number: 632
+internal_page: 632
+chapter: "Appendix II - Dhātukośa"
+section: "dhātukośa"
+rules_starting: []
+rules_continuing: []
+has_footnotes: false
+---
+
+70                   SANSKRIT GRAMMAR.
+
+घ्रुष् 1 P. शब्दै to sound, to beat a drum; प्राणाति pre. दुघ्राण perf.
+  घ्रोषिष्युयुति fut ; अघ्रोषीत, अघ्राणीत aor.
+
+घ्रस् 9 P. उञ्छै to glean; घ्रसाति pre. दुघ्रास perf. घ्रसिष्युयाति fut.
+  अघ्रसीत, अघ्रासीत aor. घ्रस्त p.p.
+
+घ्रस् 10 U. 1 P. to glean घ्रासुयति-तै, घ्रसुति pre घ्रासयाञ्चुकार-चक्रै,
+  दुघ्रास perf. घ्रासयिता, घ्रसिता p fut. अदिघ्रसत-न, अघ्रसीत,
+  अघ्रासीत aor.
+
+घ्राष् 1 P. to wish, to sound; घ्राषुति pre.
+
+घ्राष् 1 A. समर्थै to be able; घ्राषुतै pre. दुघ्राषै perf. अघ्राषिष्टु aor.
+
+घ्राड् 1 A. विदारणै to cut, to tear; घ्राडतै pre. अघ्राडिष्टु Aor.
+
+घ्रेज् 1 P. to go; घ्रेजुति pre. घ्रेजिष्युयुति fut. अघ्रेजीत Aor.
+
+घुर् 1 P. र्धैर्ये to be firm; घुरुति pre, दुघुर perf घुराता p. fut
+  अघुरीत, aor. दुघुषुति des.
+
+घुर् 6 P. ( कुत्साद् ) गतिस्थैर्ययो: to go, to be steady; घुरुति pre.
+  दुघुर ( दुधुविथु, दुधुव 2nd. sing.) perf. घुष्युयुति fut. अघुषीत Aor.
+
+घुर् ( another reading for the above ); घुषुति pre, दुष्व ( दुधुविथु
+  sing. ) perf. घुषिष्युयुति fut. अघुषीत Aor.
+
+घुरे 1 P. द्रुतौ to be pleased or satisfied, घुरुति pre. दुघुरे perf.
+  अघुरासीत aor. घ्रा-घ्रे-यात् ben.
+
+स्वर्द् 1 A. अवसदनै गतौ च to fall down, to perish; स्वर्दुतै pre.
+  दुस्वर्दै perf. स्वर्दिता p. fut. स्वर्दिष्युयुतै fut. अस्वर्दिष्युयत् con.
+  अस्वर्दिष्टु or अस्वर्दिष्टु aor. स्वर्दिषीष्ट ben. दिस्वर्दिषतै des. Pass.—
+  स्वद्युतै pre. अस्वार्दि aor. Cau.—स्वर्दुयति-तै pre. स्वस्त p.p.
+  स्वर्दिता, स्वस्त्वा ger.
+
+स्वच्, स्वञ्ज् 1 P. to go, स्वजुति. स्वञ्जुति pre.
+
+स्वन् 1 P. शब्दै to sound, to echo, to thunder; स्वनुति pre, दुस्वान
+  perf. स्वनिता p. fut. स्वनिष्युयुति fut. अस्वनिष्युयत् con. अस्वनीत
+  aor. Pass.—स्वन्युतै pre. Cau.—to sound as a bell, स्वनयति, रमस्युगति; to
+  utter indistinctly, स्वानयाति-तै, pre. दिस्वनिषति des. स्वन, स्वनित,
+  स्वान ( darkness ) p.p.

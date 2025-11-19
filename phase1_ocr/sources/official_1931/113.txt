@@ -1,44 +1,37 @@
-[Internal page: 95]
-§ 139-143 ] PRONOUNS AND THEIR DECLENSION.                    95
+[Internal page: 113]
+§ 177-179 ]                    COMPOUNDS.                    113
 
-I.   क्या        काभ्याम्       काभिः
-D.   कस्यै       ,,            काभ्यः
-Ab.  कस्याः      ,,            ,,
-G.   कस्याः      कयोः          कासाम्
-L.   कस्याम्     ,,            कासु
+बहु ' much '*            भूयस्            भूयिष्ठ
+बहुल ,,                बहीयस्            बंहिष्ठ
+बाढ ' firm, well '        साधीयस्            साधिष्ठ
+युवन् ' young '          यवीयस् , कनीयस्    यविष्ठ, कनिष्ठ
+विशल ' much '            ज्यायस्            ज्येष्ठ
+वृद्ध ' old '            वर्षीयस् . ज्यायस्    वर्षिष्ठ, ज्येष्ठ
+सुन्दारक ' great lovely '  सुन्दीयस्          सुन्दिष्ठ
+स्थिर ' steady '         स्थेयस्            स्थेष्ठ
+स्थूल ' big, large '     स्थवीयस्           स्थविष्ठ
+स्फिर ' much '           स्फेयस्            स्फेष्ठ
+ह्रस्व ' short '         ह्रसीयस्           ह्रसिष्ठ
 
-                Neu.
+§ 178.  Sometimes the terminations तर and तम are added to
+the comp. and super. in ईयस् and ईष् to intensify the meaning ;
+as पापीयस्तर, पापीयस्तमः श्रेष्ठतर, श्रेष्ठतम.
 
-N. & A. किम्     के            कानि
-The remaining cases like the mas.
 
-        5—Reflexive Pronouns.
+Chapter VII.
 
-§ 140. The sense of the reflexive pronoun is, in Sanskrit,
-expressed by the word आत्मन् 'self' which is invariably used
-in the masculine gender and singular number, and by the
-reflexive adverb स्वयम् e. g. यत्र दुर्योगात्मानं मया स्वयं वाह्मने:
-"they all (the wives of Das'aratha ) saw in dreams that they
-were guarded by dwarfs;" so म or सा छलाप्राप्तिम् आत्मानम्-
-गच्छति । राजा स्वयं समरमुपि जगाम, &c
+COMPOUNDS.
 
-6- Indefinite Pronouns.
+§ 179.  Vṛitti ( वृत्ति ) is the general term for any complex
+formation in Sanskrit requiring explanation or resolution. These
+Vṛittis are five in number ; viz.  कृदृत्ति or the formation of words
+from roots by primary affixes ; तद्धितवृत्ति or the formation of.
+derivative bases from nouns by secondary affixes ; धातुवृत्ति or the
+formation of derivative verbs from primitive roots ; समासवृत्ति
+or the formation of a compound word by the composition of
+several words ; and एकशेषवृत्ति or the composition of words in
+which one of several nouns generally alike in form is retained.
+The first three will be treated in their proper places.  We will
+treat of the last two in this Chapter.
 
-§ 141. Indefinite pronouns are formed by the addition
-of चित् or चन or अपि and sometimes of किंत् to the various
-cases of the pronoun किम् in all the genders; e. g. क:श्चित्, कश्चन
-a certain one, कोऽपि, केनापि, कयाचन, कर्थापि, ख्यापित, &c.
-
-§ 142. The terminations given above are also added to
-interrogative adverbs in the sense of indefiniteness; as कदाचित्
-at some time, क्वाचन, कतिचित् some, कोऽसत् somewhere, &c.
-
-        7—Correlative Pronouns.
-
-§ 143. Correlatives are formed by the affixes यत् added
-to यद्, तद् and एतद् , and यत् added to इदम् and किम् in the sense
-of 'as much as;' and ईश or इश in the sense of 'similar to';
-तद्, एतद् and यद् become ता, एता and या respectively before
-these, and इदम् and किम् इ and कि before यत् and ई and की
-before ईश or इश ; e. g. तावत् ( तःपरिमाणमस्य ), ईयत् ( ईद् परिमाण-
-मस्य ), ताइश like that, ईइश, like this, कियद् how much, &c.
+* See note × p. 112.

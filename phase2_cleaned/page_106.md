@@ -1,0 +1,41 @@
+---
+page_number: 106
+internal_page: 98
+chapter: "Pronouns and Their Declension"
+section: "pronouns"
+rules_starting: ["§ 155", "§ 156", "§ 157"]
+rules_continuing: ["§ 154"]
+has_footnotes: true
+---
+
+A.    एकम्        एकाम्        द्वौ            द्वे
+I.    एकेन        एकया        द्वाभ्याम् The rest like
+D.    एकस्मै      एकस्यै       ,,     the mas.
+Ab.   एकस्मात्    एकस्याः      ,,
+G.    एकस्य        ,,          द्वयोः
+L.    एकस्मिन्    एकस्याम्     ,,
+एक neu. एकम् N. A. The rest like the mas.
+एक when it does not mean 'one' is declined in the dual and plural also.
+
+§ 155. The various meanings of एक are:—
+        एकोऽल्पार्थे प्रधाने च प्रथमे केवले तथा।
+        साधारणे समाने च संख्यायां च प्रयुज्यते॥
+अल्प or little, प्रधान or chief, pre-eminent, प्रथम or foremost केवल or sole, only, साधारण or common ( as अविशेषरूपकारित्वं हि आपत् एको हेतुः ), समान or the same ( as अयं एकान्वयो मम ), and संख्या or number ( one ).
+
+§ 156. प्रथम, चरम, अल्प, अर्ध, कतिपय, and words ending in the termination तय optionally form their Nom. plu. like that of pronouns; e. g. प्रथमे-प्रथमाः, कतिपये-कतिपयाः, द्वितये-द्वितयाः &c.
+
+11—Pronominal Adverbs.
+
+§ 157. The pronominal adverbs that are most commonly met with are derived from the pronouns तद्, एतद्, यद्, इदम्, किम्, and सर्व and the pronominal adjectives पूर्व्, पर &c, by means of such affixes as तस्, त्र, *ह, क &c. added in the sense of the Ab. or the Loc., दा, †दानीम्, हि &c. showing time, ‡तात् showing point of time, place or direction, आ, आत्, आदि &c. expressing direction, था, थ + &c. expressing way or manner &c.; e. g.
+
+---
+
+## Footnotes
+
+* See § 130.
+
+† सर्वैकान्यकिंयत्तदः काले दा। इदमोऽहिम्। अधुना द्वानौ च। तत्रो दा च। अन्ययतनेहन्यतरस्याम्। Pāṇ. V. 3. 15-19. 21.
+
+‡ दिक्शब्देभ्यः सप्तमीपञ्चमीप्रथमाभ्यो दिग्देशकालेऽस्तातिः। Pāṇ. V. 3. 27.
+
++उत्तराधरदक्षिणादातिः। दक्षिणादाच आहि च द्वे। Pāṇ. V. 3. 34. 36. 3. प्रकारवचने थाल्। इदमस्थमुः किमश्च। Pāṇ. V. 23-25.

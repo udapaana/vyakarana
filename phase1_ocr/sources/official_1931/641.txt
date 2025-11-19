@@ -1,44 +1,46 @@
-[Internal page: 627]
+[Internal page: 641]
 
-                     DHĀTUKOŚA.                               65
+                     DHĀTUKOŚA.                               79
 
-देव् 1 A. देवनै to sport, to lament; देवतै pre. दिदेव perf. देविता p.
-   fut. देविष्युयतै fut. अदेविष्युयत con. अदेविष्टु aor. दिदेविषतै des.
-   Pass.—दैव्युतै.
+पुर् 6 P. अग्रुगामनै to go ahead; पुरुति pre. पुपोर perf. पोरिष्युयुति fut.
+   अपुरीत Aor.
 
-दै 1 P. शौच्चै to purify, to be purified; शाचुति pre, ददौ perf.
-   दाता p. fut. दास्युयति fut. अदास्युयत् con. अदासीत aor. दाप्युयात् ben.
-   दिदासति des. Pass.—दाप्युतै pre. Cau.—दापयति-तै pre. अदीदयत-
-   न aor. दात p. p.
+पूर्द् 1 P. पूरणै to fill; पूर्दुति pre, पपूर्द perf. पूर्दिष्युयुति fut. अपूर्दीत
+   Aor. Pass.—पूर्युतै pre. अपूर्दि aor.
 
-द्रो 4 P. अवक्षयदुनै to cut, to divide, to move; द्रोति pre. ददौ
-   perf. द्राता p. fut. अद्रात् or द्रेयात् ben. दिद्रसति des. Cau.—
-   द्रापयति-तै pre. द्रित p. p. द्रित्वा, अवद्राप ger.
+पूर् 10 U. निकेतनै to dwell; पूरयाति-तै pre. पूरयिता p. fut. अपुपूर-
+   त-न Aor.
 
-द्रू 2 P. अभित्रासै to advance towards, to attack; द्रोति pre.
-   दुद्राव perf. द्रोता p. fut. द्रोष्युयुति fut. अद्रोष्युयत् con. अद्रोषीत
-   aor. दुद्रूषति des. Pass.—द्रूयतै pre. अद्रावि aor Cau —द्रावयति-
-   तै pre अदुद्रवत-न aor. द्रुत p. p.
+पुक् 1 & 6 P. महत्त्वै & 10 U. ( संघातै च ) to grow, to become tall;
+   पोलुति, पुलुति, पोलयाति-तै pre. अपोलीत, अपुपुलत-न Aor.
 
-द्युत् 1 A. दीप्तौ to shine; दुयोततै pre. दिद्युतै perf. द्योतितता p. fut.
-   द्योतिष्युयतै fut. अद्योतिष्युयत् con. अद्योतिष्टु, अदुयोतत् aor. द्योतिषीष्ट
-   ben. दिद्युतिषतै दिद्योतितै des. Cau.—द्योतुयाति-तै pre. अदुद्युतत-न
-   aor. देद्युयतै, देद्योति freq. द्युतित-द्योतित p. p.
+पुर् 4 P पुष्टौ to nourish, to develop, to bear, to show; पूर्युति pre,
+   पुपोष perf. पोष्टुं p. fut पोष्युयुति fut. अपोष्युयत् con. अपुष्युत् aor.
+   पूष्युयात् ben. पुष्ट p. p. Pass. पूष्युतै.
 
-द्युै 1 P. न्युयुकरणै to despise; यायुति pre, याता p. fut. अयासीत aor.
-   याप्युयात्, येयुयात् Ben.
+पुष् 1 & 9 P. to nourish. &c, पोषुति, पुष्णुति pre. पुपोष perf.
+   पोषिता. p. fut. पोषिष्युयुति fut. अपोषीत aor. Pass.—पुष्युतै pre.
+   अपोषि aor. Cau.—पोषयाति-तै pre. अपुपुषत-न aor. पुष्ट ( पोषित
+   also ) p. p पुष्टित्वा. पोषित्वा ger.
 
-द्रम् 1 P. गतौ to run; द्रमुति pre द्रद्राम perf. अद्रमीत aor.
+पुष् 10 U. पूरणै to maintain, to promote; पोषयाति-तै pre. पोषया-
+   चकार-चक्रै &c. perf पोषयिष्युयुति-तै fut. अपुपुषत-न aor. पुपोषयिषति-तै
+   des.
 
-द्रा 2 P. कुन्दुागां गतौ स्वपै च to run, to sleep (generally with
-   नि); द्राति pre. ददौ perf. द्राता p. fut. द्रास्युयति fut. द्रायुयात्,
-   con. अद्राड aor. द्राप्युयात्, द्रेयात् ben. दिद्रासति des. द्रातुं p. p.
+पुष्प् 4. P. विकसनै to open, to blow; पुष्प्युति pre पुष्पु perf पुष्पिता p.
+   fut. पुष्पिष्युयुति fut. अपुष्पिष्युयत् con. अपुष्पीत aor. Cau.—पुष्पुयति-तै
+   pre पुष्पित p. p.
 
-द्राघ् 1 A. समर्थै आयामै to be able, to lengthen; द्राघतै pre
-   दिद्राघै perf. अद्राघीत aor. द्राघिषीष्ट ben.
+पुस् 10 U. आदरनाभर्षयो: to regard, to mortify, to tie, पुसयाति-तै
+   pre. अपुपुसत-न aor.
 
-द्रक्ष् 1 P. गौरवादिषै to make a discordant sound; द्रिक्षुति pre.
-   दुद्राक्ष perf. अद्राक्षीत aor.
+पू 1 A. पवनै to purify, to winnow, to invent; पवतै pre. पुपुवै perf.
+   पविता p. fut. अपविष्टु aor. पविषीष्ट ben. पिपविषतै des. Cau.—पव-
+   याति-तै pre. अपीपवत-न Aor. पोपुवतै, पोपवीति. पोपोति freq पून p. p.
 
-द्रु 1 P. गतौ to run, to rush, to melt; द्रवुति pre. दुद्राव perf.
-   द्रोता p. fut. द्रोप्युयुति fut. अद्रोष्युयत् con. अद्रवत् aor. दुद्रूषतै des.
+पू 9 U. to purify &c; पुनाति, पुनीतै pre. पुपाव, पुपुवै perf. पावता
+   p. fut. पविष्युयाति-तै fut. अपविष्युयत-न con. अपावीत, अपविष्टु aor.
+   पूयुयात्, पविषीष्ट ben. पुपुषति-तै des. पून p. p.
+
+पूज् 10 U पूजानाम् to adore, to receive with honour, to present
+   with; पूजयाति-तै pre. पूजयाञ्चुकार-चक्रै &c. perf. पूजयिता p.

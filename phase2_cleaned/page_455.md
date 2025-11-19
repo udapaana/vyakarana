@@ -1,0 +1,43 @@
+---
+page_number: 455
+internal_page: 455
+chapter: "Verbal Derivatives or Primary Nominal Bases"
+section: "verbal-derivatives"
+rules_starting: []
+rules_continuing: ["§ 777"]
+has_footnotes: false
+---
+
+यु—is affixed to युष् preceded by युरुत् or युतौ, युव् changing to यु
+in the ablative and दुश्युरुः 'one who receives a share,' प्रदुश्युरुः
+'one who divides, or distributes;' युनैत्युरुः: 'one who gives proof
+or his body indicative of the death of his wife, similarly
+the child's chin or yawn or the sleep of his nurse, &c., imme-
+diately युच्छुं रि द्विन्युर्युतौ, युतौत्युं युतोदुयुरु (युत्तुर्गुरादै—
+रुनुत्युर्युकुयुयुं युदुशुयुं or युनुनै द्यु, &c द्यै). 'सदुरुथुर्याकुयुनैत्युर्यैषुयो 'he
+who suffers pain or dies when his wife dies, &c., similarly युकुरु
+ते who tū kill an elephant,' &c.;—and preceded by युटै and
+युयु is added to युयुक् and युरुत्त्युं respectively, युयुकुयुः युदुरुवुतेः
+'a kind with the beast, also a domestic (beating a drum with
+the beat)'—to युरु with द्यु as in युरुयुद्युरुचुसुयु युरुयुयुंद्युष्युस्युतुं: 'the
+wife of the son; दुत्तुयुर् with युष्टु युषुटुयुरुः who cannot be killed,
+युयुरुयुरुं: 'one who chases the Shiva Veda'; but प्रणङ्युक्रुः 'who
+is not preceded by अ preposition; on the ground, &c.' इत् forms
+युयुदुरुयुरैं—is added to युट् preceded by युनुरु, अयुरुत्युं, युरु, युव्, युरुं,
+वुद्ध, &c.; युदुयुः: युरु on the ground, युरु and तिवुरु shows
+the idea of a noun connected, with the root, or proceeding to
+the place of action, before this the final consonant with the
+युरुरुयुषौ vowel of the fem. is not युयुदुयु or युत्युद्युरुयुत्तुरुयुं (युव् गेत्तु)
+युरुयुद्युविर्युं भैरुयुं: 'one who goes to the seat? देवता: a traveller;'
+युरुः युत्तुरुयु०) युदूर्तुकरुः from युरु with युयु, a युरुत्युरुः of which
+रुत्युर्यु, प्र used as a गृहे युयु युयुच्छु युदुर्युवुन्युं); युत्युयुदुत्युत्तुं प्रयुत्युत्युत्युष्युग्रः
+युहे or युदै युनुत्तुर्युयुयुंस्युरुतुरुः युयुरुयुं or युरुयुदुरुयुत्तुयुत्युत् ('he रुयुयुं
+or, he of the ground the स्युनुश्चुरोरै युच्छुरैरुनेणुडूरुयुत्युरुयुं युर्युरुरुरुत्य
+युयुरुरुयुं path, ordaining, a new garment युयु the place of
+युयुरुःरु,' (from a root युष्टु युयुदै। युयुध्युरुकुरुत्यैर्युत्युन्युंग्युवें युदुर्तुङ्
+युतौरुत्युरुः—the sense of a noun which is not युदुर्युरु, युनुत्युरु, युषुरुः 'one
+युष्युरु इु preceded by a preposition and the whole is a name मृत्युयुं,
+युदौयोत्रुरुयुंरुनुयुनुमें युत्युरुष्युत्तुरुरुनुरु (यु युवुर्तु। युरुयुयुरुत्युं युयुत्युत्युत्युं: of which
+युदुरु operation?' युद्धुरुयुः देरु युरुः युष्युत्युत्युः 'younger brothers;'
+also किरुः—to युरु तुं दोःयुष्युरुयुः, &c. The penultimate अ
+of this affix, this is also added to युयु with युत्तुं, युरुत्युयुः 'a land:

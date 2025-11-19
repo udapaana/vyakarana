@@ -1,15 +1,24 @@
-[Internal page: 164]
-164                    SANSKRIT GRAMMAR.                    [ § 269-270
+[Internal page: 180]
+180                                     SANSKRIT GRAMMAR.                         [ § 302-306
 
-(c)*अ is optionally substituted for the final of नदी, गीर्णंभासौ. आयहायणी and निति; उपनदम्-दि, उपगीर्णंभासम्-सि, उपाग्रहायणम्-णि 'near to the full-moon day of Mārgas'irsha'; उपगिरसम्-रि.
+द्राकवनम्‌ ( as the word contains more than three vowels ); exceptions:—इरिक्षावनम्‌, मिरिकावनम्‌, and तितिसिरावनम्‌.
 
-(d)+ It is also optionally added to all nouns ending in any of the first four letters of a class; उपसमिधम्-मिद्.
+§ 303. *The न of वाहन is changed to ण when preceded by a word denoting an object that can be borne; इष्टुवाहणम्‌; but इन्द्रवाहनम्‌ ( इन्द्रस्यासिकं वाहनमित्यर्थः Sid. Kau. ).
 
-(e) अ is attached to the final of the following nouns when compounded in an Avyaya.‡:—शरद्, विपाश्, मनसु, मनसु, उपानह्, अनडुह्, दिव्, हिमवद्, विरु, इषु, विक्रु, चेतस्, चतुर् तद्, यद्, कियद्, जरस् (substituted for जरा) &c; शरद् समीपम् उपशरदम्, प्रतिवि-पाशम्, 'towards the Vipāśa;' दिश्योमद्यं अपदिशम् between two divisions of the compass, उपजरसम् towards old age, अध्यात्मम् on the soul, &c.; and to आक्षि when preceded by प्राति, पर changed to परि. सुचु and अट, the इ of आक्षि being dropped; अक्षः प्राति प्रत्यक्षम् before one's eyes; अक्षू परं परोक्षम् out of sight; समक्षम्, and अनक्षम् afterwards, forthwith.
+§ 304. † The न of पान is changed to ण necessarily when the compound implies a country and optionally when it signifies merely the act of drinking ; as सुराषाणा: ( माज्या: ); क्षीरषाणा: ( डुशौक्तरा: ); but क्षीरषाणम् or पानम्।
 
-§ 270. The indeclinables forming Avyayibhāva compounds have various senses §; e. g. (1) the meaning of case; as गौपि इति अधिगोपदम् 'in the protector of the cowherd,' so हरावितै अधिहरि, अध्यात्मम् &c.; (2) सामीप्य or 'vicinity; as कृष्णस्य समीपच्छलम् near Krishus; so उपगवम् &c., (3) सम्पद् or 'prosperity' as मद्राणां सम्पद्धिः सुमद्रम्, 'in a country wherein the Madras are in a prosperous condition.' (4) व्युत्ति (वि+ऋद्धिः) or 'bad condition;' as यवनानां व्युत्तिः दुर्यवनम् 'when the Yavanas are in a bad condition;' (4) अभाव or absence; as मक्षिकाणामभावः निर्मक्षिकम् 'where flies are
+( a ) न is also optionally changed to ण in the case of the following compounds:—गिरि-पदी-नदी, गिरि-णद्-नस, गिरि-णाड्च-नह, गिरिनितत्भ्र णितत्भ्र, चक्र-पदी-नदी, चक्र-णितत्भ्र-नित्त्भ, &c.
 
-* नदीगीर्णंभासाष्याग्रहायण्योः । निरिक्र सैनकस्य । Pān. V 4. 110,112.
-† इयः । Pān. V. 4. 111
-‡ अन्यत्रोभात्रै शरत्प्रभृतिभ्यः । Pān. V 4. 107.
-§ अन्ययै विभक्तिसमीपस्सम्पत्तिख्युत्तिध्युत्पयञ्ञान्तस्ञाङातिष्ञाङादिमर्ग-यायाथादुष्ठयोगोपदसाहइश्यसन्मतिसाइद्धुमादुभाविष
+Chapter VIII.
+
+FORMATION OF FEMININE BASES.
+
+§ 305. Feminine bases are derived from the masculine by the addition of the affixes आ ( टाप्‌, हाप्‌, चाप्‌), ई ( ड़ीप्‌, ड़ीष्‌, छीच् ), ऊ ( ऊङ् ) and ति.
+
+§ 306. Before the affix ई—
+
+( a ) nouns ending in consonants assume that form which they take before the termination of Inst. sing.; प्रत्यञ्च्-प्रतीची, राजन्-राज्ञी, मृगवद्-मृघवी, श्वन्-सुनी, अर्यमद्-अर्यम्णी, विद्वस्-विदुषी, &c. There are some exceptions. अर्वाञ्च्-अर्वाची &c.
+
+* वाहनमादितोद् । Pān. VIII. 4. 8.
+
+† पान दैशे । वा भावकरणयोः । Pān. VIII. 4, 9-10 गिरिनधोदोनिर्त्‌ Vārt.

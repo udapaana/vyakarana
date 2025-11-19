@@ -1,24 +1,16 @@
-[Internal page: 180]
-180                                     SANSKRIT GRAMMAR.                         [ § 302-306
+[Internal page: 194]
+194                                     SANSKRIT GRAMMAR                         [ § 337-339
 
-द्राकवनम्‌ ( as the word contains more than three vowels ); exceptions:—इरिक्षावनम्‌, मिरिकावनम्‌, and तितिसिरावनम्‌.
+Chapter IX.
 
-§ 303. *The न of वाहन is changed to ण when preceded by a word denoting an object that can be borne; इष्टुवाहणम्‌; but इन्द्रवाहनम्‌ ( इन्द्रस्यासिकं वाहनमित्यर्थः Sid. Kau. ).
+SECONDARY NOMINAL BASES DERIVED BY THE ADDITION OF THE TADDHITA OR SECONDARY AFFIXES.
 
-§ 304. † The न of पान is changed to ण necessarily when the compound implies a country and optionally when it signifies merely the act of drinking ; as सुराषाणा: ( माज्या: ); क्षीरषाणा: ( डुशौक्तरा: ); but क्षीरषाणम् or पानम्।
+§ 337. The terminations used to form derivative bases, in Sanskrit are distinguished into two classes, (1) Krit ( कृत् ) or Primary Affixes and (2) Taddhita ( तद्धित ) or Secondary affixes Krit are those affixes that are added to verbs, and the Nominal Bases formed by their means are called PRIMARY NOMINAL BASES ; while TADDHITA affixes are those that are added to substantives, primary or derived from roots, and the bases formed with them are called SECONDARY NOMINAL BASES ( vide § 179 )
 
-( a ) न is also optionally changed to ण in the case of the following compounds:—गिरि-पदी-नदी, गिरि-णद्-नस, गिरि-णाड्च-नह, गिरिनितत्भ्र णितत्भ्र, चक्र-पदी-नदी, चक्र-णितत्भ्र-नित्त्भ, &c.
+§ 338. In this chapter we will treat of the more general secondary nominal bases formed by means of the Taddhita affixes, reserving for a future chapter the formation of the primary nominal bases derived by means of the Krit affixes from roots.
 
-Chapter VIII.
+§ 339. The Taddhita affixes are added in various senses. They occasion various changes in the words to which they are added. The following general observations should be paid attention to.
 
-FORMATION OF FEMININE BASES.
+(a) As a general rule the first vowel of a word takes its Vṛiddhi substitute before the terminations अ, य, इक, ईन, ए०य, स्य. &c. ; as अभषति+अ=आभषति+अ.
 
-§ 305. Feminine bases are derived from the masculine by the addition of the affixes आ ( टाप्‌, हाप्‌, चाप्‌), ई ( ड़ीप्‌, ड़ीष्‌, छीच् ), ऊ ( ऊङ् ) and ति.
-
-§ 306. Before the affix ई—
-
-( a ) nouns ending in consonants assume that form which they take before the termination of Inst. sing.; प्रत्यञ्च्-प्रतीची, राजन्-राज्ञी, मृगवद्-मृघवी, श्वन्-सुनी, अर्यमद्-अर्यम्णी, विद्वस्-विदुषी, &c. There are some exceptions. अर्वाञ्च्-अर्वाची &c.
-
-* वाहनमादितोद् । Pān. VIII. 4. 8.
-
-† पान दैशे । वा भावकरणयोः । Pān. VIII. 4, 9-10 गिरिनधोदोनिर्त्‌ Vārt.
+(b) Before terminations beginning with a vowel or य (1) the final अ, आ, इ, and ई are rejected ; (2) ए and ऊ take their Guṇa substitute ; (3) औ and औ obey the ordinary rules of sandhi ; आष्यपति+अ=आष्यपत 'belonging to Asvapati,' &c, m. n.; मनु+ अ=मानव: ' a descendant of Manu '; गो+य=गाव्य 'belonging to a cow', so नाव्य fr. नौ &c.

@@ -1,46 +1,46 @@
-[Internal page: 665]
+[Internal page: 679]
 
-                     DHĀTUKOŚA.                               103
+                     DHĀTUKOŚA.                               117
 
-म्ला 1 P. अभ्युयुासै to repeat in the mind, to learn, to remember
-   to praise (in the Vedas); मलाति pre. मलौ perf. मलाता p. fut.
-   मलास्युयुति fut. अमलासीत aor मलायात् or मलेयात् ben निमलासति
-   des. Cau.—मलापुयाति-तै pre. अमीमलत-न aor. Pass.—मलाप्युतै pre.
-   अम्लापि aor. मलात p.p.
+   p. fut. लैष्युतै, लास्युतै fut. अलैष्ट, अलाषत aor. लैषीष्ट लासीष्ट
+   ben. Cau,—लाययति-तै pre. लिलीषतै des. लीन p.p. लीना, विलाय,
+   विलीन ger.
 
-म्लुक्ष् 1 P. संचातै to collect, to strike; म्लुत्सति pre. मम्लुक्ष perf म्लुक्षिता
-   p. fut. अम्लुक्षीत aor.
+लौ 6 P. श्लेषणै to adhere, to melt; लवुति pre. लिलाय, ललौ perf.
+   लेता p. fut. p. fut. लैष्युति, लास्युति fut. अलैषीत्, अलासीत aor.
+   लिलयिषति des.
 
-म्लैक्ष् 10 U संयोजनै स्नैहनै स्मैच्छुनै च to heap, to mix, to anoint.
-   to speak indistinctly; म्लैक्षुयाति-तै pre. म्लैक्षुयाचकार-चक्रै perf.
-   म्लैक्षुयिता p. fut. अमम्लैक्षत-न aor. म्लैक्ष्युयात्, म्लैक्षयिषीष्ट ben.
+लुञ्च् 1 P. अषमनै to pluck, to pull, to tear off; लुञ्चुति pre. लुलुञ्च
+   perf. लुञ्चिता p. fut. अलुञ्चीत aor. लुलुञ्चिषति des. लुञ्चित p.p.
 
-म्लुद् 1 A. मर्दनै to pound; म्लुदुतै pre. मम्लुदै perf म्लुदिय्युतै fut.
-   अम्लुदिष्टु aor.
+लुञ्च् 1 P. & 10 U. हिंसाइलालानपर्तिकतौहु माषावां दोंक्षौ च to kill, to
+   be strong &c. लुञ्चुति, लुञ्चुयति-तै pre. अलुञ्चीत, अलुलुञ्चत-न aor.
 
-म्लुच् 1 P. to go; मोचुति pre. मम्लुच perf. अम्लुचत्, अम्लोचीत aor.
-   मुम्लुचिषति, मुम्लुोचिषति des. म्लुचित्वा. मुच्चित्वा ger.
+लुठ् 1 A. भर्त्सानै to oppose, लोठतै pre. लुलुठै perf. लोठिता p. fut. .
+   अलुठीत् , अलोठिष्ट aor. लुलुठिषतै des.
 
-म्लुच्चु 1 P. to go; मुच्चुति pre. मुमुच्चु perf. मुच्चुित्युति fut. अमुच्चुीत aor.
-   मुमुच्चुिषति des. मुत्त p.p. मुच्चुित्वा, मुत्त्वा ger.
+लुड् 1 P. विलोडनै to roll, to wallow on the ground; लोडुति pre.
+   लुलोड perf. लोडिता p. fut. अलोडीत aor लुलुडिषति or लुलोडिषति
+   des. Cau,—लोदयति-तै pre अलुलुदत-न aor. अललोदत-न aor.
+   लुडित, लोडित p. p.
 
-म्लैद् ( मैदू ) 1 P. to be mad; म्लैद ( भू )ति pre.
+लुड् 4 P. to roll, &c.; लुड्यात pre. लुलोड perf. लोडिता p. fut;
+   अलुदत् aor. ( See the above root for the other forms. )
 
-स्लुक्ष् 10 U. to eat, to divide; स्लुक्षुयाति-तै pre. स्लुक्षुयाचकार-चक्रै
-   perf. स्लुक्षुयिता p. fut. अमस्लुक्षत-न aor.
+लुद् 6 P. ( ङुदादि: ) क्षैषणै see लुद् below.
 
-स्लुच् 1 P. to go; स्लोचुति pre. मुस्लोच perf. स्लोचिता p. fut. स्लोचि-
-   ष्युयुति fut. अस्लुञ्चुत् or अस्लोचीत aor.
+लुद् 10 U. भाषावां दोंक्षौ च to speak, to shine; लोदयातै-तै pre.
+   लोदयाचकार-चक्रै &c. perf. लोदयिता p. fut.
 
-स्लुठ्चु 1. P. to go, स्लुठ्चुति pre. मुस्लुठ्चु perf
+लुद् 1 P. उच्चाते to strike, to knock down; लोदुति pre. लुलोद
+   perf. लोदिता p. fut. अलोदीत aor. Cau.—अलुलुदत-न, अललोद-
+   दत-न aor.
 
-स्लेच्छु 1 P. & 10 U. अस्युकै शब्दै ( अस्पुष्टै अस्पाष्टै च ) to speak
-   indistinctly or barbarously; स्लेच्छुति, स्लेच्छुयाति-तै pre मिस्लुच्छु,
-   स्लेच्छुयाचकार-चक्रै perf. अस्लेच्छुीत, अमिस्लेच्छुत-न aor.
-   निमिस्लुच्छुिषति, निमिस्लुेच्छुयिषति-तै des. स्लुिष्ट, स्लेच्छुित p. p.
+लुठ् 1 A. प्रतिषाठै to oppose, to roll; लोठतै pre. लुलुठै perf.
+   लोठिता p. fut. अलुठत्, अलोठिष्ट aor.
 
-स्लेद् or स्लेड 1 P. उन्मादै to be mad; स्लेदुति or स्लेडुति pre. अस्लेदीत,
-   अस्लेडीत aor.
+लुठ् 6 P. संलोषणै ( ङुदादि: ) to wallow; लुठुति pre. लुलोठ perf.
+   लुठिष्युति fut. अलुठीत aor. लुलुठिषति des.
 
-स्लेष् 1 A सैचनै to worship, to serve; स्लेषुतै pre. मिस्लेषै perf.
-   स्लेषिष्युयुतै fut. अस्लेषिष्टु aor.
+लुड् 1 P. विलोडनै to stir, to churn; लोडुति pre. लुलोड perf. लोडिता
+   p. fut. अलोडीत् aor. Cau,—लोडयति-तै pre. लुलुडिषति des.

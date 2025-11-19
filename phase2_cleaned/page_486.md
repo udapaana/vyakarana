@@ -1,0 +1,53 @@
+---
+page_number: 486
+internal_page: 486
+chapter: "Syntax"
+section: "syntax"
+rules_starting: ["§ 825", "§ 826", "§ 827"]
+rules_continuing: []
+has_footnotes: true
+---
+
+§ 825. * छुच् with यति and आ meaning 'to promise,' gov-
+erns the Dative of the person to whom a promise is made after
+solicitation विप्रुयु गां प्रतिजुयुनोयुति आपुयुणुयोति वा । निवुयु भहुं स्युबिति
+युवुत्युदुतिः प्रतिजुयुनीत्युते हुयुयुर्युयुः । Sid. Kau.
+
+§ 826 † The root क्री with परि 'to hire, as a servent,' &c.,
+optionally governs the Dative (and optionally the Inst)
+of the price at which he is hired शुतेनं शुत्युयु वा परिक्रीतुः ।
+Sid. Kau.
+
+§827. ‡ (a) A noun expressive of the purpose for which
+anything is done, or the result to which anything pertains, or
+action for which anything exists, is put in the Dative case;
+छुकुरुयु हरिं भजुति 'worships Hari for final beatitude;' भकितुयुगुयुयु
+कुरुनं घस्युयुनं जायुतं वो 'devotion leads to knowledge;' सुड्युयु
+कुरुनं जायुतं सन्युबुनं युयुयुयुरुः (Mb.) 'water gruel tends to
+(produce) fire,' सुयुर्णुयुयु विरुयुयुर्णों हिरुण्युयुं (Mah. Bhā.) 'gold for
+Kuṇḍala (a kind of ornament);' सुयुयुयु दुयुरुयु ' wood for a
+sacrificial post,' &c.
+
+N. B. The roots भू or अस् are often omitted after a Dative
+used in this sense कुव्युयुं यवुते (भुवति), poetry is for fame.'
+
+(d) § An evil foreboded by a portentous phenomenon is
+also put in the Dative case; वायुयु कुविछुयु विवुत्युयु 'the tawny
+lightning forebodes a storm.'
+
+(e) ‖ The word हितं is used with the Dative; ब्राह्मुयुयु हितं
+'good for a Brāhmaṇa
+
+---
+
+*प्रत्युयुकुच्युयुम् श्युतुः पुयूर्च कर्तो । Pāṇ. 4. 40.
+
+†परिक्रुयुणं संयुत्युयुन्युयु:युयुदुरुस्युयुयुम् । Pāṇ. 4. 44. निरुयुत्युकुट्युयुयुयुयुरुस्युकुरुणु
+परिकुयुर्णों । Sid. Kau.
+
+‡त्युयुर्युर्युस् चुदुर्युर्णों वाञ्युयुयु । क्तुदुपि संयुयुयुम्युनं च । Vārtika.
+
+§विपुरीते कुयुर्यु । Vārt. वाद्युयु कुर्णोकुयुयुविद्युद्युयुयुयुणुयुतोहुतो। ।
+पतोत वरीयु निवोयुयु दूयुरैकुसुयु तिता क्तोटे । Mah. Bhā.
+
+~हितयुयोपो च । Vārt.

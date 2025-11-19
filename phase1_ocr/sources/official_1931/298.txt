@@ -1,35 +1,32 @@
-[Internal page: 284]
+[Internal page: 298]
 
-284                    SANSKRIT GRAMMAR.                    [ § 451-454
+298                    SANSKRIT GRAMMAR.                    [ § 463-469
 
-विय, takes its Guṇa substitute before all  terminations  and the radical इ is not guṇated before vowel strong terminations.
+Aorist.  These are इङ्, यङ्, इच्छु, धुच्, धुग्, स्ग्, स्पृश्, धृश्, स्पृश्,
+यशु, वि, यु, कु; and a few more not often to be met with.
 
-§ 452.  दा and धा drop  their  आ  after  reduplication  before weak terminations; दध् becomes घद् before स्, ध्व, त  and थ.  The Par. Imperative 2 per. singulars are देहि and घेहि respectively.
+§ 464.  The root प्रच्छ् assumes the forms प्रच्छ् and गच्छ् in the Non-conjugational Tenses.
 
-§ 453.  भी optionally shortens its  vowel  before  consonantal weak terminations.
+§ 465.  The penultimate  अ  of  घुज् and इुज् is changed to य before a consonantal strong termination in the General Tenses.
 
-    ( a ) मा and हा ' to go ' assume the forms मिम् and जिह् before vowel terminations and मिमो and जिहो  before  consonantal terminations.
+§ 466  The intermediate इ is weak in the case of  the  root सिञ्च् 6. Â. 7 P.; and optionally so in the case of ऋच्.
 
-§ 454.  हा ' to abandon ' assumes  the  forms  जहि or जहो before consonantal weak terminations except in the Pot  and जह् before vowel  terminations and those  of  the Pot.   The Imp.  2 sing. forms are जहाहि, जहिहि and जहोहि
+§ 467.  The roots सिञ्च् 2 A. ' to shine ' and चैङ् 2 A. ' to go ' do not take Guṇa or Vṛddhi before any termination. They also drop their final vowel before the intermediate इ and य, दरिद्र also drops its आ before a  non-conjugational termination  except in the Desiderative and the Aorist where it retains it  optionally.
 
-                          Paradigms.
+             THE TWO FUTURES AND CONDITIONAL.
 
-                   म Par. ' to go.'
+                    ( 1 ) First Future ( लृट् )
 
-         Present.                       Imperfect.
+Also called Periphrastic Future.
 
-1. ईयमि      ईयुवः    ईयुमः        ऐयम्       ऐयुव       ऐयुम
-2. ईयषि      ईयुथः    ईयुथ         ऐयः       ऐयुतम्     ऐयुत
-3. ईयति      ईयुतः    ईयुति        ऐयः       ऐयुताम्    ऐयुरुः
+§ 468.  Terminations:—
 
-         Imperative.                    Potential.
+         Parsam.                        Âtm.
 
-1. ईयराणि     ईयराव   ईयराम        ईयुयाम्    ईयुयाव     ईयुयाम
-2. ईयुहि      ईयुतम्  ईयुत         ईयुयाः    ईयुयातम्   ईयुयात
-3. ईयतु       ईयुताम् ईयुतु        ईयुयात्   ईयुयाताम्  ईयुयुः
+1. तासि*     तास्वः    तास्मः        1. ताहे    तास्वहे    तास्महे
+2. तासि     तास्यः    तास्थ         2. तासे    तासाथे    तास्ध्वे
+3. ता       तारौ     तारः          3. ता      तारौ      तारः
 
-                   धा P. Â. ' to place, to hold.'
+§ 469.  To these terminations the augment इ is prefixed  in the
 
-                          Present.
-
-1. दधामि      दध्वः    दध्मः                   दधे       दध्वहे
+    * The forms of the First Future may be derived by adding to the Nom.  sing. of the noun of agency derived with the affix तृ the forms of the Present Tense of the root अस् 'to be' in the 1st and 2nd persons.   The forms of the Nom.  are  the  forms  of the 3rd pers.

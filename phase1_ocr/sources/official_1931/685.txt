@@ -1,48 +1,46 @@
-[Internal page: 671]
+[Internal page: 685]
 
-                     DHĀTUKOŚA.                               109
+                     DHĀTUKOŚA.                               123
 
-रस् 10 U. आस्वाद्युसैक्षनयो: to taste, to feel; रसुयाति-तै pre. रस-
-   याचकार-चक्रै perf. अररसत-न aor
+वह् 1 U. प्रापणै to bear along, to carry, to flow, to marry
+   ( with उद् ) &c. वहुति-तै pre. उवाह, ऊहै perf. वोढा p. fut.
+   वक्ष्युयुति, वढयिष्युुति, अवोहीत् aor उह्युयात् , वढीष्ट ben. विवक्षाति-
+   तै des. Cau.—वाहयाति-तै pre. अवीवहत-न aor. ऊढ p. p.
 
-रह् 1 P. त्युयुागै to quit, to desert; रहुति pre. रराह perf. रहिता p.
-   fut. राहिष्युयुति fut. अरहीत aor. रिरहिषति des.
+वा 2 P. भातिभुन्जनयो: to blow, to go, to strike, to kill; वाति pre.
+   ववौ perf. वाता p. fut. अवासीत् aor. वायुयात् ben. Cau.—to
+   cause to blow, वाययात-तै; to shake, वाजयाति-तै pre. विवासाति
+   des. वात p p. ( with तिर-निर्वाण when वात 'wind' is not the
+   subject; as विवातै भवितयिना ).
 
-रस् 10 U. स्पातै to leave, to abandon; रहुयाति-तै pre, रहुयाचकार-
-   चक्रै perf. रहुयिता p. fut. रहुयिष्युयति-तै fut. अररहत-न aor. रहित
-   p.p. रहित्वा ger.
+वाङ्क्ष् 1 P. काङ्क्षायां to wish, to desire, वाङ्क्षुति pre. वाङ्क्षिष्युति fut.
+   अवाङ्क्षीत् aor.
 
-रा 2 P. दानै to give, to bestow; राति pre. ररौ perf. राता p. fut
-   रास्युयुति fut. राप्युयुति, रेयुयात् pre. अरीरयत-न aor. रिरा-
-   षति des.
+वाञ्छ् 1 P. वाञ्छायां to wish, to desire, to seek for; वाञ्छुति pre.
+   ववाञ्छ perf. वाञ्छिता p. fut. अवाञ्छुीत् aor. विवाञ्छिष्युति des.
+   Pass —वाञ्छयतै pre अवाञ्छ्र aor.
 
-राख् 1 P. शोषणालङ्करणयो: to be dry, to adorn, to be able, to
-   suffice; राखुति pre, रराख perf. अराखीत aor.
+वाद् 1 A. to bathe, to dive; वादतै pre ववादै perf.
 
-राष् 1 A. सामर्थ्युयै to be able; राषतै pre. रराषै perf. राषिष्युयुतै fut.
-   अराषिष्टु aor.
+वाद् 10 U. वाद्युयविषयाणयो: to be happy, to scorn; वादयाति-तै pre. वाद-
+   यिष्युति-तै fut. अववादत-न aor. विवातयिषाति-तै des.
 
-राज् 1 U. दीप्तौ to shine, to glitter, to appear, to direct, to
-   be at the h-ad; राजुति-तै pre, रराज, रराजै, रैजै perf राजिता
-   p. fut. राजिष्युयुति-तै fut. अराजीत, भेराजिष्टु aor. राज्युयात्,
-   राजिषीष्ट ben. रिराजिषति-तै des. राजित p. p. राजित्वा, वित्राज्यु
-   ger.
+वाश् 4 A. शब्दै to roar, to hum; वाश्युतै pre. ववाशै pre. वाशिता p.
+   fut. अवाशीष्ट aor. वाशित p.p.
 
-राध् 4 P. हुद्धौ to grow, to prosper; राध्युति pre. रराध perf. राद्धा
-   p. fut. रास्सुति fut. अरास्युयत् con. राध्युयात् ben. अरादीत
-   ( अराद्धुाम dual ) aor. Cau.—अरीरधत-न aor. रिरासति des.
+वास् 10 U. उपदैषायां to scent, to make fragrant; वासयाति-तै
+   pre. वासयाचकार-चक्रै &c. perf. वासयिता p. fut. अववासत-न
+   aor. विवासयिषति-तै des.
 
-राष् 5 P. शाक्ष्योदै हिंसाग्यां च to accomplish, to kill, to propitiate,
-   राषोति pre. रराश (2nd sing. with अभु, अपरेपिथु) perf. रिरासति,
-   ( रिरसति in Vedic ), अरिष्मुं 2nd & 3rd. राउधुत् pre. p.
+वाह् 1 A. प्रयानै to try, to make an effort; वाहतै pre. ववाहै perf.
+   अवाहीष्ट aor.
 
-रास् 1 A. शब्दै to cry, to yell, to sound; रासुतै pre, ररासै perf.
-   अरासिष्टु aor. रिरासिषतै des.
+विज् 7 U. पृथग्भाषै to seperate &c.; विनक्ति, विङ्क्तै pre विवेज, विविजै
+   perf. वेक्ता p. fut. अवित्त्, अवैक्षीत्, अविक्त aor. विच्युयात् , विक्षीष्ट
+   ben. विविक्षाति-तै des. विक्त p p.
 
-रि 6 P to go, to move; रियुति pre. रिराय perf. रैयुति fut.
-   अरैषीत aor.
-
-रि 5 P. to ooze; रिणाति pre. ( Vedic ) रिरियुति des.
-
-रि 9 U. to drive out to expel, to go to hurt, to emit, to
-   सुहुrate, ( in the Vedas ); रिणाति, रिणीतै pre.
+विच्छ् 6 P. to go; विच्छयाति pre. विवक्ष्छो; विच्छयाचकार &c. perf.
+   विच्छयिता. विच्छयियिता p. fut अविच्छीत् अविच्छाषीत् aor. Cau. -
+   विच्छायातै, विच्छयायति-तै pre. अविविच्छत-न. अविविच्छयत-न
+   aor. विविच्छिष्युति, विविच्छयिषुति des. Pass.—विच्छ्युतै, विच्छ्या-
+   युतै pre.

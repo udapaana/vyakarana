@@ -1,0 +1,49 @@
+---
+page_number: 26
+internal_page: 18
+chapter: "Rules of Sandhi"
+section: "sandhi"
+rules_starting: ["§ 23"]
+rules_continuing: ["§ 22"]
+has_footnotes: true
+---
+
+(a) A consonant except ङ्, preceded by a vowel, is optionally
+doubled, if no vowel follows*; सुप्र+उपास्य:=सुप्पुपास्य: and
+सुप्रम्+उपास्य:—
+
+(b) When a consonant, except a nasal or a°semivowel, is
+followed by a soft unaspirate or aspirate (3rd or 4th letter of
+a class) it is changed to the soft unaspirate (3rd letter) of its
+class†; सुप्रम्+उपास्य:=सुद्दुपास्य
+
+(c) Semivowels, when preceded by a letter of the first five
+classes except-म् are optionally doubled§; thus सु·म्+उपास्य:=
+सु·र्म्+उपास्य:and सु·म्म्+उपास्य:;सुर्·म्+उपास्य:=सुर्·म्+उपास्य:
+and सुर्·म्म्+उपास्य: । Thus there are four forms ultimately,
+viz. सुःमुपास्य:, सुद्दुपास्य: and सुद्दुरुपास्य: ।
+
+Similarly मधु+अरि:=मध्वरि:. मद्ध्वरि:, मद्धुवरि:, and मद्दुव्वरि:
+पाद्+अङ्क:=पादङ्क: and पाद्दङ्क: In ल्+आकृति: of course there
+is no possibility of any other form.
+
+(d) A consonant except ङ्, coming after र् or र् preceded by a
+vowel is optionally doubled‡;e. g. हरि+अनुभव:=हर्य्+अनुभव:=
+हर्य्यनुभव: by the general rule; and optionally हर्य्म्+अनुभव:=
+हर्य्यनुभव: (Hari's experience) by this rule; so न हि+अस्ति=न
+ह्यस्ति and न हय्यस्ति ।
+
+§ 23. (a) इ, उ, ऋ or लृ, short or long, at the end of a word
+followed by a dissimilar vowel except in a compound, are optio-
+nally not combined, and when so they are shortened if
+long × e. g.√चक्रि+अत्र=चक्रित्र, Vishṇu here, and चक्रि अत्र; but
+वापी+अम्बु:=वाप्यम्बु: a horse in a well. गौरी+ओ (a term.)=गौर्यौ.
+
+---
+
+## Footnotes
+
+* अनचि च । Pāṇ VIII. 4. 47.
+† झलां जश् झशि । Pāṇ. 4. 53.    § यणो द्वे चे वाच्ये Vārt.
+‡ अन्यो रहाम्यां द्वे । Pāṇ. VIII. 4. 46.
+× इकोऽसवर्णे शाकल्यस्य ह्रस्वश् ।

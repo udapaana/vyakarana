@@ -1,0 +1,50 @@
+---
+page_number: 648
+internal_page: 648
+chapter: "Appendix II - Dhātukośa"
+section: "dhātukośa"
+rules_starting: []
+rules_continuing: []
+has_footnotes: false
+---
+
+86                   SANSKRIT GRAMMAR.
+
+बुस् 10 U. to honour, to treat honourably; बुस्युयाति-तै pre.
+  बुस्युयाचकार-चक्रै perf. बुस्युयिता p fut.
+
+बुह् 1 P. वुद्धौ to grow, to increase; बुहुति pre, बुबुह perf. बूहिता
+  p. fut. बोहिष्युयुति fut. अबुहिष्युयत् con. अबुहीत aor.
+
+बुह् 6 P. उद्युमनै to work; बुहुति pre, बुबुह ( बुबुहिथु, बुबुह 2nd
+  sing.) perf. बोहिष्युयुति, भक्षीति fut. अबुहीत, अभुक्षत् aor. Cau.—
+  बोहुयति, अबीबुहत-न, अबोहीत-न aor. बिबुहिषति, बिबोक्षति des. Cau.—
+  des. बुढ p. p. बूहित्वा. बुढत्वा ger
+
+बुह् 1 P वुद्धौ शब्दै च to grow, to roar; बुहुति pre बुबुह perf. बुहि-
+  ष्युयुति fut अबुहीत aor
+
+बुह् 1 A. प्रुयत्नै to strive; बुहुतै pre. अबुहिष्टु aor.
+
+बु 2 U. व्युयुक्तायां वाचि to speak; बुक्ताति, बूतो-आहं pre. उबाच,
+  ऊचै perf. वक्ता p. fut वक्ष्युयाति-तै fut. अवक्ष्युयत-न con. अवोचत्-न
+  aor. उच्युयात्, वक्षीष्ट ben Pass —उच्युतै pre. Cau.—वाचयाति-तै
+  pre. अपूवचत-न aor. उक्त p. p. उक्त्वा ger.
+
+बुद् 10 U. हिंसाग्यां to kill, to hurt; बुद्युयाति-तै pre. बुद्युयाञ्चुकार-
+  चक्रै perf. बुद्युयिता p. fut. अबबुदुत-न aor.
+
+                     भ—
+
+भक्ष् 1 U. see अक्ष्.
+
+भक्ष् 10 U. अदनै to use, to eat, to bite; भक्षुयाति-तै pre. भक्षुयाच-
+  कार-चक्रै-भुरात-बक्षत perf. भक्षुयिता p. fut. भक्षुयिष्युयुति-तै fut.
+  अबभक्षत-न aor. भक्षुयात्, भक्षयिषीष्ट ben बिभक्षयिषति-तै des.
+  Pass.-भक्ष्युतै pre. भक्षित p. p. भक्षयित्वा ger. भक्षयितुं inf.
+
+भज् 1 U. सेवायां to serve, to take possession of, to choose, to
+  honour; भजुति-तै pre. भिजाज, भेजै perf. भक्ता p. fut. भक्ष्युयाति-तै
+  fut. अभक्ष्युयत-न con. अभाक्षीत, अभक्त aor. भज्युयात्, भक्षीष्ट ben.
+  बिभक्षति-तै ben. Pass.—भज्युतै pre. अभाजि aor. Cau.—भाज-
+  युयाति-तै pre. अबीभजत-न aor. भक्त p. p. भक्त्वा ges. भक्तुं inf.

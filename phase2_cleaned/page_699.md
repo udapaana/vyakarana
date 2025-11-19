@@ -1,0 +1,53 @@
+---
+page_number: 699
+internal_page: 699
+chapter: "Appendix II - Dhātukośa"
+section: "dhātukośa"
+rules_starting: []
+rules_continuing: []
+has_footnotes: false
+---
+
+                    DHĀTUKOŚA.                               137
+
+श्लोक् 1 A संचातै to compose in verse, to acquire; श्लोकतै pre.
+  शुश्लोकै perf. अश्लोकिष्ट Aor. शुश्लोकिषतै des
+
+श्लोण् 1 P. संचातै to heap together; श्लोणुति pre. शुश्लोण perf. अश्लो-
+  णीत् Aor.
+
+भुङ्कु 1 A. to go, to move; भुङ्कुतै pre. शुभुङ्कै perf.
+
+भुद् 1 A. to go, to be opened; भुदतै. भुद्यतै pre. शुभुदै. शुभुद्यै
+  aor. ( Also भुद्यीष्ट Aor.
+
+भुद्र् 10 U. असंस्कारगमयो:. to leave unfinished to go;भुदयाति-तै pre.
+  भुदयाचकार-कै &c. perf भुादयिष्युति-तै fut. अशिभुदत-न Aor.
+  ( Also भुषद् )
+
+भुद् 10 U. सम्युयगभुाषणै to speak well or ill; भुदयाति-तै pre.
+  भुदयाचकार-चक्रै &c. perf. अशभुदत-न Aor.
+
+भुध् 1 U. to go, to make a hole; भुधुताति-तै pre. भुधयाचकार-चक्रै
+  perf.
+
+भुल् 1 P. आत्रुमनै to run; भुलुति pre. शुभुाल perf. भुालेता p. fut.
+  अभुालीत aor.
+
+भुल्क् 10 U. परिभाषणै to tell, भुलकुयाति-तै pre. भुलकुयाचकार-चक्रै, &c.
+  perf. अशभुुल्कत-न Aor.
+
+भुल् 1 P. आत्रुमनै to run; भुलुति pre. शुभुल perf. अभुुलीत Aor
+
+भुस् 2 P. to breathe, to sigh, to hiss; भुसिति pre शुभुाष
+  perf. भुसिता p. fut. अभुुषीत् aor. शिभुषिषति des. भुसित ( शन्त
+  आभुषत ) p. p.
+
+श्वि 1 P. गतिवृदवयो: to go, to swell, to increase; भुयाति pre. शुशोव
+  or शिभुाय perf. भुवितै p. fut. अभुवत्. अभुयीत्, अशिभुियत् aor.
+  शुयुयात् ben. शिभुयिषति des. Pass.—शुयुतै pre. अभुयाति aor.
+  Cau.—भुावयुति तै pre. अशिभुवत-न, अशुशुवत-न aor. शून p. p.
+  भुवित्वा, उन्द्रुष ger.
+
+श्वैद् 1 A. वर्णै to become white; भुवैदतै pre. शिभुवैद perf. भुवैदिता p.
+  fut. अभुवैदत्, अभुवैदीष्ट Aor.

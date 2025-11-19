@@ -1,0 +1,51 @@
+---
+page_number: 403
+internal_page: 403
+chapter: "Parasmaipada & Ātmanepada"
+section: "parasmaipada-atmanepada"
+rules_starting: []
+rules_continuing: ["§ 664"]
+has_footnotes: true
+---
+
+धर्मोद्विवरते 'he transgresses his duty.' पवनचीरवेत: पराभीषा दन्दे-
+रुद्धरात च । Bhaṭṭi. VIII. 31; but वाष्पोद्वुवति 'vapour rises up.'
+With अपि it is Ātम. when used in the sense of the instrumenta
+of a vehicle; रथेन संचरते 'he moves in a chariot' (See Bh.
+VIII. 32); ह्वीत्त्यया संचरते शुगं Rāg. XIII. 19. 'now passes
+through the path of gods' पदा उद्धचरति.
+
+त्यज्—in the Causal takes the Par. सुत्यजयति
+
+जि*—when preceded by वि and परा, in the sense of 'to con-
+quer,' and 'to defeat' or 'to find unbearable,' respectively, is
+Ātम. विजयते, षेजुत् परजयते, अध्ययनाय परजयते 'gets tired of
+study;' त्वं राजाङ्मनातौ 'filling up the sky, &c' ता परजयमात्रं
+स्थ यदा 'her who was getting disgusted with, &c Bhaṭṭi.
+VIII. 9. 71.
+
+ज्ञा†—'to know' used intransitively by itself is Ātम. दर्शिषौ
+जनति (सत्रिषां उपादेव प्रवत्ते Sid. Kau. i. e. 'proceeds to perform
+a sacrifice having obtained ghee for it); with the preposition
+उप (in Ātम. in the sense of 'learning' and 'promising' denies'
+a hundred;' with प्रति in the sense of 'acknowledging or
+promising,' and with सम् in the sense of 'respecting,' it is also
+Ātम.; शुतं प्रतीजानाति 'acknowledges a hundred; रुत्जगीरा:शीत
+देवयत्ति प्रतीजानते 'promises the daily rite of Agnihotra' (i. e.
+on the condition of) the drawing of Hara's bow;' शुतं तंजानाति
+'looks for a hundred;' मातारं माङ्या समीजानाति 'thinks of his
+mother.' When this is used without a preposition or with
+the fruit accruing to the agent, it takes the Ātम. या जानाते;
+when a preposition is prefixed to it and it is used transitively,
+it takes the Par. समजानाऽऽ प्रजानाति शुतं:. In the Desiderative
+this root takes the Ātम.
+
+तप्‡—'to heat' takes वि or उद्, when used intransitively, is
+
+---
+
+## Footnotes
+
+* विपरास्यो दे: । Pāṇ. 1. 3. 19.
+† अपङृत दे: । यङुद्धीकाय । समर्त्तो:स्यायानग्नयाधे । Pāṇ. 1. 3. 44–46;
+‡ तपुङुतं दे: Pāṇ. 1. 3. 27. लिङमे दे: शुनिदूरादेये । Vārt.

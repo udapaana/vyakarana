@@ -1,0 +1,55 @@
+---
+page_number: 688
+internal_page: 688
+chapter: "Appendix II - Dhātukośa"
+section: "dhātukośa"
+rules_starting: []
+rules_continuing: []
+has_footnotes: true
+---
+
+126                   SANSKRIT GRAMMAR.
+
+वृज् 2 A. वर्जनै to avoid, to shun; वृक्तै pre. ववृजै perf. वजिष्युतै fut.
+  अवर्जीष्ट aor. विवर्जिषतै des.
+
+वृज् 7 P. वर्जनै to avoid, to choose, to turn away, to move, to
+  bend; वृणुक्ति pre. ववर्ज perf. वजिता p. fut. अवर्जीत् aor. विवर्क्ति-
+  षति des.
+
+वृज् 1 P. & 10 U. to shun, to abandon, to exclude &c.; वर्जुति,
+  वर्जयाति-तै pre. ववर्ज. वर्जयाचकार-चक्रै &c. perf. वजिता, वर्जयिता
+  p. fut. अवर्जीत् , अवीववृजत-न, अववर्जत-न aor.
+
+वृज्ज् 2 A. वर्जनै to avoid; वृकै pre दुर्जिष्युतै fut. अवृजिष्ट aor.
+
+वृण् 6 P. भोजनै to give pleasure; वृणुति pre ववर्णं perf. अवर्णीत् aor.
+
+वृत्* 1 A. वर्तनै to exist, to happen, to live on, to occupy &c.;
+  वर्ततै pre. ववृतै perf. वर्तिता p. fut वर्तिष्युतै, वर्त्स्युतै fut. अवृतत् ,
+  अवर्तीष्ट aor. वर्तीषीष्ट ben. विवर्तिषतै, विवृत्सति des. Cau.—
+  वर्तयतै pre. अवीवृतत-न, अववर्तत-न aor. वृत्त p. p.
+
+वृद् 4 A. वरणै to choose, to divide; वृद्युतै pre. ( See the above
+  root. )
+
+वृद् 1 P. & 10 U. भाषायां दोंक्षौ च to speak, to shine; वर्दुति, वर्द-
+  यात-तै pre. ववर्द. वर्दयाचकार-चक्रै &c. perf. अवर्दीत् , अवीवृदत-
+  न, अववर्दत-न aor.
+
+वृध् 1 A. to grow; वृधतै pre. ववृधै perf. वर्धिता p. fut. वर्धिष्युतै,
+  वृत्सीयतै fut. अवृधत्, अवर्षीष्ट aor. वर्धीषीष्ट ben. वृद्ध p.p. विवर्धिषतै,
+  विवृत्सति des.
+
+वृध् 1 P. & 10 U. भाषावां दोंक्षौ च to speak, to shine; वर्धुति, वर्धु-
+  यात-तै pre. ( See वृद् above ).
+
+वृध् 4 P. वरणै to choose; वृश्युति pre. ववर्धं perf. वर्षिष्युति fut. अवृ-
+  दत् aor.
+
+वृष् 1 P. सैचनिसंगतिषु to rain, to pour forth, to torment;
+  वर्षुति pre ववर्ष perf. वर्षिता p. fut. अवर्षीत् aor. विवर्षिषति des.
+  वृष्ट p. p.
+
+  * Is is also Parasmaipadi in the 2nd future, conditional, aorist,
+  ªand desiderative.

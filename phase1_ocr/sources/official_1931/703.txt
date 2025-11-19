@@ -1,50 +1,45 @@
-[Internal page: 689]
+[Internal page: 703]
 
-                     DHĀTUKOŚA.                               127
+                     DHĀTUKOŚA.                               141
 
-वृष् 10 A. शाक्तिकभ्युयनै to have virile power; वर्षयतै pre. वर्षयिष्युतै
-   fut. अवीवृषत, अववषत aor.
+   असिचत-न, असिक्त aor. सिच्युयात् , सिक्षीष्ट ben. सिसिक्षाति-तै
+   des. Pass.—सिच्युतै pre. असैचि aor. Cau —सैचयाति-तै pre.
+   सिक्त p. p.
 
-वृह् 6 P. उद्युमनै to exist, to work; ( see वृढ् ).
+सिद् 1 P. अनादरै to disregard, to despise, सैदुति pre. सिसैद perf.
+   असैदीत् Aor
 
-वृ 9 U. वरणै to choose; वृणाति, वृणीतै pre. ववार, ववृर perf. वरिता,
-   वरीता p. fut. भुवरीष्ट, अवर्षीष्ट, अवार, अवरत्, अवरीष्ट, वरीष्ट,
-   वृषीष्ट ben. वुवुरीति-तै, विवरिषाति-तै, विवरीषाति-तै des.
+सिषु 1 P. to go, to drive off: सैषुति pre सिषेषु perf. सैषिता p. fut.
+   अषैषीत् aor सिष्युयात् ben Cau,—षैषुयाति-तै pre. असीसिषत-न
+   aor. सिसिषिषति, सिसैषिषाति des सिद्धु p. p. सिसिष्ठा, सैसिषा-
+   सीष्ट ben.
 
-वै 1 U. वैत्तुतानै to weave, to cover; वयाति-तै pre. उवाय, ऊयै.
-   ऊवै, ववौ, वेव perf. वाता p. fut. अवासीत् , अवाषत aor ऊयुयात् ,
-   वासीष्ट ben. विवायाति-तै des. Cau,—वाययाति-तै pre. Pass,—
-   ऊयुयतै pre. अवायि aor. उत p. p. उत्वा, उयाय ger.
+सिप् 1 P घोषै ग्रास्युयै च to ordain, to command, to turn out
+   auspiciously; सिषेप ( सिसैषु, सिसैषु 2nd sing. ) perf. सैतिता.
+   षैत्ता p. fut. अषैषीत्. अषैषत् ( अषसिष्टाम्. अषैचाम dual )
+   aor. सिषयति. सिसीसति, सिसासैषाति des.
 
-वैप् 1 U. प्रतिदानविचारतानिज्ञासत्सादिप्रुययुञपै to go, to know, to
-   contemplate &c ; वैपाति-तै pre विवैप, विवैषं perf. वैषिष्युति-तै
-   fut. अवैपीत्, अवैषीष्ट aor.
+सिष् 4 P. सगदौ to reach, to attain one's end, to succeed, to ac-
+   complish; सिष्युति pre सिषेष perf षैद्धा p fut. असिषत् aor.
+   सिसीसति des. Cau,—षायाति-तै ( असुयुाति-तै to cause धातुं to
+   ascertain ).
 
-वैश् 1 A. याचनै to beg, to solicit; वैशतै pre. अवैषीष्ट aor.
+सिन्ध् 1 P. सैचनै to wet, सिन्धुति pre. सिसिन्ध perf. सिन्धिता p. fut.
+   असिन्धीत aor.
 
-वैप् Same as वैप which see.
+सिव् 4 P. तन्तुसन्तानै to sew, to write, to join; सीव्युति pre. सिषेव
+   perf. सैविता p. fut. असैवीत् aor. सीयुयात् ben. Pass.—सीव्युतै
+   pre. असेवि aor. Cau —सेवयाति ger.
 
-वैप् 1 A. कम्पनै to tremble, to quake; वैषतै pre. विवैष perf. वैषिता
-   p. fut. अवैषीष्ट aor Cau.—वैपयति-तै pre. अविवैषत-न aor.
-   विविषिषतै des.
+सीक्ष् 1 A. सैचनै to sprinkle, to go, to move; सीक्षतै pre. सिसीक्षै
+   perf. सीक्षिता p. fut. असीक्षीष्ट aor.
 
-वैल् 1 P. चलनै to shake, to be wanton; वैलति pre. विवेल perf.
-   वैलेता p. fut. अवैलीत् aor.
+स 1 P. प्रसवैभरणयो: to permit, to prosper; ससुति pre. सुसाव perf.
+   सोता p. fut. असासीत् , असौषीत् aor. सुसूयाति-तै des.
 
-वैल् 10 U. कालप्रदैशौ to count the time; वैलयाति-तै pre. वैलयाचकार-
-   चक्रै perf. वैलयिता p. fut. अविवैलत-न aor.
+स 2 P. प्रसवैभरणयो: to allow, to possess power or supremacy;
+   सौति pre. सुसाव perf. सोता p. fut. असोषीत् aor.
 
-वैल् 1 P. चलनै to go, to shake; वैलति pre. विवैल perf. अवैलीत् aor.
-
-वैय् 2 A. गतिमादनार्दै to go, to obtain, to be pregnant, to
-   pervade; to eat, to dry, to shine; वैयति pre. अवैषीष्ट aor.
-   ( Vedic ).
-
-वैद् 1 A. वेष्टनै to surround, to wind round, to dress; वैदतै pre.
-   विवैद perf. वेदिता p. fut. अवैदीष्ट aor. Cau.—वैदयाति-तै pre.
-   विविदिषतै des.
-
-वैष् 1 A. प्रयत्नै endeavour; वैषतै pre. विविषै perf. अवैषीष्ट aor.
-
-वै 1 P. शोषणै to dry, to be weary; वायुति pre. ववौ perf. वास्युति
-   fut. अवायीत् aor.
+स 5 U. स्रवणौङननादनुसूरासुयाविषु to sprinkle, to pour out, to
+   bathe, to press out juice, to distil; सुनोति, सुनुतै pre. सुसाव,
+   सुसुवै perf. सोता p. fut. असासीत्, असोष्ट aor. सुयुयात्, सौषीष्ट ben.

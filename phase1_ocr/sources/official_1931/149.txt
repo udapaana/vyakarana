@@ -1,18 +1,18 @@
-[Internal page: 131]
-§ 217 ]                    TATPURUSHA.                    131
+[Internal page: 149]
+§ 245 ]                    TATPURUSHA.                    149
 
-§ 217. Additional instances of the aluk of the Loc.
+GENDERS OF TATPURUSHA COMPOUNDS.
 
-(a) Aluk is necessary in the case of the words—(1) गौ and शुभू. followed by विधर, as गावि विधरः, stationary in the sky, युवि विधर: arm in battle; (2) हृद् and दिव् followed by स्पृक्; हदिस्पृक्, दिविस्पृक् (हदयं दिवं च स्पृशतीति); (3) अन्त and मृध् followed by गज; मध्ये-गुरः; अन्तैगुरः and (4) words expressive of parts of the body except मुर्धन् and मस्तक and not followed by कारः; कर्णेकाल्क, डरसिलोम (having the hair on the breast: Bah.), but मूर्धे-मस्तक-शिखं; छुले कामो अस्य छुसकामः:.
+§ 245. *As a general rule a Tatpurusha compound follows the gender of the final noun.
 
-(b)* When a noun in the Loc. is compounded with a verbal derivative and the whole is a name, aluk takes place in most cases; e. g. स्तम्बेरमः (स्तम्बे a kind of grass रमते अत्र) an elephant; कर्णेजपः one who whispers into the ear, a spy; स्तैचरः a heavenly being; पेंकर्हुं a lotus; कुशोशयम्, जलेशयः a fish; but कुरुचरा; सरोजम् or सरोजञ्ज &c.
+Exceptions † —
 
-(c) There is optional aluk of the Loc. of a word expressive of time when compounded with काल and words ending in the affixed तर, तम and तन; पूर्वाह-कु-काले; पूर्वाह-कू-सरे &c. पूर्वाह-कू तने.
+(a) Compounds with प्राण and आपद for their first member and the Prādi compounds follow the gender of the words they qualify; प्राञ्जीविकः नरः, प्राञ्जीविका स्त्री, निष्कौशाम्बिः पुरुषः &c.
 
-(d)† When the compound is not a name, aluk is necessary when ज comes after प्रादु, घरद्, काल and दिवु; and optional when it comes after वर्ष, क्षर, घर and वर; as प्राद्यषि-घरदि-काले-दिवि-जः; बर्षेजः or वर्षजः produced in the rainy season, &c.
+(b) A Tatpurusha ending in राज्ञ, अह्न and शह is masculine, except when राज्ञ is preceded by a numeral and शह by षुण्य and सुदिन; e. g. पूर्वैराज्ञः, मध्याह्नः, सराहः, नवराज्ञम्, गणरात्रम्, षुण्याहम्, सुदिनाहम्; also that ending in पथ (substituted for पथिन्, vide § 280) preceded by a numeral or an indeclinable; as त्रिपाणां पन्थाः त्रिपथम्, विरुपः पन्थाः विपथम्, a bad or a wrong way; but सुपन्थाः, अतिपन्थाः as they do not end in पथ; (see § 285)
 
-Exception†:—No aluk takes place in the case of verbal derivatives ending in इन् and the words सिद्ध, वद्ध, and स्थ in the ordinary language; as स्थाण्डिलञागी 'an ascetic,' सादुम्रस्थितिङ, चकबद्धः; समस्थः; but छणोऽस्यावरेश: &c.
+(c) ‡A collective Dwigu is neu.; but that ending in अ is generally feminine, and that ending in आ is optionally so in which case it takes the termination ई; पञ्चगवं a collection of five cows; झयाणां लोकानां समाहारः त्रिलोकी; but पञ्चपात्रम्, त्रिशुवनम्, चतुर्युगम् &c.; पञ्चानां सहानां समाहारः पञ्चसहौ, पञ्चसद्धम्. The न of final अन् is dropped and the Dwigu is optionally feminine पञ्चतक्षी-क्षम्, (fr. पञ्च+ तक्षन् a carpener).
 
-* तत्रुपेष छुति बहुलम् । Pān. VI. 3. 14.
-। प्राह्दुशर्दुकालदिवौं जे । विभाषा वर्षेक्षरघरवरापु । Pān. VI. 3. 15.16.
-‡ नेन्तिइद्धुबद्धुघातिषु च । स्थे च भाषायाम् । Pān. VI. 3. 19. 20.
+* पूर्वलिङ्गं द्वन्द्वततुरुषयोः । Pān. II. 4. 26.
+† द्विग्रुसाब्दापञ्चाल्लेपुवेभातिसमासेषु । Vārt. राज्ञाहाहः धुसि । Pān. II. 4. 29. संख्यापूर्वे राज्ञे क्लीवम् । Sid Kau. षुण्यसुदिनाभ्यामह्नः क्लीवतेश्र । यथः संख्याडव्ययादेः । Vārtikas.
+‡ स नपुंसकम् । Pān II. 4 17. आकारान्तोत्तरपदो द्विगुः ङीधामिटः । आवन्तौ वा । अनौ नलोपक्ष वा द्विगुः ङीधाम् । पात्राथन्तस्य न । Vārtikas on ibid.

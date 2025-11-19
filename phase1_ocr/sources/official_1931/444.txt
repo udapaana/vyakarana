@@ -1,40 +1,41 @@
-[Internal page: 430]
+[Internal page: 444]
 
-432                  SANSKRIT GRAMMAR.                   [ § 709-712
+446                  SANSKRIT GRAMMAR.                   [ § 761-768
 
-Roots.   Par.        Atm.           Passive.
+        ( b ) THE ADVERBIAL INDECLINABLE PARTICIPLE
 
-चर्-चोरयिष्यद्   चारयिष्यमाण    चोरयिष्यमाण or चोरिष्यमाण
-गम्-गमिष्यद्    संगमिष्यमाण     गाम्यमाण
-जि—जेष्यद्      विजेष्यमाण      जेष्यमाण, ज्ञायिष्यमाण
-छु—करिष्यद्    करिष्यमाण       कारिष्यमाण, कारिष्यमाण
-श्रु—श्रोष्यद्     संश्रोष्यमाण      श्रोष्यमाण, श्राविष्यमाण
-एष्—A.        एषिष्यमाण       एषिष्यमाण
-वद्—वोत्स्यद्    वोत्स्यमान       वोत्स्यमान
+                            OR
 
-Similarly तिपाट्रिदेर  Desi.  Base of  पट्-पिपादिष्यद् ,  पिपादिष्यमाण
-&c.: बोबुध् Fre. B. of बुध्-बोबुधिष्यद् , बोबुधिष्यमाण, &c.
+                    The Gerund in अम् .
 
-§ 710.  These Participles are declined like  words  ending in
-त् and अ.
+§ 761.  There is another  Indeclinable Participle having the
+same sense as that in स्या,  formed  with  the affix अम् .  Before
+this the vowel of the derivative verbal  base  generally  undergoes
+the same changes as it does before the इु of the  Pass.  Aorist
+3rd sing.; नी-नयाम् 'having  carried  or  led,'  दा-दायाम्  'having
+given,' यू-भावाम्, पिपु-भेदाम् , मह्-भाह्राम् , गम्-गमाम् , &c.
 
-    ( f ) Potential Participles ( and Verbal Adjectives ).
+§ 762.  This Participle is generally used at the  end  of com-
+pounds; य कोष्चारं हत: 'he was pelted to  death,'  बुन्दुयाहै  वुहीत
+( Vīks. I. 1. ) She was taken a captive;' प्रुक्षायुं प्रसुनमाम ' having
+( Bhaț̤ṭi. I. 2. ) 'He totally  exterminated his enemies, &c.'
 
-§ 711.  The Potential Participle  is formed by means of the
-affixes *तव्य, अनीय, य and rarely एलिम्, added to a root or deriva-
-tive verb.  This is  Passive when the verb is transitive and
-impersonal when the verb  is  intransitive.  It is also used like
-an adjective when denoting fitness, &c.
-
-            ( 1 ) Participles in तव्य and अनीय.
-
-§ 712.  The  affixes  तव्य  or  अनीय  are added  to  roots  or
-derivative bases in the sense of ' must be fit to be,' &c.   Before
-these the ending  vowel  and  the  penultimate  short  of a root
-take their Guṇa substitute,   Before तव्य  Set roots take इ, Anit
-roots do not, and Wet roots  take  it optionally.  Before अनीय
-penultimate ऋ is always  changed  to अर्  and  not  to  र ( as it
-sometimes does ); e. g.
+§ 763.  The participles in स्या and  अम् * when repeated yield
+the sense of repetition of the action  or  condition  expressed by
+the verb; स्हृत्वा स्हृत्वा or स्मृत स्मारुयुं  'having  repeatedly remem-
+bered; पीत्वा पीत्वा or पाय पायाम्  'having drunk  again  and again;'
+similarly अच्युत्वाच्युत्वा or अचुयचुयाम् or भीजुत्पोजुत्य or  लोयुलयुत्यमनैत्, छुमुयु-छुमुयुम
+आवुद्धु , गष्य-गन्त्वा  गन्त्वा or  गात गामुमु or गत गमुम् , छुत्युस-छुतुयुस्त्वा छुतुयुस्त्वा
+or द्युमुं छुर्युमुं or छुमुं छुमुयुं , पुठुनुं पुठुनुम् , जाग्-जागुरं जागरुम् , † &c.
 
 _________________________________________________
-*तव्यस्त्याथनीर्य्यै: । Pāṇ. III. 1. 96. क्तोळुमर् उपुसंस्थानम् । Vārtika.
+* आतौर्युकोऽयुङु । Pāṇ III. 4. 22.
+† At the end of compounds this may  not be repeated and yet
+have the sense of repetition; as in
+    'छुताकूयातों कुहुमान्युङुहातुं नयुवुरुकन्दुर्घुयुगुरुवुयूड्रुयुं ।
+     कुयुङुदुलोचारुशितोन्वैङुनं काकुल्यः ईंदुरैसमुगुमान आस्स u' Bhaț̤ṭi. II.11
+The descendant of Kakutstha, smiling gently, repeatedly
+bending down the creepers  would  pluck  their flowers,  wading
+through every stream ( that he came across ), would sip the
+waters, and seating himself on every  charming  slab  would
+remain there ( in admiration of the scenery ).

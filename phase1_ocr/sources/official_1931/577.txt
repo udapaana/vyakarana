@@ -1,41 +1,45 @@
-[Internal page: 563]
+[Internal page: 577]
 
-                     Appendix II.
+                     DHĀTUKOŚA.                               15
 
-                     DHĀTUKOŚA.
+कङ् 1 A. to go; कङ्कतै pre. चकङ्कै perf कङ्किता p. fut. अकङ्कि्ट
+   aor. कङ्कित p.p.
 
-                     Abbreviations.
+कच् 1 P. रर्शै to sound; कचति pre. चकाच perf कचिता p. fut.
+   कचिष्युयति fut अकचिष्युयत् con. अक-का-र्शीत् aor.
 
-Pre. Present हर्. Im. Imperative हर्. Imp. Imperfect अहर्.
-Pot. Potential हुर्युयात्. Perf. Perfect हुहार. P. f. Periphrastic fut.
-or 1st future हृत्र. Fut. simple or 2nd Future हुर्. Con. Condi-
-tional अहृर्युयत्. Aor. Aorist अहार्. Ben. Benedictive शुसारिड्युयुर्. Cau.
-Causal हारुय. D, or Des. Desiderative जिहृर्. Fr. Frequentative
-or Intensive जेहूर्युयुर्. P. Parasmaipadī, Ātmanēpadī; P. Ā. both
-yapada; Pass. Passive; p. p past Passive participle Inf. Infi-
-nitive. Ger. Gerund. The figures 1, 2, &c. after the roots refer
-to the conjugations to which the roots belong. Pre. p Present
-Participle; अरन् when the root belongs to the Param. Ātm.
-Pot. p, Potential participle.
+कचु 1 A. बन्धनै to bind; कचतै pre. चकचै perf, कचिता p. fut.
+   कचिष्युयतै fut. अकचिष्युयत् con. अकचिष्टत् aor.
 
-अंक् 10 U. विनाञ्जे to distribute; अंसयति-तै ( also अंसरयति-तै )
-  pre. अशांयचकार—चक्रै—शासं—चश्युख per. अशांसता P, fut
-  शांशिर्युयत् con. शांसितुमिन Aor. अंशुपाद, अंशुपित Ben.
+कट् or कुट्ट 1 P. to go; कटुति or कुट्टति pre. चकाट or चकट perf.
+   कटित or कुट्टित p. fut. कटिष्युयति or कुट्टिष्युयति fut अकटिष्युयत्
+   or अकुट्टिष्युयत् con. अकटीत or अकुट्टीत aor.
 
-अंक् 10 U. like the above with the only difference of युद्र for दु.
+कट् 1 P. छन्दुकंबनै to live in difficulty; कटति pre, कट्युष्युयति fut,
+   अकट्युत-अकाट्युत Aor.
 
-अंह् 1. A. गतौ to go; अंहेत Pre. शांहै Perf. शांहिता. P. f. अंशिहुद्वु
-  Aor. अशैंहुष्ठ; Can—अंहयति-तै Aor. अंशैहिसत्.
+कण्ठु 1 P. 10 U. आकाङ्क्षै to remember with regret; कंठति-कंठुयुति-
+   तै pre, चकंठ, कंठुयाचकार-चक्रै &c. perf कंठिता or कंठुयिता
+   p fut. कंठुयुति, कंठुयिष्युयति-तै fut अकंठियुत or अकंठुयिष्युयत-न
+   con. अकंट्युत, अचकंठुत-न aor.
 
-अंहु 10 U. भाशनै to shine; अहरिति pre. अंकुर्चकार—चक्रै, &c,
-  perf. अंहुरिता p. fut शांर्युहन-न् Aor. अशारु. अंर्युरवीट ben.
-  अहूहुदु inf. अहित. p. p.
+कत् 1 A. शोके to be anxious ( with उद् ); कंततै pre. चकतै perf.
+   कंतिता p. fut. अकंतिट aor.
 
-अक् 1. P. कुटिलायां गतौ to move tortuously; अकुति pre. आक perf.
-  अकिता p.f. अकिस्युयति fut. आकोद, aor., Can.-अक्युयति-तै. अक्ति p.p.
+कप् 1 U. संकै to be proud; कंपति-तै pre, चकंपु or चक्रै perf.
+   कंपिता p. fut. कंपिष्युयति-तै fut. अकंपिष्युयत-न con, अकंप्युीत-
+   अकंपिष्टु aor.
 
-अक्ष् 1 & 5. P. to reach, to pervade, to accumulate; अक्षति·अक्षुणोति
-  3 sing. अक्षनै·अक्षे p.f. 2 sing. अक्षर्णि·अक्षुणोसि. 3 pl. अक्षुन्ति·अक्षुण्वुन्ति
-  अक्षनं· अक्षुणुवं. pre.p. अक्षन्·अक्षुण्वुन् . अक्षित-अक्षुणीत Imperf. अक्षुस्युं·
-  अक्षुणुयात. 3 sing. अक्षुषत·अक्षुणुयात. 2 sing. अक्षुसीं·अक्षुणुयां. Impera. अक्षसुं·अक्षुयात
-  अक्षसु·अक्षुणुयाः. 3 sing. अक्षतु·अक्षुणुयात् pot. अवक्ष perf. आक्षिमा·अक्ष
+कम्पु 10 U. चैदनै ( चैदर्यं विदुर्षुकर्ण ) रक्षणै च to separate the chaff,
+   to protect; कंपुयति—तै pre कंपुयाचकार-चक्रै, &c perf, कंपु-
+   यिता p. fut. कंपुयिष्युयति-तै fut, अचकम्प्युत-न aor.
+
+कण 1 P. आतिस्वरै to cry in distress; कणुति pre. चकाण perf.
+   कणिता p. fut. कणिष्युयति fut. अकणिष्युयत् con. 3 single अका-
+   णीत् Aor.
+
+कृण् 10 U. निमीलनै to wink; काणयति-तै pre. अचीकणत-न. अचका-
+   णत-न Aor.
+
+कणड् 1 U. माच्चविषैणै to rub, to scratch; कंडुयति-तै pre. अकण्डु-
+   षीत्, अकंडुषीष्टु Aor. कणड्युवायत्, कणड्युषीष्ट ben.

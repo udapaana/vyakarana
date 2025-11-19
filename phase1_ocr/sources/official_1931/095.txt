@@ -1,37 +1,44 @@
-[Internal page: 75]
-§ 122-123 ]                    DECLENSION.                    75
+[Internal page: 95]
+§ 139-143 ] PRONOUNS AND THEIR DECLENSION.                    95
 
-syllable ). Thus by the former accentuation, the स् of the nom.
-affix is dropped, ङ् being substituted for स् by the rule
-नामाखरे ( वा० II. 3. 48 ; Pan. VI. 1. 168 ), and accordingly we
-have दिङ्मुक् = दिङ् or दिङ्, ङ् being changed to ं before the initial
-letter of the following words by व्यत्ययस्य ( Pan. VII. 4. 87 );
-thus दिङ्मुखम् ( facing the quarter ), दिङ्मूढ ( bewildered as regards
-direction ). If, however, we accent the last syllable, then
-we have दिङ्मुक् + स् by नामाखरे ( Pan. VI. 1. 168 ), and we get
-दिङ्मुक् + स् → विसृजनीय → दिङ्मुक् or दिङ्मुट् ॥ The voc. of दिश्
-( without मुट् is दिक् ॥ )
+I.   क्या        काभ्याम्       काभिः
+D.   कस्यै       ,,            काभ्यः
+Ab.  कस्याः      ,,            ,,
+G.   कस्याः      कयोः          कासाम्
+L.   कस्याम्     ,,            कासु
 
-( 3 ) Neuter दिश् adds मुट् before the case-affixes of the
-nom., voc., and acc. sing. ( पूर्वमुडगमः, Pan. VII. 1. 98 ), and thus
-we have दिम् + क् । = दिम्क् or दिमुक्, but it is not in use in the सं०
-॥ It is customary to use in this sense, the neuter उदक् ( 'water',
-Lat. "udo") derived from the root उन्द् by the affix क्विप् ( उद्गति
-उदक्, Pan. III. 2. 61 ). Before the case-affixes beginning with
-a consonant this base becomes उदग्, and before case-affixes
-beginning with non-nasal mutes, it becomes उदग् ( उदग्भिः or
-उदङ्भिः, उदग्भ्यः or उदङ्भ्यः, उदक्षु ) By the special rule उदपस्सु ततो
-लोपः सकारस्य च ( Pan. VIII. 3. 7 Vart. ) the स्-विसर्ग in the nom. pl.
-is dropped, and we have उदञ्च्, उदञ् च or उदगि ( nom. plu. = northern
-quarters). Similarly the acc. pl. is उदचः or उदङ्, &c.
+                Neu.
 
-§ 123. Tabular representation of the declension of दिश्.
+N. & A. किम्     के            कानि
+The remaining cases like the mas.
 
-                        FEMININE.
+        5—Reflexive Pronouns.
 
-Singular.
+§ 140. The sense of the reflexive pronoun is, in Sanskrit,
+expressed by the word आत्मन् 'self' which is invariably used
+in the masculine gender and singular number, and by the
+reflexive adverb स्वयम् e. g. यत्र दुर्योगात्मानं मया स्वयं वाह्मने:
+"they all (the wives of Das'aratha ) saw in dreams that they
+were guarded by dwarfs;" so म or सा छलाप्राप्तिम् आत्मानम्-
+गच्छति । राजा स्वयं समरमुपि जगाम, &c
 
-    Nom.    दिक् or दिङ्        Voc.        दिक्
-    Acc.    दिशम्            Ins.        दिशा
-    Dat.    दिशे            Abl.        दिशः
-    Gen.    दिशः            Loc.        दिशि or दिक्
+6- Indefinite Pronouns.
+
+§ 141. Indefinite pronouns are formed by the addition
+of चित् or चन or अपि and sometimes of किंत् to the various
+cases of the pronoun किम् in all the genders; e. g. क:श्चित्, कश्चन
+a certain one, कोऽपि, केनापि, कयाचन, कर्थापि, ख्यापित, &c.
+
+§ 142. The terminations given above are also added to
+interrogative adverbs in the sense of indefiniteness; as कदाचित्
+at some time, क्वाचन, कतिचित् some, कोऽसत् somewhere, &c.
+
+        7—Correlative Pronouns.
+
+§ 143. Correlatives are formed by the affixes यत् added
+to यद्, तद् and एतद् , and यत् added to इदम् and किम् in the sense
+of 'as much as;' and ईश or इश in the sense of 'similar to';
+तद्, एतद् and यद् become ता, एता and या respectively before
+these, and इदम् and किम् इ and कि before यत् and ई and की
+before ईश or इश ; e. g. तावत् ( तःपरिमाणमस्य ), ईयत् ( ईद् परिमाण-
+मस्य ), ताइश like that, ईइश, like this, कियद् how much, &c.

@@ -1,0 +1,53 @@
+---
+page_number: 503
+internal_page: 503
+chapter: "Syntax"
+section: "syntax"
+rules_starting: ["§ 867", "§ 868", "§ 869", "§ 870"]
+rules_continuing: ["§ 866"]
+has_footnotes: true
+---
+
+or devoted to' are construed with the Locative or the Genitive
+आयुकुत्युः कुयुशुलुयो वा हरिपूजुनुनं हरिपूजुनुस्युयु वा appointed to worship
+Hari; कुयुशुलुयोऽनेर्युरुयुरुयुयुयुयुयुट्युयुङु दुयूयुकुयुर्णुनि । (Bhattṛi. VIII. 115.) In
+other senses they are construed with the Locative; आयुकुयुनो गोयु
+ज्युयुड्युच् a bull harnessed to the yoke of a carriage; कुर्मुणि कुयुशुलुयुः
+expert in the performance of an act.
+
+§ 867. *When an object or an individual is to be distinguish-
+ed from a whole class, the Locative or the Genitive is used;
+गवुयुयुं गो मुयुयुयुयु श्रुश्युयुः (see Manu S. I. 96. ), गोयुयु गवुयुयो वा कुयुयुयुयु
+वुहुयुयुरिरु; गच्छुत्युयो गच्छुत्युयु वा यावुचु युनियुः छुयुङुरुयुयुर्णों छुयुत्युङु वा भैयुयुः युयुयुदुट् ।
+(Sid. Kau.)
+
+§ 868. † The words सायुयु and निपुयुणु, not preceded by the pre-
+positions अनु, परिंङु and यति, are used with the Loc. when the
+sense of adoration is to be conveyed; यायुयुरिंङ तिष्युपुरितुयोरुयुति the son is par-
+tially disposed towards his mother; but निपुयुणुः रात्युयुः भूयुयुः a clever
+servant of the king. When preceded by the prepositions अनु, परिंङु
+and यति these are used with the Accusative; सायुयुयुनुवुयुणो भायुयुतुरुयुं
+यति युयुदुट् वा.
+
+§ 869. ‡ With the words युसित and उत्युकुच्, the Locative or
+the Instrumental is used; युसित उत्युकुयो वा हरिणुयु हरौ वा intent
+upon Hari; युन्युयु यसित्युनं यत्युयुयुं युसित्युते वा येरीयुयुदुयुकुयुयुयु, a woman gets
+anxious (or restless) when her husband goes out; तेज्युस्युविभुवुदु-
+कुयुत्युयुट् Kir. XVI. 7
+
+§ 870. § When the names of Nakshatras are used as showing
+a particular time the Locative or the Instrumental is used; युयुङुनै-
+जुयुयुरोयुयुदेनुयो भुयुणुनं विसुर्जुनैदु । युयुङुनै अयुयुणै हुनुति वा । (Sid. Kau.)
+
+---
+
+* यवुत्युयु निजुयोर्युयुयुयुट् । Pāṇ. II. 3 41. जुयुतिदुयुणुयुक्तुयुयुयुर्युत्तुयुयुणुनै सहुयुरुयुयुयु-
+देकुनुयुस्युरु युयुयुकुत्तुयुणि विबुरियुयुयुयुट् । Sid. Kau.
+
+† सायुयुयुतिपुयुणुयुयुयुयुयुयुवुर्णों सवुयुयुयुयुनुयुतुः । Pāṇ. II. 3, 49. अयुयुरुयुदितुयुयुरुयुति
+चुकुच्युयुयु । Vārt.
+
+‡ युसितोत्युकुयुयुयुयुयुर्युणों द्युदुतीयुयु च । Pāṇ. II. 3. 44. तियुयुयुनुविद्युयुयुयु सस्युर्णों ।
+कुरुयुयुनुविवुद्युयुयु दुहिनै। Bharata on Bhattṛi. VIII, 117.
+
+§ नकुत्युरुनं च दुष्टि । Pāṇ. II 3, 45.

@@ -1,42 +1,43 @@
-[Internal page: 422]
+[Internal page: 436]
 
-424                  SANSKRIT GRAMMAR.                   [ § 685-686
+438                  SANSKRIT GRAMMAR.                   [ § 731-736
 
-Roots.  P. P  Ptc.          Roots.  P. P. Ptc.
+ह्रुळे: 'The plough to be pulled with great force,' चलेन कट्यक्ष:; in
+other cases these take the affix यत् ; विधेय, वेतीय, जेय.
 
-एष्-एषित 'increased '        बोषय् can  Base of भुष् , बोषित
-                             'made to know.'
-कम्प्-कम्पित 'shaken.'         चिकीर्ष des. b. of  कृ;  चिकीर्षित
-                             'desired to do.'
-चुष्-छुरित 'stolen, deceived ' बोबुष् Atm Fre  Base of भुष् ,
-                             बाबुधित ' frequently known '
-मृह्-प्रहृत 'taken.'           बोबुय—Par. Fre. Base of भू,
-                             बोभूत &c.
+§ 732.  The following  words  are  derived from  the  root  यहु
+with the affix क्यच्:—अवुयहो; मुयुहो,  पदै 'two  technical  terms  in
+grammar;' मुडुकु: ' birds restrained from free motion, such as
+parrots, &c. '    प्रवायुदेवायेय    परोत्तभ्युक्ता   इपुक्षे । Sid  Kau,
+ग्रामयुद्धा सेना ' an army  stationed  outside  a village' ; आर्यूदुहुद्धुते
+आयुयुद्धै: तिस्वामुद्धिव इत्यर्थै: ( Sid.  Kau. ) ' siding with the noble. '
+See Rāg. II. 43.
 
-Exceptions:—इस्, इष्, कृष् , 'to go, to till,' &c., चित् 'to know
-to observe,' &c., विद्, मिद्, स्तृ, भृत्, भृष्, भी, पी, चाय, स्यात्, प्लिह्य,
-उष्ट्, ङूत्, दीष्, मुस्, पुन्.
+§ 733.  The roots छु and  दु  take  both  क्यप्  and  एयत् ; छुय्य,
+कार्य; दुयु; यर्य 'what  ought  to be chosen, best,' &c.
 
-N. B. There are many Set roots which reject the intermediate
-इ but as some of them  form  their  P. P.  participles in  न and
-others irregularly, they will be given in their proper places.
+§ 734. यञ्च् in the sense of ' to  be harnessed ' takes the  affix
+क्यप् and changes its final to री ; पुयुय: गो: ' a bull to be harnessed
+to the yoke;' in other sense it takes the affix त्; पुङो.
 
-§ 686.  The following roots insert इ optionally:—
+               By means of the affix घ्यत्.
 
-( a ) मूष् , सन , पुष् , दुष् , सुष् , छुष् , जुष् , रुष् , अष्य , शुष् , with
-स्तु , स्वप् with आ, and हुष् 4. 1. Par. when used with लोमन् ' the
-hair,' or when it means 'to be surprised or disappointed,' दान,
-इत्यस्, ( see § 686 a ), चल्, कुल्, कुदु Bh. VIII  8;  स्व, भुषु ' to do,
-'wasted, perished,' द्वारित: स्पृष्ट, स्पृशित: छुष् ,  छायित: शुत,  ज्वारित:
-रुष, शुनित; आल्त ( See § 696 a ), म्रास्: सहुयुष् सहुलूयित; आस्वाप्त,
-आस्वपित; हृष्ट-हुर्षित-हीमुन् ' horripilated with joy,' हुष्ट-हुर्षितौ मेव:
-हुर्ह्यन्नित:-बहीसुतौ यौ.
+§ 735.  Roots ending in ऋ, and those ending  in  a  consonant
+take the affix घ्यत् (य) in the same sense  as क्यद् . Before this  affix
+the ending चु and व of a root are changed to वृ and  यु  respecti-
+vely and the  final vowel and  the penultimate अ take Vṛiddhi
+substitute; any other penultimate vowel generally takes  Guṇa.
 
-( b ) किञ्य and य take  इ  optionally  before  त्  and  स्या;  किङ्,
-किङ्गित: मुस्, गतित.
+छु—कार्युं 'what ought to be done,'  पू—पार्युं ' what ought to be
+worn,' दा-देय: हृ-हार्युं; पद्-दुरु-पार्यू: ' what is to be thought of,' &c.;
+वत्-वाच्युं ' what is meant in a sentence, ' पच्—पाच्युं  'what is  to
+be cooked,' वुज्—भोज्युं ' what is t₫ be purified,' &c.
 
-( c ) The following roots admit of इ optionally before त् when
-the P. P.  Participle is used impersonally,  or when it conveys the sense
-of beginning to  perform  the action or to undergo the condition
-expressed by the root; मुस् , स्मर् , पुष् , फल्, शिह् ,  वृत्तु् ,  स्पृश् , 1.
-4. cl. स्थु-च्युर् , एज्-चूर्, विष्दु and ष्दिवु I.  4.  P.  I  A.; स्मृद्-प्रसृत-
+§ 736.   The root वुत् when preceded by अमृ ' with' takes the
+affix घ्यत् before which the penultimate  अ is optionally  changed
+to Vṛiddhi; अमृ रुङु छुवातोउत्वा चन्ना:छो अधुवुद्धुवा or वाञुया 'the day
+on which the sun and the moon are with each other' i. e.  are in
+conjunction.'
+
+(a) यूज् when preceded by  पानि or the preposition  समत्  takes
+the affix घ्यत् ; as पाणिस्यो डुयुयोऽ पाणिगुस्योऽ रुज्य:; similarly समवुसुयुर्युं.

@@ -1,49 +1,47 @@
-[Internal page: 640]
+[Internal page: 654]
 
-78                   SANSKRIT GRAMMAR.
+92                   SANSKRIT GRAMMAR.
 
-पिस् 1 P. to go; पैसुति pre. पिपेस perf. पैसिता P. fut. अपैसीत Aor
+स्लुोक्ष्( see    ,, भुुाक्ष्).  }
+स्लुाष्( see    ,, भुुाष्).  } changing भु to स्लु.
+स्लुेष् ( see    ,, भुैष् ).  }
 
-पिस् 10 U. to go; पैसुयति-तै pre. पैसुयाचकार-चक्रै &c. perf.
+                      म—
 
-पी 4 A. पानै to drink; पीयुतै pre. पिप्यै perf पैत्वुतै fut. अपैष्टु Aor.
-   Cau.—पाययति-तै pre. अपीपयत-न, Aor. पिपीषतै des.
+मंह् 1 A वुद्धौ to grow; P. भाषाग्यां दीप्तौ च to speak, to shine;
+   मंहुतै-ति pre ममंह-भै perf. मंहिता p. fut. अमंहिष्टु अमंहीत Aor.
+   मंहीष्ट. मंह्युयात् ben. Pass.—मंहुतै निमंहिषत-ति des. मंहित p. p.
 
-पीड् 10 U. to press, to hurt, to oppose; पीडुयति-तै pre. पीडुया-
-   चकार-चक्रै perf. पीडुयिता p. fut. पीडुयिष्युयुति-तै fut. अपीपिडुयिष्युयत-न
-   con. अपीपिडुयत-न, अपीपीडयत-न, aor. पिपीडुयिषति-तै des.
-   पीडित p. p.
+मंह् 10 U. to speak, to shine; मंहयिष्युयुति-तै fut. अममंहत-न Aor.
 
-पीव् 1 P. स्थैलयै to bscome fat or strong; पीवुति pre. पीविष्युयुति fut.
-   अपीवीत Aor.
+मक्क् 1 A. to go, to move; मक्कुतै pre. ममक्कै perf. अमक्किष्टु aor.
 
-पुंस् 10 U. अभिवर्धनै to increase, to crush; पुंसुयति-तै pre, अपुपुं-
-   सत-न aor.
+मश् 1 P. संचतै to accumulate, to be angry; मशुति pre. ममक्ष
+   perf. अमक्षीत aor.
 
-पुड् 10. U. अवगुणनै ( कुत्साद् ) to embrace; पुडुति pre पुपोट ( पुडुत्थु
-   2nd sing. ) perf. पुडिष्युयुति fut. अपुडीत aor.
+मस् 1 P. गतौ to go, to creep; मसुति pre. ममास perf. मसिता p.
+   fut. अमासीत, अमासीत aor.
 
-पुट् 10 U. संसर्गै to bind together; पुटयाति-तै pre. पुटयिता p. fut.
-   अपुपुटत-न Aor.
+मकु 1 P. अदनै to adorn; मकुति pre, ममक्कै perf. मकुिता p. fut.
+   अमकुिष्टु aor.
 
-पुट् 10 U. भाषाग्यां दीतौ च to speak, to shine, to reduce to powder;
-   पोटुयति-तै pre. पोटयाञ्चुकार-चक्रै &c perf. पोटयिष्युयुति-तै fut. अपु-
-   पुटत-न aor.
+मकू 1 P. गतौ to go; मकूति pre. ममकू perf. मकूिता p. fut. अमकुीत
+   aor. Pass.—मकु्युतै pre. अमाकुि aor.
 
-पुड् 1 P. अर्दनै to grind; पोडुति pre. पुपोड p.prf. पोडिष्युयुति fut. अपो-
-   डीत Aor.
+मकु 1 P. to go, to move; ( same as above ).
 
-पुड् 6 P. उत्सर्गै ( कुत्साद् ) to leave, to discover, पुडुति pre. पुडिष्युयुति
-   fut. अपुडीत Aor. पुपुडिषति des.
+मकू 1 P. मण्डनै to adorn, to decorate; मकूति pre. ममकू perf.
+   मकुिता p. fut. अमकुीत aor. Pass.—मंकुतै
 
-पुण् 6 P. धुम्रकर्मुणि to be pious; पुणाति pre. पैणाष्युयुति fut. अपुणीत
-   —त्रे-षी-पिपुषति des.
+मंच् 1 A. मन्त्रादनै आरम्भै कैलनै च to move quickly, to start; to
+   begin, to cheat; मंचुतै pre. ममंचै perf. मंचिता p. fut अमंचिष्टु
+   aor. मंचिषीष्ट ben.
 
-पुर् 4 P. हिंसाग्यां to kill, to injure; पुर्युति pre, पुपोष perf. अपुरीषत
-   Aor.
+मंष् 1 A. दम्भै कम्युनै कलनै च to cheat, to be wicked, to boast, to
+   pound; मंषुतै pre. मैषै perf. मंषिता p. fut अमंषिष्टु aor.
 
-पुष् 10 U. भाषार्थं दीप्तौ च to speak, to shine; पुष्युयति-तै pre, अपुपुष-
-   त-न Aor.
+मंत्र् 1 A. पारणोङ्खुयापुनुनेषु to hold, to grow high, to go, to adore,.
+   to shine; मञ्छुत pre. ममञ्छुै perf. मंत्रिता p. fut. अमंत्रिष्टु aor.
 
-पुल्व् 1 P. हिंसाक्षैन्दुनयो: to kill, to torment; पुल्वुति pre. पुल्विष्युयुति
-   fut. अपुल्वीत Aor.
+मञ्ज् 10 U. शोदै to sound; मञ्जुयाति-तै pre. मञ्जुयाचकार-चक्रै, &c.
+   perf. मञ्जुयिता p fut. अमिमञ्जत-न aor.

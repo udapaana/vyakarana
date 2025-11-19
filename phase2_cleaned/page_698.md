@@ -1,0 +1,56 @@
+---
+page_number: 698
+internal_page: 698
+chapter: "Appendix II - Dhātukośa"
+section: "dhātukośa"
+rules_starting: []
+rules_continuing: []
+has_footnotes: false
+---
+
+136                   SANSKRIT GRAMMAR.
+
+श्रि 1 U. सैवायां to cling to, to depend upon; श्रयाति-तै pre.
+  विश्राय, विश्रियै perf. श्रयिता p. fut. अविश्रियत-न aor. श्रयात् ,
+  श्रयीष्ट ben. विश्रायाति-तै, विश्रयिषति-तै des. Pass.-श्रीयुतै pre.
+  अश्रायि aor. Cau,—श्रापयाति-तै pre. अविश्रयत-न aor. श्रित p. p.
+
+श्रिध् 1 P. शोकै to burn; श्रैदुति pre. शिश्रैध perf. श्रैदिता p. fut. अश्रै-
+  दीत् Aor.
+
+श्री 9 U. पाकै to cook, to dress, to boil; श्रीणाति, श्रीणीतै pre.
+  शिश्राय , शिश्रियै perf. श्रैता p. fut. अश्रैषीत् , अश्रैष्ट aor. शिश्रीं-
+  षाति तै des. श्रीत p. p.
+
+श्लु 1 P. आश्लै to hear, to obey; शृणोति pre. शुश्राव perf. श्रोता
+  p. fut. अश्रोषीत् aor. श्रुयुयात् ben. शुश्रूषतै des. Pass—श्रूयुतै pre.
+  अश्रावि- aor. Cau.—श्रावयाति-तै pre. अशुश्रवत-न. आशिश्रवत-न aor.
+  श्रुत p. p.
+
+श्रै 1 P. पाकै to cook; श्रायुति pre. शशै perf. श्राता p. fut अश्रायीत्
+  aor. श्रायात् , श्रायात् , ben.
+
+श्लोण् 1 P. संचातै to collect, to be collected; श्लाणुति pre. शुश्लोण perf.
+
+श्लङ्कु 1 A. to go, to move; श्लङ्कुतै pre. शश्लङ्कै perf. अश्लङ्कुीष्ट Aor.
+
+श्लद् 1 A. to go, to move; श्लदतै pre. शश्लदै perf.
+
+श्लथ् 1 P हिंसायां to hurt, to be loose; श्लथुति pre. शश्लाथ perf.
+  अश्लथीत्, अश्लाथीत् Aor.
+
+श्लाघु 1 P. व्युयातौ to pervade; श्लाघुति pre. शश्लाघ perf. अश्ला-
+  घीत् Aor.
+
+श्लाघु 1 A. कथनै to praise, to flatter, to boast of; श्लाघतै pre.
+  शश्लाघै perf. श्लाघेता p. fut अश्लाघीष्ट aor. शिश्लाघिषतै des.
+  श्लाघित p. p.
+
+श्लिल् 1 P. दाहै to burn; श्लैदुति pre शिश्लैल perf. श्लैलिता p. fut.
+  अश्लैषीत् Aor. श्लिष्ट p. p. विश्लेषिता, इलैषिता, श्लिष्टा ger.
+
+श्लिल् 4 P. आलिङ्गनै to embrace, to cling to, to join; विश्लिष्युति pre.
+  शिश्लेष perf. श्लेष्टा p. fut. अविलेशत् ( to embrace ), अविलेषत्
+  ( in any other sense ) Aor शिश्लिषति des. श्लिष्ट p. p.
+
+-श्लेष् 10 U. श्लैषणै to embrace; श्लैषयाति-तै pre. अशिश्लिषत-न aor.

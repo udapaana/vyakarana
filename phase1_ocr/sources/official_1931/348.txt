@@ -1,36 +1,45 @@
-[Internal page: 334]
+[Internal page: 348]
 
-                         SANSKRIT GRAMMAR.                     [
+348                    SANSKRIT GRAMMAR.                     [ 565-567
 
-§ 541.  The roots अस्, स्था, पत्, वच्, झास्, स्वि an
-are changed to पद्, पन्द्, शेच्, शिष्, भव्, and हे, respectively; a
-अवाचत्, अशिषत्, &c.  3rd sing.
+Exceptions:—
 
-§ 542.  The roots giving the following couplets
-belong to this Variety necessarily:—
+( 1 ) स् and इ, when Parasmaipadi, belong to the Fifth Variety.
 
-ध्यातीयतां ससर्तिहे कान्तां शक्नोतिदाक्रयती ।
-उच्च भुवो वर्त्तिः शिष्टिक्षान्ता लुव्यतिः पततिस्ततथा ॥ १ ॥
-द्रान्ताः क्षिद्रं द्विदृद् यदि भिदो विदन्त्तः शुदसौदक्सिदः ।
-कृधिकुधौ क्षुधिक्षुधौ राधिः ज्ञुय्यतिसिध्यतौ ॥ २ ॥
-आङ्क्तौ गुण्यतिऽऽडपौ युर् ऱद् लिम्पतिलुञ्चयतौ ।
-लुम्पतिः सर्पतिः पान्ताः क्षुण्यतिस्तुम्भयतौनिभिः ॥ ३ ॥
-लुम्प्यतिच्च भकारादता मान्ताः ङाध्यतिक्षाऽभ्यती ।
-गर्मिस्त्तौमिदौमेन्नौ शाम्यतिः श्राम्यतिः सर्पिः ॥ ४ ॥
-झान्ताः पञ्च ङूशेनशौ भूसित्रेभोतर्त्तृद्धुग्धत्तौ ।
-तुच्यतितुच्यतिदुग्धः पिनष्टिः पुष्यतिः प्छुषिभिः ॥ ५ ॥
-रिष्यतद्ग चैवाऽऽष्टोवशेरो व्यधिः सह शिनेष्टिन ।
-शुष्यथिहेष्यतिः पान्ताः सान्ता अस्यतिड्स्यत्यतौ ॥ ६ ॥
-घर्षिजन्मौ तसिदरशौ बस्त्यातिबैस्त्योतिच्च्योतिः ।
-मस्सुधौ यस्वांसौविदौ युस्यतिः शास्तरस्त्यापि ॥ ७ ॥
-द्रुह्यत्वर्मूरोहस्तूहौ लुड्ड्यहूचिक्करणा भवेत् ।
-नवाक्षौतिच्च धातूनां परस्मैपदिनाऽमियम् ॥ ८ ॥
-ज्ञमिभर्त्तेः स्त्यातिविक्तौ अस्यतिश्रीयोऽप्सु्पोमग्रकम् ।
-आत्मनेपदिनोऽप्यीमे हूयर्त्तिःलिङ्ञिषिच्छयती ॥ ९ ॥
-एते विभाषयाड्घुन्ते आत्मनेपदिनो ग्रदा ।
+( 2 ) Roots ending in ऋ preceded by a conjunct consonant
+may take Fourth or Fifth Form in the Ātmanepada.
 
-                  स्था P. with सम् Â.
+( 3 ) भञ्ज् and घ् Par. take the Fifth Form only. घ् Â. may
+take the Fourth or the Fifth Form.
 
-  अध्यत      अध्याम      1 अध्ये    अध्यावहि
-  अध्यतम्   अध्यत      2 अध्यथाः अध्यथाम्
-  अध्यताम्  अध्यन्     3 अध्यत   अध्यताम्
+( 4 ) Of Set roots इ and those ending in ऋ ( long ) when Ātm.
+belong to either ( 4th or 5th Variety ). प्रच्, and कृण् when Â.
+belong to the Fourth.
+
+§ 566 ( a ) In the Parasmaipada the radical vowel takes
+its Vrddhi substitute; कृ-करौषीत्; इ-ऐशीत्; मञ्ज-भमाञ्जीत्, &c.
+
+( b ) In the Ātmanepada, Guṇa is substituted for final इ or
+उ, short or long; final ऋ and the penultimate vowel remain
+unchanged; final ऋ is changed to ऋर् or ऊर् in accordance with
+§ 594; चि-अचेष्ट, नी-अनेष्ट, च्यु-अच्योष्ट, द्-अकोष्ट, छ् see below,
+गिर्-गरिष्ट. धू-धोरीष्ट, हू-होदर्ट्.
+
+( c ) The Penultimate ऋ of Anit roots is optionally changed
+to र् or ऊर् सञ्जाघर्सुर् or ञ्जाघोरुत्.
+
+§ 567.  After a short vowel, and after a consonant except a
+nasal or semi-vowel, the स् of terminations beginning with स्त्
+and स्थ is dropped; इ-ऐशीत् 3 sing; इ-ऐशाथाः 2 sing; तिष्-अतेघीत्थाः
+अतिष्ट; छर्-अचरट् 3rd sing. &c.
+
+                     Paradigms.
+
+                       पच्
+
+1 अपाक्षम्  अपाक्ष   अपाक्ष्म    अपक्षि   अपक्षवहि   अपक्षमहि
+2 अपाक्षीः  अपक्षतम्  अपक्षत     अपक्षाः  अपक्षाथाम्  अपक्षध्वम्
+3 अपाक्षीत्  अपक्षताम्  अपक्षुः    अपक्षत   अपक्षाताम्  अपक्षत
+
+Conjugate similarly other Anit roots ending in consonants;
+तिष्-अतैषम्चर् P. 1. sing.; अतिष्टस् Ātm. 1. sing.; युञ्ज-अयौक्षम्,

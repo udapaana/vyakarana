@@ -1,27 +1,43 @@
-[Internal page: 57]
-§ 94-97 ]                    DECLENSION.                    57
+[Internal page: 76]
+76                    HIGHER SANSKRIT GRAMMAR.                    [ § 123
 
-  (d) त् may optionally be inserted between ङ् and the loc. pl. term. सु.
+Dual.
 
-  (e)  Before vowel tarminations final ङ् may optionally be changed to ञ्.
+    Nom., voc., and acc.    दिशौ        Instr., dat., and abl.    दिग्भ्याम् or दिङ्भ्याम्
+                                                        or दिक्भ्याम्
+    Gen. and loc.        दिशोः
 
-§ 95. (a) इ is changed to ट् when at the end of a pada or when followed by a consonant except a nasal or a semi-vowel.  (b) In the case of roots beginning with इ it is changed to ट् under the same circumstances; (c) when forming part of the roots दुह्, लिह्, स्तह् and लिह् , it is optionally changed to ट् i. e. to ट् or घ् ; (d) and in the case of the root नह् it is changed to प्  under the above-mentioned circumstances.*
+Plural.
 
-  (e) The ह् of डुर्णह f. a kind of metre is changed to क् when followed by a hard consonant or by nothing, and to ग् before a soft consonant ( Pān. III. 2, 59).
+    Nom. and voc.        दिशः        Acc.        दिशः or दिगः
+    Instr.            दिग्भिः or दिङ्भिः        Dat. and abl.    दिग्भ्यः or दिङ्भ्यः
+                    or दिक्भिः                    or दिक्भ्यः
+    Gen.            दिशाम्            Loc.        दिक्षु or दिक्सु
 
-§ 96. When a mono-syllabic root (or root-noun) begins with ब् , ग् or ध् and ends with प्, ट्, ध्, भ् or ह्, the प्, ग् or ध् is respecti-vely changed to प्, द् or प्  before सु or ष्व् or when followed by nothing or when the final soft aspirate is changed to an unaspi-rate letter†.
+                    NEUTER.
 
-§ 97. Paradigms—वाच् f. speech, राज् shining, छुह् becoming faint &c.
+( उदक् )
 
-                वाच्                      राज्
+Singular.
 
-N. V  वाक्     वाचौ    वाचः    N. V.  राट्-ड्    राजौ      राजः
-  A.   वाचम्    ,,      ्.       A.    राजम्      ,,         ,,
-  I.   वाचा    वाग्भ्याम् वाग्भिः   I     राजा    राड्भ्याम्  राड्भिः
-  D.   वाचे     ,,     वाग्भ्यः   D.    राजे       ,,       राड्भ्यः
- Ab    वाचः     ,,       ,,      A.    राजः       .,         ,,
+    Nom., voc., and acc.    उदक्        Instr.        उदका
+    Dat.                उदके        Abl.        उदकः
+    Gen.                उदकः        Loc.        उदकि or उदगि or उदचि
 
-* होढः। Pān VIII. 2. 30 † त्रक्षभ्रज्स्र्      गजराजभ्राजच्छशोषिः। Pán. VIII.
-2. 31-34.
+Dual.
 
-† एकाचो वञ्जौ भपु झषन्तस्य स्ध्वैः। Pán. VIII. 2. 37
+    Nom., voc., and acc.    उदची or उदगी or उदचा    Instr., dat., and abl.    उदग्भ्याम्
+                                                            or उदङ्भ्याम्
+    Gen. and loc.        उदचोः
+
+Plural.
+
+    Nom., voc., and acc.    उदक् or उदञ् च or उदगि    Instr.    उदग्भिः or उदङ्भिः
+    Dat. and abl.        उदग्भ्यः or उदङ्भ्यः        Gen.    उदचाम्
+    Loc.            उदक्षु
+
+Note.—The student should in this way make the declension
+tables of the words प्राञ्च् ( eastern ), प्रत्यञ्च् ( western ), and
+अवाञ्च् ( southern ), which, like उदञ्च् ( northern ), are derived
+from the root अञ्च् by the affix क्विप् or क्विन् ( according to the
+genders mas. and neu. ) ॥

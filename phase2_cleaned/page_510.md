@@ -1,0 +1,50 @@
+---
+page_number: 510
+internal_page: 510
+chapter: "Syntax"
+section: "syntax"
+rules_starting: ["§ 895", "§ 896", "§ 897", "§ 898", "§ 899", "§ 900"]
+rules_continuing: []
+has_footnotes: false
+---
+
+THE PERFECT PARTICIPLES.
+
+§ 895. The use of the perfect participles is very limited; it
+is used in the sense of 'who or what has done &c.'; तं तास्युयुयुरुयुनं
+नगुरीयुकुयुयुयुङु (Rag. V. 61.) him who had halted in the vicinity
+of the city; तस्युयु (S'ak V. II. 9.) समुयुत्युयुयुरुहस्युरे (Mag. V. 34.) of thee who
+hast obtained all good things, स शुयुयुनुर्तोयुत्युच्युच्युनं (Bhattṛi. I. 20)
+when he heard his words, &c.
+
+THE PAST PASSIVE PARTICIPLES.
+
+§ 896. The past passive participle is very frequently used to
+supply the place of a verb, sometimes in conjunction with the
+auxiliary verbs अस् and भू. The past passive participle agrees
+adjectivally with its gender, number and case, the
+agent being put in the Instrumental, while the past active
+participle is treated exactly like the verb in the past tense; तेन
+कुयुर्युं छुतं by him the work was done; तेनं युन्युयुयुनुति छिन्नुयुति by him
+the bonds were cut; आतिदुयूयूतिनं देव्युयु याविरुणु I am commanded
+by queen Dūtikā; तेनं कृतं कुयुयुयुरु he did the work; रायु देयुयुयुडु
+हुतुयूरु Rāma killed the Rākshasas; छुत्तुयुयूयूते नायुयुरीरुर्णों thou
+didst never despise me, &c.
+
+§ 897. In the case of past passive participles of intransitive
+roots the agent is put in the Nominative case; तवुयु युयुवितुयो राजुयु
+रहुतु then the king of demons wept; युयुयुयुं भवुयुति &c.
+
+§ 898. The past passive participles are often used imperson-
+ally, the agent being put in the Instrumental case; प्रयुनूतुनं or
+युयुयोतितुनं यूरुयुनै it is shone by the sun; जितं युयुयुवुनैयुयु victorious (all
+powerful) is the affection for sons; पाण्डुयूयुयुनितं तयुयुयुतुयु he
+showed his learning; परिहृतुयुं युयुस्युयूनं विषुयुनै, &c.
+
+§ 899. The past passive participles of the roots यनु, युनु
+and यस् and their synonyms are used in the sense of the Present
+tense and are construed with the Genitive. (See § 857.)
+
+For further particulars vide §§ 705—707.
+
+§ 900. Many past passive participles are used actively in

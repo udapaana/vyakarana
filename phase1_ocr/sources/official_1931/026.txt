@@ -1,16 +1,21 @@
-[Internal page: 8]
-8                         SANSKRIT GRAMMAR.                    [§11-12
+[Internal page: 26]
+26                        SANSKRIT GRAMMAR.                    [§38-41
 
-the letters of the Sanskrt alphabet, except the two mentioned before, viz. Anusvâra and Visarga, and Reía which is the name sometimes given to र. The word कार is therefore used as an affix to denote a particular letter; e. g. अकार the letter अ'; ककार the letter 'क', &c.
+sibilant ।। ; प्राङ्+षष्ः=प्राङ्षष्ः, प्राङुषष्; प्राङुषष्ः; the sixth man gone before; सुगुण्+षष्ः=सुगुण्षष्ः, सुगुण्टषष्ः, सुगुण्टुषष्ः, the sixth good counter.
 
-§11. A vowel by itself or a consonant, simple or conjunct, with a vowel added to it, is called an Akshara or a syllable.
+§39. If ङ or ण् at the end of a word be followed by स्, ध् (changed to त्) is optionally; inserted between them; * e.g षट्+सन्तः:=षट्सन्तः or षड्+ध्+सन्तः:=षड्त्सन्तः six good men; so सन्+सः:=सन्स्यः or सन्त्स्यः that good man.
 
-§12. The forms which the vowel signs assume when added to consonants and the changes which some letters undergo when compounded are given below, under (a) and (b).
+(a) ङ, ण and न् at the end of a word and preceded by a short vowel double themselves when followed by a vowel †; e. g. प्रत्यङ्+आत्मा=प्रत्यङ्ङात्मा the individual soul; so सुगुण्णांसः the best reckoner; चङ्ङच्यतः good Achyuta.
 
-(a) अ added to a consonant is denoted by the removal of the nether stroke; as क+अ=क ka. The remaining vowels when compounded with a consonant become, ि, ी, ु, ू, ृ, ॄ, ॢ, ॣ, े, ै, ो, औ, respectively; as क+आ=का kâ, क+इ=कि ki; similarly की ki' क ku,, कू kû, कृ kr, कॄ kr', कॢ kl. के ke, कै kai, को ko, कौ kau.
+§40. Ob. If the ending न् of a word be followed by श्, त् is optionally inserted between them ‡ e.g. सन्+शोधुः:=सन्शोधुः and सन्त्शोधुः Śambhu existing for all times; and सन्त्शोधुः:=सन्त्छोधुः and सन्त्छंधुः (by §25); then by §28 (a) न् being changed to ञ् (and त् to च्) सञ्छोधुः, सञ्च्छोधुः and सञ्छंधुः and finally by dropping च् optionally (by §20 a.) सञ्छोधुः, सञ्छोधुः and सञ्छंधुः सञ्च्छंधुः.
 
-Exception:—ऋ when following upon र remains unchanged, as ऋ.
+§41. न् coming after ऋ, ष्, or ऋ short or long, in the same word is changed to ण् even though a vowel, a semi-vowel except ल्, a nasal, or a letter of the guttural or labial class or ह comes between र्, ष् or ऋ and नः–e.g. रामेन=रामेण; पूष्+ना पूष्णा by the sun, पितृणाम् &c.; but राम+नाम=राम नाम (as these are two separate words). This change does not take place when न् is at the end of a word ×रामानाम्.
 
-(b) In compounding consonants they should be taken in the order in which they are pronounced; the last consonant takes a vowel, the preceding ones generally losing their nether and perpendicular strokes when combined e. g. tsna ought to be written as त्स्न, nna as ण्ण, &c. Some letters, however, change their form slightly and others entirely, when compounded with other consonants; e.g. त्य lpa; त्र tra; ह्य śça; ग्र gra, &c.; र immediately preceding another consonant (or the vowel ऋ) is denoted by the sign ् written above the following consonant as र्क rka. It is then necessarily called a रेफ refa.
+।। ङौः कुङ्टक् स्प्रि। Pân. VIII. 3. 28.
 
-(c) In the conjuncts क्ष (क+ष) ksh, and ज्ञ (ज+ञ) jña,
+* ङः इति धुट्। नश्च। Pân. VIII. 3. 22, 32.
+
+† ङो ह्रस्वादचि हृमुणिन्नम्। Pân. VIII. 3. 32.
+‡ नि चुष्ट्। Pân. VIII. 3. 31.
+
+– रंषाप्यो नो णः समानपदे। अन्तुकुम्बार्छवुक्म्भवचायपि Pân. VIII. 4. 1. 2. ×पदान्तस्य न। Pân. VIII. 4. 37.

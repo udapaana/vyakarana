@@ -1,20 +1,33 @@
-[Internal page: 33]
-§ 52-54 ]                    SUBANTA OR DECLENSION.                    33
+[Internal page: 49]
+§ 80.81 ]                    DECLENSION.                    49
 
-The Prātipadika, when it is inflected, is called a Pada or a word. A noun admits of inflection in seven cases, in the three num-bers Singular ( वचन or एकवचन ) Dual ( द्विवचन ) and Plural ( बहुवचन ) The nominative case is called प्रथमा the second द्वितीया, the third तृतीया, the fourth चतुर्थी, the fifth पञ्चमी, the sixth षष्ठी, and the seventh सप्तमी.
+  G.   हूहः           हूहोः               हूहाम्
+  L.   हूहि            ,,                 हूहषु
 
-§ 53. The indeclinables, i. e. words that are incapable of case-affixes, are participles ( अव्यय ), such as च and, यदि if, यदा when, किं why. These, as distinguished from ordinary nouns, are therefore technically called Nip&tas or Avyayas. The word Pada is applied to such words as well.
+Decline similarly ढरभू ( ढुरभति इति one who strings together )
+                Nouns ending in ऋ mas. fem. and neu.
 
-§ 54. Substantives (संज्ञा). masculine (पुंलिङ्ग), femi-nine (स्त्रीलिङ्ग), and neuter (नपुंसकलिङ्ग)* and adjectives (विशेषण) may be classified as follows:—
+§ 81. Nouns derived from roots with the affix तृ ( तृच् and तृन् Pán. III. 1. 133, and 2, 135 ), such as कर्तृ a maker, &c. and the words स्वसृ f; नसृ, नेदृ, क्षेतृ, होतृ, and प्रशासृ as also उद्रातृ change their ऋ to अर् in the Nom. sing. and to आर् in the first five inflections. The ऋ is lengthened in the Acc. and Gen. pl. and changed to उर् before the Ab and Gen. sing; the Voc sing. ends in अर्.
 
-1. Words ending in short अ. ( the short  अ being changed to a long one in the Nominative and vocative singular ).
+                    धातृ mas. the creator.
 
-(a) Masculine and neuter, e.g. (m) नरः (voc. नर ) a man; (n) कुसुमम् a flower.
+  N.   धाता           धातारौ             धातारः
+  V.   धातः(र्)         ,,                  ,,
+  A.   धातारम्          ,,                धातृन्
+  I.   धात्रा        धातृभ्याम्            धातृभिः
+  D    धात्रे           ,,                धातृभ्यः
+ Ab.   धातुः           ,,                  ,,
+  G.    ,,            धात्रोः             धातृणाम्
+  L.   धातरि         धात्रोः             धातृषु
 
-(b) Feminine, e.g. कन्या a girl, बाला a girl; in this class adjectives also end in अ and not in आ; e.g. विद्वद्बाला a learned girl.
+Decline similarly कर्तृ, नेतृ, नसृ, ज्ञासृ, उद्रातृ &c
 
-II. Words ending in short इ:— (a) M. f and n.; कवि m. a poet, मति f. intellect, वारि n. water.
+                    धातृ neu
 
-(b) Feminine words ending in ई do not differ in inflection from those ending in इ except that they have ई in the Nom. Acc.
+  A.   धातृ          धातृणी               धातृणि
+  V.   धातः-तृ          ,,                   ,,
+  A.   धातृ             ,,                   ,,
+  I.   धात्रा-तृणा     धातृभ्याम्            धातृणिः
+  D.   धात्रे-तृणे        ,,                धातृभ्यः
 
-* Noun ending in अ are masculine, feminine and neuter; those ending in आ are feminine; those ending in इ are generally masculine and those ending in ई generally feminine. Feminine words ending in इ change their इ into ई in forming the Nominative of the Dual. Short इ or उ at the end of a noun is made long in the Vocative Singular. Adjectives compounded with the words, उच्च tall, नीच low and प्रिय fond of are neuter when the meaning is not living. But compounds of प्रिय are masculine or feminine when the sense is living &c. e.g. देवप्रियम् dear to a god, (a flower, neuter), देवप्रियः dear to a god (a person, mas.).
+* अञ्जन्नस्सृनभनेऽञ्जक्षक्षत्रपूषोमेणामाशसृणाम् । Pán  VI. 4.  11. उद्रातृ-ग्राहुत्स्य भवेत्य समर्थयेत्र: ' इति भाष्यमोगात् । Sid. Kau.

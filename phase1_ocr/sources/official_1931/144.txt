@@ -1,14 +1,16 @@
-[Internal page: 126]
-126                    SANSKRIT GRAMMAR.                    [ § 211
+[Internal page: 144]
+144                    SANSKRIT GRAMMAR                    [ § 235-237
 
-ending in तृ and अक and denoting the agent of the action; अर्थं दद्या and not अर्थदद्या; घटस्य कर्ता, सोदनस्य पाचकः &c.; but इष्यूणां भक्षणिका as the अक here does not denote the agent.
 
-Exception*.—But a compound is allowed in the case of the words यज्ञक one who employs as sacrificing priests, पूजक, परि-ञ्चारक, परिदेषक a waiter at meals, स्नापक a servant who bathes his master or brings bathing water for him, अध्यापक, उत्सादक one who destroys, हेतु, भर्तृ, when it does not mean 'a holder,' and others not very important: त्राक्षणयाजकः, देवपूजकः; राजपरि-चारकः &c.; अग्निहोता, स्योर्ता, &c. but वृत्रस्य भर्ता 'the thunder bolt-bearer'.
+6. UPAPADA COMPOUNDS.
 
-(b)† A specific Genitive (i. e from which a singling out is made) is not compounded with any other words, as वृणां द्विजः भेङः
+§ 235. When the second member of a Tat. Comp. is a root—noun derived from a root which takes a particular Krit affix by virtue of the presence of the first member, it is called an Upapada Tat.; as कुम्भं करोतीति कुम्भकारः 'a potter,' so सामगायतीति सामगः 'one who chants a verse of the Sāman Veda;' मांसं कामयती मांसकामा 'desirous of meat;' similarly अश्वक्रीतं (अश्वेन क्रीता) 'bought for a horse', कच्छपी 'a female tortoise,' &c. The noun prefixed to the last member, such as कुम्भ, is called an upapada.*
 
-(c)‡ A noun in the Genitive is not compounded with ordinal numbers, words denoting qualities, words implying satisfaction present participles, past participles meaning 'honoured or approved of' or showing the place of the act, verbal indeclinables and verbal nouns ending in तव; e. g. सर्वं पञ्चः त्राह्मणस्य झुङ्ञः (रन्तः); कांस्य काणर्व; फलानां सुहितः 'satisfied with fruits' (an Inst. Tat. is, of course, allowed in these cases); हितस्य कुर्वेँ कुर्णो वा किकुरः; सर्वं मत: esteemed by the good; राज्ञौं पुजितः इदर्ना आसितं (place of sitting) गर्तं सुक्तं वा; ब्राह्मणस्य छत्वा, नरस्य कर्तव्यम् &c.
+N. B. The latter member of such compounds must neither be the conjugated form of a root nor a separate verbal derivative i. e. formed independently of the last member; e. g. पयोधर is not an Upapada Tat., as the word घर can be independently formed; it is a Gen. Tat. परतीति घरः पयसां घरः पयोधरः 'a cloud' or 'the female breast.'
 
-* राजकादिभेक्ष्रः । Pān. II. 2. 9.
-† न निर्धारणे । Pān. II. 2. 10.
-‡ पुरायणाङुरहिताप्रस्सदव्यसमाना घेकरणेन । केन च पूजायां अभि-करणवाचिना च । Pān. II. 2. 11-13. The prohibition with respect to a word expressive of a quality (गुण) is not obligatory, remarks Dikshita; as Pān. himself uses such compounds as संत्राग्यमणाब &c. Hence compounds like अर्थेगौरवम्, झुद्धिमान्चम्, &c. are justified (अनिलोगे यणेन निषेध. तदृषेष्यं संत्राग्यमाणत्वादिदयादिनेदर्शात् । तेनार्थेगौरवं झुद्धिमान्यसेत्यादि सिद्धम् ।).
+§ 236. Sometimes the second member of an Upapada Tat. my be a Namulanta or the verbal indeclinable in अम्; as स्वादुकारि भुङ्क्ते 'he eats having sweetened the food;' अग्रेभोजं 'having dined first;' sometimes this compound is optional. मूलकोदर्भे or मूलैकेन उपदंशो भुङ्क्ते 'he eats the condiment with a raddish,' &c.
+
+§ 237. Some upapadas such as उञ्छे, नीचै, तिर्यक्, दृसतः, &c. also optionally form compounds with the verbal indeclinable in त्वा (changeable to य); as उञ्छेःछत्य (or उञ्छेः कृत्वा), तिर्यक्छत्य, दृसतोयस्य, मानाछत्य, एकथासूरः, &c. For further particulars vide the Chapter on verbal derivatives
+
+
+* तत्रौपपदं सस्मीत्यम् । Pān. III. 1. 92. समुच्यन्ते पदै कर्षीणित्यादौ वाच्यस्थैन स्थितं कुम्भादि तदुपच्छे पदृुपपदस्तेन स्याद् । Sid. Kau.

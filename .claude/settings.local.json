@@ -51,7 +51,17 @@
       "Bash(do)",
       "Bash(if grep -q \"§ 37\" phase1_ocr/sources/official_1931/$page.txt)",
       "Bash(then)",
-      "Bash(ls:*)"
+      "Bash(ls:*)",
+      "WebFetch(domain:archive.org)",
+      "Bash(for i in 286 287 288 289 290)",
+      "Bash(do grep \"^internal_page:\" \"phase2_cleaned/page_$i.md\")",
+      "Bash(for i in 001 002 003 004 005 006 007 008 009 010 011 012 013)",
+      "Bash(do echo \"=== Rule $i ===\")",
+      "Bash(for i in {035..040})",
+      "Bash(for i in {511..520})",
+      "Bash(do echo \"=== RULE $i ===\")",
+      "Bash(test:*)",
+      "Bash(git add:*)"
     ],
     "deny": [],
     "ask": []

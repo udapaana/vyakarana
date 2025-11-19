@@ -1,0 +1,50 @@
+---
+page_number: 596
+internal_page: 596
+chapter: "Appendix II - Dhātukośa"
+section: "dhātukośa"
+rules_starting: []
+rules_continuing: []
+has_footnotes: false
+---
+
+घ्रा 1 P. शब्दै to sound, to roar; घ्राति pre, जघार perf. अघ्राजीत.
+   Aor. Cau.—घ्राजयति-तै pre. अजीघ्राजत-न, अजघ्राजत-न Aor. Also
+   घ्रञ्ज. घ्राति pre. जघृञ्ज perf. अघृञ्जीत Aor.
+
+घ्रश् 4 P. अभिकाङ्क्षायां to covet, to desire; घृष्युयति pre. जघर्षं perf.
+   घर्षिता p. fut अघृष्युत aor Cau –घर्षुयति-तै, अजीघृषुत-न, अज-
+   घृयुत-न Aor. जिघृषिषति des. घृष्ट p p घर्षित्वा, घृष्ट्वा ger.
+
+घ्रह् 1 A. ग्रहणै to take. to seize; घृह्णतै pre, जघृहं perf गर्हिता, गहं
+   p. fut. गृहीष्युयतै, घृष्युतै fut. अगृहिष्युयत-अघृष्युत con, गृहीषीष्ट,
+   घृष्युीष्टु Ben. अगृहिष्टु. अघृक्षत aor. जिगृहिषतै, जिघृक्षतै des Cau.—
+   गहुयति-तै, अजीघृहत-न, अजघृहत-न aor.
+
+घ्रह् 10 A ग्रहणै to seize; घृहयतै pre. घृहयाञ्चक्रै perf. अजघृहत aor.
+   जिघृहयिषतै des.
+
+व् 6 P. निगरणै to swallow, to devour, to emit; गिरति or गिलति
+   pre, जिगार or जुगेल perf. गरिता or गलिता, गर्तं, गर्ता p.
+   fut गरिष्युयुति, गरीष्युयति or गलिष्युयति, गलीष्युयुति, fut. अगरत्,
+   अगालीत aor गीर्युयात् Ben जिगरिषति or जिगलिषति des. Cau.
+   —गारयति-गालुयति. Pass.—गीर्युतै pre. अगारि or अगालि aor. गीर्णं
+   p. p.
+
+घूं 9 P. शब्दै to call out, to speak; घुर्णाति pre. जगाघ perf. गर्ता.
+   घुर्तुं p. fut. गरिष्युयुति, गरीष्युयुति fut. अगारीत aor Cau –गारयति-
+   तै pre. अजीगरत-न aor. जिगरिषति, जिगरीषति, जिगर्षीति des.
+   गीर्णं p. p.
+
+गैद् 1 A सेवनै to serve; गैदतै pre, जिगैदै perf. अगैदिष्टु Aor.
+
+गैर् 1 A आच्चिकुटायाम to seek; गैषतै pre. जिगैषै perf. गैषिष्युयतै fut.
+   अगैषिष्टु Aor. गेष्युं p. p.
+
+गै 1 P. शब्दै to sing, to speak in singing manner; गायति pre.
+   जगौ perf. गाता p. fut. गास्युयुति fut. अगास्युत con. अगासीत aor.
+   गेयात् ben. जिगासति des. Pass.—गीयतै pre. अगायि aor. Cau.
+   —गापयति-तै pre. अजीगपत—न aor. गत p. p. गीत्वा ger. ( With a
+   preposition प्राग. ) ger.
+
+गोर् 1 A. संयैमनै to assemble; गोडतै pre. चुगोड perf. अगोड्हिष्टु Aor.

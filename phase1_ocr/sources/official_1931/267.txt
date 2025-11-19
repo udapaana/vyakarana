@@ -1,7 +1,46 @@
-[Internal page: 253]
+[Internal page: 267]
 
-§ 400-401          CONJUGATION OF VERBS.                     253
+§ 421 ]              CONJUGATION OF VERBS.                     267
 
-§ 400.  The following roots of the 10th class p eserve their vowel unchanged; अत् to sin,  कत् to tell,  क्षत् to send, to pass, गल् to count, गल्ह् U.  to filter,  A.  to throw,  चर्  to  choose  or seek,  to get,  घसु to sound,  मन् to honour,  रचु to compose,  रसु to taste,  रक् to forsake  बल् to speak ill of, deceive,  रद् to scream, पद् to wave,  ( but पादयति  when it  means  to summon,  सत् to heave,  यल् to wave, yet to go,  कुल to count, स्यर् to bore,  पूव to give, यूष् A.  to g ),  ओर् to divide,  बद् to separate,  लग्  to shine,  कूप् to bore,  छुट् to conceal,  चुत् to cheat,  वसु  to dwell,  भृग or भ्रूग to be  weak or lax,  तपद् to give,  to  spend,  रमद्  to  desire,  धृग to seek, चूष् to bear, कूष् to pity, to be weak, कूच्, गुण् to converse with,  ग्रह् A.  to take ( also मादयति  when cau   of ग्रह् ),  कुह् A. to astonish,  to deceive,  युत्  to  blud  or string together,  स्फुद् to become manifest, चुद् to make happy, and others less common.
+                   लिह् P. A. ' to lick. '
 
-§ 401.  Some roots of the 10th  class exclusively take the Ātmanepada i e. even when the fruit of the action expressed by them does not accrue to the agent  These are:—अर्त् to request, to desire, कुह् to  astonish,  to  deceive,  चिन्त्  to be  conscious of, to think,  दंश् to bite,  दृसु ( or दसु  according to some ) to see, to bite. दुप् or दिुम् to accumulate, तञ्ज् to support a family,  मन्त्र to counsel secretly, युष् to search, to hunt, to seek, स्त्यू to take, to  string together,  तर्ज्  and  तर्स्  to  reprove,  बदु  and  गल्बु to injure, to hurt, विच्छद् to kill ( विच्छद्  according to some ), किच्छ् to measure,  घ्रिष् to desire,  to  contract,  मत्  to  kill,  सुत् to fear, सूत् to praise, यश् to worship, रभु to guess, युर् to strike, सुम् to look at,  to inspect,  कूत्स  to reproach,  चुट्  ( according to some कूट् ) to cut,  भुल् to drop down,  भुट् to see,  to expound, कूद् to abstain from giving, to muddle,  कुट् to cut,  बज्जु to deceive, भ्रूश् to have the power of  generation,  to  be eminent,
+                          Present.
+
+    P                                   A.
+
+1. लेढ्मि     लिहुः      लिहुः           लिहे      लिहुहे        लिहुहे
+2. लेक्षि     लीढ्ः      लीढ्            लिक्षे    लिहाथे        लीढ्वे
+3. लेढ्ति     लीढ्ः      लिहन्ति         लीढे     लिहाते        लिहते
+
+                          Imperfect.
+
+1. अलेढम्    अलिह      अलिहुम          अलिंहे   अलिहुहि       अलिहुहि
+2. अलेट्‌-ड्   अलीढम्    अलीढ्           अलीढाः  अलिहाथाम्     अलीढ्वम्
+3. अलेट्‌-ड्   अलीढाम्   अलिहन्          अलीढ्   अलिहाताम्     अलिहत
+
+                          Imperative.
+
+1. लेहानि    लेहाव     लेहाम           लेहै     लेहावहै       लेहामहै
+2. लीढि      लीढम्     लीढ्            लिक्ष्व  लिहाथाम्      लीढ्वम्
+3. लेट्‌डु    लीढाम्    लिहन्तु         लीढाम्   लिहाताम्      लिहताम्
+
+                          Potential.
+
+1. लिहुयाम्   लिहुयाव    लिहुयाम          लिहीय    लिहीवहि       लिहीमहि
+   &c.       &c.       &c             &c.      &c.          &c.
+
+                   निञ्ज् A.* ' to Purify '
+
+         Present.                        Imperfect.
+
+1. निञ्जे     निञ्ज्वहे   निञ्ज्महे        अनिञ्जि   अनिञ्ज्वहि    अनिञ्ज्महि
+2. निङ्क्षे    निञ्जाथे   निञ्जुध्वे        अनिञ्ज्थाः अनिञ्जाथाम्  अनिञ्जुध्वम्
+3. निङ्क्ते    निञ्जाते   निञ्जते          अनिङ्क्   अनिञ्जाताम्  अनिञ्जत
+
+         Imperative.                     Potential.
+
+1. निञ्जै     निञ्जावहै   निञ्जामहै        निञ्जीय   निञ्जीवहि     निञ्जीमहि
+2. निङ्क्ष्व   निञ्जाथाम्  निञ्जुध्वम्       निञ्जीथाः निञ्जीयाथाम्  निञ्जीध्वम्
+3. निङ्क्ताम्  निञ्जाताम्  निञ्जताम्         निञ्जीत   निञ्जीयाताम्  निञ्जीरन्
+
+    * शि—पिञ्ज्, पिज्, प्रज्, घुज्, घुञ्ज्, घुच् all  A. should be similarly conjugated.

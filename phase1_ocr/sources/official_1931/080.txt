@@ -1,38 +1,34 @@
-[Internal page: 60]
-60                    HIGHER SANSKRIT GRAMMAR.                    [ § 105-106
+[Internal page: 80]
+80                    HIGHER SANSKRIT GRAMMAR.                    [ § 129-130
 
-śikṣaṇam ॥ Therefore, in स्वयं अञ्चति इति स्वयञ्च् ( a worshipper of
-his own self, selfish ) the forms in the nom., voc., and acc. sings.
-are स्वयञ्, स्वयन्, स्वयञ्चम् ॥ Similarly प्राञ्च् ( eastern ) becomes
-in the nom. sing. प्राङ् ; in the voc., प्राङ् and ( optionally ) प्राञ्च् ॥
-In the acc. प्राञ्चम् ( प्राचः and optionally प्रातम् ) ॥ In the
-voc. and acc. the word पदान्त does not apply as there is an
-ending beyond च्, before which, therefore, न् cannot be dropped
-by the rule सोऽञ्चि, and so च् is not changed to ग्, being
-already preceded by न् . If, however, we drop न् by the rule
-कृदन्तेषु चान्येषु, then च् becomes ग् before the loc. pl. affix सु
-and the word will take the form of प्रागसु ॥ Or we may drop
-न् optionally after च् has become ग् by the rule सोऽञ्चि, the rule
-कृदन्तेषु चान्येषु authorising the optional dropping; then the loc. pl.
-may be either प्रागसु or प्राङ्सु ॥ In the rest of the cases, the
-forms of प्राञ्च् will be like those of वाच् ( a word ) ॥ Thus
-in the plural:
+Plural.
 
-          Nom.        Acc.            Instr.
-      प्राञ्चः       प्राचः          प्राग्भिः
-                  प्रातः ( opt. )  प्राङ्भिः
+    Nom. and voc.        युवानः        Acc.        युवनः
+    Instr.            युवभिः or युवणभिः    Dat. and abl.    युवभ्यः or युवणभ्यः
+    Gen.            युवनाम्        Loc.        युवसु or युवणसु
 
-          Dat.            Abl.           Loc.
-      प्राग्भ्यः       प्राग्भ्यः      प्रागसु
-      प्राङ्भ्यः       प्राङ्भ्यः      प्राङ्सु ( opt. )
-
-          Gen.
-      प्राचाम्
-
-§ 105. The dual is formed thus: प्राचौ, प्राचौ, प्राग्भ्याम् ॥
-
-§ 106. Feminine forms. All bases derived from अञ्च् drop
-न् in the fem. by the special rule अञ्चेर्नलोपः स्त्रियाम् (Pan. VI. 4. 129),
-and form their fem. by adding ई ( वा० II. 2. 7 ; Pan. IV. 1. 6 )
-Thus प्राञ्च् ( mas. ) becomes in fem. प्राची, and is declined like
-the fem. of म्रियमाण ॥ So also स्वयन्ची, प्रतीची and अपची ॥ It must be
+§ 130. मघवन् ( epithet of इन्द्र ) follows the decl. of
+युवन्, but with certain exceptions. Thus the forms of युवन् are
+allowed to occur throughout its declension ( युवभ्यवत्मघवा Kāsikā
+on VII. 1. 1 ) ; and, besides these, there are the following
+permissible forms viz. मघवन्, मघवा, मघवन्, मघवानम्, मघवने &c.
+The affixes of the nom. etc. dual and pl., viz. औ, ओस्, शस्, भिः
+&c., are to be applied to the end of the base ( यस्यचतुर्थीयुतन्ता निर्देशः,
+Pan. III. 2. 179 ), that is, these affixes are to be added without
+dropping the न् of मघवन्, being preceded by the final syllable वन्
+which is looked upon as an affix for this purpose. That is to
+say, न् is not to be dropped by the rule नाम्यपरे ( Pan. VI. 4. 3 ),
+and so we have the forms मघवन् + औ → मघवनौ → मघोनौ; so also
+मघोनौ, मघवन् + ओस् → मघोनोः, मघवन् + आम् → मघोनाम्, मघवन् + भिः →
+मघोभिः, मघवन् + भ्यः → मघोभ्यः, मघवन् + भ्याम् → मघोभ्याम्, मघवन् + सु → मघवत्सु ॥
+In these forms the voc. of मघवन् is व्, and the termination अस्
+( nom. pl. ) makes the form मघवनः, by dropping the न् of वन् and by
+changing न् to anusvāra ( मघवन् → मघवन् → मघवनः ) ; and then this
+anusvāra-न् may be changed to a parasavarṇa, which gives the
+word मघोनः ॥ According to the Kāsikā, if the vowel of a case-
+affix is dropped and is followed by a consonant, then by the
+rule प्रथमयोरटचौ, विराग इदाघः ( Pan. VIII. 3. 1 and Vart. ) we have
+this rule; viz: योऽयात् स्य:स्वाक्, being applicable; this rule would,
+in the case of words ending in अन् and आन्, drop the न् of the
+base before consonantal case-terminations, viz. भिः, भ्यः, भ्याम्;
+and thus in the instr. pl. we would get मघवभिः, मघवभ्यः &c.

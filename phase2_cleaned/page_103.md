@@ -1,0 +1,35 @@
+---
+page_number: 103
+internal_page: 95
+chapter: "Pronouns and Their Declension"
+section: "pronouns"
+rules_starting: ["§ 147", "§ 148"]
+rules_continuing: ["§ 146"]
+has_footnotes: false
+---
+
+युष्मद्
+         mas.                                   fem.
+Sing.          Plural.           Sing.         Plural.
+त्वदीय 'thy,    युष्मदीय 'your,   त्वदीया 'thy,  युष्मदीया 'your,
+    thine.'         yours.'           thine.'        yours.'
+तावक    „      यौष्माक    „      तावकी    „     यौष्माकी    „
+तावकीन  „      यौष्माकीन  „      तावकीना  „     यौष्माकीना  „
+         तद्                एतद्
+      mas.    fem.        mas.         fem.
+      तदीय   तदीया       एतदीय       एतदीया
+N. B. These are declined like nouns ending in अ, आ or ई regularly. स्व is a possessive pronoun by itself.
+
+10—Pronominal Adjectives.
+
+§ 147. अन्य 'another,' अन्यतर 'either of two,' इतर 'other,' एकतम 'one of many,' कतर 'who or which of two,' कतम 'who or which of many,' यतर 'who or which of two,' यतम 'who or which of many,' ततर 'that one (of two),' ततम 'that one (of many),' are declined in all the three genders like यद् e. g.
+                              mas.
+     N.         कतरः          कतरौ          कतरे
+                              fem.
+     N.         कतरा          कतरे          कतराः
+     &c.                      neu.
+     N. & A.    कतरत्         कतरे          कतराणि
+     &c.
+N. B. अन्यतम is not a pronoun, as it is not mentioned in the group सर्वादि (सर्वाद्यतमसहस्रस्य गणे पठनमावात् संज्ञा Sid. Kau.). It is, therefore, declined like nouns ending in अ.
+
+§ 148. Decline सर्व, विश्व, सम and सिम all having the same meaning, उभ (declined in the dual only) and उभय (which has no dual according to Kaiyata and other grammarians) both meaning 'both,' इतर and एकतर 'one of two,' like यद् except in the Nom. and Acc. sing. of the neu. which is formed by adding म्, e. g.

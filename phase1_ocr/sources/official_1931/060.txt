@@ -1,30 +1,38 @@
-[Internal page: 41]
-§ 73-75 ]                    DECLENSION                    41
+[Internal page: 60]
+60                    HIGHER SANSKRIT GRAMMAR.                    [ § 105-106
 
-  I.     पत्या         पतिभ्याम्               पतिभिः
-  D.     पत्ये            ,,                   पतिभ्यः
- Ab      पत्युः           ,,                      ,,
-  G       ,,           पत्योः                 पतीनाम्
-  L.     पत्यौ            ,,                   पतिषु
+śikṣaṇam ॥ Therefore, in स्वयं अञ्चति इति स्वयञ्च् ( a worshipper of
+his own self, selfish ) the forms in the nom., voc., and acc. sings.
+are स्वयञ्, स्वयन्, स्वयञ्चम् ॥ Similarly प्राञ्च् ( eastern ) becomes
+in the nom. sing. प्राङ् ; in the voc., प्राङ् and ( optionally ) प्राञ्च् ॥
+In the acc. प्राञ्चम् ( प्राचः and optionally प्रातम् ) ॥ In the
+voc. and acc. the word पदान्त does not apply as there is an
+ending beyond च्, before which, therefore, न् cannot be dropped
+by the rule सोऽञ्चि, and so च् is not changed to ग्, being
+already preceded by न् . If, however, we drop न् by the rule
+कृदन्तेषु चान्येषु, then च् becomes ग् before the loc. pl. affix सु
+and the word will take the form of प्रागसु ॥ Or we may drop
+न् optionally after च् has become ग् by the rule सोऽञ्चि, the rule
+कृदन्तेषु चान्येषु authorising the optional dropping; then the loc. pl.
+may be either प्रागसु or प्राङ्सु ॥ In the rest of the cases, the
+forms of प्राञ्च् will be like those of वाच् ( a word ) ॥ Thus
+in the plural:
 
-§ 73  Compound nouns ending with पति such as भूपति &c. are declined like हरि regularly. प्रियत्रि ( प्रियाः त्रयः यस्य यस्या वा ) is declined like हरि mas. & मति fem ; the Gen. plu. is optionally like that of त्रि; परमत्रीणाम्, or ०त्रयाणाम्.
+          Nom.        Acc.            Instr.
+      प्राञ्चः       प्राचः          प्राग्भिः
+                  प्रातः ( opt. )  प्राङ्भिः
 
-§ 74  Obs. ( a ) ओडुलोमि a descendant of Udūloman ( उडुलोमः अपत्यं एषमात् ) is declined like हरि in the sing, and dual and like राम in the plural, the original word उडुलोम being substituted.* N. ओडुलोमिः औडुलोमौ, उडुलोमाः &c.
+          Dat.            Abl.           Loc.
+      प्राग्भ्यः       प्राग्भ्यः      प्रागसु
+      प्राङ्भ्यः       प्राङ्भ्यः      प्राङ्सु ( opt. )
 
-   ( b ) Words of similar derivation ( see Pā n.. II. 4, 62. 63. 65. 66 and IV. 1. 105 ) also substitute their originals in the plural, e. g. भार्गेस्य अपत्यं गार्ग्यः N. भार्ग्यः भार्ग्यौ भार्गाः &c.
+          Gen.
+      प्राचाम्
 
-        Words ending in ई and ऊ mas. and fem.
+§ 105. The dual is formed thus: प्राचौ, प्राचौ, प्राग्भ्याम् ॥
 
-§ 75.  नदी f. a river; वधू f. a woman, a bride.
-
-                    नदी fem.
-  N.     नदी            नद्यौ                  नद्यः
-  V.     नदि             ,,                      ,,
-  A.     नदीम्           ,,                    नदीः
-  I.     नद्या        नदीभ्याम्               नदीभिः
-  D.     नद्यै           ,,                   नदीभ्यः
- Ab.     नद्याः          ,,                      ,,
-
-* From उडुलोमन् name of a sage, + इञ् ( इ ) added अपत्ये b
-' शाहादिरिण्यञ् ' Pān.  IV.  1.  96, the final न् being droppe
-( Pān. VI. 4. 144 ).
+§ 106. Feminine forms. All bases derived from अञ्च् drop
+न् in the fem. by the special rule अञ्चेर्नलोपः स्त्रियाम् (Pan. VI. 4. 129),
+and form their fem. by adding ई ( वा० II. 2. 7 ; Pan. IV. 1. 6 )
+Thus प्राञ्च् ( mas. ) becomes in fem. प्राची, and is declined like
+the fem. of म्रियमाण ॥ So also स्वयन्ची, प्रतीची and अपची ॥ It must be

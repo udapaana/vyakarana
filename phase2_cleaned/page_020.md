@@ -1,0 +1,49 @@
+---
+page_number: 20
+internal_page: 12
+chapter: "Rules of Sandhi"
+section: "sandhi"
+rules_starting: ["§ 16", "§ 17", "§ 18", "§ 19"]
+rules_continuing: []
+has_footnotes: true
+---
+
+§ 16. The three semivowels य्, र् and ल् are sometimes
+nasalised and then they are written with the anunāsika sign
+over them, as य̐, र̐, ल̐.
+
+§ 17. The numerical figures in Sanskrit are:—
+    १, २, ३, ४, ५, ६, ७, ८, ९, ०.
+    1, 2, 3, 4, 5, 6, 7, 8, 9, 0.
+These are combined to express larger figures precisely in the
+same way as in English; १२५ 125, ५४० 540, &c.
+
+                    Chapter II.
+
+                    RULES OF SANDHI.
+
+§ 18. By Sandhi (from सम् together, and धा to join) is
+meant the coalescence of two letters coming in immediate
+contact with each other.*
+
+(a) Saṁhitā† or sandhi is necessary in the case of the in-
+ternal structure of a pada, prepositions and roots joined to-
+gether and a compound word (समास), while in that of a
+sentence i. e. in the case of the finals and initials of the different
+words in a sentence, it depends on the will of the writer.
+
+I SVARASANDHI, OR THE COMBINATION OF FINAL AND
+                    INITIAL VOWELS.
+
+§ 19. If a simple vowel, short or long, be followed by a
+
+---
+
+## Footnotes
+
+* पा: संनिकर्षः संहिता । Pāṇ. 1. 4. 109. Saṁhitā is the extreme
+contiguity of letters.
+
+† संहितैकपदे नित्या नित्या धातूपसर्गयोः । नित्या समासे वाक्ये तु सा विवक्षा-
+मपेक्षते ॥ Sid. Kau. This couplet gives the rule for the observa-
+tion of Sandhi.

@@ -1,21 +1,35 @@
-[Internal page: 19]
-§23-24]                      RULES OF SANDHI.                    19
+[Internal page: 38]
+38                        SANSKRIT GRAMMAR.                    [ § 69
 
-(b) अ, इ, उ and ऌ, short or long, at the end of a word :followed by a short ऋ, are also optionally not combined, and when not combined are shortened if long*; e. g. ब्रह्मा+ऋषिः:=ब्रह्मर्षिः A Brâhmana ssaint, and ब्रह्म ऋषिः; सप्तर्षिणाम् of the seven sages, and ससऋ र्षीणाम् (a comp. expression).
+  V.    गुरो              गुरू                   गुरवः
+  A.    गुरुम्            गुरू                   गुरून्
+  I.    गुरुणा         गुरुभ्याम्                गुरुभिः
+  D.    गुरवे              ,,                   गुरुभ्यः
+ Ab.    गुरोः              ,,                      ,,
+  G.     ,,              गुर्वोः                   ,,
+  L.    गुरौ               ,,                   गुरुणाम्
+                                                 गुरुषु
 
-§24. ए, ओ, ऐ and औ, when followed by a vowel, are changed to अय्, अव्, आय्, and आव respectively†; e.g. हरे+ए=हरये for Hari; विष्णो+ए=विष्णवे for Vishnu; ने+अकः:=नायकः A leader; पौ+अकः:=पावकः the purifier i.e. fire,
+                    धेनु fem. a cow.
+  N.    धेनुः             धेनू                   धेनवः
+  V.    धेनो              ,,                      ,,
+  A.    धेनुम्             ,,                      ,,
+  I.    धेन्वा         धेनुभ्याम्                 धेनुः
+  D.    धेनवे, धेन्वै                            धेनुभिः
+ Ab.    धेनोः, धेन्वाः      ,,                   धेनुभ्यः
+  G.     ,,    ,,         धेन्वोः                   ,,
+  I.    धेनो, धेन्वाम्      ,,                   धेनूनाम्
+                                                 धेनुषु
 
-(a) य or व at the end of a word and preceded by अ or आ is optionally dropped when followed by a vowel or a soft consonant§; e.g. हरे+एहि=हरयेहि or हर एहि; विष्णो+इह=विष्णविह or विष्ण इह; भिये+इयतः:=भियायियतः or भिया इयतः intent on getting money; प्रारौ+उत्कः:=प्रारावुत्कः or प्रारा उत्कः longing to see the preceptor.
+                    वारि neu. water.
+  N.    वारि           वारिणी*                 वारीणि
+  V.    वारे or वारि       ,,                      ,,
+  A.    वारि               ,,                      ,,
+  I.    वारिणा         वारिभ्याम्                  ,,
+  D.    वारिणे            ,,                   वारिभिः
+ Ab.    वारिणः            ,,                   वारिभ्यः
+  G.    वारिणः            ,,                      ,,
+  L.    वारिणि         वारिणोः                वारीणाम्
+                          ,,                   वारिषु
 
-Note—Two vowels brought together by the disappearance of an intervening consonant or visarga do not coalesce.
-
-(b) ओ and औ, when followed by a termination beginning with य्, become अव् and आव् respectively ‡; e.g. गो+यं=गव्यम् produced from a cow as milk, ghee &c. गौ+यं=गाव्यम् accessible by a boat, navigable.
-
-N.B. This rule holds good, in the case of roots, only when the ओ or औ is brought in by virtue of a termination, × e. g. लु+यं=लों+यं=लव्यम् fit to be lopped off. अश्वयल+यं=अश्वयलो+यं=अश्वयलव्यम् which ought necessarily to be cut off.
-
-(c) The औ of the word गो is also changed to अव् when followed
-
-* ऋत्यकः Pân VII. 1. 127.
-
-† एचोऽयवायावः Pân. VI. 1. 78. § लोपः ज्ञाकल्यस्य। Pân. VIII.3.19.
-‡ यान्तो भि प्रत्ययेऽ। × धातोऽत्तिक्रामिनिचस्थोः। Pân. VI. 1. 79. 80.
+* इकोऽचि विभक्तौ । Pān. VII. 1. 73. Neu nouns ending in इ, उ, ऋ or ऌ take the augment न् before vowel case terminations.

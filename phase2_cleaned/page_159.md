@@ -1,0 +1,29 @@
+---
+page_number: 159
+internal_page: 151
+chapter: "Compounds"
+section: "compounds"
+rules_starting: ["§ 250", "§ 251", "§ 252"]
+rules_continuing: ["§ 249"]
+has_footnotes: true
+---
+
+here what is meant is herdsman only and not his variegated cows.
+
+§ 250. *The negative particle अ or अन् and prepositions, may, sometimes, form Bah. compounds with substantives; the verbal derivatives used to express their sense may be optionally retained; अधिगमानः गुरः यस्य स अगुरः; प्रपतितानि पर्णानि यस्य स प्रपर्णः: a tree with its leaves dropped; निर्गता घृणा यस्य स निर्घृणः: ruthless; उद्धृता कन्धरा यस्य स उत्कन्धरः: with the neck uplifted; विगतं जीवितं यस्य स विजीवितः: dead &c. Also अधिगमानगुरः; प्रपतितपर्णः: &c.; आस्ति क्षीरं यस्याः सा आस्तिक्षीरा गौः: a milk-cow (where आस्ति is an indeclinable meaning 'having').
+
+§ 251. †The particle सह may be compounded with a noun in the Instrumental case in a Bahuvrīhi when there is equal participation in some action; in this case सह optionally becomes स; as पुत्रेण सह सहपुत्रः or सपुत्रः.
+
+(a) सह remains unchanged when the compound involes a blessing but is necessarily changed to स when followed by गो a cow, वत्स a calf, or हल a plough, even when a blessing is pronounced; as स्वस्ति राज्ञे सहपुत्राय, सहभ्रात्राय, &c.; सगवे, सवत्साय, सहलाय.
+
+§ 252. ‡A compound of an indeclinable or a numeral or of आह्,स, अहर् or अधिक with a numeral is a Bahuvrīhi. In the
+
+---
+
+## Footnotes
+
+* प्राड्र्भ्यो धातुजस्य वाच्यो वा चोत्तरपदलोपः । नञोऽस्त्यर्थानां वाच्यो वा चोत्तरपदलोपः । Vārtikas on Pāṇ. II. 2. 24.
+
+† तेन सहेति तुल्ययोगे । Pāṇ. II. 2. 28. गोवत्सजनस्य । पञ्च्याशिषि । Pāṇ. VI. 3. 82-83. अगोवत्सहलेक्षिति वाच्यम् । Vārt. The restriction तुल्ययोगे is not universal as there are instances in which there is no equal participation; e. g. सक्रन्दक, सकोलक, सपक्षक &c.; hence the Vrittikāra remarks-' प्रायिकं तुल्ययोगे इति विशेषणमत्यन्तापि समासो दृश्यते । Dikshita also says तुल्ययोगाऽवधने प्रायिकम् ।
+
+‡ संख्यायाऽव्ययासन्नदूराधिकसंख्याः संख्येये । Pāṇ. II. 2. 25.

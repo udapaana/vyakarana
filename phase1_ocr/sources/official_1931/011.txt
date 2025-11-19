@@ -1,9 +1,23 @@
-PREFACE.
+[Internal page: 11]
+§13-15]                       THE ALPHABET.                       11
 
-          ———: 0 :———
+स्क s-ka, स्ख s-kh-a, स्त s-ta, स्त्य s-t-ya, स्त्र or स्त्र s-t-ra, स्त्व s-t-va, स्थ s-tha, स्न s-na, स्न्य s-n-ya, स्प s-pa, स्फ s-pha, स्म s-ma, स्य s-ya, स्र s-ra, स्व s-va. स्स s-sa.
 
-The present Grammar has been prepared with a view to meet the growing wants of the Indian University students. The University examiners have been, of late, evincing a desire to exact a more thorough knowledge of the obscurer and therefore more difficult parts of Sanskrit Grammar, than was required formerly. In fact, a student of the present day, with Sanskrit for his second language, must, if he wishes to pass his University examinations with credit, acquire more than a general knowledge of the various departments of Sanskrit Grammar, while none of the grammars now accessible to the Indian student, with the exception of one or two, supply him with the necessary information on the various topics discussed in the original Sanskrit works. Dr. Bhándárkar's books, though ingeniously sketched and admirably executed, are admittedly meant to introduce a student to the vast field of Sanskrit Grammar. Dr. Kielhorn's Grammar aims more at brevity and perspicuity than at fullness of treatment with conciseness. Prof. Whitney's grammar is too elaborate, and therefore too high for the ordinary student. Prof. Monier Williams' grammar and others, though excellent in themselves, are expressly written for European students and are more suited to them than to the Indian students. I have, therefore, done my best to bring the present Grammar up to the requirements of the high standard.
+ह्ण h-na, ह्न h-na, ह्म h-ma, ह्र-ha, ह्व h-va, ह्ल h-la, ह्व h-va. Sometimes five consonants are found in conjunction: e.g. त्स्न्यं r-t-s-n-ya, as in कार्त्स्न्यं.
 
-Now, a few words on the scope and arrangement of the work and I will conclude. As remarked by Dr. (Now Sir) Bhándárkar* "Grammar was not an empiric study with Pánini and the other ancient grammarians of India." In fact in the hands of the ancient Grammarians of India, Sanskrit Grammar rose to the dignity of a science and must
+§13. As sandhi is of primary importance in Sanskrit, viráma or pause can be indicated only at the end of a sentence. The signs of punctuation, therefore, are only two, । and ।। The former is used to mark the close of a sentence or the first half of a s'loka or poetical stanza; the latter is employed to denote the close of a s'loka.
 
-* Introduction to the 3rd Ed. of the 2nd Book of Sanskrit.
+(a) The sign called Avagraha (and which represents half अ Ardhákára) is generally employed to mark the elision of short अ after ए or ओ; e.g. तेऽपि (ते+अपि), कालोऽस्ति (कालो+अस्ति). The double mark ऽऽ is sometimes used to indicate the elision of आ after initial long आ; तथाऽऽस्ते=तथा+आस्ते.
+
+(b) The mark ० is sometimes used to show that something is omitted, and which is to be understood from the context; e.g. अ० may stand for अर्जुनं, ०यार्यां for कविवरः:प्रार्थं; &c.
+
+§14. Short vowels when followed by a conjunct consonant are said to be prosodially long.
+
+§15. The vowels अ, ए, ओ and the syllables अर् and अल् are called Guna; the vowels आ, ऐ, औ and the syllables आर् and आल् are called Vrddhi*. The Guna and Vrddhi vowels and syllables that are substituted for the simple vowels will appear from the following table:—
+
+[THIS IS TABLE:
+Simple V. | अ | इ & ई | उ & ऊ | ऋ & ॠ | ऌ
+Guna.     | अ | ए     | ओ    | अर्   | अल्
+Vrddhi.   | आ | ऐ     | औ    | आर्   | आल्]
+
+* वृद्धिरादैच्। आदेङुणः। उरण्रपरः Pân. 1, 1, 2; 1, 51.

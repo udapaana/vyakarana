@@ -1,42 +1,38 @@
-[Internal page: 99]
-§ 150-154 ]    PRONOUNS AND THEIR DECLENSION.                    99
+[Internal page: 117]
+§ 189-192 ]                    COMPOUNDS.                    117
 
-Nom plu. and Ab. and Loc sing. optionally like राम when
-mas ; as स्वे or स्वाः 'one's own' Nom plu.; but स्वाः 'people of
-one's class' only ( declined like राम ).
+mridanga and panava ( kinds of tabors ); धाताश्च fried barley or
+rice शाङ्कव्यश्च a kind of sweetmeat धान्नाञ्च्छादिः; but रूर्पं च रसश्च
+रूपरसौ form and flavour, as these denote qualities; गंगा च शोणश्च
+गंगाशोणम् the rivers Ganges and Sona; but गंगायमुने as these
+do not differ in gender; कुरवश्च कुरुदैवं च कुरुकुरुदैवम् names
+of countries; but जाम्बवज्ञातादिकन्यौ ( two villages of that name );
+मद्राश्च  केकयाश्च मद्रकेकयः ( two names of the same gender );
+यूका a louse च लिक्षा a nit च यूकालिक्षवः; अहिश्च नकुलश्च अहिनकुलम्
+a snake and an ichneumon, &c.
 
-§ 151. अन्तर is a pronoun ( and therefore declined like सर्व* m.
-n f ) when it means " exterior, outer; or what is to be worn
-out-side, as a garment"* except when followed by पर ; it is
-optionally declined like nouns ending in अ in the Nom. pl. and
-Ab. and Loc. sing. of the mas, e. g अन्तरे अन्तरा वा यदः;
-अन्तरे-अन्तरा वा शाट्कः ( garments ). But अन्तरायां पुरे.
+§ 190.  Names of trees, deer, grass, corn, condiments, beasts,
+birds, the pairs of words—अम्व  and  वहत्, पूर्वे  and  अपर,
+उत्तर and अधर—and words of opposite import not qualifying
+things ( द्रव्यs ), are optionally compounded into a Samāhāra.
+Dwandwa;* instances in order—पुक्षाश्च  न्ययोधाश्च एक्षन्ययोधम्
+-धाः ; similarly रूरुपृषतम्-तौः ( kinds of deer ), कुञ्चकाशम्-शौः
+kinds of grass, व्रीहियवम्-वौः kinds of corn, दुर्पिधुत-ते, गोसांहङ्गम्-
+याः, शुकशकुं-कौः, अथवङ्गदौ-वौ, पुवंपिरं-रे , अधरोत्तरं-रे; but ज्ञोतिष्णौ जलं-
 
-§ 152. नेम meaning 'half' is a pronoun, but it is optionally
-declined like राम in the Nom. plu. mas ; in other respects it is
-declined like सर्व.
+§ 191.  The names of fruits, parts of an army, herbs, deer,
+birds, insects, corn and grass, form a Samāhāra-Dwandwa,
+only when they are taken in the plural;† as बदराणि च
+आमलकानि च बदरामलकम्, but बदरौ च आमलकौ च बदरामलकै;
+रथिकश्च अश्वारोहश्च रथिकाश्वारोहौ, &c.
 
-§ 153. पूर्व 'prior, eastern', अवर 'posterior, western', दक्षिण
-'southern,' उत्तर 'superior, northern, subsequent', अपर 'other,'
-and अधर 'inferior, lower,' when they denote relation in space,
-time or person with reference to a particular thing or point of
-time &c. and are not a name, are pronouns† and are then declin-
-ed like सर्व; but they are optionally declined like राम in the
-Nom. plu. and Ab and Loc. sing. when mas; e. g. Nom. पूर्वे:
-पूर्वे पूर्वे or पूर्वाः Ab. पूर्वाद्-पूर्वस्मात् पूर्वाभ्याम् पूर्वेभ्यः; Loc. पूर्वे-पूर्वस्मिन्;
-&c.; but दक्षिणा: गायकाः ( skilful musicians ) only, and not दक्षिणे,
-for दक्षिण does not show any relation here; so उत्तराः कुरवः and
-not उत्तरे, as उत्तराः is a name here.
+§ 192.   The following compounds are always what they
+are laid down to be ( though they do not conform to the proper
+rules ); viz.
 
-§ 154. एक when a numeral is declined in the sing. and द्वि
-in the dual only, द्वि. is considered as द्व, and they are both
-declined like सर्व in all the three genders; o g
+( a )  Samāhāra Dwandwas:—ग्रावभ्य अघाश्च भवान्धम् ; एत्राश्च
 
-            एक                        द्वि.
-        Mas.        fem.        mas        fem. &c. neu.
-N.    एकः        एका        द्वौ            द्वे
-V.    एक        एके        ,,            ,,
-
-* अन्तरे बहिर्योगोपसंख्यानयोः । Pān. I. 1, 36. अन्तरं बहिर्योगिति
-गणसुत्रेऽडपूरिति वक्तव्यम् । Vārt
-† पूर्वपरवदक्षिणोत्तरापराणि ख्वस्थापुगामसंज्ञायाम् । Pān.        34
+* विभाषा टुष्मुसृगुणधान्यस्वज्ञेतषडुश्चञ्च्यथवडपुत्राणिपिरामोत्तराणाम् ।
+किप्रतिषिद्धं चानधिकरणवाञ्च । Pān. II. 4. 12, 13.
+†  फलसेनावनस्पतिध्यश्चकुनिश्चछद्रजन्तुयाप्ययतुगानां  चहुप्रकृतिरेव  द्विद्
+थक्वादेति वास्त्रयम् । Vārtika.

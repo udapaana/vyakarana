@@ -1,17 +1,13 @@
-[Internal page: 158]
-158                    SANSKRIT GRAMMAR.                    [ § 256-257
+[Internal page: 174]
+172                          SANSKRIT GRAMMAR.                  [§286-288
 
-सूक्ष्मस्य गन्धः यस्मिन् तद् द्रुरूस्मिन् भोजनम्; so घुतगन्धि a dinner in which there is a scanty supply of ghee, &c; पद्मस्य इव गन्धः यस्य तद् पद्मगन्धि 'that which has the smell of a lotus.'
+मिम्‌, शनज्‌ and त्रिष्क; as पादाभ्यामजतीति पदाजि:, पद्भ्यामततीति पद्भाति: पद्भ्यां गच्छतीति पद्य: all meaning one walking on foot, a pedestrian; a foot-soldier', &c.; पदोपहत: 'beaten down by the feet'; पादि्धमन् 'coldness of the feet;' पादौ काष्ठवै शीलमस्य पदकर्षी 'one accustomed to tax his legs, a footman'; पदा इति: पद्धति: a beaten-track, a way, a road; पदोप: or पादधोष:; पणिमय: or पादिमय्; पच्छन्द: or पादषष्द: पदिष्क: or पादनिष्क: 'quarter of a Nishka' (a gold coin).
 
-(d) * नासिका becomes नास when it is preceded by a preposition or when the compound is used as a distinguishing name and it is preceded by any word except स्फूल; उद्धता नासिका यस्य स उन्नासः 'one having a prominent nose,' षुणसः 'one having a good nose' द्रुतिव नासिका यस्य द्रुणसः † 'one whose nose is like a tree,' 'large-nosed;' but स्फुलनासिकः. नास becomes नष् optionally when preceded by खुर or खर; as खुरणसः. or खुरणाः 'having a nose like a horse's hoof i. e. flat;' खरणसः-णाः 'sharp-nosed' नासिका when preceded by वि becomes य or यष, as विगमा नासिका यस्य स विघ् or विध्नः 'one having a deformed nose.'
+§287. * हृदय becomes हृद necessarily when followed by लेश (formed with the affix अण्‌), and लास and the Tad. affixes य (यत्‌) and अ (अण्‌), and optionally when followed by शोक and रोग and the Tad. य (ष्यञ्‌), हृदयं लिखतीति हृल्लेख: 'heart-ache', (क्षत्रि ह हृदयलेख: Sid. Kau.), हृलास: 'disquietude,' 'hiccough'; हृदयस्य प्रियं हृद्य 'agreeable to the heart'; हृदयस्यैवे हार्दं, हृच्छोक: or हृदयशोक: 'the pang of the heart;' हृदयरोग:; हृद्रोग:.
 
-§ 257. The following words lose their final vowel when at the end of a Bahuvrihi:—
+§288. (a) उदक† becomes उद necessarily (1) when it forms a proper name, also when it is final; or (2) when followed by the words पूर्‌, वास, वाहन, and धि: उदमेघ: 'a particular cloud filled with water'; उदधि:, क्षीरोद: the sea of milk; उड्गणोद: &c.; उदवर्षं तिष्ठति, उदवास: standing in water; उदवाहन; उदधि: 'a vessel for holding water' घट:, सम्यदे तु पूर्णेण सिद्धम् Sid. Kau.;
 
-(a) ‡ The word पाद् when it is preceded by a numeral or ङ or when the compound involves comparison and it is not preceded by a word of the हस्त्यादि group (हस्तिन्, अज, कूरुल्, अश्व, कषोत, जाल, गण्ड, हासी, गणिका and some others), द्वौ पादौ यस्य द्विपाद् a biped; दुपाद् fair-footed; (द्वाद्रास्य इव पादौ यस्य.) &c. but हस्तिपादः, कूदुल्पादः, &c.
+(b) and optionally when followed by a word beginning with a simple consonant and denoting 'a vessel to be filled up with water', and by मन्थ, औदन, सक्तु, विन्दु, वज्र, मार, हार, शीर्षप् 'a yoke with a pan at each end for carrying loads' (काष्ठ Maráthi) and गार; उदकुम्भ: or उदकुम्भ; but उदकस्थाली (as स्थाली begins with a conjunct consonant), उदकपर्वत; उदमन्थ्य: or उदकमन्थ्य: barley-water; उदौदन: or उदकौदन: rice boiled with water,
 
-(b) पाद् becomes पद् and the comp, takes ई in the fem. in the case of the words कुम्भपदी, and others (i. e. कुम्भपदी, एकपदी, जाल्पदी, दडैपदी, शोतपदी, विपदी, द्विपदी, त्रिपदी, दासिंपदी, विष्णुपदी, घुपदी, &c.;) § but कुम्भपादः mas.
-
-* अत्र नासिकाया: संज्ञायां नसं चारसुल्लाद् । उपसर्गोच्च । Pān. V 4. 118. 119 वेभ्यो चकृष्ण । स्थश्र Vārtikas.
-† पूर्वेपदात्सेज्ञायामयः । डुपसर्गादुलेम् । Pān VIII. 4. 3. 28
-‡ पादस्य लोपोऽङहूस्त्यादिभ्यः । संख्यापूर् पदैच्च । Pān. V 4. 138. 140.
-§ कुम्भपदीषु च । Pān. V. 4. 139.
+* हृदयस्य हृल्लेखलासयोश्च । वा शोकव्यञ्रोगेषु । Pāṇ.VI. 3. 50. 51.
+† उदकस्योदः संज्ञायाम् । उत्तरपदस्य चेति वक्तव्यम् । पूर्ववासवाहनधिषु च । एकदहलादौ पूर्वविधेऽन्यत्रपरत्वात् । मन्थौदनसक्तुविन्दुवज्रमारहारशीर्षपागारेषु च । Pāṇ. VI. 3. 57-60.

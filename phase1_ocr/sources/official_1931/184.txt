@@ -1,29 +1,18 @@
-[Internal page: 167]
-अव्ययीभावः                                                           167
+[Internal page: 184]
+184                                     SANSKRIT GRAMMAR.                         [ § 308-310
 
-§ 279. अव्ययीभावेऽधिकरणे ॥
+(d) Obs—*The words केवल, नामक, भागभेय पाव, अपर, समान, आर्यकृत. द्रमदृगल and भैयज form their fem. in ई when they are used as names ( or in the Veda ); केवली, मामकी, समानी, आर्यछेती &c ; but केवला, समाना, &c. when they are not names.
 
-In the Avyayībhāva the first member of the compound is in the Locative case, when expressing अधिकरण (locus or position).
+( e ) The words ततैक, खनक. रअङ्क and रजक, those derived by adding the Kṛit affixes आक. and झ ( added to certain roots ) and the words included in the गैसादिकरण † form their fem. in ई; दत्तैकी, रजकी &c. कुट्टाकी one who divides or cuts; लुट्टाकी robbing or stealing, घाचौ, &c.; गौर्ङो, मदुर्षौ, शुंर्गो, ङुरिणी, मातामहौ, पितामहौ &c.; सुंदर has सुंदरा and सुंद्री.
 
-Examples:— उपकुम्भम् 'near the jar', अधिहरि 'over or regarding Hari', अनुवृक्षम् 'along the tree'.
+§ 309. ‡ Some prātipadikas ending in the Tad. affix य insert आयद्‌ before ई; गार्ग्ययिर्याणी ( the grand-daughter of गर्ग ), लोहित्यायनी, काल्यायनी, &c.
 
-§ 280. एकवचनम् ।
+§ 310. The following eleven prātipadikas form their feminine in ई under the circumstances mentioned §—जानपद when it qualifies द्रुनि or 'maintenance', कुण्ड when it means 'a vessel' or 'a man of a mixed class', गोर्ण 'a full sack', स्थल 'natural site', भाज 'boiled,' नाग ' a huge elephant', and काल 'a particular colour, नील when it does not refer to a garment ( or rather refers to an animal ) or means 'indigo', कुश when it means 'something
 
-The first member of an Avyayībhāva compound must be in the Singular number.
+* Vide Pān. V. 1. 30,
 
-Example:— यथाशक्ति 'according to power' (not यथाशक्तयः), अनुरथम् 'after the chariot' (not अनुरथान्).
+† भिदैरादिभेयभ्र । Pān. IV. I. 41. The following are the more important of the words included in the गैसादि group:—गौर, मदुष्य, मुर्य, धुट, रोण, हरिण, हुण. आमलक, बदर, बिब्ब, पुष्कर, सिद्धष्क, इषय, आलिन्द, आट्टक, अभ्यन्त्रस, उभय, भृङ्ग, मह, मय, म्बुव, तक्षन्‌, अनुट्रूह‌ , अनडुवाह‌ , देह, देहली. रजन, आरट, नट, आस्तरण, आयहारण, महङ्गल, मन्थर, मषदुल, पिषष, हुद्‌, द्रृद्यत्‌, मह्म्‌, सौघर् &c.
 
-§ 281. विशेषणञ्च ।
+‡ संवेत्र लोहितादिकन्तोऽभ्यः । Pān. IV. I. 18.
 
-And an adjective (used as the first member) must also be in the Singular.
-
-Example:— यथामहत् 'according to greatness' (not यथामहान्ति).
-
-§ 282. अजातेरुपसर्गो गतिः । गत्यर्थः कर्मप्रवचनीयः ।
-उपसर्गः क्रियायोगे ।
-
-Obs. When a root having the sense of 'going' or 'motion' is compounded with an उपसर्ग (preposition), the latter is called गति. A word having the sense of गति is called कर्मप्रवचनीय. And any उपसर्ग used in connection with an action is so termed.
-
-Examples of गति:— प्रविशति 'he enters', अभिधावति 'he runs towards'.
-
-Examples of कर्मप्रवचनीय:— आमुखम् 'up to the face', अधिहरि 'over Hari', परिभूमि 'around the earth'.
+§ जानपदकुण्डगोरणस्थलभाजनागकालनीलद्रुकावदुकबेडाइब्र-पनाकुत्रिमाश्राणाथ्थोरपवर्णीनाउद्राट्रुनायोविकारमोनेच्छोकैवचौङ्ग । Pān. IV. 1. 42. अनाच्छोदनेऽति न संवेत्र किचु । नीलदोवषो । भाणिनि च । संज्ञायां वा । Vārt. शोण्यास्याचाम् । Pān. VI. 1. 43.

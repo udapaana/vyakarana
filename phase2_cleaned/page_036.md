@@ -1,0 +1,30 @@
+---
+page_number: 36
+internal_page: 28
+chapter: "Rules of Sandhi"
+section: "sandhi"
+rules_starting: ["§ 44", "§ 45"]
+rules_continuing: ["§ 43"]
+has_footnotes: true
+---
+
+vowel, a nasal or ह्, undergoes the same changes*; e. g. शान्ति + छिन्दु = शान्ति + छ् + छिन्दु = शान्ति + च् + छिन्दु ( by §_28.
+sec. a ) शान्तिच्छिन्दु and शान्तिँच्छिन्दु Oh Kṛṣṇa, cut off; similarly दर्भिन् + आयस्स = दर्भिँआयस्स and दर्भिँआयस्स; save, Oh Kṛṣhṇa; but हनि as the न् is not at the end of a word. सत्सह, a fine handle of a sword. प्रशान्तकीर्ति a good man spreads.
+
+(c) The न् of नुन् when followed by प् undergoes this change optionally; नुन् + पाहि = नुँपाहि, नुँ:पाहि, and नुँ:पाहि.
+
+(d) The न् of कान् followed by कान् also undergoes this change optionally; कान् + कान् = काँककान्, कँःकान् to whom? स् or र् is substituted for the visarga when the following sets are combined : कः + कुः = कक्कुः; similarly कोतक्कुतः wherefrom, मातृष्पुत्रः, सप्तकालः the present time; सर्पिःकुण्डिका a ghee-pot; धनुःकपालम् a bowstaff; यजुर्पात्रम् a sacrificial vessel; स्वःकान्त a magnet; तमःक्षाण्डः great darkness; अपःक्षाण्डः; मारक्करः; अहःकरः the sun.
+
+§ 44. च् is necessarily inserted between छ् and the preceding vowel, short or long; and optionally when a long vowel at the end of a word, except that of the particle मा and the preposition आ, precedes it †; e. g. शिव + छाया = शिवच्छाया Śiva's shadow, so स्वच्छाया; वैच्छिद्यते what is cut again and again; लक्ष्मी + छाया = लक्ष्मीछाया or लक्ष्मीच्छाया; मा + छिन्दन् = माच्छिन्दन् may he not cut; आ + छादयति = आच्छादयति he covers.
+
+VISARGASANDHI.
+
+§ 45. स् at the end of a word followed by any letter or not, the
+
+---
+
+## Footnotes
+
+* नश्चव्यप्राशान् । Pāṇ. VIII. 3. 7.
+
+† छे च । Pāṇ. VI. 1. 73. Properly त् is inserted, but it is changed to च् by § 28. आङ्माङ्भ्यः । टीनाम् । पदान्ताद्वा । Pāṇ. VI. I. 74-76.

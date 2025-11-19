@@ -1,46 +1,45 @@
-[Internal page: 686]
+[Internal page: 700]
 
-124                   SANSKRIT GRAMMAR.
+138                   SANSKRIT GRAMMAR.
 
-विच्छ् 10 U. भाषावां दोंक्षौ च to speak, to shine; विच्छयाति-तै pre.
-   विच्छयाचकार-चक्रै p erf. अविविच्छत-न aor.
+श्वैन्द् 1 A. भुवैद्युै to become white; श्वैन्दुतै pre. शिश्वैन्दै perf. अश्वैन्-
+   दीष्ट Aor.
 
-विद् 3 U. पृथग्भावै to separate to distinguish; वेदुति, विदतै pre.
-   विवैद, विविदै perf. वैद्युति-तै fut. अवित्त्, अवैक्षीत् , अविक्त aor.
-   विविदिषति-तै des.
+                              ष—
 
-विद् 6 A. भुयभुयलायो: to fear, to tremble; विदतै pre. विविदै perf.
-   विदिता p. fut. अविजिष्ट aor. Cau.—वैजयति pre. अवीविदत् aor.
-   विविविदतै des.
+षिव् 1 & 4 P. निरसनै to spit, to sputter; षीवुति, षीव्युति pre. तिषैव,
+   टिष्टेव perf. टेविता p. fut. अषैवीत् aor. षीव्युयात् ben तिषिविषति,
+   तुषैषूषुति, टुषैषूषाति des. Cau.—षैवयुति-तै pre. षष्युत p. p.
 
-विद् 7 P. to shake, to fear: विनत्ति pre. विवेद perf. विदिता p. fut.
-   अविक्त aor. विवेविदति des.
+ष्वङ्कु 1 A. to go, to move; ष्वङ्कुतै pre. षुष्वङ्कै perf. ष्वाङ्कुिता p. fut.
+   अष्वङ्कुीष्ट aor
 
-विद् 1 P. आलोकौ शब्द च to curse, to sound, to rail at; वेदुति pre.
-   विवैद perf. अवैदीत aor
+                              स—
 
-विद् same as विद्.
+सग् 1 P. संद्रणै to cover; संगाति pre. सागिष्युति fut. असगीत् Aor.
 
-विइन्च् 10 U विइम्बनै to mock, to deceive; विइम्बयाति-तै pre. अवि-
-   विइम्बत-न aor.
+सघ् 5 P हिंसायां to kill; सघोति pre. असघीत्, असाघीत् Aor.
 
-विप् 1 A. वाचनै to beg; वैषतै pre. वैषिष्युतै fut. अवैषीष्ट aor.
+सङ्कुैत् 10 U. आमन्त्र्युणै to invite; सङ्कुैतुयाति-तै pre. असुसङ्कुैतत-न Aor.
 
-विद् 2 P. ज्ञानै to know, to regard; वैत्ति, वैद pre. विवैद, विदाचकार
-   perf. विदिता. वेदिता p. fut. अवैदीत्, अवेदीत् aor. विदित p.p. Cau.—
-   वैदयात-तै pre. अवीविदत-न aor. विविदिषति-तै des.
+संग्राम् 10 A. युद्धै to fight; संग्रामुयतै pre. संग्रामयिष्युतै fut.
+   असुसंग्रामत Aor.
 
-विद् 4 A. सत्तायां to happen, to be; विदुतै pre. विविदै perf. वेत्ता p.
-   fut. वैत्स्युतै fut. अविद्त aor. विदीष्ट ben. विविदुतै des. विद् p. p.
+सच् 1 A. सैचनै सैवनै च to sprinkle, to serve; सचतै pre. सचिष्युतै
+   असचीष्ट Aor.
 
-विद् 6 U. लाभै to get, to find to feel; विन्दति-तै pre. विवैद, विविदै
-   perf. वेदिता, वेत्ता p. fut. अवैदत्, अविदत्. अवैदीष्ट aor. विच्युयात्,
-   वेदीष्ट, विदीष्ट ben. विविद्युति-तै, विवि-द-निदुयाति-तै des. विद्ध
-   ( विन ) p.p.
+सच् 1 U. समद्वायै to be collected; सचुति-तै pre. असचीत्, असाचीत्,
+   असचीष्ट aor.
 
-विद् 7 A. निचार्षै to discuss, to consider; विन्दतै pre. विविदै perf.
-   ( For विद् p. p. For other forms dee विद् 4 A.
+सञ्ज् 1 P. सङै to embrace, to cling to, to fasten; सञ्जुति pre.
+   ससञ्ज perf. सष्टक्तं p. fut. असाझीत् aor. सञ्ज्युयात् ben. Pass,—
+   सञ्ज्युतै pre. असज्जि aor. सक्त p. p.
 
-विद् 10 A. चैत्तासुखानावनिशैषु to feel, to tell, to dwell; वैदयतै pre.
-   वैदयाचक्रै perf. वैदयिता p. fut. अवीविदत aor. विवेदयिषतै pre.
-   Pass.-वैद्युतै pre. अवैदि aor.
+सट् 1 P. अवयवै to be a limb or part of; सटुति pre. असटत्, असा-
+   टीत् Aor.
+
+सट् 10 U. हिंसायां to kill, to be strong, to dwell, to give; सट्युति-
+   तै pre. सट्युयाचकार-चक्रै perf. सट्युितै p. fut. असुसट्त-न aor.
+
+सट् 10 U. to finish, to adorn, to go, to leave unfinished; साट्युाति
+   -तै pre. साठयाचकार-चक्रै perf साठयिता p. fut. अषौसटत-न aor.

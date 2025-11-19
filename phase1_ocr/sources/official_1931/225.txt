@@ -1,21 +1,41 @@
-[Internal page: 211]
+[Internal page: 225]
 
-§ 341-342 ]                             TADDHITA AFFIXES.                                  211
+§ 365-366 ]                    INDECLINABLES.                         225
 
-to पिञ्छ, उरस्‌, भूषकः, वर्णः, उदकैं and पुञ्छ necessarily ; to सिकता, शकेरा and फेन optionally; तुम्बिलः ' having a protuberant belly, corpulent '; उदरिलः, पिच्छिलः ( have the same sense ); प्रतिल ' intelligent '; पिस्तिलः ' slimy, slippery '; उरसिल ' having a broad chest '; पार्दुलः 'muddy' सिकतिलः ' sandy ', शकेरिलः, फेनिलः, &c.
+e. g. प्रह ' to strike," आह ' to eat, to perform as a sacrifice,' संह
+' to contract,' विह ' to sport,' परिह ' to avoid, &c.' Sometimes
+they are prefixed without any alteration in the sense.
 
-इर—दन्तुर ' having projecting teeth, hence also rugged ' &c. .
+§ 366.    The following are the prepositions ( upasargas ) com-
+monly prefixed to roots:—
 
-उल—is added to वल and वात in the sense of ' not enduring '; as बलुलः ' not able to face the army of the enemy ', ' one who cannot withstand the strength of another '; वातुलः ' one that cannot bear the wind'. When added to वात it has also the sense of ' a collection '. वातुलः ' a hurricane '
+अति—' beyond, over'; अतिक्रम: ' overstepping ' or ' going beyond,
+        अतिसर्जन ' a gift, &c.'
 
-यमनु—This is added to the word वाच् in a good sense, as आट or आल is added in a bad sense; वाग्मिनु ' eloquent, an orator.'
+अधि—' over, above, &c ;' अधिगम: 'going up, acquisition,'अधिकार
+        ' high office or power,' अधिक्षेप: ' censure,' &c.
 
-यद्‌( झहुर्‌)—is added to कुम्रुद, नड़ु and बेतस्; कुम्रुद्वद्‌ ' a place abounding in lotuses '; नडद्‌ ' atounding in the nada grass ', बेतस्वद् ' abounding in canes '.
+अनु—' after, behind, along, &c.' अनुक्रमण ' following,' अनुच्छोति·
+        ' imitation,' अनुग्रह: ' favour,' &c.
 
-यद्‌ ( महुर्‌)—is the general term. expressing possession ;* it is added in the sense of ' it has that or that is in it '; e.g. गाभोऽस्यासिन्नसा सन्तीति गोमान्‌ ' possessing cows', &c. It is specially added to the words रस, रुप, वर्ण, गन्य, स्वरौ, स्नेह, शवद् and स्व; रसवान्‌, रुपवान्‌, &c.; स्वबान्‌.
+अप—' away from, away.' अपनयनं ' the act of taking away,' अपह·
+        ' to plunder, seize ' &c , अपकार: ' harm, wrong' &c.
 
-§ 342. ( a ) The म of the termination मतु is changed to व when affixed to words ending in म or अ, short or long, or having either for their penultimate †; किंवद् from किम्‌, विद्यावद्‌,
+आपि ( sometimes पि )—'near to,' ' over,' ' taking to,' &c.; अपिगम्
+        ' to be resolved into or reduced to, * , अपिधानं or पिधानं
+        ' a covering,' अध्यय: ' destruction,' &c.
 
-* तदस्यास्त्यस्मिन्निति मतुप् । रसादिभ्यश्च । Pān. V. 2, 94. 95.
+This prep. is more commonly used as an independent adverb
+having a cumulative force in classical Sanskrit.
 
-† मादुपयाश्च मतोर्वोऽप्वादिग्म्यः । Pān. VIII. 2, 9.
+अभि—' towards, near to,' &c; अभिगम् ' to go towards,' अभिजन:
+        ' noble descent or family,'आभिमान: ' self-respect,' अभिरुच्
+        ' to defeat,' &c.
+
+अव—( sometimes व; see अपि and it, note )—'away, down,' &c.
+    अव—or वगाह ' to plunge into,' अवतार: ' descent,' अवगतं
+        ' reproached,' अवमन् to disrespect,' &c.
+
+* Cf. कारणेन अपिगच्छत् करणं, &c Shārīra Bhāshya. According
+to the grammarian Bhāguri the prepositions अपि and अव may
+optionally lose their अ- वाटे माप्रारेरहोपमबाप्रोरुपलेगेपोतः (Sid.Kau.,

@@ -1,0 +1,33 @@
+---
+page_number: 173
+internal_page: 165
+chapter: "Compounds"
+section: "compounds"
+rules_starting: ["§ 275", "§ 276", "§ 277", "§ 278", "§ 279"]
+rules_continuing: ["§ 274"]
+has_footnotes: true
+---
+
+(o) अनु meaning 'towards' or 'alongside of,' 'lengthwise,' is also similarly compounded; अनुवनम् ( वनस्य समीपे अशनिर्गतः 'the thunderbolt passed ) towards the forest'; वङ्गया अनु अनुगङ्गम् वाराणसी 'Varânasi is alongside the Ganges' ( भङ्गावेच्यंसहशब्दैच्यो. षष्ठ्येतत् इत्यर्थः S. K.)
+
+§ 275. *The words पार and मध्य optionally form Avya. compounds with any nominal base, and are placed first, the final अ being changed to ए when thus compounded; e. g. पारे-मध्ये-गङ्गाम् from the middle of the Gangetic stream; optionally of course, the Gen. Tat.; also पङ्गापारात्, गङ्गामध्यात्. In this case the Ab. termination is irregularly retained. If the final noun has the sense of the Loc. the final vowel may be changed to अक्; as पारे-मध्ये-गङ्गक्; cf. पारेसहद्रम् Bhatti. V. 4.
+
+§ 276. (a) † A numeral may optionally be compounded with a noun, showing relation by blood or by some kind of learning, to form an Avya. comp.; द्वौ मुनी बन्धवौ विद्वांते, व्याकरणस्य विद्वांते; e. g. त्रिमुनि व्याकरणम्, 'Sans. Grammar of which the three sages-Pânini, Kâtyâyana and Patanjali, are the authors in succession.'
+
+(b) ‡ and with names of rivers, this comp. also shows an aggregate; सप्तगोदम्, द्विःयमुनम्.
+
+§ 277. †† Any noun may be compounded with the name of a river, into an Avya. comp. to form a name; उन्मत्तगङ्गम्, 'a place where the Ganges is very boisterous,' so लोहितगङ्गम्, &c.
+
+§ 278. The indeclinables समया, निकषा, आरात्, अभितः, परितः, पश्चात्, do not combine with any noun; समया ग्रामं, निकषा छात्रम् &c.
+
+§ 279. The following Avya. compounds are anomalous ¶:-
+
+---
+
+## Footnotes
+
+* पारेमध्ये पञ्चमा वा । Pân. II. 1. 18.
+† संख्या पूर्वेन । Pân. II. 1. 19. बंधो रिक्था विद्या जन्मना च । Sid. Kau.
+‡ नदीभिश्च । Pân. II. 1. 20 समाहारे चायमिष्यते । Vârt.
+†† अन्यपदार्थे च संज्ञायाम् । Pân. II. 1. 21.
+¶ तिष्ठद्गुप्रभृतीनि च । Pân. II. 1. 17.

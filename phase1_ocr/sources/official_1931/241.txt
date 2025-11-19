@@ -1,41 +1,39 @@
-[Internal page: 227]
+[Internal page: 241]
 
-§ 366-369 ]                    INDECLINABLES.                         227
+§ 386-387 ]         CONJUGATION OF VERBS.                     241
 
-वि—' apart, separate from, reverse to, ' &c.; विच्चल् ' to move
-        apart,' विच्युच् 'to be separated,' विक्रो opp. of क्री ' to
-        sell,' 'to buy' &c.; sometimes this has an intensive force.
+§ 386.  These ten classes may again be conveniently divided into two groups, the first comprising the 1st, 4th, 6th and 10th classes, and the second the remaining.  In the first the base ends in अ and remains unchanged throughout; while in the second it does not end in अ and is changeable.
 
-सम्—'together with, excellent, full,' &c. संगम्, ' to be united,'
-        संस्कार: ' perfection ,' संस्कृति ' refinement ,' संहार:
-        ' destruction, contraction, ' &c.
+                          I.  GROUP 1.
 
-सु—'well, thoroughly,' &c. ( in this sense it is opposed to दुष् );
-        सुछते 'done well,' डुशासित 'thoroughly trained, well
-        governed,' &c.  It is also used in the sense of ' very,
-        excessively; सुमहत् 'very great,'
+              ROOTS WITH UNCHANGEABLE BASES.
 
-§ 367.    Two or more of these prepositions may also be
-combined and prefixed; e. g. अभिनिविद्चः ' to enter into with
-resolution,' संमुपगम् 'to come in close contact with,' &c.
+                  ( 1st, 4th, 6th and 10th classes ).
 
-§ 368.    When used in a compound the verb may be omitted
-after the prepositions अति, अधि, अनु, अप, अव, अभि, उप, परि and
-प्रति; अतिक्रान्तो मालां अतिमाळः &c. Vide § 232.
+§ 387.  Terminations:—
 
-§ 369.    There are several other words, also styled Gati by
-Sanskrit grammarians, used prepositionally. These are prefixed
-to certain roots only. We give the more important of them below.
+                          Present.
 
-    ( a ) अच्छ* ' towards ' is prefixed to वद् and to roots implying
-'motion; अच्छगम्य—गत्व ' going near,' अच्छपतत् 'flying towards,'
-अच्छोत्य 'having spoken to.'
+        Par.                          Ātm.
+    S.     D.      P.            S.      D.       P.
+1.  ति     वस्    मस्            इ      वहे      महे
+2.  सि     थस्    थ              से     इथे      ध्वे
+3.  ति     तस्    अन्ति          ते     इते      अन्ते
 
-    ( b ) ( 1 ) अन्वाजे ' giving strength to the weak,' अलं in the
-sense of ' decorating,' ऊर्ती, उरर्ती, ऊररी all implying ' assent,
-acceptance or promise,' खाद् and similar imitative sounds, अस्त
-and सत् in the sense of 'dishonouring or honouring;' प्रास्तं
-denoting 'fastening,' &c. are prefixed to छ; अन्वाजेकरणम्, ऊर्ती-
-करणम् , अस्तकारः, साङ्क्रस्य, खाङ्क्रस्य, प्रास्तंकरणम् , &c.
+                          Imperfect.
 
-* अच्छगतेर्येर्वेदेडु । Pān. 1. 4. 69.
+    S.     D.      P.            S.      D.       P.
+1.  अम्    व      म              इ      वहि      महि
+2.  स्     तम्    त              थास्   इथाम्    ध्वम्
+3.  त्     ताम्   अन्            त      इताम्    अन्त
+
+                          Imperative.
+
+    S.     D.      P.            S.      D.       P.
+1.  आनि    आव     आम             ऐ      आवहै     आमहै
+2.  —*     तम्    त              स्व     इथाम्    ध्वम्
+3.  तु*    ताम्   अन्तु          ताम्    इताम्    अन्ताम्
+
+    * तात् is optionally added in the 2nd and 3rd person singular when the Imperative has a Benedictive sense.
+
+                         H. S. G. 16

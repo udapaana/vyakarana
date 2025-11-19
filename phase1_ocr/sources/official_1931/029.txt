@@ -1,23 +1,16 @@
-[Internal page: 11]
-§13-15]                       THE ALPHABET.                       11
+[Internal page: 29]
+§ 45-46 ]                    RULES OF SANDHI.                    29
 
-स्क s-ka, स्ख s-kh-a, स्त s-ta, स्त्य s-t-ya, स्त्र or स्त्र s-t-ra, स्त्व s-t-va, स्थ s-tha, स्न s-na, स्न्य s-n-ya, स्प s-pa, स्फ s-pha, स्म s-ma, स्य s-ya, स्र s-ra, स्व s-va. स्स s-sa.
+स् of सुजन् and र् followed by a hard consonant‡ or' by nothing, are changed to a Visarga. as र।म पठति Rāma reads. पितृ=पितः Oh father.  भातृ: कन्यका a brother's daughter.
 
-ह्ण h-na, ह्न h-na, ह्म h-ma, ह्र-ha, ह्व h-va, ह्ल h-la, ह्व h-va. Sometimes five consonants are found in conjunction: e.g. त्स्न्यं r-t-s-n-ya, as in कार्त्स्न्यं.
+§ 46.  Visarga, followed by च्, छ्, ट्, ठ्, and त्, थ्, them-selves not followed by a sibilant, is changed to स्* e. g.; विष्णु-ख्याता Vishnu, the protector : हरिश्चरति, Hari walks: रामश्चक्रे Rāma goes; ( Vide § 28 ), but कः त्सरः ( as the त् is followed by स् ); and optionally when followed by त्, थ् or स् †; रामः स्थाता or रामस्स्थाता Rāma who would stand; हरिः शेते or हरिरशेते &c.
 
-§13. As sandhi is of primary importance in Sanskrit, viráma or pause can be indicated only at the end of a sentence. The signs of punctuation, therefore, are only two, । and ।। The former is used to mark the close of a sentence or the first half of a s'loka or poetical stanza; the latter is employed to denote the close of a s'loka.
+   (a)  Visarga, not belonging to an indeclinable is changed to स् when preceded by अ, and to ष् , when preceded by इ or उ, short or long, and followed by the terminations षाड्, कृष्ण, क and कृष्ण ‡; e.g. पयसाकाम् Bad milk: यशःकृत्पम् little short of fame, यशस्कम् with fame. यशस्काम्यति he desires fame, but प्रातः-कृत्पम् almost dawn ( where प्रातः is an indec. ); सपिष्णात्काम् bad ghee, सपिष्कृत्पम्, सपिष्कम्, सपिष्काम्यति  If the visarga how-ever, is a substitute for a final र्, it is not changed to ष् be-fore काम्ये‖; गीः काम्यति speech desires
 
-(a) The sign called Avagraha (and which represents half अ Ardhákára) is generally employed to mark the elision of short अ after ए or ओ; e.g. तेऽपि (ते+अपि), कालोऽस्ति (कालो+अस्ति). The double mark ऽऽ is sometimes used to indicate the elision of आ after initial long आ; तथाऽऽस्ते=तथा+आस्ते.
+   (b)   × The Visarga of नम: and पुर: when prefixed as indec-linables to verbs beginning with कृ or कृ and पृ or द् is optionally changed to स् in the case of the former and neces-sarily in that of the latter s. g नमस्करोति or नमः करोति. पुरस्करोति puts in the front; but पुर् प्रवेष्णा। towvs fit to be entered (as पुर is a noun).
 
-(b) The mark ० is sometimes used to show that something is omitted, and which is to be understood from the context; e.g. अ० may stand for अर्जुनं, ०यार्यां for कविवरः:प्रार्थं; &c.
-
-§14. Short vowels when followed by a conjunct consonant are said to be prosodially long.
-
-§15. The vowels अ, ए, ओ and the syllables अर् and अल् are called Guna; the vowels आ, ऐ, औ and the syllables आर् and आल् are called Vrddhi*. The Guna and Vrddhi vowels and syllables that are substituted for the simple vowels will appear from the following table:—
-
-[THIS IS TABLE:
-Simple V. | अ | इ & ई | उ & ऊ | ऋ & ॠ | ऌ
-Guna.     | अ | ए     | ओ    | अर्   | अल्
-Vrddhi.   | आ | ऐ     | औ    | आर्   | आल्]
-
-* वृद्धिरादैच्। आदेङुणः। उरण्रपरः Pân. 1, 1, 2; 1, 51.
+* विसर्जनीयस्य सः शर्पे विसर्जनीयः Pān. VIII. 3. 34-35.
++ वा ङरि | Pān V. 3 36.
+‡ सोऽपदादौ। | Pán VIII 3. 38   पाञ्चाल्यङ्करोऽमोज्ञानि वाच्यम् । अन्-द्यरघेते वाच्यम् । Vārtikas. हुण: ष. Pān. VIII. 3. 39.
+§ काम्ये रेरेधेते वाच्यम् । Vārt.
+× नमस्पुरसोग्योः। । Pān, VIII. 3. 40.

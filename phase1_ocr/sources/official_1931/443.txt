@@ -1,45 +1,46 @@
-[Internal page: 429]
+[Internal page: 443]
 
-§ 705-709 ]        PRIMARY NOMINAL BASES.                    431
+§ 752-760 ]        PRIMARY NOMINAL BASES.                    445
 
-मविष्टित: ' dwelt in Vaikuntha;' तिन्नुड्ुगुसितु: ' served Shiva,' इरि-
-दिनूदृशोरितै: ' observed a fast on the day sacred to  Hari,' रामजाङुङ
-जात: ' was born after Rāma;' गदुड़ासास्तु: sat on Garuḍa; विच्चुन्नुङ-
-धीर्तौ: ' grown after this,' &c.
+वन्धु with हि—तिवुन्धु          द्वे with आ—आहूय
+हि, नी, मा and               दा with उय—उयदाय
+नू* with अनु —अनुवाय          हो with वि-वधाय or  विद्धाय
+रुष् with परि—पुरिरुष्य         &c.   &c.    &c.
+वै  with आ—आदुष्य
 
-§ 706  P. P. Participles have sometimes  the sense of  neuter
-abstract nouns; as जातिसं 'speech', शासिसं 'sleep', ह्सित 'laughing,'
-similarly स्थित, गत, etc.; See Bhaṭṭ  VII. 125.
+§ 753.  Roots of the 8th class ending in a  nasal,  except वत्
+and the roots मन् , वन् and हुन् , drop their nasal necessarily; शुक् ,
+तन्य ,  यत्य and  रुयु do it  optionally;  तन्  with  वि-विन्तर्य;  भुस् with
+प्रति-प्रतिभुष्य; तन्य with वि-विन्तर्य or तिवुत्त्यु; रुय with वि—विरुय्य or
+विरुत्य; मत् with यू—प्रणम्य or प्रणत्य, &c
 
-§ 707.  The P. P. Participles of roots meaning 'to think or to
-wish,' 'to know,' ' to adore,' and of the roots मून्, भा  etc.  have
-the sense of the present Tense; राञुतं मतै:  ' he is honoured by the
-king;' सत्तं इत्युनै: द्युप् पदं the root is kindled ;' so म्रि: etc
+§ 754.  The roots सन् ,  जत्  and  सन्  have  respectively  तिसत्युय-
+तिसाय; प्रजन्य-प्रजाय; and  प्रसन्य-प्रसाय.
 
-            (d) Past Active Participles.
+§ 755.  द्यषु lengthens its इ before the affix य  and  जागृ  changes
+its final vowel to Guṇa;  प्रदीय;  प्रजायुं.
 
-§ 708  Past Active participles are derived  from  the  P.
-Passive Participle in त् or न by changing it to them the affix वत्; e.g.
+§ 756.  ( a ), च्युत्  and  छुयु  do  not  take Samprasāraṇa,  प्रत्युव्य;
+उत्युत्य 'having become  old,'  उप्युत्य  'having  covered,'  but ऋ
+with परि  or  संत् ,  takes Samprasāraṇa  optionally,  पुरिस्युत्य  or
+परिदुर्य; संस्युत्य or संदीर्य.
 
-Roots.          P. P. Ptc.      P. Ac. Ptc.
+§ 757.  The roots  mentioned  under  §  486  do  not  change
+their आ to इङ; प्रयाय, भयाय , भमाय , &c.
 
-भू  to be            भूत           भूतवत् one or that has been
-कृ  to do            कृत           कृतवत् „     „      done
-कू  to scatter       कीर्ण          कीर्णवत् „     „      scattered
-छिद् to cut          छिन्न          छिन्नवत् „     „      cut
-etc.                etc.           etc.                etc.
+§ 758.  Roots of the Tenth class and  Causals preserve  their
+अय before य ; it being  separated by a  short  penultimate vowel;
+not, it is dropped;  चोरुय-यचौर्य; बोषुय-यबोष्य; कु—cau. विकारुय;  नी
+cau.  with आ—आनाय, &c ;  but  गृण-विगृण्य,  यूण्मुत्य,  प्रकल्युय;
+प्रबोविदुर्य ' having again and again caused to be broken.'
 
-        ( e ) Participle of the Future Tense.
+§ 759. ( a ) आषु cau.  may  retain  its  अयु  optionally-गाम्य
+or गामय.
 
-§ 709.  The Participle of the Simple Future,  Active as well
-as Passive, is formed from the  third  person  singular form of
-the Second Future  of  a  root.   The Parasm.   Ptc.  is formed
-simply by dropping the final इ, and the Atm.  and  the Passive
-one by substituting मान for the final इ; e. g.
+§ 760.  Desiderative  bases  add  य  immediately  and  Freq.
+bases  add  it  after dropping  their  यु,  when it is proceded by a
+consonant and dropping the final अ  when  it is preceded  by  a
+vowel; बुभु-यबुबुषिष्य; Fre. यबोबुघुय; भू Fre. यबोभुय &c.
 
-                        Participles.
-
-Roots.  Par.           Atm.                  Passive.
-
-दा—  द्रास्यत्         द्रास्यमाण           द्रास्युमाण or द्रायिष्यमाण
-भू—  भविष्यत्         भविष्यमाण           भविष्यमाण or भाविष्यमाण
+_________________________________________________
+* ऋ changes its final to इ optionally; so भवुमित्य also.

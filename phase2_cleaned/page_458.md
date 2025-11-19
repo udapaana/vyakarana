@@ -1,0 +1,49 @@
+---
+page_number: 458
+internal_page: 458
+chapter: "Verbal Derivatives or Primary Nominal Bases"
+section: "verbal-derivatives"
+rules_starting: []
+rules_continuing: ["§ 777"]
+has_footnotes: false
+---
+
+युरु—is added to यू, छु and छु in the sense 'skilul in,' यू—युद्युकुः
+खु—संरुकु; 'skilful in walking;' छुदुकुः 'skilled in cutting;' this
+may by added to any root when the idea of a blessing is to be
+conveyed; गुरिषुकुरुं हुत्युं 'mayest thou be for many years;'
+नन्दुन्युरुकुं युङुरुरुः 'mayest thou be the giver of delight.'
+
+डुयु—is added to द्युदु, ख्युनु and रुच्छु in the sense of 'one who knows
+the art of,' नत्युकुः 'one who knows the art of dancing,' खुन्युकुः
+'a digger,' 'a miner,' रुवुकुः 'a dyer.'
+
+युष्—(अयुदुट्)—रुयु—रुयुयुष्: 'tremor;' पिस्—पयुयुरुः 'swelling, a
+tumour,' 'इु—युरुयुरुः 'pain, anxiety,' &c.
+
+एत्युं—(पुदुरु, धुनुरु, स्थु, स्युदु)—
+
+युरु—is affixed to यै and हुत्; गायुनुरुः 'a singer,' हुरुयुरुः 'a year,' 'a
+kind of rice.'
+
+रुयु—is affixed to verbs meaning 'to go or to sound,' चरु—चरुनुरुः
+'one who moves,' 'ड्—रुवुत्तुं: 'one who makes a sound,' so युटुस्युत्तुं &c.
+It is also added to verbs meaning 'to command,' and to
+be angry,'—यू—युरुत्युंत्, serving as an ornament शुयुड्—भुयुड्युत्तुं,
+क्रुयु—कोयुनुरु; रुरु—रौयुत्युं: angry, irascible:'—to इु, द्यु, युयु, रुव्युद्, मुनुरु,
+छुत्, पुट्, पट्; युयु—भवुनुरु: 'a swift walker:' यू—युरुत्युंत्, 'one who
+goes' युयु—गरुनुरुः 'a glutton;' युयुयुरुः a root which emits,
+fire,' the same other roots अडुयु &c is a constant इदु—नैयुनुरु,
+द्युयु—वैयुनुरुः &c.—to the freq of कुदु and इुयु, चकुयुत्युणुत्तुं, द्रुंद्युयुणुत्तुं:
+'one who goes again and again,' it also forms fem. abstract
+nouns with the causals of roots and the verbs अरुयु, युट्, वन्युद्
+and युयु to meaning 'to wish or to express an idea of doing action,'
+इु—हुरुयुणुरु, आवु—आवुदुनुरु, अरुयु—अरुयुनौरु, घुट्—घुट्युनौरु, वन्युद् वन्दुनुरु,
+विदुष्—चैदुरुनुरु, इुरु with अन्युग्—अनुरुयुणुत्युं 'searching.'
+
+युरु—is affixed to नन्युद् and other roots; नंद्युनुरुः 'one who delights, a
+son;' भुदु—भद्युनुरुः 'he who exhilarates, the god of love,' 'शुयुयु—
+सायुनुरुः 'one who accomplishes,' वुङु—वुहुनुरुः 'one who bears,'
+युरुयु—गरुनुरुः 'the killer of Madhu,' युरुड्—युगनुद्युनुरुः 'the
+chastiser of the sinful,' शौ—विशैषुणुरुः 'terrifier,' name of
+Rāvaṇa's brother.'

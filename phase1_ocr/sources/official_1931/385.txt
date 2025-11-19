@@ -1,35 +1,42 @@
-[Internal page: 371]
+[Internal page: 385]
 
-§ 610-611 ]          CONJUGATION OF VERBS.                   371
+388                  SANSKRIT GRAMMAR.                   [ § 633-637
 
-भञ्ज्—'to fry'—भर्जयति‍-ते, भ्रञ्जयति‍-ते he causes to fry.
-चङ्ग्र—'to wipe'—मार्जयति.
-रञ्ज्—'to dye'—रञ्जयति he dyes or paints ; also in the sense of
-         the propitiates or satisfies'; cf. बुह्यासि मर्ण न रञ्ज-
-         याते' Bh. Ni  Śa. 3.  But रञ्जयति only, in the
-         sense of 'he hunts deer'; (Vide Kir. VI. 84).
-स्तह्—'to grow'—रोहयति‍-ते, रोपयति‍-ते he plants or causes to grow.
-ला—'to take' and  } लालयति‍-ते, लिलायति‍-ते; and लंभयति,
-छी—'to embrace,'  } ळापयति in the sense of ' melting an
-      'to adhere'      unctuous substance '
-वा 'to blow'—वातयति he causes to blow or move.
-      वाजयति he shakes.
-स्मि to smile'—स्मेमायति he causes a smi'e by,  or astonishes
-         or frightenes by. स्मेत्मापते he astonishes.
-वी—            वापयति, वासयति he causes to conceive;
-               वायपति‍-ते in other senses.
-चर् 'to fall'—शातयति he causes to fall, cuts down.
-      शासयति he causes to go.
-                {सापयति he accomplishes or prepares.
-सिध् 'to be      {सिधयति, he makes perfect, &c. with reference
-   accomplished'{ to sacred rites or things only ; as स्वपति तापसं
-                { वा: &c.
-स्फाघ्—'to swell'—स्फावयति, he causes to swell.
-स्फुर्—'to tremble ; to shine forth.' स्फोरयति. स्फुरयाति he causes
-      to tremble or shine
-हत् 'to strike or kill'—घातयति he causes to strike, &c.
+Tense.               Active.                     Passive.
 
-(b) Conjugation of the Causal Base.
+Perfect.        बोबोधाञ्चके,&c.   देदीयाञ्चके,&c.  Like the Active.
+Aorist.         अबोबोधिष        अदेदीयिष        अबोबोधि        अदेदीयि
+F. Future.      बोबोधिता        देदीयिता        Like the Active.
+Sec. Future.    बोबोधिष्यते      देदीयिष्यते       „
+Conditional.    अबोबोधिष्यत      अदेदीयिष्यत       „
+Benedictive.    बोबोधिषीष्ट       देदीयिषीष्ट        „
+N. B. Irregular Atm. Fre, Bases will be given under § 639.
 
-§ 611.  The Causal base is conjugated like the base of a root
-of the 10th or Churādi class in all the ten Tenses and Moods of
+______________________________________________________________
+
+              PAR. SMAIPADA FREQUENTATIVES.
+
+The Parasm  Frequentative is peculiar to the Veda.  Its
+forms are very rarely to be met with in Classical composition.
+
+                  Formation of the Base.
+
+§ 634  The root is reduplicated according to the general
+rules of reduplication ; the vowels इ and उ ( I the reduplicativ
+syllable take their guṇa substitute, and the अ of the redupli-
+cative sylla-ble is lengthened : भू-बोभू, ङो-नौष; दिव्-देदिव् &c
+बोर्वच् ; भू-चोव-चाट; विद् विवद्-वेविद् ; डुय् डुयड्-डोयुड् &c.
+
+§ 635.  The rules § 630 ( a ) ( b ) apply likewise to the
+Parasm Frequen.  Base; वर्-वंवर् or वैवर्; वद्-वंवद् or वंवद्;
+वञ्ज्-वंवोञ्ज् &c
+
+§ 636.  व or the syllable रि or रु is inserted between the अ
+of he reduplicative syllable and the radical consonant of roots
+ending in short ऋ or having it for their penultimate; similarly
+ऋ,ऋ: रु or ॠ or ल is inserted in the case of कृत् ; लृत्-ल्लृत्-वलृद् or
+वरिलृद् or वरूलृद् or ललृ-लु: छ-चोछु, or चारिछु or चारूछु.
+
+               Conjugation of the Parasm. Fre. Base
+
+§ 637.  In the Conjugational Tenses the Parasm. Frequentative

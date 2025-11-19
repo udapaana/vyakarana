@@ -1,18 +1,20 @@
-[Internal page: 2]
-·  2                         SANSKRIT GRAMMAR.                    [§2
+[Internal page: 18]
+18                        SANSKRIT GRAMMAR.                    [§22-23
 
-§ 2. The Devanágari alphabet consists of forty-two letters or varnas, nine vowels or avaras, and thirty-three consonants or vyañjanas.*
+(a) A consonant except ह, preceded by a vowel, is optionally doubled, if no vowel follows*; सुष्ठु+उपास्य:=सुष्ठ्युपास्य: and सुष्ठुष्य्+उपास्यः—
 
-(a) These express nearly every gradation of sound, and every letter stands for a particular and invariable sound.
+(b) When a consonant, except a nasal or a semivowel, is followed by a soft unaspirate or aspirate (3rd or 4th letter of a class) it is changed to the soft unaspirate (3rd letter) of its class†; सुष्ठुयु+उपास्य:=सुद्युपास्य
 
-Note:—This explains why there are no names, as in Greek, for the different letters of the alphabet.
+(c) Semivowels, when preceded by a letter of the first five classes except ङ are optionally doubled§; thus सुष्ठुय्+उपास्य:=सुष्ठुय्य्+उपास्य: and सुष्ठुयु+उपास्य:;सुद्युयु+उपास्य:=सुद्युयु+उपास्य: and सुद्युष्यु+उपास्य। Thus there are four forms ultimately, viz. सुष्ठुयुपास्यः; सुद्युयुपास्य: and सुद्युष्युपास्य।
 
-* Thus given by Pânini:—
+Similarly मधु+अरि:=मध्वरि:, मध्वरि, मद्धुवरि, and मद्ध्वरि: यातु+अत्त:=यात्वत्तः and यात्त्वत्तः In ल+आकृतिः of course there is no possibility of any other form.
 
-Vowels:—अइउण। ऋऌक्। एऔच्। ऐऔच्।
+(d) A consonant except ह, coming after र or ऋ preceded by a vowel is optionally doubled†; e.g. हारे+अनुभवः:=हारेर्+अनुभवः:=हर्युर्+अनुभवः: by the general rule, and optionally हर्युर्य्+अनुभवः:=हर्य्युर्युभवः (Hari's experience) by this rule; so न हि+अस्ति=न ह्यस्ति and न ह्युस्ति।
 
-Consonants:—हयवरट्। लण्। ञमङणनम्। झभञ्। घढधष्। जबगडदश्। खफछठथचटतव्। कपय्। शषसर्। हल्।
+§23. (a) इ, उ, ऋ or ल, short or long, at the end of a word followed by a dissimilar vowel except in a compound, are optionally not combined, and when so they are shortened if long × e.g. चक्रो+अग्र=चक्रोयग्र, Vishnu here, and चक्रि अग्र; but वापी+अग्र:=वाप्यग्र: a horse in a well, गोपी+ओ (a term.), गोप्यौ.
 
-The alphabet, it will be seen, is divided into 14 sections by Pânini, which are called Sivasûtrâni, or the sûtras revealed by Siva. Each section ends with an indicatory letter called 'इत्' which is not to be counted among the letters of the alphabet. These "Its" serve an important purpose in Sanskrit grammar as they enable the grammarians to express several letters, or groups of letters, in a very convenient and condensed form. For any letter, with the following इत् added to it, is not only expressive of itself but of all letters that intervene between it and this इत्; e.g. अण् means अ, इ, उ, इक् means इ, उ, ऋ, ऌ, &c. Similarly अल् means technically the whole alphabet, अच् any vowel, and हल् any consonant; यण् a semivowel, हश् a soft consonant, खर् a hard consonant, जश् a soft unaspirate, झष् a soft aspirate &c. Each of these significant terms is technically called a 'प्रत्याहार'.
+* अनचि च। Pân VIII. 4, 47.
 
-Since short vowels include the long and the protracted vowels (See §3. a.) another इत् 'त' is generally employed to mark a
+† झलां जय् झशि। Pân. 4. 53.     § यणो मयो द्वे वाच्ये Vârt.
+‡ अनौ रहाभ्यां द्वे। Pân. VIII. 4. 46.
+× इकोऽसवर्णे शाकल्यस्य हृस्वश्च।

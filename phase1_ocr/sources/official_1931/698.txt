@@ -1,51 +1,48 @@
-[Internal page: 684]
+[Internal page: 698]
 
-122                   SANSKRIT GRAMMAR.
+136                   SANSKRIT GRAMMAR.
 
-वल् 1 A. संवरणै, सञ्चालनै च to cover, to move about, ललतै per.
-   वलिष्युतै fut. अवलीष्ट aor. विवलिषति-तै des.
+श्रि 1 U. सैवायां to cling to, to depend upon; श्रयाति-तै pre.
+   विश्राय, विश्रियै perf. श्रयिता p. fut. अविश्रियत-न aor. श्रयात् ,
+   श्रयीष्ट ben. विश्रायाति-तै, विश्रयिषति-तै des. Pass.-श्रीयुतै pre.
+   अश्रायि aor. Cau,—श्रापयाति-तै pre. अविश्रयत-न aor. श्रित p. p.
 
-वल्ल् 10 U. to garner to speak; वल्लयाति-तै pre. वल्लयाचकार-चक्रै
-   perf. अववल्लत-न aor.
+श्रिध् 1 P. शोकै to burn; श्रैदुति pre. शिश्रैध perf. श्रैदिता p. fut. अश्रै-
+   दीत् Aor.
 
-वल्ग् 1 U. to go, to dance, to be pleased, to eat; वल्गाति-तै pre.
-   ववल्ग, ववल्गै perf. वल्गिता p. fut. अवल्गीत् , अवलीष्ट aor.
-   वल्गित p. p.
+श्री 9 U. पाकै to cook, to dress, to boil; श्रीणाति, श्रीणीतै pre.
+   शिश्राय , शिश्रियै perf. श्रैता p. fut. अश्रैषीत् , अश्रैष्ट aor. शिश्रीं-
+   षाति तै des. श्रीत p. p.
 
-वल्ह् 1 A. भौजनै to eat; वल्हतै pre. अवल्हीष्ट aor.
+श्लु 1 P. आश्लै to hear, to obey; शृणोति pre. शुश्राव perf. श्रोता
+   p. fut. अश्रोषीत् aor. श्रुयुयात् ben. शुश्रूषतै des. Pass—श्रूयुतै pre.
+   अश्रावि- aor. Cau.—श्रावयाति-तै pre. अशुश्रवत-न. आशिश्रवत-न aor.
+   श्रुत p. p.
 
-वह् 1 A. संवरणै to cover or be covered, वहतै pre. ववह्रै perf.
+श्रै 1 P. पाकै to cook; श्रायुति pre. शशै perf. श्राता p. fut अश्रायीत्
+   aor. श्रायात् , श्रायात् , ben.
 
-वल्ह् 1 A. परिभाषणोत्संसादनैषु to speak, to be prominent, to kill,
-   to give; वल्हतै pre. ववल्है perf. अवल्हिष्ट aor.
+श्लोण् 1 P. संचातै to collect, to be collected; श्लाणुति pre. शुश्लोण perf.
 
-वश् 2 P. काकौ to wish, to shine; वष्टि pre. उवाश perf. वशिता p.
-   fut. अवशीत्, अवशीत aor. उच्युयात् ben. विवशिषति des. Pass.—
-   उश्युतै pre. अवाशि aor. उशित p. p.
+श्लङ्कु 1 A. to go, to move; श्लङ्कुतै pre. शश्लङ्कै perf. अश्लङ्कुीष्ट Aor.
 
-वष् 1 P. हिंसायां to injure, to kill; वषुति pre. ववाष perf. अवषीत्,
-   अवाषीत aor.
+श्लद् 1 A. to go, to move; श्लदतै pre. शश्लदै perf.
 
-वस् 1 P. निवासै to dwell, to be, to spend ( time ); वसति pre. उवास
-   perf. वस्ता p. fut. वत्स्युाति aor. उष्युयात् ben. विवसति des.
-   Pass,—उष्युतै pre. अवासि aor. Cau.—वासयाति-तै pre. अवीवसत-
-   न aor. उषित p. p. उषित्वा, षोष्ट ger.
+श्लथ् 1 P हिंसायां to hurt, to be loose; श्लथुति pre. शश्लाथ perf.
+   अश्लथीत्, अश्लाथीत् Aor.
 
-वस् 2 A. आच्छादनै to wear, to put on; वस्तै pre. ववसै perf. वसिता
-   p. fut. अवसीष्ट aor. Cau,—वासयति-तै pre. अवीवसत-न aor.
-   विवसिषतै des. वसित p. p.
+श्लाघु 1 P. व्युयातौ to pervade; श्लाघुति pre. शश्लाघ perf. अश्ला-
+   घीत् Aor.
 
-वस् 4 P. ऋद्धै to be straight, to be firm, to fix, वस्युति pre. वस्ति-
-   ष्युति or वस्युति des. p. प. वसिता, वस्ता ger. वस्त-वस्युति imp.
+श्लाघु 1 A. कथनै to praise, to flatter, to boast of; श्लाघतै pre.
+   शश्लाघै perf. श्लाघेता p. fut अश्लाघीष्ट aor. शिश्लाघिषतै des.
+   श्लाघित p. p.
 
-वस् 10 U. वैद्युरङग्युपादुहष्टै to love, to cut, to take away; वासयाति-
-   तै pre. वासयिष्युति-तै fut. अवीवसत-न aor. वास्युयात्, वासयिषीष्ट
-   ben.
+श्लिल् 1 P. दाहै to burn; श्लैदुति pre शिश्लैल perf. श्लैलिता p. fut.
+   अश्लैषीत् Aor. श्लिष्ट p. p. विश्लेषिता, इलैषिता, श्लिष्टा ger.
 
-वस् 10 U. निवासै to dwell, वसयाति-तै pre. वसयिता p. fut. अववसत-न
-   aor.
+श्लिल् 4 P. आलिङ्गनै to embrace, to cling to, to join; विश्लिष्युति pre.
+   शिश्लेष perf. श्लेष्टा p. fut. अविलेशत् ( to embrace ), अविलेषत्
+   ( in any other sense ) Aor शिश्लिषति des. श्लिष्ट p. p.
 
-वसु 1 A. to go; वरुतै pre. वसिष्युतै fut. अवसीष्ट aor.
-
-वसु 10 A. अदनै to hurt, to kill, to ask, to go; वसयतै pre.
-   वसयाचक्रै perf. अववसत aor. ( Also written as वसू ).
+-श्लेष् 10 U. श्लैषणै to embrace; श्लैषयाति-तै pre. अशिश्लिषत-न aor.

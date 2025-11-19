@@ -1,40 +1,42 @@
-[Internal page: 376]
+[Internal page: 390]
 
-                         SANSKRIT GRAMMAR.                     [ §
+392                  SANSKRIT GRAMMAR.                   [ § 639-642
 
-                        Conditional.
+शी to lie down        षाध्यते              शेशयीति or शेशेति
+श्वि to swell         श्वेश्वयते or शोश्वयते  शेश्वयीति or शेश्वेति
+सद् to obtain         संसद्यते or सासायते   संसदीति or संसदति
+द्रु to injure        जेवीयते              जद्वनीति or जद्वनि
+   in other cases     जद्रुष्यते or जद्रुष्यते
 
-1 अबोधयिष्ये,      अबोधयिष्यावहि      अबोधयिष्यामहि
-  अबोधिष्ये       अबोधिष्यावहि      अबोधिष्यामहि
-2 अबोधयिष्यथाः,    अबोधयिष्येथाम्      अबोधयिष्यध्वम्
-  अबोधिष्यथाः     अबोधिष्येथाम्      अबोधिष्यध्वम्
-3 अबोधयिष्यत,     अबोधयिष्येताम्      अबोधयिष्यन्त
-  अबोधिष्यत      अबोधिष्येताम्      अबोधिष्यन्त
 
-                     Benedictive.
+                        IV. NOMINAL VERBS.
 
-1 बोधयिषीय,       बोधयिषीवहि,        बोधयिषीमहि
-  बोधिषीय        बोधिषीवहि         बोधिषीमहि
-2 बोधयिषीष्ठाः,    बोधयिषीयाथाम्,      बोधयिषीध्वम्-म्
-  बोधिषीष्ठाः     बोधिषीयाथाम्       बोधिषीध्वम्
-3 बोधयिषीष्ट,     बोधयिषीयास्ताम्,     बोधयिषीरन्
-  बोधिषीष्ट      बोधिषीयास्ताम्      बोधिषीरन्
+§ 649.  Verbs are formed from nominal bases by means of
+certain affixes  These are not very much in common use and are
+generally used in the Present Tense.  They have various mean-
+ings.  They sometimes convey the notion of performing, practis-
+ing, or using,  or treating like the thing or quality expressed
+by the noun and are used transitively ; sometimes they express
+the idea of acting, behaving or becoming like the person or
+thing expressed by the noun ; and at others they yield the sense
+of wishing or wishing for the thing expressed by the noun.
+These will be arranged here under four heads,  according to the
+affixes by which they are derived.
 
-                        Aorist.
+       ( a ) By means of the affix य ( क्यच् ) and
+                  Conjugated in Parasm.
 
-1 अबोधयिषि,       अबोधयिष्वहि,        अबोधयिष्महि,
-  अबोधिषि        अबोधिष्वहि         अबोधिष्महि
-2 अबोधयिष्ठाः,    अबोधयिषाथाम्,       अबोधयिष्ध्वम्-द्
-  अबोधिष्ठाः      अबोधिषाथाम्        अबोधिष्ध्वम्
-3 अबोधि         अबोधयिषाताम्,       अबोधयिषत,
-                अबोधिषाताम्        अबोधिषत
+§ 641.  When the sense of 'wish' is to expressed,  a nominal
+verb may be derived from any Subanta or nominal stem by affix-
+ing य to it   The derivative verbal base derived in this manner
+is conjugated in the Parasm. only.
 
-For the various irregularities, &c.  see the third
+§ 642.  Before this य,
 
-                    11. DESIDERATIVES.
+( 1 ) final अ and आ are changed to ई; पुत्र आत्मज: इच्छति—पुत्रीय-
+ति ( पुत्र+य=पुत्री+य+ति ) 'he wishes for a son.'
 
-§ 613.  Any primitive root of the ten classes,
-causal base,  may optionally* take a Desider
+( 2 ) final इ and उ are lengthened ; कवि-कवीयति  ' he wishes
+for a poet.'
 
-Or the notion of desire may  be conveyed by n
-ance; i. e. पिपठिषति or पठितुमिच्छति 'he wishes to r
+( 3 ) final ऋ is changed to री; कवृ-कवीयति.

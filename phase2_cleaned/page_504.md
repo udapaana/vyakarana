@@ -1,0 +1,51 @@
+---
+page_number: 504
+internal_page: 504
+chapter: "Syntax"
+section: "syntax"
+rules_starting: ["§ 871", "§ 872", "§ 873", "§ 874", "§ 875"]
+rules_continuing: []
+has_footnotes: true
+---
+
+§ 871. * Words expressive of the interval of time or space
+are used with the Ablative or the Locative; अयु युयुक्तुयुयुयुयुयुं द्विकुच्-
+दुयुयुहुयुयु भोक्तुयु having dined to-day he will dine again after two
+days; समुयुद्युयुयुनं शुनुत द्विकुच् or द्वयुनं frozen standing here as a river
+a mark two miles distant.
+
+§ 872. † The prepositions उपु in the sense of 'exceeding'
+and आरैंङु in that of 'the master of' govern the Locative; उयुयुरुयुयुयुनै
+हुरेण्युयुः the merits of Hari exceed a pardruha; आरै मुयुवि रामुः or आपि
+रायुनै यू: Rāma is the lord of the earth; in other senses these
+prepositions are used with the Accusative, for which see § 806.
+
+§ 873. The words दूरु and अन्तिकुच् and others havi:g the same
+sense are used in the Locative also; ग्रायुस्युयु दूरुरे—दूरुं—दूरेणु—दूरुयुट्
+वा; तस्युयुयुः समीपुनै—समीयुनैन—समीयुयुयुट् गवुयु.
+
+§ 874. Verbs having the sense of 'love, regard for, attach-
+ment to' such as स्निहु, अनुरुञ्युजु, चायुहुदु, रयु, &c. and their deriva-
+tives generally govern the Locative; तेयुयु पुत्रुनै नुस्यु: the father
+loves his son; अति युनै सोदुरुहुयोयुषि युदुनुदु (S'ak. I) I have a
+sisterly affection for them also; न संदुट् निरुयुत्युकुन्युयुकुयुयुयुनों मयुयुयुनैयुयुयुनुयुः
+I do not, indeed, love the ascetic's daughter, अङुयुयुदुयुयुयुयुत्युयो रात्रु
+जुनुतु याहुद्युरुज्युनु people do not love a king whose ministers are
+corrupt; मायुयुत्युद्युयु निरुतिरै निरुयुनुकुयु क्तुयुर्युं (Manu. S. III. 179),
+रहसि रमुते (Māl. Mād. III. 2.) takes pleasure in solitude; रत्युः
+श्युयुयुतै (Bhattṛi. I.) devoted to his welfare.
+
+Note:—अनुरुञ्युजु and भुनुदुट्युयु are sometimes used with the
+Accusative also; रायुयुयुयुयुदुयुञ्युच्युन्ति (Rāma.); माद्युयुनुयुनुयुनैदुयुञ्युन्तो
+(Bhattṭ. IV. 29. ).
+
+§ 875. Verbs of acting, behaving towards, &c. such as वृत्,
+युयुदुछु, &c and of throwing, such as अयुट्, क्षुच्चु, क्षिरु, &c. govern
+the Locative; युशुयुष्टु विनुनुयुनं वुनुतिः कुयुर्युयुं one should act modestly
+towards respectable persons, कुच् प्रियुयुरुसुविभुति सल्युनोजुनं (S'ak.
+
+---
+
+* समुयुयोयुचुवुन्युयुयो कुयुरुकुयुयुनुच्च । Pāṇ. II, 3. 5.
+
+† गद्युयुयुदुयुवुकैंङु रायु चैयुयुरुयुच्युनुनं तवु सहुनुमो । Pāṇ. II 3. 9.

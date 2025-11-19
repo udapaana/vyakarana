@@ -1,25 +1,41 @@
-[Internal page: 250]
+[Internal page: 264]
 
-250                    SANSKRIT GRAMMAR.                    [ § 396-397
+264                    SANSKRIT GRAMMAR.                    [ § 4
 
-च P. ' to run,' धावति.              रञ्ज् P  A. to dye, रजति, रजते.
-शदू P. (*A ) ' to perish,' शीद्यते.  चज् P  to be clean, म्लजति.
-सुप् † P. (§)‡ to perish, दुःशाति.    वद् A  to yawn, यायते.
-मृग † P  to bite, मृगाति.            कूप् A. to be adequate, कल्पते.
-सञ्ज् † to adhere, सजति.             लज्ज् A  to blush, लज्जते.
-स्वञ्ज् A  to embrace, स्वजते.        सरज् P. ' to be ready ' सज्जति.
+         Imperative.                     Potential.
 
-    396  The following seven roots form their bases like the Desiderative in the senses indicated   These are:—क्षिद्  to admonish medicine, to treat as a patient 'चिकीषति;' शाङ्ख्  to censure, जुगुप्साते; तिअ to bear, to forgive,  तितिक्षति; वृष् to abhor, to act loathsomely, विद्राति; दाग् to make straight, दीदाषाति-ते; माग् to reason, to think, मीमांसति; घाण् to sharpen, शीषाष्टाति-ते  But किद् to desire केकति; to dwell, केदाति; दाग् to cut दादायति-ते &c.
+1. वयानि     वयाव      वयाम          वीयाम्     वीयाव      वीयाम
+2. वीहि      वीतम्     वीत           वीयाः     वीयातम्    वीयात
+3. वेतु      वीताम्    वियन्तु        वीयात्    वीयाताम्   वीयुः
 
-§ 397.  There are a few roots which add a penultimate nasal in the Special Tenses and Moods necessarily; e g  क्षिद् to cut चिन्दति, अह् to go अहते, पिष् to  roll into a ball पिण्डति, छार् to purify, to go शुञ्जति &c; and a few more which do so optionally, e. g  दुम् to be firm चदुति-दुदुति; घुत् or म्लुत् to go झागति-घुचति, उपसर्ग-रहित-मुञ्जति; छुत् to pluck छुञ्जति, लुञ्जति all P; शु A. to hum गुञ्जते, गुनति; यत्‌ P. to roar गर्जति, गजति and others less important
+                   नु P ' to praise '
 
-                      4th Class ( दिवादिगः ).
+         Present.                        Imperfect.
 
-नन्द् P  ' to go ' कान्यति.          | शम्य ‡ P. 'to be pacific' शाम्यति.
-जन् A. ' to be born ' जायते.        | ताम् P. ' to desire ' तामाति.
+1. नौमि      नुवः      नुमः           अनवम्     अनुव       अनुम
+2. नौषि      नुथः      नुथ            अनौः     अनुतम्     अनुत
+3. नौति      नुतः      नुवन्ति         अनौत्    अनुताम्    अनुवन्
 
-    * शद्ह: शीत: । Pāṇ. I. 3. 60.  शद् is Atm. in the Special Tenses.
+         Imperative.                     Potential.
 
-    † दंशसक्तसञ्ज शाण् | (शीद्  P  VI. 4  25-26.  These roots drop their nasal in the Special Tenses.
+1. नवानि     नवाव     नवाम          नुयाम्     नुयाव      नुयाम
+2. नुहि      नुतम्    नुत           नुयाः     नुयातम्    नुयात
+3 नौतु      नुताम्   नुवन्तु        नुयात्    नुयाताम्   नुयुः
 
-    ‡ षामायताम् दीर्घः स्वति । Pāṇ. VII. 3  94. Of these  ग्रस् is given under जातीअ.
+    Conjugate  similarly हु P.  ' to sound, '  क्षु P  ' to seize, P. ' to sharpen,' यु  P.  ' to attack,  यु P.  ' to join, ' इु  P. ' to possess supremacy, ' and स्तु ' to drop out, to distil '
+
+                   जाग्र् P. ' to awake. '
+
+         Present.                        Imperfect.
+
+1. जागर्मि    जाग्रवः   जाग्रमः         अजागरम्    अजाग्रव     अजाग्रम
+2. जागर्षि    जाग्रथः   जाग्रथ          अजागरः    अजाग्रतम्   अजाग्रत
+3. जागर्ति    जाग्रतः   जाग्रति*        अजागरः    अजागृताम्  अजागारुः
+
+         Imperative.                     Potential.
+
+1. जागरानि   जागराव   जागराम         जाग्र्याम्   जागृयाव    जागृयाम
+2. जाग्रहि    जाग्रतम्  जाग्रत          जाग्र्याः   जाग्र्यातम्  जाग्र्यात
+3. जागर्तु    जाग्रताम् जाग्रतु         जाग्र्यात्  जाग्र्याताम् जाग्र्युः
+
+    * See चकार् p. 272.

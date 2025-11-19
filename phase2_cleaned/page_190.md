@@ -1,0 +1,29 @@
+---
+page_number: 190
+internal_page: 182
+chapter: "Formation of Feminine Bases"
+section: "feminine-bases"
+rules_starting: ["§ 309", "§ 310"]
+rules_continuing: ["§ 308"]
+has_footnotes: true
+---
+
+(d) Obs—The words केवल, मामक, भागधेय धाण, अमर, समान, आर्येष्ठ, छन्दोगाल and भेषज form their fem. in ई when they are used as names ( or in the Veda ), केवली, मामकी, समानी, आर्येष्ठी &c., but केवला उमाना, &c. when they are not names.
+
+(e) The words नर्तक, खनक, रञ्जक and रनक, those derived by adding the Krit affixes आक, and अ ( added to certain roots ) and the words included in the गोरादिगण form their fem. in ई; नर्तकी, रञ्जकी &c. छुट्टकी one who divides or cuts; लुण्टाकी robbing or stealing, भाङ्गी, &c.; गोरी, मञ्जरी, चुङ्गी, हरिणी, मातामही, पितामही &c.; सुन्दर has सुन्दरा and सुन्दरी.
+
+§ 309. Some prātipadikas ending in the Tad. affix य insert आयन् before ई; भार्गायणी ( the grand-daughter of भृगु ), लोहितायनी, काश्यायनी, &c.
+
+§ 310. The following eleven prātipadikas form their feminine in ई under the circumstances mentioned—जानपद when it qualifies वृत्ति or 'maintenance', कुण्ड when it means 'a vessel' or 'a man of a mixed class', गोण 'a full sack', स्थल 'natural site', भाज 'boiled,' नाग 'a huge elephant', and काल 'a particular colour, नील when it does not refer to a garment ( or rather refers to an animal ) or means 'indigo', कुश when it means 'something
+
+---
+
+## Footnotes
+
+* Vide Pāṇ. V. 1. 30.
+
+† गोरादिभ्यश्च । Pāṇ. IV. 1. 41. The following are the more important of the words included in the गोरादि group:—गोर, मनुष्य, कव्य, पुट, प्रोण, हरिण, कण, आमलक, बदर, बिम्ब, तुम्बर, शिखण्ड, सपभ, आलिन्द्य, आहक, अश्वत्थ, उभय, भृङ्ग, मह, मह, भव, तरुण, अनुत्तर, अनष्टवाह, देव, देवली, रजन, आरट, नट, आस्तरण, आश्रायण, महनल, मत्सर, मण्डल, पिण्ड, इन्द्र, वहम्, प्रबृद्ध, सोम, सौभग &c.
+
+‡ सर्वेभ्यो लौहितादिकान्तेभ्यः । Pāṇ. IV. I. 18.
+
+§ जानपदकुण्डगोणस्थलभाजनागकालनीलकुशकाष्ठकवराकृत्याश्मसाम्प्राणाक्षविभाषाणार्थोत्पचनानाच्छादनायावाविकारमेघुनच्छाकंसूक्ष्मेषु । Pāṇ. IV. 1. 42. अनावत्रादनेऽपि न सर्वत्र किन्तु । नीलाकपेषौ । प्राणिनि च । वंशायां वा । Vārt. शोणात्माचाम् । Pāṇ. VI. 1. 43.

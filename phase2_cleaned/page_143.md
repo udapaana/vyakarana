@@ -1,0 +1,25 @@
+---
+page_number: 143
+internal_page: 135
+chapter: "Compounds"
+section: "compounds"
+rules_starting: ["§ 223"]
+rules_continuing: ["§ 222"]
+has_footnotes: true
+---
+
+words एकं, अपर, चरम, जघन्य 'hindmost,' समान, महत्, मध्यम and वीर are always placed first in a Karmadhāraya compound. अपर when followed by कर्म is changed to अश्म: as एकनाथः 'sole master or lord,' वृद्धकालः:, जरद्वैयापिकः:, 'an old logician,' पुराणकौ-सांख्यः:, 'old mimamsā philosophers,' नवपाचकाः:, पूर्वबैयाकरणाः:, 'the old grammarians,' अपराङ्गयापकः: अपरक्षातों अयंक्ष पक्षाक्षै: 'the hinder part or side of the body;' चरमराजः: the last king, समानतधिकरणम् 'being in the same category or predicament'; वीरैकः: 'a sole warrior i. e. an eminent warrior', &c. The form एकवीर ( found used by great writers ) also may be defended.*
+
+(h) † The words सत्, महत्, परम्, उत्तम and उच्छृष्ट are compounded with another noun when they are used as terms of praise or excellence; सद्वैद्यः: 'an excellent physician' महाविद्याकरणः:. &c., but उच्छ्रृती गौः: where उच्छृष्ट means 'uplifted, or 'drawn out of '
+
+§ 223. ‡ Names of quarters and numerals form a Karm. compound with any subanta ( a declinable word ) but only when the whole compound is an appellation; e. g. सप्तर्षिः: 'Name of a constellation of stars,' 'Ursa Major;' पञ्चजनाः:†† &c., पूर्वेयुकामशर्मी
+
+---
+
+## Footnotes
+
+* कथमेक वीर इति । पूर्वकालेकेति वाधिनरा परत्वादनेन समास वीरैके इति हि स्यात् । बहुल ग्रहणाद्भविष्यति । How do you justify the form एकवीर ? For the Sūtra पूर्वीपर &c. being a subsequent one ought to have preference over the preceding Sūtra पूर्वकालेक &c. and we should have वीरैकः: We reply.—The form may be justified by supposing that the rule operates in most cases only बहुलग्रहणात् and not in a few ).
+
+† सन्महत्परमोत्तमोत्कृष्टाः पूज्यमानैः । Pāṇ. II. 1. 61
+‡ दिक्संख्ये संज्ञायाम् । Pāṇ. II. 1. 51.
+†† These are gods, men, Gandharvas, serpents, and Pitṛis, according to some; and Brāmaṇas, Kshatriyas, Vaishyas, Śūdras and Nishādhas or barbarians, according to others. ( Vide Shankarāchārya on Brah. Sū. I. 4. 11.-13. )

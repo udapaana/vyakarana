@@ -1,36 +1,37 @@
-[Internal page: 54]
-54                        SANSKRIT GRAMMAR.                    [ § 87-89
+[Internal page: 73]
+§ 119-121 ]                    DECLENSION.                    73
 
-                        SECTION II.
+( c ) The neuter forms of nouns ending in तृ ( e. g. कर्तृ,
+नेतृ ) are regular after the analogy of the neuter forms in वत्,
+and we have कर्तृ ( nom. sing. ), कर्तारि ( nom. pl. ) which
+signifies an organ, &c., similar to नेत्र ( a leading organ = the
+eye ); so नेत्रि or नेत्री ( nom. plu. ). The nom. sing. of पितृ is
+प्रेणा ( पितर् + ङसु + प्रेणादेशः ) which occurs in प्रेणाभिः 'towards the
+south.' पत्तृ has only the mas. and fem. forms, no neuter; so also
+स्वसृ &c., have forms only in fem. gender, and नृ has forms
+in mas. and fem. only.
 
-                BASES ENDING IN CONSONANTS.
+                Bases ending in शी ॥
 
-§ 87. Bases ending in any of the first four letters of a class and in थ्, र्, ष्, श्, ष्, प्, स् and ह्. The declension of these bases consists, for the most part, in adding the general case termi nations and observing the rules of sandhi.
+§ 120. शी is a suffix which is added to roots and crude
+nominal bases to form nouns and adjectives. ( द्वी० V. 4. 60, 65,
+66 ; Pan. V. 2. 115, 118, 119 &c. ). Thus we have प्रजा-ईशी = प्रजा-
+ईश = nom. प्रजेशः ( derived form praja; a lord of creatures );
+काङ्क्षी ( craving for = काङ्क्षा-ईशी, derived from काङ्क्षा ); लोहित्यशी
+( being desirous of लोहित्या ). Before the case-affixes शी becomes
+इन्, thus काङ्क्षिन्; and in the fem., न् of शीन् being dropped, शी takes
+the fem. affix ङीष्, ( वा० III. 2. 7 ; Pan. IV. 1. 6 ) and is declin-
+ed after the analogy of नदी. Thus काङ्क्षी ( fem. ), काङ्क्षिणी,
+काङ्क्षिणम् &c. The neuter forms are काङ्क्षि ( nom. voc. and acc.
+sing. ), काङ्क्षीनि ( nom. voc. and acc. pl. ) &c. This declension
+is similar to that of शी ( the pos. suf. of the mas. pres. part.
+active in the शी conjugation ), शीन् making its nom. इ; and
+will be subsequently explained along with the part. of this con-
+jugation.
 
-§ 88. Bases ending र्, ल् , and ण् .
+                Bases ending in ज् or झ् ॥
 
-§ 89. (a) After final ल् the इ of the loc. is changed to उ.
-
-  (b)  इ ( optionally changeable to इ ) may be optionally inserted between ण and सु.
-
-                कमल mas fem. neu. naming the goddess of wealth or a lotus कमलं कमलौ वा आत्र्क्षणा:—णा-ण-वा )—
-
-                        Mas. and Fem.
-
-    N. & V.  कमलः*                कमलौ                   कमलः
-      A      कमलम्                ,,                      ,,
-      I.     कमला                कमलभ्याम्               कमलिभिः
-      D.     कमले                ,,                     कमलभ्यः
-     Ab.     कमलः                ,,                       ,,
-      G.      ,,                  कमलोः                  कमलाम्
-      L.     कमलि                ,,                     कमलसु
-
-Decline similarly सुगण , डुगाण , m. f one who counts well, द्वार f. a door and other words ending in र् or ल्  The loc. plu. of द्वार is द्वारषु-द्वारसु,-ण्द्वरसु. The Nom. sing. of द्वार is द्वाः.
-
-                        Neu.
-
-    N. N. & A.    कमल्         कमली               कमलि
-
-        The rest like the mas.
-
-* See § 91. a.
+§ 121. ( a ) The root युज् in the sense of union, &c., forms
+a base for a noun युज् ( युजेरुदाजुनि, Pan. III. 2. 61 ; वा० III. 2. 70 )
+which is used in three genders. Before case-affixes beginning
+with a consonant युज् becomes युग् ( Pan. VIII. 2. 30 ), and then

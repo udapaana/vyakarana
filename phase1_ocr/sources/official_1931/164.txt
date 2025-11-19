@@ -1,20 +1,15 @@
-[Internal page: 146]
-146                    SANSKRIT GRAMMAR.                    [ § 239-240
+[Internal page: 164]
+164                    SANSKRIT GRAMMAR.                    [ § 269-270
 
-word denoting a part of the whole, or by सर्व or by a numeral with a Taddhita affix added to the whole compound, becomes अहुः as अतिक्रान्तमहः exceeding a day (in duration) अत्यह्नः; प्रश्वोह्नः forenoon, सर्वाह्नः the whole day, संध्यातराह्नः, द्वयौरह्नोः भवः द्वयह्नः (·ह्न fem.), द्वयह्नमियः &c.; with संख्यात the change is optional; as संख्यातराह्नः, or ह्नं.
+(c)*अ is optionally substituted for the final of नदी, गीर्णंभासौ. आयहायणी and निति; उपनदम्-दि, उपगीर्णंभासम्-सि, उपाग्रहायणम्-णि 'near to the full-moon day of Mārgas'irsha'; उपगिरसम्-रि.
 
-N. B. The*न of the substitute is changed to ण when preceded by र belonging to the first member ending in अ; as सर्वाह्नः; but परागतं अहः पराह्नः (as परा ends in आ).
+(d)+ It is also optionally added to all nouns ending in any of the first four letters of a class; उपसमिधम्-मिद्.
 
-(d)† सक्षन् when preceded by ग्राम or कोट, and श्वन् by आति or an inanimate object with which it is compounded; e. g. ग्राममन्य सक्षा ग्रामसक्षः 'a village carpenter i. e one not very skilful,' कुच्यां भवः कोटः (स्वैतन्त्रः) स चातौ तक्षा च कोटतक्षः 'an independent carpenter'; अतियः [शुराहः] 'fleeter than a dog', अतिवौ (worse than a dog's life) शैवा; आरण्यं श्वा इव आरण्यैश्वः 'a dog like i. e. bad or unlucky throw of dice;' but वानरश्वा 'a monkey like a dog'.
+(e) अ is attached to the final of the following nouns when compounded in an Avyaya.‡:—शरद्, विपाश्, मनसु, मनसु, उपानह्, अनडुह्, दिव्, हिमवद्, विरु, इषु, विक्रु, चेतस्, चतुर् तद्, यद्, कियद्, जरस् (substituted for जरा) &c; शरद् समीपम् उपशरदम्, प्रतिवि-पाशम्, 'towards the Vipāśa;' दिश्योमद्यं अपदिशम् between two divisions of the compass, उपजरसम् towards old age, अध्यात्मम् on the soul, &c.; and to आक्षि when preceded by प्राति, पर changed to परि. सुचु and अट, the इ of आक्षि being dropped; अक्षः प्राति प्रत्यक्षम् before one's eyes; अक्षू परं परोक्षम् out of sight; समक्षम्, and अनक्षम् afterwards, forthwith.
 
-(e)‡ सक्ति when preceded by उत्तर, झुग or पूर्व or by a word denoting an inanimate object with which it is compounded; उत्तरसक्तिभम् 'the upper part of the thigh', झुगसक्तिभम् 'the thigh of a deer,' पूर्वसक्तिभम्, फलकसिव सक्ति फलकसक्तिभम् 'a thigh like a board'.
+§ 270. The indeclinables forming Avyayibhāva compounds have various senses §; e. g. (1) the meaning of case; as गौपि इति अधिगोपदम् 'in the protector of the cowherd,' so हरावितै अधिहरि, अध्यात्मम् &c.; (2) सामीप्य or 'vicinity; as कृष्णस्य समीपच्छलम् near Krishus; so उपगवम् &c., (3) सम्पद् or 'prosperity' as मद्राणां सम्पद्धिः सुमद्रम्, 'in a country wherein the Madras are in a prosperous condition.' (4) व्युत्ति (वि+ऋद्धिः) or 'bad condition;' as यवनानां व्युत्तिः दुर्यवनम् 'when the Yavanas are in a bad condition;' (4) अभाव or absence; as मक्षिकाणामभावः निर्मक्षिकम् 'where flies are
 
-(f) A numeral when compounded in a Tat. निर्भातनि विंशतिः निर्विंशतिशुलिभ्यः त्र्यादिणै त्रिंशतोङ्गुलिभ्यः निर्विंशतः खड़ुगः a sword more than thirty fingers in length.
-
-§ 240. The following words have an अ added to them when at the end of a Tatpurusha compound:—
-(a) गो except when a Tad. aff. is added and then dropped§; e. g.
-
-* अह्नोऽङन्तात् । Pān. VIII 4. 7.
-† ग्रामकोटाभ्यां च तक्षणः । अतेः शुनः । उपमानादेग्राणिषु । Pān. V. 4. 96-97.
-‡ उत्तरझुगपूर्वैच्च सक्त्यम्. । Pān. V. 4. 98.
-§ गौरतदिन्द्रियोके । Pān. V. 4. 92.
+* नदीगीर्णंभासाष्याग्रहायण्योः । निरिक्र सैनकस्य । Pān. V 4. 110,112.
+† इयः । Pān. V. 4. 111
+‡ अन्यत्रोभात्रै शरत्प्रभृतिभ्यः । Pān. V 4. 107.
+§ अन्ययै विभक्तिसमीपस्सम्पत्तिख्युत्तिध्युत्पयञ्ञान्तस्ञाङातिष्ञाङादिमर्ग-यायाथादुष्ठयोगोपदसाहइश्यसन्मतिसाइद्धुमादुभाविष

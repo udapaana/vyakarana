@@ -1,39 +1,37 @@
-[Internal page: 58]
-58                        SANSKRIT GRAMMAR.                    [ § 97-100
+[Internal page: 77]
+§ 124-126 ]                    DECLENSION.                    77
 
-                            Neu.
+                    Bases ending in ह् ॥
 
-The neu. forms of these have no peculiarities other than those mentioned above; e. g.
+§ 124. There are very few bases ending in ह्; of these
+are माही earth, and दुह् ( milk-giver ). As regards the decl. of
+माही, वाह् ( bearing along, Lat. "veho" ) in the mas., वह्नि
+( fire ) and words derived from roots of the class क्रय् ( to buy )
+&c., final ह् after short vowel is generally dropped, along with
+the nom. affix, the vowel being lengthened as its substitute, or
+the vowel अ being added ( the substitute for the nom. affix
+विसर्ग ). Thus we have from माही, the nom. सं० माही or माहः, from
+वाह् we get वाः or वाट्, and क्रयि gives क्रयी or क्रयः ॥ In the voc. सं०
+we get माही or माहि ( माह्, उष्-उष = माह्, Pan. VIII. 3. 44, 46 ), वाट्,
+or वाहो ( वाह् + ओ = वाहः, Pan. VIII. 3. 44, 46 ), वह् or वाट् ॥
+Similarly वह्नि ( fire, Lat. "ignis" ) makes its nom. सं०, वह्निः or
+वह्निः by the guna-substitution for the final of the base ह्नि
+( Pan. VIII. 2. 77 ). Before other cases, ह् → ढ् → ह् as
+वह्निभ्याम्, वह्निभिः, वह्निभ्यः &c. ॥
 
-                N. V. A.
+§ 125. With regard to the roots ending in ह् which form
+nouns in ह् ( fem. ) with affix क्विप्, such as मुह् ( a moment from
+the root मुह् ) we have the nom. sing. मूढा or मूट्; or by VIII.
+3. 41 मूढा; acc. sing. मूढम्, ins. मूढा, dat. मूढे, gen. मूढः, loc.
+मूढि or मूढिं or मूढिस् ॥ Similarly we have अप्स्वाही ( नी० उह्-
+व्याइ = वाही ) ॥ Similarly the forms of दुह् and of राह् ( lightning )
+can be formed. They occur in the वेदे only.
 
-सुत्स्युक्    सुत्स्युग्शा    सुत्स्युगज    छुक्-द्    छुहा      छुह
-सत्यवाक्    सत्यवाचौ     सत्यवाञ्चि   भुज्     भुजौ     भुडि
-स्विद्       लिही         लिहि       द्विष्    द्विषी    द्विष्णि
-विभन्द्      विभद्जी     विभन्धि    प्राड्      प्राञ्ची   प्राञ्चि
-                                            or        or
-                                          प्राशी     प्राशिन्
+                    Bases ending in श्व ॥
 
-        The remaining forms like those of the mas. or fem.
-
-                    IRREGULAR BASES.
-
-§ 98. (1) The स् of द्वुरासाह् ' Indra ' is changed to श् before the consonantal terminations;* e. g.
-
-N. V.  द्वुरावाद् द्वुरासाहौ द्वुरासाहः I.  द्वुरासाहा द्वुरावाड्भ्याम् द्वुरावाड्भिः
-  A.   द्वुरासाहम्  ,,      ,,   L.  द्वुरासाहि द्वुरासाहौः द्वुरावाड्सु-द्वरसु
-
-§ 99. द्विश् becomes द्विषा when followed by राद्.† (that particular form of the root-noun राज्)—
-
-        N. V.  द्विषाराद्     द्विषराजौ        द्विषराजः
-          A.   द्विषराजम्       ,,              ,,
-          I.   द्विषराजा      द्विषराड्भ्याम्    द्विषराड्भिः
-          L.   द्विषराजि      द्विषराजौः       द्विषराड्सु-द्वरसु
-
-§ 100.  The वा of root-nouns ending in वाह् is changed to ऊ before the vowel terminations beginning with that of the Acc. plu.‡; e. g. विश्ववाह् m the sustainer of the universe, a lord :—
-
-* Pān. VIII. 3. 56.
-
-† विषस्य बहुराठ्वै । Pān. VI. 3. 128.
-
-‡  वाह ऊउ । सपसाणाब । Pán. VI. 4  132. VI 1.  108. आ and ऊ combine into औ by Pán. VI. 1. 89, See § 20.
+§ 126. There is only one noun-base in श्व, viz. श्वन् ( a
+dog ), and this makes its nom. sing. in mas. श्वा by adding
+the substitute अ for the nom. affix, its place being taken by the
+guna of the final vowel अ of श्व, as श्वन् + न् = श्व + आ ( गुण ) = श्वा
+( Pan. VI. 4. 132 ; VII. 3. 110 ), and in the voc. श्व् or श्व
+( Pan. VIII. 2. 80 ). Before the case-affixes beginning with a

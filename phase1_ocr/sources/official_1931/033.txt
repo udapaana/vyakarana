@@ -1,20 +1,20 @@
-[Internal page: 14]
-14                        SANSKRIT GRAMMAR.                    [§20
+[Internal page: 33]
+§ 52-54 ]                    SUBANTA OR DECLENSION.                    33
 
-optionally dropped;* कृष्ण+ऋद्धिः:=कृष्णोर्द्धिः by the general rule; then कृष्णर्+ऋ+ध+ध:=कृष्णोर्द्धिः by this rule, the ऋ being dropped; and also a third form कृष्णद्धिः: (vide §22, sec. d. below).
+The Prātipadika, when it is inflected, is called a Pada or a word. A noun admits of inflection in seven cases, in the three num-bers Singular ( वचन or एकवचन ) Dual ( द्विवचन ) and Plural ( बहुवचन ) The nominative case is called प्रथमा the second द्वितीया, the third तृतीया, the fourth चतुर्थी, the fifth पञ्चमी, the sixth षष्ठी, and the seventh सप्तमी.
 
-(b) A consonant of the first five classes except ङ coming after a semivowel is optionally doubled; so तवल्कारः also becomes तवल्लकारः; तवल्कारः and तवल्लृकारः 4 forms altogether.
+§ 53. The indeclinables, i. e. words that are incapable of case-affixes, are participles ( अव्यय ), such as च and, यदि if, यदा when, किं why. These, as distinguished from ordinary nouns, are therefore technically called Nip&tas or Avyayas. The word Pada is applied to such words as well.
 
-Exceptions:—Vrddhi substitute takes place in the following cases †
+§ 54. Substantives (संज्ञा). masculine (पुंलिङ्ग), femi-nine (स्त्रीलिङ्ग), and neuter (नपुंसकलिङ्ग)* and adjectives (विशेषण) may be classified as follows:—
 
-(a) When a word ending in अ is followed by ऊह, and प् by ऊरु; ऊढ and ऊर्ढि; e.g. प्रछु+ऊहः:=प्रछौहः', chief guess (or this may be the acc. pl. of प्रछुवाह a young bull trained to the yoke); प्र+ऊहः:=प्रौहः principal reasoning. Similarly प्रोढः full grown; प्रीढः; but प्रोढवान् (as ऊढवान् is not mentioned in the Sûtra).
+1. Words ending in short अ. ( the short  अ being changed to a long one in the Nominative and vocative singular ).
 
-(b) अक्ष+उहिनी=अक्षौहिणी a complete army.‡ (The change of अ to ए will be explained further on).
+(a) Masculine and neuter, e.g. (m) नरः (voc. नर ) a man; (n) कुसुमम् a flower.
 
-(c) When स्व is followed by ईर् and ईरिन् both derived from ईर् to go; e.g. स्व+ईरः:=स्वैरः, one acting wilfully; selfwilled, स्व+ईरिणो=स्वैरिणो, so स्वैरं. स्वैरि (स्वेन ईरितुं शीलमस्य इति)
+(b) Feminine, e.g. कन्या a girl, बाला a girl; in this class adjectives also end in अ and not in आ; e.g. विद्वद्बाला a learned girl.
 
-* इरो ईरि सवर्णे। Pân. VIII. 4. 65.
+II. Words ending in short इ:— (a) M. f and n.; कवि m. a poet, मति f. intellect, वारि n. water.
 
-† एत्येधत्युटू! Pân. VI. 1. 89. The first part of the sûtra (viz. एत्येधति) forms a counter-exception to §21. a (which see); प्राहुद्वाहिन्यापुपसंत्यानम्। 'रङानासंरिणोः' 'ऋते च नृतीयां समासे' 'प्रवव्तरकम्पलप्तनात्त्रनाम्मर्णं' Vârtikas on the above Sûtra.
+(b) Feminine words ending in ई do not differ in inflection from those ending in इ except that they have ई in the Nom. Acc.
 
-‡ Properly an army consisting of 21870 chariots, as many elephants, 65610 horse and 109350 foot. अक्षौहिण्याः प्रसंख्याता रथाना द्विगुनस्तमाः। संहत्या गाणिततनूज्ञाः सद्‌ख्याण्येकविंशानिः।। ज्ञेयं शतं सहस्रं तु सह्स्राणां नवैव तु। नराणामपि पञ्चाशच्चत्तनानि त्रीणि चानपाः।। पञ्चाशटै: सहस्राणि नयाभानां शतानि च। वृषोऽऽचरानि षट्‌ प्राहुर्यया/शदिह संख्यया।। Mahâ-Bhâr. Ad. P. II. 23-26.
+* Noun ending in अ are masculine, feminine and neuter; those ending in आ are feminine; those ending in इ are generally masculine and those ending in ई generally feminine. Feminine words ending in इ change their इ into ई in forming the Nominative of the Dual. Short इ or उ at the end of a noun is made long in the Vocative Singular. Adjectives compounded with the words, उच्च tall, नीच low and प्रिय fond of are neuter when the meaning is not living. But compounds of प्रिय are masculine or feminine when the sense is living &c. e.g. देवप्रियम् dear to a god, (a flower, neuter), देवप्रियः dear to a god (a person, mas.).

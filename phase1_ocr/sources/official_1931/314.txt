@@ -1,33 +1,40 @@
-[Internal page: 300]
+[Internal page: 314]
 
-300                    SANSKRIT GRAMMAR                     [ § 475-480
+314                    SANSKRIT GRAMMAR.                     [ § 505-
 
-Benedictive Atm  and  the  Aorist  Par ; वरितासि,  वरीतासि,
-1 sing. दा—करितासि, कारीतासि 1 sing.
+                  भञ्ज् 7 P. 'to break or to destroy.'
 
-§ 476.  त is inserted before the ending consonant of the root मसु before which स is dropped,  and  after  the  vowel  of  नसु, पोरु and दिवु followed by any  consonant  except  a  nasal or a semi-vowel: मग्रु &c.; वंद्र,  मशिद्र.  The  स  of मसु  is  changed to य when not  dropped
+    1 बभञ्ज                 वभञ्जिव                 वभञ्जिम
+    2 वभञ्जिद-वमङ्क्थ        वभञ्जथुः                वभञ्ज
+    3 बभञ्ज                 वभञ्जतुः                वभञ्जुः
 
-§ 477.  वी is substituted  for  अच्  1 P. ' to go '  necessarily before  any  non-conjugational  termination,  and  optionally before such as begin with any consonant except य , चेता,  अचिता;
-चेयाम,  अचियाम &c.
+                  भ्रस्ज् 6. P. Â. ' to fry.'
 
-        ( 2 ) Second Future ( लुट् ) and  ( 3 )  Conditional ( लुड्_ ).
+1 बभर्ज   बभर्जिद    वभर्जिम       1 वभर्जे   वभर्जिवहे   वभर्जिमहे
+  वभ्रञ्ज  वभ्रञ्जिव   वभ्रञ्जिम     वभ्रञ्जे   वभ्रञ्जिवहे   वभ्रञ्जिमहे
+2 वभर्जिथ वभर्ज‌थुः   वभर्जे        2 वभर्जिषे  वभर्जाथे     वभर्जिध्वे
+  वभ्रञ्ज-वभ्रञ्ठ्
+  वभ्रञ्जिथ वभ्रञ्ज‌थः  वभ्रञ्ज       वभ्रञ्जिषे  वभ्रञ्जाथे    वभ्रञ्जिध्वे
+3 बभर्ज   वभर्जतुः    वभर्जुः       3 वभर्जे   वभर्जाते     वभर्जिरे
+  वभ्रञ्ज  वभ्रञ्जतुः   वभ्रञ्जुः      वभ्रञ्जे   वभ्रञ्जाते    वभ्रञ्जिरे
 
-§ 478.  Terminations of the Second Future:—
+                  युज् 4. Â. 6. P.
 
-         Parasm.                        Atmane
+1 यमज्ने  यमज्जिव    यग्ज्जिम       1 सयुज्जे   सयुज्जिवहे   सयुज्जिमहे
+2 यदाजिथ  यग्ज्जथुः   यग्ज्ज         2 सयुज्जिषे  सयुज्जाथे    सयुज्जिध्वे
+  यदाष्ठ्
+3 यमज्ने  यमज्जतुः    यग्ज्जुः       3 सयुज्जे   ससुज्जाते
 
-1. स्यामि*     स्याव:     स्याम:        1. स्ये     स्यावहे     स्यामहे
-2. स्यसि      स्यथ:     स्यथ          2. स्यसे    स्यसेथे     स्यध्वे
-3. स्यति      स्यत:     स्यन्ते        3. स्यते    स्यसेते     स्यन्ते
+                  दृश् 1. P. 'to see.'
 
-§ 479.  Terminations of the Conditional:—
+should be conjugated like चुर् ; दर्शिथ, दृष्ट 2 sing.
 
-1. स्यम्†      स्याव     स्याम          1. स्ये     स्यावहि     स्यामहि
-2. स्य:       स्यतम्    स्यत           2. स्यथा:   स्येथाम्    स्यध्वम्
-3. स्यत्      स्यताम्   स्यन्          3. स्यत    स्येताम्    स्यन्त
+                  छिद् 7. P. Â. 'to cut.'
 
-§ 480.  इ is substituted for the ending स of a  root when followed by any  non-conjugational termination beginning with a conso-
+1 चिच्छेद  चिच्छिदिद  चिच्छिदिम 1 चिच्छिदे  चिच्छिदिवहे  चिच्छिदिमहे
+2 चिच्छेदिथ चिच्छिदथुः चिच्छिद   2 चिच्छिदिषे चिच्छिदाथे   चिच्छिदिध्वे।
+3 चिच्छेद  चिच्छिदतुः चिच्छिदुः  3 चिच्छिदे  चिच्छिदाते   चिच्छिदिरे
 
-    * These terminations, it will be seen, is obtained  by adding to the Present tense सि or स्य the suffixes mentioned  before which स  and य,  and dropped before a vowel.
+      पद् 4. Â. 'to go.'         शाद् 1. 6 P. ' to decay.'
 
-    † These are obtained similarly by adding  the terminations of the Imperfect to स्य the usual rules of Sandhi being  observed.
+1 पेदे   पेदिवहे   पेदिमहे       1 शादाद-शशाद्    शेदिव       शेदिम

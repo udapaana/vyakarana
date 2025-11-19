@@ -1,0 +1,27 @@
+---
+page_number: 141
+internal_page: 133
+chapter: "Compounds"
+section: "compounds"
+rules_starting: []
+rules_continuing: ["§ 222"]
+has_footnotes: true
+---
+
+(a) *The qualified word is placed first and is always of the mas. gender if it denotes a class or species, when compounded with certain adjectives; e. g. युथजवती: 'a young female elephant', अग्नितोक: 'a small fire', उदविकतिपय् 'butter-milk mixed with a little water', गोप्रथै: 'a cow that has brought forth a calf for the first time', गोवेद्य: 'a milch-cow (नवप्रसूतिका)'; गोवध्या 'a barren cow', गोवेहत ( गर्भपातिनी गौ: ), गोवत्सकपणी 'a cow whose calf is one year old,' कटप्रौषिध्य: 'an agnihotrin Brāhmaṇa of the Kaṭha branch of the Yajurveda,' कटाध्यापक: 'a teacher of the Kaṭha branch,' † गो-मतल्लिका-मध्यल्लिका-प्रकाऽइ (also mas. according to some) -उद्द: (गवोद्द )-मह्यन 'an excellent cow'. The last mentioned five words, all of which denote excellence, retain their own gender invariably; as ब्राह्मणमतल्लिका 'an eminent Brāhmaṇa' &c.; but कुमारी मतल्लिका, as no class is meant here.
+
+(b) ‡ The words कहार, खञ्ज, सोढ lame, काण, कुण्ठ blunt, dull, खल्वति bald-headed, गौर, वृद्ध, भिक्षुक पिङ्ग, पिङ्गल, तड, जरठ hard, stiff, वधिर, कुब्ज and बधिर, may optionally precede the words in apposition to them; as जैमिनिकहार: or कहारजैमिनि: 'Jaimini who is turned tawny on account of his having practised penance in the sun,' &c.
+
+(c) §Words expressive of the persons or things condemned
+
+---
+
+## Footnotes
+
+* पोटायुवतिस्तोककतिपयमुष्टिवेषवसायैहृष्कृपणीप्रवक्रभ्रातृव्याष्याप-कृत्स्नजाति: । दुरक्षेषपरपजातीयवेशोपिषु । Pāṇ. II. 1. 65. VI. 3. 42.
+
+† प्रकर्षाद्वचनेश्व । Pāṇ. II. 1. 66. ( मतल्लिकादयो निपातलिङ्गा न तु विशेषनिष्ठा: । Sid. Kau ). मतल्लिकामध्यल्लिकाप्रकाण्डहृष्टतष्टौ । प्रकर्षवाचकान्यमूनि । Amara.
+
+‡ कहार: कर्मधारये । Pāṇ. II. 2. 38.
+
+§ कुत्सितानि कुत्सनै: । पापाणके कुत्सिते: । Pāṇ. II. 1. 53 54. कि क्षेपे । Pāṇ. II 1. 64.

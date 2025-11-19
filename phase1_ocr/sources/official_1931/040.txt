@@ -1,22 +1,37 @@
-[Internal page: 21]
-§26]                         RULES OF SANDHI.                    21
+[Internal page: 40]
+                    SANSKRIT GRAMMAR.                    [ §
 
-(b) When ई or ऊ follows the प् of the pronoun अदस्* e.g.* अमी ईश्वाः these lords; अमू आसाते the two sit down.
+Ac.   गुरु             गुरुणी                 गुरूणि
+  I.   गुरुणा          गुरुभ्याम्               गुरुभिः
+  D.   गुरवे or गुरुणे     ,,                   गुरुभ्यः
+ Ab.   गुरोः or गुरुणः     ,,                      ,,
+  L.    ,,    ,,        गुर्वोः; गुरुणोः        गुरुणाम्
+  L.   गुरौ or गुरुणि     ,,      ,,            गुरुषु
 
-Ob The ए of the Vedic forms अरे and युष्मे also does not blend with a following vowel (हे। Pân. 1. 1. 13.); e. g. अस्मे इत्त्राबृहस्पती &c. Rg. IV. 49. 4. Similarly a Vaidic word having the sense of the loc. (but not ending in the termination of the loc.) remains unaffected by a following vowel; सौम्यो गोरि अधिश्रितः &c Bg. X. 12. 3. where गोरि stands for गोर्वां the loc. term, being dropped by सुपां सुलुकं Pân. VII 1. 30.
+    Decline all other nouns and adjectives end
+mas. fem. and neu. similarly.
 
-(c) § Particles consisting of a single vowel, except आ meaning 'a little, or a limit' exclusive or inclusive or used as a preposition, when followed by a vowel, e. g. इ इन्द्र Oh Indra, उ इमे हो, आ एवं चु मन्यसे ah, you think so; but आ+इच्छाय्=औच्छाय्‌ (a little warm) &c.
+                Irregular bases :—
 
-(d) When an indeclinable ends in औ; e.g. अहौ ईशाः.. the final औ of a noun in the vocative case optionally combines when followed by इति; e.g. विष्णो इति=विष्णोविति, and विष्णो इति; also विष्ण इति (see §24 a.).
+                सखि mas. friend.
+  N.   सखा           सखायौ                 सखायः
+  V.   सखे             ,,                      ,,
+  A.   सखायम्          ,,                   सखीन्
+  I.   सख्या        सखिभ्याम्              सखिभिः
+  D.   सख्ये           ,,                   सखिभ्यः
+ Ab.   सख्युः          ,,                      ,,
+  G.    ,,          सख्योः                सखीनाम्
+  L.   सख्यौ           ,,                   सखिषु
 
-N.B. All these vowels which do not blend with others, and sometimes the words in which they occur are technically called प्रगृह्या
+   (a)  The words सुसखि a good friend ( शोभनः
+a close friend ( अतिशयितः सखा ), परमसखि
+or one having a great friend ( परम. सखा यस्य, परं
+declined like सखि in the N. V. and A. and like
+ges; but अतिसखि ( सखीमतिक्रान्तः one who has abs
+companion ) is declined like हरि. N. B. सखी
+like नदी.
 
-II. and pluta vowels; e. g. एहि कृष्ण रे अत्र गोश्चरति Come Krshna; here is the cow grazing.
-
-A vowel becomes pluta under the following circumstances:–‡
-
-(1) The last vowel of a sentence uttered in reply to a salutation from a male person other than a S'ûdra when the
-
-* अदसो मात्। Pân, I. 1, 11, 12.
-
-§ निधान एकाजनादि। ओद्। संडूढो ज्ञाकल्यस्येनवार्गौं। Pân. I. 14-16. † वाक्यस्य टे: च्युत उदात्तः। प्रत्याभिवादे८व्युञ्। Pân. VIII. 2. 82-83. त्रियां न। भीरारुजन्यविङा चेति वाच्यम्। Vârtikas on the latter sûtra. द्वारादृते च। हेह्यमयोषे हेहूगौः। Pân. VIII. 2. 84-85.
+                पति mas. a master.
+  N.   पतिः           पती                   पतयः
+  V.   पते             ,,                      ,,
+  A.   पतिम्           ,,                   पतीन्

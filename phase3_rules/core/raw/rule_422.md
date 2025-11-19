@@ -1,0 +1,28 @@
+---
+extraction_status: raw
+page_end: 268
+page_start: 268
+rule_id: § 422
+rule_number: 422
+source_pages:
+- '268'
+internal_pages:
+- '268'
+image_files:
+- 268.png
+
+---
+
+§ 422. अद् P. 'to eat' forms the 2 and 3 sing. Imperf. आदः and आदत् respectively. In other respects it is regular.
+
+         Present.                        Imperfect.
+
+1. अद्मि      अद्वः     अद्मः          1. आदम्    आद्व      आद्म
+2. अत्सि      अत्थः     अत्थ           2. आदः    आत्तम्    आत्त
+3. अत्ति      अत्तः     अदन्ति         3. आदत्   आत्ताम्   आदन्
+
+         Imperative.                     Potential.
+
+1. अदानि     अदाव     अदाम           1. अद्याम्   अद्याव    अद्याम
+2. अद्धि     अत्तम्    अत्त           2. अद्याः   अद्यातम्  अद्यात
+3. अत्तु      अत्ताम्   अदन्तु         3. अद्यात्  अद्याताम् अद्युः

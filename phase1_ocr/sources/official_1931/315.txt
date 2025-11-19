@@ -1,31 +1,44 @@
-[Internal page: 301]
+[Internal page: 315]
 
-§ 481-484 ]         CONJUGATION OF VERBS.                     301
+§ 505 ]              CONJUGATION OF VERBS.                   315
 
-§ 481.  इ  is to be prefixed, or not, or optionally to the terminations given above, according as the  root  is  Set or  Anit  or Wet.  Before the terminations the final vowel and the penultimate short take their Guṇa substitute.
+2 पेदिषे   पेदाथे    पेदिरे        2 शेदिथ-शाशाद्
+3 पेदे     पेदाते    पेदिरे        3 शादाद्            शेदतुः     शेदुः
 
-§ 482   In the Conditional the augment अ is  prefixed  to the root as in the Imperfect
+Conjugate मद् Â., सद् P., तद् P. शृध् P., Â., यद् P., ऱद् Â., लद्
+Â., तद् P., यद् P., रद् Â., बद् P., नद् P. similary; बद्-बाबदे
+2 sing , चबद्-बाबद्य-चबदुत् 2 sing , नद्-नेदिथ्य-नन्दुत् 2 sing , स्कंद्
+देहिष्य-स्तंभ 2 sing, नद्-नेदिह्य-नन्दम्. &c
 
-                          Paradigms.
+     स्कन्द् 1 P. ' to drop '     बन्ध् 9 P. ' to bind. '
 
-                       Second Future
+1 चस्कन्द् चस्कन्दिव चस्कन्दिम 1 वन्ध्य           बाबन्धिव    बाबन्धिम
+2 चस्कन्दिथ् चस्कन्दथुः चस्कन्द् 2 बवन्धिथ्        बवन्धथुः    बवन्ध
+  चस्कन्थ                        वन्ध
+3 चस्कन्द् चस्कन्दतुः चस्कन्दुः 3 बवन्ध्य         बवन्धतुः    बवन्धुः
 
-         शक् 5 P.                       लभ् P.1 Â.
+   गम् 4. 5. P. ' to grow, to accomplish ' स्पृश् 6 P. ' to touch. '
 
-1. शक्ष्यामि   शक्ष्याव:   शक्ष्याम:     1. लप्स्ये    लप्स्यावहे   लप्स्यामहे
-2. शक्ष्यसि   शक्ष्यथ:   शक्ष्यथ       2. लप्स्यसे   लप्स्यसेथे   लप्स्यध्वे
-3. शक्ष्यति   शक्ष्यत:   शक्ष्यन्ते     3. लप्स्यते   लप्स्यसेते   लप्स्यन्ते
+1 रभव    राभविव    राभविम        1 पस्पर्श         पस्पृशिव    पस्पृशिम
+2 राभविथ् राभवथुः  रभव          2 पस्पर्शिषे       पस्पृशथुः   पस्पृश
+3 रभव    राभवतुः  राभुः         3 पस्पर्श         पस्पृशतुः   पस्पृशुः
 
-                          Conditional
+                स्पृश and छुश are similarly conjugated.
 
-1. अशक्ष्यम् अशक्ष्याव  अशक्ष्याम  1. अलप्स्ये   अलप्स्यावहि  अलप्स्यामहि
-2. अशक्ष्य:  अशक्ष्यतम् अशक्ष्यत   2. अलप्स्यथा: अलप्स्येथाम्  अलप्स्यध्वम्
-3. अशक्ष्यत् अशक्ष्यताम् अशक्ष्यन्  3. अलप्स्यत  अलप्स्येताम्  अलप्स्यन्त
+    ( 4 ) Set roots ending in a consonant.
 
-    मुद्—मुदीष्याम—स्ये; अमुदीष्यम्—ये &c.
+       नन्द् 1 P. ' to be glad '      वन्द् 1 Â ' to salute.'
 
-                       IRREGULAR BASES
+1 ननन्द   ननन्दिव   ननन्दिम        1 वंबन्दे   वंबन्दिवहे   वंबन्दिमहे
+2 ननन्दिथ् ननन्दथुः  ननन्द         2 वंबन्दिषे वंबन्दाथे    वंबन्दिध्वे
+3 ननन्द   ननन्दतुः  ननन्दुः        3 वंबन्दे   वंबन्दाते    वंबन्दिरे
 
-§ 483   गम् P. हन् and Anit roots ending in अ admit इ in the Second Future and the Conditional; गम् P ( also  that  substituted for इ ' to go ' and with अघि ' to remember ' ) also admits it in the Desiderative, गमिष्याम, हनिष्याम, करिष्याम, &c. Sec. Fu, 1 sung  अगमिष्यम्, अकरिष्यम्, अहनिष्यम्, &c Con  1 sing.
+       घुर् 4. 1 P. ' to dance. '     घुड् Â. 1. ' to rejoice.
 
-§ 484   The roots कृत्, वृत्, धृघ्, शूघ् and  स्पन्द्  optionally  take Parasmaiapada terminations in the  Second  Future,  Conditional and the Desiderative.  They  reject the augment इ  when  Parasmaiapadi; कलिप्स्ये,  कल्प्स्ये,  कल्प्स्याम;  वर्तिष्ये,  वर्त्स्याम;  वर्धिप्स्ये,
+1 नर्तौ   नर्तृतिव   नर्तृतिम       1 घुघुरे   घुघुरिवहे   घुघुरिमहे
+2 नर्तीथ   नर्तृतथुः  नर्तृत        2 घुघुरिषे  घुघुराथे    घुघुरिध्वे
+3 नर्तौ   नर्तृतुः   नर्तुः         3 घुघुरे   घुघुराते    घुघुरिरे
+
+       अर्ह् 1 P. ' to afflict.'        कच्छु 6. P. ' to go '
+
+1 आनर्ह्   आनर्हिदे   आनर्हिदम्      1 आनच्छे   आनच्छिव    आनच्छिम

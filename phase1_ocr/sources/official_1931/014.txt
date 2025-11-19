@@ -1,14 +1,20 @@
-position,' I am indebted for some of the illustrations given in the Fifteenth chapter. I have also to thank my friend Mr. Udayashárya Aindoure for his occasional help and for the pains he took in preparing for this work the list of Verbs added at the end and carrying it through the press.
+[Internal page: 14]
+14                        SANSKRIT GRAMMAR.                    [§20
 
-This being the first attempt of the Author to bring into the frame the various departments of Sanskrit Grammar as full and as concisely as possible, the Author hopes that the public will take an indulgent view of the work, and pardon him for any of the inaccuracies, mistakes of typography, &c., that might have crept in notwithstanding his best care. It is a sufficient excuse for these to say that the whole volume was written and carried through the press in less than a year. Before concluding I have also to thank Mr. Vinâyaka Nârâyana, Proprieter of the firm of Messrs. Gopâl Nârâyen & Co., my publishers of this Grammar, for the care with which he passed the sheets through the press.
+optionally dropped;* कृष्ण+ऋद्धिः:=कृष्णोर्द्धिः by the general rule; then कृष्णर्+ऋ+ध+ध:=कृष्णोर्द्धिः by this rule, the ऋ being dropped; and also a third form कृष्णद्धिः: (vide §22, sec. d. below).
 
-Lastly I beg to say that I shall be very grateful for any corrections and suggestions that may be sent to me by my indulgent readers and critics and will try to profit by them if the book reaches a second edition.
+(b) A consonant of the first five classes except ङ coming after a semivowel is optionally doubled; so तवल्कारः also becomes तवल्लकारः; तवल्कारः and तवल्लृकारः 4 forms altogether.
 
-Bombay,          }
-20th April 1894. }                    M. R. KA'LE.
+Exceptions:—Vrddhi substitute takes place in the following cases †
 
+(a) When a word ending in अ is followed by ऊह, and प् by ऊरु; ऊढ and ऊर्ढि; e.g. प्रछु+ऊहः:=प्रछौहः', chief guess (or this may be the acc. pl. of प्रछुवाह a young bull trained to the yoke); प्र+ऊहः:=प्रौहः principal reasoning. Similarly प्रोढः full grown; प्रीढः; but प्रोढवान् (as ऊढवान् is not mentioned in the Sûtra).
 
-PREFACE TO THE SECOND EDITION.
+(b) अक्ष+उहिनी=अक्षौहिणी a complete army.‡ (The change of अ to ए will be explained further on).
 
+(c) When स्व is followed by ईर् and ईरिन् both derived from ईर् to go; e.g. स्व+ईरः:=स्वैरः, one acting wilfully; selfwilled, स्व+ईरिणो=स्वैरिणो, so स्वैरं. स्वैरि (स्वेन ईरितुं शीलमस्य इति)
 
-It is a matter of great pleasure to me that I have had an occasion, earlier than I anticipated, to offer to the public a second edition of my 'Higher Sanskrit Grammar'. The rapid sale of the first edition, as well as its recommendation as an optional text for its Higher Exami-
+* इरो ईरि सवर्णे। Pân. VIII. 4. 65.
+
+† एत्येधत्युटू! Pân. VI. 1. 89. The first part of the sûtra (viz. एत्येधति) forms a counter-exception to §21. a (which see); प्राहुद्वाहिन्यापुपसंत्यानम्। 'रङानासंरिणोः' 'ऋते च नृतीयां समासे' 'प्रवव्तरकम्पलप्तनात्त्रनाम्मर्णं' Vârtikas on the above Sûtra.
+
+‡ Properly an army consisting of 21870 chariots, as many elephants, 65610 horse and 109350 foot. अक्षौहिण्याः प्रसंख्याता रथाना द्विगुनस्तमाः। संहत्या गाणिततनूज्ञाः सद्‌ख्याण्येकविंशानिः।। ज्ञेयं शतं सहस्रं तु सह्स्राणां नवैव तु। नराणामपि पञ्चाशच्चत्तनानि त्रीणि चानपाः।। पञ्चाशटै: सहस्राणि नयाभानां शतानि च। वृषोऽऽचरानि षट्‌ प्राहुर्यया/शदिह संख्यया।। Mahâ-Bhâr. Ad. P. II. 23-26.

@@ -1,16 +1,18 @@
-[Internal page: 132]
-132                    SANSKRIT GRAMMAR.                    [ § 217-219
+[Internal page: 150]
+150                    SANSKRIT GRAMMAR.                    [ § 245
 
-(e)*When a noun in the Loc. case ending in अ or a consonant and not denoting time is compounded with घ्रय, वास and वास्तिन and with वन aluk is optional; तेऽसत्राय:, ग्रामेऽमवास:, ग्रामे-मवास्ती, इत्तेऽस्तवन्यः, but भूमिश्रयः, युत्तिवन्यः &c.
+(d)* A Tatpurusha ending in उपज्ञा and उपक्रम is of the neuter gender, when the idea of प्रथमम् 'being the first' of what is known or commenced (introduced) is meant to be expressed; पाणिनेरुपज्ञा पाणिण्युपज्ञं ग्रन्थः the work (grammar) first taught or composed by Pānini. नन्दोपक्रमं द्रोणः the drona (a measure of corn) first brought into use in the reign of King Nanda.
 
-2. Nañ or the Negative Tatpurusha.
+(e)§ A Tatpurusha ending in छाया is neuter when the objects casting the shade are many इक्षूणां इक्षुच्छायम्.
 
-§ 218. (a) The negative particle न changed to अ before a consonant and अन् before a vowel, may be compounded with any poun to form the Negative-Tatpurusha†; as न ब्राह्मणः अब्राह्मणः, one not a Brāhmana; न अश्वः अनश्वः, असद्, non-existent, or not good, &c.
+(f)† A Tatpurusha having for its first member a synonym of राजन् (and not राजन् itself) or the words रक्षस्, पिशाच &c. and सभा for its latter member is neuter; as इन्द्रसभम्, ईश्वरसभम्, a king's council; but राजसभा; रक्षःसभम्, पिशाचसभम्; also that ending in सभा when it means 'a multitude'; as स्त्रीसभम् 'an assembly of women'; but धर्मसभा in the sense of धर्मशाला.
 
-§ 219. The न is not changed to अ or अन् in the following cases‡:-नभ्रादू 'that which does not shine,' 'a cloud;' नपादू(pre. p.) 'one who does not protect;' नवेद्यः 'one who does not know,' नासत्याः [न सत्याः असत्याः न असत्याः नासत्याः × ] the two Aświns, the physicians of the gods. नश्वित्रिः [न ञु श्वेतीति: ] name of a demon slain by Indra; नकुलः [न कुलमस्य, for the mungoose is supposed to belong to no particular species of animals]; नसंद् [न स्वमस्य that which leaves no cavity, or does not go to heaven being burnt down with the dead body]; नईत्तकं [न क्रौ एषार ]; नक्षत्रं [न क्षरतीति ] that which does not move from its proper place, hence a star; नक्रः [न क्रामतीति that which does not go far off from water]; नाकः [न कं अकं न अकं अक्रिन्दु]; नग when it
+(g) × A Tatpurusha ending in सेना, धुरा, छाया, शाला and निशा is optionally neuter; ब्राह्मणसेना-नम्, यवधूरा-रम् malt liquor, beer, कुडुम्बच्छाया-यम्, the shadow of a wall; गोशाला-लम्, श्वनि-शा-शम् (the 14th day of the dark half of a month, so called because certain dogs observe a fast on this night, according to the Sābarabhāshya).
 
-* वन्ये च विभाषा । शुयवासवासिब्विकालादि । Pān. VI. 3. 13. 18.
-† नञ्। Pān. II.2,6. न लौपो नञ्ः । तस्मानन्त्युहाचिः। Pān.VI.3,73.74
-‡ नञोऽप्रतिपदानात्राब्दुत्सिकुलनसंञ्ञदृशना। Pān. VI. 3. 75. नगोऽसागिष्यन्यन्तरस्याम् । Pān. VI. 3. 77.
+N. B. These rules hold good in the case of Tat. alone; so दष्टसेनो राजा (Bah.); असेना (Neg Tat.), परमसेना (Karm.).
 
-× अत्रे बहुत्वचनसविवासिती (is not the point) तेन 'नासस्थाताविनौ दुत्तो' इति सिद्धस । Tatvabodhini.
+
+* उपत्तोपक्रमौ तदुपाणिच्छुख्यासाग्रायाम् । Pān. II. 4. 21. उपज्ञा ज्ञानमार्यं स्याद् ज्ञात्वारम्भे उपक्रमः । Amara.
+§ छाया बहुल्ये । Pān. II. 4. 22.
++ सभा राजाभमदुष्यघुवां । Pān. II. 4. 23. पर्यपिरसेषेऽधुने Vārt-अशाला च । Pān. II. 4. 24. भमदुष्यञ्चब्दो रुढया रक्षः पिशाचाद्यौ-नाथ । Sid. Kau.
+× विभाषा सेनाढुरान्छायाशालानिशानाम् । Pān. II. 4. 25.

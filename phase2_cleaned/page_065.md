@@ -1,0 +1,37 @@
+---
+page_number: 65
+internal_page: 57
+chapter: "Subanta or Declension"
+section: "declension"
+rules_starting: ["§ 95", "§ 96", "§ 97"]
+rules_continuing: ["§ 94"]
+has_footnotes: true
+---
+
+(d) न may optionally be inserted between च् and the loc. pl. term. इ.
+
+(e) Before vowel terminations final इ may optionally be changed to य्.
+
+§ 95. (a) च् is changed to क् when at the end of a pada or when followed by a consonant except a nasal or a semi-vowel. (b) In the case of roots beginning with च् it is changed to य् under the same circumstances; (c) when forming part of the roots चृ, धृ, दृज् and सिच्, it is optionally changed to य् i. e. to क् or य्; (d) and in the case of the root वह् it is changed to य् under the above-mentioned circumstances.*
+
+(e) The च् of उष्णिच्ह् f. a kind of metre is changed to क् when followed by a hard consonant or by nothing, and to ग् before a soft consonant (Pāṇ. III. 2, 59).
+
+§ 96. When a mono-syllabic root (or root-noun) begins with व्, य् or च् and ends with च्, छ्, थ्, भ् or ह्, the च्, य् or च् is respectively changed to अ, व् or य् before च् or च्ह् or when followed by nothing or when the final soft aspirate is changed to an unaspirate letter†.
+
+§ 97. Paradigms—वाच् f. speech, राज् shining, छह् becoming faint &c.
+
+वाच्                             राज्
+
+N. V. वाक्   वाचौ   वाच:    N. V. राट्-ड्   राजौ   राज:
+A.     वाचम्    "      "      A.    राजम्      "      "
+I.     वाचा   वाग्भ्याम् वाग्भि:   I.    दजा    राड्भ्याम् राड्भि:
+D.     वाचे     "     वाग्भ्य:   D.    राजे      "     राड्भ्य:
+Ab.    वाच:     "      "       A.    राज:      "      "
+
+---
+
+## Footnotes
+
+* हौ ट: । द्विर्वचितोर्भ्य: । वा दुहधृषिहाम् । नहे ध: । Pāṇ. VIII. 2. 31-34.
+
+† एकाचो वशो भध् धसन्तस्य स्तो: । Pāṇ. VIII. 2. 37.

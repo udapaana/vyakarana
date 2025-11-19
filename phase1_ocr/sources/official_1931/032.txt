@@ -1,15 +1,27 @@
-[Internal page: 13]
-§20]                        RULES OF SANDHI.                     13'
+[Internal page: 32]
+32                        SANSKRIT GRAMMAR.                    [49-52
 
-similar vowel, short or long, the substitute for them both is the similar long vowel e.g. *देत्य+अरि.=देत्यारि:; अब्र+आसीद=ब्रह्मासीद; यद्वा+अभवत्=यद्वाभवत्; विद्या+आतुरं:=विद्यातुरं 68ger to gain knowledge; इति+इव=इतीव; जर्पि+ईक्षते=अर्पीक्षतै; श्री+ईशः:=श्रीशः:' भाछु+उद्यः:=भावुद्यः; साधु+कुचः:=साधुचः; चमु+उर्जः:=चमूर्जः: the strength of the army; कर्तुं+ऋतुः'=कर्तृतुः'; छ+ऋकारः:=ऋकारः; होतुं+लृकारः:=होतृकारः: the lkâra pronounced by the sacrificer (since there is no long ल long ऋ is substituted for both).
+and रात्रि, visarga is substituted for it; अहः, अहरह: day by day; अहःपतिः or अहर्पतिः the lord of the day, the sun; गीपतिः or गीष्पतिः Bṛhaspati; प्रणेतिः or प्रण्वतिः a leader; but अहोऽभ्याम्  Inst-dual; अहोऽस्पम् the form of the day गतमहो रात्रिरगा; अहोरात्रः day and night; अहोरथन्दसम् a protection of Saman to be chanted by day.
 
-(a) If ऋ or ऌ be followed by a short ऋ or ऌ, short ऋ or ऌ is optionally substituted for both; † होतृ+ऋकारः:=होतृकारः, and also होतृऋकारः: (vide; 23. sec. b.); so three forms altogether होतृकारः, होतृकारं and होतृऋकारः; होतृ+लृकारः:=होतृल्कारः: and also होतृलृकार.
+   (c) *र् or ङ् followed by र or ङ respectively is droppped, and the preceding अ, इ or उ if short is made long; पुनर्+रमते=पुना रमते spor's again;  हरिः+रम्य=हरिरु+रम्य:=हरी रम्यः Hari is graceful; but वृद्+ढः=वृढः ( form वृह्+त ) p. p. of वृह् to grow.
 
-§20. When अ or आ is followed by इ, उ, ऋ ऌ, short or long, the गुण letter corresponding to the latter takes the place of both! e.g. उप+इच्छ.=उपेच्छ: Vishnu, परम+ईश्वर.=परमेश्वरः the great lord; रमा+इच्छा=रमेच्छा the wish of Ramâ; यथा+इप्सितं=यथेप्सितम् according to wish or desire, द्वित+उपदेशः:=द्वितोपदेशः: friendly instruction; छृष्ण+ऊरुं`=छृष्णौरुः Krshna's thigh; गर्भा+उदकं=गर्भोदकम्, महा+ऊरुः:=महोरुः, कृष्ण+ऋद्धिः:=कृष्णोर्द्धिः Krshna's prosperity, महा+ऋद्धिः:=महोर्द्धिः: a great sage; तव+लृकारः:=तवल्कारः: The lkára pronounced by you.
+   § 50. †(a) The स् of the nom. sing. of तद् and एतद् mas. is dropped before a consonant when they do not end in क् or are not used in a negative Tatpurusha; e.g. स शंसुः, एष विष्णुः; but एषको रुद्रः this Rudra; असडिधःधः that is not Siva ( a neg. Tat. ); एषोड्र.
 
-(a) If a consonant be followed by homogeneous consonants, except the nasals, the semivowels, and ह, the first of them is
+   (b) ‡ Sometimes in poetry the स् of सः and एषः is considered as not existing when followed by a vowel other than अ, so that the two vowels may combine in order to meet the exigencies of the metre: e. g. तेषामर्षडिङ्कुद्धु पश्येति य ईक्षीधे &c. Rg. II. 24. I
 
-* अकः सवर्णे दीर्घः। Pân. VI. 1. 101.
 
-† ऋति सवर्णे ऋ वा। लति सवर्णे ल वा। Vârtikas on the above.
-‡ आद्गुणः। Pân. VI. 1. 86.
+सैष द्राड्राथौ रामः सैष राजा युधिष्ठिरः ।
+सैष कर्णो महात्यागी सैष भीमो महाबलः ॥
+
+                            Chapter III.
+                              ———O:O———
+
+                    SUBANTA OR DECLENSION.
+
+   § 51.  In the present chapter Declension or the inflection of nouns, substantive and adjective, is considered
+
+   § 52.  The crude form of a noun ( any declinable word ) not yet inflected is technically called a Prātipadika ( प्रातिपदिक )
+
+* रात्रि । दूलोमे एवेस्य ङीघवोऽण्याः Pān. VIII. 3. 14. VI. 3. 111.
+† एतत्तदोः सुलोपेऽकोरनञ्समासे हलि ।       ‡ तेऽपि लोपे नेत्यादुदुराण्वड् ।
+Pān. VI. 1. 132, 134.

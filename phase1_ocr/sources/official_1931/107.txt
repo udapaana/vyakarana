@@ -1,41 +1,38 @@
-[Internal page: 89]
-§ 133-134 ] PRONOUNS AND THEIR DECLENSION.                    89
+[Internal page: 107]
+§ 161-163 ]    NUMERALS AND THEIR DECLENSION.                    107
 
-भवत् to be declined like भगवत्; भवन्तः भवन्तो भवन्तः N. भवन्तम्
-भवन्तो भवतः A. &c. अत्रभवत् , तत्रभवत् ( see Syntax ' Pronouns ' )
-are similarly declined.
+§ 161. The cardinal numbers between 100 and 200, 200 and
+300, &c are generally expressed by means of अधिक added to
+the number showing the excess and then optionally prefixing
+the whole to 100, 200, &c, e. g एकाधिक शतं or एकाधिकशतं 101,
+द्वादशाधिक शतं or द्वादशाधिकशतं 112, पञ्चाशदधिकं शतं 150. &c.
+After 1000 this अधिक may be repeated with every multiple of
+ten er hundred; e g. द्वि-द्वानवत्याधिकाष्टशतोत्ताधिकसहस्रम् 1892, एकोन-
+नचत्वारिंशदधिकषट्शतोत्ताधिकसप्तसहस्राधिक लक्षम् 177639, &c.
+Similarly उत्तर may also be used instead of अधिक e. g चतुःपञ्चा-
+शदुत्तरं सप्तशतम् 754. Or these may also be, at times expressed
+by the copulative particle च as सप्त च शतानि विंशतिश्च 720.
 
-§ 134. ( a ) The optional shorter forms of the pronouns
-अस्मद् and युष्मद् are never used at the beginning of a sentence
-or of a foot of a metre; * nor can they be used immediately
-before the particles च, वा, इ or ह, अह and एवः; as मम यह् my
-house, and not मे यह्म; चैदैरशौकैः संवयोऽस्मान् कृष्णः सर्वदात्वच ( Sid.
-Kau. ), ' may Kṛshṇa, revered throughout or capable of being
-known properly from all the Vedas, always protect us; and
-not नः कृष्णः &c.; तवैव छन्दोमेतत् ' this is surely your deed,' and
-not ते एष &c But if these particles do not connect these forms
-they may be used with them म; as हरो हरिश्च मे स्वामी ( Sid. Kau. )
-Hara and Hari are my lords, &c.
+§ 162. The Tad. affix अ* may be used, instead of अधिक,
+in the case of the cardinal numbers ending in दशन् , the numeral
+विंशति and those ending in शत् i. e. in the case of the numerals
+111-159, 211-259, 311-359, &c. and qualifying the numerals
+शत and सहस्र before which the final अत् , अति and अत् are dropped
+e. g. एकादशं शतम् 111, विंशं शतं 120, पञ्चाशं शतं 150, सप्तदशं द्विशतं
+217, त्रिंशं त्रिशतं 330 and so on.
 
-Obs.—(b) The shorter forms may be used in a sentence
-having one verb; ज्ञालीनां ते जोदनं दास्यामि; but जोदनं पच तत्र
-भविष्यति as there are two verbs म.
+§ 163. The ordinals from एक, द्वि, त्रि, चतुर् and षष् † are
+irregularly formed. The ordinal from other numerals up to
+दशन् inclusive are formed by dropping the final न् and adding म
+and after दशन् up to नवदशन् by simply dropping the न्. The
+ordinals from विंशति ‡ above are formed by adding तम or by
+dropping the ति of विंशति and the final consonant of the rest;
+the compound numerals in this latter case change the final
+vowel to अ, while the simple ones ending in a vowel i. e. षष्टि
 
-(c) These shorter forms are not also used immediately
-after the Vocative case except when a qualifying adjective
-follows it; + देवास्मान् ( and not नः ) पाहि सर्वदा ( Sid. Kau. )
-' Oh God ! do thou protect us always'; but हरे त्वयाऽहो नः पाहि ( Sid.
-Kau. ) 'Oh merciful Hari, protect us.'
-
-*पद्वात् । अदन्तां सर्वेमपाशादौ । Pān. VIII, 1. 17. 18. The follow-
-ing couplets illustrate the use of these short forms:—श्रीराऽस्दा-
-वत् माषीङ् दत्ता ते मेऽपि शर्म सः । स्वामी ते मेऽपि स हरिः पतु वयार्मे नो
-विद्धुः ॥ सुस्वं वा नो दुवाऽर्वीयाः पतिन्नोऽपि नो हरिः । सोऽङ्वयाद्रो नः निर्वे
-नो नो द्वयात्तेन्यो'अद् यः स नः ॥ Sid. Kau. † न च्वाहान्दैवयुकै ।
-Pān. VIII. 1. 24.
-
-‡ मुक्तप्रहपात्मादाशिगोऽर्जं विषेषः । परम्परासम्बन्धे तु आदेशः स्वादेश ।
-Sid. Kau.
-
-म समानवाक्ये निवातसुष्मद्स्सद्वादेशा वक्तव्याः । Vārt.
-+ Pān. VIII. 1. 72. 73.
+*तदस्मिन्नधिकमिति दशान्ताडिड्. । शदन्तविंशतेश्च । Pān. V. 2. 45.
+46, शततसहस्रयोरिवंस्यते । Vārt.
+† षट्कृतिषयचतुरो युक् । Pān. V. 2. 51; so कतिथः, चतुर्थः &c.;
+' चतुरश्चङ्यतावाक्षरलोपश्च 'Vārt. तुरीयः, तुर्यं. । द्वस्तीयः । त्रेः सम्पसारणं
+न । Pān. V. 2. 54. 55
+‡ विंशत्याद्यैभ्यस्तमड्न्यतरस्याम् ।षष्ठीत्रेश्रांसंख्यात्ते. ।Pān. V.3.56,58.

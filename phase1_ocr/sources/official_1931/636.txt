@@ -1,45 +1,44 @@
-[Internal page: 622]
+[Internal page: 636]
 
-60                   SANSKRIT GRAMMAR.
+74                   SANSKRIT GRAMMAR.
 
-दच् 5 P. घातनै पालनै च to kill, to protect; दच्छुति pre. ददाच perf.
-   दच्छिता p fut अदच्छीत, अदाचीत, aor. ( Vedic ).
+sing.) perf नुविता p. fut. नुविष्युयुति fut. अनुवीत Aor. नुनुवति
+   des. Cau.—नावयाति-तै pre. अनुनवत-न Aor. नुत p p. नुवितुं inf.
 
-दण्ड् 10 U. दण्डुनिधानै दमनै च to fine, to punish; दण्डुयाति-तै.
-   दण्डुयाञ्चुकार-चक्रै. &c. perf दण्डयिता p. fut. दण्डयिष्युयुति-तै
-   fut. अददण्डुत-न aor. दण्डयिषीष्ट des. दण्डित p.p.
+नृत् 4 P. भाजविक्षेपै to dance, to represent on the stage, नुृत्युति
+   pre. ननर्त perf. नर्तिता p. fut. अनर्तीत aor. नृत्युयात् ben. नित्-
+   निर्तिषति des. Pass.—नृत्युतै pre. अनर्त aor. Cau.—
+   नर्तयति only pre. अनीनृतत, अननर्तत aor. नृत्त p.p.
 
-दद् 1 A. दानै to give, दयतै pre ददै perf. दयिता p fut. दयिष्युयतै
-   fut. अदयिष्टु aor. दयिषीष्ट ben. दिदयिषतै des. Cau —दापयाति-तै.
-   pre. अदीदयत-न aor.
+नृ 1 & 9 P. नयै to carry, to lead; नरुति. नुणाति pre, नरीता-
+   नरीता p. fut. नरिष्युयुति. नरीष्युयुति fut अनरीत Aor. Cau.—
+   नरयाति-तै ( नयै ), नारयाति-तै ( अन्युयु ).
 
-दप् 1 A. प्रासै to hold, to present; दपतै pre. दैपै perf दपिता p.
-   fut. अदपिष्टु aor दपिषीष्ट ben. दिदपिषतै des. Cau.—दाप्युयति-तै
-   pre. Pass —दप्युतै pre.
+नेव् 1 A. to go, to reach: नैवतै pre, नैनेवै perf. अनैविष्टु Aor.
 
-दम्भ् 5 P. दम्भुनै to hurt, to deceive; दृम्भुनोति pre ददम्भ perf. दम्भिता
-   p. fut. दम्भुिष्युयुति fut अदम्भुीत aor पिष्मुति, प्रीष्मुति, दिदम्भुिष-
-   ति des. Pass.—दम्भुुुतै pre. अदम्भुि aor. दम्भु p p दम्भुित्वा-दम्भुुत्वा
-   ger.
+                      प—
 
-दम्भु 10 U प्रैषणै to send: दम्भुयति-तै pre. दम्भुयाञ्चुकार-चक्रै, &c.
-   perf. अददम्भुत-न Aor. दम्भुयात् दम्भुयिषीष्ट ben Pass —दम्भुयुतै.
+पठ् 1 P. & 10 U. पठितुतै to take, to accept, पञ्छुति, पञ्छुयति-तै pre.
+   पहिर्युयुति, पञ्छुयिष्युयुति fut. अपञ्छुीत. अपपञ्छुत-न Aor. पिपञ्छुि-
+   षति, पिपदयिषति-तै des Cau.—पञ्छुयाति-तै pre
 
-दश् 4 P. उपक्षयै to be tamed: दश्युति pre ददाश perf. दशिता p.
-   fut. दश्निष्युयुति fut. अदश्निष्युयत् con. अदशत् aor. Cau.—दंशयति only
-   fut. दंशयिष्युयुति fut. अदीदशत, अदंशीत aor. दशित p. p. दांत
-   p. p. दशित्वा, दान्त्वा ger.
+पच् 1 U. to coocs, to digest; पचुति-तै pre पपाच, पैचै perf. पक्ता
+   p. fut. पक्ष्युयति-तै fut. अपक्ष्युयत-न con अपाक्षीत, अपक्त aor. पच्युयात्,
+   पक्षीष्ट ben. पिपक्षति-तै des. Pass.—पच्युतै pre. अपाचि aor. Cau.—
+   पाचुयति-तै pre. अपीपचत-न aor. पक्व p.p.
 
-दय् 1 A. दानपातिरक्षातिदानेषु to give, to be pity, to protect, to
-   injure, to take; दयतै pre. दयाञ्चक्रै. &c. perf. दयिता p. fut.
-   दयिष्युयतै fut. अदयिष्टु aor. दयिषीष्ट ben. दिदयिषतै des. दयित p.p.
+पञ्च् 1 A. व्युयुकुक्तरणै to make clear, पञ्चुतै pre. पपञ्चै perf. पञ्चुिष्युयतै
+   fut. अपञ्चुिष्टु Aor.
 
-दरिद् 2 P. दुर्गुतौ to be poor or needy; दरिद्राति pre. दरिद्राञ्चुकार.
-   ददरीद perf दरिद्रता p fut अदरिद्रीत, अदरैद्रासीत aor. दरि-
-   द्राप्युयात् ben. दरिद्रिषति, दिदरिद्रिषति des. दरिद्र p.p.
+पञ्च् 10 U. 1 P. विस्तारपचनै to spread; पञ्चुयति-तै, पञ्चुति pre. अप-
+   पञ्चुत-न. अपञ्चुीत Aor.
 
-दल् 1 P. विचारणै to burst open, to expand; दलुति pre, ददाल perf.
-   दलिता p. fut. अदालीत aor. दलित p.p. Cau.—to cut, to tear
-   दलयति, दालयाति pre. दिदलिषति des.
+पट् 1 P. to go. to move, पटुति pre. पपाट perf पटिता p. fut. पटिष्युयुति
+   fut. अपटिष्युयत् con. अपटीत, अपाटीत aor. Cau.—पाटयाति-तै
+   pre. अपीपटत-न aor. पिपटिषति des.
 
-दव् 10 U. विदारणै to tear; दालुयति pre. अदीदवत-न Aor.
+पट् 10 U. ग्रन्थै to clothe, to envelop, पटयाति-तै per. पटयाञ्चुकार-चक्रै
+   &c. perf. पटयिता p. fut. अपपटत-न aor. पिपटयिषति-तै des.
+
+पट् 10 U. भाषाग्यां वैष्णै च to speak, to cover; पाटयाति-तै pre. पाट-
+   यिष्युयति-तै fut. अपीपटत-न aor.

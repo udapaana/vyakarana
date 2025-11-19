@@ -1,37 +1,43 @@
-[Internal page: 306]
+[Internal page: 320]
 
-306                    SANSKRIT GRAMMAR.                    [ § 487-493
+320                    SANSKRIT GRAMMAR.                     [ § 508
 
-छृद् छर्दितास—हे              छर्दिष्यामि–ध्ये     अच्छर्दिष्यम्–ध्ये
-                             छत्स्याति तस्ये     अच्छत्स्यम्–तस्ये
+          यज् 1 2. P. ' to purify.'       अञ्ज् 7. P. ' to anoint.'
 
-वह् P. A. & वृह् P are similarly conjugated
+1 ममाजै     ममृजन    मयृजिम          1 आनञ्ज     आनञ्जिव    आनञ्जिम
+            मयृञ्ज्व   मयृञ्ज्म
+                                                 आनञ्ज्‌व    आनञ्ज्‌म
+            ममाजिव   ममाजैम्
+2 ममर्जि‌थ् ममृज्‌थुः  ममृज            2 आनञ्जिथ्  आनञ्जथुः   आनञ्ज
+  मनाघै    मनाज्‌थुः  ममाजै             आनङ्क्‌थ्
+3 ममाजै    ममृज्‌तुः   ममृजुः          3 आनञ्ज     आनञ्जतुः   आनञ्जुः
+           ममाजेतः   ममाजैः
 
-ऋप्यै  ऋप्यैवितास–हे          ऋप्यैविष्यामि–ध्ये   अौप्यैविष्यम्–ध्ये
-      ऋप्यैवत्तास–हे          ऋप्यैवत्स्यामि–ध्ये  अौप्यैवत्स्यम्–ध्ये
-दृश्र  दर्शितासि            दर्शिष्यामि        अदर्शिष्यम्
-दीर्घी दीर्घितासे           दीर्घिष्ये         अदीर्घिष्ये
+          स्निह् 4 P ' to be wet.'        स्त्यन्द् 1. Â ' to distil.'
 
-वेवी is similarly conjugated.
+1 चिस्नेह    चिस्निहिव  चिस्निहिम        1 सस्त्यन्दे  सस्त्यन्दिवहे  सस्त्यन्दिमहे
+            चिस्निह्‌व  चिस्निह्‌म                    सस्त्यन्द्रहे   सस्त्यन्द्रमहे
+2 चिस्निहिथ् चिस्निहथुः चिस्निह         2 सस्त्यन्दिषे सस्त्यन्दाथे  सस्त्यन्दिध्वे
+  चिस्नेक्‌थ                               सस्त्यन्त्से                सस्त्यन्द्ध्वे
+3 चिस्नेह    चिस्निहतुः चिस्निहुः       3 सस्त्यन्दे  सस्त्यन्दाते  सस्त्यन्दिरे
 
-                   ( 4 ) THE PERFECT ( लिट् )
+          रघ्* 4. P. ' to destroy.'       सिध् 1 P.
 
-§ 488.  There are two kinds of Perfect,  Reduplicative  and Periphrastic.
+1 ररत्य     ररण्यिघ-रेघ् ररण्यिम-रेघ् 1 सिषेध    सिषिधिव-घ् सिषिधिम-घ्
+2 ररण्यिथ-ररद् ररण्यतुः ररत्य          2 सिषिधिथ्, सिषिधथु. सिषिध्
+                                        सिषेद्
+3 चिस्नेह    चिस्निह्‌तुः चिस्निह्‌ःः    3 सिषेध     सिषिधतुः   सिषिधुः
 
-§ 489.  The Reduplicative  Perfect  is  formed  of  all  monosyllabic roots  beginning  with  consonants,  as  well as of those beginning with the vowels अ or आ, and इ, उ; and अ  short.
-    Exceptions—ऊय, अस्, कास्, आस्. These take the Periphrastic Perfect necessary.
+          क्लृप् 1. P. ' to be able.'      तृप् 4. P. ' to be pleased.
 
-§ 490.  The Periphrastic  Perfect  is  formed  of  all  roots beginning with any vowel except अ or आ which is  naturally or prosodially long, and of roots of more than one syllable  ( roots of the 10th class and other  derivative  roots  included ). Exceptions:—ऊण् and चच्छ् which take the Reduplicative Perfects.
+1 चक्लृपे    चक्लृपिवहे  चक्लृपिमहे      1 ततर्प                तर्तृपिव तर्तृपि
+            चक्लृप्वहे  चक्लृप्महे                              तर्तृप्‌व तर्तृप्‌म्
+2 चक्लृपिषे   चक्लृपाथे   चक्लृपिध्वे     2 तर्तृपिथ्,             तर्तृपथुः तर्तृप
+  चक्लृप्से                चक्लृप्ध्वे      तर्तृप्थ,† तत्रष्थ
+3 चक्लृपे    चक्लृपाते    चक्लृपिरे      3 ततर्प                तर्तृपतुः तर्तृपु
 
-§ 491.  The roots उप्, विदू, जाग्, गौं, हौं, घूं, इस्, and  दरिद्रा  take both the perfects.
+                              हृष is similarly conjugated
 
-              THE REDUPLICATIVE PERFECT.
-
-§ 492.  The root is reduplicated according  to  the  rules  laid down in §§ 444—449.
-
-§  493.
-                          Terminations.
-
-         Parasmaipada.                   Ātmanepada.
-
-1. अ      व      म                1. ए      वहे      महे
+* रघ् and जनू insert a nasal when their final is followed by a
+vowel. रघ्, however, does not do it in the Aorist or when i
+takes इ, except in the Perf. † See § 471.

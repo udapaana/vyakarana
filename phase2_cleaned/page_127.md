@@ -1,0 +1,30 @@
+---
+page_number: 127
+internal_page: 119
+chapter: "Compounds"
+section: "compounds"
+rules_starting: ["§ 199", "§ 200", "§ 201", "§ 202"]
+rules_continuing: ["§ 198"]
+has_footnotes: true
+---
+
+first and in case there are more words than one having an equal number of syllables, the one that has more short syllables should be placed first; e. g. चिरक्षमावो, ग्रीष्मवसन्तौ, कुशाकरवः, &c.; the names of seasons and stars, under this latter circumstance, should be arranged according to their astronomical order; as इन्द्रविशाखरवसन्ताः, शततभरोहिणी, &c. Also a word of more important significance should precede others; as तापसपर्वतौ.
+
+(d) * Names of the four castes of men should be arranged according to their order, beginning from the highest and so should be the names of brothers beginning from the eldest; e. g. ब्राह्मणक्षत्रियवैश्यशूद्राः; युधिष्ठिरार्जुनौ.
+
+§ 199. In the case of words of the राजदन्तादि class that which ought to be placed first is placed last; while in the case of words of the धर्मादि group (a sub-division of राजदन्तादि) the rule is observed optionally†; शूद्रार्यम् a Śudra and an Arya, धर्मोऽर्थ or धर्मार्थौ or अर्थधर्मौ; so अर्थशब्दौ or शब्दार्थौ, अर्थकामौ or कामार्थौ, &c.
+
+II. TATPURUSHA OR THE DETERMINATIVE COMPOUNDS.
+
+§ 200. When a compound consists of two members and the first determines the sense of the other, that is called Tatpurusha.
+
+§ 201. According to the grammatical nature of the first or attributive member the Tatpurusha is divided into six varieties:-(1) Tatpurusha proper or the Inflectional, (2) Nañ or the Negative Tatpurusha, (3) Karmadhāraya or the Appositional including 'Dwigu', (4-5) Prādi and Gati or the Prepositional compounds, and (6) Upapada. These are either nouns, adjectives or adverbs.
+
+§ 202. The final vowel of a feminine noun ending in any of
+
+---
+
+## Footnotes
+
+* वर्णानामानुपूर्व्येण । भ्रातृव्यवस्थितिः । Vārtikas on the above Sūtra.
+† राजदन्तादिषु परम् । Pāṇ. II. 2. 31. धर्मादिष्वनियमः । Vārt.

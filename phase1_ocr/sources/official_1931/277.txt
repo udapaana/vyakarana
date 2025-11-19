@@ -1,32 +1,37 @@
-[Internal page: 263]
+[Internal page: 277]
 
-§ 420-421 ]          CONJUGATION OF VERBS
+§ 436-437 ]         CONJUGATION OF VERBS.                     277
 
-                          Paradigms.
+§  436.  विद् 'to know' takes optionally the terminations of the Perfect in the Present Tense.  Its Imperative  forms  are optionally made up by adding आस् to it and then appending the forms of the Imperative of इ.
 
-                      या P. ' to go.'
+         Present.                       Imperfect.
 
-         Present                        Imperfect.
+1. वेत्ति-वेद    विद्वः-विद्   विद्मः-विद्म    अवेदम्      अविद्व      अविद्म
+2. वेत्सि-वेथ   वित्थः-विदयुः वित्थ-विद      अवेः; अवेत्-द् अवित्तम्   अवित्त
+3. वेत्ति-वेद   वित्तः-विदतुः विदन्ति-विदुः   अवेत्-द्     अवित्ताम्  अविदुः
 
-1. यामि      यावः     यामः            अयाम्     अयाव      अयाम
-2. यासि      याथः     याथ             अयाः     अयातम्    अयात
-3. याति      यातः     यान्ति           अयात्    अयाताम्   अयान्,
+                          Imperative.
+
+1. वेदानि      वेदाव     वेदाम         विदाङ्क्रवाणि                 विदाङ्क्रवाम
+2. विद्धि      वित्तम्   वित्त         विदाङ्कुरु    विदाङ्कुरुतम्  विदाङ्कुरुत
+3. वेत्तु       वित्ताम्  विदन्तु       विदाङ्कुरोतु  विदाङ्कुरुताम् विदाङ्कुर्वन्तु
+
+                          Potential.
+
+                   1. विद्याम्    विद्याव     विद्याम
+                   2. विद्याः    विद्यातम्   विद्यात
+                   3. विद्यात्   विद्याताम्
+
+§ 437. शास्* P. ' to govern, to teach,' &c.—changes its vowel to इ before consonantal weak terminations. See चकास् also p. 272.
+
+         Present.                       Imperfect.
+
+1. शास्मि      शिष्वः    शिष्मः        अशासम्      अशिष्व       अशिष्म
+2. शास्सि      शिष्ठः    शिष्ठ         अशाः; अशात्-द् अशिष्टम्    अशिष्ट
+3. शास्ति      शिष्ठः    शासति        अशात्-द्     अशिष्टाम्    अशासुः
 
          Imperative.                    Potential.
 
-1. यानि      याव      याम             यायाम्    यायाव     यायाम
-2. याहि      यातम्    यात             यायाः    यायातम्   यायात
-3. यातु      याताम्   यान्तु           यायात्   यायाताम्  यायुः
+1. शासानि     शासाव    शासाम        . शिष्याम्    शिष्याव      शिष्याम
 
-    Conjugate similarly स्था P  ' to tell, ' दा P. ' to cut, ' पा P ' to protect,' धा P  'to fill,' त्ता P.  ' to eat,' क्षा P. ' to fly, मा P. ' to shine,' मा ' to measure, रा  ' to give,' ला  ' to give or  take,' ' to blow, ' भा ' to cook ' add हा ' to bathe '.
-
-§  421.   In  order  to  exemplify  the  rules  given  under §§  416-418 we will give the forms  of the regular  verbs ई , जाग्र्, ईर्, चक्ष्, कुट्, दुह्, लिह् and  निज्ज्.
-
-                      वी P. ' to go '
-
-         Present.                        Imperfect.
-
-1. वेमि      वीवः     वीमः            अवयम्     अवीव      अवीम
-2. वेषि      वीयः     वीथ             अवेः     अवीतम्    अवीत
-3. वेति      वीतः     वियन्ति          अवेत्    अवीताम्   अवियन्(or अ
-                                                        according to some
+    * शास् with आ A. should be conjugated like आस्.

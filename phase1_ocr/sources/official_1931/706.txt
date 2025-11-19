@@ -1,50 +1,46 @@
-[Internal page: 692]
+[Internal page: 706]
 
-130                   SANSKRIT GRAMMAR.
+144                   SANSKRIT GRAMMAR.
 
-शाद् 10 A. श्लाघायां to flatter; शादयतै pre. शादयिष्युतै fut.
-   अशीशदत aor. शादित p.p.
+स्कुन्द् 1 A. आप्लवनै to jump, to lift up; स्कुन्दतै pre. चुस्कुन्दै
+   perf. अस्कुन्दीष्ट Aor.
 
-शण् 1 P. दानै गतौ च to go, to go; शणाति pre. शशाण perf.
-   शणिष्युति fut. अशणीत् , अशाणीत् aor.
+स्कुभु 5 & 9 P. रोधनै धारणै च to stop, to hold; स्कुभुोति, स्कुभुाति
+   pre अस्कुभुीत् aor.
 
-शद् 1 P. ( but Atm. in conjugational tenses; ) शातनै to perish, to
-   decay: शीदुति pre. शशाद perf शाता p. fut. अशादत् aor. शायुयात्
-   ben. विशदिषति des. Pass.-शीद्युतै pre. ( also शिरताति-तै ) pre.
-   शन्न p.p.
+स्खद् 1 A विद्रावणै to rout, to cut, to destroy; स्खदतै pre. चस्खदै
+   perf. अस्खदीष्ट aor.
 
-शप् 1 & 4 U. आलोक्षौ to curse, to wear, to blame, शपाति-तै, शप्युति-
-   तै pre. शशाप, शैपै perf. शाप p. fut. अशापीत्-अशाप aor.
-   शप्युयात्, शपीष्ट ben. Pass.—शप्युतै pre. अशापि aor. शप्युति imp. pre.
-   अशीशपत-न aor. विशपिषति-तै des. शप्त p p.
+स्खल् 10 A. to move, to totter, to err; स्खलति pre. चस्खाल
+   perf. स्खलिता p. fut अस्खालीत् aor. चिस्खलिषाति des. स्खलित p. p.
 
-शब्द् 10 U. to sound, to call out, to speak; शब्दुयाति-तै pre. शब्द-
-   याचकार-चक्रै perf. शब्दयिता p. fut. अशशब्दत-न aor. शब्दित p.p.
+स्तङ्कु 1 P. प्रतिबानै to resist, to strike against; स्तङ्कुति pre. तस्ताङ्कु
+   perf. स्तङ्कुिता p fut असताकीत् aor.
 
-शम् 4 U. उपशमै to grow calm, to calm an end, to stop; सम्युयतियो:
-   pre. शशाम perf. शमिता p. fut. अशमत् aor. शम्युयात् ben.
-   Pass.-शम्युतै pre. Cau.-शमुयाति-तै, शामयाति-तै pre. शान्त p. p.
+स्तप् 1 P. संवरणै to cover; स्तपुति pre. स्तपिष्युति fut असताषीत् Aor.
 
-शर् 10 A. आलोचनै to look at, to show; शारयतै pre. शारयाचक्रै
-   &c. pre. ( Rare forms ), शरित p.p. अशीशरत-न aor. विशारयिषतै des.
+स्तन् 1 P शब्दै to sound, to thunder, to sigh; स्तनुति pre. तस्तान
+   perf स्तनिता p. fut. असतनीत्, असतानीत् aor तिस्तनिषति des.
+   Cau.—स्तनुयाति-तै pre
 
-शम्ब् 10 U. सम्बन्धनै to accumulate, to collect together; शम्बयाति-तै
-   pre. शम्बयाचकार-चक्रै &c. perf. अशशम्बत-न Aor.
+स्तन् 10 U त्रैष्णक्वै to thunder; स्तनुयाति-तै pre. स्तनुयाञ्चकार-चक्रै
+   perf. अतस्तनत-न aor.
 
-शर्व् 1 P. to go, to injure, to kill; शर्वुति pre. शशर्व perf.
-   अशर्वीत् Aor.
+स्तन् 1 P. अवैकुत्युयं not to be confused or weak; स्तनुति pre.
+   तस्तान perf. असतनीत् Aor.
 
-शर्व् 1 P. हिंसायां to kill; शर्वुति pre.
+स्तम्भु 1 A. प्रतिबन्धनै to make immovable to support, to stop;
+   स्तम्भुतै pre. तस्तम्भुै perf. स्तम्भुितै p. fut. अस्तम्भुीष्ट aor. तिस्त-
+   म्भुिषतै des.
 
-शल् 1 A. चलनैसंवरणयो: to shake, to agitate; शलतै pre. शैलै perf.
-   शलिता p. fut. अशलीष्ट Aor.
+स्तम्भु 5 & 9 P. रोधनै धारणै च to stop, to fix firmly, to support;
+   स्तम्भुोति, स्तम्भुाति pre. तस्तम्भु perf. स्तम्भुिता p. fut. अस्तम्बत् ,
+   अस्तम्भुीत् aor. स्तम्भुयुयात् ben. तिस्तम्भुुषाति des. Pass,—स्तभुयुतै
+   pre. Cau -स्तम्भुययाति-तै pre. स्तब्ध p p स्तम्भुिता, स्तम्भुत्वा ger.
 
-शल् 1 P. to go, to run; शलति pre. शशाल perf.
+स्तैयु 1 A. क्षरणै to drip, to drop, सैतैयतै pre. तितैयुै perf असतैयीष्ट
+   aor. तिस्तयिषतै, तितस्तैषतै des
 
-शल्ल् 1 A. कत्थनै to praise, to boast; शल्लतै pre. शशल्लै perf.
-
-शष् 1 P. to go, to approach, to utter; शषुति pre. शशाष perf.
-   अशषीत्, अशाषीत् Aor.
-
-षष् 1 P. प्लुतताौ to leap, to jump; शशुति pre. शशाष perf. शषिता
-   p. fut. अशशीत्, अशाषीत aor.
+स्तिम् or स्तीम् 4 P. आर्द्रैभावै to become wet, to become fixed,
+   स्तिम्युति, स्तीम्युति pre. तितैम. तितीम perf. तितिभुयुाति, स्तीमिष्युुति
+   fut. असतैमीत्, असतीमीत् Aor.

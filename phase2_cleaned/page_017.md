@@ -1,0 +1,50 @@
+---
+page_number: 17
+internal_page: 9
+chapter: "The Alphabet"
+section: "alphabet"
+rules_starting: []
+rules_continuing: ["§ 12"]
+has_footnotes: false
+---
+
+( c ) In the conjuncts ग्र (क्र+र) kṣh, and ज्र (ज्र+र) jñā,
+the component elements are scarcely discernible.
+
+( d ) A few consonants are written in two ways; e. g. त्र, त्र
+tra; क्र, क्र, kra; स्थ, स्थ, stha; क्त, क्त, kta; स्त्र, स्त्र, stra.
+
+( e ) The following are the principal conjunct consonants:-
+
+क k-ka, क्क्य k-kya, क्क्य k-kya, क्ख k-kha, क्त k-ta, क्थ k-tha,
+क्त्य k-tya, क्त्र or क्र k-tra, क्त्व k-t-va, क्थ्न k-th-na, क्न k-na,
+क्न्य k-n-ya, क्म k-ma, क्य k-ya, क्र or क्र k-ra, क्ल k-la, क्व k-va,
+क्ष k-sha, क्ष्ण k-sh-ṇa, क्ष्म k-sh-ma, क्ष्य k-sh-ya, क्ष्व k-sh-va.
+
+ख्न kh-na, ख्य kh-ya, ख्र kh-ra.
+
+ग्ध g-dha, ग्न g-na, ग्य g-ya, ग्र g-ra, ग्र्य g-r-ya, ग्ल g-la, ग्व gva,
+घ्न gh-na, घ्न्य gh-n-ya, घ्म gh-ma, घ्य gh-ya, घ्र gh-ra, घ्व gh-va.
+
+ङ्क ṅ-ka, ङ्क्त ṅ-k-ta, ङ्क्ष ṅ-k-sha, ङ्क्ष्व ṅ-k-sh-va, ङ्ख ṅ-kha, ङ्ख्य
+ṅ-kh-ya, ङ्ग ṅ-ga, ङ्घ ṅ-gha, ङ्घ्य ṅ-gh-ya, ङ्घ्र ṅ-gh-ra, ङ्ञ ṅ-ña, ङ्म
+ṅ-ma, ङ्य ṅ-ya.
+
+च्च cca, च्छ ccha, च्छ्र c-ch-ra, च्छ्व c-ch-va, च्ञ c-ña, च्म c-ma,
+च्य c-ya.
+
+छ्य ch-ya, छ्र ch-ra.
+
+ज्ज j-ja, ज्झ j-jha, ज्ञ j-ña, ज्ञ्य j-ñ-ya, ज्म j-ma, ज्य j-ya, ज्र j-ra,
+ज्व j-va.
+
+ञ्च ñ-ca, ञ्छ ñ-cha, ञ्ज ñ-ja.
+
+ट्क ṭ-ka, ट्ट ṭ-ṭa, ट्व ṭ-va, ट्ह्य ṭh-ya, ठ्र ṭh-ra, ड्ग ḍ-ga, ड्घ ḍ-gha, ड्म
+ḍ-ma, ड्य ḍ-ya, ड्ह्य ḍh-ya; ढ्र ḍh-ra.
+
+ण्ट ṇ-ṭa, ण्ठ ṇ-ṭha, ण्ड ṇ-ḍa, ण्ढ ṇ-ḍha, ण्ण ṇ-ṇa, ण्म ṇ-ma, ण्य
+ṇ-ya, ण्व ṇ-va.
+
+त्क t-ka, त्क्र t-k-ra, त्त t-ta, त्त्य t-t-ya, त्त्र t-t-ra, त्त्व t-t-va,
+त्थ t-tha, त्न t-na, त्न्य t-n-ya, त्प t-pa, त्म t-ma, त्म्य t-m-ya, त्य

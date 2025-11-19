@@ -1,37 +1,27 @@
-[Internal page: 268]
+[Internal page: 282]
 
-268                    SANSKRIT GRAMMAR.                    [ § 421-423
+282                    SANSKRIT GRAMMAR.                    [ § 444-449
 
-                       IRREGULAR BASES.
+    Note—The first syllable of a  reduplicated  root is called 'the reduplicative syllable; e. g. the first व in पपत्, or first इ in उउत्.
 
-    Many  of  the  roots  of  the  2nd  class  are  of  irregular conjugation. We will treat of them in alphabetical order.
+§ 445.  If a conjunct consonant begins a root,  the  first consonant only with the following vowel is reduplicated; e. g. प्रच्छ्-पप्रच्छ्.
 
-§ 422.  अद् P 'to eat' forms the 2 and 3 sing. Imperf. आद: and आदत् respectively.  In other respects it is regular.
+    (:) If the first member of a conjunct consonant, however, be a sibilant ( श, ष or स ) and the second a hard consonant, the hard consonant is reduplicated. स्तुड्-तुष्टुड्; स्कुत्-चुस्कुत्; but स्वन्-सुस्वन् &c.
 
-         Present.                        Imperfect.
+§ 446.  A radical aspirate ( 2nd or 4th letter of a  class ) is changed  to  its corresponding  unaspirate in the reduplicative syllable; as किद्-चिकित्, धुड्-दुधुड्, धुघ्-बुधुघ्, &c.
 
-1. अद्मि      अद्वः     अद्मः          1. आदम्    आद्व      आद्म
-2. अत्सि      अत्थः     अत्थ           2. आदः    आत्तम्    आत्त
-3. अत्ति:     अत्तः     अदन्ति         3. आदत्   आत्ताम्   आदन्
+§ 447.  The guttural of the reduplicative syllable is changed to  the corresponding  palatal ( subject  to  the  above rule ) and इ to च; e g. कम-चकम्-चकस, पवि-सिपव्-ससक्त्-चसक्त्, इुरुड् &c.
 
-         Imperative.                     Potential.
+§ 448.  A radical long vowel becomes short and ऋ is changed to अ in the reduplicative syllable; as पा-पपा, वी-विवी, छ-चछ &c.
 
-1. अदानि     अदाव     अदाम           1. अद्याम्   अद्याव    अद्याम
-2. अद्धि     अत्तम्    अत्त           2. अद्याः   अद्यातम्  अद्यात
-3. अत्तु      अत्ताम्   अदन्तु         3. अद्यात्  अद्याताम् अद्युः
+§ 449  The penultimate स or य and आ or ओ become इ and उ respectively in the reduplicative syllable; सेध्-तिसेध्, शोक—जुशोक, &c.
 
-§ 423.  अन् P. ' to breathe,' जश् ' to eat,' रुद् P. ' to weep, वद् P ' to sigh ' and स्वप् P. ' to sleep ,' insert the augment इ between their final and the terminations beginning with any consonant except य; in the case of 2 and 3 sing. Imperf. they insert ई or अ; e. g.
+                          Paradigms.
 
-                   अन् ' P. to breathe.'
+                   कि P. ' to know.'
 
-         Present.                        Imperfect.
+         Present                        Imperfect.
 
-1. अनिमि     अनिव·    अनिमः         आनम्              आनिव     आनिम
-2. अनिषि     अनिथः    अनिथ          आनीः—आनः   आनितम्  आनित
-3. अनिति     अनितः    अनन्ति         आनीत्—आनत् आनिताम् आनन्
-
-         Imperative.                     Potential.
-
-1. अनानि     अनाव     अनाम          अन्याम्      अन्याव     अन्याम
-2. अनिहि     अनितम्   अनित          अन्याः      अन्यातम्   अन्यात
-3. अनिंतु    अनिताम्  अनन्तु         अन्यात्     अन्यातम् अन्युः
+1. चिकेमि     चिकिवः    चिकिमः        अचिकेम्     अचिकिव्     अचिकिम्
+2. चिकेषि     चिकिथः    चिकिथ         अचिकेः     अचिकितम्   अचिकित
+3. चिकेति     चिकितः    चिक्यति       अचिकेत्     अचिकिताम् अचिक्युः

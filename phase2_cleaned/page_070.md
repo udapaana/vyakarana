@@ -1,0 +1,44 @@
+---
+page_number: 70
+internal_page: 62
+chapter: "Subanta or Declension"
+section: "declension"
+rules_starting: ["§ 104"]
+rules_continuing: ["§ 103"]
+has_footnotes: false
+---
+
+अव्याज्.
+
+N. V. अव्याः      अव्याजौ      अव्याजः
+A.    अव्याजम्      "          "
+I. •  अव्याजा      अव्योभ्याम्    अव्योभिः
+L.    अव्याजि      अव्याजोः     अव्यक्ष
+
+पुरोडाज्.
+
+N. V. पुरोडाः      पुरोडाशौ      पुरोडाशः
+A.    पुरोडाशम्     "           "
+I.    पुरोडाशा      पुरोडोभ्याम्   पुरोडोभिः
+L.    पुरोडाशि      पुरोडाशोः     पुरोडक्ष
+Bases derived from the root अञ्च् 'to go' to worship.
+
+§ 104. Nouns derived form the root अञ्च् ' to go ' by means
+of such affixes as क्रिन्, क्रिप् &c. such as प्राञ्च् ( प्रा-अञ्च् ) eastern,
+प्रत्यञ्च् ( प्रति-अञ्च् ) western, सम्यङ् ( सह्-अञ्च् ) a companion,
+तिर्यञ्च् ( तिरस्-अञ्च् ) going away, सम्यञ्च् ( सम्-अञ्च् ) going
+with or well, विष्वञ्च् ( विश्वञ्च्-अञ्च् ) following, देवव्रञ्च्
+( देव-अञ्च् )adoring a deity, सर्वञ्च् ( सर्व-अञ्च् ) going every-
+where, उदञ्च् northen,, अन्वञ्च् following, उद्भ्रञ्च्, भ्रद्भ्यञ्च्,
+अद्भ्यञ्च् going to that( all these derived from भ्रद्स्+अञ्च् ),
+गोष्ठञ्च् &c.
+
+(a) In the Nom sing. अञ्च् becomes अङ्. The nasal of
+अञ्च् is dropped before all terminations beginning with the
+Acc. plu. and the preceding semi-vowel is changed to its
+corresponding long vowel before the vowel terminations after
+which अ is dropped. When अञ्च् is not preceded by a semi-
+vowel, its अ is changed to ई if not preceded by a long vowel;
+otherwise it remains unchanged. तिर्यञ्च् becomes तिरश्च् under
+similar circumstances. In other respects these words are
+declined like words ending in च्.

@@ -1,40 +1,45 @@
-[Internal page: 472]
+[Internal page: 486]
 
-474                  SANSKRIT GRAMMAR.                   [ § 789–793
+488                  SANSKRIT GRAMMAR                   [ § 825–827
 
-(b)  And sometimes it takes  the  gender  and  number of the
-substantive  nearest  to  it  when  the  particla  च  is  used;  जुङाः
-हङ्गः कुपुङ्ः मैत्युक्तवान्  च  घञ्ते  dejection,  quarrel  and  an  itching
-sensation  prevail all the more  they  are  attended  to;  यस्य  भूमिष्यु
-छुतिनो  यं  च  भुत्तुनाति  च  (छुतीति)  by  whose  valour  we  have  be-
-come  happy and so have the three worlds.
+§ 825.  * छुच्  with  यति  and  आ  meaning  'to  promise,  '  gov-
+erns  the  Dative of  the  person  to  whom a promise is  made  after
+solicitation विप्रुयु  गां  प्रतिजुयुनोयुति  आपुयुणुयोति  वा । निवुयु  भहुं  स्युबिति
+युवुत्युदुतिः प्रतिजुयुनीत्युते हुयुयुर्युयुः । Sid. Kau.
 
-§ 790.  When a past  or  potential  passive participle is used
-as predicate with a noun in apposition to  the subject, the parti-
-ciple agrees with the subject;  कुत्ताः  मारुच्यं  द्रुस्तुषो  तुवाद्रुराः (S'ak.
-VI, ) the demons are made the marks  of  your  arrows  by Hari.
+§ 826  † T'e root क्री with परि  'to  hire,  as a  servent,'  &c.,
+optionally  governs  the  Dative  (and  optionally  the  Inst  )
+of  the  price  at  which  he  is  hired  शुतेनं  शुत्युयु  वा  परिक्रीतुः  ।
+Sid.  Kau.
 
-CONCORD OF RELATIVE WITH  ITS ANTECEDENT.
+§827.  ‡ (a) A  noun  expressive  of  the  purpose  for  which
+anything  is  done,  or  the  result  to  which  anything  pertains,  or
+action  for  which  anything  exists,  is  put  in  the  Dative  case;
+छुकुरुयु  हरिं  भजुति  'worships  Hari  for  final beatitude;'  भकितुयुगुयुयु
+कुरुनं घस्युयुनं जायुतं वो ' devotion  leads  to  knowledge;'  सुड्युयु
+कुरुनं जायुतं सन्युबुनं  युयुयुयुरुः  (Mb.  )  'water  gruel  tends  to
+(produce)  fire,'  सुयुर्णुयुयु  विरुयुयुर्णों  हिरुण्युयुं  (Mah.  Bhā.)  'gold  for
+Kuṇḍala  (a  kind  of  ornament  );'  सुयुयुयु  दुयुरुयु  '  wood  for  a
+sacrificial post,' &c.
 
-§ 791.  The relative  agrees  with  its  antecedent  in  gender,
-number and person, the cases of the  relative  and  its  antecedent
-being  determined  by  their  relation  to  their  respective  clauses;
-सत्युयाऽऽत्युङ्  यतते  स  नरः कुटुतोम्भुः he who has wealth has a  noble family;
-यत्युच्  यत्युङुदि  तत्युच्यु  युयुरुतु  युच्युयुम्  स्तो  लोकुङ्  यथात्तुत्युते  फोच्चेरुत  what, which
-is  fit  to  be  united  with  anything,  a  wise  man  should  unite
-with it &c.
+N.  B.  The  roots  भू  or  अस्  are  often  omitted  after  a  Dative
+used in this sense कुव्युयुं यवुते (भुवति), poetry is for fame.'
 
-§ 792.  When  the  relative  has  for  its  predicate  a  noun
-differing in  gender  from  the  antecedent  the  relative  generally
-takes  the  gender  of  the  antecedent  noun,  the  demonstrative
-pronoun following that of  the  noun it qualifies; धुरुणुगुराऽऽस्यैत्युयुत्युत्युच्
-हि  घस्म  द्युर्युनोत्युनां  त्तुयुयोश्च'—non-endurance of the absolutely  wicked,—
-but the nature of the wicked; मोत्युयु हि  यस्ता  यकुतितङलश्च.
+(d)  § An  evil  foreboded  by  a  portentous  phenomenon  is
+also put in the  Dative  case;  वायुयु  कुविछुयु  विवुत्युयु  'the  tawny
+lightning forebodes a storm.'
 
-§ 793.  The relative pronoun  यत्  neu.  sing  is used like the
-English ' that ' to introduce a clause,  the  gender  of  the  demon-
-strative pronoun being the same as that of the antecedent noun;
-यस्त्युद्रुत्युत्रु  आपि  नरः  अल्पुयोम्  विगुणुयुयुति  स  पञ्चदुट्  एवु  it  is the  pride  of
-wealth that even a learned man slights another; सत्युयुयुयं  जनमुधुयुयुयुः
-यतैरुत्तुदैत्युचुदुद्युदुट्युयुच्युयुत्युति  it is a  true saying that  one  dharma
-follows  another.
+(e)  ‖ The  word  हितं  is used with the  Dative;  ब्राह्मुयुयु  हितं
+'good for a Brāhmaṇa
+
+* प्रत्युयुकुच्युयुम्  श्युतुः पुयूर्च कर्तो । Pāṇ. 4. 40.
+
+† परिक्रुयुणं संयुत्युयुन्युयु:युयुदुरुस्युयुयुम् । Pāṇ. 4. 44. निरुयुत्युकुट्युयुयुयुयुरुस्युकुरुणु
+परिकुयुर्णों । Sid. Kau.
+
+‡ त्युयुर्युर्युस्  चुदुर्युर्णों  वाञ्युयुयु । क्तुदुपि  संयुयुयुम्युनं  च । Vārtika.
+
+§ विपुरीते कुयुर्यु । Vārt.  वाद्युयु  कुर्णोकुयुयुविद्युद्युयुयुयुणुयुतोहुतो। ।
+पतोत वरीयु निवोयुयु दूयुरैकुसुयु तिता क्तोटे । Mah. Bhā.
+
+~ हितयुयोपो च । Vārt.

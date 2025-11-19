@@ -1,37 +1,39 @@
-[Internal page: 2]
-2                        SANSKRIT GRAMMAR.                    [ § 158-15
+[Internal page: 120]
+120                    SANSKRIT GRAMMAR.                    [ § 197-198
 
-अतिसर्वं; तन्मे अतिसर्वीय and not सर्वस्मै; so अतिकतरं कुल
-ञुमाय or ञासिन् मृत्रीय and not मात्रपूर्वस्मै; वर्णाश्रमोत्तराणस्य &
-the case of a Dwandwa comp , however, it is optionally (
-ned like a pronoun in the Nom. plu.,* as वर्णाऽश्रमेतरे
-त्रश्रमेत्तराः ।
+e. g. रामश्च रामश्च रामौ, रामश्च रामश्च रामश्च रामाः । This is called
+एकशेषद्वन्द्वः    In the case of the mas  and fem. genders the one
+of the mas. gender is retained;* as हंसौ च हंसश्च हंसौ; similarly
+ब्राह्मणी, शूद्री, अर्जौ, &c.
 
-CHAPTER V.
+( a )  This principle is further extended to some words dis-
+similar in form, as in the following examples:—प्राता च स्वस्रा च
+भ्रातरी, पुत्रश्च दुहिता च पुत्रौ; माता च पिता च पितरौ ( see also§193. ),
+स्वशृश्च श्वशुराश्च श्वशूरौ † ( also स्वश्रूश्वशुरौ ); स च सा च तौ, स च
+देवदत्तश्च तौ, स च यश्च यौ or तौ×. In the case of words of the
+mas. fem and neu. gender that of the neu. gender is retained; as
+तच्च देवदत्तश्च तौ; तच्च देवदत्तश्च यत्तद्त्ता च तानि ।
 
-NUMERALS AND THEIR DECLENSION.
+§ 198.  The following rules should be observed in arranging
+the various members of a Dwandwa Compound:—
 
-§ 159.    Cardinals    and        Ordinals.
-                                    mas.    fem.
-1    १ एक    प्रथम, अधिम, आधिम mas. neu. प्रथमा fe
-2    २ द्वि                द्वितीय,        ० या
-3    ३ त्रि                द्वतीय,        ० या
-4    ४ चतुर                चतुर्थ,        ० थी
-5    ५ पञ्चन्                पञ्चम,        ० मी
-6    ६ षष्                षष्,            ० ष्ठी
-7    ७ सप्तन्                सप्तम,        ० मी
-8    ८ अष्टन्                अष्टम,        ० मी
-9    ९ नवन्                नवम,            ० मी
-10    १० दशन् †                दशम,            ० मी
-11    ११ एकादशन्            एकादश,        ० शी
-12    १२ द्वादशन्            द्वादश,        ० शी
-13    १३ त्रयोदशन्            त्रयोदश,        ० शी
-14    १४ चतुर्दशन्            चतुर्दश,        ० शी
-15    १५ पञ्चदशन्            पञ्चदश        ० शी
-16    १६ षोडशन् ‡            षोडश        ० शी
+( a ) Δ A word ending in ङ or ड should be placed first, and
+when there are more than one of such words one of these should
+be placed first, the rest being arranged according to the will of
+the speaker or writer; हरिहरौ, हरिहरयशस; हरियरुहराः, &c.
 
-* विभाषा ज्ञादि । Pān I. 1. 32.
-† The word पद्ध also denotes ten Cf. Rag. IX. 74.
-‡ षष् becomes षो necessarily when followed by दश ( sub
-uted for दन्त् ) and दशन्, optionally when followed by धा, a
-which इ is changed to ड and य to ट ; e. g. षोडा ( vide § 169.
+( b ) †† Words beginning with a vowel and ending in अ
+ought to precede others; as अम्वरयेश्रः or ईश्राम्बरयाः. This rule
+should have preference even over the above rule in case both
+would be simultaneously applicable; ईशायौ.
+
+( c ) ‖ A word that has fewer syllables should be placed
+
+* एसाज क्रिया । Pān. 1. 2. 67.
+† भातुपुत्रौ स्वश्चदुहितृभ्याम् । पिता माता । Pān. 2. 68, 70.
+‡ श्वश्रुः श्वश्रा । त्यदादीनि सर्वनित्यम् । Pān. 1. 2. 71. 72.
+× पुंसो नोपिं इस्यते इति भाष्यम् । Sid. Kau. on Pān. 1. 2. 72.
+Δईद्ध पिं। Pān. II. 2. 32. अनेकप्रातावेकश्च नियमोऽनियमः शेषे। Vārt.
+†† अजाद्यदन्तम् । Pān. II. 2. 33.
+‖ अल्पाच्तरम् । Pān. II. 2. 34. लघुक्षुरं पूर्वं । धटुनक्षत्राणां समा-
+नाक्षराणामाठुपूर्वेण । अब्यर्हितं च । Vārt.

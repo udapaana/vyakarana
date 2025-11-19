@@ -1,46 +1,44 @@
-[Internal page: 642]
+[Internal page: 656]
 
-80                   SANSKRIT GRAMMAR.
+94                   SANSKRIT GRAMMAR.
 
-fut. पूजयिष्युयुति-तै fut. अपूजयिष्युयत-न con. अपूजयत-न aor.
-   पुपूजयिषति-तै des. पूजित p. p. पूजयिता ger. पूजयितुं inf.
+2nd sing. अमनिषि 1, sing.) aor. निमनिषतै des. मनितुं inf.
+   Cau. &c.—see the above root.
 
-पूण् 10 U. to heap together; पूणयाति-तै pre. पूणयाचकार-चक्रै, &c. perf.
+मान् 10 A. स्तम्भै to be proud; मानुयतै pre. मानुयाचक्रै perf. मान-
+   यिता p fut. अमीमानत aor. मानुयिषीष्ट ben. निमानयिषतै des.
+   Pass.—मान्युतै pre. मानित p.p.
 
-पूर् 1 A. निचारणं दुर्गभै च to split, to putrify; पूरतै pre. पुपुरै
-   perf. पूरिता p fut. अपूरिष्टु aor. Cau.—पूरयाति-तै pre. अपुपुरत-न
-   aor. पुपुरिषतै des. पूर्त p. p.
+मन्त्र् 10 A. प्रथुगरिभाषणै to consult, to advise. to speak; मन्त्रुयतै
+   (sometimes. मन्त्रुयति also) pre, मन्त्रुयाचक्रै perf. मन्त्रुयिता P.
+   fut. मन्त्रुयिष्युयुतै fut. अममन्त्रत aor निमन्त्रुयिषतै des. मंत्रित p.p.
+   मन्त्रुयित्वा ger.
 
-पूर् 4 A. तर्षणाश्रविदै to grow, to satify; पूर्युतै pre पपूरै perf पूर्तिता
-   p. fut. अपूरिष्टु, अपूर्त aor. Cau.—पूरयति-तै pre. अपुपूरत-न aor.
-   पुपूरिषतै des. पूर्त p. p.
+मन्थु 1 & 9 ( विलोडनै ) P. to churn, to agitate; मन्थुति, मथुनाति
+   pre. (मथुात Imperf. Pot मथुनीयात् &c) ममन्थु perf. मन्थिता p.
+   fut. मन्थिष्युयुति, मथुनिष्युयुति fut. अमन्थीत, मथुनीत aor. निमथिष्युयुति des.
+   Pass.— मथ्युतै pre. अमाथि aor. Cau.—मन्थुयाति-तै pre. अम-
+   मन्थुत-न aor. मामन्थुात. मामथुनीति. मामन्ति freq. मथित p. p.
+   मन्थित्वा ger मन्थुत् (!) मथुत् (9) pre. p.
 
-पुर् 10 U. & 1 P. to fill, to blow, to cover; पूरयाति-तै, पूरुति pre.
-   पूरयाञ्चुकार-चक्रै, पुपूर perf. पूरयिता, पूरिता p. fut. पूरयिष्युयुति-तै,
-   पूरिष्युयुति fut अपूरयिष्युयत-न, अपूरिष्युयत् con. अपुपुरत-न, अपुरीत aor.
-   पूर्त p. p. Pass अपूरि Aor.
+मन्थु 1 P हिंसामर्दुन्दुनयो: to kill. to forment; मश्युति pre. ममन्थु
+   perf मन्थिता p. fut. मन्थिष्युयुति fut. अमन्थीत aor. Pass.- मन्थुयतै
+   pre. अमन्थि aor. मथित p. p. मथित्वा ger.
 
-पूर् 10 U. to heap, to gather, पोरयाति-तै, pre अपुपुरत-न Aor.
+मन्द् 1 A. स्तुतितर्विमर्दुत्सुकाहिंसातिषु to praise, or be praised, to be
+   glad, to languish, to sleep, to shine, to loiter; मन्दुतै pre.
+   ममन्दै perf. मन्दिता p. fut. मन्दिष्युयुतै fut. अमन्दिष्टु aor. मन्दिषीष्ट
+   ben. Pass.—मन्दुतै pre.
 
-पुल् 1 P. & 10. U to gather: to collect; पूलुति, पूलयति-तै pre.
-   पूलिता, पूलयिता p. fut अपूलीत, अपुपुलत-न Aor.
+मश् 1 P. गतौ to go, to move; मश्युति pre. ममश perf. मशिता p.
+   fut. अमशीत aor.
 
-पुल् 1 P. वृद्धौ to grow; पूलुति pre. पपूल perf. पूलिता p. fut. अपूलीत aor.
+मश् 1 A. to go, to move; मश्युतै pre. ममशै perf. मायता p. fut.
+   अमशिष्टु aor. मशिषीष्ट ben.
 
-पृ 3 P. पालनपूरणयो: to protect, to fill, to bring over; पिपर्ति pre,
-   अरिषः imperf. पपार perf. परिष्युयुति fut. अपरषीत Aor. पिपुयात्
-   ben. Cau.—पारयाति-तै pre. अपीपरत-न aor. पुपूषति des.
+मर्व् 10 U. शब्दै मद्युनै च to take, to sound, to go, to injure; मर्व-
+   युयति pre. मर्वुयाचकार-चक्रै &c. perf. मर्वुयिता p. fut. अममर्वुत-न
+   न aor. मर्व्युयात्, मर्वुयिषीष्ट ben.
 
-पृ 6 A. व्युयुवायै व्युयुापारै च to be busy, to be active, ( mostly used
-   with व्युया ), पियुतै pre पैरै perf पर्ता p. fut. परिष्युयतै fut. अपारिष्युयत
-   con. पुर्षिष्ट ben अदुरत aor. Pass.—पियुतै pre. Cau.—पारयाति-तै
-   pre. पुपुरिषतै des. पुपुरत-न aor. Pass p. p.
-
-पृच् 2 A संयुन्जनै to come in contact with; पृङ्क्तै pre, पपृचै perf.
-   पृक्तिता p. fut. पृक्षिष्टु aor. पिपृक्षितै des पून p. p.
-
-पृच् 7 P. to unite, to join; पृणुक्ति pre, पपृच perf. पृङ्क्ष्युयुति fut.
-   अपृन्जीत aor. पिपृचिषति des. पृच्त p. p. पच्चित्वा ger. पच्चितुं inf.
-
-पृच् 1 P. & 10 U. to hinder, to join; पृचुति, पर्चुयति-तै pre. अपर्चीत,
-   अपपर्चुत-न, अपीपृचत-न aor. पिपृचिषति, पिपर्चयिषति-तै des.
+मर्द् 1 P. to go, to move; मर्दुति pre. ममर्द perf. मर्दिता p. fut.
+   अमर्दीत aor.

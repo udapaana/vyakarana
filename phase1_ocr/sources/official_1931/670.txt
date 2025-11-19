@@ -1,44 +1,38 @@
-[Internal page: 656]
+[Internal page: 670]
 
-94                   SANSKRIT GRAMMAR.
+108                   SANSKRIT GRAMMAR.
 
-2nd sing. अमनिषि 1, sing.) aor. निमनिषतै des. मनितुं inf.
-   Cau. &c.—see the above root.
+रभु 4 P. हिंसार्तैरांम्भुयो: ( संरांभिदनिष्पुति: ) to hurt, to destroy, to
+   subdue, to finish, to accomplish, ( to be completed, in the
+   Vedas ); रभ्युति pre. ररभु perf. रब्धिता or रदा p. fut. रभिष्युयुति
+   or रस्युयुति fut. अरभिष्युयत्-अरस्युयत् con. अरभूत् aor. Pass.—
+   रभ्युतै pre. अरभि aor. Cau.—रभुयाति-तै pre. अररभुत-न aor.
+   रिरभिषति, रिरस्सुति des. रब्ध p.p.
 
-मान् 10 A. स्तम्भै to be proud; मानुयतै pre. मानुयाचक्रै perf. मान-
-   यिता p fut. अमीमानत aor. मानुयिषीष्ट ben. निमानयिषतै des.
-   Pass.—मान्युतै pre. मानित p.p.
+रभु I P. व्युयुक्तायां वाचि to speak distinctly, to praise ( in the
+   Vedas ); रभुति pre. रराभु perf. अरभीत, अराभीत, aor. रिरभिषति
+   des.
 
-मन्त्र् 10 A. प्रथुगरिभाषणै to consult, to advise. to speak; मन्त्रुयतै
-   (sometimes. मन्त्रुयति also) pre, मन्त्रुयाचक्रै perf. मन्त्रुयिता P.
-   fut. मन्त्रुयिष्युयुतै fut. अममन्त्रत aor निमन्त्रुयिषतै des. मंत्रित p.p.
-   मन्त्रुयित्वा ger.
+रफ् 1 P. हिंसाग्यां गतौ च to go, to hurt; रफुति pre. रराफु perf.
 
-मन्थु 1 & 9 ( विलोडनै ) P. to churn, to agitate; मन्थुति, मथुनाति
-   pre. (मथुात Imperf. Pot मथुनीयात् &c) ममन्थु perf. मन्थिता p.
-   fut. मन्थिष्युयुति, मथुनिष्युयुति fut. अमन्थीत, मथुनीत aor. निमथिष्युयुति des.
-   Pass.— मथ्युतै pre. अमाथि aor. Cau.—मन्थुयाति-तै pre. अम-
-   मन्थुत-न aor. मामन्थुात. मामथुनीति. मामन्ति freq. मथित p. p.
-   मन्थित्वा ger मन्थुत् (!) मथुत् (9) pre. p.
+रभु 1 A. राभुस्युयै to begin, to embrace, to long for, to act rashly;
+   रभुतै pre, रैभै perf. रभुषा p. fut. रस्युयुतै fut. अरस्युयत con. अरब्धु
+   aor. रस्सीष्ट ben. रिरभुतै des. Cau —रभुयुयाति-तै pre. अररभुयत-न
+   aor. Pass —रभ्युतै pre. अरभि aor. रभुष p. p.
 
-मन्थु 1 P हिंसामर्दुन्दुनयो: to kill. to forment; मश्युति pre. ममन्थु
-   perf मन्थिता p. fut. मन्थिष्युयुति fut. अमन्थीत aor. Pass.- मन्थुयतै
-   pre. अमन्थि aor. मथित p. p. मथित्वा ger.
+रम्* 1 A. to play, to rejoice at, to take rest; रमतै pre. रैमै perf.
+   रन्ता p. fut. रंस्युयतै fut. अरंस्युत con. अरंस्त, with नि, व्युरंसीत् aor.
+   रंसीष्ट ben. रिरंसतै des. Pass.—रम्युतै pre. Cau —रमुयाति-तै pre.
+   अरिरमत-न aor. रत p. p. रत्वा, आरम्यु, आरम्यु ger.
 
-मन्द् 1 A. स्तुतितर्विमर्दुत्सुकाहिंसातिषु to praise, or be praised, to be
-   glad, to languish, to sleep, to shine, to loiter; मन्दुतै pre.
-   ममन्दै perf. मन्दिता p. fut. मन्दिष्युयुतै fut. अमन्दिष्टु aor. मन्दिषीष्ट
-   ben. Pass.—मन्दुतै pre.
+रम्भु 1 P. शब्दै to sound; रम्भुतै pre. ररम्भै perf रभिष्युयुतै fut. अरभिष्टु
+   aor. Pass.—रम्भुयतै
 
-मश् 1 P. गतौ to go, to move; मश्युति pre. ममश perf. मशिता p.
-   fut. अमशीत aor.
+रय् 1 A. to go, to move; रयतै pre, रैयै perf. रयिता p. fut. अरयिष्टु
+   aor. रयित p. p.
 
-मश् 1 A. to go, to move; मश्युतै pre. ममशै perf. मायता p. fut.
-   अमशिष्टु aor. मशिषीष्ट ben.
+रस् 1 P. शब्दै to roar, to make a noise, to sing, to praise ( in the
+   Vedas ); रसुति pre, रराष perf. रसिता p. fut. अरसीत, अरासीत
+   aor. रिरसिषति des.
 
-मर्व् 10 U. शब्दै मद्युनै च to take, to sound, to go, to injure; मर्व-
-   युयति pre. मर्वुयाचकार-चक्रै &c. perf. मर्वुयिता p. fut. अममर्वुत-न
-   न aor. मर्व्युयात्, मर्वुयिषीष्ट ben.
-
-मर्द् 1 P. to go, to move; मर्दुति pre. ममर्द perf. मर्दिता p. fut.
-   अमर्दीत aor.
+* It is Parasm. when it is preceded by नि, आ, परि and उभु.

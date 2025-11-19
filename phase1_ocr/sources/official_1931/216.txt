@@ -1,11 +1,17 @@
-[Internal page: 202]
+[Internal page: 216]
 
-SANSKRIT GRAMMAR.                                                  [ § 340
+SANSKRIT GRAMMAR.                                        [ § 343-344
 
-goes to both sides or one who crosses the sea '; अवार-पार्य्यः ' crossing a river,' &c—( 3 ) the word ग्राम in the sense of 'rustic' as ग्रामीणः;—(4) the words आत्मन्, दिबज्ज and words ending in भोग in the sense of 'beneficial to-' आत्मने हितं आत्मनीन्‌; दिव्यन्नीन्‌; मातृभोगीणः ' fit to be enjoyed by a mother'; पितृभोगीणः &c—( 5 ) नव changed to द्; as नवीनः;—(6) अध्वन्‌ in the sense of ' journeying ' अध्वानं गच्छतीति अध्वनीनः ' a traveller ';—( 7 ) सर्वोञ्च and अनुपद in the senses of 'eating and fastened on' respectively; सर्वाञ्चीन्‌. ' eating every kind of food'; *अनुपदं बड्डुरा अनुपदीनं ( उपानद्‌ ) 'a shoe or boot of the length of the foot;—(8) तिल and भाय in the sense of ' a field of'; as तैलीनं ' a sesamum field', मार्पीणं, &c.; and to ससपद and ऋष्यु substituted for हृ.+गोदोह; ससर्पिः पदेः अवाप्येते नासपदीनं ' formed by walking together seven steps or speaking seven words'; होगोदोहस्य विकार हेर्गर्वानी † ' fresh butter or ghee' (vide Rag 1. 45. Bhaṭṭi. V.12).
+completely changed to fire '; ( also अग्रिभवति ); भस्म-सात्‌ करोति ' completely reduces to ashes '; in the case of this affix the forms of पद with सम्‌ are also added; त्रिक्रमास्यपद्यते अभिष्ठाद्वयते; साद्‌ also conveys the sense of ' making over or delivering something to another ' &c ; राज-सात्सम्पयते, राजसाकरोति; सात्‌ and इा are similarly added when something is to be given to another; विघयाकरोति, विधयासम्पयते; विधसाकरोति &c.
 
-द्युय )—(1) is added in the sense of ' of or belonging to '; शालाया अर्यं शालीयः fr. शाला; मालीय fr माला; पाणिनीयः ' belonging to the school of Pāṇini'; it is added to ( 2 ) स्व and पितृस्वह and भातृ in the senses of 'the son of' and 'relating to,' respectively; स्वस्रीयः 'a sister's son' पैतृस्वसीयः भात्रीयः ' fraternal',—( 3 ) अश्व in the sense of ' relating to or a number of ' आस्वीय ( also आस्वं ) ' relating to horses, a number of horses ';—(4) when added to the words स्व, जन, पर, देय, राजन्‌, बेणु and वेत्र, क is inserted; स्वकीय ' one's own, ' जनकीय ' of the people ' परकीय, राजकीय, वैणुकीय, ' of a bamboo, ' वैत्रकीय.
+N.B.*—The derivatives formed by means of the affix सातु do not share the properties of prepositions; the verbal indecl., therefore, from अग्रिसाद्करोति is अग्रिसात्कृत्वा and not—कृत्य.
 
-वदैपणु ' produced in or relating to the rainy season, ' fr. प्रावृट्‍.
+ADVERBS OF TIME IRREGULARLY FORMED FROM NOUNS:—
 
-इ, टक्ष्य , टञ्, )—is chiefly added ( I ) to words ending in fem. affix in the sense of ' the child or offspring of '; वैनतेयः ' the son of Vinatā i. e Garuḍa '; भागिनेयः ' the son of a sister '; when added to कुलटा meaning ' a poor woman ', इत is inserted optionally; कौलटेयः or कौल-दितेय., when कुलटा means ' a harlot ' or ' an adulteress ' एय; is optionally substituted for एय; कौलटेय. or कौल-हेयः ' the son of an adulteress '; it is optionally changed to एय when added to words denoting ' a female having some kind of defect '; काणेय:-र् ' son of a one-eyed woman, ' दासेय -रः ' son of a female slave ';—( 2 ) to words of two syllables ending in इ but not formed by the affix इ ( इञ् ), to मणड्क and words included in the इभ्रादि group*; अत्रियः ' son of Atri ', माणवुकेयः ' son of Māṇḍūka ', शौभ्रेयः ' son of Śubhra ( Name of a sage ), मैत्रेयः &c ;—( 3 ) and to मातुस्वह, and पितृस्वह, the final इत् being dropped before it; मातुस्वसैयं, पितृ-स्वसैयं, (4) added to नदी and कलि it has various senses; आग्नेय ' son of Agni ', ' relating to fire ', ' having Agni for the presiding deity ', &c ; it is affixed to—( 5 ) नदी and other words in the sense of ' produced from, &c.'; नव्या इदं नव्यां भवं वा नौदेयं ' riverborn '; ' rock-salt '; माहेयं fr मही ' produced from the earth ', वाराणसेय &c ; ( 6 ) त्रैहि and शात्रि in the sense of ' a field of ' त्रैहेयं, शालीयं,—( 7 ) कुल, कुक्षि, मीवा, and words included in
+सामने अन्नि सद्य ' the same day '; पूर्वास्मिन्नस्तरे परद्‌ ' last year '; पूर्वतरे वत्सरे परारि ' the year before the last '; अस्मिन्संवत्सरे ऐषमः ' this year '; परास्मिन्वहुनि परेद्युः ' the other day ', अस्मिन्नङ्कुहुनि अद्य ' to-day '; पूर्वास्मिन्नहुनि पूर्वेदुः ' yesterday '; अन्यास्मिन्नहुनि अन्येद्युः ' the other or following day '; उभयोरहुनोः उभय-ये-युः ' both the days '.
+
+Chapter X.
+
+Gender.
+
+§ 344. No definite rules can be laid down for the determination of the gender of words in Sanskrit. It can best be studied

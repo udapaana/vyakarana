@@ -1,0 +1,50 @@
+---
+page_number: 333
+internal_page: 333
+chapter: "Conjugation of Verbs"
+section: "conjugation-of-verbs"
+rules_starting: ["§ 534", "§ 535", "§ 536", "§ 537", "§ 538", "§ 539", "§ 540"]
+rules_continuing: ["§ 533"]
+has_footnotes: false
+---
+
+2. अस्थाः  अस्थातम्  अस्थात          2. अशाः  अशातम्  अशात
+3. अस्थात् अस्थाताम् अस्थुः          3. अशात् अशाताम् अशुः
+
+§ 534. भू takes अभू instead of उस् in the 3rd per. pl. and
+changes its vowel to ऊव् before the vowel terminations; e. g.
+अभूवम्, अभूव, अभूव 1st pers.; अभूतः, अभूताम्, अभूवन् 3rd per.
+
+§ 535. गा is substituted for इ in the Aorist, अगाम्, अगाव,
+अगाम 1st per.; इ with आङ् 'to remember' अध्यगाम्, अध्यगाव,
+अध्यगाम्, &c.
+
+§ 536. This Variety is exclusively Parasmaipadi. दा, धा,
+and स्था take the fourth Variety in the Ātm. भू when Ātm.
+takes the fifth; and इ with आङ् Ātm. the fourth.
+
+Second Variety or Form.
+
+§ 537. In this Variety अ is added on to the root and then
+the terminations of the Imperf. of the first group of conjuga-
+tional classes are added; viz.
+
+Par.                          Ātm.
+
+1. अम्     व       म                1. इ      वहि       महि
+2. स्      तम्      त                2. थाः    इथाम्     ध्वम्
+3. त्      ताम्     अन्              3. त      इताम्     अन्त
+
+§ 538. The preceding अ is dropped before अम्, अव्, and
+अन्त and lengthened before इ and म. The radical vowel except
+a final ऋ, short or long, and the ऋ of गृत्, does not undergo
+Guṇa or Vṛddhi substitute.
+
+§ 539. This Variety is Parasmaipadā with a few exceptions
+such as ऋ with सम्, स्था, वच्, and अस् 'to throw' with a preposi-
+tion. The roots लिण्, सिच्, and हे take this form in the Par.
+and optionally in the Ātm, in which they also take the
+Fourth Form.
+
+§ 540. The penultimate nasal of a root is dropped; as भञ्ज्—
+अभञ्जत्, स्कन्द्—अस्कदत्, &c.

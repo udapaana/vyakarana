@@ -1,26 +1,40 @@
-[Internal page: 297]
+[Internal page: 311]
 
-§ 458-463 ]         CONJUGATION OF VERBS.                     297
+§ 505 ]              CONJUGATION OF VERBS.                     311
 
-    माह् मासिते जानैडु सामनी हिवातौ स्पम्रतौ ।
-    रथतिः शेषितीशान्तो पान्तः पञ्चेन कल्पतौ ॥ २ ॥
-    योपयतितव्यमानिदं जृपं द्युवातितसाः था ।
-    मान्तो हामतौ क्षमतेःधुढौ कोडानाति नष्यताः ॥ ३ ॥
-    ज्ञानन्तावरोगातितधेश्च निस्तूष्याविदेश तम्भिति ।
-    तक्षतीदेश चकारोन्तो हाय हानाद्धेश मागरे ॥ ४ ॥
-    पदुद्रवे सहतिदेश ऋचारोनाम्बनृगतौ ।
-    ठुरुतिनेदेहुड्ढिसग्या हुहुति हुभूति ॥ ५ ॥
-    स्थूहृति निर्भहृति स्थुझर्भृति मेडुग्रि हिं भातवः ।
-    याज्ञानां तु याज्येष्य येहै स्मृतद्रन्यचु संयुतौ ॥ ६ ॥
+                   शी 2 Â. ' to lie down.'
 
-§ 459.  Roots ending य, रु, and ओ are to be treated  as roots ending in अय.  Also roots of त्री 3 Â. ' to kill,' सि 4 Â. ' to perish,' before a termination causing Guṇa or Vṛddhi; सि 9 P. 4 Â. ' to adhere or cling to ' changes its vowel to अय optionally under the same circumstances
+1 शिश्ये                              शिश्यिवहे              शिश्यिमहे
+2 ,शिश्यिषे                           शिश्याथे               शिश्यिध्वे
+3 शिश्ये                              शिश्याते               शिश्यिरे
 
-§ 460  Roots of the tenth class preserve  their अयु ( i. e  अयु with the final अ dropped ) with all the changes  that  the  root undergoes before अयु in the general tenses.
+                   श्रि P. Â. ' to resort to.'
 
-§ 461.  The roots मय,  पयु,  विच्छु, पचू, पज़, कम, and कत् preserve their conjugational bases optionally.
+1 शिश्राय   शिश्रियिव   शिश्रियिम     1 शिश्रिये   शिश्रियिवहे   शिश्रियिमहे
+  शिश्रिय
+2 शिश्रयिथ शिश्रियथुः  शिश्रिय      2 शिश्रियिषे शिश्रियाथे   शिश्रियिध्वे
+3 शिश्राय  शिश्रियतुः  शिश्रियुः    3 शिश्रिये  शिश्रियाते   शिश्रियिरे
 
-§ 462. अचू  and  ञ  substitute  for  themselves  ञ  and  ञ्च respectively.
+    (2) Anit roots ending in a vowel :—
 
-§ 463  Neither Guṇa nor Vṛddhi is substituted for the vowel of a few roots of the 6th class even before a strong termination except the स्य of the 1st and 3rd person  sing.  of the Perfect, the सीय of the causal and the स्य of the 3rd pers. sing. of the Passive
+                   दा 1. P. Â. ' to give.'
 
-    * These couplets as well as those  bearing  on  the  2nd  variety of the Aorist are composed by Mr. Chintāmaṇa Ātmārām Kelk r, of the Poona learned S'ästris of the Training College.
+1 ददौ      दविव      दविम         1 ददे      दविवहे      दविमहे
+2 ददाथ-ददिथ ददथुः     दद          2 दविषे    दवाथे       दविध्वे
+3 ददौ      ददतुः     ददुः         3 ददे      दवाते       दविरे
+
+                   गै P. ' to sing.'
+
+1 जगौ                 जगिव                        जगिम.
+2 जगाथ-जगिथ          जगथुः                       जग
+3 जगौ                जगतुः                       जगुः
+
+All other  roots  ending  in आ, ए, ऐ,  and  ओ  are  similar conjugated इये—3rd per. दद्रौ, द्रप्तुः, द्रप्तुः , द्रय्र ; द्रौ ' to cut' 3rd pe ददौ, ददतुः, ददुः &c.
+
+                   इ 2 P. ' to go.'
+
+1 इयाय-द्यय            ईयिव                       ईयिम
+2 इयेथ-इयिथ          ईयथुः                      ईय
+3 इयाय               ईयतुः                       ईयुः
+
+इ 1 P. ' to go ' is  regular;  इयाय-य,  इयिव  इयिम &c  इ 1. 2. 1 4 A. ' to go ' takes the peri. perf.

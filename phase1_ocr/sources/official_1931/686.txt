@@ -1,46 +1,46 @@
-[Internal page: 672]
+[Internal page: 686]
 
-110                   SANSKRIT GRAMMAR
+124                   SANSKRIT GRAMMAR.
 
-रिख् 1 P. गतौ to go; रैखुति pre. रिरैख perf. रैखिष्युयुति fut. अरैखीत aor.
+विच्छ् 10 U. भाषावां दोंक्षौ च to speak, to shine; विच्छयाति-तै pre.
+   विच्छयाचकार-चक्रै p erf. अविविच्छत-न aor.
 
-रिख् or रिङ्कु 1 P. गतौ to crawl, to creep, to go slowly; रिखुति or
-   रिङ्कुति pre. रिरिख or रिरिङ्कु perf. अरिखुीत, अरिरङ्कुीत aor.
+विद् 3 U. पृथग्भावै to separate to distinguish; वेदुति, विदतै pre.
+   विवैद, विविदै perf. वैद्युति-तै fut. अवित्त्, अवैक्षीत् , अविक्त aor.
+   विविदिषति-तै des.
 
-रिच् 7 U रिक्तुचनै to empty, to clear, to deprive of, to give up;
-   रिणुक्ति or रिङ्क्तै pre. रिरैच or रिरिचै perf. रैक्ता p. fut. रैक्ष्युयाति-तै
-   fut. अरैक्ष्युयत-न con. अरिचत्, अरैचीत, अरिक्त aor. रिच्युयात् or
-   रैक्षीष्ट ben. Pass.—रिच्युतै pre. अरैचि aor. Cau.—रैचुयाति-तै
-   pre. अरिरिचत-न aor. रिरिक्षति-तै des. रिक्त p p. रिक्त्वा ger.
+विद् 6 A. भुयभुयलायो: to fear, to tremble; विदतै pre. विविदै perf.
+   विदिता p. fut. अविजिष्ट aor. Cau.—वैजयति pre. अवीविदत् aor.
+   विविविदतै des.
 
-रिच् 1 & 10 P. विनिगमनसम्बुनयो: to divide, to leave, to come
-   together; रैचुति, रैचुयति, pre. रिरैच, रैचुयाचकार perf. अरैचीत,
-   अरिरिचत-न aor. रिरिक्षति, रिरैचयिषति-तै des. रिचित p. p.
+विद् 7 P. to shake, to fear: विनत्ति pre. विवेद perf. विदिता p. fut.
+   अविक्त aor. विवेविदति des.
 
-रिफ् 6 P. कर्मुश्वदुत्तानिबर्षाहिंसादनैषु to boast, to speak, to fight,
-   to utter a rough grating sound, to give; रिसुति pre. रिरिफु
-   perf. रिसिता p. fut. अरैषीत aor. रिरिफुिषति. रिरिषिषति des.
-   रिसित p.p. ( also written as रिख ).
+विद् 1 P. आलोकौ शब्द च to curse, to sound, to rail at; वेदुति pre.
+   विवैद perf. अवैदीत aor
 
-रिश् 1 A. to crackle, to murmur, to chatter; रैषुतै pre. रिरैषै perf.
+विद् same as विद्.
 
-रिक्ष् 6 P. to hurt, to kill; रिक्षुति pre. रिरिक्ष perf. रिक्षिता p.
-   fut. अरिक्षीत aor.
+विइन्च् 10 U विइम्बनै to mock, to deceive; विइम्बयाति-तै pre. अवि-
+   विइम्बत-न aor.
 
-रिष् 6 P. हिंसायां to tear, to injure, रिषुति pre. रिरैष perf. रैषा
-   p. fut. रैक्षुति fut. अरैक्ष्युयत् con. अरिक्षुत् aor. रिरिक्षति des.
+विप् 1 A. वाचनै to beg; वैषतै pre. वैषिष्युतै fut. अवैषीष्ट aor.
 
-रिष् 1 & 4 P. हिंसायां to kill, to fail, to perish, to be injured;.
-   रैषुति, रिष्युति pre. रिरैष perf रैषिता or रैषा p. fut. रैषिष्युयुति
-   fut. अरैषीत ( 1st cl. ), अरिष्युत् ( 4th cl. ) aor. रिरिषिषति.
-   रिरैषिषति des रिषु p.p.
+विद् 2 P. ज्ञानै to know, to regard; वैत्ति, वैद pre. विवैद, विदाचकार
+   perf. विदिता. वेदिता p. fut. अवैदीत्, अवेदीत् aor. विदित p.p. Cau.—
+   वैदयात-तै pre. अवीविदत-न aor. विविदिषति-तै des.
 
-री 4 A. श्रवणै to trickle, to ooze, to flow; रीयुतै pre, रिरै perf.
-   रैष्युयुतै fut. अरैष्ट aor.
+विद् 4 A. सत्तायां to happen, to be; विदुतै pre. विविदै perf. वेत्ता p.
+   fut. वैत्स्युतै fut. अविद्त aor. विदीष्ट ben. विविदुतै des. विद् p. p.
 
-री 9 P. गतिरैषणयो: to go, to injure, to howl; रिणाति pre. रिराय
-   perf. रैष्युयुति fut. अरैषीत aor. रिरीषति des.
+विद् 6 U. लाभै to get, to find to feel; विन्दति-तै pre. विवैद, विविदै
+   perf. वेदिता, वेत्ता p. fut. अवैदत्, अविदत्. अवैदीष्ट aor. विच्युयात्,
+   वेदीष्ट, विदीष्ट ben. विविद्युति-तै, विवि-द-निदुयाति-तै des. विद्ध
+   ( विन ) p.p.
 
-रीष् 1 U. to take, to cover; रीक्षुयाति-तै pre.
+विद् 7 A. निचार्षै to discuss, to consider; विन्दतै pre. विविदै perf.
+   ( For विद् p. p. For other forms dee विद् 4 A.
 
-रु 1 A. गातरैषणयो: to go, to hurt, to break to pieces ( in the
+विद् 10 A. चैत्तासुखानावनिशैषु to feel, to tell, to dwell; वैदयतै pre.
+   वैदयाचक्रै perf. वैदयिता p. fut. अवीविदत aor. विवेदयिषतै pre.
+   Pass.-वैद्युतै pre. अवैदि aor.

@@ -1,40 +1,24 @@
-[Internal page: 115]
-§ 185-186 ]                    COMPOUNDS.                    115
+[Internal page: 133]
+§ 219-221 ]                    KARMADHA'RAYA.                    133
 
-§ 185. Compounds are divided into four principal classes:*—
-( 1 ) Dwandwa or Copulative, ( 2 ) Tatpurusha or Determinative,
-(3) Bahuvrīhi or Attributive, and (4) Avyayībhāva or Adverbial.
+does not qualify an animal retains its न optionally as नगः or अग: 'a mountain or a tree,' but अग: द्रुषलः 'a Sudra that cannot move.'
 
-N. B.    These names themselves mean nothing i. e. they do
-not denote any of the characteristics of the different compounds.
-They  are simply proper names distinguishing the various
-classes from one another ( to which they vaguely refer if they
-do so at all ).
+N.B. It should be noted that some of these are Bahuvrihi compounds.
 
-DWANDWA OR THE COPULATIVE COMPOUNDS
 
-§ 186.  A Dwandwa compound consists of two or more nouns
-which, if not compounded, would be connected by the copulative
-particle च (and), † as रामकृष्णौ which is equal to रामः च कृष्णः च;
-पानिपादौ which is the same as पाणी च पादौ च.  There are three
-species of the Dwandwa, viz. इतरेतरद्वन्द्व, समाहारद्वन्द्व and एकशेष. ‡
+3. KARMADHA'RAYA OR THE APPOSITIONAL COMPOUNDS.
 
-*  This is true only generally speaking.  For there is a fifth
-class of compounds, viz,  सह इपा-compounds not governed by
-any of the rules given under the four classes but explained on
-the general principle that any subanta pada may be compounded
-with any other subanta pada  According to some there are six
-kinds of compounds, viz. सुपां सुपा तिङ्ता नाम्ना धातुनाथ तिङ्ता तिङ्ता ।
-सुबन्तेनैते विज्ञेयः समासः षोढधा बुधैः ॥ e. g. सुपां सुपा राजपुरुषः । तिङ्ता
-एर्पसूषत् । नाम्ना कुम्भकारः । भातुना कुटूरः अजज्ञम् । तिङ्ता तिङ्ता पिचतसा-
-दुता, खादत्मोदता। तिङ्ता सुपा कुन्ताविन्दक्षणानि यस्या क्रियायां सा छन्न-
-त्रिचक्षुणा।एवीडदयोन्यपदार्थे इति मपूरयंसकावो पाठोत्समासे. ।Sid Kau.
-†  चार्थे द्वन्द्वः । Pān. II 2. 22.
-‡  The Ekaśesha is not strictly speaking a subdivision of
-Dwandwa.  It is a separate Vṛitti by itself ( Vide § 179 ).
-Sanskrit grammarians do not regard it as a Dwandwa, though
-it may be so regarded for the sake of convenience.  ' It is not
-a Dwandva,' remarks Bhaṭṭoji Dīkshita, 'as it does not contain
-more than one subanta ( अनेकसुबन्ताभावादृद्वन्द्वः ).' It should be
-further remembered that since it is not a samāsa, its final vowel
-does not become udātta, as in the case of a Dwandwa compound.
+§ 220. Pānini defines a 'Karmadhāraya' as समानाधिकरणः तत्पुरुषः* or Tatpurusha both the members of which are in the same case relation i. e. have the same case when dissolved.
+
+N.B. The difference between the Tatpurusha proper and Karmadhāraya is this:—In the case of the former the attributive member has one of the oblique cases when dissolved, while in the case of the latter it is in apposition to the other member. It may thus be a noun or an adjective qualifying the other member.
+
+§ 221. (a)† A word expressive of the standard of comparison (उपमान) may be compounded in a Karmadhāraya with another denoting the common quality or ground of comparison; as घन इव श्यामः घनश्यामः dark like a cloud. Such compounds are called उपमानपूर्वपदकर्मधारयम्.
+
+(b)‡ Similarly a noun denoting the person or thing compared (उपमेय) may be compounded with words indicative of excellence, such, as ह्यात्रः, सिंह, चन्द्र, कमल, &c. no mention of
+
+* तत्पुरुषः समानाधिकरणः कर्मधारयः । Pān. I. 2. 42.
+† उपमानानि सामान्यवचनै: । Pān. II. 1. 55.
+‡ उपमितं व्याघ्रादिभिः सामान्यप्रयोगे । Pān. II. 1. 56.
+§ All these words are included under what is called the group of ह्यात्र. The more important of these words are ह्यात्र, सिंह, ऋक्ष, ऋषभ, चन्दन, वृक. वृष, वराङ, हस्तिन, रत, धूषद, पुण्डरीक, &c.;
+चन्द्र, पद्म, कमल, किसलय, &c.; cf. रथकुजरपदै व्याघ्रेगवर्षभकुञ्जरा: ।
+क्लीसहासुइलगाग्रायाः धूति श्रेष्ठार्थगोचराः ॥ Amara III. 1. 59.

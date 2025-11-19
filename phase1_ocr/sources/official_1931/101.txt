@@ -1,37 +1,39 @@
-[Internal page: 81]
-§ 130-132 ]                    DECLENSION.                    81
+[Internal page: 101]
+157-158 ]    PRONOUNS AND THEIR DECLENSION.                    101
 
-This rule, however, does not apply to words ending in आन्, as
-in the case of मघवान् &c. The word आर्यमन् ( epithet of the Sun-
-god ) and सर्वगन् ( vulture ) also follow मघवन् in its declension.
+तद्........................तदा, then; तदानीम्, at that time; तदिह्
+                        then, therefore; तथा, so, तत्र, there;
+                        ततः, thence, thereupon, therefore, &c.
+इदम्............... ... ...इदानीम्, now; इस्थम्, thus; अत्र, here;
+                        अतः, therefore; इह*, from this, hence;
+                        अधुना, now; इह, here.
+एतद्......................एतर्हि, now; इस्थम् thus; अतः hence,
+                        therefore; अत्र here.
+यद्.. .......  .........यर्हि, when; यदा when; यथा as; यत्र
+                        where; यतः, whence,, since, because.
+किम्.......................कर्हि, when; कदा, when; कथम्, how;
+                        कुत्र, where; कः, where; कुतः, where,
+                        whence; कुहः whence, how.
+सर्व...................सर्वदा, always; सदा, always; सर्वतः,
+                        everywhere, on all sides; सर्वत्र every-
+                        where, in all places.
+पर.. ......................परतः further on, beyond, &c.
+पूर्व.......................पुरः, पुरस्तात् before, in front, &c.
+अपर.........................अपः, अधस्तात् or अधरस्तात्, अधरतः,
+                        अधराद् down, below.
+अवर..........................अवः, अवस्तात् or अवरस्तात्, अवरतः,
+                        behind, below, downwards.
+अपर......................पश्चात्, from behind, afterwards,
+                        westward, &c.
+दक्षिण.....................दक्षिणा, दक्षिणात्, दक्षिणाश्चहि to or in
+                        the south, on the right side.
+उत्तर.........................उत्तरा, उत्तरात्, उत्तराहि to or in the
+                        north, &c.
 
-§ 131. The words ending in अन् or वन्, such as शुन् &c.
-( learned ) and the words धनिन् ( rich ) make their ins., dat.,
-and abl. dual and pl., gen. dual, nom. voc. acc. dual and pl.,
-regularly by the application of the case-terminations to the end
-of the base ( i. e., they take the affixes यस्येतुर्थीयुतन्तास्निर्देशः by Pan.
-III. 2. 79 ) ; thus शुनौ ( nom. dual ), शुनाम् ( gen. pl. ) शुनि ( loc.
-sing ), शुनिभिः ( ins. pl. ) विद्वनीनाम्, धनिनभिः ॥ In the ins. sing. and
-in the nom. sing. न् is dropped, as विद्वान्, विद्वना; so also धनी,
-धनिना ॥ The gen. voc. and loc. sing. and also the gen. sing.
-are शुनिः, शुनिनः ॥ So धनिनः ॥ Before the affixes भिः, भ्यः,
-भ्याम्, सु beginning with the consonants, the penultimate न् be-
-comes a ण् by the rule नो णः ॥ Thus धनिणभिः, धनिणभ्यः, धनिणसु,
-विद्वणभिः, विद्वणभ्यः ॥
+§ 158. When a pronominal word is used as the subordinate
+mber of a compound, or is at the end of an Inst. Tat , or of
+entence having the sense of the Inst. Tat, or at the end of a
+vandwa, it is not declined like a pronoun*; e. g. अतिक्रान्तः
 
-§ 132. Tabular representation of मघवन् ( Indra ).
-
-                    MASCULINE.
-
-Singular.
-
-    Nom.    मघवा or मघवान् ( मघवन् )    Voc.    मघवन्
-    Acc.    मघवानम् ( मघवनम् )        Ins.    मघवना
-    Dat.    मघवने                Abl.    मघवनः
-    Gen.    मघवनः                Loc.    मघवनि or मघोनि
-
-Dual.
-
-    Nom., voc., and acc.    मघवनौ or मघोनौ    Ins., dat., and abl.    मघवद्भ्याम्
-                                                            or मघोभ्याम्
-    Gen. and loc.        मघवनोः or मघोनोः
+* संज्ञोपसर्जनी भूतास्तु न सर्वादिक्यः । Vārt. तृतीयासमासे । इदे च ॥
+al. I. 1. 30. 31.

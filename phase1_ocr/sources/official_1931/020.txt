@@ -1,18 +1,25 @@
-[Internal page: 2]
-·  2                         SANSKRIT GRAMMAR.                    [§2
+[Internal page: 20]
+20                        SANSKRIT GRAMMAR.                    [§24-26
 
-§ 2. The Devanágari alphabet consists of forty-two letters or varnas, nine vowels or avaras, and thirty-three consonants or vyañjanas.*
+by the word यति (in the Veda and) in ordinary language when it means a particular measure of length*;e.g. गव्युतिः four miles.
 
-(a) These express nearly every gradation of sound, and every letter stands for a particular and invariable sound.
+(d) The ए of the roots क्षि and जि is changed to अय् when followed by the य of the potential participle indicating capability† e.g क्षि+य=क्षै+य=क्षय्यं what can be reduced; so जय्यं what can be conquered; but क्षेतुं देतुं योग्यं क्षेयं (what is fit to be removed but may not be so) पार्यं, जेयं (what ought to be curbed but which it may not be always possible to curb as) मन्।
 
-Note:—This explains why there are no names, as in Greek, for the different letters of the alphabet.
+§25. When ए or औ at the end of a word is followed by अ the latter merges into the former § and the sign ऽ is sometimes written in its place; e. g. हरे+अव=हरेऽव protect, Oh Hari; विष्णो+अव=विष्णोऽव.
 
-* Thus given by Pânini:—
+(a) ‡If the word गो, ending in औ, be followed by अ, the अ is optionally retained, and if by a vowel, अव is optionally substituted for औ. गो+अग्रय=गोमय, गोअग्रय and गवाग्रय a multitude of cows or chief among cows; but if it be followed by इन्द्र and अक्ष it recessarily changes its औ to अव; गो+इन्द्रः:=गविन्द्रः an excellent bull; गवाक्षः a lattice-window, similarly.
 
-Vowels:—अइउण्। ऋऌक्। एऔच्। ऐऔच्।
+§26. No sandhi is possible in the case of ×—
 
-Consonants:—हयवरट्। लण्। ञमङणनम्। झभञ्। घढधष्। जबगडदश्। खफछठथचटतव्। कपय्। शषसर्। हल्।
+1 What are called the Pragṛhya exceptions; viz.—
 
-The alphabet, it will be seen, is divided into 14 sections by Pânini, which are called Sivasûtrâni, or the sûtras revealed by Siva. Each section ends with an indicatory letter called 'इत्' which is not to be counted among the letters of the alphabet. These "Its" serve an important purpose in Sanskrit grammar as they enable the grammarians to express several letters, or groups of letters, in a very convenient and condensed form. For any letter, with the following इत् added to it, is not only expressive of itself but of all letters that intervene between it and this इत्; e.g. अण् means अ, इ, उ, इक् means इ, उ, ऋ, ऌ, &c. Similarly अल् means technically the whole alphabet, अच् any vowel, and हल् any consonant; यण् a semivowel, हश् a soft consonant, खर् a hard consonant, जश् a soft unaspirate, झष् a soft aspirate &c. Each of these significant terms is technically called a 'प्रत्याहार'.
+(a) When a dual from (whether of a noun, pronoun or verb) ends in ई, ऊ, or ए–; e. g. हरी एतौ; विष्णू इमौ; गजै अश्वौ; पचेते इमौ
 
-Since short vowels include the long and the protracted vowels (See §3. a.) another इत् 'त' is generally employed to mark a
+* गौयुतो छैद्वसुपसंख्यानम्। अश्वपरिमाणे च। Vârtikas.
+
+† क्ष्ययन्त्यो ज्ञक्यार्थे। Pân.  VI. 1. 81.
+
+§ एङ पदान्तादति। Pân. VI. I. 109.  ‡ सवेत्र विभाषा गोः। अवबू-स्फोटायनस्य। इन्द्रे च। Pân. VI. 1. 122-24.
+
+× च्युतप्रग्रह्या अचि नित्यम् Pân. VI. 1. 125.
+– ईदूदेविचष्णों प्रग्रह्यम्।

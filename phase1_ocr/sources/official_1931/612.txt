@@ -1,46 +1,47 @@
-[Internal page: 598]
+[Internal page: 612]
 
-36                   SANSKRIT GRAMMAR.
+50                   SANSKRIT GRAMMAR.
 
-घ्लैष् 1 A. दैन्युै कम्पनै च to be poor, to tremble; घ्लैषतै pre. जिघ्लैषै
-   perf. घ्लैषिष्युयतै fut. अघ्लैषिष्टु Aor.
+टीक् 1 A. to go, to move; टीकतै pre. टिटीकै perf. टीकिता p. fut.
+   अटीकिष्टु aor. टिटीकिषतै des.
 
-घ्लै 1 P. इंग्युदुष ( इंग्युदुयां घातुदुलः ) to be weary; घ्लायति pre.
-   जिघ्लाय perf. घ्लेता p. fut. घ्लास्युयुति fut. अघ्लास्युयत् con. घ्लायात्.
-   घ्लायात् Ben, अघ्लासीत् aor. जिघ्लासति des. Pass.—घ्लायतै pre.
-   अघ्लायि aor. Cau.—घ्लायुयति-तै. घ्लायणति-तै pre. घ्लान p. p.
-   घ्लान्त्वा, घ्लाय ger. घ्लातुं inf.
+टोक् 1. A. to go, टोकतै pre. अटोकिष्टु Aor.
 
-                      घु—
+                      ड—
 
-घट् 1 P. ईषत्तै to laugh, to mortify; घटति pre, जघाघ perf. अघघीत-
-   अघाघीत Aor.
+डप् 10 A. संग्रहै to gather, to heap; डापयतै pre. डापयाञ्चक्रै perf.
+   डापयिता p, fut. अडीडपत aor.
 
-घट् 1 A चैटायाम to be busy with, to happen; घटतै pre. जघटै
-   perf. घटिता p. fut. घटिष्युयतै fut. घटिषीष्ट ben, अघटिष्टु aor.
-   Pass.—घट्युतै pre. घटित p. fut घटिष्युयतै, घाटिष्युयतै fut.
-   अघाटिष्युयत, अघटिष्युयत con. अघाषि, अघाटै aor. Cau.—घटयति-तै
-   pre. अजीघटत-न aor. जिघटिषतै des.
+डम्ब् 10 A. क्षैपै to throw, to send; डम्बुयतै-तै pre. डम्बुयाञ्चुकार-
+   चक्रै, perf. डम्बुयता p. fut. डम्बुयिष्युयतै-तै fut. अडडम्बुत-न Aor.
 
-घट् 10 U. भाषायां संशातनै च to speak, to collect together; घाट्युयात-
-   तै pre. घाटुयाञ्चुकार-चक्रै, &c. perf. अजीघट्युत-न Aor. जिघाट-
-   युयिषति-तै des.
+डिभ् 4 P. क्षैपै to throw; डिम्भुति pre. डिडिभ perf. डैभिता p, fut. अडै-
+   भीत aor.
 
-घुट् 1 A. चलनै to shake, to touch; घुटतै pre, जघुटं perf. घुटिता p.
-   fut. घुटिष्युयतै fut. घुटिषीष्ट ben, अघुटिष्टु aor जिघुटिषतै des. घुटित
+डिष् 10 A. संग्रहै to gather; डैषयतै pre. डैषयाञ्चक्रै perf. डैषयिता p.
+   fut. अडीडिषत aor.
+
+डी 1 A. विद्रावसा गतौ to fly, to go; डयतै pre. डिडयै perf. डयिता
+   p. fut. डयिष्युयत् fut. अडेषिष्ट aor. डयिषीष्ट Ben, Cau.—डाययाति-
+   तै. अडीडयत-न Aor. डिडयिषतै des. डयित, डान (with उत्) p. p.
+
+डी 4 A. to fly, to go; डीयतै pre. डिडयै perf. डीन p. p. For other
+   forms see 1 A.
+
+डुल् 10 U. to throw up; डोलयाति-तै pre. डोलयाञ्चुकार-चक्रै perf.
+   डोलयिता p. fut. अडुडुलत-न aor.
+
+                      त—
+
+तीक् 1 A. गतौ to go, to approach; तीकतै pre. तुतीकै perf. तीकिता
+   p. fut. तीकिष्युयतै fut. अतीकिष्टु aor. तीकिषीष्ट Ben. Cau.—तीकयाति-
+   तै pre. अतुतीकत-न aor. तुतीकिषतै des. Pass.—तीक्युतै. तीकित
    p. p.
 
-घुट् 10 U चलनै to stir, to disturb; घुट्युयुति-तै pre, अजघुट्युत-न Aor.
-   जिघुट्युयिषति-तै des.
+                      त—
 
-घुट् 10 U भाषायां to speak; घाट्युयुति-तै pre. अजघट्युत-न Aor. Also
-   घाष्युति pre. अजघषीत Aor.
+तक्ष् 1 P. हसनै सहनै च to laugh, to bear; तक्षुति pre. तताक्ष perf.
+   तक्षिता p. fut. अतक्षीत, अताक्षीत aor. तक्षित p. p.
 
-घस् 1 P. to eat; अत्युति pre. अघासम Imperf. जघास aor घुस्त p. fut.
-   अत्स्युयुति fut. अघुस्युयत् con. अघुसत् aor. जिघत्सति des घस्त p p.
-
-घिण्ण् 1 A. ग्रहणै to take; घिण्णतै pre. जिघिण्णै perf. अघिणिण्णुष्टु Aor.
-
-*This is a defective root and is very often used for the
-root अद्. It is conjugated in the Perf. as an optional substi-
-tute for अद्.
+तक्र् 1 P. त्वचनै ( त्वचनं संतरणं त्वचोन्मूलनं च ) to conceal, to pare,
+   तक्रुति pre. तताक्र perf. तक्रिता p. fut. अताक्रीत Aor.

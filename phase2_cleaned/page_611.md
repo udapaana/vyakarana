@@ -1,0 +1,48 @@
+---
+page_number: 611
+internal_page: 611
+chapter: "Appendix II - Dhātukośa"
+section: "dhātukośa"
+rules_starting: []
+rules_continuing: []
+has_footnotes: false
+---
+
+ज्वर् 1 P. रोगै to be hot with fever or passion; ज्वरुति pre. जज्वार
+   perf. ज्वरिता p fut. ज्वरिष्युयुति fut. अज्वारीत. aor, Cau —
+   ज्वरयति-तै, अजिज्वरत-न aor. जिज्वरिषति des, ज्वृणं p p.
+
+ज्वल् 1 P. दीप्तौ to burn, to glow; ज्वलुति pre. जज्वाल perf. ज्वलिता
+   p. fut. ज्वलिष्युयुति fut. अज्वलीत aor. Cau.—ज्वलयति-तै, ज्वालय-
+   ति-तै ( with प्र-प्रज्वलयति-तै ) pre. जिज्वलिषति des. ज्वलित p. p.
+
+                      झ—
+
+झट् 1 P. संपातै to be collected or matted together; झटुति pre.
+   अझटीत, अझाटीत Aor.
+
+झद् 1 P. अदनै to eat; झमुति pre. झमिता p. fut. अझमीत Aor.
+झष् 1 P. हिंसायां to kill; झषुति pre. जझाष perf. झषिता p. fut.
+   अझषीत, अझाषीत aor.
+
+झष् 1 U. आदानसंवरणग्यो: to take, to put on, to conceal; झषति-तै
+   pre. जझाष, जझषै perf. झाषता p. fut. अझषीत, अझाषीत, अझासिष्ट
+   aor.
+
+झृ 4, 9 P. वयोहानौ to become old; झ्रीयुति, झूर्णाति pre. जझार
+   perf. झरिता, झरीता p, fut. अझारीत Aor.
+
+                      ट—
+
+टङ्कु 1 P. 10 U. to bind, to tie; टङ्कुति, टङ्कुयति-तै pre. टटङ्कु.
+   टङ्कुयाञ्चुकार-चक्रै &c. perf. टङ्कुिता, टङ्कुयिता p. fut. अटटङ्कुत
+   अटटङ्कुत-न aor. टङ्कुित p. p.
+
+टल् 1. P. वैकुण्ठयै to be confused; टलुति pre. ततालperf. टलिता fut.
+   अटलीत aor.
+
+टिक् 1 A. to go, to move; टैकतै pre. टिटिकै perf. टैकिता p. fut.
+   अटैकिष्टु aor. Cau.—टैकयति-तै pre. अटिटैकत-न aor.
+
+टिप् 10 U. क्षैपै to throw, to send; टैपयति-तै pre. टैपयाञ्चुकार-चक्रै
+   perf. टैपयिता p fut. अटिटैपत-न aor.

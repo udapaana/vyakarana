@@ -1,0 +1,48 @@
+---
+page_number: 390
+internal_page: 390
+chapter: "Conjugation of Verbs"
+section: "conjugation-of-verbs"
+rules_starting: ["§ 640", "§ 641", "§ 642"]
+rules_continuing: ["§ 639"]
+has_footnotes: false
+---
+
+शी to lie down        षाध्यते              शेशयीति or शेशेति
+श्वि to swell         श्वेश्वयते or शोश्वयते  शेश्वयीति or शेश्वेति
+सद् to obtain         संसद्यते or सासायते   संसदीति or संसदति
+ह्वृ to injure        जेवीयते              जद्वनीति or जद्वनि
+  in other cases     जद्रुष्यते or जद्रुष्यते
+
+
+                       IV. NOMINAL VERBS.
+
+§ 640. Verbs are formed from nominal bases by means of
+certain affixes These are not very much in common use and are
+generally used in the Present Tense. They have various mean-
+ings. They sometimes convey the notion of performing, practis-
+ing, or using, or treating like the thing or quality expressed
+by the noun and are used transitively; sometimes they express
+the idea of acting, behaving or becoming like the person or
+thing expressed by the noun; and at others they yield the sense
+of wishing or wishing for the thing expressed by the noun.
+These will be arranged here under four heads, according to the
+affixes by which they are derived.
+
+      (a) By means of the affix य (क्यच्) and
+                 Conjugated in Parasm.
+
+§ 641. When the sense of 'wish' is to expressed, a nominal
+verb may be derived from any Subanta or nominal stem by affix-
+ing य to it The derivative verbal base derived in this manner
+is conjugated in the Parasm. only.
+
+§ 642. Before this य,
+
+(1) final अ and आ are changed to ई; पुत्र आत्मजः इच्छति—पुत्रीय-
+ति (पुत्र+य=पुत्री+य+ति) 'he wishes for a son.'
+
+(2) final इ and उ are lengthened; कवि-कवीयति 'he wishes
+for a poet.'
+
+(3) final ऋ is changed to री; कर्तृ-कर्तीयति.

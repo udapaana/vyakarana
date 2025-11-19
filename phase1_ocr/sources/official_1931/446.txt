@@ -1,44 +1,40 @@
-[Internal page: 432]
+[Internal page: 446]
 
-434                  SANSKRIT GRAMMAR.                   [ § 713-717
+448                  SANSKRIT GRAMMAR                   [ § 767-769
 
-तिष्ठु—Atm  freq.
-  Base of बुध्—बोबुष्यनीय what must or ought to be frequently.
-वुवोषिष Desi. Base
-of बुध्       वुवोषियितव्य „   „    desired to know.
+भोज्ययति, यैंयं ब्राह्मणं जानाति छुम्युते विन्चारुयत्ति हा तं सर्वै भोज्ययति इत्यर्थुर्यै:
+( Sid. Kau. ) ' he feeds every Brāhmaṇa that he knows or comes
+across or remembers i. e. all of them.'
 
-            (2) Participles in य ( यत् , क्यप् and घ्यत् ).
-                  By means of यत् ( य ).
+( a ) *The gerunds of विद्य ' to get' and जीय 'to live' are joined
+with यावद् in the sam3 sense; यावद्वेदुं धुञ्चैं 'eats what he gets.'
 
-§ 714   The affix य ( यत् )* is  added on to  roots ending in a
-vowel in the sense of fit to be, or ought to be.' Before
-this य the radical vowel  undergoes  Guṇa  substitute and final
-आ ( य, ऋ and ओ changeable to आ ) is changed to ए.
+( b ) † With the words वुनुत् and उदुर the gerund of युट् is used;
+चनैर्युर्युं स्थूणाते; उदुर्युर्युं धुञ्चैं ' eats so as to fill his belly.'
 
-    दा—देय what is fit or ought to be given.
-    पे—पेय       „       „       sucked.
-    ने—नेय       „       „       sung.
-    भो—भोय      „       „       cut.
-    विर्-वैय      „       „       collected.
-    नी—नेय       „       „       led or carried.
+§ 768.  This  gerund  of  तिपु  is  used  with  झुरुकु,  चूर्णं  and
+स्यदै; ‡ मुष्युकूतैर्ये तिपुत्त युन्नं तिपुहीनुग्युर्यै: ( Sid. Kau. ); so चूर्णैर्युं तिपुहुदि
+'he grinds to powder;' स्यदैरुयुम्.
 
-§ 715.  Roots having अ for their penultimate and ending in
-a consonant of the labial class take the affix य;  शाप्-शाप्य; छुषु-
-छुष्य: रप्-रप्य, &c.
+§ 769.  ¶ With the words  वुसुद्,  अक्षत  and जीव are used res-
+pectively the gerunds in अम् of the roots हुन् , छु and  शुह् in a cog-
+nate sense;  वुसुच्छुवातं इत्युते 'kills destroying the roots i  e  totally,'
+अक्षुतकुरुते करोति  'does  what  ought not to have been done;'  जीवुचाहै
+यहाति ' captures him so as to preserve him i  e. alive.'
 
-(a) When ळुप् is preceded by अप्, य् ( changed to इ ) is inserted
-between इ and प्; अपेळाप्-भाउप्य: ' what  ought  or is  fit  to be
-killed ;' य is also inserted  when छुप् is preceded by  उप  if the
-meaning be 'to prise;' उपक्षुप्य: यायै: 'a Sādhu ought to be
-praised ;' but उपकुष्युं धनं 'wealth ought to be acquired.'
+( a )  The gerund of हुन् and  तिपु is used  with  words signify-
+ing instruments  ( of action );  पात्तूवातुं  इत्युते=-पात्तैन  इत्युते ' strikes
+( kicking ) with the foot;' स्फुरुं हत्युते=प्रहरुण इत्युते ' reads ( with
+( using ) the water.
 
-§ 716.  The roots  तङु  'to laugh at,'  भाष्  'to kill,'  वत्  to
-ङो.ये on; ' or ask,' यत् 'to strive,' जय , भुकु  and शक् take  the
-affix य;  तङ्कुं 'what is fit to be laughed at,  भाषं  'what ought to
-be killed ;' &c,
-
-§ 717.  The roots गद् , पद् , चत् and यत् , take the affix य when
-not preceded by a preposition ; गद्-गत्य ' what ought to be spoken
+( b )  Similarly the gerund  of  युद्  and  शुह्  is  used  with  हुन्
+and its synonyms,  and  that  of युट् with स्य;  हुनवुनुं  वुसुयति;  so
+कुर्युत्तो , हुतैन  यटिकुं  करोतीतोर्युर्यै: ।  Sid.  Kau.;  हुन्वुनुहुं  यहुतुते;
+similarly गाणियाहुर् , करुग्राहु कु, &c.
 
 _________________________________________________
-* ग्राचे यत् । Pāṇ. III. 1. 97.
+* यावुहुहि  विस्वुज्ञौयै: । Pāṇ  III  4  30.
+† चनैत्युर्युरौर्यै: तुरु: । Pāṇ. III, 4. 31.
+‡ युष्युकूचूर्णुंस्यदै तिपु: । Pāṇ.  III.  4.  35.
+¶ वमुहुलुछुत्तुजीवुर् हुत्युच्चुयुर्युरु: । करुणै  हुन: । धेनुतो तिपु: । इेतो वुनियुप्तौर्यैत्
+स्तै धुन: । Pāṇ  III.  4.  36—40.

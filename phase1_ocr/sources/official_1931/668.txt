@@ -1,47 +1,43 @@
-[Internal page: 654]
+[Internal page: 668]
 
-92                   SANSKRIT GRAMMAR.
+106                   SANSKRIT GRAMMAR
 
-स्लुोक्ष्( see    ,, भुुाक्ष्).  }
-स्लुाष्( see    ,, भुुाष्).  } changing भु to स्लु.
-स्लुेष् ( see    ,, भुैष् ).  }
+युज् 7 U. योषै to unite, to put to, to appoint, to give, to
+   prepare, &c; युनक्ति or युङ्क्तै pre युयोज or युयुजै perf योक्ता p.
+   fut. योक्ष्युयुति-तै fut. अयुञ्जत्, अयोषीत or अयुष्ट aor युञ्जुयात्,
+   युक्षीष्ट ben. Pass.—युज्युतै pre. Cau.—योजुयाति-तै pre. अयूयुजत-
+   -न aor. युयुक्षति-तै des. युत p. p.
 
-                      म—
+युञ्ज् 10 U. संयमनै to join, &c; योजुयाति-तै pre योजुयाचकार-चक्रै,
+   perf. योजयिता p. fut. योजयिष्युयुति-तै fut. अयूयुजत-न aor. युयो-
+   जिषति-तै des.
 
-मंह् 1 A वुद्धौ to grow; P. भाषाग्यां दीप्तौ च to speak, to shine;
-   मंहुतै-ति pre ममंह-भै perf. मंहिता p. fut. अमंहिष्टु अमंहीत Aor.
-   मंहीष्ट. मंह्युयात् ben. Pass.—मंहुतै निमंहिषत-ति des. मंहित p. p.
+युच् 10 A. to censure; याचुयतै pre.
 
-मंह् 10 U. to speak, to shine; मंहयिष्युयुति-तै fut. अममंहत-न Aor.
+युद् 1 A. भाच्चनै to shine; योतुतै pre. युयुतै perf. योतिष्युयुतै fut.
+   अयोतिष्टु aor.
 
-मक्क् 1 A. to go, to move; मक्कुतै pre. ममक्कै perf. अमक्किष्टु aor.
+युध् 4 A. संयहनै to fight, to conquer in fight; युध्युतै pre. युयुधै
+   perf. योद्धा p fut. योत्स्युयुतै fut. अयोध्युयत con. अयुत्त aor. युध्युीष्ट
+   ben. Pass. अयोधि aor. अयुधिष्टु aor. Cau.—योधुयाति-तै pre, अयू-
+   युयुधत-न aor. युयुत्सतै des. युद्ध p. p.
 
-मश् 1 P. संचतै to accumulate, to be angry; मशुति pre. ममक्ष
-   perf. अमक्षीत aor.
+युश् 4 P. निसेवनै to blot out, to trouble, to make smooth; युश्युति
+   pre. युयोष perf. योषिता p. fut. अयुष्युत् aor.
 
-मस् 1 P. गतौ to go, to creep; मसुति pre. ममास perf. मसिता p.
-   fut. अमासीत, अमासीत aor.
+यस् 1 P. हिंसायां to injure, to kill; यसुति pre. युयुष perf.
+   अययीत aor.
 
-मकु 1 P. अदनै to adorn; मकुति pre, ममक्कै perf. मकुिता p. fut.
-   अमकुिष्टु aor.
+येष् 1 A. प्रयत्नै to try, to attempt; येषतै pre. यिययै perf. अयेषिष्टु
 
-मकू 1 P. गतौ to go; मकूति pre. ममकू perf. मकूिता p. fut. अमकुीत
-   aor. Pass.—मकु्युतै pre. अमाकुि aor.
+योद् (ड) 1 P. to join, together; योद(ड)ति pre. ययोद(ड) perf.
+   अयोदीत(डी)त् aor.
 
-मकु 1 P. to go, to move; ( same as above ).
+                      र—
 
-मकू 1 P. मण्डनै to adorn, to decorate; मकूति pre. ममकू perf.
-   मकुिता p. fut. अमकुीत aor. Pass.—मंकुतै
+रंह् 1 P. गतौ to move, to flow; रंहुति pre, रंहु perf. रंहिता
+   p. fut. अरंहीत aor. Cau.—रंहुयाति-तै pre. अररंहत-न aor. रिर-
+   ंहिषति des.
 
-मंच् 1 A. मन्त्रादनै आरम्भै कैलनै च to move quickly, to start; to
-   begin, to cheat; मंचुतै pre. ममंचै perf. मंचिता p. fut अमंचिष्टु
-   aor. मंचिषीष्ट ben.
-
-मंष् 1 A. दम्भै कम्युनै कलनै च to cheat, to be wicked, to boast, to
-   pound; मंषुतै pre. मैषै perf. मंषिता p. fut अमंषिष्टु aor.
-
-मंत्र् 1 A. पारणोङ्खुयापुनुनेषु to hold, to grow high, to go, to adore,.
-   to shine; मञ्छुत pre. ममञ्छुै perf. मंत्रिता p. fut. अमंत्रिष्टु aor.
-
-मञ्ज् 10 U. शोदै to sound; मञ्जुयाति-तै pre. मञ्जुयाचकार-चक्रै, &c.
-   perf. मञ्जुयिता p fut. अमिमञ्जत-न aor.
+रक् 10 U. आस्वादनै गतौ च, to taste, to get; राकुयाति-तै pre.
+   राकुयिताचकार-चक्रै perf. अरिरकुत-न aor. Also

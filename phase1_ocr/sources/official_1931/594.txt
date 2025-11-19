@@ -1,44 +1,47 @@
-[Internal page: 580]
+[Internal page: 594]
 
-18                   SANSKRIT GRAMMAR.
+32                   SANSKRIT GRAMMAR.
 
-किद् 1 P. संशुयै रोपागमनै च to suspect, to cure; चिकित्साति pre.
-   -चिकित्साचकार &c. perf. चिकित्सिता p. fut. चिकित्सिष्युयति fut.
-   अचिकित्सिष्युयत् con. अचिकित्सीत् aor Pass.-चिकित्स्युतै pre. Cau.
-   -चिकित्सयति-तै pre. चिकित्सितिषति des. ( Also A. चिकित्सतै pre.
-   अचिकित्सिष्टु aor. )
+अघाष्युत Con, अगाहिष्टु; अगाह aor. गाहिषीष्ट, घाढीष्टु Ben.
+Cau.— गाहयति—तै pre. अजीगहत-न aor. गाढ, गाहित p.p.
+गाहित्वा, गाहुयुं ger. गाहितुं, गाहुयुं inf.
 
-किन् 1 P इच्छुायां to desire, to live; कित्ति pre, चिकैत perf. अकैतीत्
-   aor.
+घुं 1 A. अनुयुक्तै शब्दै गतौ च to sound indistinctly, to go; घुंतै
+   pre. चुघुवं perf. घुता p. fut. घोष्युयतै fut. अघोष्युयत् con, अघोष्टु
+   aor. घोषीष्ट ben. चुघुषतै des. Cau.—घावयति-तै. अजुघवत—न
+   Aor.
 
-किन् 10 P. निवासै to dwell; कैतयति pre. कैतयिष्युयति fut. अचीकित्त
-   aor.
+घुं 6 P. दुरैशैरुषणं to void by stool; घुंवुति pre. चुघाव perf. घुंता
+   p. fut. घुंविष्युयुति fut. अघुंवीट aor. अघुंवात् con, घुं p p.
 
-किर् 1 P. ऋवैतकौडलगतौ: to become white, to sport; किरति pre.
-   चिकैर perf. कैरिता p fut, कैरिष्युयति fut. अकैरिष्युयत् con. अकै-
-   रीत aor.
+घुज्. घुञ्ज् 1. P. हिंसनै to hum, to buzz; घुंजुति, घुञ्जति pre. जुघोज.
+   चुघुञ्ज perf. अघुंजीत, अघुञ्जीत Aor.
 
-कीर्द् 1 P. हिंसायाम to bind; कीर्दति pre, चिकीर्द perf. कीर्दिता p. fut.
-   अकीर्दीत aor. चिकीर्दिषति des.
+घुड् 6 P. रक्षणै to protect; घुडति pre. जुगोड ( चुघुडिष 2nd pers.
+   sing. ) perf. अघुडीत Aor.
 
-कु 1 A. शब्दै to sound; कवतै pre. चुकवै perf. कोता p fut. कोष्युयतै
-   fut. अकोष्युयत् con. अकोष्टु aor.
+घुण् 10 U. भाषणबोणै to invite; to advise, to multiply; घुणयति—तै
+   pre. घुणयाञ्चुकार —चक्रै perf. घुणयिता p. fut. घुणयिष्युयुति fut.
+   अघुणयिष्युयत-न con, अजुघुणत-न aor. चुघुणयिषति-तै des.
 
-कु 2 P. to sound; कौति pre. चुकाव ( चुकविष, चुकोष 2nd sing )
-   perf. कोता p. fut. कोष्युयति fut. अकोष्युयत् con. अकोषीत् aor.
-   चोकूयतै Freq.
+घुण्ट् 10 U. वैडनै to cover, to enclose; घुण्टयति—तै pre. अजुघुण्टत-न
+   Aor. चुघुण्टयिषति—तै des. Also 1 P. घुण्टुति pre. चुघुण्ट perf.
+   घुण्टित p.p. ( Generally with अव )
 
-कु 6 A शब्दै ( शातंस्वरै ) to sound. to moan; कुवतै pre. चुकुवै perf.
-   कुता p. fut. अकुत aor. कोकूयतै freq.
+घुद् 1 A. क्रोडायाम to play, to sport; घोदतै pre. चुघुष्टं perf.
+   अघोदिष्टु Aor. घुदित p p.
 
-कुज् 1 P. शब्दै तर्कै संयनकौडिट्युयतिषट्युमतिदष्युढैषु च to sound
-   loudly, to come in contact, to be crooked &c.; कोजति pre.
-   चुकोज perf. कोजिता p. fut. कोजिष्युयति fut. अकोजिष्युयत् con.
-   अकोजीत aor.
+घुथु 1 A. to sport; घोथतै pre. चुघुथं perf. घोथिता p. fut, ( the same
+   as घुद. )
 
-कुज् 6 P. संकोचनै ( कुत्सुति ) to contract; कुजति pre. चुकोज ( चुकु-
-   जिष 2nd sing. ) perf. अकुजीत aor. चिकुजिषति des.
+घुषु 4 P. परिवेष्टनै to cover; घुष्युयुति pre. जुघोषु perf. जुघोषीत Aor.
 
-कुट् 6 P. to curve, to bend; कुटति pre, चुकोट ( चुकुटिष 2nd sing )
-   perf. कुटिता p. fut. कुटिष्युयति fut. अकुटिष्युयत् con. अकुटीत aor.
-   Cau.-कोटयति-तै pre. कुटित p. p.
+घुषु 9 P. रोषै to be angry; घुष्णाति pre. ( See the above root. )
+
+घुश् 1 P. रक्षणै to defend, to protect, to conceal; घोपयति per.
+   चुघोप. गोपयाचकार, &c. perf. गोपयिता, गोप्ता, घोष्टा p. fut.
+   गोपयिष्युयतै-गोपिष्युयतै-गोत्स्युयतै, fut. अगोपुयीत, अगोपीष्ट aor.
+   चुगोपयिषति. चुघुपिषति, चुगोपिषति, चुघुत्सति des. Cau.—गोपा-
+   युयति-तै pre. अजुगोपत-न, अजुगुपत-न, अजुघुपत-न Aor.
+   Pass.—गोप्युयुतै, घुप्युतै pre. गोपित, गुप्त p.p. गोपयित्वा, गुप्त्वा
+   or गोपित्वा, घुप्त्वा, ger.

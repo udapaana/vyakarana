@@ -1,7 +1,23 @@
-[Internal page: 200]
+[Internal page: 214]
 
-SANSKRIT GRAMMAR.                                                  [ § 340
+SANSKRIT GRAMMAR.                                        [ § 343.
 
-' one who lives upon wages'.—( 19 ) to words denoting musical instruments in the sense of 'playing upon'; &c. मृदङ्गंबादनं शिल्पमस्य मार्दङ्गिकः ' one whose profession is to play on a tabor ', so वैणिकः fr. Vīṇā; similarly वैणविक, मार्डुक or मार्डुदिकः, झाहरिक, &c.—( 20 ) to पर्ण and the remaining words* of that group in the sense of 'walking with the assistance of ;' पर्णेकः [ पर्णेण चरति इति येन पर्णेन पक्त्रव्श्रर्त्रन्ति स पर्णः Sid. Kau. ]; अश्वैन चरति आश्विकः, राथेकः &c. पया चरति पार्थिकः ' a traveller'; this is also added to words denoting inanimate things. वारिराश्रिकैं दारु ' wood carried on by the force of water'; ( 21 ) to words included in the भञ्जादि † group in the sense of ' bears or carries by means of ' भञ्जया हरतीति भाञ्जिकः, and to the word वि-बीबध; वि-बीबधेन धुरति वि-बीबधिकः; also वैघाषिकः:—( 22 ) to कुसीद and द्रुशेकाद्रशान्‌ in the sense of ' lending on interest ' कुसीदिकः 'a usurer;, द्रुशैकाद्रशिकः ' one who lends another ten rupees in order to get back eleven i e. ' a usurer '; and ( 23 ) to आकर्ष; आकर्षेण चरति आकर्षिकः ' magnetic, attractive'.
+SECTION III.
 
-) Added to पूज or words ending in पूर्व and to आन्स्र it has the sense of 'done and eaten by' respectively; कृतपूर्वां कटं; भान्स्रमेन भुक्तं भाञ्जोी ' one who has eaten at a Śrāddha '; ( 2 ) it is added to a few words. such as खल, कुदब, &c. in the sense of ' a collection of ' with fem. term. ई added to it; खवानां समूहः खलिनी ' a multitude of thrashing floors or wicked men ', कुदुम्बिनी ' a number
+AFFIXES FORMING ADVERBS.
+
+अक ( अकच्‌ )—is inserted before the final vowel of indeclinables without any change of meaning ; उच्चैः-उच्चकैः; नीचैः-नीचकैः:
+
+एन—is added to nouns indicating ' a direction ' in the sense of ' not far from '; पूर्वेणा ग्रामं ' to the east of the village not far from it '; अपरेण ग्रामं, &c.
+
+तस्‌ ( तसि )—has the sense of the Ablative; आदितः ' from the beginning,' मध्यतः, स्वरतः, वर्णतः &c.; sometimes this is added in the sense of the Gen ; as देवा अञ्जुनतोभवन्‌ ' the gods declared themselves on the side of Arjuna '; ( तसिद्‌)-परितः ' on all sides '; अभितः ' on both sides '.
+
+ना—विना ' without ', नाना ' in various ways ', &c.
+
+वत्‌—* is affixed in the sense of ' equally with ' or ' like to ' when the equality or likeness refers to an action ; व्राह्मणेणा तुल्यं ब्राह्मणवदुधोते; but पुत्रेण तुल्यः रथुलः and not पुत्रववद् रथुलः; similarly क्षत्रियवद्‌; or (2) ' as in the case of that मयूरायामिव मयूरावद्‌ लत्रे प्राकारः; चैत्रस्य इव चैत्रवद्‌ ( मैत्रस्य गावः ); (3) विधिमङ्गोति विधिवद्‌ पुज्यते.
+
+इशद्‌-अल्पेश्रः ' little by little '; बहुशः &c.
+
+स्मिन्‌-is added to nouns or indeclinables to express that a person or thing, not being like what is denoted by the base to which it is added, becomes or is made like it.
+
+* तेन तुल्यं क्रिया चैद्यातिः । तत्र तस्येव । तदहुयम् । Pān. V. 1, 115-117. कुम्बसतिगोगौ संयक्करोति स्स्विन्‌ । Pān. V. 4. 50. अभूततद्भावः इति वक्तव्यम् । Vārt.

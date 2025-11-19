@@ -30,38 +30,26 @@ panini_refs:                      # Array: Pāṇini references (optional)
 cross_refs:                       # Array: Cross-references (optional)
   - "§ 8"
   - "§ 5"
-examples_count: 0                 # Integer: Number of examples
-has_table: false                  # Boolean: Contains tables
-has_footnotes: false              # Boolean: Contains footnotes
-source_pages:                     # Array: Source page files
-  - "page_013a.md"
+source_pages:                     # Array: Source page numbers
+  - "013a"
 ---
 ```
 
 ### Content Structure (Required)
 
 ```markdown
-## § {N}. {Title}
+## {Title}
 
-{Main explanation text}
+{Main explanation text with inline markup}
 
 ### {Subsection Title} (optional)
 
 {Subsection content}
 
-**Obs.**— {Observational note}
+---
 
-**Exception:** {Exception to the rule}
-
-**N. B.** {Nota bene}
-
-e.g. @deva[देवनागरी] @[IAST]: {Translation/explanation}
-
-Footnote markers in text: [^1], [^2], etc.
-
-At bottom of file:
-
-[^1]: @deva[देवनागरी] @[IAST] Pāṇ. reference or citation
+[^1]: First footnote content
+[^2]: Second footnote content
 ```
 
 ## Field Specifications
@@ -79,7 +67,7 @@ At bottom of file:
 | `page_end` | Integer/String | End page | >= page_start |
 | `topics` | Array | Topic keywords | At least 1 |
 | `word_index` | Array | Sanskrit terms | Can be empty |
-| `source_pages` | Array | Source files | At least 1, must exist |
+| `source_pages` | Array | Source page numbers | At least 1 |
 
 ### Optional Fields
 
@@ -87,164 +75,218 @@ At bottom of file:
 |-------|------|-------------|---------|
 | `panini_refs` | Array | Pāṇini sutra refs | `[]` |
 | `cross_refs` | Array | Related rules | `[]` |
-| `examples_count` | Integer | Example count | `0` |
-| `has_table` | Boolean | Contains table | `false` |
-| `has_footnotes` | Boolean | Contains footnotes | `false` |
-
-### Derived Fields (Auto-calculated)
-
-These fields should be calculated from content:
-- `examples_count`: Count of `@example[]` tags
-- `has_table`: Presence of markdown tables or `@table:`
-- `has_footnotes`: Presence of `@footnote[]` tags
 
 ## Content Markup Standards
 
 ### Sanskrit Terms
 
-**CRITICAL: Visarga must use ḥ not colon**
+**CRITICAL: Use proper IAST diacritics, not ASCII approximations**
 
+**Single Tag Format** (preferred - use when source shows only one script):
 ```markdown
-@deva[देवनागरी] @[IAST]
-
-# Correct:
-@deva[रामः] @[rāmaḥ]   # Use ḥ for visarga
-@deva[पितृ] @[pitṛ]     # Use ṛ for vocalic r
-@deva[संस्कृतम्] @[saṃskṛtam]  # Use ṃ for anusvāra
-
-# Incorrect:
-@deva[रामः] @[rāmaH]   # Wrong: H instead of ḥ
-@deva[रामः] @[rāma:]   # Wrong: colon instead of ḥ
-@deva[पितृ] @[pitri]    # Wrong: missing diacritic
+@deva[रामः]        # Devanagari only
+@[rāmaḥ]           # IAST only
 ```
+
+**Paired Format** (only when source explicitly shows both scripts together):
+```markdown
+@deva[रामः | iast>>rāmaḥ]           # Devanagari primary, shows IAST
+@[rāmaḥ | deva>>रामः]               # IAST primary, shows Devanagari
+```
+
+**Rationale**: Single tags are preferred since we have transliteration tools. Use paired format only to preserve authorial intent when the source explicitly presents both scripts together.
 
 **Required IAST Diacritics**:
-- Vowels: ā, ī, ū, ṛ, ṝ, ḷ, ḹ, ē, ō (though last two rare)
-- Anusvāra: ṃ (not m)
+- Vowels: ā, ī, ū, ṛ, ṝ, ḷ, ḹ
+- Anusvāra: ṃ (not m or n before stops)
 - Visarga: ḥ (not h or :)
-- Palatals: ś (not sh), palatal sibilant
+- Palatals: ś, c, ch, j, jh, ñ
 - Retroflexes: ṭ, ṭh, ḍ, ḍh, ṇ, ṣ
-- Nasals: ñ, ṅ
+- Velars: ṅ
 
-**Tagging Rules**:
-- Always pair Devanagari with IAST: `@deva[X] @[Y]`
-- Never use Devanagari alone without IAST
-- Never use IAST alone without Devanagari for Sanskrit terms
+**Common Errors to Avoid**:
+```markdown
+# WRONG
+@[rāmaH]          # H instead of ḥ
+@[rāma:]          # colon instead of ḥ
+@[pitri]          # missing diacritic on ṛ
+@[samskrtam]      # missing diacritics
+@[sha]            # sh instead of ś
+
+# CORRECT
+@[rāmaḥ]          # proper visarga
+@[pitṛ]           # vocalic r
+@[saṃskṛtam]      # proper anusvāra and vocalic r
+@[ś]              # proper palatal sibilant
+```
 
 ### Examples
+
+Examples use the paired format to show correspondences:
+
 ```markdown
-@example[sanskrit]{देवः} @[devaḥ]: the god
+@example[deva>>देवः | iast>>devaḥ]: the god
 @example[grammatical]{stem + suffix = form}
+@example[grammatical]{@deva[राम] + @deva[सु] = @deva[रामः]}
 ```
+
+**Note**: Examples explicitly show both scripts for pedagogical purposes, even when single tags are preferred elsewhere in content.
 
 ### Notes
+
+Use `@note[type=X]{content}` for inline annotations:
+
 ```markdown
-@note[type=note]: Regular note
-@note[type=observation]: Observational note  
-@note[type=exception]: Exception to the rule
+@note[type=note]{Regular explanatory note}
+@note[type=observation]{Observational comment (from "Obs." in source)}
+@note[type=exception]{Exception to the rule}
+@note[type=beginner]{Note for beginners (e.g., "may be omitted by beginners")}
 ```
 
+**What goes in notes vs footnotes:**
+- **Notes**: N.B., Obs., beginner notes, clarifications, explanatory content
+- **Footnotes**: Pāṇini/Vārtika citations, grammar references (see below)
+
 ### Cross-References
+
+Use `@ref[]` for cross-references to other rules. Distinguish between core rules, appendix rules, and external references:
+
+**Core Grammar Rules** (§ 1-972):
 ```markdown
-See @ref[§ 8] for classification.
-Compare with @ref[§ 5-6].
+See @ref[8] for classification.
+Compare with @ref[5,6] and @ref[8,9,10].
+According to @ref[12,13,14].
 ```
+
+**Appendix - Prosody Rules** (§ 1-14 in appendix):
+```markdown
+See @ref[prosody:3] for meter classification.
+As explained in @ref[prosody:1,2].
+```
+
+**Dhātukośa (Verb Dictionary)**:
+```markdown
+See @ref[dhatu:भू] for root conjugation.
+Compare @ref[dhatu:गम्] and @ref[dhatu:या].
+```
+
+**External References** (Pāṇini, other grammars):
+```markdown
+Pāṇini states @ref[panini:VI.1.77].
+Vārtika: @ref[vartika:on-VI.1.101].
+```
+
+**Format Rules**:
+- Core rules: Just the number `@ref[N]`
+- Appendix prosody: `@ref[prosody:N]` 
+- Verb dictionary: `@ref[dhatu:root]`
+- External: `@ref[source:ref]`
+
+This prevents ambiguity when appendix rules reuse § numbers (e.g., appendix § 3 vs core § 3).
 
 ### Footnotes
 
 **CRITICAL: What Qualifies as a Footnote**
 
-Footnotes in Sanskrit grammar texts are ONLY for:
-1. **Pāṇini sūtra references**: Citations to original Pāṇini grammar rules
-2. **Vārtika citations**: Supplementary rules by Kātyāyana
-3. **Technical grammar citations**: References to other authoritative grammar texts
+Footnotes are ONLY for scholarly citations:
+1. **Pāṇini sūtra references**: `Pāṇ. I.1.9`, `Pāṇ. VIII. 3. 58`
+2. **Vārtika citations**: `Vārt.`, `Vārt. 2`
+3. **Other grammar texts**: References to authoritative sources
 
-**NOT footnotes** (these go in main content):
-- **N. B.** notes (Nota Bene) - these are content annotations
-- **Obs.** notes (Observations) - these are content observations
-- Beginner notes like "Section may be omitted by beginners"
-- Explanatory content or examples
-- Subsection content
+**NOT footnotes** (use `@note[]` instead):
+- N. B. (Nota Bene) annotations
+- Obs. (Observation) remarks
+- Beginner guidance
+- Explanatory content
 
-**Format Requirements**:
+**Format in Markdown**:
 ```markdown
-# In text: Use [^N] where footnote marker appears
-The rule applies to @deva[सम्] @[sam];[^1] examples follow.
+# In text body:
+The rule applies to @deva[सम्][^1] in all positions.
+Both forms are valid.[^2]
 
-# At bottom of file after --- separator:
+# At bottom of file (after --- separator):
 ---
-[^1]: @deva[Sanskrit] @[IAST] Pāṇ. VIII. 3. 58
-[^2]: @deva[Sanskrit] @[IAST] Vārt.
+
+[^1]: Pāṇ. VIII. 3. 58
+[^2]: @deva[सौ वक्तव्यः | iast>>sau vaktavyaḥ] Vārt. 2 to Pāṇ. I.1.9
 ```
 
 **Numbering Rules**:
-- Number footnotes based on order of FIRST appearance in text
-- Do NOT number based on order they appear at bottom of OCR
-- Use consecutive numbers: [^1], [^2], [^3], etc.
+- Number based on order of FIRST appearance in text body
+- Use consecutive integers: [^1], [^2], [^3], etc.
 - Each rule file starts numbering from [^1]
-
-**Common Patterns from OCR**:
-Original OCR may have symbols: *, †, ‡, ×, §, ¶
-- Convert to [^1], [^2], [^3], etc. based on text order
-- Symbol in text after word (e.g., "word*;") → [^N] in text
-- Symbol at bottom (e.g., "* Pāṇ. VIII...") → [^N]: at bottom
-
-**YAML Metadata**:
-```yaml
-footnotes:
-  - id: 1
-    content: "Pāṇ. VIII. 3. 58: @deva[उभयसर्जनीयप्रत्ययोः]"
-  - id: 2
-    content: "Vārt: @deva[संपुंसां सौ वक्तव्यः]"
-```
-
-### Content Notes (NOT Footnotes)
-
-Place these directly in content as formatted text:
-
-```markdown
-**N. B.** Important note text goes here inline.
-
-**Obs.**— Observational comment goes inline.
-
-**Exception:** Exception text goes inline.
-
-**Beginners may omit this section.**
-```
+- Convert OCR symbols (*, †, ‡, ×) to numbered footnotes
 
 ### Tables
+
+Standard markdown tables:
+
 ```markdown
-| Column 1 | Column 2 |
-|----------|----------|
-| Data     | Data     |
+| Column 1 | Column 2 | Column 3 |
+|----------|----------|----------|
+| Data     | Data     | Data     |
 ```
+
+For complex tables with Devanagari:
+
+```markdown
+| Sanskrit | IAST | Translation |
+|----------|------|-------------|
+| @deva[क] | @[ka] | k sound |
+| @deva[ख] | @[kha] | kh sound |
+```
+
+### Examples in Source Text
+
+When the source text uses "e.g." for examples:
+
+```markdown
+e.g. @[rāmaḥ]: Rama (nominative)
+e.g. @deva[देवः]: the god
+```
+
+The "e.g." is literal text from the source material introducing an example.
 
 ## Validation Rules
 
 ### Schema Validation
 
 1. **YAML Validity**: Must parse as valid YAML
-2. **Required Fields**: All required fields present
+2. **Required Fields**: All required fields present and non-empty
 3. **Type Checking**: Fields match expected types
-4. **Range Checking**: `rule_number` in 1-972, pages exist
-5. **Cross-Reference**: `source_pages` files exist in phase2_structured/
+4. **Range Checking**:
+   - `rule_number` in range 1-972
+   - `page_start` <= `page_end`
+5. **Cross-Reference**: `source_pages` exist in phase2_cleaned/
+6. **Filename Match**: `rule_{N}.md` matches `rule_number: N`
 
 ### Content Validation
 
-1. **Heading Match**: Content must start with `## § {N}.`
-2. **Rule Number Consistency**: Heading matches `rule_number` and `rule_id`
-3. **Minimum Content**: At least 100 characters of substantive content
-4. **Markup Validity**: All `@tag[]` markup properly closed
-5. **No Error Messages**: No "not found", "NOT present" phrases
+1. **Heading Format**: Must start with `## {Title}`
+   - Format: `## Aspiration of Consonants`
+   - Title must match `title` field from frontmatter
+2. **Minimum Content**: At least 100 characters of substantive content
+3. **Markup Validity**: All tags properly closed
+   - `@deva[...]` - brackets balanced
+   - `@[...]` - brackets balanced
+   - `@example[...]` - proper syntax
+   - `@note[type=X]{...}` - proper syntax
+4. **No Error Indicators**: No "NOT FOUND", "TBD", "ERROR" in content
+5. **Footnote Consistency**:
+   - All `[^N]` markers in text have matching definitions
+   - All footnote definitions have corresponding markers
+   - Numbering is consecutive
 
-### Quality Checks (Warnings, not errors)
+### Quality Checks (Warnings)
 
-1. **Examples**: Grammar rules should have examples
-2. **Topics**: Should have relevant topic tags
-3. **Word Index**: Should include key terms for searchability
+1. **Examples**: Grammar rules should typically have examples
+2. **Topics**: Should have at least 2-3 relevant topic tags
+3. **Word Index**: Should include key Sanskrit terms from Devanagari
 4. **Cross-References**: Related rules should be linked
+5. **IAST Quality**: Check for common errors (H vs ḥ, : vs ḥ, missing diacritics)
 
-## Example: Valid Rule File
+## Example: Complete Valid Rule File
 
 ```yaml
 ---
@@ -267,39 +309,90 @@ word_index:
 panini_refs: []
 cross_refs:
   - "§ 8"
-examples_count: 8
-has_table: true
-has_footnotes: false
+  - "§ 5"
 source_pages:
-  - "page_013a.md"
+  - "013a"
 ---
 
-## § 7. Aspiration of Consonants
+## Aspiration of Consonants
 
-Some consonants are pronounced with a slight aspiration and are designated as @deva[अल्पप्राण] @[Alpa-prāṇa], while others which are pronounced with a stronger aspiration are called @deva[महाप्राण] @[Mahā-prāṇa].
+Some consonants are pronounced with a slight aspiration and are designated as @deva[अल्पप्राण] (@[alpa-prāṇa]), while others which are pronounced with a stronger aspiration are called @deva[महाप्राण] (@[mahā-prāṇa]).
 
 The first and third letters of each class, the nasals and the semi-vowels belong to the first class; the rest belong to the second class.
 
-@note[type=note]: For the sake of convenience the first and third letters of each class are sometimes called "unaspirates."
+| Class | Unaspirated (alpa-prāṇa) | Aspirated (mahā-prāṇa) |
+|-------|--------------------------|------------------------|
+| Guttural | @deva[क], @deva[ग] | @deva[ख], @deva[घ] |
+| Palatal | @deva[च], @deva[ज] | @deva[छ], @deva[झ] |
+
+@note[type=note]{For convenience, the first and third letters of each class are sometimes called "unaspirates."}
+
+@note[type=beginner]{This section may be omitted by beginners until needed.}
+
+See @ref[8] for the complete classification of consonants.
 ```
 
 ## Benefits
 
 1. **Consistency**: All rules follow identical structure
-2. **Validation**: Easy to validate completeness and correctness
-3. **Searchability**: Structured fields enable rich search
-4. **API-Ready**: YAML frontmatter perfect for APIs
-5. **Quality Control**: Automated checks prevent bad data
-6. **Maintainability**: Clear schema for future updates
-7. **Documentation**: Self-documenting with metadata
+2. **Validation**: Automated verification of completeness and correctness
+3. **Searchability**: Structured fields enable rich search and filtering
+4. **API-Ready**: YAML frontmatter perfect for JSON/REST APIs
+5. **Quality Control**: Automated checks prevent malformed data
+6. **Maintainability**: Clear schema for future updates and tooling
+7. **Documentation**: Self-documenting with comprehensive metadata
+8. **Interoperability**: Standard formats (YAML, Markdown) ensure tool compatibility
+
+## Common Patterns
+
+### Multi-page Rules
+
+```yaml
+page_start: "46a"
+page_end: "47b"
+source_pages:
+  - "046a"
+  - "046b"
+  - "047a"
+  - "047b"
+```
+
+### Rules with Many Examples
+
+```yaml
+topics:
+  - sandhi
+  - vowel-combination
+  - examples
+```
+
+### Rules with Pāṇini References
+
+```yaml
+panini_refs:
+  - "I.1.9"
+  - "VIII.3.58"
+```
+
+Content will have footnotes:
+```markdown
+The rule applies to @deva[सम्][^1] in all positions.
+
+---
+
+[^1]: Pāṇ. VIII. 3. 58: @deva[उभयसर्जनीयप्रत्ययोः | iast>>ubhayasarjanīyapratyayoḥ]
+```
 
 ## Migration from Unstructured
 
-Old extraction created freeform markdown. New schema requires:
-1. Parse existing content
-2. Extract metadata into YAML
-3. Validate against schema
-4. Re-export with proper structure
+For converting earlier extractions to this schema:
+
+1. Parse existing markdown content
+2. Extract YAML metadata from content
+3. Normalize Sanskrit markup to @deva[] and @[] tags
+4. Convert footnotes to numbered format [^N]
+5. Validate against schema
+6. Re-export with proper structure
 
 ## Implementation
 

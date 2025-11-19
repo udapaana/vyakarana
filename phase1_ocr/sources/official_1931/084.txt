@@ -1,35 +1,43 @@
-[Internal page: 64]
-64                    HIGHER SANSKRIT GRAMMAR.                    [ § 109-110
+[Internal page: 84]
+84                    SANSKRIT GRAMMAR.                    [ §
 
-Dual.
-    Nom., voc., and acc.    भगवन्ती        Ins., dat., and abl.    भगवद्भ्याम्
-    Gen. and loc.        भगवतोः
+Neu.
 
-Plural.
-    Nom., voc., and acc.    भगवन्ति        Ins.            भगवद्भिः
-    Dat. and abl.        भगवद्भ्यः        Gen.            भगवताम्
-    Loc.            भगवत्सु or भगवदसु
+N. V. A.    दौः        दोषी        द्वौषि
+The rest like mas.
 
-                FEMININE.
+निशा f. night.
 
-    The feminine of भगवत् is भगवती which is formed by
-adding the taddhita affix ङीष् to the Prātipadika of भगवत्
-( by rules वा० III. 2. 7, Pan. IV. 1. 6 ). It is declined like
-नदी ॥ Similarly the fem. of विद्वत् is विद्वती ( विद्वती स्त्री, a learned
-woman, विद्वता: कन्या a learned girl ); महत् ( great ) makes महती ॥
-    Note.—The word सत् ( existent, good ) does not form its
-fem. in ई , but has the irregular fem. सती which is as if it
-were formed from सत् + ङीष् , the final त् of सत् being changed to
-long ई ( Pan. VI. 4. 64 ), the lengthening not taking place
-when the word signifies 'existent, real' ( Pan. Vart. to VII. 3. 114 ),
-when सन्ती will be the fem. of सत् ॥
+N.  निशा        निशे        निशाः
+V.  निशे        ,,          ,,
+A.  निशाम्       ,,          निशाः-ञः
+I.  निशया-या    निशाभ्याम्, निब्भ्याम्-ड्भ्याम् निशाभिः, निब्भिः
+D.  निशायै-ये    ,,          निशाभ्यः, निब्भ्यः
+Ab. निशायाः-योः   ,,          ,,
+G.      ,,        निशयोः-योः    निशानाम्-नाम्
+L.  निशायां-शि    ,,          निशासु, निब्सु, निः
 
-                Bases ending in न् ॥
+साधु Neu. a summit, a table-land.
 
-§ 110. ( 1 ) Bases ending in न् drop that letter along
-with the nom. sing. affix स्, if there be a short vowel before the
-न् ; if that vowel be long, the dropping is optional ( Pan. VIII.
-2. 7, 23 ); thus राजन् nom. sing. राजा; वरिमन् nom. sing. वरिमा ;
-धनिन् nom. sing. धनी ; मेघिन् nom. sing. मेघी ; पथिन् nom. sing. पन्थाः or
-पथिन् ॥ Similarly in the voc. sing. the dropping is optional
-after long vowel, but necessary after a short vowel; thus राजन्,
+N.  साधु        साधुनी      साधूनि
+V.  साधु-नी     ,,          ,,
+A.  साधु        ,,          साधूनि-न्दूनि
+I.  साधुना-न्दुना  साधुभ्याम्-न्दुभ्याम्  साधुभिः-न्दुभिः
+D.  साधुने-न्दुने  साधुभ्याम्-न्दुभ्याम्  साधुभ्यः-न्दुभ्यः
+Ab. साधुनः-न्दुनः  ,,          ,,
+G.      ,,        साधुनोः-न्दुनोः  साधूनाम्-न्दूनाम्
+L.  साधुनि, न्दुनि ,,          साधुषु-न्दुषु
+
+साधु is also m. declined like युष् with the optional forms
+the Acc. pl. which is सानून्, न्दून्.
+
+The remaining words should be similarly declined according
+to the declensions which their various endings follow :—
+
+पाद् m. a foot.
+
+N.  पादः       पादौ        पादः
+V.  पाद्       ,,          ,,
+A.  पादम्      ,,          पादान्-पदः
+I.  पादेन-पदा   पाद्भ्याम्-पद्भ्याम्  पादैः-पद्भिः
+L.  पादे-पदि    पादयोः-पदोः  पादेषु-पत्सु

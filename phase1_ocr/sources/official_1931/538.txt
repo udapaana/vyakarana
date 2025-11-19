@@ -1,42 +1,42 @@
-[Internal page: 524]
+[Internal page: 538]
 
-526                  SANSKRIT GRAMMAR.                   [ § 939–942
+4                    SANSKRIT GRAMMAR.
 
-ऋदिदुयूनुयूं अायु स्युयूति वा यास्युयूति शीघ्रुयुं बस्युयूयुयूः if a shower were to
-come quickly we would at once sow corn.
+There are many Varieties of this metre; but that in which there
+are eight syllables in a Pāda the fifth being short and no devi-
+ation from these rules occur in the Mahābhārata and Rāmā-
+yaṇa ):—-
 
-§ 940. When the word युयूच् is not used with roots meaning
-'to remember,' such as स्युट्, छुदु, &c, the Second Future is used in
-the sense of the Imperfect; स्युरुयूति छुयूयूयु गोकुलुयूनै यस्युयूयूयूः Kṛishṇa,
-do you remember that we dwelt in Gokula?
+Eg. in the 1st Canto of Rag.
 
-§ 941. * When disbelief in or intolerance of an action is
-intended to be expressed, and especially in the form of a ques-
-tion, the Simple Future is used optionally in the sense of the
-Potential; न तं कुयुयूयूयूमि or न समुयूयुनै भुवुयूरु हरिं निन्युदैत or निनिन्युयूयूति
-I never believe, or cannot tolerate it, that you would or should
-speak ill of Hari; कुः or कुरुः कुतुयुः हुरिं निन्युदैत or निनिन्युयूयूति who
-will speak ill of Hari (I do not believe that any body will,
-&c.); कै दुयूयूनुयुं भुवुयूरु यावुनैदुच् or याज्युयूष्युयूति, &c.; when the word
-किंकुदुयुनुयूनुयुं † (a particle, showing great anger) and roots having the
-sense of 'to be' precede, the Simple Future only should be used;
-स नं तेवुयूरुयूयो भुवुयूरु युयूदुयू रायूयुयूनुनै सुयूयुवुरुयूनुति I do not believe
-or like that you should make a Śudra perform a sacrifice; so
-अतुतुं भुवुयूतै विपुदुयुं वा भुवुयूरु इयुकुनै याज्युयूयूष्युयूति.
+                       ( 2 ) गजगति ( 4. 4. )
 
-§ 942. When the idea of wonder is to be expressed and
-the words युयूच्, युयूनु and युदि do not occur in a sentence, the
-Simple Future should be used; युरुयूदुन्युोऽदुयुन्युोऽपि हरिं युयूयुरुयूति हरिं युयूक्ष्युयूति it is
-a wonder that a blind man sees Hari.
+            Def. नभलगा गजगति. ।
 
-(a) The Simple Future is also used when the particles
-उनु and आपि expressing a doubt are used; उनु दुयूयुयुयुः युतियुयूयूति will
-the stick fall? आपि कुयूयूरुयूनुयूयूति द्युयूरुं will be close the door?
+Scheme of G. न, म, ल, ग. ∪∪∪ | —∪∪ | ∪
+    Ex. रविहतापगितरे विहरतो इति छुरै: ।
+        व्रजवधूरगजगतिद्वुरमलं न्यवेद्युत ॥
 
-(b) This Future is also used when the particle अड्युयू mean-
-ing sure or able is used; अहुयुयुं हुतुयूयु निश्युयूयु Kṛishṇa is sure
-sure or able to kill the elephant.
+                   ( 3 ) प्रमाणिका ( 4. 4. )
 
-* विड्युयूनुनै लिड्युट्युयूटुयुनै। अवुयुड्युयुनुयूयूरुयूयूर्णोकुयूनुयूच्युयूवुयुपि। Pāṇ. III. 3.144,145.
+            Def. प्रमाणिका जरो ढगो ।
 
-† किंकुयूलुयूयुयूयैदुदुदुच् छुयुट् । Pāṇ. III. 3. 146.
+Scheme of G. ज, र, ल, ग. ∪—∪ | —∪— | ∪
+    Ex. पुनातु भक्तिरन्युता सद्गुच्युताप्रियुअयो
+        स्थितिस्त्रातिप्रमाणिका भवद्युरासितातरि ॥
+
+                   ( 4 ) माणवक ( 4. 4. )
+
+            Def. भातलगा माणवकम् ।
+
+Scheme of G. भ, त, ल, ग. —∪∪ | ——∪ | ∪
+    Ex. चंचलचूडं चपलैवतसंकुल: कौलिपरम्
+        ध्यायं सवे स्नेरछुहुसं नन्दसुतं माणवकं ॥
+
+                   ( 5 ) विद्युन्माला ( 4. 4. )
+
+            Def. मो मो गो गो विद्युन्माला ।
+
+Scheme of G. म, म, ग, ग. —∪— | —∪— | —
+    Ex. घासोनद्री विद्युन्माला वसुन्धे गां शाक्त्रभोव:
+        यस्मिन्द्रास्ता तापीहित्तुरै गोमेध्यसय: ढ्रुथं ॥

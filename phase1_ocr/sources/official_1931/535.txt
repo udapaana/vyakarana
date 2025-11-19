@@ -1,42 +1,45 @@
-[Internal page: 521]
+[Internal page: 535]
 
-§ 930–933 ]                SYNTAX.                    523
+§ 1–5 ]                APPENDIX.
 
-his relatives, subdued the collection of six (i. e. the six pas-
-sions), took delight in politics and totally annihilated his
-enemies.' The Aorist, however, properly denotes immediate
-action or one done during the course of the present day. "It
-is similar to the English present Perfect," remarks Dr.
-Bhāṇḍārkar*, "which the student will remember defines an
-action as having happened in a portion of time which is not
-yet expired; it brings past action in connection with the pre-
-sent time," अयुदुयुदुयुरुयु it rained to-day.
+PROSODY. *
 
-§ 931. † The Aorist ought to be used when the idea of the
-continuousness or nearness of an action is to be implied; यावुजीतु-
-त्युयुयूयूयूदुयुयूट् (Sid. Kau.) gave food throughout his life; तेयुनुयुं यायु-
-युयूयुयुकुयूल्युयो तत्युयुयुयूयुनैरुयुयूयूयुर चोनुयूयुत्युयु (Sid. Kāu.) he consecrat-
-ed the fire on the last Paurṇimā (i.e. full-moon day) and
-offered Soma, &c.
+§ 1. ‡ Poetical composition in Sanskrit may be in the
+form of 'युयु' prose, or 'युयू' verse or metrical composition.
 
-§ 932. ‡ With the particle युयुयु not joined with स्युयु, the Aor-
-ist, the Imperfect, the Perfect or the Present may be used;
-युयुयुनुयुयुङुनुयू युयूयुयु यवुयूदुयूरुयूयूदुयूयूर्युयुर्युयुनै। (Sid. Kau.) here formerly
-dwelt pupils. But when यु is used with युयूयु the present alone
-can be used; युयुयूनुनै स्युयु पुयुरु be formerly sacrificed.
+§ 2. Prosody treats of the laws of versification or metri-
+cal composition. Sanskrit verse is regulated by quantity, not
+by accent.
 
-§ 933. The Aorist is used with the prohibitive particle युयू
-(युुयूडु) or युयू स्युयु, with the temporal augment अ cut off, and has
-then the sense of the Imperative; हरिं ते चुन्युयुयुनं युयू युयूदु Me. Bhā V.
-132. 16. have nothing to do with that; similarly युयू नोश्युयुयुङुनुयुः Bhā V
-Rarely in ancient works the augment is retained युयू विरुयूयुदु
-युविनुयुयुनै नयुयूयुयुयुः शुयुयुनुयूदितुयुः समुयुयुः may you not live, oh Nishāda for
-many years. When a root is preceded by a preposition, the
-अ is sometimes not dropped; युयू युयु यवुवुयूयूस्युयुन्युयूयुयुयुः do not submit to
+§ 3. A युयू or stanza consists of four lines each called a
+pāda or quarter. A pāda is regulated either by the number of
+syllables (अक्षुरु) or by the number of syllabic instants (युयूत्रुयू).
 
-* Second Book of Sanskrit, P. 154.
+(a) A syllable is as much of a word as can be uttered
+distinctly by one effort of the voice †. e. a single vowel with
+or without one or more consonants.
 
-† Pāṇ. III. 3. 135. See next Page.
+(b) A mātrā (युयूत्रुयू) is the measure of time required to
+pronounce a short vowel.
 
-‡ युरे छुदुट् चायुस्युदु। Pāṇ III, 2. 122. युरुयूयूयुयूनुयोयुदै युयूयुनुयुयूयूते विमुयूयु-
-यायु छुदुट् चुयुहुदुच् न दु स्युयूनुयुयुदै। Sid. Kau.
+§ 4. A syllable is छुयु 'light,' or युयू 'heavy' according as
+its vowel is short or long.
+
+(a) The vowels अ, इ, दु, कु and लु are short; and the
+vowels आ, ई, ऊ, कू, ए, ओ, औ, and औ are long. ‡ When a short
+vowel is followed by an anusvāra or Visarga or by a conjunct
+consonant, it is converted into what is called 'a prosodially
+long vowel;' as युयू, अच्छुयु, &c.
+
+§ 5. The last syllable of a pāda is either heavy or light
+according as the exigence of the metre requires it, whatever be
+
+* The earliest writer on Prosody is Pingalāchārya His word
+is known as "The Pingalachhandas-śāstra." It is written in
+Sūtras and is divided into eight books. The Agni Purāṇa also
+deals with the subject very fully. The present chapter, however,
+is chiefly based on the Vṛittaratnākāra and Chandomanjari.
+
+† कुयूयूयुनुयुयूयुनै च युयूयूनै च तद्युदुशुयूच्युयु च्युयुयुस्युरुयूनुयूयु । Dandin Kāv. Pr. I.
+
+‡ सुयूदुच्युयूयूयु दोरोयुयूनै निरुयूयूर्णों च दुयूत्युनैदुदुयु ।

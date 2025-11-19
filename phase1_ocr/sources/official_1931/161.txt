@@ -1,17 +1,16 @@
-[Internal page: 143]
-§ 233-234 ]                    PREPOSITIONAL COMPOUNDS.                    143
+[Internal page: 161]
+§ 261-264 ]                    BAHUVRIHI.                    161
 
-(c)*The words सद् and असद् showing respect and disrespect respectively, the prepositions अलं in the sense of 'adorning,' पुरः, अदः अतः, कुपे, भन., अल्तो, अच्छ, and तिरः; as अलंकृत्य 'having adorned', but अलं कृत्वा doing enough (पर्याप्तमिस्यर्थः Sid. Kau); परस्कृत्य 'placing in the front'; अद् छत्य (अद्:छतम्) अन्तहूत्य (मध्ये इत्वा Sid. Kau.); कुपेहूत्य, as कुपेहृत्य पयः पिवति the drinks milk to his heart's content'; अच्छोदुम् 'having gone up to and spoken' (अभिमुखं गत्वा उक्त्वा च इत्यर्थः Sid. Kau.); तिरोंस्य, मनोहृत्य (till disgust is produced); अस्तंभूत्य, अच्छगूत्य 'going towards.'
+§ 261. *The words उरस्, सर्पिस्, डुपानह्, दाधि, मधु, ज्ञालि-ही and धूर्, अनडुह्, पयस्, नौ and लुरुसी when used in the singular, have a क added to them, when they form the latter member of a Bah. comp.; उध्वं (expanded, well-developed) डुरः यस्य उध्वोरस्कः; प्रियसर्पिष्कः 'one fond of ghee', &c. एकः एषाद् यस्य अर्तौ एकाषुर्कः 'having one man only', &c; when धूर् and the words following it are used in the dual and the plural they take क optionally. द्विड्माद् or द्विड्मकः &c.
 
-(d)†The words हस्ते, पाणौ and प्राप्त; as हस्तेछत्य, पाणोछत्य, 'having married'; प्राप्तेंछत्य 'having forced to yield.'
+(a) अर्थ takes the final क, necessarily when preceded by अन् and optionally in any other case; अनर्थकः 'useless'; but अपृथंयर्थं 'meaningless' वच.
 
-(e)‡The particles उपाजे, अन्वाजे, साक्षाद्, मिथ्या, अमा, प्राडु:, आवि. and नमस्, the words मनसि, उरसि, (except when there is the sense of juxtaposition or extreme contact), मध्ये, and the word पदै form compounds with verbal indeclinables optionally; उपाजेछत्य, उपाजे कृत्वा, अन्वाजेछत्य अन्वाजे छत्वा 'giving strength to the weak' [द्वलस्य वलमाधाय इत्यर्थं. Sid. Kau]; साक्षादृत्य-त्वा, लवणोछत्य-त्वा, उरसिछत्य-त्वा (having accepted) मनसिछत्य-छत्वा; but उरसि छत्वा पाणिं शेते, मध्येछत्य-त्वा, पदैछत्य, पदे छत्वा, &c.
+§ 262. † A fem. Bah. ending in हन् takes this क necessarily; as बहुरेणीङका नगरी 'a city having many ascetics', बहुवागिमका सभा 'an assembly having many eloquent speakers in it'; but बहुमुणीङको ग्रामः (vide § 263 below), as it is mas.
 
-(f) These compounds are also formed with nouns derived from roots for their second members; e. g. अस्तमयः 'setting of the sun,' पुरस्कारः 'reception, showing respect,' तिरस्कारः, संस्कारः; अलंकारितः, &c.
+§ 263. ‡ And as a general rule, when the final word of a Bah. comp. does not undergo any additions or alterations mentioned in the foregoing rules, it optionally takes the affix क. महायशस्कः-महायशाः 'of mighty glory'; but उत्तरपूर्वं, व्याघ्रपाद्, डुगन्धिः &c.
 
-§ 234. The स्वि formations (see Chap. XI.) are also classed as prepositional Tatpurusha compounds; as शुडींछत्य having turned white what was not so before.
+§ 264. But if the last word of a Bah. compound be a fem. noun ending in ई or ऊ not capable of being changed into इय or उव before the vowel case termination, or if it ends in ङ, क is necessarily affixed; ईश्वरः कर्त्र यस्य तद् ईश्वरकर्तृकं जगत्, बहुनदीको देशः, रूपवती वधू यस्य स रूपवद्धूकः, &c.; but सुधी: स्त्री is an exception; बहुस्त्रीकः, सस्त्रीकः &c.
 
-
-* Pān. I. 4. 63-71.
-† Pān. I. 4. 77-78.
-‡ Pān. I. 4. 73-76. (अनस्याधान उरसिमनसौ ।).
+* उरःप्रभृतिभ्यः कप् । Pān. V. 4. 151. इह उमान्, अनङुान्, पयः, नौ-लुशौरीति एकवचनेऽन्ताति पठ्यन्ते । द्विवच्चनागतेभ्यसूं 'शौषाङ्भाषा' इति विकल्पैन कप् । Sid. Kau. × अर्थाऽनत्त्रः । Vārtika.
+† इनः स्त्रियाम् । Pān. V. 4. 152.
+‡ शेषाद्विभाषा । Pān. V. 4 154.

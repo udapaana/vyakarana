@@ -1,18 +1,23 @@
-[Internal page: 129]
-§ 215-216 ]                    COMPOUNDS.                    129
+[Internal page: 147]
+§ 240-241 ]                    TATPURUSHA COMPOUNDS.                    147
 
-(e)* When a word ending in इक is compounded with another and there is the relation by blood or some kind of learning, the aluk is necessary; and optional when it is followed by स्वसृ and वत्ति. The initial सु of स्वसृ is optionally changed to स when preceded by मातुर् or पितृ and when there is aluk, and necessarily when there is no aluk in a compound; e. g. होतुःस्वसा, होतृरत्तेवासौ, a pupil of the hotri; मातुःस्वसा, or मातु.ब्वसा and मातुश्यसा; so पितुःस्वसा, &c. (but मातुः स्वसा, पितुः स्वसा when uncompounded); स्वसुपति: or स्वसु.पति:; but होतृभनम्.
+षरमगवः an excellent bull, पञ्चगाव:–(a collection of five cows) धनं; but द्विगुः exchanged or bartered for two cows.
 
-§ 216. A noun in the Locative is compounded—
+(b)* उरसु meaning 'chief or eminent'. अश्वानां उर इव अश्वोरसम् 'the chief of horses i. e. an excellent horse.'
 
-(a)†with शौण्ड, धर्तं, कितव a rogue, प्रशीण, संसीत adorned, invested with, अन्तर, आवि, वद्, प्रणीत, कुशल, चल, निपुण, सिद्ध, गुष्ट, पक्व, and बन्ध्य; as अक्षेषु शौण्डः अक्षशौण्डः skilled in dice; ईश्वरे भक्ति ईश्वरभक्तिः dependent on God (when compounded the affix इन i. e. इन is compulsory; so the compounded form is always with अभीन); आतपञुष्कः dried in the sun; स्थालीपक्वः cooked in a pot; चक्रबन्ध्यः a kind of poetic composition; &c.
+(c)† The words अनसु अदसर्, अयसु and सरसु when they denote a class or form names; उपगतसम् (उपगतं अनः) 'a cart-load,' महानसः 'a kitchen'; अष्टतासम् 'a kind of stone like the moonstone' [in this case the final अन् is dropped]; कालायसम् 'black iron', मणुकसरसम् 'a lake full of frogs'; जलसरसम् 'a lake of that name'
 
-(b)‡ with words meaning a 'crow' when contempt is implied; तीर्थे स्वाइङ्घ इव तीर्थैस्वाइङ्घः said in contempt of one who is very greedy; so तीर्थैकाकः; similarly मगरकाकः:—वायसः &c. &c.
+(d)‡ नौ at the end of a Dwigu, except when the Tad. affix is dropped), as द्वाभ्यां नौभ्यामागतः द्विनावाह्यः (when the aff. is not dropped), द्विनावम् 'a collection of two boats', so त्रिनावम् &c; but पञ्चाभिः नौभिः क्रीतः पञ्चनौः, also when it is preceded by अर्ध; as नावः अर्धेन अर्धेनावम् the neuter is irregular (लौकात् Sid. Kau).
 
-There are a few Loc. Tat. compounds given in the list परमेसमितादि having a similar sense; e. g. कुपे मण्डूक इव कुपमण्डूकः a well-abiding frog i. e. one who knows nothing of the world
+(e)§ खारी (a measure of corn) under similar circumstances takes the अ optionally, the final इ being dropped before it; द्विखारस्-रिः अर्धेखारम्-रि.
 
-* ऋतो विद्यायोनिसम्बन्धैभेध्यः । विभागा स्वसुरभ्यौः Pān. VI 3. 28. 24,
-मातुःपितृभ्यांस्वसाः स्वसा । मातृपितृभ्यां स्वसा । Pān. VIII. 3. 84, 85.
-† समर्थं शौण्डैः । सिद्धञुष्कपक्वबन्धेश्रः । Pān. II. 1. 40, 41.
-‡ स्वाइंक्षेण क्षेत्रे । पानेसमितादिमश्रं । Pān. II. 1. 42, 43. चकातौ-एषारणाधे । तेनेषां समासान्तरे षट्कर्थां प्रवेशो न । Sid. Kāu.
-H. S. G. 9.
+(f)+ अञ्जलि, preceded by द्वि or त्रि in a Dwigu, optionally takes अ, except when the Tad. aff. is dropped, before which the final इ is dropped; द्वयञ्जलं-लिः 'two handfuls': but द्वाभ्यामञ्ज-लिभ्यां क्रीतः द्वयञ्जलिः ।
+
+§ 241. ††The न of ब्रह्मन् is optionally dropped when preced-
+
+* अङ्ग्रास्थाणाष्टरसः । Pān. V 4. 93.
+† अनोदमयः सर्सां जातिसञ्ज्ञयोः । Pān. V. 4. 94
+‡ नावो द्विगौं । अर्धोच Pān. V. 4. 99. 100.
+§ खारीं. प्राच्याम् । Pān. V. 4. 101.
++ द्विनिभेणामञ्जलेः । Pān V. 4. 102.
+†† ब्रह्मणो जानपदाख्यायाम् । कुमहन्द्रुयामन्यतरस्याम् । Pān. V. 4.

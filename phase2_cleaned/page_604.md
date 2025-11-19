@@ -1,0 +1,52 @@
+---
+page_number: 604
+internal_page: 604
+chapter: "Appendix II - Dhātukośa"
+section: "dhātukośa"
+rules_starting: []
+rules_continuing: []
+has_footnotes: false
+---
+
+कार-चक्रै, &c. perf. चितयिता p. fut. अचिचितत-न aor. चित्युयात्
+   & चितयीष्ट ben, Pass-चित्युतै pre. अचेति aor. चितित p. p.
+   चितित्वा ger.
+
+चित् 6 P. दर्शनै to put on clothes, to dress, चितति pre. चिचेल
+   perf. चितिता p. fut. अचैटीत aor.
+
+चिट्ट् 1 P. शैथिल्युै to become loose; चिट्टुति pre, चिचिट्ट perf.
+   चिट्टिता p. fut. अचिट्टीत aor. चिट्टित p. p.
+
+चीक् 10 U. 1 P. आमर्षणै to suffer; चीकयति-तै, चीकति pre. चीक-
+   याञ्चुकार-चक्रै, चिचीक perf. अजीचिकत-न, अजीकीत aor.
+
+चीष् 1 A. कल्युनै to boast; चीषतै pre, चिचीषै perf. चीषिता p. fut.
+   अचीषिष्टु aor.
+
+चीव् 1 U. आदानपंसरणयो: to take. to cover; चीवुति-तै pre, चिचीव-
+   च perf. चीविता p. fut. अचीवीत & अजीविष्टु aor.
+
+चीष् 10 U. मार्षुयाय दीप्तौ च to speak, to shine; चीषयत-न pre.
+
+चुच्य् 1 P. अभिषवै to bathe; चुच्युति pre. चुचुच्यु perf. चुच्युिष्युयुति
+   fut. अचुच्युषीत Aor.
+
+चुट् 6 P. छैदनै ( कुत्साद् ) to cut; चुटुति pre, चुचोट perf. चुटिता p.
+   fut. अचुटीत aor.
+
+चुड् 6 P. संकोचनै ( कुत्साद् ) to conceal; चुडति pre, चुचोड perf.
+   चुडिता p. fut. अचुडीत aor.
+
+चुण्ट् 10 U. 1 P. छैदनै to cut; चुण्टुयति-तै, चुण्टति pre. अजुचुण्टुत-न,
+   अचुण्टीत Aor.
+
+चुद् 10 U. क्षैन्दिनुं to direct, to throw; चोदयति-तै pre. चोदयाञ्च-
+   कार-चक्रै &c. perf- चोदयिता p. fut. चोदयिष्युयुति-तै fut. अचोदु-
+   यिष्युयत-न con, अजुचुदत-न aor. चुचोदयिषति-तै des चोदित p. p.
+
+चुर् 1 P. भन्दुायां गतौ to move slowly; चोरति pre. चुचोर perf.
+   चोरिता P. fut. अचोरीत aor. चुच-चोरिषति des.
+
+चुम्ब् 1 P. चुन्वुर्षैणै to kiss; चुम्बति pre. चुचुम्ब perf. चुम्बिता p.
+   fut. अचुम्बीत aor. चुचुम्बिषति des. चुम्बित p. p.

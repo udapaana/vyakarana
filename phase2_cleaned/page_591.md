@@ -1,0 +1,55 @@
+---
+page_number: 591
+internal_page: 591
+chapter: "Appendix II - Dhātukośa"
+section: "dhātukośa"
+rules_starting: []
+rules_continuing: []
+has_footnotes: false
+---
+
+खष् 1 P. हिंसायाम to kill; खषति pre.
+
+खाद् 1 P. भक्षणै to eat, to devour, खादति pre. चखाद perf. खादिता
+   p. fut. खादिष्युयति fut. अखादिष्युयत् con. अखादीत aor खाद्युयात्
+   Ben, खादित p p.
+
+खिद् 6 P. परितापै परितोषै च to strike, to afflict; खिन्दुति pre. चिखेद
+   perf खेत्तुं p. fut. खेत्स्युयति fut, अखैत्स्युयत् con, अखैत्सीत् aor.
+   चिखित्सति des. खिन्न p.p
+
+खिद् 4 & 7 A. दैन्युै to be depressed, to suffer pain or misery;
+   खिद्युतै & खिन्तै pre. चिखेदै perf खेत्तुं p. fut. खेत्स्युतै fut. अखैत्स्त
+   aor. खिन्न p.p.
+
+खिल् 6 P. उञ्छैै to glean; खिलति pre.
+
+खुर् 1 P. स्तैयकर्णै to steal; खोजुति pre. खुर p p.
+
+खुर् 6 P. छैदनै to cut, खुरति pre. अखोरीत aor.
+
+खुर्द् 1 A. क्रीडायाम to sport; खुर्दुतै pre.
+
+खेल् 1 P. चलनै to shake, to move to and fro; खेलति pre. चिखेल
+   perf. खेलिता p. fut. खेलिष्युयति fut. अखेलिष्युयत् con अखेलीत
+   aor. Cau.—खेलयति pre. अचिखेलत-न aor. चिखेलिषति des.
+
+खेला—निलक्रै to sport, खेलायति pre. खेलायाचकार &c. perf. खेला
+   युता p. f. अचिखेलात-न aor.
+
+खेव् 1 A. सेवनै to serve; खेवतै pre. चिखेवै perf. खेविष्युयतै fut. अखेविष्टु
+   Aor. Cau.—खेवयति—तै.
+
+खै 1 P. खैदनै to strike &c; खायति pre. खाय्युयति fut. अखायीत Aor.
+
+खोर् 1 P गतिप्राणनाते to limp; खोरति pre. अखोरीत Aor.
+
+ख्या 2 P. प्रकथनै to relate, to tell; ख्युाति pre, अख्युात्, अख्युा:
+   3rd pl. Imperf ख्याति p. p. This is conjugated in the
+   Conju. tenses only, According to the Nyāsākāra this is not
+   used with the prep, प्र.
+
+                      ग.
+
+गड् 1 P. शब्दै भर्तै च to roar, to be drunk; गडति pre. जगाड perf.
+   गडिता p. fut. अगडीत, अगाडीत Aor.

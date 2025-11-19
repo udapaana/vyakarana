@@ -1,38 +1,43 @@
-[Internal page: 514]
+[Internal page: 528]
 
-516                  SANSKRIT GRAMMAR.                   [ § 911–912
+530                  SANSKRIT GRAMMAR.                   [ § 954–958
 
-time, and completeness or incompleteness in the progress of
-the action. The Sanskrit infinitive, on the other hand, can
-never be made the subject of a verb, admits of no Accusative
-before it, and can only express indefiniteness time and incom-
-plete action. Wherever it occurs, it must be considered as the
-object, and never the subject of some verb expressed or under-
-stood. As the object of the verb, it may be regarded as
-equivalent to a verbal substantive, in which the force of two
-cases, an Accusative and Dative, is inherent and which
-differs from other substantives in its power of governing a case.
-Its use as a substantive, with the force of the Accusative case,
-corresponds to our use of the Latin infinitive; thus तवु युयु आदुङु
-युयुयुयुयु is I desire to hear thou that, तत्तुयु यात्युयु; where yuस्युयु युयु आदुट्
-and audive are both equivalent to Accusative. Similarly, रोदितुयूदु
-युदुरुयुयु 'she began to weep,' and यहुयो जोतुदुयु आयुयुनै, he began to conquer
-the earth, where मुहोजुयुयुनै भुयूयुनै, he began the conquest of the earth,
-would be equally correct.''
+§ 954. * With interrogative words such as किंयु, कुतुरु, कुयुयु, &c.
+the Potential or the Simple Future may be used when censure
+is implied (see § 937); कुः कुतुरो वा हुरिं निन्युदेत् निनिन्युयूयूति वा।
 
-(b) "Bopp considers the termination of the infinitive to be
-the Accusative of the suffix tu (§ 453, Obs.), and it is certain
-that in the veda other cases of nouns formed with this suffix in
-the sense of the infinitive occur; e.g. a Dative in tave, havai, se
-from han comes hantave 'to kill;' fr, anu-i entease, 'to follow;'
-fr, man, mantavai, 'to think;' there is also a form in tos generally
-in the sense of an Ablative; e.g. fr. i, comes stos 'from going;'
-ir, han, hantos, 'from killing,' 'before killing;' and a form in
-tsi corresponding to the indeclinable participle in tvā of the
-classical languages; e.g. fr. han, hatsi 'killing,' fr. bhā bhātsi
-'being,' &c &c," Sanskrit Grammar.
+(a) When wonder is implied the simple Future is used in
+preference to the Potential if the word यदि be not used; आश्युयुयुर्युनै
+अन्युयूयुः नारं दुयुच्युयुनुयूं दुयुच्युयुयूति it is e wonder that a blind man should see
+Hari; but अयुश्युयुयुयूर्युनं यदि निन्युदेत् it is wonder if he should.
 
-§ 912. The infinitive cannot be used as the subject or object
-of a verb, abstract nouns supplying its place in this case.
-Where, therefore, the infinitive occurs in English as the subject
-or the object in a sentence, the abstract noun derived from the
+§ 955. † When hope is expressed without the use of the
+word कुवितु the potential is generally used; कुयूयूयुयुं युनै युयुवुजीत भुवुयुरु
+it is my desire (I hope) that it should grow; but कुविदु युयुवुजीति (I
+hope he lives.
+
+§ 956. ‡ When the sense of 'I expect' is impuded, the
+Potential or the 2nd Future may be used provided the word युयूच्
+is not used; संभुवुयुयूयूति युयुवुनीत भोक्तुरुनै वा भुवुयुरु I expect you will
+eat; but संभुवुयुयूमि युयुदुयु प्रोयुयोरुस्युयुयुयु (Sid. Kau).
+
+§ 957. ¶ When in a conditional sentence one thing is expressed
+as depending upon another as effect upon a cause, the Potential
+or the Simple Future may be used; छुयूयुयुं युयुनिस्युयुयुदुयुनं यायुयूयुट्
+it he will sow he Kṛishṇa he will attain happiness; so युयुयूयुयूर्णों
+नैयुयूति चैहुसुयूनं यास्युयूति.
+
+§ 958. § When words having the sense of 'to wish,' such as
+इयु, वयुरु, &c. are used, the Potential or Imperative is used
+इच्छुयूमि युयुयूयुच्युयूजीत or युयुकुयूयू I wish you should dine; इच्छुयूमि रोषुनुयूं
+
+* किंच्युयुरु (गहुर्यो) लिड्युच्छुदुयूनै। Pāṇ. III. 3. 144, (विज्ञोकुयूयूयूनै) युौयुनै
+संङुयूयुयूनै। Pāṇ III 3. 151.
+
+† कुयूयूयुयूनैदुयुनैनं कोऽजीवि। Pāṇ. III 3. 153.
+
+‡ विभुषुयु यातो संभुवुयुनुच्युनैरुयूदुयूयूति । Pāṇ. III. 3. 155.
+
+¶ इच्युदोयूदुयूयूनुयोलिङुच् । Pāṇ. III. 3. 156.
+
+§ इच्छुयूयूयुयुदुदु लिट्युट्युयोटुयूनै । लिङु च । Pāṇ III. 3. 157. 159.

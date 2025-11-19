@@ -1,12 +1,7 @@
 {
-  "text": "",
-  "model": "claude-code-interactive",
-  "usage": {
-    "input_tokens": 0,
-    "output_tokens": 0
-  },
-  "timestamp": "2025-11-01",
+  "page_number": "008",
   "source": "official_1931",
-  "page": 2,
-  "notes": "Blank page"
+  "content_type": "contents",
+  "ocr_method": "claude_interactive",
+  "timestamp": "2025-11-01"
 }

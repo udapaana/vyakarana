@@ -1,47 +1,43 @@
-[Internal page: 647]
+[Internal page: 661]
 
-                     DHĀTUKOŚA.                               85
+                     DHĀTUKOŚA.                               99
 
-बल् 10 U. प्राणनै to breathe; बलुयति-तै pre.
+मुद् 10 U. संचूर्णनै to pound, to break; मोदुयाति-तै pre. अमुमुदत-न
+   aor.
 
-बस् 4 P. स्तम्भै to stop; बस्युति pre. बसास perf. बसिता p. fut.
-   अबसत् aor.
+मुण्ठ् 1 P मर्दनै to crush, to grind; मुण्ठुति pre. मुमुण्ठ perf. मुण्ठिता
+   p. fut. अमुण्ठीत aor.
 
-बाड् 1 A. सैचनै to bathe, to dive; बाडतै pre. बबाडै perf. अबा-
-   डिष्टु Aor.
+मुण्ठ् 1 A. पलायनै पघायनै सु to protest, to run away; मुण्ठुतै pre. मुमुण्ठै
+   perf. मुण्ठिता p. fut. अमुण्ठिष्टु aor. मुण्ठिषीष्ट ben. Pass. मुण्ठुयतै pre.
 
-बाध् 1 A. लोडनै to oppress, to torment; बाधतै pre. बिबाधै perf.
-   बाधिता p. fut. बाधिष्युयुतै fut. अबाधिष्युयत् con. अबाधिष्टु aor.
-   Cau.—बाधुयाति-तै pre. अबबाधत-न aor. Pass.—बाध्युतै pre,
-   अबाधि aor. बाधित p. p. बाधित्वा ger. बाधितुं inf.
+मुण्ड् 1 P. क्षौरणै to shave, to grind; मुण्डुति prf. मुमुण्ड perf. मुण्डिता
+   p. fut. अमुण्डीत aor. मुमुण्डिषति des. Cau.—मुण्डुयाति-तै pre.
 
-बिंद् 1 P. आक्रोशै to swear, to curse, to shout; बंदुति pre. बिबिंद
-   perf. बंदिता p. fut. अबंदीत aor.
+मुण्ड् 1 A. मज्जनै मज्जनै सु to sink; मुण्डुतै pre. मुमुण्डै perf मुण्डिता
+   p. fut अमुण्डीत aor.
 
-बिन्द् 1 P. अवयवै to split, to divide; बिन्दुति pre. बिबिन्द perf.
-   बिन्दिता p. fut.
+मुश् 6 P. प्रतिज्ञानै to promise, मुशुति pre, मुशोष perf. मोशिता p.
+   fut. अमोषीत aor.
 
-बिल् 6 P. भेदनै to break; बिलुति pre. बिबिल perf. बैलिता p. fut.
-   अबैलीत aor. 10 U. बैलुयति-तै pre, &c.
+मुद् 1 A. हर्षै to rejoice, to be glad; मुदुतै pre मुमुदै perf. मोदिता
+   p. fut. मोदिष्युयुतै fut. अमोदिष्टु aor. मोदिषीष्ट ben. मुमुदिषतै,
+   मुमोदिषतै des. मुदित, मोदित p p.
 
-बिस् 4 P. क्षैपै प्रेरणै च to throw, to instigate, to go; बिस्युति pre.
-   बिबेस perf. बैसिष्युयुति fut. अबैसत् Aor.
+मुद् 10 U. संसर्गै to mix, to blend, to purify; मोदुयाति-तै pre. मोदुया-
+   चकार-चक्रै perf. मोदुयिता p. fut. अमुमुदत-न aor.
 
-बुक्क् 1 P. & 10 U. भाषणै to bark, to speak; बुक्कुति, बुक्कुयति-तै pre.
-   &c. बबुक्क, बुक्कुयाञ्चक्रै perf.
+मुष् 6 P. संवैष्टनै to cover; मुषुति pre. मुमोष perf. अमोषीत aor.
 
-बुध् 1 U. बोधनै to know, to mark, to esteem; बोधुति-तै pre.
-   बुबोध, बुबुधै perf. बोधिता p. fut. बोधिष्युयुति-तै fut. अबोधिष्युयत-न
-   con. अबुध्युत्, अबोधीत, अबोधिष्टु aor. Cau.—बोधयाति-तै pre.
-   अबुबुधत-न aor. बुबुधिषति-तै, बुबोधिषति-तै des. Pass.—बुध्युतै
-   pre. अबोधि aor. बुधित p p. बुद्धित्वा, बोधित्वा ger.
+मुच्छु 1 P मोहमूष्युच्छुरापयो: to faint, to become senseless, to grow,
+   to prevail, to be match for; मूच्छुति pre. मुमुच्छु perf. मूर्च्छुिता
+   p. fut. अमूच्छुीत aor. मूच्छुयात् ben. Cau —मूच्छुयाति-तै pre. अमु-
+   मूच्छुत-न aor. मुमुच्छुुयिषति des. मूर्च्छुित, मून p p.
 
-बुध् 4 A. to know, to understand; बुध्युतै pre. बुबुधै perf. बोत्ता
-   p. fut. बोत्स्युयुतै fut. अबुध्युयत् con. अबुत्तु, अबोधि aor. बुत्सीष्ट
-   ben. बुबुत्सतै des. Pass.—बुध्युतै pre. Cau.—बोधयाति-तै pre. बुद्ध
-   p. p. बुद्धुवा ger. बोद्धुं inf.
+मुद् 1 P. बन्धनै to bind, to tie; मुदुति pre. मुमुद perf. मुदिता p. fut.
+   अमुदीत aor.
 
-बुल् 10 U. to sink, to plunge; बोलुयति-तै pre. बोलुयाचकार-चक्रै
-   perf. बोलयिता p. fut.
+मुल् See मुद्.
 
-बुष् 4 P. to discharge, to emit; बुष्युति pre. बुबोष perf.
+मुस् 9 P. स्तैयै to steal, to carry off; मुष्णाति pre. मुष्णाण 2nd sing.
+   Impers. मुमोष perf. मोषिता p. fut. मोषिष्युयुति fut. अमोषीत

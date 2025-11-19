@@ -1,20 +1,8 @@
-[Internal page: 182]
-182                                     SANSKRIT GRAMMAR.                         [ § 307
+[Internal page: 196]
+SANSKRIT GRAMMAR.                                                  [ § 340
 
-termination ) the preceding अ is changed to इ ; साबिका, कारिका, &c; the words मानुष, नरक, and those ending in the Tad affix त्य with क suffixed to it, changed their अ to इ similarly; मानिका, नराद् क्रायति calls out to इति नरिका, द्राक्षणास्पिका, इहत्यिका a woman of this place.
+&c. (2) ' the descendant of'; as उत्तस्य गोत्राप्रत्यं पुमान् औत्तसं औत्तसः ' a descendant of Utsa', उत्तस्य गोत्राप्रत्यं स्त्रौ औत्तसों 'a female descendant of Utsa', ( vide § 311. 318 ); ( 3 ) ' dyed with,' हरिञ्यया रक्तं हारित्यं वस्त्रनं ' a garment dyed with turmeric'; (4) ' made of,' देवदारोसिखैकारः देवदारद्‌: 'made of the fir tree;' (5) 'belonging to,' &c ; देवस्य अर्थं देवं ' belonging to a god,' शाकेराया इदं शाकेरं ' of sand': ऊर्णोया इदं और्णं वस्त्रं 'a woolen garment,' ग्रेष्मः 'belonging to the sultry season'; नेश्रः 'nocturnal;' संवत्सरः 'yearly' &c.; when added to हेमन्त the final त is dropped, हैमनः 'autumnal,' ( vide Sas. VI. 65; Kir. XVII. 12 ). हेमन्तः means ' agreeable in the autumnal season;' (6) 'lord of'; पुथिव्या ईश्वरः पार्थिवः 'the lord of the earth'; पञ्चालानां रखामो पाञ्चालः 'the king of the Panchālas'; ऐक्ष्वाकुः* 'the king of the Ikshvāku race', (7) 'a collection of'; काकानां समूहः काकः 'a flock of cranes'; similarly मायूरं from मयूर ' a peacock ', कापोतं from कपोत ' a pigeon', भिक्षुणां समूहो भैक्षम्; गार्भेणिनां समूहो गार्भेणिम् &c. ( 8 ) ' knowing or studying'; व्याकरणे अधीते वेद वा वैयाकरणः 'one who studies grammar, grammarian', &c. (9) and to form abstract nouns; मनैः भावः मौनं 'silence', युवन् मौवनं 'youth;' सुहृद्-सौहार्दं ' friendship'; पृथुः-पार्थूव्यं ' greatness, width,' &c.
 
-Exceptions:—*The अ is not changed to इ when the क is added to the pronouns यद्‌ and तद्‌, or when it is a part of the Tad. affix त्यका, or when there is a compound, or when there is a word included in the Kshipaka group † ( क्षिपकरण ); as यका, सका, अभिमयका: ' a tableland ', उपत्यका ' the land at the foot of a mountain ', बहुपरिव्राजको नगरी, क्षिपका, धुर्बका, कन्यका, &c.
+— forms derivatives with various significations:—(1) उष्ट-रभवः औष्ट्रकः 'produced from or relating to a camel,' गौष्मै भवः गौष्मकः 'produced in the hot season,' ( 2 ) कुलालेन छत्तं कौलालकं ' made by a potter,' ब्रह्मणा कृतं ब्राह्मकैं 'made by Brahman,' ( 3 ) आरण्यकः 'a forester,' ' a wild
 
-( b ) ‡ अ is optionally changed to इ in the following cases.—
-
-( 1 ) तारका ' a star', तारिका ' able to protect ', वर्णका ' a cloak, a garment,' वर्णिका ( in other cases ), वत्क-वत्त्का शङ्कुनो प्राचाद् उद्रीचां च वर्तिका; अटका ' kind of Shrāddha,' अष्टिका ( in other cases ).
-
-( 2 ) सूतिका-सूतका, a woman recently delivered; सुत्रिका or सुप्रका, इन्द्राड्का or इन्द्रारिका, a goddess.
-
-( 3 ) when the क follows upon the fem. termination आ shortened to अ and is preceded by य or क; as आर्यां+क=आर्यक+आ=आर्यिका or आर्यका; चटका+क-चटकक+आ=चटकिका or चटकका &c. but संकाचये महा सांकादिमका, अदिका, धुमैभयानि धुमैभया; अज्ञाता धुमैभया: धुमैभयिका.
-
-* न यास्मौ । Pān. VII. 3. 45. स्वकनभ्र निषेधः । क्षिपकादीनां च । Vārtikas.
-
-† The following words are included in the क्षिपकरण:—क्षिपकु ' an archer.' धुत्रक, चरकु ' a spy,' सेवक, करकु ' a kind of bird, hail,' चटक; अबक ' a kind of plant,' इटुक, अलक, कन्यका, and पट्टक.
-
-‡ तारका ज्योतिषि । वर्णका तान्तवे । वत्त्का शङ्कुनो प्राचादि । सूतिकासु-निकासन्दाकाणां वेति वत्कब्यम् । Vārtika. सुत्रिचामातः स्थाने यकपुवियाः Pān. VII. 3. 46. यात्मन्तयकोरस्तु निषेयम् । Vārtika.
+* For the declension of such words vide § 74. a , b.

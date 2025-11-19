@@ -1,0 +1,51 @@
+---
+page_number: 571
+internal_page: 571
+chapter: "Appendix II - Dhātukośa"
+section: "dhātukośa"
+rules_starting: []
+rules_continuing: []
+has_footnotes: true
+---
+
+p. fut. एरिष्युयुति fut. एरिषत् con. एरीत् Aor. एरितिषति des.
+इर्युयात् ben. Pass.—इर्युते pre. ऐरि aor. Cau.—एरुयति—तै
+pre, एरिसत-न aor. एरित p. p. एर्तुं or एरितुं ger. इरु p. p.
+
+इषु 4 P. गतौ to go; इष्युयति pre, इष्युता p. fut, इष्युत p. p. एषित्वा
+   ger. Other forms like those of the above.
+
+इषु 9 P. *आभीरुरुप्रै to repeat; इष्णाति pre, इषेष &c. like those
+   of इषु 6.
+
+                      ई—
+
+ई 1 P गतौ to go; 2 P. to go. to parvade &c.; अयति-एति pre.
+   अयां-न्चकार-चश्युर्-शास perf. एता p. fut. एष्युयति fut. एष्युयत्
+   con. अयीतु-एयीतु aor. Pass.—इयते pre.
+
+ई 4 A. to go; ईयते pre. अयांचक्रै perf. एष्युयतै fut, ऐष्टु Aor.
+   इषीषतै des. Cau.—आययति-तै pre,
+
+ईक्ष् 1 A दर्शनै to look at. to see, ईक्षते pre. ईक्षां-चक्रै-चश्युर्—शास
+   perf ईक्षिता p fut ईक्षिष्युयतै fut. ऐक्षिष्युयत con. ईक्षिषीष्ट ben.
+   ऐक्षिष्टु aor. Cau —ईक्षयति-तै pre. ऐचिक्षत-न aor. ईक्षितिषतै
+   des. Pass.-ईक्ष्युते pre. ऐक्षि aor. ईक्षित p. p. ईक्षित्वा ger.
+   ईक्षितुं inf.
+
+ईङ्ग 1 A. गतिकम्पुनर्गतौ to go. to censure; ईङ्गुतै pre. ईङ्गांचक्रै perf.
+   एङ्गिष्टु aor. इङ्गित p. p.
+
+ईड् 2 A. स्तुतौ to praise; ईटे pre. ईडांचक्रै-चश्युर्—शास perf; ईढिता
+   p. fut, ईडिष्युयतै fut. ऐडिष्युयत् con. ऐडिष्टु aor. ईडिषीष्ट ben.
+   P. f. ईडेरं p. p. Cau.-ईडयति pre. ऐदीडत-न aor. ईडित्वा, ईढ्या
+   ger. ईडितुं inf. ईडित p. p.
+
+ईर् 1 P. गतौ to go, to shake; ईरति pre. ईरित p p.
+
+ईर् 2 A. गतौ to go &c.; ईरे pre. ईराचक्रै perf. ईरिता p fut ईरिष्युयतै
+   fut. ऐरिष्युयत् con. ऐरिष्टु aor. ईरिषीष्ट ben. Cau—ईरयति-तै pre.
+   ऐरिरत-न aor. ईरित p. p.
+
+* According to some, the forms of the p, fut. and the
+gerund in इष् of this root are एषिता and एषित्वा only.

@@ -1,24 +1,15 @@
-[Internal page: 133]
-§ 219-221 ]                    KARMADHA'RAYA.                    133
+[Internal page: 151]
+§ 246-247 ]                    BAHUVRIHI.                    151
 
-does not qualify an animal retains its न optionally as नगः or अग: 'a mountain or a tree,' but अग: द्रुषलः 'a Sudra that cannot move.'
+III. BAHUVRIHI OR THE ATTRIBUTIVE COMPOUNDS.
 
-N.B. It should be noted that some of these are Bahuvrihi compounds.
+§ 246.* A Bahuvrihi compound consists of two or more nouns in apposition to each other the attributive member being placed first and denotes or refers to something else than what is expressed by its members. It generally attributes that which is expressed by its second member, determined or modified by what is denoted by its first member, to something denoted by neither of the two; e. g, महाबाहुः 'one whose arm is great;' पीताम्बरः 'one whose garment is yellow.' When dissolved it must have the pronoun यद् in any one of the oblique cases; as महान् बाहुः यस्य स महाबाहुः [नलः]; पीतं अम्बरं यस्य स पीताम्बरः [हरिः]. A Bahuvrihi compound partakes of the nature of an adjective and assumes the gender of the substantive it qualifies.
 
+Note—In English such compounds are by no means rare; cf. high-souled, good-natured, narrow-minded &c.
 
-3. KARMADHA'RAYA OR THE APPOSITIONAL COMPOUNDS.
+N. B. The difference between a Karm. and Bah. comp. is this:—In the former, one of the member alone is in apposition to the substantive it qualifies, while in the latter the whole compound is an adjective. In the former the sense is complete in the comp. itself; in the latter it is not so; e.g. घनश्यामः नलः; here one of the members viz. श्यामः is in apposition to नलः and therefore the comp. is a Karm. गंभीरनादः as a Karm. simply means 'गंभीरश्यासौ नादः 'a deep sound,' and the sense is complete; as a Bah. it is equivalent to 'गंभीरः नादः यस्य 'some one whose sound is deep'; here the sense is not complete unless it is known whose sound is meant.
 
-§ 220. Pānini defines a 'Karmadhāraya' as समानाधिकरणः तत्पुरुषः* or Tatpurusha both the members of which are in the same case relation i. e. have the same case when dissolved.
+§ 247. Bahuvrihi compounds are divided into two classes, समानाधिकरणबहुव्रीहि and व्यधिकरणबहुव्रीहि. †
 
-N.B. The difference between the Tatpurusha proper and Karmadhāraya is this:—In the case of the former the attributive member has one of the oblique cases when dissolved, while in the case of the latter it is in apposition to the other member. It may thus be a noun or an adjective qualifying the other member.
-
-§ 221. (a)† A word expressive of the standard of comparison (उपमान) may be compounded in a Karmadhāraya with another denoting the common quality or ground of comparison; as घन इव श्यामः घनश्यामः dark like a cloud. Such compounds are called उपमानपूर्वपदकर्मधारयम्.
-
-(b)‡ Similarly a noun denoting the person or thing compared (उपमेय) may be compounded with words indicative of excellence, such, as ह्यात्रः, सिंह, चन्द्र, कमल, &c. no mention of
-
-* तत्पुरुषः समानाधिकरणः कर्मधारयः । Pān. I. 2. 42.
-† उपमानानि सामान्यवचनै: । Pān. II. 1. 55.
-‡ उपमितं व्याघ्रादिभिः सामान्यप्रयोगे । Pān. II. 1. 56.
-§ All these words are included under what is called the group of ह्यात्र. The more important of these words are ह्यात्र, सिंह, ऋक्ष, ऋषभ, चन्दन, वृक. वृष, वराङ, हस्तिन, रत, धूषद, पुण्डरीक, &c.;
-चन्द्र, पद्म, कमल, किसलय, &c.; cf. रथकुजरपदै व्याघ्रेगवर्षभकुञ्जरा: ।
-क्लीसहासुइलगाग्रायाः धूति श्रेष्ठार्थगोचराः ॥ Amara III. 1. 59.
+* अनेकमन्यपदार्थे । Pān. II. 2. 24. समस्यमानपदातितिरिक्तस्य पदस्यार्थे इत्यर्थः । Tb.
+† Strictly speaking this is not a division of the Bah. but an exception to the general rule. We have given it as a separate division to avoid confusion.

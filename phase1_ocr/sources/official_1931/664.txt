@@ -1,42 +1,46 @@
-[Internal page: 650]
+[Internal page: 664]
 
-88                   SANSKRIT GRAMMAR.
+102                   SANSKRIT GRAMMAR.
 
-भस् 1 P. to bark, to rail against; भसुति pre, बभाष perf. भसिता
-   p. fut. अभषीत aor. बिभषिषति des.
+मुस् 6 P. आमर्षनै to touch, to shake, to consider; मुशुति pre.
+   ममर्श perf. मर्ष्टुं or अमृष्ट p. fut. मर्षिष्युति or मृष्युयुति fut. अमाक्षीत,
+   अमृक्षीत, अमुश्युत् aor. निमुषति des. Pass—मुष्युतै pre. अमुशि
+   aor. Cau.—माश्युयति-तै pre. अमीमृशत-न or अमृक्षयत-न aor. मुष्ट
+   p p. मुष्टुं ger.
 
-भस् 5 P. भर्तुनकौत्युत्यो: to censure, to blame, to shine; बभस्ति pre.
-   बभास perf. ( used in the Vedas only ).
+मुष् 1 P. सैचनै to sprinkle, to bear; मुषुति pre. ममुष perf. मुषिता
+   p. fut. अमुषीत aor. Cau —मुषुयाति-तै pre. अममुषत-न, अमीमुषत-न
+   aor.
 
-भा 2 P. दीप्तौ to shine, to appear, to be; भाति pre. अभात्-आ:
-   3rd pl. Imperf. बभौ perf. भाता p. fut. अभासीत aor. Pass.—
-   भायतै pre. अभायि aor. Cau —भापयाति-तै pre. अबीभयत-न aor.
+मुष् 1 U. स्तृनै to bear, to sprinkle; मुषुति-तै pre. ( See the follow-
+   ing root for the other forms ).
 
-भाज् 10 U. प्रुथुक्करणै to divide; भाजयाति-तै pre. भाजयाञ्चुकार-चक्रै
-   perf. भाजयिता p. fut. अबभाजत-न aor. बिभाजयिषति-तै des.
-   भाजित p. p.
+मुष् 4 U. तितिक्षायां to suffer, to allow, to pardon; मृष्युयुति-तै pre.
+   ममर्ष-षै perf. मृषिता p fut. मृष्युष्युयति-तै fut. अमृषीत or
+   अमृषीष्टु aor. निमर्षिषति des. Pass.—मुष्युतै pre. Cau.—मर्षुयाति-तै
+   pre. मुर्विन्ता मर्षित्वा. ger.
 
-भास् 1 A. कोपै to be angry; भासतै pre. बभाषै perf. भासिष्युयतै fut.
-   अभासिष्टु aor.
+मुष् 10 U. to suffer &c.; मर्षुयाति-तै pre, मर्षुयाचकार-चक्रै, perf. मर्ष-
+   यिता p. fut. अमीमुषत-न, अममुषत-न aor.
 
-भास् 1 A. to speak, to call; भासतै pre, बभाषै perf. भाषिता p. fut.
-   अभाषीष्टु aor. 10 U. also अबबाषत-न —.
+मुद् 9 P. हिंसायां to hurt, to kill, मुष्णाति pre, ममार perf. मदिता
+   or मरिता p. fut. मरिष्युयुति or मरीष्युयुति fut. अमादीत aor. निम-
+   रिषति, निमरीषति, मुमुदिति des.
 
-भिक्ष् 1 A. भिक्षाग्यां लोभक्षारै च to beg, to obtain; भिक्षतै pre. बिभिक्षै
-   perf भिक्षिता p. fut. भिक्षिष्युयतै fut. अभिक्षिष्टु aor. Cau—भिक्ष-
-   याति-तै pre. अबिभिक्षत-न aor.
+मैष् 1 A संसुयादानयो: to exchange, to barter; मयुतै pre मेयै perf. मयता
+   p. fut. मास्युयुतै fut. अमास्त aor. मासीष्ट ben. निमासतै des. Cau.—
+   मापुयाति-तै pre. अमीमयत-न aor. Pass.—मीयुतै pre, अमायि aor.
 
-भिद् 7 U. विदारणै to separate, to break down; भिनत्ति, भिन्तै pre.
-   बिभेद, बिभिदै perf. भेत्ता p. fut. भैत्स्युयुति-तै fut. अभैत्स्युयत-न con.
-   अभेत्तुट, अभैत्सीत ( अभेत्ताम dual ), अभित aor. Cau.—भेदयिषत-न
-   Aor बिभित्सति des. भेदयतै, भैदीयति, बैभित्ति freq. Pass.—भिद्युतै
-   Aor. भिन्न ( also भित्त ). p.p.
+मेट्-मैट् 1 P. to be mad; मैटुति, मैदुति pre.
 
-भिन्द् 1 P. to divide, to cut; भिन्दुति pre. बिभिन्द perf. अभिन्दीत
-   Aor. Pass.—भिन्युतै pre.
+मेथु 1 U. मैथुनकर्मुणो: to know, to hurt; मैथुति-तै pre, निमैथु-थै.
+   perf. मैथिता p. fut. अमैथिष्टु aor.
 
-भी 3 P. भयै to fear, to be anxious about; बिभेति pre. बिभाय or
-   बिभुयाञ्चुकार &c. perf. भेता p. fut. भेष्युयुति fut. अभैष्युयत् con.
-   अभैषीत, भीयुयात् ben. भीतत्वा ger. बिभिषति des. Pass. अभायि
-   aor. Cau.—भाययुति, भाययतै, भीयुयतै Pre. अबीभयत्, अबाययिषत,
-   अबीभिषत Aor. बैभीयुतै, बैभयाति, बैभेति freq. भीत p.p.
+मेद्-मैद् 1 U. (समुदै) to meet (See the above root)
+
+मैष् 1 A. गतौ to go, to move; मैयुतै pre, मिमैयै perf. अमैयिष्टु aor.
+
+मेष् 1 A. सैचनै to worship, to attend upon; मैयुतै pre,
+
+मोक्ष् 1 P. & 10 U. to release, to loose, to shed, मोक्षुति, मोक्षुयाति-तै
+   pre. मुमोक्ष, मोक्षुयाचकार-चक्रै perf.

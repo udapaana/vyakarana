@@ -1,40 +1,38 @@
-[Internal page: 224]
+[Internal page: 238]
 
-224                    SANSKRIT GRAMMAR.                [ § 362-365
+238                    SANSKRIT GRAMMAR.                    [ § 378
 
-all the genders, numbers and cases, undergoes no change.*
-The Avyayas may be divided into simple and compound ones.
-The latter are treated of in the chapter on compounds ( Avyayī-
-bhāvas and a few Bahuvrīhis and Tatpurusha ).
+                          Chapter XII.
+                          ———◦❖◦———
 
-§ 362. The indeclinables comprise ( I ) Prepositions ( II )
-Adverbs, ( III ) Particles, ( IV ) Conjunctions, and ( V ) Inter-
-jections
+                    CONJUGATION OF VERBS.
 
-§ 364. Besides these there are in Sanskrit a few nouns
-having one inflection only which are treated as indeclinable
-( nipātas ), e. g. अन्यद् another ( reason ), अस्तम् setting, अस्ति·
-that exists, ओम् the well-known sacred syllable om, चनस् satis-
-faction, food, चाहु coaxing, नमस् a bow, नास्ति non-existence धुर्
-the earth, धुवर् the sky, वदि the dark fortnight, ज्ञशु happiness,
-सुदि or सुदि the bright fortnight, संवत् a year, स्वाहा food offered
-to gods, स्वधा food offered to the manes, स्वर् heaven, स्वस्ति
-happiness &c.
+§ 378. There are in Sanskrit—
 
-                        I. PREPOSITIONS.
+  ( a ) Two kinds of verbs, Primitive and Derivative.
 
-§ 365. A preposition, styled 'Upasarga or Gāti,' in Sanskrit is
-an indeclinable word, having an independent meaning and prefixed
-to verbs and also to their derivatives. These prepositions modify,
-intensify and sometimes totally alter the senses of roots†;
+  ( b ) Six Tenses ( काल: ) and four Moods ( अर्थ: ) which are as follow:—
 
-* सदृशं त्रिषु लिङ्गेषु सर्वासु च विभक्तिषु ।
-वचनेषु च सर्वेषु यन् न व्येति तदव्ययम् ॥
-स्वराडिनिपतमव्ययम् । Pān. I, 1. 37.
-† धास्थये वाधते कञ्चित्कञ्चिन्नमनुवर्तते ।
-तत्रैव विधीनष्यन्य उपसर्गेगातिविक्रिया ॥
-Cf. also Sid. Kau.    उपसर्गेण धात्वर्थो बलाद्‌ऽन्यन्न्त्र नीयते ।
-                    प्रहाराहारसंहारविहारपरिहारवत् ॥
-Some think that prepositions have no meaning of their own,
-but they simply bring to light when prefixed to roots their
-hidden senses. ( cf. Sis. X, 15 ).
+TENSES   TECHNICAL NAME. MOODS TECHNICAL NAME.
+वर्तमान: or Present        लट्     आज्ञा  or Imperative      लोट्
+भूत:     or Aorist         लुङ्    विधि   or Potential विधिलिङ्
+अनद्यतनभूत: or Imperfect   लङ्     आशीः: or Benedictive आशीर्लिङ्
+परोक्षभूत: or Perfect      लिट्    सत्ता  or Conditional लृट्
+अनद्यतन-}
+भविष्यत्  } or 1 st Future लृट्
+भविष्यत् or 2 nd Future   लुट्
+
+    हेट् or the Subjunctive is used only in the Veda and is therefore termed 'The Vedic Subjunctive.'
+
+    Note:—The ten tenses and moods are technically called the ten Lakaras in Sanskrit grammars.
+
+  ( c ) Three Voices ( प्रयोग: ), the Active Voice ( कर्तरिप्रयोग ) as सुतः, the Passive Voice ( कर्मणिप्रयोग ), as सूयते पक्ति यज-भक्त:, and the Impersonal Construction ( भावेप्रयोग ) तेषां गम्यते.
+
+    * These technical names are given in the following Kārikā,
+
+       लट् वर्तमाने लेट् वेदे भूते लुङ् लङ् लिटस्तथा ।
+       विध्याशिषोर्लिङ् लिङ्लोटौ लुट् लृट् लृट् च भविष्यति ॥
+
+    This terminology of Pāṇini, it will be seen, is artificial. Other grammarians use different names   The ten Lakaras of Pāṇini are according to their nomenclature as follow.—वर्तति ( हतिः: ), अवर्ततीत्, हत्ततीत्, परोक्षा, भविष्यती, भविष्यत्ती, पञ्चमी, ससर्गी, कियातिरूपि and आशीः:—
+
+     ' Apte's Guide '.

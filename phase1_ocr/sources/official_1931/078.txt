@@ -1,32 +1,38 @@
-[Internal page: 59]
-100-103 ]                    DECLENSION.                    59
+[Internal page: 78]
+78                    HIGHER SANSKRIT GRAMMAR.                    [ § 126-128
 
-  N V.  विश्ववाद्-ड्       विश्ववाहौ           विश्ववाह
-    A.   विश्ववाहम्          ,,                विश्वोहः.
-    I.   विश्वोहा           विश्ववाड्भ्याम्      विश्वोड्भिः
-    D    विश्वोहे            ,,                विश्ववाड्स्य
-   Ab.   विश्वोहः            ,,                  ,,
-    G.     ,,               विश्वोहौ           विश्वोहाम्
-    L.   विश्वोहि            ,,                विश्ववाट्सु
+consonant, श् becomes न् by virtue of the rule शोश्चनुत्परे ( Pan.
+VIII. 4. 40 ), and then न् may optionally be changed to ण् by
+the rule नो णः ( Pan. VIII. 4. 2 ); and thus before the case-affixes
+of the dual and plu. beginning with the consonants, we have
+श्वभिः or श्वणभिः, श्वभ्यः or श्वणभ्यः, श्वभ्याम् or श्वणभ्याम्, श्वसु or श्वणसु,
+श्वनाम् । Again before the case-affixes beginning with vowels
+viz. अम्, ओस्, आम्, the वकार of the base श्वन् is dropped
+( वादनात्न् ), when the root-स् is in weak grade ( Pan. VI. 4.
+132, 133 ), and the resultant base is श्न्; and न् is then
+changed to its anusvāra, which is again changed to its
+parasavarṇa; and thus we get शुनम्, शुनः, शुनाम् । So also
+in the ins. dat. and abl. sing., where श् is dropped by the
+general rule, and न् is retained, and consequently we have
+शुना, शुने, शुनः । In the loc. sing. न् may or may not be dropped,
+and thus we have शुनि or शुनि । The fem. is formed by adding the
+affix आ to शुन् and this gives शुनी, which is declined regularly. The
+fem. may also be formed by adding ई to श्वन् → श्वी ( by शुनोष्य, Pan.
+VI. 4. 116 ), which is also declined regularly after the analogy
+of पृथिवी ॥ There are no neuter forms.
 
-Decline similarly इन्द्रवाह् ,  भारवाह्, भूवाह् , मैत्रवाह् &c Acc plu., Inst. sing. &c of भूवाह् , are भूह:, भूहा &c.
+§ 127. Tabular representation of श्वन् ( a dog ).
 
-§ 101. The ह् of उपानह् f. 'a shoe' is changed to द् and to ट् before the भ् of the termination; e. g. Nom. द् उपानत् , उपानत् , उपानहौ, उपानहः, Ins. sing. and dual उपानहा; उपानट्भ्याम् पानहि; उपानहौः, उपानत्सु.
+                MASCULINE.
 
-102                    अनडुह् m. an ox.
+Singular.
 
-    N.   अनडुहान्          अनडुहौ             अनडुहाः
-    V.   अनडुत्           ,,                  ,,
-    A.   अनडुहाम्          ,,                अनडुह:
-    I.   अनडुहा          अनडुद्भ्याम्         अनडुद्भिः
-    D.   अनडुहे           ,,                अनडुद्भ्यः
-   Ab.   अनडुहः           ,,                  ,,
-    G.    ,,             अनडुहोः            अनडुहाम्
-    L.   अनडुहि           ,,                अनडुत्सु:
+    Nom.        श्वा            Voc.            श्वन् or श्व
+    Acc.        श्वानम्        Ins.            शुना
+    Dat.        शुने            Abl.            शुनः
+    Gen.        शुनः            Loc.            शुनि or शुनि
 
-                स्वनडुह् neu. ( शोभनः अनडुहान् यस्मिन् )
+                Bases ending in यु ॥
 
-7. A.  स्वनडत्         स्वनडुही            स्वनडुहोहि
-        The rest like अतडुह् mas.
-
-§ 103. The words अयगाज् ' a kind of priest ' and sacrificial food' change their final to त् before cons orminations the preceding आ becoming अ—
+§ 128. There is only one word ending in यु, viz. युवन्
+( a youth ), though as a secondary base it occurs in such

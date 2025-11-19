@@ -1,42 +1,47 @@
-[Internal page: 662]
+[Internal page: 676]
 
-100                   SANSKRIT GRAMMAR.
+114                   SANSKRIT GRAMMAR.
 
-aor. मुष्युयात् ben. मुमुषिषति des. मुषित p.p. मुषित्वा, संमुष्यु ger.
-   मोषितुं inf.
+लङ्ग् 1 P. to go, to go lame; लङ्गुति pre.
 
-मुस् 4 P. स्वष्युहनै to cleave, to divide; मुष्युति pre, मुमोष perf.
+लंप् 1 P. शोषणै to dry, ( माधावां दोंक्षौ सौमातिकर्षै च ) to speak, to
+   shine, to transgress; A. गत्युयं भोजनतिक्ताौ च to go, to fast;
+   लंपति-तै pre. लंलंप-ललंपै perf. लंपिता p. fut. अलंषीद् or
+   अलंषीष्ट aor. लालंप 2nd. perf.
 
-मुस् 10 U. संचातै to heap up, to gather; मुसयाति-तै pre, मुसयाच-
-   कार-चक्रै perf. मुसयिता p. fut. अमुमुसत-न aor. मुस्युयात्, मुसयि-
-   षीष्ट ben.
+लंप् 10 U. to speak, to shine. लंषयति-तै pre. लंषयिष्युति-तै fut.
+   अललंषत-न aor. लंप्युयात्, लंषयीष्ट ben. लिलंषयिषति-तै des.
 
-मुह् 4 P. वैचित्त्यै to faint, to swoon, to fall, to err, to be foolish,
-   मुह्युति pre. मुमोह perf. मोहिता, मोग्धुं p. fut. मोहिष्युयुति, मोग्धुवि
-   or मुध्वुति pre. मोहिष्युयत-अमोध्युत-अमूढत् con. अमुहत् aor. मुहीष्युय-
-   मुमुहिषति, मुमोहिषति or मुमुक्षति des. Pass.—मुह्युतै pre. अमोहि aor.
-   Cau.—माहुयाति-तै pre. अमुमुहत-न aor मुग्ध or. मूढ p.p. मोहित्वा,
-   मुग्ध्वा, मूढत्वा. संमुढ ger. मोहितुं, मोग्धुं, मोड़ूं inf.      ¦ ,,.
+लच्छ् 1 P. ललक्षणै to mark; लच्छुति pre. ललच्छ perf.
 
-मृ 1 A. बन्धनै to fasten, ts tie; मयतै pre. मुमुयै perf. मयिष्युयुतै fut.
-   अमयिष्टु aor.                                           , ,,.
+लज् 1 P. भुर्जैं to fry; लजुति per. ललाज perf. लजिता p. fut. अल-
+   जीत्, अलजीत् aor. ( Also written as लज्ज् ).
 
-मुल् 1 P. प्रतिष्ठायां to be firm, to stand fast; मूलुति pre, मुमुल,
-   perf मूलिता p. fut. अमूलीत aor. मुमुलिषति des. Cau.—मूलुयाति-तै
-   pre. अमुमुलत-न aor.
+लज् 6 A. ह्रीदनै to be ashamed; लजतै pre लैजै perf. लजिता p. fut.
+   अलज्जीष्ट aor. लिललजिषतै des. लज्ज p.p.
 
-मूस् 10 U. रोपणै to plant, to sprout; मूसयाति-तै pre. मूसयाचकार-
-   चक्रै perf. मूसयिता p. fut. अमुमुसत-न aor. मुमूसयिषति-तै
-   des. मूसित p. p.
+लज् 10 U. प्रकाशनै to appear; लजयति-तै. अपराषणै to conceal, लाज-
+   यात-न pre. लजयाचकार-चक्रै. लाजयाचकार-चक्रै &c. perf. लज-
+   यिता. लाजयिता p. fut. अललजत-न. अललजत-न aor.
 
-मुष् 1 P. स्तैयै to rob, to plunder, मुषुति pre. मुमुष perf. अमुषीत
-   aor. मुमुषिषति des. Cau.—मुषयाति-तै pre. अमुमुषत-न aor.
-   मुषित p.p
+लज्ज् 1 P. हिंसाइलालानपर्तिकौत्सौ माषावां दोंक्षौ च to kill, to be
+   powerful, to take, to dwell, to speak, to shine; लज्जुति pre.
+   ललज्ज perf. अलज्जीत aor.
 
-मृ 6 A. * प्राणत्युयागै to die, to perish, मियुतै pre. ममार perf. मर्ता
-   p. fut. मरिष्युयुतै fut. अमृत aor. मृषीष्ट ben मुमुरिषतै des. Pass —
-   मियुतै pre. Cau —मारयाति-तै pre. अमीमरत-न aor. मृत p. p. मर्तुं
-   inf. मुत्वा ger. and the Desiderative.
+लज्ज् 10 U. ( see the above root ) to give also, लज्जयातै-तै pre.
+   लज्जयाचकार-चक्रै perf. लज्जयिता p. fut.
 
-* It is Parasmaipadi in the Perfect, the two Futures, the
-Conditional and the Desiderative.
+लड् 1 P. बालै to be or act like a child, to prattle, to cry; लडुति
+   pre. ललाड perf. अलडीत aor.
+
+लड् 1 P. विलासै to play, to sport; लडुति pre. अलडीत्, भलडीत aor.
+
+लड् 10 U. दुप्रैषाणां to fondle, to caress; लाडयति-तै pre. लाडया-
+   चकार perf. अललडत-न aor.
+
+लप् 1 P. व्युयानां भाषै to talk in general (i e. to wail, to whisper,
+   to lament; लपुति pre. ललाप perf. लपिता p. fut. अलपीत्,
+   अलपीत् aor. Cau.—लापयति-तै pre. अलीलपत-न aor. लिल-
+   पिषति des.
+
+लभु 1 A. प्राप्तौ to get, to take, to have, to be able, &c.; लभुतै pre.

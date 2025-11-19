@@ -1,0 +1,41 @@
+---
+page_number: 284
+internal_page: 284
+chapter: "Conjugation of Verbs"
+section: "conjugation-of-verbs"
+rules_starting: ["§ 452", "§ 453", "§ 454"]
+rules_continuing: ["§ 451"]
+has_footnotes: false
+---
+
+विश्, takes its Guṇa substitute before all terminations and the radical इ is not guṇated before vowel strong terminations.
+
+§ 452. दा and धा drop their आ after reduplication before weak terminations; दध् becomes घद् before स्, ध्व, त and थ. The Par. Imperative 2 per. singulars are देहि and धेहि respectively.
+
+§ 453. भी optionally shortens its vowel before consonantal weak terminations.
+
+(a) मा and हा 'to go' assume the forms मिम् and जिह् before vowel terminations and मिमो and जिहो before consonantal terminations.
+
+§ 454. हा 'to abandon' assumes the forms जहि or जहो before consonantal weak terminations except in the Pot. and जह् before vowel terminations and those of the Pot. The Imp. 2 sing. forms are जहाहि, जहिहि and जहोहि.
+
+Paradigms.
+
+इ Par. 'to go.'
+
+         Present.                        Imperfect.
+
+1. ईयमि      ईयुवः    ईयुमः        ऐयम्       ऐयुव       ऐयुम
+2. ईयषि      ईयुथः    ईयुथ         ऐयः       ऐयुतम्     ऐयुत
+3. ईयति      ईयुतः    ईयुति        ऐयः       ऐयुताम्    ऐयुवुः
+
+         Imperative.                     Potential.
+
+1. ईयानि     ईयाव    ईयाम        ईयुयाम्    ईयुयाव     ईयुयाम
+2. ईयुहि      ईयुतम्  ईयुत         ईयुयाः    ईयुयातम्   ईयुयात
+3. ईयतु       ईयुताम् ईयुतु        ईयुयात्   ईयुयाताम्  ईयुयुः
+
+धा P. Â. 'to place, to hold.'
+
+Present.
+
+1. दधामि      दध्वः    दध्मः         दधे       दध्वहे      दध्महे

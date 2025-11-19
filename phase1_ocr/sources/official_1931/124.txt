@@ -1,39 +1,21 @@
-[Internal page: 103]
-103                    SANSKRIT GRAMMAR.                    [ § 159-160
+[Internal page: 124]
+124                    SANSKRIT GRAMMAR.                    [ § 205-207
 
-94  ९४  चतुर्नवति
-95  ९५  पञ्चनवति
-96  ९६  षण्णवति
-97  ९७  सप्तनवति
-98  ९८  अष्टानवति or
-        अष्टनवति
-99  ९९  नवनवति
-        एकोनशतम् &c.
-100 १०० शत neu.            शततम mas. neu. ०मी f.
-200 २०० द्विशत neu
-        or द्वे शते
-300 ३०० त्रिशत neu. Or
-        त्रीणि शतानि
-1000 १००० सहस्र neu. or    सहस्रतम ०मी
-        दशशत neu.         or दशशतत्तौ
+father, मातृण ऊनं मातॄणः so मापविकल (less by one māsha, a particular weight); वाच्या कलहः वाक्कलहः a quarrel (in words); आचारनिपुणः; यङ्क्तिमिश्रः; आन्चारस्पृश्रणः 'thin by the discharge of religious duties' मात्रेन अवरः मासावर. 'younger by a month.'
 
-10,000 अयुत neu. 100,000 लक्ष neu, or लक्षा fem., प्रयुत neu.,
-कोटि fem , अर्बुद neu., अब्ज neu., खर्व mas. neu निखर्व mas. neu.
-महाभ्ज mas., शंकु mas , जलाधि mas., अन्त्य neu. मध्य neu., and पराघं
-neu. Each of these is ten times as great as the preceding.*
+(d)* With another noun signifying an article of food or something eatable, the noun in the Instrumental case denoting some kind of condiment used to season it or another article of food mixed with it; as दधा औदनः दध्योदनः rice mixed with curds; घडेन धानां घडधानां fried rice mixed with treacle.
 
-§ 160. The cardinal numbers between विंशति and त्रिंशत् ,
-त्रिंशत् and चत्वारिंशत् , it will be seen, are made up by prefixing
-एक, द्वि, &c. up to नवन् to the lower. The ninth intermediate
-number may also be made up by prefixing एकोन, ऊन or एकान्न
-to the higher. In these compounds द्वि, त्रि and अष्टन् are changed
-ao द्वा, त्रय. and अष्टा necessarily before विंशति and त्रिंशत् , and
-optionally before the rest except अशीति before which they
-remain unchanged †
+(e) Sometimes स्वयं may take the place of the Instrumental as स्वयंकृतः done by one's self.
 
-* एकद्वित्रीणांतसहस्रातलक्षेभयुतकोटयः क्रमशः ।
-अर्बुदमब्जं खर्वं निखर्वमहाभ्जशंकूसत्तस्मात् ॥
-जलाधिभ्रान्तं मध्यं पराघमिति दशगुणोत्तराः संज्ञाः ।
-संख्यायाः स्थानानां त्वचहारायै कृताः पूर्वैः ॥
-† द्व्यदनः संख्यायामबहुब्रीहिशेष्योः । त्रेश्र्यः । विभाषा चत्वारिंशत्प्रभृतौ
-सर्वेषाम् । Pān. VI. 3. 47-49
+§ 206. Instances of the Aluk of the Instrumental† (i. e. in which the noun in the Inst. does not drop its case term.)—
+अन्येन कृतम् अन्येसाकृतम् 'done honestly'; ओजसाकृतम् 'done with might'; एषाङ्कः 'one having an elder brother'; जङ्घाबन्धः 'blind from birth'; मनसाष्मा, मनसाङ्राप्री, when proper names, otherwise मनोष्मा, मनोञ्रापी, &c. आत्मन् followed by an ordinal number retains its case ending; as आत्मना पञ्चम आत्मनाप्रमः ।
+
+§ 207 A noun in the Dative is compounded × —
+
+(a) with another expressive of the material of which the thing expressed by the noun in the Dative case is made; as द्रूपाय द्रुः यूपद्रुः 'wood for a sacrificial post.'
+
+(b) and with the words अर्थ, बलि, हित, इष्ट and रक्षित. The compound with अर्थ is a nityasamāsa and takes the gender and number of the noun it qualifies; हितार्थ अर्थं हितार्थं सूत्रः
+
+* अन्ने ध्यन्चनम् । भक्ष्येण निर्भक्तिरकरणम् । Pān. II. 1. 34. 35.
+† ओजःसहौभयसत्सङ्गतीयायापा । Pān. VI. 3. 3 अन्र्वस उपसङ्गहाणम् ।
+Vārt. × बहुणां तदर्थैर्बलिहितघषवर क्षित्तैः । Pān. II. 1. 36.

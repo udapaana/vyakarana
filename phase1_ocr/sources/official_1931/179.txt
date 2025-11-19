@@ -1,17 +1,18 @@
-[Internal page: 163]
-§ 268-269 ]                    AVYAYIBHA'VA.                    163
+[Internal page: 179]
+§ 300-302 ]                             COMPOUNDS.                                  179
 
-Exception:—(a) This change in the first member does not take place, when it is followed by an ordinal (fem.) or any of the words प्रिया, मनीषा, कल्याणी, सुभगा, भक्ति, सचिवा, स्वसा, कान्ता, प्रन्तिका, समा, चपला, द्रुहिता, वाम्, अवला and तनया; as कल्याणी प्रिया, यस्य स कल्याणीप्रियाः, पश्चमीभार्या, सुकेशीभार्या, ङुद्राभार्या, रसिकाभार्या, पाञ्चिकाभार्या, &c.; but अकेशा भार्या यस्य स अकेशभार्यः as the first word does not end in ई; पाकां भार्यां यस्य स पाकभार्यः &c.
+( a ) अपर followed by पर when continuity of an action is implied; अपरस्पराः साधौ गच्छन्ति । सततमबिच्छेदेन गच्छन्तीत्यर्थः; but अपरपरा गच्छन्ति । अपरे च परे च सह्देवं गच्छन्तीत्यर्थः । and in the case of आ+चार्य when wonder is meant ; आश्चर्ये यदि स धुञ्जीत । But आचर्यं कदं कोभतद्‌ ।
 
+( b ) अवक्रीयते इति अवस्करः: when it means वच्चेस्के ( हुस्तिसं वच्चे: वच्चेस्कमेलेमलेद् । Sid. Kau. ) otherwise अवकरः; अपस्करः: when it means रथाड़्ख ' part of a carriage'; विषिकुरः ( or विषितिरः ) ' a bird'. प्रतिस्कहः: ( सहायः पुरोधार्गो वा Sid. Kau. ), but प्रतिगतः कशां प्रातिस्कहः: 'one who boldly faces the whip, a disobedient servant' &c. मस्करः ' a bamboo ', but मकरः ' a shark ', मस्करिद्‌ ' an ascetic' but मकरिद्‌ ' the sea '; कारस्करः: when it means ' a particular kind of tree,' otherwise कारकरः ।
 
-IV. AVYAYIBHA'VA OR THE ADVERBIAL COMPOUNDS.
+( c ) in the case of the words of the पारस्करादि group, such as पारस्करे, किस्कुः, किस्किन्था, &c. when they are names.
 
-§ 268. An Avyayibhāva comp. consists of two members the first of which is, in most cases, an indeclinable (a preposition or an adverb) and the second a noun, the whole being treated like the Nom. sing. of neu. nouns. the comp so formed is indeclinable; e. g. अधिहरि 'in Hari'; अन्तार्गिरि 'in a mountain,' &c.
+( d ) and when the words तड़् and ड्रुहुत् are followed by कर and पति and the meaning is 'a thief', and 'a deity' respectively, and स and त् being dropped before स; तस्करः, ड्रूहस्पतिः-. Also प्रायश्चित्तसद्‌, प्रायश्चितिः, वनस्पतिः &c.
 
-§ 269. In forming the Avyayibhāva compounds the following rules should be observed:—
+§ 301. *When the words पुरा, सिभक, सिष्क, सारिक and कोटर are followed by वन in a compound they lengthen their ending vowel, and' the न of वन is changed to ण ( also after अग्रे ); पुरागवणम्‌, सिभ्रकावणम्‌, सिष्कावणम्‌, सारिकावणम्‌, कोटराबणद्‌; but अतिपच्चवनस्; वनस्याग्रे अग्रेवणम्‌.
 
-(a) The final long vowel is shortened, and the ending ण or र् is changed to इ and औ to उ; गोपायति गां: पातीति वा गोपाः । तत्स्मिन्नति अधिगोषम्, अनविष्णु after Vishnu, उपय near a cow, &c.
-(b) †The final न of mas. and fem. nouns in अन् is dropped; and optionally that of neuter nouns ending in अन्; उपराज्ञम्; उपचम्भर्म-र्मं.
+§ 302. Obs—† The न of वन is changed to ण necessarily when preceded by प्र, and optionally when compounded with names of herbs or plants containing two or three vowels प्रवणम्‌, काष्ठेवणम्‌, &c. द्वोबवणम्‌-वनम्‌; दिरीषवणम्‌-वनम्‌; but देव-
 
-* क्षौत्त्रविवक्षायां तु इहाभक्तिः । Sid. Kau. लिइकूविशेषविवक्षायां तु इहाभक्तिरित्यादि-सिद्धच्चै पियादिछु भक्तिशब्दभाट: । Tb.
-† अनश्र । नपुंसकादन्यतरस्याम् । Pān. V. 4. 108, 109.
+* वनं पुराऽमिभकातिश्रकातारिकाकोटरामिश्रयः । Pān. VIII. 4. 4.
+
+† प्रनिरन्तः शरैर्मुर्षाश्रकाष्ठदिहरपीयुमाम्यौऽञ्चनायामादि । विभाषौष-श्चिवनस्पतिश्रयः । Pān. VIII. 4, 5-6.

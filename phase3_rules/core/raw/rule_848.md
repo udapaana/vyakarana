@@ -1,0 +1,27 @@
+---
+extraction_status: raw
+page_end: 495
+page_start: 495
+rule_id: § 848
+rule_number: 848
+source_pages:
+- '495'
+internal_pages:
+- '495'
+image_files:
+- 495.png
+
+---
+
+§ 848. † Words ending in the termination युयुनं and showing
+distance and also having the same sense, युयुयुङु युयुयुयु, युयुयु,
+युयुयुयुयुयुर, युयुट्, युयुयुयुयुर, युयु. युयुयुयुयुट्, युयुयुट्, युयुयु, &c. are used
+with the Genitive; युयुयुयु दुयुयुयुयुयुयुयु. युयुयुयुयु &c. in the north or to
+the north of Devadatta; these are sometimes used in the Locative
+Also place; युयुयुयुयुयुयु (Ś'ak. I.) under the tree; युयुनं विचुयुयु
+river or place or thing is to be found युयुयुयुयुयुयु विटुयुयुयुयुयुयु the town
+Pāṭaliputra is to the north or near the town of Bihār; be
+used with the Genitive or the Accusative. युरुयुयुयुनं युयुट् युयुयुयुनं युयु
+or the north of the river; युयुयुयुयुयुयुयुयुयुयुयु (Bhaṭṭi. VIII.108.),
+to be north of the river, युयुयुयुयुयुयुयुयुयुयुयुयुयु (Bhaṭṭi. VIII.108.),
+युयुयुयुयुरुतुयुर्णों युयुरुतुयुयु युयुयुयुट् युयुत्युयुयु विदुयुयुनं (Māl. Mād. IX. 24.)

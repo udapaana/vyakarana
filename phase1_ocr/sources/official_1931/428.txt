@@ -1,38 +1,44 @@
-[Internal page: 414]
+[Internal page: 428]
 
-416                  SANSKRIT GRAMMAR.                   [ § 664-666
+430                  SANSKRIT GRAMMAR.                   [ § 701-705
 
-          दृतिसंत्रितुत्र्तिस्स्यु वृथन्त्वाङ विमाखुया ॥
-          वा शुतौद्रुविच्छदुर्तं: त्सुतेनोङुटे कष्टदै: ॥ २२ ॥
-          परुल्लोषुदनुत्यस्मात्त्सषा सिष्ट्यन्ययान: ॥
+Roots.          P. P. Ptc.     Roots.           P. P. Ptc.
 
+त्रिह् 'to go, to become dry.' त्रुत   स्पृङ् with य          प्रस्पीत or प्रस्तीत
+ह्राङ् 'to delight'              ह्रेष्ट                     'sounded, '
+व्या to cook (also     शत  'boiled'  स्ञा with हि           तिङ्गीत   ' clever.'
+ळुर् cau. of वृत् ) ( when it quali-      with नदौ        नदीष्णा, ' skilful,
+                      fies क्षीर or पुहुं )                 experienced, cle-
+                      घुषशूण, अपिक्त.                       ver.' ( lit.  one
+स्मर् with प्रति      प्रतिस्मुर, तिन्त-                      who knows the
+    and वि           स्मर् where the य                    dangerous spots
+                      is not changed                      in a river );  but
+                      to यु ).                             निवेवात,  नवीस्मात
+स्मार् 'to grow '                 स्फीत                     in other cases.
 
-                        CHAPTER XIV.
+§ 702.  ( a ) The roots  इङ् and  यङुच्  take  the affix वत्  like त्
+in an active sense; इङ्दुचुर् ' one who extracted Soma juice;
+वङुच्चुर् ' one who has offered a sacrifice;' अत् is added to यु
+optionally  in  the  same  sense;  जीर्ण  or  जतुर्   ' one who has
+become old' ( also जीविवत् ).
 
-                 VERBAL DERIVATIVES
-                           or
-                  PRIMARY NOMINAL BASES.
-            Derived by means of the Kṛt Affixes.
+§ 703.  The participles in त् or  न  follow the  Declension of
+nouns in अ.
 
-§ 665.  The Kṛt affixes ( Vide § 337) are added to roots or
-to their modified forms  to form nouns,  adjectives,  and indecli-
-nables; e. g.  छु—कार, कवत् ,  कुगण,  कुर्व,  कारुस्पत् ,  चङुर्वर् , छुत्वा
-कर्वुन् &c. These are called Kṛdantas  or Primary Nominal Bases
-as distinguished from the Secondary Derivatives formed with
-the Taddhita affixes.
+§ The P. P. participles have not always a passive force:—
 
-§ 666.  There is a peculiar class of Kṛt  or Primary affixes
-technically  designated  by Sanskrit grammarians—Unādi or
-those beginning with the affix  उण्  i. e.  the affix  उ  with the
-signs or indicatory  letter न्; इष्व called  from the two roots सिष्,
-याङु, &c. in the first Sūtra  being derived with the affix.   These
-Unādi affixes form primary nouns, like other  Kṛt  affixes  form
-verbal roots, but are classed  separately because their applica-
-tion is limited, because the nouns  derived by their means are
-either formed irregularly,  or the connection between their
-senses  and  the  meanings of roots  from which they  are
-supposed to be derived is not  so clearly discernible as in the
-case of other primary derivatives;  e. g.  अस्वुवर्  अस्थान स्यातोतिति
-or जस्य: ' a horse' which is derived  either from  आस् 'to pervade,'
-or from अस्यच् ' road;' and आपु  with हि,  &c,. काड्  ' an artisan '
-from क् 'to do,' &c.
+§ 704. *  The  affix  त्  added  to  roots  having the  sense of
+'staying, ' or going' shows the place where  the  action usually
+takes place; द्रु मुकुन्दुस्य आसितं ' this is the place where Mukunda
+to sit; ' इदं गतं त्सुतार्ः ' this is the path by which the husband
+of Rāmā used to pass; ' अत्रुकै एतत् अनतेस्य ' this is the place where
+Anaṅta took his food, ' &c.
+
+§ 705.  ( a )  The P. P.  Participles  of  roots implying motion, of
+intransitive roots, and of the roots शिय् , घुत्, स्था, आस्, चुल् 'to dwell,'
+जन् , रुङ्, and यु 4. cl. have an active sense; गतोऽङुं मद्रापुरम् 'I went to
+Madras;' स्थाजनौ चास्: 'the boy has become languid,' छक्षामीमात्रुर्येट ह्रारि:
+' Hari embraced Lakshmi; ' शेषुमपिशयात्रि: ' slept on Sesha; ' वैशुङ्य-
+
+_________________________________________________
+* अधिकरणे च घोषेयौतिस्मुयसुर्तादुपर्युत्स्म: । Pāṇ. III. 4, 48.

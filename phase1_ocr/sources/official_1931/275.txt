@@ -1,25 +1,37 @@
-[Internal page: 261]
+[Internal page: 275]
 
-§ 412-416 ]         CONJUGATION OF VERBS.                     261
+§ 432-433 ]         CONJUGATION OF VERBS.                     275
 
-assume  the forms  ज्ञ  and  जि  respectively;  as  जानाति-नीते, जिनाति , &c.
+2. ब्रवीषि-आह     ब्रूथः-आहुथुः  ब्रूथ              ब्रूषे       ब्रूवाथे       ब्रूध्वे
+3. ब्रवीति-आह    ब्रूतः-आहुतुः  ब्रुवन्ति-आहुः    ब्रूते       ब्रुवाते       ब्रुवते
 
-§  413.  The न of गृह is changed  to  क; as  यहाति;  अयहाम ,  अयहीत, अयहीम, &c. Imperf  1st,  pers.
+                          Imperfect.
 
-§  414.   The roots री, ली, ल्ली,  श्री,  ध्र, घृ, द्र,  बृ,  क,  ग्र,  चू,  सू, वू, च, ष, इ, ब and  स्य have  their finals  shortened  necessarily, and क्ती, भ्री, and क्री optionally in the Special Tenses;  as  धुनाति-नीते, रवुणाति-णीते, इणाति-णीते, &c. क्तीणाति, शिणाति, &c.
+1. अब्रवम्     अब्रूव      अब्रूम          अब्रुवे      अब्रूवहि       अब्रूमहि
+2. अब्रवीः    अब्रूतम्    अब्रूत          अब्रूथाः    अब्रुवाथाम्    अब्रूध्वम्
+3. अब्रवीत्   अब्रूताम्   अब्रुवन्        अब्रूत       अब्रुवाताम्    अब्रुवत
 
-§  415  The  roots  स्कु ' to go by leaps,  to raise, ' स्तम्भ् ' to obstruct, ' स्तम्भ् ' to stop, ' स्कम्भ् and स्कुम्भ् ' to obstruct ' belong to the 5th and 9th classes;  as स्कुनाति, स्कुनीते, स्कुनीते, स्कुञ्जे, &c.
+                          Imperative.
 
-              Second, Third and Seventh Classes.
+1. ब्रवाणि     ब्रवाव     ब्रवाम          ब्रवै       ब्रवावहै       ब्रवामहै
+2. ब्रूहि      ब्रूतम्    ब्रूत           ब्रूष्व     ब्रुवाथाम्     ब्रूध्वम्
+3. ब्रवीतु     ब्रूताम्   ब्रुवन्तु       ब्रूताम्    ब्रुवाताम्     ब्रुवताम्
 
-§  416.   Special rules of Sandhi of the  finals  of  roots  and the initial letters of terminations:—
+                          Potential
 
-    ( 1 )  The ending इ of  a  root  takes  its  Vṛddhi substitute when followed  by a consonantal  strong  termination ;  as इ+ति=नीति.
+1. ब्रूयाम्    ब्रूयाव    ब्रूयाम         ब्रुवीय     ब्रुवीवहि      ब्रुवीमहि
+2. ब्रूयाः    ब्रूयातम्  ब्रूयात         ब्रुवीथाः   ब्रुवीयाथाम्   ब्रुवीभ्रम्
+3. ब्रूयात्   ब्रूयाताम् ब्रूयुः         ब्रुवीत     ब्रुवीयाताम्   ब्रुवीरन्
 
-    ( 2 )  The final इ or उ. short  or  long, of a root  is  changed to इस् or उस् before a vowel weak termination.
+§ 433. मुच् P. ' to cleanse ' substitutes Vṛddhi for its vowel necessarily before strong terminations and optionally before vowel weak terminations.
 
-    ( 3 )  The ending द् of roots is changed  to  ढ  when  followed by any consonant, except a nasal or a semivowel, or by nothing; and that of roots beginning with द् to त् under the same circumstances.
+         Present.                       Imperfect.
 
-    ( 4 )  The initial त  or  य of  a termination is changed to च after a soft aspirate ( 4th letter of a class ).
+1. मार्ष्मि     मुञ्जः     मुञ्जमः        अमार्जम्     अमुञ्ज       अमुञ्जम
+2. मार्क्षि     मृष्ठः     मृष्ठ          अमार्ट्-ड्    अमृष्टम्     अमृष्ट
+3. मार्ष्टि     मृष्ठः     मार्जन्ति,     अमार्ट्-ड्    अमृष्टाम्    अमार्जन्,
+                         मृजन्ति                                 अमृजन्
 
-    ( 5 )  द् or य followed by स is changed to क्.
+         Imperative.                    Potential.
+
+1. मार्जानि    मार्जाव    मार्जाम        मृज्याम्     मृज्याव

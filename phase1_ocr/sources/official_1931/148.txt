@@ -1,15 +1,19 @@
-[Internal page: 130]
-130                    SANSKRIT GRAMMAR.                    [ § 216
+[Internal page: 148]
+148                    SANSKRIT GRAMMAR.                    [ § 241-244
 
-outside the pale of his own village; so कूपे-उदुपान-मण्डूकः; उदुम्बरइमि-मशकः lit. an insect in the fruit of the Udumbara tree; metaphorically it means the same as कूपमण्डूकः; हूपकच्छपः &c. In some cases there is an aluk of the Loc.; as शैद्रूरः 'a boasting coward', गेहेन्माढः 'a braggadocio'; गेहोनर्दी 'a house-hero', 'a carpet knight', पाच्वेकुशलः 'clever in eating only' i. e. 'a good-for-ncthing fellow', पाञ्चेवलित्तः; गोष्टेकूरः; गोष्टेविज्ञर्यीः; गेहेग्रृष्टः, &c.
+ed by कु and महद्; कुन्ब्राह्मा-ह्मः a bad Brāhmana, महाब्राह्मा-ह्मः. The न is dropped necessarily when the compound implies the country in which the Brāhmana dwells; e. g. सुराष्ट्रब्राह्मा a Brāhmana dwelling in Surāshtra.
 
-Note:—Words of this class do not enter into further combination with other words.
+§ 242. *The word महद् is changed to महा when it forms the first member of a Karmadhāraya or a Bahuvrihi compound, or when the termination जातीय follows; as महादेवः. the great god, महाबाहुः a great arm (Tat.) or one having a great arm (Bah.); महाजातीयः; but महत: सैवा महत्सैवा (Gen. Tat.).
 
-(c)* with another, when they both imply a name (संज्ञा); there is an aluk of the Loc. term when the noun ends in a consonant or अ; as अरण्येतिलकाः lit 'wild sesamum yielding no oil, hence anything not answering to one's expectations;' similarly चनेकसरुकाः; स्वाचित्सारः 'a bamboo' (also स्वकुत्तारः, vide Si. IV. 61.). These compounds are nitya (obligatory) as remarked by Bhattoji (वावधेन संज्ञानवभमाद्रियसमाबोयम्).
+Exception:—When it is followed by यास, कर and विभीष the change takes place necessarily; महतो महत्या वा करः महाकरः; similarly महाघासः, महाविभीषः.
 
-(d) with potential p. participles in य implying an obligation; मासिदेयं (ऋण); पुत्रोदेयं (साम); the aluk by § 217 (b) below.
+§ 243. † अष्टन् becomes अष्टा when followed by कपाल and गौ and the compound so formed conveys the sense of 'an oblation' and 'yoked to' respectively; अष्टाकपालः 'prepared or offered in eight pans' (पुरोडाशः); अष्टागवं (शकटम्) 'a carriage with eight bullocks yoked to it'.
 
-(e)† with p. p. participles when it expresses a part of the day or night; तद may take the place of the Loc.; as पूर्वाहे छन्नं पूर्वाहृछन्नं; अपराह्नेछन्नः तत्रश्च्छुत्कम् &c; but आह्ने इदं; and with the p. p. participles when reproach is implied, with an aluk of the Loc; as 'अवतसेनकुलास्येर्तं तवेतद् ' 'this thy action is similar to that of a mungoose on the hot ground.' अवतसैनकुलास्थितं is used to express the inconstancy of a person.
+§ 244. ‡All the rules given above for the change of the finals of the Tat. compounds do not hold good in the case of the Neg. Tat; e. g. न राजा अराजा one not a king; न सस्या असस्या, &c.
 
-* संज्ञायाम् । इछदन्तात्सम्यः संज्ञायाम् । गविसुग्रियधाः स्थिरः । Pān. II I. 44. VI. 3. 9. VIII. 3. 9. 5.
-† केनाहोरात्रुयवाः । तत्र । क्षेपे । Pān. II. 2. 45-47.
+(a) But in the case of the word पथिन् the final इन् is optionally dropped and अ added; अपथं or अपंथाः 'absence of a road'. पथिन् when so modified in a Tat. is neu.; § (but अपथं:द्वेषा:)。
+
+* आच्मभहतः सम्बानाधिकरणजातीययोः । Pān. VI. 3. 46. and the Vārtikas on it.
+† अष्टनः कपालै हविविौ । गावि च युक्तौ । Vārtikas.
+‡ नञ्सस्यरुषेषात् । पथो विभाषा । Pān. V. 4. 71. 72.
+§ अपथं नपुंसकम् । Pān. II. 4. 3.

@@ -1,44 +1,44 @@
-[Internal page: 613]
+[Internal page: 627]
 
-                     DHĀTUKOŚA.                               51
+                     DHĀTUKOŚA.                               65
 
-तक्र् 1 P. तरुकरणै to pare, to cut; तक्रुति, तक्रुणोति pre. ( belongs
-   to 5th conj. optionally in the Conj. Tenses ) तताक्र perf.
-   तक्रिष्युयुति, तक्रोता, तक्रुयिता fut. अताक्रीत aor. तक्रुयात ben.
-   तत्र p. p. तक्रिता, तद्रुं, तक्ष्युं inf. तक्रिष्युयत, तत्र p. p.
+देव् 1 A. देवनै to sport, to lament; देवतै pre. दिदेव perf. देविता p.
+   fut. देविष्युयतै fut. अदेविष्युयत con. अदेविष्टु aor. दिदेविषतै des.
+   Pass.—दैव्युतै.
 
-तकु 1 P. गतौ रथुलनै कम्पनै च to go, to stumble, to shake; तकुति
-   pre. तताकु perf. तकुिता p. fut. अतकुीत aor. तकित p. p.
+दै 1 P. शौच्चै to purify, to be purified; शाचुति pre, ददौ perf.
+   दाता p. fut. दास्युयति fut. अदास्युयत् con. अदासीत aor. दाप्युयात् ben.
+   दिदासति des. Pass.—दाप्युतै pre. Cau.—दापयति-तै pre. अदीदयत-
+   न aor. दात p. p.
 
-तञ्ज् 1 P. to go; तञ्जुति pre. तताञ्ज perf. तञ्जिता p. fut. अतञ्जीत
-   aor. to move.
+द्रो 4 P. अवक्षयदुनै to cut, to divide, to move; द्रोति pre. ददौ
+   perf. द्राता p. fut. अद्रात् or द्रेयात् ben. दिद्रसति des. Cau.—
+   द्रापयति-तै pre. द्रित p. p. द्रित्वा, अवद्राप ger.
 
-तञ्च् 7 P. संकोचनै to contract, to shrink; तनक्ति pre. तताञ्च perf.
-   तंक्ता p. fut. तंक्ष्युयुति, तन्चिष्युयुति fut; अतन्क्ष्युत,
-   अतताञ्जीत Aor. Cau.—तञ्चुयति-तै, तितन्चुषति, तितद्चुषति des.
+द्रू 2 P. अभित्रासै to advance towards, to attack; द्रोति pre.
+   दुद्राव perf. द्रोता p. fut. द्रोष्युयुति fut. अद्रोष्युयत् con. अद्रोषीत
+   aor. दुद्रूषति des. Pass.—द्रूयतै pre. अद्रावि aor Cau —द्रावयति-
+   तै pre अदुद्रवत-न aor. द्रुत p. p.
 
-तञ्च् same as तञ्च्.
+द्युत् 1 A. दीप्तौ to shine; दुयोततै pre. दिद्युतै perf. द्योतितता p. fut.
+   द्योतिष्युयतै fut. अद्योतिष्युयत् con. अद्योतिष्टु, अदुयोतत् aor. द्योतिषीष्ट
+   ben. दिद्युतिषतै दिद्योतितै des. Cau.—द्योतुयाति-तै pre. अदुद्युतत-न
+   aor. देद्युयतै, देद्योति freq. द्युतित-द्योतित p. p.
 
-तत् 1 P. उञ्छुलायै to grow; तदुति pre. तताद perf. तदिता p. fut.
-   अतदीत, अतादीत aor.
+द्युै 1 P. न्युयुकरणै to despise; यायुति pre, याता p. fut. अयासीत aor.
+   याप्युयात्, येयुयात् Ben.
 
-तस्10 U. आभाषनै भाषाग्यां च to beat; ताडयति-तै pre. ताडयाञ्चुकार-
-   चक्रै &c. perf. ताडयिता p. fut. ताडयिष्युयति-तै fut. अतीतडत-न
-   aor. Pass.—ताड्युतै pre. ताडित p. p.
+द्रम् 1 P. गतौ to run; द्रमुति pre द्रद्राम perf. अद्रमीत aor.
 
-तड्र् 1 A. ताडनै to beat; तड्रतै pre. तताड्रै perf. तड्रिता p. fut.
-   अतड्रिष्टु aor.
+द्रा 2 P. कुन्दुागां गतौ स्वपै च to run, to sleep (generally with
+   नि); द्राति pre. ददौ perf. द्राता p. fut. द्रास्युयति fut. द्रायुयात्,
+   con. अद्राड aor. द्राप्युयात्, द्रेयात् ben. दिद्रासति des. द्रातुं p. p.
 
-तत् 3 U. वितर्कै to spread, to go; तनाति, तनतै pre. ततान, तेनै perf.
-   तनिता p. fut. तनिष्युयुति-तै -त, अतनीत, अतनीत & अतन्युयु, अतत
-   aor. सुरून, सुतनुर्यत्, सुतनीष्टु aor. tan. तन्युयात् & तनिषीष्ट ben. तितनिषति-तै
-   des. Pass.—तन्युतै & तायतै pre. अतानि aor. Cau.—तानयाति-तै
-   pre. अतितनत-न aor. तत p. p. तनित्वा, तत्वा ger.
+द्राघ् 1 A. समर्थै आयामै to be able, to lengthen; द्राघतै pre
+   दिद्राघै perf. अद्राघीत aor. द्राघिषीष्ट ben.
 
-तत् 1 P. 10. U. अङ्कोपकायो: to believe, to subserve; तनुति,
-   तानयति-तै pre. अतानीत, अतानात, अतीतनत-न Aor.
+द्रक्ष् 1 P. गौरवादिषै to make a discordant sound; द्रिक्षुति pre.
+   दुद्राक्ष perf. अद्राक्षीत aor.
 
-तन्त् 10 A. कुड़ुम्भुधारणै to support, to govern; तन्वुयतै pre
-   तन्वुयाञ्चक्रै perf. अतीतन्वुत Aor. तितन्वुयिषतै des. Pass-तन्वुयतै.
-
-तप् 1 P. सन्तापै to shine, to heat; तपुति pre. तताप, perf. तप्ता
+द्रु 1 P. गतौ to run, to rush, to melt; द्रवुति pre. दुद्राव perf.
+   द्रोता p. fut. द्रोप्युयुति fut. अद्रोष्युयत् con. अद्रवत् aor. दुद्रूषतै des.

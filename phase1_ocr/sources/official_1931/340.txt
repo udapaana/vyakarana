@@ -1,41 +1,43 @@
-[Internal page: 326]
+[Internal page: 340]
 
-326                    SANSKRIT GRAMMAR.                     [ § 512-51
+340                    SANSKRIT GRAMMAR.                     [ § 545-548
 
-2 जजरिथ्   जजरथुः   जजर           2 बभ्रमिथ्   बभ्रमथुः   बभ्रम
-  जेरिथ्    जेरथुः    जेर             भ्रेमिथ्     भ्रेमथुः    भ्रेम
-3 जजार्    जजरतुः   जजरःः          3 बभ्राम्    बभ्रमतुः   बभ्रमुः
-          जेरतुः    जेरःः                       भ्रेमतुः    भ्रेमुः
+              THIRD VARIETY OR FORM
 
-       भ्राज् 1. Â. ' to shine.'      स्त्यम् 1. P. ' to sound.'
+§ 545.  Terminations:—
 
-1 बभ्राजे   बभ्राजिवहे  बभ्राजिमहे     1 सस्त्याम्  सस्त्यमिव   सस्त्यमि
-  भ्रेजे     भ्रेजिवहे    भ्रेजिमहे       सस्त्यम्   स्त्येमिव    स्त्येमि
-2 बभ्राजिषे बभ्राजाथे   बभ्राजिध्वे    2 सस्त्यमिथ् सस्त्यमथुः  सस्त्यम
-  भ्रेजषे    भ्रेजाथे     भ्रेजध्वे       स्त्येमिथ्  स्त्येऽथुः   स्त्येम
-3 बभ्राजे   बभ्राजाते   बभ्राजिरे     3 सस्त्याम्  सस्त्यमतुः  सस्त्यमुः
-  भ्रेजे     भ्रेजाते     भ्रेजिरे                   स्त्येमतुः   स्त्येमुः
+The ssme as those of the 2nd Variety.
 
-   रञ्ज्, भाज्, राज् are to be similarly conjugated.
+§ 546.  Roots of the tenth class, causals, some derivatives,
+the root कम् and the roots भि, हु, and घू when expressing the
+gent, take this Variety necessarily, and the roots घे and चि
+o it optionally.
 
-§ 513  भू forms its base irregularly as बभूव—
+§ 547.  ( a ) The root is first reduplicated and then the aug-
+ment अ and the terminations are added as in the 2nd Variety.
+( b ) Final इ and उ are changed to इष् and उष् before अ and
+final आ is dropped.
 
-1 बभूव     बभूविव    बभूविम         1 बभूवे   बभूविवहे   बभूविम
-2 बभूविथ्  बभूवथुः   बभूव          2 बभूविषे  बभूवाथे    बभूविध्
-3 बभूव     बभूवतुः   बभूवुः        3 बभूवे   बभूवाते    बभूविरे
+                     Paradigms.
 
-§ 414.  जि and हि are respectively changed to गि and
-and क्षि optionally to ङि, after the reduplicative syllable in t
-Perf. and the Desiderative.
+              भि P. Â. 'to go,' &c.
+                      Par.
 
-                    जि                                हि
+    1 अभीभियम्         अभीभियाव         अभीभियाम
+    2 अभीभियः         अभीभियतम्        अभीभियत
+    3 अभीभियत्         अभीभियताम्        अभीभियन्
+                      Âtm.
 
-1 जिगाय    जिगियिव   जिगियिम        1 जिघाय    जिघियिव    जिघियम
-  जिगय                                जिघय
-2 जिगेथ    जिग्यथुः   जिग्य          2 जिघेथ    जिघ्यथुः   जिघ्य
-  जिगयिथ्                             जिघयिथ्
-3 जिगाय    जिग्यतुः   जिग्युः        3 जिघाय    जिघ्यतुः   जिघ्यु-
-                                     क्षि.
+    1 अभीभियि          अभीभियावहि        अभीभियामहि
+    2 अभीभियथाः        अभीभियथाम्        अभीभियध्वम्
+    3 अभीभियत          अभीभियताम्        अभीभियन्त
 
-    1 चिक्षाय-चिक्र्य्        चिकियव              चिकियम
-      चिचाय-चिच्य्         चिच्यव              चिच्यम
+हु—भुहुवत् 3 Sing.; घू—अघुघुवत् 3 Sing; कम्—अचकमत-
+अचीकमत also, when it takes अराध् ; see § 461 and § 548. )
+sing  चि-अचिचियत् ( see p. 338. foot-note ); घे—अेदधर्त्-
+घे also takes 1st and 6th Varieties besides this ).
+
+§ 548.  Roots of the tenth Class and Causals:—
+
+( a ) The अष् of the base is dropped ( the vowel changes tak-
+ing place before it being reta'ned ) and a short vowel substi-

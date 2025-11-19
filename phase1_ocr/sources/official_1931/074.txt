@@ -1,31 +1,36 @@
-[Internal page: 55]
-§ 89-92 ]                    DECLENSION.                    55
+[Internal page: 74]
+74                    HIGHER SANSKRIT GRAMMAR.                    [ § 121-122
 
-Decline similarly सुभण् , वार् and other words ending in थ्, र् or ल्. e g.
+this ग् becomes ग् before the case-terminations beginning with
+non-nasal mutes, i. e. before भ्, स्, सु ( Pan. VIII. 4. 56 );
+thus युग्भिः, युग्भ्यः ( or optionally युङ्भिः, युङ्भ्यः ), युक्सु ॥ So in
+the mas. and fem. nom. pl. we have युज् ( loc. युजि ), nom. युजः
+or युजी ( fem. ), dat. युजे. ( युगे ), gen. युजः ( युगः ), ins. युजा
+( युग्-आ = युगा ॥ )
 
-        N. A.  वाः                वारी                वारि
-        I.     धारा              वाभ्र्याम्            वाभिः
-        L.     वारि              वारोः               वार्षु
+( b ) Similarly राज् ( shining ) makes राट् ( nom. sing. ), राजी
+( राजा, nom. fem. sing. ), राजम्, राजे, राजः &c. ॥
 
-§ 90. Bases ending in क्, ख्, ग्, घ्, ङ्, र्, ठ्, ड्, ढ्, ण्, ह्, and प्, फ्, ब्, भ्.
+§ 122. ( 1 ) दिशि to point, rule. This root gives rise to
+three nominal bases differing in gender; the mas. base is दिश्
+( Pan. III. 2. 61 ; वा० III. 2. 70 ) which forms its nom. sing. after
+the analogy of युज्, viz. दिक् ॥ Thus वदिजः, प्रदिजः &c. ॥ The word
+occurs in the sense of 'Lord' or 'ruler,' being a compound and
+having a base in अच् ( Pan. VI. 1. 168 ).
 
-§ 91. (a) As a general rule the स् of the nom. singular is dropped. If there be a conjunct consonant at the end of a word the first consonant only is retained.
-
-  (b)  The final letter is changed to the first or third of its class when followed by nothing, to the third when followed by a soft consonant and first when followed by a hard consonant and remains unchanged before a vowel termination.
-
-  ( c ) त् is prefixed to the इ of the N. & Acc. plural in the case of neuter nouns ending in a consonant except a nasal or a semi-vowel; but not in the case of a noun derived from the frequentative base.
-
-§ 92. Paradigms :—
-
-                सामिधु f. a holy stick.
-
-N. & V.  सामित् सामिधौ सामिधः Ab. सामिध: सामिद्भ्याम् सामिद्भ्यः
-  A.     सामिधम्  ,,     ,,    G.   ,,    सामिधोः    सामिधाम्
- In.     सामिधा सामिद्भ्याम् सामिदि: L. सामिधि  ,,       सामित्सु
-  D.     सामिधे   ,,     सामिन्द्धः
-            Neu. सुसमिध् ( शोभनाः सामिधः यस्मिन् )
-
-N. V. A.  सुसमित्  सुसमिधी  सुसमिन्धि
-            The rest like सामिधु f.
-
-Decline similarly सर्वेज्ञक, चित्रलिस्, क्षुभ्, सत्त्, सरित् , हरित् , विश्वजित् , अग्निमध्, तमोङ्गुद् , द्रुषद् ,  शुरद् , शेनिद् , घेलिद् , हुप्, गुष् , कङ्गुप् &c; e. g.
+( 2 ) Fem. दिश् is formed by the affix क्विप् by the
+general rule of Pāṇini किजुगुखश्मुखाणां कृज्विप्रयोर्न्युडपः ( Pan. III.
+2. 61 ), or by क्विप् by शिवादिभ्यश्च ( वा० III. 2. 77 ; Pan. VI.
+1. 63 ). Before case-affixes beginning with a consonant this fem.
+base becomes दिक् or दिग्; and ग् changes to ग् before the case-
+affixes beginning with non-nasal mutes viz. ( दिग् → ) दिग्भिः or
+दिङ्भिः, ( दिक् → ) दिग्भ्यः or दिङ्भ्यः, दिक्षु ॥ But optionally क् may
+remain intact by virtue of the rule कृदात्तः किः which appears
+to have been suggested by Vār., ( quoted in the Kās. on VI. 1.
+63 ); and thus we will have दिग्भिः or दिङ्भिः or दिक्भिः; दिग्भ्यः or
+दिङ्भ्यः or दिक्भ्यः ( similarly दिक्सु or दिक्षु ); so also in acc. pl.
+दिशः or दिक्षः ॥ The word दिश् occurs in the सं० in the sense of
+'side,' 'quarter' &c., and optionally takes an augment मुट् ( म्
++ क् ) before स् ( nom. affix ) by the rule वच्सुग् ( पू० II. 4. 3 ;
+Pan. VIII. 2. 72 ), and thus we have ( दिश् + म् + सु = दिशः
+or दिङ्मुः ) दिङ् ( accented either on the first or on the last

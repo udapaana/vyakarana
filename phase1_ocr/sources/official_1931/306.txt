@@ -1,42 +1,37 @@
-[Internal page: 292]
+[Internal page: 306]
 
-292                    SANSKRIT GRAMMAR.                    [ § 456
+306                    SANSKRIT GRAMMAR.                    [ § 487-493
 
-2. वृणेक्षि     वृह्यः     वृह्य          अवृणेट्-ड्   अवृह्यतम्   अवृह्यत
-3. वृणेह्ति    वृह्यः     वृह्नन्ति       अवृणेट्-ड्   अवृह्याताम्  अवृहन्
+छृद् छर्दितास—हे              छर्दिष्यामि–ध्ये     अच्छर्दिष्यम्–ध्ये
+                             छत्स्याति तस्ये     अच्छत्स्यम्–तस्ये
 
-         Imperative.                    Potential.
+वह् P. A. & वृह् P are similarly conjugated
 
-1. वृणहानि    वृणहाव    वृणहाम         वृह्याम्     वृह्याव      वृह्याम
-2. वृड्ढ्हि    वृह्यतम्   वृह्य          वृह्याः     वृह्यातम्    वृह्यात
-3. वृणेह्तु   वृह्यताम्  वृह्नन्तु      वृह्यात्    वृह्याताम्   वृह्युः
+ऋप्यै  ऋप्यैवितास–हे          ऋप्यैविष्यामि–ध्ये   अौप्यैविष्यम्–ध्ये
+      ऋप्यैवत्तास–हे          ऋप्यैवत्स्यामि–ध्ये  अौप्यैवत्स्यम्–ध्ये
+दृश्र  दर्शितासि            दर्शिष्यामि        अदर्शिष्यम्
+दीर्घी दीर्घितासे           दीर्घिष्ये         अदीर्घिष्ये
 
-                   पिश् P. ' to grind.'
+वेवी is similarly conjugated.
 
-         Present.                       Imperfect.
+                   ( 4 ) THE PERFECT ( लिट् )
 
-1. पिनश्मि     पिश्वः     पिश्मः         अपिनशम्     अपिश्व       अपिश्म
-2. पिनक्षि     पिष्ठः     पिष्ठ          अपिनट्-ड्   अपिष्टम्     अपिष्ट
-3. पिनष्टि     पिष्ठः     पिंशन्ति       अपिनट्-ड्   अपिष्टाम्    अपिशन्
+§ 488.  There are two kinds of Perfect,  Reduplicative  and Periphrastic.
 
-         Imperative.                    Potential.
+§ 489.  The Reduplicative  Perfect  is  formed  of  all  monosyllabic roots  beginning  with  consonants,  as  well as of those beginning with the vowels अ or आ, and इ, उ; and अ  short.
+    Exceptions—ऊय, अस्, कास्, आस्. These take the Periphrastic Perfect necessary.
 
-1. पिनशानि    पिनशाव    पिनशाम        पिश्याम्     पिश्याव      पिश्याम
-2. पिण्ढ्हि   पिष्टम्    पिष्ट         पिश्याः     पिश्यातम्    पिश्यात
-3. पिनष्टु    पिष्टाम्              पिश्यात्    पिश्याताम्   पिश्युः
+§ 490.  The Periphrastic  Perfect  is  formed  of  all  roots beginning with any vowel except अ or आ which is  naturally or prosodially long, and of roots of more than one syllable  ( roots of the 10th class and other  derivative  roots  included ). Exceptions:—ऊण् and चच्छ् which take the Reduplicative Perfects.
 
-    रिष् ' to distinguish ' should be similarly conjugated
+§ 491.  The roots उप्, विदू, जाग्, गौं, हौं, घूं, इस्, and  दरिद्रा  take both the perfects.
 
-                   युज्. P. Â. ' to join.'
+              THE REDUPLICATIVE PERFECT.
 
-                          Present
+§ 492.  The root is reduplicated according  to  the  rules  laid down in §§ 444—449.
 
-1. युनज्मि     युञ्ज्वः   युञ्ज्मः       युञ्जे      युञ्ज्वहे     युञ्ज्महे
-2. युनक्षि     युङ्क्यः   युङ्क्य       युङ्क्षे    युञ्जाथे      युङ्क्ध्वे
-3. युनक्ति    युङ्क्तः   युञ्जन्ति     युङ्क्ते    युञ्जाते      युञ्जते
+§  493.
+                          Terminations.
 
-                          Imperfect.
+         Parasmaipada.                   Ātmanepada.
 
-1. अयुनजम्   अयुञ्ज्व  अयुञ्ज्म      अयुञ्जि    अयुञ्ज्वहि   अयुञ्ज्महि
-2 अयुनक्-ग्  अयुङ्क्तम् अयुङ्क्त     अयुङ्क्थाः अयुञ्जाथाम् अयुङ्क्ध्वम्
-3. अयुनक्-ग् अयुङ्क्ताम् अयुञ्जन्    अयुङ्क्त   अयुञ्जाताम् अयुञ्जत
+1. अ      व      म                1. ए      वहे      महे

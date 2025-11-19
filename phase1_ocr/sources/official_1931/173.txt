@@ -1,19 +1,34 @@
-[Internal page: 155]
-§ 254                    BAHUVRIHI.                    155
+[Internal page: 173]
+अव्ययीभावः                                                           173
 
-but दीर्घसक्थिय शकटम् 'a cart with long poles'; स्फूलाक्षा चेषुयाष्टिः 'a bamboo stick with big eyelike holes'; (where अ is added by § 282 (c) and hence the feminine ends in आ; see N. B. For सक्थि see also (e) below.
+§ 308. पूर्वपदप्रकृत्यैकत्वे ॥
 
-N. B The fem. of Bah. compounds ending in अक्ष is formed by adding आ when it qualifies an inanimate object.
+When the first member retains its original form (प्रकृति), it is treated as one unit.
 
-(b)* अङ्गुलि, when the compound is an attribute of द्रुरुः; पञ्च अङ्गुल्यो यस्य तत्पञ्चाङुलं द्रुरुः (अङुलिसह्रशावचं शास्त्राद्विशेषणकाठम्); but पञ्चाङुलौ हस्तः the hand having five fingers.
+Obs. This principle governs how the first member of an Avyayībhāva maintains its basic stem form throughout the compound.
 
-(c)† The words मूर्धन् preceded by द्वि or त्रि, लोमन् preceded by अन्तर् and वाहि; and नेत्र used in apposition to the name of a constellation of stars; द्वौ मूर्धानौ यस्य स द्विमूर्धः two-headed; त्रिमूर्धः; अन्तर्लोमः; वाहिलोमः; यत्रा नेता यासां ताः घुमनेता रात्रयः 'nights of which the Mriga constellation is the leader' i. e. 'whose position in the heavens marks their advance;' so पुष्यनेत्रः &c.
+§ 309. पूर्वपदात् सञ्ज्ञायाम् अग्रहः ॥
 
-(d) † Feminine words ending in a termination showing 'a complement of,' and the word प्रमाणी; e. g. कल्याणी पञ्चमी यासां रात्रीणां ताः कल्याणीपञ्चमा रात्रयः; 'nights whose complement is an auspicious fifth night.' स्त्री प्रमाणी यस्य अर्तौ स्त्रीप्रमाणः 'one whose authority is a woman.'
+From the first member, when it has a technical designation, there is no initial change.
 
-(e) § हलि and सक्थि optionally become हूल and सकृथ when preceded by अ, दूस or डू; अहलः-हूलिः having no plough; असकृथः-
+Example:— प्रादुर्भाव 'manifestation' - here प्र retains its form as a recognized upasarga.
 
-* अङुलेदैकिणि । Pān. V. 4. 114.
-† क्षित्रिभ्यां च मूर्धनः । अन्तर्वैहिभ्यां च लोमनः । Pān. V. 4. 115, 117. नेतुनक्षत्रे अलुकदयः । Vart.
-‡ अध्यूर्णीप्रमाण्योः । Pān. V. 4. 116.
-§ नञअदूःषुभ्यो हलिसक्थ्योरन्यतरस्याम् । Pān. V. 4. 121. ह्रास्वयोरितै पाहान्तरम् । Sid. Kau.
+§ 310. समासान्तः पराः अव्ययीभावे ।
+
+At the end of an Avyayībhāva compound, the later elements (पर) become fixed.
+
+Obs. This means that once an Avyayībhāva is formed, it becomes invariable and indeclinable.
+
+§ 311. विभाषा सुपो बहुलम् ॥
+
+Optionally, and in various ways, case-endings (सुप्) may be treated differently.
+
+Obs. This acknowledges that there are variations in how case-endings are handled in the formation of Avyayībhāva compounds, and that usage may vary.
+
+Conclusion of Chapter IX - Avyayībhāva
+
+The Avyayībhāva compounds form an important class of indeclinable compounds in Sanskrit. They are characterized by:
+1. Being absolutely indeclinable (अव्यय)
+2. Having neuter gender and singular number in form
+3. The first member determining the meaning
+4. Various case-relations being preserved in the sense though not in form

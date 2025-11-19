@@ -1,45 +1,44 @@
-[Internal page: 700]
+[Internal page: 714]
 
-138                   SANSKRIT GRAMMAR.
+152                   SANSKRIT GRAMMAR.
 
-श्वैन्द् 1 A. भुवैद्युै to become white; श्वैन्दुतै pre. शिश्वैन्दै perf. अश्वैन्-
-   दीष्ट Aor.
+हम्य् 1 P. गतौ to go; हम्युति pre. जहाम perf. हमिष्युति fut. अहम्यीत्
+   Aor.
 
-                              ष—
+हय् 1 P. to go, to worship, to sound, to be weary; हयुति pre.
+   जहाय perf. हयितै p. fut. अहयीत् aor. हयित p. p.
 
-षिव् 1 & 4 P. निरसनै to spit, to sputter; षीवुति, षीव्युति pre. तिषैव,
-   टिष्टेव perf. टेविता p. fut. अषैवीत् aor. षीव्युयात् ben तिषिविषति,
-   तुषैषूषुति, टुषैषूषाति des. Cau.—षैवयुति-तै pre. षष्युत p. p.
+हर्य् 1 P. गतिकान्युौ: to go, to worship, to take; हर्यति pre. जहर्य
+   perf. अहर्यीत् Aor. जिहर्यिषति des
 
-ष्वङ्कु 1 A. to go, to move; ष्वङ्कुतै pre. षुष्वङ्कै perf. ष्वाङ्कुिता p. fut.
-   अष्वङ्कुीष्ट aor
+हल् 1 P विक्षेषनै गतौ च to plough, to go; हलुति pre. जहाल perf.
+   अहलीत् Aor. जिहलिषति des
 
-                              स—
+हस् 1 P. हसनै to smile, to laugh at, to excel, to bloom &c.;
+   हसुति pre. जहास perf. हसिता p fut. अहसीत् aor Pass.—हस्युतै
+   pre. Cau,—हासयाति-तै pre. अजीहसत-न aor जिहसिषाति des.
+   हसित p. p.
 
-सग् 1 P. संद्रणै to cover; संगाति pre. सागिष्युति fut. असगीत् Aor.
+हा 3 A. to go, to attain, to get; जिहीतै pre. जहै perf. हाता p.
+   fut. हास्युतै fut. हाषीष्ट ben. अहासत aor जिहासतै des. Pass,—
+   हायुतै pre अहायि aor. हात p. p.
 
-सघ् 5 P हिंसायां to kill; सघोति pre. असघीत्, असाघीत् Aor.
+हा 3 P. परित्युयागै to abandon, to resign, to let fall, to omit; जहाति
+   pre. जहौ perf. हाता p fut. अहासीत् aor. हैयुयात् ben जिहासति
+   des. Pass —हीयुतै pre. अहायि aor. Cau,—हापयाति-तै pre. अजी-
+   हषत-न aor हीन p. p हित्वा ger.
 
-सङ्कुैत् 10 U. आमन्त्र्युणै to invite; सङ्कुैतुयाति-तै pre. असुसङ्कुैतत-न Aor.
+हि 5 P. गतौ to go, to send, to shoot, to promote; हिनोति
+   pre. जिघाय perf. हेता p. fut. अहैषीत् aor. हीयुयात् ben. जिहीषाति
+   des. Cau.—हाययाति-तै pre. अजीहिषत-न aor. Pass.-हीयुतै pre.
+   अहायि aor. हित p. p.
 
-संग्राम् 10 A. युद्धै to fight; संग्रामुयतै pre. संग्रामयिष्युतै fut.
-   असुसंग्रामत Aor.
+हिंस् 1 P. हिंसायां to kill, to injure, to torment, to hit; हिंसुति
+   pre. जिहिंस perf. हिंसिता p fut अहिंषीत् aor. Pass,—हिंस्युतै
+   pre. अहिंसि aor. जिहिंसिषाति des हिंसित p p.
 
-सच् 1 A. सैचनै सैवनै च to sprinkle, to serve; सचतै pre. सचिष्युतै
-   असचीष्ट Aor.
+हिंस् 7 P. to kill &c.; हिनुस्ति pre. अहिनत-न imperf. हिनिष 2nd
+   sing. Impers. ( See the above root for the other forms ).
 
-सच् 1 U. समद्वायै to be collected; सचुति-तै pre. असचीत्, असाचीत्,
-   असचीष्ट aor.
-
-सञ्ज् 1 P. सङै to embrace, to cling to, to fasten; सञ्जुति pre.
-   ससञ्ज perf. सष्टक्तं p. fut. असाझीत् aor. सञ्ज्युयात् ben. Pass,—
-   सञ्ज्युतै pre. असज्जि aor. सक्त p. p.
-
-सट् 1 P. अवयवै to be a limb or part of; सटुति pre. असटत्, असा-
-   टीत् Aor.
-
-सट् 10 U. हिंसायां to kill, to be strong, to dwell, to give; सट्युति-
-   तै pre. सट्युयाचकार-चक्रै perf. सट्युितै p. fut. असुसट्त-न aor.
-
-सट् 10 U. to finish, to adorn, to go, to leave unfinished; साट्युाति
-   -तै pre. साठयाचकार-चक्रै perf साठयिता p. fut. अषौसटत-न aor.
+हिंस् 10 U. to kill, &c.; हिंसयाति-तै pre. हिंसयाचकार-चक्रै-आस-चश्रु
+   perf. हिंसयितै p. fut. अजिहिंसत-न aor. जिहिंसयिषाति-तै des.

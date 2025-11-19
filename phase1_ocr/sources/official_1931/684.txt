@@ -1,38 +1,51 @@
-[Internal page: 670]
+[Internal page: 684]
 
-108                   SANSKRIT GRAMMAR.
+122                   SANSKRIT GRAMMAR.
 
-रभु 4 P. हिंसार्तैरांम्भुयो: ( संरांभिदनिष्पुति: ) to hurt, to destroy, to
-   subdue, to finish, to accomplish, ( to be completed, in the
-   Vedas ); रभ्युति pre. ररभु perf. रब्धिता or रदा p. fut. रभिष्युयुति
-   or रस्युयुति fut. अरभिष्युयत्-अरस्युयत् con. अरभूत् aor. Pass.—
-   रभ्युतै pre. अरभि aor. Cau.—रभुयाति-तै pre. अररभुत-न aor.
-   रिरभिषति, रिरस्सुति des. रब्ध p.p.
+वल् 1 A. संवरणै, सञ्चालनै च to cover, to move about, ललतै per.
+   वलिष्युतै fut. अवलीष्ट aor. विवलिषति-तै des.
 
-रभु I P. व्युयुक्तायां वाचि to speak distinctly, to praise ( in the
-   Vedas ); रभुति pre. रराभु perf. अरभीत, अराभीत, aor. रिरभिषति
-   des.
+वल्ल् 10 U. to garner to speak; वल्लयाति-तै pre. वल्लयाचकार-चक्रै
+   perf. अववल्लत-न aor.
 
-रफ् 1 P. हिंसाग्यां गतौ च to go, to hurt; रफुति pre. रराफु perf.
+वल्ग् 1 U. to go, to dance, to be pleased, to eat; वल्गाति-तै pre.
+   ववल्ग, ववल्गै perf. वल्गिता p. fut. अवल्गीत् , अवलीष्ट aor.
+   वल्गित p. p.
 
-रभु 1 A. राभुस्युयै to begin, to embrace, to long for, to act rashly;
-   रभुतै pre, रैभै perf. रभुषा p. fut. रस्युयुतै fut. अरस्युयत con. अरब्धु
-   aor. रस्सीष्ट ben. रिरभुतै des. Cau —रभुयुयाति-तै pre. अररभुयत-न
-   aor. Pass —रभ्युतै pre. अरभि aor. रभुष p. p.
+वल्ह् 1 A. भौजनै to eat; वल्हतै pre. अवल्हीष्ट aor.
 
-रम्* 1 A. to play, to rejoice at, to take rest; रमतै pre. रैमै perf.
-   रन्ता p. fut. रंस्युयतै fut. अरंस्युत con. अरंस्त, with नि, व्युरंसीत् aor.
-   रंसीष्ट ben. रिरंसतै des. Pass.—रम्युतै pre. Cau —रमुयाति-तै pre.
-   अरिरमत-न aor. रत p. p. रत्वा, आरम्यु, आरम्यु ger.
+वह् 1 A. संवरणै to cover or be covered, वहतै pre. ववह्रै perf.
 
-रम्भु 1 P. शब्दै to sound; रम्भुतै pre. ररम्भै perf रभिष्युयुतै fut. अरभिष्टु
-   aor. Pass.—रम्भुयतै
+वल्ह् 1 A. परिभाषणोत्संसादनैषु to speak, to be prominent, to kill,
+   to give; वल्हतै pre. ववल्है perf. अवल्हिष्ट aor.
 
-रय् 1 A. to go, to move; रयतै pre, रैयै perf. रयिता p. fut. अरयिष्टु
-   aor. रयित p. p.
+वश् 2 P. काकौ to wish, to shine; वष्टि pre. उवाश perf. वशिता p.
+   fut. अवशीत्, अवशीत aor. उच्युयात् ben. विवशिषति des. Pass.—
+   उश्युतै pre. अवाशि aor. उशित p. p.
 
-रस् 1 P. शब्दै to roar, to make a noise, to sing, to praise ( in the
-   Vedas ); रसुति pre, रराष perf. रसिता p. fut. अरसीत, अरासीत
-   aor. रिरसिषति des.
+वष् 1 P. हिंसायां to injure, to kill; वषुति pre. ववाष perf. अवषीत्,
+   अवाषीत aor.
 
-* It is Parasm. when it is preceded by नि, आ, परि and उभु.
+वस् 1 P. निवासै to dwell, to be, to spend ( time ); वसति pre. उवास
+   perf. वस्ता p. fut. वत्स्युाति aor. उष्युयात् ben. विवसति des.
+   Pass,—उष्युतै pre. अवासि aor. Cau.—वासयाति-तै pre. अवीवसत-
+   न aor. उषित p. p. उषित्वा, षोष्ट ger.
+
+वस् 2 A. आच्छादनै to wear, to put on; वस्तै pre. ववसै perf. वसिता
+   p. fut. अवसीष्ट aor. Cau,—वासयति-तै pre. अवीवसत-न aor.
+   विवसिषतै des. वसित p. p.
+
+वस् 4 P. ऋद्धै to be straight, to be firm, to fix, वस्युति pre. वस्ति-
+   ष्युति or वस्युति des. p. प. वसिता, वस्ता ger. वस्त-वस्युति imp.
+
+वस् 10 U. वैद्युरङग्युपादुहष्टै to love, to cut, to take away; वासयाति-
+   तै pre. वासयिष्युति-तै fut. अवीवसत-न aor. वास्युयात्, वासयिषीष्ट
+   ben.
+
+वस् 10 U. निवासै to dwell, वसयाति-तै pre. वसयिता p. fut. अववसत-न
+   aor.
+
+वसु 1 A. to go; वरुतै pre. वसिष्युतै fut. अवसीष्ट aor.
+
+वसु 10 A. अदनै to hurt, to kill, to ask, to go; वसयतै pre.
+   वसयाचक्रै perf. अववसत aor. ( Also written as वसू ).

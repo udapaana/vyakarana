@@ -1,0 +1,53 @@
+---
+page_number: 488
+internal_page: 488
+chapter: "Syntax"
+section: "syntax"
+rules_starting: ["§ 830", "§ 831"]
+rules_continuing: ["§ 829"]
+has_footnotes: true
+---
+
+प्रयुनुयुनं निरोयु कुच्चुयुस्युयुयुङु वद्युयुयुयु (Māl. Mād. IV) the great
+king gives pure fruit to teachers.
+
+(c) The Dative is sometimes used instead of the Genitive;
+may govern the Dative or the Accusative, युयुयुयुयुयु पुयुयुयुयु:
+'Pratyūṣa pūrvam paryaṅke samviviśya । pratidivasa sa eveha
+युयुयुनं स्युङुट्युट् but with a sense of 'tending to,' 'inclining to,' the
+Dative expresses the accusative case (Ray. X. 13.) the gods bowed
+down to him (Ś'ak. V.) the विश्वामित्राय युयुवुयु (tending towards Visvā-
+mitramahā yamaṇī (शुयुङुत्युयुचुपि) गणितुं (Kun. II. 3.) having
+devotion to the feet of that ascetic;' etc.
+
+(d) † The Dative of a noun expressive of age or of
+तीरुचुनु युट्युङु &c. and of needing such as हु with इट्, युट्, with हि,
+युन्युनु the Dative of age; युनु युयुत युयुनु अव्युनै युयुयुङुत्युत्रु प्रतिपोद्युयुयुयु
+युयुयुङुयु शुनुयुपि कुयुयुयुयुतु वा । (Rag. XI. 7.); the god is king
+Śacībad that girl stays at the age; युङु ते the been समृङुयुत्युङु
+Madhu shall give him यस्युरुस्युयुयुत्युत्युयुत्युयुयुत्युच्युरुयुर्युनु युयुत युयुयुत in
+this tense form, &c, युयुयुनुत्युङुदुयुच् युयुदुरो गनु विष्युणुयुति (Ś'ak. I.)
+these (trees) these are to be first at the day; युच्युं after the morning
+refreshment has been taken (in other words); as a devotee's
+heavenly chariot picked him ष्. i. e. to detach his attachme.
+lest it prevent मुद्युयुनै युनुयुयुङु (Rag. XV. 21.)
+
+§ 830. 'The indirect object of the root वृट्. i. e. 'to think'
+or to esteem युत्युयुनु युङुयुयुनै युनुयुयुङु (the Dative or even the Gen. may be used
+in this sense); one says पुयुनुत्युयुनै युस्युयुनो युयुयुदुयुनैयुयुच गुयुयुत; one does
+not consider thee a stray; but युट् युदुयुङु युयुयुनं (युङु युट्युट् । ) when
+one says प्रयुयुनुयुनं युट्युयुयुनै युयुयुनुयुनुवेङु 'I am in fear in this as युङु युदुयुङु
+युयुयुनं (Acc.)
+
+§ 831. The words expressive of age or
+
+---
+
+*सत्युयुसुयुयुयुयुयु निरुयुयुयुङुछुदुट् । Pāṇ. II. 3 17. Or युङुयुयुयुङु
+विप्रुयुयुयु युयुयुनो दुयुयुयुयुङु युयुयुयुनुत्युयुदुट्युयुनुनोयुयुणुयुयुयुच्युच्युयुत्युयु
+युयुयुयुयुङु ' i. e. instead of the gen. the dat. is used; one does not say
+प्रत्युयुयुनो युयुयुयुनुयुनुत्युयुयुयुयुत्युयुङु युयुयुनुयुवेङु वुयुत्युयुयुयुयुयुङु one says युयुयुयुनो युयुयुनं
+न युयु युयुनं युयुयुनं युयुयुनं युदुयु न युयुं युयुङु युयुयुनं युयुदुयुनुः in the former case
+the oblique case can express the fear, tense fear, intense fear, but
+not always; words expressive of 'to think,' 'to esteem,' &c.
+may be optionally used.

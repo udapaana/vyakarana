@@ -1,43 +1,41 @@
-[Internal page: 76]
-76                    HIGHER SANSKRIT GRAMMAR.                    [ § 123
+[Internal page: 96]
+96                    SANSKRIT GRAMMAR.                    [ § 144-146
 
-Dual.
+§ 144. The affix अति is added to तद् , यद् and किम् to show
+number or measure e. g  तति 'so many', यति 'as many,' and
+कति ' how many'. These are declined in the plural only, and
+take no termination in the Nom and Acc. ; e. g. Nom. and
+Acc. कति Inst. कतिभिः the rest like हरि.
 
-    Nom., voc., and acc.    दिशौ        Instr., dat., and abl.    दिग्भ्याम् or दिङ्भ्याम्
-                                                        or दिक्भ्याम्
-    Gen. and loc.        दिशोः
+        8—Reciprocal Pronouns.
 
-Plural.
+§ 145. Reciprocity is expressed by the repetition of the
+pronominal adjectives अन्य, इतर and पर; e. g. अन्योन्य, इतरेतर,
+and परस्पर. These are generally used in the sing. and also
+advertially e. g. परस्परेण स्पृहणीयदोभर्म &c. ( Rag. VII. 14);
+परस्परं विबद्धन्ते &c. They are more commonly used as the first
+members of compounds; as अन्योन्यमोभाजनवाद् बुधुत &c. (Ku.
+I, 44, इतरेतरयोगाः (Sis. X. 24.) &c.
 
-    Nom. and voc.        दिशः        Acc.        दिशः or दिगः
-    Instr.            दिग्भिः or दिङ्भिः        Dat. and abl.    दिग्भ्यः or दिङ्भ्यः
-                    or दिक्भिः                    or दिक्भ्यः
-    Gen.            दिशाम्            Loc.        दिक्षु or दिक्सु
+        9- -Possessive Pronouns.
 
-                    NEUTER.
+§ 146. Possessive pronouns are formed by means of the
+secondary affix ईय added to तद्, एतद्, अस्मद्, and युष्मद् ; and
+अ and ईन added to भवत्, and युष्मद्, changed respectively
+to माम्क and तावक् in the sing. and आस्माक and यौष्माक in the
+plu. before these ; e. g.
 
-( उदक् )
+        अस्मद्
+        Mas.
 
-Singular.
+Sing.                        Plural.
+मदीय 'my, mine'        अस्मदीय 'our, ours'
+मामक        ,,        आस्माक        ,,
+मामकीन        ,,        आस्माकीन        ,,
 
-    Nom., voc., and acc.    उदक्        Instr.        उदका
-    Dat.                उदके        Abl.        उदकः
-    Gen.                उदकः        Loc.        उदकि or उदगि or उदचि
+        Fem.
 
-Dual.
-
-    Nom., voc., and acc.    उदची or उदगी or उदचा    Instr., dat., and abl.    उदग्भ्याम्
-                                                            or उदङ्भ्याम्
-    Gen. and loc.        उदचोः
-
-Plural.
-
-    Nom., voc., and acc.    उदक् or उदञ् च or उदगि    Instr.    उदग्भिः or उदङ्भिः
-    Dat. and abl.        उदग्भ्यः or उदङ्भ्यः        Gen.    उदचाम्
-    Loc.            उदक्षु
-
-Note.—The student should in this way make the declension
-tables of the words प्राञ्च् ( eastern ), प्रत्यञ्च् ( western ), and
-अवाञ्च् ( southern ), which, like उदञ्च् ( northern ), are derived
-from the root अञ्च् by the affix क्विप् or क्विन् ( according to the
-genders mas. and neu. ) ॥
+Sing.                        Plural.
+मदीया my, mine'        अस्मदीया 'our, ours'
+मामिका        ,,        आस्माकी        ,,
+मामकीना        ,,        आस्माकीना        ,,

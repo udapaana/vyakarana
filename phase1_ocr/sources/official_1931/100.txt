@@ -1,34 +1,43 @@
-[Internal page: 80]
-80                    HIGHER SANSKRIT GRAMMAR.                    [ § 129-130
+[Internal page: 100]
+100                    SANSKRIT GRAMMAR.                    [ § 154-157
 
-Plural.
+A.        एकम्        एकाम्        द्वौ            द्वे
+I.        एकेन        एकया        द्वाभ्याम् The rest like
+D        एकस्मै        एकस्यै        ,,            the mas.
+Ab.        एकस्मात्        एकस्याः        ,,
+G.        एकस्य        ,,            द्वयोः
+L.        एकस्मिन्        एकस्याम्        ,,
+एक neu. एकम् N. A. The rest like the mas.
+एक when it does not mean 'one' is declined in the dual and
+plural also.
 
-    Nom. and voc.        युवानः        Acc.        युवनः
-    Instr.            युवभिः or युवणभिः    Dat. and abl.    युवभ्यः or युवणभ्यः
-    Gen.            युवनाम्        Loc.        युवसु or युवणसु
+§ 155. The various meanings of एक are:—
+        एकोल्पार्थे प्रधाने च प्रथमे केवले तथा ।
+        साधारणे समानेति संख्यायां च प्रयुज्यते ॥
 
-§ 130. मघवन् ( epithet of इन्द्र ) follows the decl. of
-युवन्, but with certain exceptions. Thus the forms of युवन् are
-allowed to occur throughout its declension ( युवभ्यवत्मघवा Kāsikā
-on VII. 1. 1 ) ; and, besides these, there are the following
-permissible forms viz. मघवन्, मघवा, मघवन्, मघवानम्, मघवने &c.
-The affixes of the nom. etc. dual and pl., viz. औ, ओस्, शस्, भिः
-&c., are to be applied to the end of the base ( यस्यचतुर्थीयुतन्ता निर्देशः,
-Pan. III. 2. 179 ), that is, these affixes are to be added without
-dropping the न् of मघवन्, being preceded by the final syllable वन्
-which is looked upon as an affix for this purpose. That is to
-say, न् is not to be dropped by the rule नाम्यपरे ( Pan. VI. 4. 3 ),
-and so we have the forms मघवन् + औ → मघवनौ → मघोनौ; so also
-मघोनौ, मघवन् + ओस् → मघोनोः, मघवन् + आम् → मघोनाम्, मघवन् + भिः →
-मघोभिः, मघवन् + भ्यः → मघोभ्यः, मघवन् + भ्याम् → मघोभ्याम्, मघवन् + सु → मघवत्सु ॥
-In these forms the voc. of मघवन् is व्, and the termination अस्
-( nom. pl. ) makes the form मघवनः, by dropping the न् of वन् and by
-changing न् to anusvāra ( मघवन् → मघवन् → मघवनः ) ; and then this
-anusvāra-न् may be changed to a parasavarṇa, which gives the
-word मघोनः ॥ According to the Kāsikā, if the vowel of a case-
-affix is dropped and is followed by a consonant, then by the
-rule प्रथमयोरटचौ, विराग इदाघः ( Pan. VIII. 3. 1 and Vart. ) we have
-this rule; viz: योऽयात् स्य:स्वाक्, being applicable; this rule would,
-in the case of words ending in अन् and आन्, drop the न् of the
-base before consonantal case-terminations, viz. भिः, भ्यः, भ्याम्;
-and thus in the instr. pl. we would get मघवभिः, मघवभ्यः &c.
+अल्प or little, प्रधान or chief, pre-eminent, प्रथम or foremost
+केवल or sole, only, साधारण or common ( as अर्थेषुश्रयकारित्वं द्वि
+आपद् एको देव: ), समान or the same ( as अर्थं एकान्वयो मम ), and
+संख्या or number ( one ).
+
+§ 156. प्रथम, चरम, अल्प, अर्थ, कतिपय, and words ending in
+the termination तय optionally form their Nom. plu. like that
+of pronouns; e. g. प्रथमेः-प्रथमाः, कोतपये-कतिपयाः, द्वितयेः-द्वितयाः &c.
+
+11—Pronominal Adverbs.
+
+§ 157. The pronominal adverbs that are most commonly
+met with are derived from the pronouns तद् , एतद् , यद् , इदम् ,
+किम् , and सर्व and the pronominal adjectives पूर्व, पर &c. by means
+of such affixes as तस् , त्र, *द, क् &c. added in the sense of the
+Ab. or the Loc., द्वा , द्वानीम् , द्वि &c. showing time, ताद् , † showing
+point of time, place or direction, आ, आत् आहि &c. expressing
+direction, था, थ + &c. expressing way or manner &c. ; e g.
+
+* See § 130.
+† सर्वैकान्यदिपयन्तदः काले द्वा । इदमोहिल । अयुना दानीं च । तदो द्वा
+च । अनेयतनैहिठन्यत्तरस्याम् । Pān. V. 3. 15-19. 21.
+‡ द्वितीयान्द्रेथ्यं सामीपस्थभमयमाभ्यो हिरेदीराकाटेऽषपसागतिः । Pān. V.
+3. 27
++ उत्तराभरदक्षिणादातिः । दक्षिणादाच आहि च द्वारे । Pān. V. 3.
+34. 36. 3. प्रकारचते शाल । इदमस्थः किमश्च । Pān. V. 23-25.

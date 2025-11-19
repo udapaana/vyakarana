@@ -1,29 +1,39 @@
-[Internal page: 251]
+[Internal page: 265]
 
-§ 397-398 ]         CONJUGATION OF VERBS.                     251
+§ 421 ]              CONJUGATION OF VERBS.                     265
 
-दम् P  'to pacify' दाम्यति           alone, संवस्पति;  संवसति,  but
-आस् P  'to be wearied'  आम्यति.       प्रवसति only.
-क्षुध् P  'to endure' क्षुधाति.        मृत् P  'to sharpen' स्वति.
-कसू ' to be weary ' क्राम्यति,       छो P  'to cut' छ्यति.
-       क्लाम्यति.                     षो P  'to put an end to' स्यति.
-मद्*  ' to be intoxicated' मग्यति.    को P  ' to cut' षति.
-प्रस्* P.  ' to endeavour ' यस्यति,    कोद्‌-यत् P  'to fal1' क्रयति, ग्रसति.
-       पतति; but when followed by   रञ्ज् P  A  'to colour' रञ्जति-ते.
-a preposition except परा  it           किष् P  ' to be unctuous ' सिक्यते.
-belongs to the 4th class              नट् P  'to enrille, to pierce' तिरति.
+                      ईर् A. 'to go.'
 
-§ 398.  The following roots belong to the 1st and the 4th classes:—मात्,  रलाय ( आद् ), काय all  meaning to shine,  दीप् to fly, all A.  घ्रा,  कस्,  बस् to fear, लम्,  क्षीय to spit, हर् to be pleased,  स्पल्  to embrace,  रुष्  to  be angry or vexed तास्( I ) to turn out auspiciously, ( 4 ) to succeed, all Par , सह्र, 1  A.  4   P   to bear, घ-घ-अ-( घु ) to fall, रज्ज्  to be dyed, सर् to curse, धूप् 1.  P   4.  A.  to know, शुच्  1.  P.  to bewail, घ  P.  A  to be afflicted, चरु 4  1 A , 4.  P.  ard  किस्प् 4  P. to perspire, 1 A. to be anointed, &c.
+         Present.                        Imperfect.
 
-                      6th Class ( तुदादिगः )
+1. ईरे       ईर्वहे                      ऐरे       ऐर्वहि      ऐर्महि
+2. ईर्षे      ईराथे      ईर्ध्वे           ऐथाः     ऐराथाम्    ऐर्ध्वम्
+3. ईर्ते      ईराते      ईरते            ऐर्त      ऐराताम्    ऐरत
 
-दुम् P  'to wish' इच्छति            | भक्ष् P  A.  to fry प्रज्जाति-ते
-ऊह् P  'to eat' इक्षति              | विश् P  'to bake क्रदाति
-छ P  with उप् or  यति,  उपक्षि-      | ग्रङ्ख् P  to cut घुडाति
-       गति or यातिक्रताति            | कदू P  to deceive विञ्चाति.
-चित्र्  P.  to attract विश्यति.      | विच्छ् P.  to go विच्छायति.
-यत् P. to swallow गिलाति, गीराति     | सपूत्‌ P. to go विसूयाति.
-उड् P. to cut चुडाति, चुडाति         | घुच् U  to release प्रज्जाति-ते.
-प्रच्छ् P. to ask पृच्छति.            | लिप् P  to anoint लिम्पाति-ते.
+         Imperative.                     Potential.
 
-    *- ओत:  स्वति । Pāṇ.  3.  71    These four roots drop their  ओ
+1. ईरै       ईरावहै     ईरामहै          ईरीय      ईरीवहि     ईरीमहि
+2. ईर्ष्व     ईराथाम्    ईर्ध्वम्          ईरीथाः    ईरीयाथाम्  ईरीध्वम्
+3. ईर्ताम्    ईर्ताम्    ईर्ताम्          ईरीत      ईरीयाताम्  ईरीरन्
+
+                   चक्ष् A. 'to speak.'
+
+         Present.                        Imperfect.
+
+1. चक्षे      चक्ष्वहे    चक्ष्महे          अचक्षि    अचक्ष्वहि   अचक्ष्महि
+2. चक्षे      चक्षाथे    चक्षुढ्वे          अचक्षाः   अचक्षाथाम्  अचक्षुढ्वम्
+3. चक्षे      चक्षाते    चक्षते           अचक्ष     अचक्षाताम्  अचक्षत
+
+         Imperfect.                      Potential.
+
+1. चक्षै      चक्षावहै    चक्षामहै          चक्षीय    चक्षीवहि    चक्षीमहि
+2. चक्ष्व     चक्षाथाम्   चइुढ्वम्          चक्षीथाः  चक्षीयाथाम् चक्षीध्वम्
+3. चक्षाम्    चक्षाताम्   चक्षताम्          चक्षीत    चक्षीयाताम् चक्षीरन्
+
+                   कुष् A. 'to go.'
+
+         Present.                        Imperfect
+
+1. कुषे                                 अकुषि    अकुष्वहि    अकुष्महि
+2. कुष्षे      कुषाथे     कुडुढ्वे          अकुषाः   अकुषाथाम्  अकुडुढ्वम्
+3. कुष्टे      कुषाते     कुषते            अकुष्ट    अकुषाताम्  अकुषत

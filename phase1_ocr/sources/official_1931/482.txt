@@ -1,41 +1,44 @@
-[Internal page: 468]
+[Internal page: 482]
 
-472                  SANSKRIT GRAMMAR.                   [ § 784–786
+484                  SANSKRIT GRAMMAR.                   [ § 815–817
 
-agrees with  the  one  nearest  to  it  स  वा  वयं  वा  तत्स्वीकुरिष्यामः   he
-or we  accomplish  that;  अहं  रामोभवा  राजा  छत्रभोगो  वा  भरिष्युति
-either I or King Rāma or Lakshmaṇa will perish.
+§ 815.  * A  characteristic  attribute indicative of the existence
+of a particular  ste'e  or  condition  is  put  in  the  Instrumental;
+जटाभिः तापसः he is an  ascetic  (which is  apparent)  from  his
+matted hair ( जटाभिः=प्रकृतितोद्भूतुर्यैजुट्युभिः Sid. Kan. ).
 
-§ 785.  The predicate may not always  be a  finite  verb;  but
-a participle, or an adjective or a noun may take its place.
+§ 816.  † The Instrumental  is  also used  to  express  the cause
+or motive or the object of purpose  of  an action as distinguished
+from the mere  instrument  of  it;  पुण्युनेनं  दृष्टो  हरिः  Hari  was  seen
+by  (virtue  of)  merit;  तेनाऽपराधेनं  दुण्ड्युयोऽस्युति  thou  art  to  be
+punished for that fault; अवुयुवुनैनं  वसति  dwells for the  purpose of
+studying;  also  when  the  object  to  be  accomplished  is  simply
+implied; अङुङु  अनेणु  away  with  your  efforts  i  e  they  will  not
+succeed; श्रुङुयुमु  सायुर्थं  नास्ति  इन्युयुयुः (Sid  Kau  ).
 
-(a)  When a participle  is  used  as  the  predicate  it  must
-agree with the subject in  number  and  gender;  स  वदन्कुदानं
-said that, स वदुक्तवती she said that, तेषां कत्यमानि छिद्राति their
-bonds were cut  off,  कृतं  छत्तं  the  work  is  done, छुता छिन्ना the
-creeper is cut, &c.
+§ 817  The Instrumental  is  used  with  words  expressing the
+idea  of—
 
-(b)  When an adjective or a noun is used  as  the  predicate,
-a form of the roots अस् or भू may  be  used  with it  or  may be
-omitted; the  adjective  used  predicatively  agrees  with  the
-subject in number and gender;  words  like  आत्मनु,  पत्रं,  भावना,
-स्थानु, प्रा &c. retain  their  gender  and  number;  सुशुयुयुः  हुटुभुः a
-good servant is difficult to be  obtained,  सुप्रयुः  पित्युः  गवाल्ब्युयुव युच
-good sons are the object  of  his  father's  pride,  समदुः  पदुः  पुस्तो
-riches are the abode  of  miseries,  स  तु  तेषां  अभिमानवर्धनो भवति
-in these cases the verb  agrees  with  the  subject  in  number and
-not with the noun  used  predicatively;  सत्पुरुदु  आयुयुर्वो  पदं  सन्ति
-and not अस्ति, &c.
+(a) excelling; हुनांच महाभाग  तुगुतिवेङुते  Oh fortunate one,  you
+excel  your  ancestors  in  that  (devotion);  भाराविङुत्युयुयुति  भारं
+सहुद्युयुयुशुः  (Mu  3. 17  )  he  surpasses.  by his lustre,  the  lustre
+of the sun; दुहितुरु संदुट् युणेयुसुयुयुञ्यु वनह्नुगिः । S'ak. I.
 
-§ 786.  When a substantive or an adjective is used  predica-
-tively with verbs of incomplete predication  such as  युद्  to grow,
-to seem, to be, to appear,' &c.  the  substantive  or  adjective
-used must agree with the subject in case;  एषं मे  विश्युयुयुरुः  this is
-my  resolve;  सः  श्युयुतोरुः  प्रजानरुह्नोः छुच्छुयुर्  that  king  seems
-wakened  through  wakefulness; नयुत्युड्युप्रुट्युड्युयुनयुरुयुयु  desirous of
-taking hold of the three worlds.
+(b) resemblance, likeness, equality; स्युरेणु पितरुयुट्युदुरुति  resembles
+his father in vo:ce;  देदुवुन्युयुनं  स्युरेणु  च  रायुयुदुयुच्युदुट्युरुति  (Utta.  4.);
+अस्य युयुं सादुट् हुनुनं होचुनं  वादुयुति  his face resembles that of his mother;
+विष्णुयुनुयु  पड्युछुर्नो  नो  equal  to  Vishṇu  in  valour.
 
-(a)  The  same  applies  to  transitive  roots  of  incomplete
-predication used  passively; स्वं च मुनिर्  वैगारिकः  कुटुतोः  कुतु.  by
-that sage the mouse was made ( transformed  into )  a cat,  &c.;
-इयुगो हि  विष्णुयुःु सत्युगरे  a  king  is thought to be  Viṣṇu.
+(c) swearing;  भरुतोनुत्युयुयुनु  चुयुर्दं  मूर्णु  I swear  by  Bharata  and
+myself; सुर्पित्युवुरि  मम  जीविुतेनं I  conjure  thee  by  my life.
+
+(d) rejoicing,  being  pleased; भक्त्युयुयु  पुयुरो  यथुयुमुङुकुरुयुयु  च  प्रीत्युऽऽस्युयु
+I  am  pleased  with  thee  by  thy  devotion  to  your  preceptor  and
+compassion  upon me; कुट्युडुलुयुः स्युल्युकुनुयुपि  तुयुयुति  a  low  person  is
+satisfied  with  little.
+
+* इयुयु:यैत्तुर्दुनुलं । Pāṇ. II. 3.  21.
+
+† हेतो । Pāṇ.  II.  3.  युत्तुछुयुनो  इदं  हेतुः । प्रयुयुतिङुत्युयुयुयुणो  नित्युयोऽपरु-
+त्युयुयुयुयुर्णों  च  हेतुवुयु  ।  कुरुयुयुवुङे  तु  किन्युयुयुमुयुड्युयुयुङे  व्युयुपुरुविभुयुङुयुं  च  ।
+Sid.  Kau.

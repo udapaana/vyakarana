@@ -1,48 +1,48 @@
-[Internal page: 691]
+[Internal page: 705]
 
-                     DHĀTUKOŚA.                               129
+                     DHĀTUKOŚA.                               143
 
-व्री 4 A. वरणै to select; व्रीयुतै pre. विविदै perf. व्रैष्युतै fut. अव्रैष्ट
-   aor. व्रीण p.p.
+सृज् 6 P. विसर्गै to create, to let loose, to shed; सृजुति pre. ससर्ज
+   perf. स्रष्टा p. fut. स्रक्ष्युति fut. अस्राक्षीत् aor. सृज्युयात् ben. सिसृ-
+   क्षाति des. सृष्ट p.p. सृज्यु, सृष्ट्वा, सृष्टुं ger.
 
-व्री 9 P to choose; विव्राति. व्रीणाति pre. व्रैष्युति fut. अव्रैषीत् aor.
+सृप् 1 P गतौ to creep, to go; सर्पुति pre. ससर्प perf. सर्पं. स्रष्टा p.
+   fut असर्पत् aor. सृप्युयात् ben. सिसृस्पति des. Cau.—सर्पयाति-तै
+   pre. असुसर्पत-न, असीसृपत-न aor. सृप p.p.
 
-व्रीड् 4 A. ह्रीतकुणै to throw, to be ashamed; व्रीडुतै pre.
-   विव्रीड perf. अव्रीडीत् aor.
+सृष् सृभु 1 P. हिंसायां to kill, to injure; सर्षुति: सृभुति pre. ससर्ष,
+   सस्राभु perf. असर्षीत्, असृभुीत् Aor.
 
-व्लौ 9 P. वरणै to select, to go; व्लिनाति pre. व्लैष्युति fut. अल्वैषीत्
-   aor. Cau —व्लैययाति-तै pre.
+सैक् 10 A. to go, to move; सैकतै pre. सिसैकै perf. सैकिता p. fut.
+   असैकीष्ट aor.
 
-                              श—
+सेल् 1 P. to go, to move, सेलति pre. सिसेल perf. सेलिता p. fut. असै-
+   लीत् aor.
 
-शंस् 1 P. स्तुतौ दोंक्षौ च to relate, to suggest, to praise, to hurt;
-   शंसुति pre. शशंस perf. शंसिता p. fut. अशंषीत् aor. शुष्युयात्
-   ben. विशंसिषति des. Pass.-शस्युतै pre. अशंसि aor. शसित,
-   शस्त्वा ger. शस्त p.p.; with अ A. इच्छायां to hope, to bless;
-   शंसतै pre. अशंसीष्ट aor. शंसितुं, शसितुं inf. शासीष्टीष्ट ben.
-   आशिंसीष्टिषतै des.
+सैव् 1 A. सैवनै to serve, to pursue, to enjoy; सैवतै pre सिसैवै perf.
+   सैविष्युतै fut. असैविष्ट aor. विसैविषतै des. Cau,—सैवयाति-तै
+   pre. असीसैवत aor सैवित p.p.
 
-शङ्कु 4 U मर्षणै to endure, to be able; शङुष्युाति-तै pre. शाशाङ्कु, शैकै
-   perf शङ्किता, शाका p. fut. शाकैष्युाति-तै, शाश्युति-तै fut. अशाकत् ,
-   अशाकीष्ट, अशाक aor. विशाकिषति-तै des.
+सै 1 P. क्षयै to waste away, to decline; सायुति pre. सासुति fut.
+   असायीत् Aor.
 
-शक् 5 P. शक्तौ to be able, to endure, to be powerful; शकोति pre.
-   शशाक perf. शक्ता p. fut. अशकत् aor शक्युयात् ben. विशक्षति des.
-   Pass.-शक्युतै pre. Cau.—शाकयाति-तै pre. अशीशकत-न aor.
-   शक्त p.p.
+सौ 4 P अन्तुकर्मै to destroy, to bring to an end; स्यति pre.
+   ससौ perf. साता p. fut. असात् , असासीत् aor सायुयात् ben. सिसा-
+   याति des. Pass,—सीयुतै pre. Cau.—सावयाति-तै pre. सित p. p.
 
-शङ्कु 1 A. शङ्कायां to doubt, to be afraid; शङ्कुतै pre. शशाङ्कै perf.
-   शाङ्कुिता p. fut. अशाङ्कुीष्ट aor. विशाङ्कुिषतै des. शाङ्कुित p.p.
+स्कन्द् 1 P गतिशोषणयो: to go, to jump, to be dried, to perish;
+   स्कन्दुति pre. चस्कन्द perf. स्कन्ता p. fut. अस्कन्दत्, अस्कन्धीत्
+   aor. स्कन्दुयाति ben. स्कन्दिष्युति-तै fut. Pass—स्कद्युतै pre. Cau,—
+   स्कन्दयाति-तै pre. अचस्कन्दत-न aor. स्कन्न p.p.
 
-शच् 1 A. व्युयक्तायां वाचि to speak, to tell; शचतै pre. शेजै perf
-   अशचीष्ट aor
+स्कभु 10 U. to collect; स्कभुयाति-तै pre. स्कभुयाचकार-चक्रै perf.
 
-शट् 1 P. कैतनै to deceive, to hurt, to kill, to suffer; to pain;
-   शाटुति pre. शशाट perf. शाटिता p. fut. अशाटीत् , अशाटात aor.
+स्कभु 1 A. प्रतिबन्धनै to stop; स्कभुतै pre. चस्कभुै perf. अस्कभुीष्ट aor.
 
-शट् 10 U. सम्युयगभाषणै to speak well or ill, to deceive; शटयाति-
-   तै pre. शटयाचकार &c. perf. शाटयिता p. fut. अशशटत-न aor.
-   शाटित p.p.
+स्कम्ब् 5, 9 P रोधसम्भुनयो:. to create, to hinder, to restrain;
+   स्कम्भुोति, स्कम्भुाति pre. चस्कम्भु perf. स्कम्भुिता p. fut. अस्कम्बत् ,
+   अस्कम्भुीत् aor. स्कभुयुयात् ben. स्कम्भु p.p.
 
-शद् 10 U. असंस्कारगमयो: to leave unfinished. to go; शादयाति-तै
-   pre. शादयिष्युति-तै fut. अशीशदत-न Aor. शाटित p.p.
+स्कु 5 & 9. U. आप्लवनै to go by leaps, to approach, to cover, to
+   lift; स्कुनाति, स्कुनुतै, स्कुनाति, स्कुनीतै pre. चुस्काव, चुस्कुवै perf.
+   स्कोता p. fut. अस्काषीत्, अस्काष्ट aor. चुस्कूषाति des.

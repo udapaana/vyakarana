@@ -1,20 +1,12 @@
-[Internal page: 142]
-142                    SANSKRIT GRAMMAR.                    [ § 232-233
+[Internal page: 160]
+160                    SANSKRIT GRAMMAR.                    [ § 259-266
 
-PREPOSITIONAL COMPOUNDS.
+§ 259.* Two nouns alike in from in the Loc. and meaning 'something that can be seized,' or in the Instrumental, meaning 'weapons or things used as weapons,' may be compounded in a Bah. when the sense is 'the fight thus began' and the idea of an exchange of action is to be implied. In such compounds the final vowel of the first member is lengthened and that of the second is changed to इ The compounds so formed are of the nature of Avyayibhāvas and are indeclinable. The final इ takes Guna substitute before the final इ. † e g. केशेषु केशेषु यद्धं-तैदं यस्मिन् केशाकेशि 'a battle in which the warriors fight seizing each other's hair'; दण्डेभ्र दण्डेभ्र महदेभेदं युद्धं प्रवृत्तं दण्डा-दण्डिष; similarly मुष्टीङुष्टि, हस्ताहस्ति, वाद्यवाद्यावि, छुसलाछुसलि, &c.; but if the instruments used by both the parties be not the same, no compound is possible; इदाछुसलि will, therefore, be wrong.
 
-4. Pradi.
+Obs.—(a) The following words also change their final to इ; द्वौ दण्डौ यस्मिन्मङुणे तद् द्विदण्डि; similarly द्विघुसालि, उभा-उभया ङालि, उभाहस्ति, उभयहस्ति, उभा-उभया-पाणि, पबाहु &c.
 
-§ 232. Those Tatpurusha compounds whose first member is a preposition are termed Prādi by Sanskrit grammarians*; some of these prepositions combine with a following noun in the Nom., with a noun in the Acc. &c.; e. g. प्रशतः आचार्यं प्राचार्यं 'an eminent teacher', संगतः अध्यानं समध्ध: 'taken to a path-way' (vide Bhatti. III. 45). प्रछद्दो वातः प्रवातः 'strong or excessive wind,' &c.; अतिक्रान्तो मालां अतिमालः 'excelling a garland' (in fragrance or beauty), अतिक्रान्तौ रश्मिं वा अतिरश्मः 'a chariot-warrior who has no rival or equal'; so अतिमात्र 'exceeding measure,' अतिसर्वं &c. अवछुटः कोकिलया अवकोकिलः 'attracted by the cuckoo;' परिकलानः अध्ययनान् परंध्ययनः 'tired of studying;' निष्क्रान्तः कौशाम्ब्याः निष्कौशाम्बिः 'gone out of Kauśāmbi;' so निर्लङ्ज: &c. A compound with prepositions which govern cases (कर्मप्रवचनीय) is forbidden; द्रुभें प्राति.
+§ 260. ‡ The following Bahuvrihis are laid down as irregular. शोभनं प्रातरस्य सुप्रातः m. 'one having an auspicious morning or a day having an aupicious dawn'; see Bhatti. II. 49. शौभनं श्वः अस्य सुश्वः 'having an auspicious morrow;' शोभनं दिवास्य सुदिवः 'one who has passed a happy day', शारेतिव कुक्षिरस्य शारिकुक्षः 'having a round belly;' चतस्रोऽश्वयोऽस्य चतुरङ्र-'four-cornered, quadrangular;' एषा (of a female black deer) इव पादौ अस्य एणीपदः; अजपदः, षोपद्स्य इव पादौ अस्य षोषपदः having the feet like those of a bull'.
 
-5 Gati.
-
-§ 233. Compounds of the following words with verbal indeclinables are called Gati.
-
-(a)† The particles ऊर्ध, उरर्ध, वीष्दु, वष्दु, स्वाहा, स्वधा, भाडु:, आविस् and भत्र and the word कारिका meaning an action; as ऊर्धीकृत्य, उरर्धीकृत्य 'having accepted, वष्दुकृत्य 'having uttered the word Vashat;' प्रादुभूय, कारिकाकृत्य 'having done the act.'
-
-(b)‡ Onomatopoetic words not followed by इति, as स्वादुकृत्य; but स्वाडिति छत्वा (निरटीवद्).
-
-* कुर्गतिभाबुः । Pan. II. 2. 18. प्रादयो भत्तायधै प्रथमया । अध्यादयः क्रोटाधेयै तत्तायर्धेन समस्यन्ते । हित्तीययां अत्वादयः कान्ताव्यै हित्तीयया । अवादयः छुष्टाद्यै ठतीयया । पर्यादयो रत्नाव्यै चतुथ्यर्धा । निरादय क्रान्ताव्यै पञ्चम्या । कर्मप्रवचनीयानां प्रातिषेधः । Vārtikas.
-† ऊर्धीदिस्वाहाकचब्रः । Pān. I. 4. 61. कारिकाव्बद्स्थोपसंख्यानम् । Vārtikas.
-‡ अनुकरणे चानितिपरम् । Pān. I. 4. 62.
+* तत्र तैनेद्रमिति सल्पै । Pān II. 2. 27. सस्पन्ने मृङुणाविद्ये सङौरे पदै तुर्तीयान्ते च प्रहरणाविद्ये हुदं युद्धं प्रदन्नभिययथै समस्येते कर्मेव्यतिहारे यात्ये स बहुगौहि । Sid. Kau.
+§ अन्योन्यमति इद्विचै । इच् कर्मेव्यतिहारे । Pān. VI. 3. 137. V. 4. 127. तिछुमृभूतिभेद्वन्द्वयस्य पाठादृव्यथौभावत्वमत्रयवं च । Sid.Kau. ओटीणः । Pān. VI. 4 146.
+‡सुप्रातसुश्वदिवोकारिकक्षेचतुरङ्रैणीपदाजपदषोषपदः। Pān.V.4.120.

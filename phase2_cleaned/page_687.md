@@ -1,0 +1,59 @@
+---
+page_number: 687
+internal_page: 687
+chapter: "Appendix II - Dhātukośa"
+section: "dhātukośa"
+rules_starting: []
+rules_continuing: []
+has_footnotes: false
+---
+
+                    DHĀTUKOŚA.                               125
+
+विद् 6 P. विषानै to pierce: विषुति pre. विविषाति fut. अवैषीत् ºor.
+  Cau,—वैषयाति-तै pre. अवीविषत-न aor.
+
+विपु 6 P. प्रक्षेपै to send, to fall to the share of; विषुति pre. विवैष
+  perf. वैषा p. fut. अविषत-न aor. विविषाति des. विप् p. p.
+
+विष् 1 P. वैचनै to sprinkle, to pour out; वैषुति pre. विवैष perf.
+  वैषुति fut. अविषत् aor. विष्ट p.p.
+
+विष् 3 U. व्युयाप्तौ to pervade, to surround; वैषाष्टि वैक्षटै pre. विवैष.
+  विविष perf. वैषा p. fut. अविषत् . अविक्षत aor विविषाति-तै des.
+
+विष् 9 P. विषानै to enter to sink; विषणाति pre. विवैष perf. अविषीत aor.
+
+विष् 1 U. 10 U. Skh. U. विषणातौ perf. अविविषत-न aor. Cau —विषायति-तै pre.
+  आविविक्षत. आविविष्यत-न aor.
+
+वी 2 P. गातिलाभैपुजननकान्त्युयदसंदानदर्शै to go, to pervade, to
+  conceive, to be born, to shine, to boteis, to throw, to be
+  beautiful, to desire, to eat; वेति pre. विवाय perf. वेता p. fut.
+  ववेयुयात् &c. वीयुयात् pre. विषीष्ट des. Cau –वायति pre. ( वाय-
+  याति-तै ) pre. वीत p p.
+
+वीज् 10 U. अजनै to fan; वीजयाति-तै pre. अवीविजत-न aor.
+
+वीर् 10 A. विक्रमै to display valour; वीरयतै pre. वीरयिष्युतै fut.
+  अविवीरत aor.
+
+वृ 1 U. विरोधौ to cover, to surround; वृणाति-तै pre. ( See the
+  following root )..
+
+वृ 5 U. वरणै to choose, &c.; वृणीति, वृणुतै pre. ववार, वव्रै perf.
+  वरिता, वरीता p. fut. अवरीत्, अवर्षीष्ट, अवरीष्ट. अवरीट aor. वियुयात्,
+  वरीषीष्ट, वृषीष्ट ben. Cau.—वारयाति-तै pre. अवीवरत-न aor. विवर-
+  षति-तै pre. विररीषाति-तै. वुवुरीति-तै des.
+
+वृ 9 A. to choose &c.; वृणीतै pre. वव्रै perf. ( Same as the
+  above A. ).
+
+वृक् 1 A. आदानै to take, to accept; वृकतै pre. ववृकै perf. वृङकुयतै
+  fut. अवृक्षीट aor. विवर्कुिषतै des.
+
+वृक् 1 A. आवरणै to cover; वृकतै pre. ववृकै perf. अवृकीष्ट aor.
+
+वृच् 1 P. वरणै to chooser वृचुति pre. ववर्च perf. वर्चिष्युति fut.
+  अवचीत् aor. वृक् p.p.                    ·
+  H. S. G. 44.

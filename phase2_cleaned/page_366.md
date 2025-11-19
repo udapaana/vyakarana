@@ -1,0 +1,27 @@
+---
+page_number: 366
+internal_page: 366
+chapter: "Conjugation of Verbs"
+section: "conjugation-of-verbs"
+rules_starting: []
+rules_continuing: ["§ 598"]
+has_footnotes: false
+---
+
+2nd Future.         Conditional.       Aorist.
+
+1. बोधिष्ये  बोधिष्यावहे   बोधिष्यामहे  1. अबोधिष्ये  अबोधिष्यावहि  अबोधिष्यामहि
+2. बोधिष्यसे बोधिष्येथे    बोधिष्यध्वे  2. अबोधिष्यथाः अबोधिष्येथाम्  अबोधिष्यध्वम्
+3. बोधिष्यते बोधिष्येते    बोधिष्यन्ते  3. अबोधिष्यत  अबोधिष्येताम्  अबोधिष्यन्त
+
+Benedictive.
+
+1. बुध्यासीय  बुध्यासीवहि   बुध्यासीमहि
+2. बुध्यासीष्ठाः बुध्यासीयाथाम्  बुध्यासीध्वम्
+3. बुध्यासीष्ट  बुध्यासीयाताम्  बुध्यासीरन्
+
+There are other passive forms of बुध्; e. g. बोभविष्ये 1 sing.
+These two forms alternate, i. e. with बुध्य may be compounded an
+perfect passive form, which produces बुबोध and which is conjugated as
+the ordinary passive, but there is no mention of such forms in standard
+works.

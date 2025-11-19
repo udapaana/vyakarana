@@ -154,7 +154,7 @@ class ParallelExtractor:
 
     def validate_rule_schema(self, rule_num: int, content: str) -> tuple[bool, str]:
         """
-        Validate that extracted content follows the required schema
+        Validate that extracted content follows the required schema (v2.0)
 
         Returns: (is_valid, error_message)
         """
@@ -175,7 +175,7 @@ class ParallelExtractor:
             if not yaml_data:
                 return False, "Empty YAML frontmatter"
 
-            # Check required fields
+            # Check required fields (v2.0 - removed derived fields)
             required = [
                 "rule_number",
                 "rule_id",
@@ -191,7 +191,7 @@ class ParallelExtractor:
 
             missing = [f for f in required if f not in yaml_data]
             if missing:
-                return False, f"Missing: {', '.join(missing)}"
+                return False, f"Missing required fields: {', '.join(missing)}"
 
             # Validate rule_number matches
             if yaml_data.get("rule_number") != rule_num:
@@ -210,6 +210,18 @@ class ParallelExtractor:
                 "source_pages"
             ):
                 return False, "source_pages must be non-empty list"
+
+            # Optional fields should be lists if present
+            for field in ["panini_refs", "cross_refs"]:
+                if field in yaml_data and not isinstance(yaml_data[field], list):
+                    return False, f"{field} must be a list"
+
+            # Validate heading format (v2.0 - just title, no rule number)
+            body_content = parts[2] if len(parts) > 2 else ""
+            # Look for heading that matches title
+            title = yaml_data.get("title", "")
+            if title and f"## {title}" not in body_content[:500]:
+                return False, f"Content heading must be '## {title}'"
 
             return True, ""
 
@@ -449,10 +461,10 @@ class ParallelExtractor:
 
         system_prompt = f"""You are extracting Sanskrit grammar rules from OCR'd pages.
 
-Extract ONLY rule § {rule_num} following this EXACT schema:
+Extract ONLY rule § {rule_num} following this EXACT schema (v2.0):
 
 OUTPUT FORMAT:
-Line 1: {{"end_page": N}}
+Line 1: {{"end_page": N, "source_pages": ["NNNa", "NNNb"]}}
 Lines 2+: Structured markdown with YAML frontmatter
 
 REQUIRED YAML FRONTMATTER:
@@ -468,25 +480,31 @@ topics: [topic1, topic2, ...]
 word_index: [sanskrit-term-1, sanskrit-term-2, ...]
 panini_refs: []
 cross_refs: []
-examples_count: 0
-has_table: true/false
-has_footnotes: true/false
-source_pages: ["page_NNN.md"]
+source_pages: ["NNNa", "NNNb"]
 ---
 
 REQUIRED CONTENT FORMAT:
-## § {rule_num}. Rule Title
+## Rule Title
 
 Main explanation text...
 
-@note[type=note]: Notes if present
-@example[sanskrit]{{Sanskrit}} @[IAST]: Translation
+@note[type=note]{{Notes if present}}
+@example[deva>>देवः | iast>>devaḥ]: the god
+
+CRITICAL MARKUP RULES:
+- Devanagari: @deva[देवनागरी]
+- IAST: @[rāmaḥ] (use ḥ for visarga, NOT : or H)
+- Paired (when source shows both): @deva[रामः | iast>>rāmaḥ] OR @[rāmaḥ | deva>>रामः]
+- Examples: @example[deva>>X | iast>>Y]: meaning
+- Notes: @note[type=note]{{content}}
+- Cross-refs: @ref[8] or @ref[5,6]
+- Footnotes: Use standard markdown [^1], [^2] etc.
 
 VALIDATION:
-- Must include § {rule_num} in heading
+- Heading is just title (NO rule number - that's in frontmatter)
 - Must have YAML frontmatter
 - Must have substantive content (>100 chars)
-- Must use @deva[] for Devanagari, @[] for IAST
+- NO derived fields in YAML (examples_count, has_table, has_footnotes)
 - Extract COMPLETE rule: finish all sentences even if next rule starts on same page
 - Stop when you encounter the heading for § {rule_num + 1}"""
 

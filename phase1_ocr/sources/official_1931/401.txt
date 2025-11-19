@@ -1,42 +1,38 @@
-[Internal page: 387]
+[Internal page: 401]
 
-§ 637-638 ]        CONJUGATION OF VERBS.                    389
+§ 664 ]        PARASMAIPADA & ĀTMANEPADA.                    403
 
+When the root has its original sense, the Par. is used and
+य् is not inserted:  कुरुपति अपकर्वति  त्री  'the woman scatters
+flowers;' अयोदुपति fruit scatters it
 
-follow the conjugation of the special base of a root of the 3rd
-class, इ is optionally prefixed to the terminations of the singulars
-of the Present, of the 2nd and 3rd singulars of the Imperf.
-and of the 3rd sing of the Impera ; when इ is prefixed to these,
-a penultimate short vowel does not take Guṇa; दृर्-दादृति or
-द्रादृति; द्रुर्-चवर्ति or चरिवर्ति or चरीवर्ति or चवेतीति or चरिवुतीति or
-चरीवृतीति, कृ-चकर्ति or चकरीति, चरिक्ति or चरिकरीति, चरीकृति
-or चरीकरीति.
+कुत्*—when not preceded by a preposition is conjugated in both
+the Padas.   But it is used in Atm. by itself when the meaning is
+'free movement, energy, development or increase, '&c,. कचिच्य फमते
+इतिर्: 'his intellect moves freely in ( i. e proves very powerful in
+mastering ) the Rigveda;' फत्तामाणोरिसदति 'moving unobstructed in
+the assembly of the enemy' (Bh. VIII. 22); अष्यचनाय फमते 'shows
+ability or energy for studying ;' न त्स्नाय फमते जडानाम्। Vikra.I.16
+फमनेऽन्तेष् शास्त्राणौ 'the Śāstras find enlargement in him or are
+satisfactorily  mastered by him.'  In the same sense it is Atm.
+when preceded by उप and परा only ( i. e. is Par. if preceded by any
+other preposition) परक्रामति, परक्रीडति i. c. is Par. if ' शक्ति ( showed
+might ); परिक्रामसुरातते  ( made bold ) पाङ्क्ती यस्य कुरुते ( किंचुग । Bh.
+VIII. 22–23; but क्रामनिते ( शाकेबृद् इतिर्: ). When preceded by आति
+is Atm. in the sense of 'the ascending or the rising of a heavenly
+body;' आक्रमते सूर्य: 'the sun rises;' but आकामति धूमो इस्थीतेऽसात् 'the
+smoke issues forth from the upper terrace.' Also when preceded by
+क्ति, in the sense of 'a graceful movement of the feet, or ascending,'
+सादुशु विक्रमते वाजौ 'the horse moves gracefully;' but विक्रामति सत्रय:
+'the joint splits,'—and by य and उय in the sense of ' beginning,'
+यक्रमते; as in सन्दृत्ते तिर: प्राक्रमनेवनूत्र । Kum. III. 2.  'thus began to
+talk with him in private;' but प्रक्रामति 'goes,' उपक्रामति 'comes near.'
 
-§ 638  As regards the formation of the Non-conjugational
-tenses grammarians seem to be at variance, The Perfect follows
-the usual rules for the polysyllabic roots. In the remaining
-tenses the augment इ is always prefixed except in the Benedictive.
+क्री†—'to buy' is Atm. when the prepositions अद्, परि  and हि
+are prefixed to it; e.g. अदुक्रीत्ते वं means 'to sell'), अपक्रीणीते, परिक्रीते
+cf. Bh.  VIII. 8. छुनेत्ोपह्युतं वाणौ: परिक्रीत्णातम्बुयितवत् ।
 
-As this form of the Freq. is mostly confined to the Veda
-details are not given here.
-
-
-                        Paradigms.
-
-            बोभू or बोभव् from the root भू.
-
-      Present.                          Imperfect.
-
-1 बोभोमि or    बोभुव:    बोभुव:    अबोभवम्    अबोभूव    अबोभूम
-  बोभवामि
-2 बोभोषि      बोभूथ:    बोभुथ     अबोभो: or  अबोभूतम्  अबोभूत
-  or बोभवीषि                        अबोभवी:
-3 बोभोति      बोभूत:    बोभूवति    अबोभोत् or अबोभूताम् अबोभूवु:
-  बोभवीति                          अबोभवीत्
-
-      Imperative                       Potential.
-
-1 बोभवानि     बोभवाव    बोभवाम     1 बोभूयाम्   बोभूयाव   बोभूयाम
-2 बोभूहि      बोभूतम्   बोभूत      2 बोभूया:    बोभूयातम् बोभूयात
-3 बोभोतु or   बोभूताम्  बोभूवतु    3 बोभूयात्   बोभूयाताम् बोभूयु:
-  बोभवीत
+_________________________________________________
+*नोनिपूर्वात्तनेष्रुकम्::उपूयपाशुध्य । आट् उत्तमते। ज्ञौ तिहुरुनसृतिद्वाच्चा।
+Vārt.वे: पादुविदूरणोंऽधूरिणर्था यु । आङुपसाता । Pāṇ.1,2,38-43.
+† परिस्थरूपे: किम: Pāṇ. 1. 3. 18.

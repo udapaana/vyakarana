@@ -1,41 +1,22 @@
-[Internal page: 109]
-§ 166-169 ]    NUMERALS AND THEIR DECLENSION.                    109
+[Internal page: 127]
+§ 211-212 ]                    COMPOUNDS.                    127
 
-G.        पञ्चनाम्        षण्णाम्        अष्टानाम्
-L.        पञ्चसु        षट्सु        अष्टसु-अष्टासु
+N B. Compounds like राजपुजितः, राजमतः, &c. ought to be considered as Instrumental Tatpurushas.
 
-सप्तन्, नवन् and the following cardinals up to नवदशन् ought
-to be declined like पञ्चन्.
+Exceptions.
 
-§ 167.  ऊनत्रिंशति, विंशति and other cardinal numbers up to
-नवनवति are all feminine substantives, the numerals शत, सहस्र,
-&c. are all neuter, with the exception of लक्ष which is neu. and
-fem. कोटि which is fem. and शंकु and जलधि both of which are
-mas.  and have no declensional peculiarities. They are
-declined in the sing.  and so  used with a plural noun; e. g.
-पंचविंशोत्तिब्राह्मणाः 25 Brāhmaṇas; एकादशा.पकशतेन or एका-
-दशोत्तरेण शतेन नरैः or स्त्रीभिः by 111 men or women; एकोनसहस्रेण
-रूपकैः with Rs. 999 &c.  They may  be  made to have duals
-and plurals by being used as fixed standards of counting; e. g.
-ब्राह्मणानां विंशतयः many twenties of Brāhmaṇas; द्वे शते नारीणाम्
-two hundreds of women &c.
+(1) If the word denoting a quality ends in तर it does combine with a noun in the Genitive, and the तर is dropped; सर्वेषां श्वेततर: सर्वेश्वेत: whiter than all others; similarly सर्वेषां महन्तरः सर्वेमहान &c.
 
-§ 168.  The ordinals are declined regularly except:—
+(2)*The words द्वितीय, तृतीय, चतुर्थं and तुर्य are compounded with nouns signifying the whole of which they are parts, and are optionally placed first, द्वितोयं भिक्षायाः द्वितीयभिक्षा, भिक्षाद्वितीयम् half of the quantity of alms; but द्वितीयं भिक्षायाः (begging alms a second time) भिक्षुकस्य.
 
-प्रथम ( see § 156 ) and द्वितीय and तृतीय  which are optionally
-declined like pronouns in the Dat. Ab. Gen.  and Loc. sing ;
-e. g. द्वितीयस्मै-द्वितीयाय, &c. द्वितीयायाः-द्वितीयस्याः &c.
+Note—Compounds like द्वितीयभिक्षा, पुरंकायः (see further on) &c. are not strictly Gen. Tat, as the case of the first word determines the name, but mere Tar.; some call these Nom. Tat (प्रथामतत्पुरुष).
 
-NUMERAL ADVERBS
+(a)†A noun in the Genitive, used as an object in a sentence, when the agent and object of the action denoted by the nouns formed by krit affixes are both used, is not compounded, as आश्वर्यं गवां देहोजांपेन 'the milking of cows by one, not a cow-herd, is a wonder.'
 
-§ 169. ( a )  सकृत् once, द्विः twice, त्रिः thrice, चतुः four
-times; from पञ्चन् onwards adverbs of frequency are formed by
-adding कृत्वः before which final न् is dropped e. g. पञ्चकृत्वः five
-times, सप्तकृत्वः seven times, &c.
+§ 212. ‡ पूर्व, अपर, अधर उत्तर and अधं n are compounded with nouns in the Genitive expressive of the whole and are placed first; e g. पूर्वं कायस्य पूर्वंकाय. the forepart of the body; अपरकायः अधरकायः &c. अधं पिम्पल्हयाः अधोपिम्पल्ली; but ग्रामार्धः as (अधं is mas here).
 
-( b ) एकधा* or एकध्यम् in one way or part, द्विधा or द्वेधा or द्वैध
-in two ways or parts; त्रिधा or त्रेधा or त्रैधम् in three ways, &c.;
-चतुर्धां in four ways, षोढा or षड्धा in six ways, सप्तधा, अष्टधा, &c.
+N B. In order that the above rule should hold the noun expressive of the whole must denote a single object; hence पूर्वं
 
-*संख्याया विभागे धा । अधिकरणविभावे च । एकाद्यो ध्येह्नन्यतरस्याम् ।
-द्विप्रोश्च धयुजा । एधाङ् Pān. V. 3. 42-46.
+* द्वितीयदतीयचतुर्थ्यैभर्योष्यैरण्येतरस्यारः । Pān.II. 2. 3.
+† कर्मेलि च । Pān. II 2 14.
+‡ पूर्वोपराधरोत्तरेमेकद्विजोनेकाधिकरणे । अधं नहुसकद् । Pān. 11.2. 1, 2.

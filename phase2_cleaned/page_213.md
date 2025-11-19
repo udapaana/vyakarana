@@ -1,0 +1,13 @@
+---
+page_number: 213
+internal_page: 205
+chapter: "Secondary Nominal Bases - Taddhita Affixes"
+section: "taddhita-affixes"
+rules_starting: []
+rules_continuing: ["§ 340"]
+has_footnotes: false
+---
+
+हुतमयः यज्ञः 'a sacrifice consisting for the most part of clarified butter,' अजमयः &c. It is not added to words denoting 'an article of food or a covering'; e. g. सौद्रः खलः.
+
+य (यत् , यक् , यञ् , यण )—is added to nouns with different meanings:—(1) गवां समूहः गव्या f. 'a herd of cattle,' धातानां समूहः धात्या, so खल्या, रथ्या, (रथानां समूहः), धान्यव्या, धूम्या, 'a dense mass of smoke,' तृण्या, नाभ्या, &c. (2) सभायां साधुः सभ्यः a 'courtier'; (3) सब्रह्मचार्यः 'disciples of the same preceptor,' सोदर्यः, समानोदर्यः 'a brother of whole blood'; (4) forms abstract nouns राज्यं, सेनापत्यं, पौरोहित्यं, सारथ्यं, आदित्यं, &c.; it is added—(5) to the words राजन् and मनु in the sense of 'born of the race of.' राजन्यः 'a man of the Kshatriya class,' मनोजातिः मनुष्यः (in this case ष is inserted) 'a man.'—(6) to भृगु in the sense of 'the son of,' भार्गव्यः; (7) to कुलं; कुल्यः—'of noble descent;' (8) to वायु, ऋतु, पितृ, and उषस् in the sense of 'having any of these for one's presiding or tutelary deity,' &c. वायुः देवता अस्य वायव्यं अस्त्रं 'a missile having Vāyu for its presiding deity,' ऋतव्यः 'worshipping the Seasons (as divinities),' पित्र्यः 'sacred to the manes, offered to the manes'; उषस्यः 'sacred to the Dawn;'—(9) to दण्ड and words included under the दण्डादि group in the sense of 'deserving or meriting': दण्ड्यः 'deserving punishment,' बध्यः 'fit to be killed,; अर्ह्यः 'deserving worship,' &c. In the derivatives given hereafter य should be considered as added in the sense attached to each word:—स्तेयं 'theft' from स्तेन; उरस्यः 'born of the breast' (also औरस्यः fr. उरस् +

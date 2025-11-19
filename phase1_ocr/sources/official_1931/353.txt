@@ -1,44 +1,46 @@
-[Internal page: 339]
+[Internal page: 353]
 
-543-544 ]          CONJUGATION OF VERBS.                   339
+§ 572-574 ]          CONJUGATION OF VERBS.                   353
 
-Roots. 3 sing. Optional forms. Roots. 3 sing. Optional forms
 
-दश्—अदशत्                अदाक्षीत्               तुद्—अतुदत्        अतोत्तीत्
-रिक्षग्—अरिक्षगत्            आरिक्षगत्               दुह्—अदुहत्        अदाहीत्
-युग्—अयुगत्                अयोपीत्                वृह्—अवृहत्        अवर्हीत्
-उह्—अओहत्                अओहीत्
-§ 544.  The following 25 roots, which are all Ātmanepadi,
-are conjugated in the Parasmaipadā when they belong to this
-Variety.  In the Ātmanepada they take the Fourth or Fifth
-Variety according as they are Anit or Set.
+                Par.                        Âtm.
 
-संचैघुष्टोसेट्छुट्टो लोट्टै युतिवृतुभिरेतः ।
-देवदे मेदते स्पर्द्धः स्वेदते च यृधिः च्यथिः ॥ १ ॥
-कूस्ते छुभताभिनभः शोभते संभते श्राविः ।
-अंशोवर्त्तौ अंसित्वौ रवादिः पर्झिकातिः ॥ २ ॥
-आत्मनेपदिनौ निद्यं छुदि त्वेषा विभाषया ।
-अर्द् परसमेपदिनौ भजन्त्यन्यत्र सिज्वतौ ॥ ३ ॥
+1 इषम्      इष्व      इष्म          1 इषि      इष्वहि     इष्महि
+2 ईः       इष्टम्     इष्ट          2 इष्ठाः    इषाथाम्    इष्ध्वम्
+3 ईत्       इष्टाम्     इषुः          3 इष्ट     इषाताम्    इषत
 
-Roots. 3 sing. Optional forms.  Roots. 3sing. Optional forms.
+§ 573. All roots not restricted to any of the preceding
+Varieties take this Variety.  Consequently it is peculiar to Set
+roots ( Vide § 565 ).
 
-रुच्—अरुचत्      अरोचिष्ट       मृश्—अमृशत्      अबर्घिष्ट
-छुच्—अछुचत्      अघोचिष्ट       घ्राघ्—अघ्राघत्   अक्षाघिष्ठ
-रुट्—अरुटत्       अरोटिष्ठ       क्लश्घ्—अक्लश्घत् अक्रघिष्ठ, अक्लश्घिष्ठ
-लुट्—अलुटत्      अलोटिष्ठ       क्षुब्घू—अक्षुब्घत् अक्षोभिष्ठ
-युर्—अयुरत्      अयोतिष्ठ       तुभ्—अतुभत्     अतोभिष्ठ
-यत्—अयतत्       अयतिष्ठ        नभ्—अनभत्      अनभिष्ठ
-क्षित्—अक्षितत्    अक्षेतिष्ठ      घुभू—अघुभत्     अघोभिष्ठ
-क्षिदू—अक्षिदत्    अक्षेदिष्ठ      संभू—असंभत्     अश्राभिष्ठ
-शूच्—अशुचत्      अशोचीद्,       श्रूघ्—अश्रूघत्   अश्रोघिष्ठ
-               अशोचीतिष्ठ
-निद्—अनिदत्     अनेदीद्, अनितिक्त् भ्राञू—अभ्राञत्  अभ्रोघिष्ठ
-घुञ्—अयुञत्      अयोक्षीत् अयुज्त्  स्पृध्—अस्पृधत् अस्पार्धिष्ठ, अस्पर्धिष्ठ
-विञ्—अविञत्     अवैदीत्, अविनिक्त् स्पृश्—अस्पृशत् अरोत्तीत्, अरुह्
-स्फुट्—अस्फुटत्   अस्फोटीत्       मृभू—अमृभत्     अश्राप्सीद्, अश्रा-
-चुर्—अचुरत्      अचोतीत्                           प्सीत्, अतृपिष्ठ
-छुस्—अछुसत्     अञ्छोतीत्,       द्यम्—अद्यमत्    आद्दाम्सीद्, अद्राप्सीद्
-               अञ्छोतीतिष्ठ
-सुत्—असुतत्      अञ्जीतीत्,      भेस्—अभ्रेसत्   अभ्रेसिष्ठ
-               अञ्जोतीतिष्ठ
-स्तिद्—अस्तिदत्   अस्तेदिष्ठ       संस्—अससत्     अञ्चासिष्ठ
+§ 574. ( a ) In the Parasmaipada, the final radical vowel and
+the penultimate अ of roots ending in र् or द् and that of चद् and
+त्रज् take their Vṛddhi substitute necessarily; लू-अलाविषम्; चर्—
+अचारिषम् ; फल्-अफालिषम् , &c.
+
+(b)  The penultimate short vowel of a root takes its Guṇa
+substitute; क्रुश्-अचोषिषम् , &c.
+
+(c)  Vṛddhi is optionally substituted for the penultimate अ,
+not prosodially long, of roots having an initial consonant and
+not ending in र् or ल् ; पद्—अपादिषम् , अपादिषम् ; गह्—अगादिषम्—
+अगादिषम्.
+
+(d)  But the vowel of roots ending in हृ , द् , य , and of the
+roots क्षप् , क्षर् , नाघ् , चि , कट् 'to cover, to surround,' चद् , 'to
+break, to pierce,' चत् , चर् , 'to ask, to beg,' वश् 'to go or move,'
+मथ् ' to churn,' लम् ' to stick or cling to,' हुस् and हृस् 'to sound
+or to be diminished,' does not take its Vṛddhi substitute.
+
+(e)  In the Ātmanepada the radical vowel takes its Guṇa
+substitute; लू—अलेष्ट.
+
+                     Paradigms.
+
+स्तु—अस्ताविषम् 1 sing. अस्ताबीत्    रद्—अस्तरिसि 1 sing. अस्तरिष्ट
+                  3 sing.                      3 sing.
+उ—असाविषम् 1 sing.  असाबीत्    इ and द्—P. अवारिषम् 1 sing.
+                  3 sing.                अवारीत् 3 sing.
+घु—अधाविषम् , अधविषि 1 sing.
+
+    H. S. G. 23.

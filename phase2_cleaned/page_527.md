@@ -1,0 +1,53 @@
+---
+page_number: 527
+internal_page: 527
+chapter: "Syntax"
+section: "syntax"
+rules_starting: ["§ 951", "§ 952", "§ 953"]
+rules_continuing: ["§ 950"]
+has_footnotes: true
+---
+
+tion), आमन्त्रुण (giving permission), अयुनुदुयु (telling one to at-
+tend to an honorary office or duty), संप्रुश्युनु (courteously asking
+a person a question), and prayer; यायुच्युयु: go on should perform
+a sacrifice; त्युनं ग्रामं गच्छुयुनु: go to the village; इहु भुवुयुरु युयुवुजीत your
+honour should take food here; इहुयूसोत भुवुयुरु you may sit here;
+पुयूत्रुयूयूयूयुयुनैदुयूयुरु you may teach my son (as an honorary duty);
+किं मो मैदुयूरुयूपुयूयुयूयू यनु भुकुदुयुं I see; अयु, oh! shall I learn the Vedas or
+logic? को स्युनुयूत् कुरोमि good Sir, can I get food here? i. e. will
+you kindly give me food? (All these senses are optionally
+expressed by the Imperative also).
+
+(a) * In the case of the first two senses viz. विधि and निन-
+न्युनुयू and in that of 'proper time', the potential participle may
+also be used for the Potential; यस्युत्युयु युयुट्युनुयुरु, &c.
+
+§ 951. † When the words 'after an hour' are used the Poten-
+tial (also Imperative) or the Potential participle may be used,
+छुहुनुयूयुनैयुयुनुयूयुयु, स्युयुट्युट् or छुट्युट् (Sid. Kau.).
+
+§ 952. ‡ The Potential is used with the words कुयूलु, समुयु
+and होर when these word are is used respectve; होरु वु युक्तुयुयुयुद्युयूयुयु
+भुवुयुरु it is time now that you should dine.
+
+§ 953. § When the idea of fitness is to be expressed the
+Potential or the Potential participle may be used; and some-
+times the noun in नु also; त्युनं कुन्युयूयु वुहुयुनै; त्युनं कुन्युयूयूयूः युीयुयूदु or स्युयुयुयूयू
+कुन्युयुयू युीयुयूयुयु you are fit to marry the girl.
+
+(a) The Potential or the Potential participle may be used
+when the sense of capability is implied; भुयूरुयूं त्युनं वुहुयुनै: or भुयूरुस्युयुयुयूयू
+युीयुयूच्युयु: you are capable to carry the load.
+
+---
+
+* मैदुयूतिरोयूयूयूयूकुयूलुयूदु छुन्युयूयुम् ॥ Pāṇ. III. 3. 163.
+
+† लिड्युट् चुयूस्युयूयुनुयुहुयूतेकै । Pāṇ. III. 3. 164.
+
+‡ लिङु युदि । Pāṇ. III. 3. 168.
+
+§ अर्युनै छुन्युयुदुयूनुयूयूयू । यात्युकैनै लिङु च । Pāṇ. III. 3. 169, 172.
+
+H. S. G. 34

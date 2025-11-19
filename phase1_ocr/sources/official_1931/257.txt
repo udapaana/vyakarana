@@ -1,26 +1,46 @@
-[Internal page: 243]
+[Internal page: 257]
 
-§ 390-392 ]         CONJUGATION OF VERBS.                     243
+§ 409 ]              CONJUGATION OF VERBS.                     257
 
-and ऋर् respectively; e. g. क्षिप्+ति=क्षिप्+अ+ति=क्षिपति; धु+-ति=धुव+अ+ति=धुवति;  रि+अ+ति=रियति;  कु+अ+ते=क्रियते; तृ+अ+ति=तिर्+अ+ति=तिरति, &c.
+                          Imperfect.
 
-§ 391.  Roots of the tenth or चुरादि class* add अय before the personal terminations.  Before अय ( I ) the penultimate short vowel ( except अ ) takes the Guṇa substitute; and the final vowel and the penultimate अ not prosodially long, take their Vṛddhi substitute; e. g. चुर्+ति=चुर्+अय+ति=चोर्+अय+ति=चोरयति; धू+अय+ति=धो+अय+ति=धाव+अय+ति=धावयति; ताड्+अय+ति=ताड्+अय +ति=ताडयति; but दण्ड्+अय+ति=दण्डयति, &c.
+    P.                                  A.
 
-§ 392.  ( a )† The preceding अ is lengthened before a conjugational termination beginning with a semivowel, a nasal or म् or य; e.  g. नयामि &c.
+1. असुनवम्    असुनुव,                  असुन्वि   असुनुवहि,    असुनुमहि,
+              असुन्व      असुन्म                  असुन्वहि      असुन्महि
+2. असुनोः     असुनुतम्    असुनुत        असुनुथाः असुनुवाथाम्   असुनुध्वम्
+3. असुनोत्    असुनुताम्   असुन्वन्      असुनुत   असुन्वाताम्   असुन्वत
 
-    ( b )  The final अ is dropped before terminations beginning with अ; नय+अन्ति=नयन्ति, &c.
+                          Imperative.
 
-                          1st class.
+1. सुनवानि    सुनवाव     सुनवाम       सुनवै     सुनवावहै     सुनवामहै
+2. सुनु       सुनुतम्    सुनुत        सुनुष्व   सुन्वाथाम्   सुनुध्वम्
+3. सुनोतु     सुनुताम्   सुनन्तु      सुनुताम्  सुन्वाताम्   सुन्वताम्
 
-                   नी P. A. ' to carry.'
+                          Potential.
+
+1. सुनुयाम्    सुनुयाव    सुनुयाम       सुन्वीय    सुन्वीवहि     सुन्वीमहि
+2. सुनुयाः    सुनुयातम्  सुनुयात       सुन्वीथाः सुन्वीयाथाम्  सुन्वीध्वम्
+3. सुनुयात्   सुनुयाताम् सुनुयुः       सुन्वीत   सुन्वीयाताम्  सुन्वीरन्
+
+       साध् P. 'to accomplish.'        अञ्च् A. ' to pervade.'
 
                           Present.
 
-        Par.                          Ātm.
-1. नयामि      नयावः     नयामः         नये      नयावहे    नयामहे
-2. नयसि      नयथः     नयथ           नयसे     नयेथे     नयध्वे
-3. नयति      नयतः     नयन्ति         नयते     नयेते     नयन्ते
+1. साध्नोमि    साध्नुवः    साध्नुमः      अञ्चुवे    अञ्चुवहे       अञ्चुमहे
+2. साध्नोषि    साध्नुथः    साध्नुथ       अञ्चुषे    अञ्चुवाथे      अञ्चुध्वे
+3. साध्नोति    साध्नुतः    साध्नुवन्ति   अञ्चुते    अञ्चुवाते      अञ्चुवते
 
-    *This class contains a few primitive verbs, almost all the roots belonging to it being derivative; besides, all Causals and some Nominal verbs may be regarded as belonging to this class.
+                          Imperfect.
 
-    † अतो दीर्घो यञि । Pāṇ.  VII   3, 101.
+1. असाध्नवम्   असाध्नुव   असाध्नुम      आञ्चुवि   आञ्चुवहि      आञ्चुमहि
+2. असाध्नोः   असाध्नुतम् असाध्नुत      आञ्चुथाः आञ्चुवाथाम्   आञ्चुध्वम्
+3. असाध्नोत्  असाध्नुताम् असाध्नुवन्   आञ्चुत   आञ्चुवाताम्   आञ्चुवत
+
+                          Imperative.
+
+1. साध्नवानि   साध्नवाव   साध्नवाम      अञ्चवै     अञ्चवावहै     अञ्चवामहै
+2. साध्नुहि    साध्नुतम्  साध्नुत       अञ्चुष्व   अञ्चुवाथाम्   अञ्चुध्वम्
+3. साध्नोतु   साध्नुताम् साध्नुवन्तु   अञ्चुताम्  अञ्चुवाताम्   अञ्चुवताम्
+
+                         H. S. G. 17

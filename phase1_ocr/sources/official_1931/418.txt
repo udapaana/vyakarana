@@ -1,42 +1,41 @@
-[Internal page: 404]
+[Internal page: 418]
 
-406                  SANSKRIT GRAMMAR.                   [ § 664
+420                  SANSKRIT GRAMMAR,                   [ § 67
 
-Atm. उत्तपते or विततपे सूर्य: when used transitively it is Atm.
-If it has a limb of the body of the agent for its object; इत्तपते
-or विततपे पान्नि ' he warms his hands. but सूर्य: सुवर्णासारु
-or सुवर्णङ् सूर्यं  he warms his hand,  but स्वर्य: सुवर्णाङ्गतपति: when  it means
-'to practise penance' it is Atm. and  is conjugated like a root
-of the fourth class.
 
-According to some दृप् with अनु is Atm; अनुतपते 'repents,'
+Roots    Perf. Base ( 3rd pl. )                    Perf. ptc.
 
-दा—*'to give ' ( 3 cl. ) by itself takes either pada;  but when-
-preceded by आ it is Atm. in any other sense than opening ( the
-mouth, &c. ); पदं आदत्ते  'accepts money;'  विद्या आदत्ते  'acquires
-knowledge;' नादते भवता रुद्वेऽ या पहुट्व  ( Sāk. ) ' does not pluck
-your foliage through devotion;' but गात्रं आदान: स्यायाति  'opens
-mouth ; ' द्वीत्वोकं सातेति शुद : ' the doctor opens the tumour on
-the root;' नदीद्वुरं स्यादद्वाति  ' breaks open the bank of a river;'
-but if the mouth belongs to another the exception is removed;
-स्यादद्वते पत्रकुस्य मुखं पिपीलिका: 'ants break open the mouth of a
-moth' ( Mah. Bha. ).
+नी   to carry    निनौ                              निनिवसु who or wha
+                                                    carried.
+पच्   to cook     पेचु                              पेचिवसु  „, cooked.
+वच्   to speak    ऊचु                              ऊचिवसु  „, spoke.
+यज्   to sacrifice  ईजु                              ईजिवसु  „, sacrifice
+भञ्ज् to break    बभञ्जु                            बभञ्जिवसु ,, broke.
+अस्   to throw    आसु                              आसिवसु ,, threw
+स्तु   to praise   तुष्टु                            तुष्टुवसु  „, praised.
+कृ    to do       चक्रु                             चक्रुवसु  „, did.
+भिद्   to split    बिभिदु                           बिभिदुसु ,, split.
+दा    to give     ददु                              ददिवसु  „, gave &c.
+घस्   to eat      जक्षु                            जक्षिवसु „, ate.
+दृश्   to see      ददृशु       ददृशिवसु  or ददृश्वसु  „, saw.
+विद्   to know, &c. विविदु      विविदुसु  or विविदिवसु „, knew, &
+विक्र्  to enter    बिविक्रु     बिविविक्रुवसु or बिविक्षसु  „, entered.
 
-दा†—'to give' ( I cl. ) when preceded by  the preposition  सत्य
-simply or coupled with any other  preposition  takes the Atm.
-provided it is used with the Instrumental in the sense of the
-Dative; दासरा सुनुस्यत्ते or संपदस्यत्ते ' gives ( something ) to the
-maid-servant,'  but दासरा धन संपदस्यदति विद्यां ' gives  wealth to a.
-Brāhman through the maid-servant '
+    जन् has जजन्वसु , सद्य–चसह्वसु ,  गभ्–जग्मिवसु or जगन्वसु , ab
+हन्–जघनिवसु or जघन्वसु .
 
-दृश्‡—'to see preceded by उप and used intransitively takes the
-Atm.; स्वर्गं ङेति इति-क वेद्य ; ' this root takes the Atm. in
-the Desiderative; दिदृक्षते 'wishes to see.'
+( I ) In the case of roots beginning with अ, व is not insert
+as it is in the Perfect; अञ्जु–आञ्जिवसु ,
 
-हृ—'to run' is Par, in the Cau,
+( a ) For the declension of these participles see § 124.
 
-नह्—with सत्य is Atm. in the sense of 'preparing, being ready
+                        ĀTMANEPADA.
 
-_________________________________________________
-* आद्ये देऽनास्स्याविवोपे । Pāṇ.  1.  3,  20.  आस्यमूण्णाविद्यत्तिद्य
-Sid. Kau. परादुकमुकाय निर्वेय: । Vārt.
+नी  to carry                          निनी               निन्यान
+दा  to give                           ददु                ददान
+पच्  to cook                          पेच                पेचान
+यज् to sacrifice                      ईजु                ईजान
+कृ  to do                             चक्रु               चक्राण
+वच् to speak                          ऊचु                ऊचान
+स्तु  to praise                        तुष्टु              तुष्टुवान
+श्रु  to hear                          शुश्रु              शुश्रुवाण

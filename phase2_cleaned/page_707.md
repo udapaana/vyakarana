@@ -1,0 +1,53 @@
+---
+page_number: 707
+internal_page: 707
+chapter: "Appendix II - Dhātukośa"
+section: "dhātukośa"
+rules_starting: []
+rules_continuing: []
+has_footnotes: false
+---
+
+                    DHĀTUKOŚA.                               145
+
+स्तु 2 U. स्तुतौ to praise, to extol, to worship by hymns: स्तौति-
+  स्तवीति, स्तवतै-स्तुवीतै pre. तुष्टाव. तुष्टुवै perf. स्तोता p fut. स्तोष्युति
+  -तै fut. अस्तोषीत्-अस्तोष्ट aor स्तुयुयात्, स्तोषीष्ट ben तुष्टाति-तै
+  des. Pass -स्तूयुतै pre अस्तावि aor Cau —स्तावयाति-तै pre.
+  अतुष्टवत-न aor. स्तुत p.p
+
+स्तुभु 1 A स्तम्भुनै to stop, to suppress; स्तौभुतै pre तुष्टुभुै perf. अस्तौ-
+  भुीष्ट Aor स्तुभुित्वा, स्तुभुत्वा ger.
+
+स्तुभु 5 & 9 P रोधनै धारणै च to stop, to expel, to stupefy; स्तुभुोति
+  स्तुभुाति pre. तुष्टुभु perf अस्तुभुीत् Aor.
+
+स्तृ 4 P. & 10 U. सुखस्पृत्तै to heap up, to erect; स्तृयुति, स्तृयानि-
+  तै pre. तुष्टुर, स्तृयाचकार-चक्रै &c. perf. अस्तूरीत् , अतुष्टुरत-न aor
+
+स्तृ 5 U. आच्छादनै to cover; स्तृणीति, स्तृणुतै pre तस्तार , तस्तरै perf.
+  स्तर्ता p. fut. असतारीत् , असतीष्ट , असतुरत् aor स्तर्युयात् स्तर्षीष्ट, स्तरी-
+  षीष्ट ben तिस्तीर्याति-तै des. Pass.—स्तीर्युतै pre Cau.-स्तारयाति-तै
+  pre. तिस्तरिषति-तै des. स्तीर्णं p.p. स्तीर्त्वा ger.
+
+स्तृञ्च् 1 P. to go, to move; स्तृञ्चुति pre तस्तृञ्च perf. अस्तृञ्चीत् aor.
+
+स्तृह् 6 P. हिंसायां to strike, to kill; स्तृहुति pre. तस्तृहै perf स्तर्हिता
+  स्तर्हं p fut अस्तृहीत्, अस्तृह्रुत aor तिस्तृहुिषाति, तिस्तृहुसति des.
+  Cau.—स्तर्हुयाति-तै pre. अतस्तृहत-न, अतिस्तृहत-न Aor
+
+स्तृ 9 U. आस्तरणै to spread, to cover; स्तृणाति, स्तृणीतै pre. तस्तार
+  तस्तरै perf त्स्तरिता, स्तरीता p. fut. असतरीत्, असतरीष्ट, असताीष्ट,
+  अस्तृषीष्ट aor. स्तीर्युयात् , स्तरीषीष्ट, स्तोर्षीष्ट ben Pass —स्तीर्युतै pre.
+  तिस्तरिषति-तै des.
+
+स्तैन् 10 U. चौर्यै to steal; स्तैनुयाति-तै pre स्तैनुयाचकार-चक्रै perf. अवि-
+  स्तैनत-न aor.
+
+स्तैर् 1 A क्षरणै to ooze; स्तैरतै pre. तितैरै perf. स्तैरिता p fut असतै-
+  रीष्ट aor.
+
+स्तै 1 P वैष्टनै to cover, to put on, to adorn; स्तसुति pre. तस्तौ
+  perf. असतासीत् aor.
+
+स्पर्धु 1 P. शब्दुसंघातयो: to sound, to collect into a heap, to spread

@@ -1,0 +1,45 @@
+---
+page_number: 389
+internal_page: 389
+chapter: "Conjugation of Verbs"
+section: "conjugation-of-verbs"
+rules_starting: ["§ 639"]
+rules_continuing: ["§ 638"]
+has_footnotes: false
+---
+
+
+                       Benedictive.
+
+1 बोभूयासम्                  बोभूयास्व              बोभूयास्म
+       &c.                          &c.                     &c.
+
+Tenses.             Ātmanepada.                    Passive.
+
+Pre.               बोभूते                         बोभूयते
+Imperf.            अबोभूत                         अबोभूयत
+Imp.               बोभूताम्                        बोभूयताम्
+Pot.               बोभूयीत                         बोभूयते
+Perf.              बोभवाञ्चक्रे &c.                 बोभवाञ्चक्रे
+1st Fu.            बोभविता           बोभविता    or  बोभाविता
+2nd Fu.            बोभविष्यते         बोभविष्यते or  बोभाविष्यते
+Con.               अबोभविष्यत        अबोभविष्यत or अबोभाविष्यत
+Aor.               अबोभविष्ट                       अबोभावि
+Bened.             बोभविषीष्ट         बोभविषीष्ट or बोभाविषीष्ट
+
+§ 639. The following roots form their Frequentatives
+irregularly.
+
+Roots.                        Ātm Fre.            Par. Freq.
+
+ऊर्णु to cover                 ऊर्णोनूयते
+कु 1 cl. to sound              कोकूयते
+खन् to dig                    चंखन्यते or            चंखनीति
+                             चंखन्यते or            चंद्रुन्ति, &c
+                             चाखायते
+गृ to swallow                 जेगिल्यते             जागर्ति
+चर् to walk                   See § 630 a.     चचरीति or चचर्ति
+चायृ to worship               चेकीयते              चेकीयति or चेकेति
+जन् to be born                See § 630 a.     जञ्जनीति or जञ्जन्ति, &c
+दुत् to shine                 दैद्युत्यते            दैद्युतीति or दैद्योति
+फुल्ल् to expand              See § 630 a.     पंफुलीति or पंफुलिति

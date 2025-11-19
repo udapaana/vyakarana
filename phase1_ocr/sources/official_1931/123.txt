@@ -1,38 +1,23 @@
-[Internal page: 105]
-§ 159 ]        NUMERALS AND THEIR DECLENSION.                    105
+[Internal page: 123]
+§ 204-205 ]                    COMPOUNDS.                    123
 
-68  ६८  अष्टषष्टि or
-        अष्टाषष्टि
-69  ६९  नवषष्टि or
-        एकोनसप्तति &c.
-70  ७०  सप्तति fem.        सप्ततितमः, ०मी
-71  ७१  एकसप्तति          एकसप्ततः, ०मी or एकसप्ततितमः, ०मी
-72  ७२  द्वासप्तति or
-        द्विसप्तति
-73  ७३  त्रयस्सप्तति or
-        त्रिसप्तति
-74  ७४  चतुस्सप्तति
-75  ७५  पञ्चसप्तति
-76  ७६  षट्सप्तति
-77  ७७  सप्तसप्तति
-78  ७८  अष्टासप्तति or
-        अष्टसप्तति
-79  ७९  नवसप्तति or
-        एकोनाशीति &c.
-80  ८०  अशीति fem.        अशीतितमः, ०मी
-81  ८१  एकाशीति          एकाशीत ०मी, or एकाशीतितम ०मी
-82  ८२  द्व्यशीति
-83  ८३  त्र्यशीति
-84  ८४  चतुरशीति
-85  ८५  पञ्चाशीति
-86  ८६  षडशीति
-87  ८७  सप्ताशीति
-88  ८८  अष्टाशीति
-89  ८९  नवाशीति or
-        एकोननवति &c.
-90  ९०  नवति fem.         नवतितमः, ०मी
-91  ९१  एकनवति           एकनवतः, or ०मी or एकनवतितम ०मी
-92  ९२  द्वानवति or
-        द्विनवति
-93  ९३  त्रयोनवति or
-        त्रिनवति
+Accusative case; e. g. मुहूर्तं सुखं मुहूर्तेषु सुखम् 'happiness lasting for a moment'; संवत्सरं वासः संवत्सरवासः 'residence for a year' &c.
+
+(c) The word सद्य forms an Accusative Tatpurusha with a p. p. participle when censure is implied or contempt is to be shown†; as सद्यम् अरुन्धः सद्यारुन्धः 'a silly fool'. cf. Bhatti. V. 10
+
+(d) Sometimes a preposition or a word denoting a period of time may take the place of the Accusative‡; as सार्मिश्र्यं 'half done;' मासप्रभिति: (प्रतिपञ्चन्द्रः) 'what marks the commencement of a month as the new moon.'
+
+§ 205. A noun in the Instrumental may be compounded—
+
+(a) × with another expressive of an effect produced by what is denoted by the noun in the Instrumental case, and with अर्थ; as शङ्कुलेन सपाड. शङ्कुशालिषपडः severed by means of a knife; धान्येन अर्थः धान्यार्थः wealth obtained by means of grain.
+
+(b) - with verbal derivatives when the Instrumental has thes ense of the agent or the instrument or means of the action; as हरिणा त्रातः हरित्रातः saved by Hari; नखैर्भिन्नः नखभिन्नः torn with the nails &c
+
+(c) with the words|| † पूर्व, सह, सम, ऊन and words having the sense of ऊन, कलह, निपुण, मिश्र, स्पृश and अवर; as मातृन पूर्वः मातृपूर्वः; मातृ सहः मातृसहः like his mother; पितुसमः equal to his
+
+* अन्यमनसंयोगे च । Pān. II. 1. 29.
+† सद्यरुद्धे । Pān. II. 1. 26.
+‡ सार्मि । कालात् । Pān. II. 1. 27, 28.
+× वृत्तीया सच्छेतार्येन युपव्चनेन । Pān. II. 1. 30.
+- कर्तृकरणे छत्ता बहुलम् । Pān. II. 1. 32.
+†† पूर्वेसह्समोनार्थैकल्हनिपुणामिश्रभक्षणैः । Pān. II. 1. 31.

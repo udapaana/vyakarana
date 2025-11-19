@@ -1,0 +1,54 @@
+---
+page_number: 537
+internal_page: 537
+chapter: "Appendix - Prosody"
+section: "prosody"
+rules_starting: ["§ 8", "§ 9", "§ 10", "§ 11", "§ 12", "§ 13"]
+rules_continuing: []
+has_footnotes: true
+---
+
+§ 8. A pāda or stanza may be either a वृत्त or a जाति.
+
+(a) A Vṛtta is a stanza the metre of which is regulated by
+the number and position of syllables in each pāda or quarter.
+
+(b) A Jāti is a stanza the metre of which is regulated by
+the number of syllabic instants in each Pāda or quarter.
+
+§ 9. * A Vṛtta again is of three kinds; (1) समवृत्त or that
+in which all the quarters are similar; (2) अर्धसमवृत्त or that in
+which the alternate quarters are similar; and (3) विषम or that
+in which the quarters are all dissimilar.
+
+§ 10. There are 26 classes of Samavṛttas or regular metres
+generally accepted. This classification rests on the number of
+syllables in each quarter which my vary from one to twenty-
+six. Each of these classes comprises a variety of metres all
+differing from one another according to the combination of the
+various gaṇas.
+
+§ 11. Yati (यति) is the Sanskrit name for the cæsura or
+pause which may be made in reciting a quarter or verse.
+
+§ 12. Only the metres in common use with their schemes
+in Gaṇas will be given here; all unimportant metres, as well as
+Vedic and Prākṛta metres will be ignored.
+
+SECTION I.
+
+SAMAVṚTTAS.
+
+Metres with 8 Syllables to a Pāda.
+
+( 1 ) अनुष्टुभ् or श्लोक.
+
+§ 13. This is the commonest of all Sanskrit metres; it forms
+the chief metre of the great epics and many of the Purāṇas.
+
+---
+
+* समसर्वसम् इनं विषमं च तथा त्रिधा ॥ अत्रादौ घन चत्वारिस्थसदृशा:-
+पादाङ्गिता: । तत्त्रैद्वेशाहतचरस्ता: सर्वे इनं नुज्ञेयं ॥ प्रथमाङ्गिद्वद्राते यस्य
+दुतीयक्षरया मेदेन । द्विरीयस्वद्वेविद्वेदं तद्द्वैः सेच्छन्ये ॥ एरं पादच्छेदो
+स्केऽपि लक्षनं निर्वृनुसरस्व । नैकहुद्विनिः इनं टन्दे ज्ञाप्तिविद्विशाग्द्रिनै: ॥

@@ -1,25 +1,29 @@
-[Internal page: 20]
-20                        SANSKRIT GRAMMAR.                    [§24-26
+[Internal page: 39]
+§ 69-70 ]                    DECLENSION.                    39
 
-by the word यति (in the Veda and) in ordinary language when it means a particular measure of length*;e.g. गव्युतिः four miles.
+                    मधु neu. honey.
+  N.    मधु              मधुनी                  मधूनि
+  V.    मधो or मधु         ,,                      ,,
+  A.    मधु                ,,                      ,,
+  I.    मधुना          मधुभ्याम्                   ,,
+  D.    मधुने             ,,                   मधुभिः
+ Ab.    मधुनः             ,,                   मधुभ्यः
+  G.     ,,              मधुनोः                    ,,
+  L.    मधुनि             ,,                   मधुनाम्
+                                                 मधुषु
 
-(d) The ए of the roots क्षि and जि is changed to अय् when followed by the य of the potential participle indicating capability† e.g क्षि+य=क्षै+य=क्षय्यं what can be reduced; so जय्यं what can be conquered; but क्षेतुं देतुं योग्यं क्षेयं (what is fit to be removed but may not be so) पार्यं, जेयं (what ought to be curbed but which it may not be always possible to curb as) मन्।
+§ 70. Adjectives ending in इ and उ when used with neuter nouns are optionally declined like mas. nouns in इ and उ in the Da. Ab. Gen. and Loc. singulars and Gen Loc. duals, e.g. शुचि neu. white, pure; गुरु neu. heavy :—
 
-§25. When ए or औ at the end of a word is followed by अ the latter merges into the former § and the sign ऽ is sometimes written in its place; e. g. हरे+अव=हरेऽव protect, Oh Hari; विष्णो+अव=विष्णोऽव.
+                    शुचि neu.
+  N.    शुचि            शुचिनी                 शुचीनि
+  V.    शुचि or शुचे       ,,                      ,,
+ Ac.    शुचि              ,,                      ,,
+  I.    शुचिना         शुचिभ्याम्                  ,,
+  D.    शुचये or शुचिने    ,,                   शुचिभिः
+ Ab.    शुचेः or शुचिनः    ,,                   शुचिभ्यः
+  G.     ,,    ,,        शुच्योः or शुचिनोः शुचीनाम्
+  L.    शुचौ or शुचिनि     ,,        ,,         शुचिषु
 
-(a) ‡If the word गो, ending in औ, be followed by अ, the अ is optionally retained, and if by a vowel, अव is optionally substituted for औ. गो+अग्रय=गोमय, गोअग्रय and गवाग्रय a multitude of cows or chief among cows; but if it be followed by इन्द्र and अक्ष it recessarily changes its औ to अव; गो+इन्द्रः:=गविन्द्रः an excellent bull; गवाक्षः a lattice-window, similarly.
-
-§26. No sandhi is possible in the case of ×—
-
-1 What are called the Pragṛhya exceptions; viz.—
-
-(a) When a dual from (whether of a noun, pronoun or verb) ends in ई, ऊ, or ए–; e. g. हरी एतौ; विष्णू इमौ; गजै अश्वौ; पचेते इमौ
-
-* गौयुतो छैद्वसुपसंख्यानम्। अश्वपरिमाणे च। Vârtikas.
-
-† क्ष्ययन्त्यो ज्ञक्यार्थे। Pân.  VI. 1. 81.
-
-§ एङ पदान्तादति। Pân. VI. I. 109.  ‡ सवेत्र विभाषा गोः। अवबू-स्फोटायनस्य। इन्द्रे च। Pân. VI. 1. 122-24.
-
-× च्युतप्रग्रह्या अचि नित्यम् Pân. VI. 1. 125.
-– ईदूदेविचष्णों प्रग्रह्यम्।
+                    गुरु neu.
+  N.    गुरु             गुरुणी                 गुरूणि
+  V.    गुरु or गुरो        ,,                      ,,

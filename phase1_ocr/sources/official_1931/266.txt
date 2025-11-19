@@ -1,28 +1,41 @@
-[Internal page: 252]
+[Internal page: 266]
 
-252                    SANSKRIT GRAMMAR.                    [ § 398-399
+266                    SANSKRIT GRAMMAR.                    [ § 421
 
-चुद् U. to break r cut छुफाति-ते  |  चिष्प् U  to sprinkle चिष्खाति-त
-चिद्* U. to obtain चिन्दाति-ते      |  विश् P  to form विशति.
+         Imperative.                     Potential.
 
-§ 399   ( a ) The following roots belong optionally to the 1st and 6th Classes:—छुम् 1  P  6   U  to pl agh, to driv, चुम् 1.  A. to return, 6. P  to strike against, शुण् 1.A  6. P. to roll, to whirl, 1.  A. to take, to r ceive, रूद् 1  A.  6   P  to reel, whirl round, move to and fro, चुत् 1  P.  to  divide, 6.  P  to envelope, चुस्, सुत् 1. 6. kill 1 st P  to shut down, किण् P.  I.  to sprinkle, 6. to open the eyes, शुट् P  1   to stur, to churn, 6  to cover, to adhere, चुष् 1. A. to cheat, 6 U. to release, to leave &c.
+1. कुषै      कुषावहै    कुषामहै         कुषीय     कुषीवहि     कुषीमहि
+2. कुष्व     कुषाथाम्   कुडुढ्वम्        कुषीथाः   कुषीयाथाम्  कुषीध्वम्
+3. कुष्टाम्   कुषाताम्   कुषताम्          कुषीत     कुषीयाताम्  कुषीरन्
 
-    ( b )  The following roots belong to the 4th as well as to the 6th class:—क्षित्  4 P.  6    U.  to throw, छुस्  4.   P  to confound, 6.  U   to take away,  छुग्  P 4  to covet,  to  be perplexed, 6 A.  to perplex,  चुम् 4  A.  to let loose,  to  send forth, 4, 6  P  to create.
+                   दुह् P. A. 'to milk.'
 
-                    10th Class ( चुरादिगः )
+                          Present.
 
-भर्† P. to ' shake ' भूसति.          यी P ' to please ' यीमर्चति.
-अयू—अयेयति, अयेपयाति-‡          गण्य—गणयति, गणायपयाति ‡
-लज्ज्—लज्जयाति, लज्जापयति-‡      बणय्—बणययाति, बणयायपयाति-‡
+    P.                                  A.
 
-    *This root belongs to the 2nd, 4th, 6th, and 7th classes, with different senses.  All these are given in the following couplet.
+1. दोग्धि     दुहुः      दुहः            दुहे      दुहुहे       दुहुहे
+2. धोक्षि*   दुग्धः     दुग्धः           धुक्षे    दुहाथे       धुग्ध्वे
+3. दोग्धि     दुग्धः     दुहन्ति          दुग्धे    दुहाते       दुहते
 
-       सत्तं नि चित्तये ज्ञाने चेति चिन्ते विलाते ।
-       चिन्त्ते विचित्त्ये याची स्म्रतुव्रक्षियचेत्विधां कमाप् ॥
+                          Imperfect.
 
-    † The  following  stanza from the ' Kavirahasya ' gives  the various classes to which this root belongs:—
+1. अदोहम्    अदुह      अदुह            अदुहे    अदुहुहि      अदुहुहि
+2. अधोक्‌-म्  अदुग्धम्   अदुग्ध           अदुग्धाः  अदुहाथाम्   अधुग्ध्वम्
+3. अधोक्‌-ड्  अदुग्धाम्  अदुहन्          अदुग्ध   अदुहाताम्   अदुहत
 
-       भूतोति चायनेजाने भूतेयसोक' चुते चुनाति भुवने स्फुटिगगनुत्पम् ।
-       वाचुयैघूसूयाति चयनकुभत्यकूव गयकानते भवाने चन्युनयसीय ॥
+                          Imperative.
 
-    ‡ These optional forms are  according to झ्राकदासन  and others
+1. दोहानि    दोहाव     दोहाम           दोहै     दोहावहै      दोहामहै
+2. दुग्धे     दुग्धम्    दुग्ध            धुग्ष्व   दुहाथाम्     धुग्ध्वम्
+3. दोग्धु    दुग्धाम्   दुहन्तु          दुग्धाम्  दुहाताम्     दुहताम्
+
+                          Potential.
+
+1. दुहुयाम्   दुहुयाव    दुहुयाम          दुहीय    दुहीवहि      दुहीमहि
+2. दुहुयाः   दुहुयातम्  दुहुयात          दुहीथाः  दुहीयाथाम्   दुहीध्वम्
+3. दुहुयात्  दुहुयाताम् दुहुयुः          दुहीत    दुहीयाताम्   दुहीरन्
+
+    लिह् to be similarly cojugated; इ and ए being substituted इ and ओ respectively.
+
+    * For the change of द् to ष्, vide § 95.

@@ -1,13 +1,16 @@
-[Internal page: 135]
-§ 222 ]                    KARMADHA'RAYA                    135
+[Internal page: 153]
+§ 249-252 ]                    BAHUVRIHI.                    153
 
-(a) *The qualified word is placed first and is always of the mas. gender if it denotes a class or species, when compounded with certain adjectives, e. g. इषोयूषत्तिः 'a young female elephant', आङ्ऱस्तौकः 'a small fire', उदुम्बरकतिपयम् 'butter-milk mixed with a little water', गोग्रात्िः 'a cow that has brought forth a calf for the first time', गोधेनुः 'a milch-cow (नवप्रसूतिका)', गोवंशा 'a barren cow', गोविवद् (गर्भेघातिनी गौः), गोवत्सपुर्णी 'a cow whose calf is one year old,' कट्यभौजिचः 'an agnihotrin Brāhmana of the Katha branch of the Yajurveda,' कट्याध्यापकः 'a teacher of the Katha branch,' † गौ-मताडिका-मन्चविका-प्रकुण्डं (also mas. according to some)—उद्रः (गवौद्र)-तद्रज 'an excellent cow'. The last mentioned five words, all of which denote excellence, retain their own gender invariably; as ब्राह्मणमतब्राडिका 'an eminent Brāhmana' &c.; but कुमारी मतडिका, as no class is meant here.
+here what is meant is herdsman only and not his variegated cows.
 
-(b) ‡ The words कहार, सत्रो, खौड lame, काण, कुण्ड blunt, dull, स्वलति bald-headed, गीर, वद्ध, भिक्षुक भीग, भिंगल, तञ्ज, जरद् hard, stiff, बधिर, कुञ्ज and बर्बर, may optionally precede the words in apposition to them; as जैसमिनककहारः or कहारजैसमिनः Jaimini who is turned tawny on account of his having practised penance in the sun.' &c.
+§ 250. *The negative particle अ or अन् and prepositions, may, sometimes, form Bah. compounds with substantives; the verbal derivatives used to express their sense may be optionally retained; अविद्यमानः पुत्रः यस्य स अपुत्रः, प्रपतितानि पर्णानि यस्य स प्रपर्णः a tree with its leaves dropped; निर्गेता घूणा यस्य स निर्घूणः ruthless; उद्धता कन्धरा यस्य स उत्कन्धरः with the neck uplifted; विगतं जीवितं यस्य स विजीवितः dead &c. Also अविद्यमानपुत्रः, प्रपतितपर्णः &c.; अति शौरं यस्याः सा अतिशौरा गौः a milk-cow (where अति is an indeclinable meaning 'having').
 
-(c) §Words expressive of the persons or things condemned
+§ 251 † The particle सह may be compounded with a noun in the Instrumental case in a Bahuvrihi when there is equal participation in some action; in this case सह optionally becomes स; as पुत्रेण सह सहपुत्रः or सपुत्रः.
 
-* पोटाङुश्चतिस्तोकर्कतिपयग्रातिद्रेद्धुवर्ञाविद्राक्षुकपूर्णीप्रवद्धशाभित्रां घ्याप-कयार्तीजीति । एदस्मेघारयजातौपदेशोपिद्य । Pān. II. 1. 65. VI. 3. 42.
-† प्रशंसावचनेभेक्ष्रः । Pān. II. 1. 66 (मताडिकादयो निपतलिंगं न तु विशेष्यलिंग:। । Sid. Kau.). मताडिकामन्चविकामकाण्डदुद्धतञ्जौ । प्रशंसावान्चकाण्यधूने । Amara.
-‡ कहारः कर्मधारये । Pān. II. 2. 38.
-§ कुत्सितेति कुरुसवेनैः । पापाणके कुत्सितैः । Pān. II. 1. 53. 54. किं क्षेपे । Pān. II. 1. 64.
+(a) सह remains unchanged when the compound invokes a blessing but is necessarily changed to स when followed by गौ a cow, वत्स a calf, or हल a plough, even when a blessing is pronounced; as स्सान्ति रात्रौ सहपुत्राय, सहामात्याय, &c.; सगवे, सवत्साय, सहलाय.
+
+§ 252. ‡ A compound of an indeclinable or a numeral or of आसत्त, अद्धुर or अधिक with a numeral is a Bahuvrihi. In the
+
+* प्रादिभ्यो धातुजनस्य वाच्यो वा चोत्तरपदलोपः । नञोऽस्थ्ययर्थं वाच्यो वा चोत्तरपदलोपः । Vārtikas on Pān. II. 2. 24.
+† तेन सहेति तुल्ययोगे । Pān. II. 2. 28. वौपस्जनस्य । प्रकृत्याभिधिः। Pān. VI. 3. 82-83. अगौवत्सहलेदि वाच्यम् । Vārt. The restriction तुल्ययोगे is not universal as there are instances in which there is no equal participation; e. g. सक्रमर्कः, सलोमकः, सपक्षकः &c.; hence the Vārtikāra remarks-' प्रायिकं तुल्ययोगे इति विशेषणमन्यत्राचि समालो इष्यते । Dikshita also says तुल्ययोगव्चनं प्रायिकम् ।
+‡ संख्यायाव्ययासद्धुरधिकसंख्याः संख्येये । Pān. II. 2. 25.

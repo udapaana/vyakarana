@@ -1,37 +1,42 @@
-[Internal page: 455]
+[Internal page: 469]
 
-§ 777 ]                PRIMARY NOMINAL BASES.                    457
+§ 787–789 ]                SYNTAX.                    473
 
-यु—is affixed to युष् preceded by युरुत् or युतौ, युव् changing to यु
-in the ablative and दुश्युरु: ' one who receives a share, '  प्रदुश्युरु:
-' one who divides, or distributes;'  युनैत्युरुः : ' one who gives proof
-or his body  indicative  of  the death  of his wife,  similarly
-the child's chin or yawn or the sleep of his nurse, &c., imme-
-diately yuच्छुं रि द्विन्युर्युतौ, युतौत्युं युतोदुयुरु ( युत्तुर्गुरादै-
-रुनुत्युर्युकुयुयुं युदुशुयुं or युनुनै द्यु. &c द्यै ). ' सदुरुथुर्याकुयुनैत्युर्यैषुयो 'he
-who suffers pain or dies when his wife  dies,  &c., similarly युकुरु
-ते who tū kill an elephant,' &c.;—and preceded by युटै and
-युयु is added to युयुक् and  युरुत्त्युं respectively, युयुकुयुः युदुरुवुते:
-' a kind with the beast, also a domestic ( beating  a  drum  with
-the beat ) '—to युरु with द्यु as in युरुयुद्युरुचुसुयु युरुयुयुंद्युष्युस्युतुं:  ' the
-wife of the son; दुत्तुयुर् with युष्टु  युषुटुयुरु: who cannot be killed,
-युयुरुयुरुं: ' one who chases the Shiva Veda '; but प्रणङ्युक्रु: ' who
-is not preceded by अ preposition;  on the ground,  &c.'  इत् forms
-युयुदुरुयुरैं—is added to युट् preceded by युनुरु, अयुरुत्युं, युरु , युव् , युरुं,
-वुद्ध , &c. ; युदुयुः: yuरु on the ground,  युरु and तिवुरु  shows
-the idea of a noun connected, with the root, or  proceeding to
-the place of action, before this  the  final  consonant  with the
-युरुरुयुषौ vowel of the fem. is not युयुदुयु or युत्युद्युरुयुत्तुरुयुं ( युव् गेत्तु )
-युरुयुद्युविर्युं भैरुयुं: ' one who goes to the seat? देवता: a traveller;'
-yuरुः युत्तुरुयु० ) युदूर्तुकरु: from युरु with युयु, a युरुत्युरु: of which
-रुत्युर्यु. प्र used as a गृहे युयु युयुच्छु युदुर्युवुन्युं ); युत्युयुदुत्युत्तुं प्रयुत्युत्युत्युष्युग्र:
-युहे or युदै युनुत्तुर्युयुयुंस्युरुतुरु: युयुरुयुं or yuरुयुदुरुयुत्तुयुत्युत् ( ' he रुयुयुं
-or. he of the ground the स्युनुश्चुरोरै युच्छुरैरुनेणुडूरुयुत्युरुयुं  युर्युरुरुरुत्य
-युयुरुरुयुं path, ordaining,  a  new  garment  युयु  the  place  of
-युयुरु:रु,' ( from  a  root  युष्टु  युयुदै । युयुध्युरुकुरुत्यैर्युत्युन्युंग्युवें  युदुर्तुङ्
-युतौरुत्युरु:—the sense of a noun  which is  not  युदुर्युरु , युनुत्युरु , युषुरु: ' one
-युष्युरु इु preceded by a preposition and the whole is a  name  मृत्युयुं.
-युदौयोत्रुरुयुंरुनुयुनुमें युत्युरुष्युत्तुरुरुनुरु ( यु yuवुर्तु । युरुयुयुरुत्युं युयुत्युत्युत्युं: of which
-युदुरु operation? ' युद्धुरुयु: देरु युरु: युष्युत्युत्यु: ' younger brothers;'
-also किरु: —to युरु तुं दो:युष्युरुयुः, &c. The penultimate अ
-of this affix, this is also added to युयु with युत्तुं, युरुत्युयु: ' a land:
+§ 787.  When an indeclinable used with an  adjectival  force
+takes the place of the verb,  the  object  governed  by  it is put in
+the Nominative case.  * विपश्युयोपि  संवर्धुयं  घटं  छुट्टुयुमुतुक्तानुत्रु (Kum.
+V. 71) it is not fit to cut down  even  a  poisonous  tree having
+first reared it up; here the indeclinable  अलमुद्युतं  is  equivalent to
+न इच्युयुते and the whole sentence to न्युयुं  संवर्धुयं च्युट्युद्यु  असन्मर्युतुयु (न
+इच्युयुत्युर्)  योति विपश्युयुः  स्मात ।
+
+Concord of the Adjective with the Substantive.
+
+§  788.   An adjective, participial  or  qualitative,  must  agree
+with the  substantive  it  qualifies  in  gender,  number  and  case;
+रुपत्युर युद्युरुः  a  handsome  man; रुपत्युर्ती  स्त्री  a  beautiful woman;
+गतदर्शुनं च  a  great  calamity;  एते  मर्त्यराः  गति  पुन्त्युक्तानि;  गच्छुन्तो
+नरोः, &c.
+
+But numeral adjectives of fixed  gender  and  number  remain
+unchanged:—शतं  ब्राह्मणाः  a  hundred  Drāhmaṇas;  शतं  स्त्रियः  a
+hundred women, विविंशति:  वाट्युकुनि  twenty children.
+
+§ 789  When an adjective qualifies two or more  substantives
+it  agrees  with  them  in  their  combined  number;  but  when
+substantives  differ  in  gender,  the  adjective  will  be  masculine
+when  the  substantives  are  masculine  and  feminine;  and  neuter
+when  they  are  masculine,  feminine  and  neuter  राजा  रानी  च
+युत्युच्युवुरुचितौ तुयुः  the  king  and  his  queen  are  of  laudable
+conduct; सर्त्युः  शुमवुत्युस्  द्युर्युद्यु:  कोशुः  भूमिं  वयुः । अर्युद्युदितात्युति  चन्तोपि
+प्रवर्तनुते न लोयुयुयुः  fulfilment of duty, satisfaction of desires,  pride,
+anger, happiness and  long  life,  all  these  proceed  undoubtedly
+from wealth.
+
+(a) Sometimes the adjective takes  the  gender of the majority
+of  the  substantives;  पुयुत्युयु  पत्युविभात्युग्र्यो  निरुर्नो  भार्या  भूतः  स्त्रियः ।
+अप्युकुरुयुशुनं कुत्युच्युरु  भवुन्त्युयु  मयुत्युरुवुदिंत ॥ aged  parents, a good wife and
+a  young  son  should  be  maintained  even  by  doing  a  hundred
+foul deeds; so has Manu spoken ( laid  down ).
+
+* निरोतितभिहिते क्तु स्न्ता न विभकुत्युद्युरुपोन्तुच्च प्राविकुच्युकुत ।  Vāman.

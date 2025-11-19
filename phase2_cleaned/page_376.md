@@ -1,0 +1,45 @@
+---
+page_number: 376
+internal_page: 376
+chapter: "Conjugation of Verbs"
+section: "conjugation-of-verbs"
+rules_starting: ["§ 613"]
+rules_continuing: ["§ 612"]
+has_footnotes: false
+---
+
+                       Conditional.
+
+1 अबोधयिष्ये,      अबोधयिष्यावहि      अबोधयिष्यामहि
+  अबोधिष्ये       अबोधिष्यावहि      अबोधिष्यामहि
+2 अबोधयिष्यथाः,    अबोधयिष्येथाम्      अबोधयिष्यध्वम्
+  अबोधिष्यथाः     अबोधिष्येथाम्      अबोधिष्यध्वम्
+3 अबोधयिष्यत,     अबोधयिष्येताम्      अबोधयिष्यन्त
+  अबोधिष्यत      अबोधिष्येताम्      अबोधिष्यन्त
+
+                    Benedictive.
+
+1 बोधयिषीय,       बोधयिषीवहि,        बोधयिषीमहि
+  बोधिषीय        बोधिषीवहि         बोधिषीमहि
+2 बोधयिषीष्ठाः,    बोधयिषीयाथाम्,      बोधयिषीध्वम्
+  बोधिषीष्ठाः     बोधिषीयाथाम्       बोधिषीध्वम्
+3 बोधयिषीष्ट,     बोधयिषीयास्ताम्,     बोधयिषीरन्
+  बोधिषीष्ट      बोधिषीयास्ताम्      बोधिषीरन्
+
+                       Aorist.
+
+1 अबोधयिषि,       अबोधयिष्वहि,        अबोधयिष्महि,
+  अबोधिषि        अबोधिष्वहि         अबोधिष्महि
+2 अबोधयिष्ठाः,    अबोधयिषाथाम्,       अबोधयिष्ध्वम्
+  अबोधिष्ठाः      अबोधिषाथाम्        अबोधिष्ध्वम्
+3 अबोधि         अबोधयिषाताम्,       अबोधयिषत,
+                अबोधिषाताम्        अबोधिषत
+
+For the various irregularities, &c. see the third
+
+                   II. DESIDERATIVES.
+
+§ 613. Any primitive root of the ten classes, and also the
+causal base, may optionally* take a Desiderative form,
+
+Or the notion of desire may be conveyed by means of a periphrase; i. e. पिपठिषति or पठितुमिच्छति 'he wishes to read.'

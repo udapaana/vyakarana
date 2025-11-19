@@ -1,46 +1,42 @@
-[Internal page: 351]
+[Internal page: 365]
 
-§ 568-571 ]          CONJUGATION OF VERBS.                   351
+§ 597-598 ]          CONJUGATION OF VERBS.                   365
 
+(d) The roots at § 461 will have two forms; यूद्-अगोपायि, अगो-
+पायि, विच्छ-अविच्छायि, आविच्छायि &c.; कृद्-आत्तारि or आतारिषि 3 sing.
 
-          Irregular Aorist or the Fourth Form.
+(e) § 596 (b) holds good in the Passive  Aorist except in
+the 3rd sing.;  the optional forms must be made up by append-
+ing the Âtmanepada terminations of the 5th Variety as those of
+the Aorist optionally take इ; दा—अदायि, अदायिषि; नी—अनेषि, अनायिषि;
+छ—अछायि, अकारयिषि; हूर्—अहारि, अहारयिषि; अदारयिषि 1 sing ; यह्—
+अयहायि, अयाहायिषि 1 sing. &c.
 
-§ 568. दा, धा, and roots assuming the forms of दा and धा (Vide
-§ 459 ) and स्था substitute इ for their final vowel in the Ātm.
-This इ does not take its Guṇa substitute.  In the Parasm. these
-roots take the first Variety ( vide § 532 ).
+§ 598.  Roots of the tenth Class—
 
-§ 569.  हन् ( with आ Â. ) drops its nasal before the termi-
-nations.
+(a) The अय् ( i. e. अय् with the final अ dropped ) is optionally
+dropped in the General Tenses, except the Perfect.  The Aorist
+forms, except that of the 3rd sing.,  are made up by adding the
+Âtmanepada terminations that of the Fifth Form; दृ-तर्पयाति,
+चोरयामासे Perf ; चोरयिष्यते चोरितासाः, 1st Fu. चोरयिष्ये चोरियिष्य
+2nd Fu.; अचोरयिषि, अचोरयिषि, Aor. 1st sing., &c.
 
-It takes the Fifth Form optionally both in the Parasm. and
-Ātm, in which case द्यघ् is substituted for it.
+(b) Roots which do not lengthen thier penultimate अ ( see
+also § 603 ) lengthen it optionally in the general Tenses of the
+Passive, except in Perf., when अय् is dropped; कम्-अकम्यिषि,
+अकाम्यिषि, Aor. 1 sing., &c.
 
-§ 570.  गम्, and यम् with उप् ' to marry,' optionally drop
-their nasal, when they take the Ātm.  terminations.  यम् when
-it means ' to give out ' ( as the faults of others ) necessarily
-drops its nasal
+(c) The 3rd per. sing. of the Pass.  Aorist is formed by drop-
+ping अय्, necessarily and adding इ; चोर-अचोरि-अचोरायि; पीड़-
+अपीड़ायि; &c.—अपार्षि, अपारिषि Aor. 3 sing ; यह्—अपारि, अपार्षि
+अपार्षि Aorist, 3rd sing.
 
-§ 571.  The third person sing of पद् is अपादि. छुघ् 4. Â.
-takes the termination इ optionally in the 3rd sing. before
-which the penultimate उ takes Guṇa.
+                     PARADIGMS.
 
-                     Paradigms.
+              छुध् 1 P. ' to know.'
 
-                  हन् Â ( with आ )
+    Perfect.                    1st Future.
 
-    1 आहसि        आहस्वहि        आहस्महि
-    2 आहस्थाः      आहसाथाम्       आहध्वम्
-    3 आहत         आहसाताम्       आहसत
-
-              यम् with उद्द् & आ.
-
-    1 उद्यस्ि       उद्यस्वहि       उद्यस्महि
-    2 उद्यस्थाः     उद्यसाथाम्      उद्यध्वम्
-    3 उद्यत        उद्यसाताम्      उद्यसत
-
-              गम् with सम्.
-
-    1 समगंसि       समगंस्वहि       समगंस्महि
-    2 समगंस्थाः     समगंसाथाम्      समगंध्वम्
-    3 समगंस्त      समगंसाताम्      समगंसत
+1 छुछुधे  छुछुधिवहे  छुछुधिमहे  1 बोक्ष्याति  बोक्ष्यावहे  बोक्ष्यामहे
+2 छुछुधिषे छुछुधाथे  छुछुधिध्वे  2 बोक्ष्याते  बोक्ष्याथे    बोक्ष्याध्वे
+3 छुछुधे  छुछुधाते  छुछुधिरे  3 बोक्ष्यता  बोक्ष्यातारौ  बोक्ष्यातारः

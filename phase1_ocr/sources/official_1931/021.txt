@@ -1,22 +1,22 @@
-[Internal page: 3]
-§3]                         THE ALPHABET.                         3
+[Internal page: 21]
+§26]                         RULES OF SANDHI.                    21
 
-§3. The nine primary vowels consist of five simple vowels viz. अ, इ, उ, ऋ and ऌ, and four diphthoughs viz. ए, ऐ, ओ and औ.
+(b) When ई or ऊ follows the प् of the pronoun अदस्* e.g.* अमी ईश्वाः these lords; अमू आसाते the two sit down.
 
-(a) A vowel may be ह्रस्व or short, दीर्घ or long, and प्लुत or protracted (also called prolated by some) according to the time required to pronounce it. * The vowels are thus divided into—
+Ob The ए of the Vedic forms अरे and युष्मे also does not blend with a following vowel (हे। Pân. 1. 1. 13.); e. g. अस्मे इत्त्राबृहस्पती &c. Rg. IV. 49. 4. Similarly a Vaidic word having the sense of the loc. (but not ending in the termination of the loc.) remains unaffected by a following vowel; सौम्यो गोरि अधिश्रितः &c Bg. X. 12. 3. where गोरि stands for गोर्वां the loc. term, being dropped by सुपां सुलुकं Pân. VII 1. 30.
 
-(1) Short vowels—अ a, इ i, उ u, ऋ r, ऌ, l;
+(c) § Particles consisting of a single vowel, except आ meaning 'a little, or a limit' exclusive or inclusive or used as a preposition, when followed by a vowel, e. g. इ इन्द्र Oh Indra, उ इमे हो, आ एवं चु मन्यसे ah, you think so; but आ+इच्छाय्=औच्छाय्‌ (a little warm) &c.
 
-(2) Long vowels—आ â, ई î, ऊ û, ॠ ṝ' ए e, ऐ ai. ओ o, औ au; and.
+(d) When an indeclinable ends in औ; e.g. अहौ ईशाः.. the final औ of a noun in the vocative case optionally combines when followed by इति; e.g. विष्णो इति=विष्णोविति, and विष्णो इति; also विष्ण इति (see §24 a.).
 
-(3) Protracted vowels आ ३ â 3, इ ३ i 3, ऊ ३, ए ऋ ३ r' 3 ऌ २ ! 3, ए ३ e 3, ऐ ३ ai 3, ओ ३ o 3, and औ ३ au 3.
+N.B. All these vowels which do not blend with others, and sometimes the words in which they occur are technically called प्रगृह्या
 
-N.B.—As the Pluta or protracted vowels are not commonly to be met with in classical Sanskrit, the vowels are usually given as thirteen, represented by the thirteen signs given above under (1) and (2).
+II. and pluta vowels; e. g. एहि कृष्ण रे अत्र गोश्चरति Come Krshna; here is the cow grazing.
 
-(b) Each of these vowels may be again of two kinds, अनु-नासिक or nasalised, and अनुनासिक or without a nasal sound.†
+A vowel becomes pluta under the following circumstances:–‡
 
-(c) Vowels are also further discriminated into उदात्त or acute, अनुदात्त or grave, and स्वरित or circumflex. उदात्त is particular vowel: e.g. अ means अ, आ and आ ३, but अत् means अ (of six kinds) only; so ईत् means ई and nothing else.
+(1) The last vowel of a sentence uttered in reply to a salutation from a male person other than a S'ûdra when the
 
-* उ३कालोजह्वत्वीर्घैभुतः। Pân. I. 2. 27. The crowing of the cock in the morning represents in its three stages these three kinds of vowels. The time required to pronounce a short vowel is called a mâtrâ. A long vowel has two mâtrâs and a Pluta vowel three.
+* अदसो मात्। Pân, I. 1, 11, 12.
 
-† मुखनासिकावचनोऽनुनासिकः Pân. I. 1. 8.
+§ निधान एकाजनादि। ओद्। संडूढो ज्ञाकल्यस्येनवार्गौं। Pân. I. 14-16. † वाक्यस्य टे: च्युत उदात्तः। प्रत्याभिवादे८व्युञ्। Pân. VIII. 2. 82-83. त्रियां न। भीरारुजन्यविङा चेति वाच्यम्। Vârtikas on the latter sûtra. द्वारादृते च। हेह्यमयोषे हेहूगौः। Pân. VIII. 2. 84-85.

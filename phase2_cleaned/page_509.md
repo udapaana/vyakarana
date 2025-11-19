@@ -1,0 +1,53 @@
+---
+page_number: 509
+internal_page: 509
+chapter: "Syntax"
+section: "syntax"
+rules_starting: ["§ 891", "§ 892", "§ 893", "§ 894"]
+rules_continuing: ["§ 890"]
+has_footnotes: true
+---
+
+it at all; अजुयुत्युदुयुनुयुयुयुत्तुयूयूर्णों वरुयूदुयुनो न चारित्युयुयुः of (the three kinds
+of) sons—not born, born and dead, and foolish, the first two
+are better, but not the last. याच्युञ्युयु सोयुयु वरुयूरित्युयुनो नायुयुनै द्युयुच्यु-
+त्युयुयु । Meg. I. 8. युयुं युयूणौः विदोयुयुः न तु मानुहुयुनिः better death
+then disgrace.
+
+
+Section IV.
+
+PARTICIPLES.
+
+§ 891. All declinable participles in Sanskrit partake of the
+nature of adjectives i e, they agree with the nouns they qualify
+in gender, number, and case. The participles often discharge
+the functions of verbs. They are largely employed to take the
+place of the Past and Future tenses and more especially of
+passive verbs. When so employed they follow the same rules
+of syntax as are laid down for nouns from which they
+are derived.
+
+PRESENT PARTICIPLES.
+
+§ 892. The present participle is to be used when contem-
+poraneity of action is to be indicated. It is often idiomatically
+used to express the sense of 'while' or 'whilst' in English; अरुयुयुयुनै
+चुरुट् while wandering in the forest; विवुयुहुड्युयोदुकुयुं विभुनुत एवु while
+he yet wore the marriage string
+Vide 670 (b).
+
+§ 893. *The present participle is used to denote the manner
+in which an action is done or the cause or object of an action;
+शुयुनुयो अञ्चुनैनं युयुवुनुः the Yavanas dine by lying down; हरिं युयुयुयुनु
+यूच्युयुते a man is absolved by (means of his) seeing Hari;
+similarly (dare saying, सर्वुयुस्य शुयुर्युत् (Mb.)
+
+§ 894. The roots शायु and स्युयु are generally used with present
+participles to show the continuity of the action denoted by
+them; पशून् वधं कुन्युच् अायुसे used to kill (always kept on killing)
+animals; तं युतियुयूट्युयुट् तस्युयुयो remained waiting for him.
+
+---
+
+* छुयुरुयूयुयुहेत्युनोः क्रियुयुयुयुः Pāṇ. III. 2. 126 हेतुयुः फुलं कुयुर्युनों च। Sid. Kau.

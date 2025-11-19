@@ -1,12 +1,42 @@
-[Internal page: 160]
-160                    SANSKRIT GRAMMAR.                    [ § 259-266
+[Internal page: 176]
+174                    SANSKRIT GRAMMAR.                    [ § 292-294
 
-§ 259.* Two nouns alike in from in the Loc. and meaning 'something that can be seized,' or in the Instrumental, meaning 'weapons or things used as weapons,' may be compounded in a Bah. when the sense is 'the fight thus began' and the idea of an exchange of action is to be implied. In such compounds the final vowel of the first member is lengthened and that of the second is changed to इ The compounds so formed are of the nature of Avyayibhāvas and are indeclinable. The final इ takes Guna substitute before the final इ. † e g. केशेषु केशेषु यद्धं-तैदं यस्मिन् केशाकेशि 'a battle in which the warriors fight seizing each other's hair'; दण्डेभ्र दण्डेभ्र महदेभेदं युद्धं प्रवृत्तं दण्डा-दण्डिष; similarly मुष्टीङुष्टि, हस्ताहस्ति, वाद्यवाद्यावि, छुसलाछुसलि, &c.; but if the instruments used by both the parties be not the same, no compound is possible; इदाछुसलि will, therefore, be wrong.
+§. 292. Obs.—* A nasal is inserted in the case of the follow-
+ing words:—सत्य, अवद् and अद्य followed by कार; वेद्य by अक्ष; 
+लोक by पृथि; अनभ्यास by हव; आङ् and अधि by इन्ध, तिमि by तिङ् 
+or तिङ्गिल; and उन्न and भद् by करण; as सत्यङ्कार:, 'making true,
+earnest money,' &c; cf. Kir. XI. 50. भवदङ्कार: 'a physician,'
+सन्तङ्कार:, 'efficacious,' 'admittance' ( अन्युपगम: Tat. B. ),
+वेद्यक्षया ( भविष्यती भय: Tat. B. ); लोकम्पृथ: 'pervading or filling
+the world,' अनभ्यासाहित्व: 'not to be approached, to be shunned
+from afar,' ( दूरत: परिहर्तव्य इत्यर्थ: Sid. Kan. ); आङ्गिन्धे:, 'one
+who fries or roasts in a frying-pan,' अधिगिन्ध:, 'one who kindles
+fire,' तिमितिङ्ग: 'a monstrous fish that swallows down Timi
+(a large fish said to be 100 Yojanas in length ),' तिमितिङ्गिल:†
+'a very large fish that swallows even a Timingila;' उन्नङ्करण
+heating; भद्रङ्करण conferring prosperity.
 
-Obs.—(a) The following words also change their final to इ; द्वौ दण्डौ यस्मिन्मङुणे तद् द्विदण्डि; similarly द्विघुसालि, उभा-उभया ङालि, उभाहस्ति, उभयहस्ति, उभा-उभया-पाणि, पबाहु &c.
+§ 293. रात्रि followed by a kṛit affix inserts a nasal optionally;
+रात्रिञ्चर: or रात्रिचर:, 'a night-rover,' 'a demon;' रात्रिष्टह: or
+गष्टह: &c.
 
-§ 260. ‡ The following Bahuvrihis are laid down as irregular. शोभनं प्रातरस्य सुप्रातः m. 'one having an auspicious morning or a day having an aupicious dawn'; see Bhatti. II. 49. शौभनं श्वः अस्य सुश्वः 'having an auspicious morrow;' शोभनं दिवास्य सुदिवः 'one who has passed a happy day', शारेतिव कुक्षिरस्य शारिकुक्षः 'having a round belly;' चतस्रोऽश्वयोऽस्य चतुरङ्र-'four-cornered, quadrangular;' एषा (of a female black deer) इव पादौ अस्य एणीपदः; अजपदः, षोपद्स्य इव पादौ अस्य षोषपदः having the feet like those of a bull'.
+§ 294. † सह forming the first member of a compound, is
+changed to स—
 
-* तत्र तैनेद्रमिति सल्पै । Pān II. 2. 27. सस्पन्ने मृङुणाविद्ये सङौरे पदै तुर्तीयान्ते च प्रहरणाविद्ये हुदं युद्धं प्रदन्नभिययथै समस्येते कर्मेव्यतिहारे यात्ये स बहुगौहि । Sid. Kau.
-§ अन्योन्यमति इद्विचै । इच् कर्मेव्यतिहारे । Pān. VI. 3. 137. V. 4. 127. तिछुमृभूतिभेद्वन्द्वयस्य पाठादृव्यथौभावत्वमत्रयवं च । Sid.Kau. ओटीणः । Pān. VI. 4 146.
-‡सुप्रातसुश्वदिवोकारिकक्षेचतुरङ्रैणीपदाजपदषोषपदः। Pān.V.4.120.
+(a) when the whole compound is a name, e. g. सभाजय;
+but सहयुध्वा a comrade in battle ( Upapada comp. ).
+
+(b) when it means 'including a certain literary work,' or 'in
+addition to;' as सहृदते ( Avya. comp. ) ज्योतिषमधीते 'he studies
+the science of astronomy, including that of finding out the auspi-
+cious times,' सकोणा सूती 'a khāri with a drone in addition to it.'
+
+* कारसत्यावदद्यानाम् । Pāṇ. VI. 3. 70. अक्षोवेद्यस्य । वैनोभ्यास-
+गस्य । लोकस्य पृथौ । हवेऽनभ्यासस्य । आङ्गधोरिन्धौ । तिमेस्तिमिङ्गस्य । तिङ्-
+गिले च । उन्नभद्रयो: करणे । Vārtika
+
+† Vide Rag. XIII. 10. and Mallinatha on it. 'आस्ते मत्स्यकुल-
+तिमिर्य शतयोजनमायत: । तिमिङ्गिलगिलोऽप्यस्ति तद्गिलोऽप्यस्ति राघव: ।'
+
+‡ सहस्य स: संज्ञायाम् । अन्यान्तविधौ च । द्वितीये चाजुपाख्ये । Pāṇ.
+VI. 3. 78-80.

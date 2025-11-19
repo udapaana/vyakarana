@@ -1,12 +1,7 @@
 {
-  "text": "DEDICATED\n\nTO\n\nThe Rev. D. Mackichan,\n\nM.A., D.D., L.L.D.,\n\nPrincipal, Wilson College,\n\nSometimes Vice-Chancellor of the University\nof Bombay, &c. &c.\n\nover remain enshrined in the hearts of his\np parental solicitude shown by him for\nare and for the wholesome influence exercised\nhis powerful personality over them fitting them\nfor the various spheres of life, and who will\nbe ever remembered by the people of\nthis Presidency for the conspicuous\nservices rendered by him to the\ncause of higher education, &c.\n\n\n\n\nTUTE OF PROFOUND RESPECT AND ADMI\nBY THE AUTHOR",
-  "model": "claude-code-interactive",
-  "usage": {
-    "input_tokens": 0,
-    "output_tokens": 0
-  },
-  "timestamp": "2025-11-01",
+  "page_number": "023",
   "source": "official_1931",
-  "page": 5,
-  "notes": "Dedication page, partially visible text at bottom appears cut off"
+  "content_type": "chapter_1",
+  "ocr_method": "claude_interactive",
+  "timestamp": "2025-11-01"
 }

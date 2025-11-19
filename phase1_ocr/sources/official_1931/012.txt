@@ -1,1 +1,29 @@
-be studied as such. To quote the words of the learned Doctor again "its study possesses an educational value of the same kind as that of Euclid and not much inferior to it in degree. For to make up a particular form the mind of the student has to go through a certain process of synthesis." To split up, therefore, a general rule of the ancient Indian grammarians into a number of the particular cases it comprehends, as is done by some modern writers on Sanskrit grammar, is not to build up but to destroy, not to simplify the difficulties of the student but to embarrass him. For a Grammar, then, to be practical and correct, in my humble opinion, it must be based on indigenous words understood and studied in their genuine scientific spirit. In writing the various chapters of this book (except the one on the 'Conjugation of Verbs') I have closely followed Pânini as explained by Bhattoji Dikshit (the Kâshikâ of Vâmana being also occasionally referred to). Many of the rules given are translations of the Sûtras of Pânini, much matter being thus compressed into a small compass. The original Sûtras, where necessary, are given in foot-notes as help to memory. Sandhis and declensions are very fully treated. Compounds which play such an important part in Sanskrit literature, and which, yet, are very summarily disposed of in many grammars, have received special attention, almost everything in the Siddhânta Kaumudî being included. The formation of feminine bases which is not considered separately in other grammars has been treated of here in a separate chapter (VI). The seventh chapter deals with the Taddhita affixes (i.e. affixes forming secondary nominal bases) which, for the convenience of the student and the occassional referer, have been arranged here in an alphabatical order, each followed by a number of the derivatives formed by it. The question of gender which so much perplexes the foreigner has been dealt with in the eighth chapter, while the ninth treats of "Indeclinables." The first nine chapters thus form what may be called the first part of the book, in as much as
+[Internal page: 12]
+·12                        SANSKRIT GRAMMAR.                   [§16-19
+
+§16. The three semivowels य, ल and व are sometimes nasalised and then they are written with the anunásika sign over them, as य्, ल्, व्.
+
+§17. The numerical figures in Sanskrt are:—
+
+     १,  २,  ३,  ४,  ५,  ६,  ७,  ८,  ९,  ०.
+     1,  2,  3,  4,  5,  6,  7,  8,  9,  0.
+
+These are combined to express larger figures precisely in the same way as in English; १२५ 125, ५४० 540, &c.
+
+
+Chapter II.
+          ————:०:————
+
+RULES OF SANDHI.
+
+§ 18. By Sandhi (from सम् together, and धा to join) is meant the coalescence of two letters coming in immediate contact with each other.*
+
+(a) Samhitát or sandhi is necessary in the case of the internal structure of a pada, prepositions and roots joined together and a compound word (समास), while in that of a sentence i.e. in the case of the finals and initials of the different words in a sentence, it depends on the will of the writer.
+
+I SVARASANDHI, OR THE COMBINATION OF FINAL AND INITIAL VOWELS.
+
+§19. If a simple vowel, short or long, be followed by a
+
+* परः सन्निकर्षः संहिता। Pân. 1. 4. 109. Samhitá is the extreme contiguity of letters.
+
+† संहितैकपदे नित्याऽनित्या धातुप्रसर्गयोः। नित्या समासे झल्येके तु सा विषय-मपेक्षते। ।। Sid. Kau. This couplet gives the rule for the observation of Sandhi.

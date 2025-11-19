@@ -1,42 +1,48 @@
-[Internal page: 568]
+[Internal page: 582]
 
-6                    SANSKRIT GRAMMAR.
+20                   SANSKRIT GRAMMAR.
 
-अङ्गु-आम-चक्रै perf. अर्थुयाता p. f. आर्तुयत aor. अर्थुयुयीष्ट ben.
-अर्तिथुयिष्युयतै des. Pass.—अर्थ्युतै, अर्थाय्युतै pre. आर्थि Aor.
+कुह् 10 A. विस्मायै to astonish; कुहयतै pre. कुहयांचक्रै, &c. perf.
+   अचुकुहत aor. चुकुहयिषतै des.
 
-अर्प् 1 P. गतौ प्रदानै च to. go. to beg; अर्पुति pre. शानर्प perf. अर्पिता
-   p. f. आर्पीत् aor. अर्पितुमिति des. अर्पितिषति des. Cau.
-   —अर्पुयुति—तै pre. आर्पिद्युद—न aor. Pass.—अर्पुतै pre. आर्पि aor.
-   अर्पित. संपम ( asžed ). अर्पुयुं ( bear ) p p.
+कू 6 A. शब्दै to sound, to cry in distress; कूवतै pre. चुकूवं perf.
+   कूविता p. fut कूविष्युयतै fut. अकूविष्युयत् con. अकूविष्टु aor.
 
-अर्ह् 10 U हिंसायाम to kill. आर्हुद्युत—न Aor अर्हाद्. अर्हुयुयीष्ट ben.
-   अर्हिद्युयिष्युति-तै des. Pass —अर्हुतै pre. अर्हिं Aor. अर्हित p. p.
+कू 9 U. शब्दै to sound; कूनाति-कूनीतै pre. कूनिष्युयुति-तै fut. अकूनीत-
+   अकूनिष्टु Aor.
 
-अर्ह 1 P. पूजायां संपुयुर्यै च to worship to deserve; अर्हुति pre.
-   आनर्ह perf अहुता p. f आर्हिष्युयुत con. अहीत् aor अर्हुयात् ben.
-   अर्हितिद्युयतै des. Pass.—अर्हुतै pre आर्हि aor. Cau.—See below
+कूज् 1 P. अव्युयुक्तै शब्दै to make an inarticulate sound, to coo;
+   कूजुति pre. चुकूज perf. कूजिता p. fut कूजिष्युयति fut. अकूजिष्युयत्
+   con अकूजीत् aor. कूज्युयात् Ben Pass.—कूज्युतै pre. अकूजि aor.
+   Cau —कूजयति-तै pre. कूजितो ger. कूजित p p.
 
-अर्ह् 10 U.
+कूद् 6. P. गतौ to fire; to sport; कूदति pre. चुकूद perf. कूदिता p. fut.
+   अकूदीत aor.
 
-अर्ह् 10 U to worship. to deserve, अर्हयति–तै pre. अहृ-याञ्चक्र–शास–
-   चकार–चक्रै perf अर्हुयिता p.f. आर्हुयुषत्-न Aor. अर्हुयात-अर्हुयुषीष्ट
-   ben. अर्हिर्युषिषति des Pass.–अर्हुतै pre. आर्हि Aor. अर्हुयुता ger.
+कूल् 10 U. आभाषणै to speak, to converse; कूलयति-तै pre. कूलित p.p.
 
-अल् 1 U. युयुषुण्युयुत्यैविर्युयुङ्गु to adorn. to be competent, to prevent,
-   अलति pre. आल-आनलै perf. अलित p f. आलीत्-आलिट aor.
-   Cau.—आलयति-तै pre. आलिलत-न aor. अलितिषति-तै des.
-   ( according to some this root is Ātm. )
+कूल् 10 A संकोचनं to close; कूलयतै pre. अचूकूलत Aor कूलित p. p.
 
-अव् 1 P. रक्षणगत्युकान्त्युसङ्गुतिदुत्सवगमनवैधघायणपाप्त्युस्यूधिकारभिच्छाव्या-
-   हुनैदायाणालुड्द्रैदौडानमागद्विष्ठुद to defend, to protect, to do
-   good, to please, to know ( and a variety of other
-   meanings ). अवति Pre. आव perf. अविता p. f. आवीत् aor.
-   अव्युसात् ben. Cau अवयति-तै pre आवींवत-न aor. अवित p.p.
-   Pass.—अव्युते pre. आवि aor.
+कूर्द् 1 U. कौडायाम to jump, to frolic; कूर्दुति-तै pre. कूर्दित p.p.
 
-अवु 5 A. व्युाप्तै संवर्ये च to pervade, to accumulate; अव्युवुतै pre,
-   आनवैं perf. अवित-अवुग p f. अवुिष्युयतै–अवुयतै fut. आविष्युयत्,
-   आवुयद् con. आविट-अवुग aor. अवुष्ट, अवुषीष्ट ben. Cau.—आवु-
-   युति-न pre. आविषद-न Aor. अवुषिषिकते des. Pass.—अव्युतै
-   pre. आवि aor. अवुट p. p. अवुग्, अविता, Ger. अवितुम् अवुग्र, inf.
+कूल् 1 P. अत्रवरणै to cover; कूलति pre. चुकूल perf. कूलिता p. fut.
+   कूलिष्युयुति fut. अकूलिष्युयत् con. अकूलीत aor.
+
+कृ 5. U. हिंसायाम to hurt, to kill; कुणोति-कुणुतै pre.
+
+कृ 8 U. करणै to do; करोति-कुरुतै pre. चकार-चक्रै perf. कर्तं p.
+   fut. कुर्युयात् or करीष्युयात् ben. करिष्युयति-तै fut. चकार-चक्रुह aor.
+   चिकयात्-कुरीष्ट Ben. Pass.-क्रियतै pre. अकारि ( 3rd dual अकां-
+   रिषाताम, अकृषाताम ) aor. Cau –कारयति–कर्तं p. fut. कारिष्युयतै-
+   करिष्युयतै fut. कारयीष्ट-कुरीष्ट, अकारिष्युयत-अकुरीष्युयत con, Cau.–
+   कारयति-तै pre. अचीकरत-न aor. चिकारिषति-तै des. कुन p.p. कृत्वा
+   अयुरुत्वा ger. कर्तुं inf.
+
+कृत् 6 P. छेदनै to cut, to divide; कुन्तुति pre, चुकर्तं perf. कर्तिता
+   fut कर्तिष्युयति fut. अकर्तिष्युयत् con. अकर्तीत् aor. कृत्युयात् Ben.
+   चिकर्तितिषति-चिकर्तसति des. Cau.-कर्तयति-तै pre. अचकर्तुत-न &c.
+   अचर्तठत-न aor. Pass –कृत्युतै pre. अकर्ति Aor. कुन p. p. कर्तित्वा
+   -अर्तुत्वा ger. कर्तितुं inf.
+
+कृत् 7. P. वैयैन to twist, to wind; कृणाति pre; for perf, and other
+   forms see the above root.

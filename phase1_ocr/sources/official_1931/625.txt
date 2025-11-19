@@ -1,42 +1,43 @@
-[Internal page: 611]
+[Internal page: 625]
 
-                     DHĀTUKOŚA.                               49
+                     DHĀTUKOŚA.                               63
 
-ज्वर् 1 P. रोगै to be hot with fever or passion; ज्वरुति pre. जज्वार
-   perf. ज्वरिता p fut. ज्वरिष्युयुति fut. अज्वारीत. aor, Cau —
-   ज्वरयति-तै, अजिज्वरत-न aor. जिज्वरिषति des, ज्वृणं p p.
+दु 5 P. उपतापै to barn, to distress, to give pain; दुनोति pre.
+   दुदाव perf. दोता p. fut. दोष्युयुति fut. अदोष्युयत् con. अदावीत aor.
+   दोष्युयात् ben. दुद्युयुति des. Cau.—दावयति-तै pre. अदावीत aor. दुत p. p.
 
-ज्वल् 1 P. दीप्तौ to burn, to glow; ज्वलुति pre. जज्वाल perf. ज्वलिता
-   p. fut. ज्वलिष्युयुति fut. अज्वलीत aor. Cau.—ज्वलयति-तै, ज्वालय-
-   ति-तै ( with प्र-प्रज्वलयति-तै ) pre. जिज्वलिषति des. ज्वलित p. p.
+दुक्ष् 10 U. दुःखुदैक्षाग to give pain; दुक्षयति pre. अददुक्षत-न Aor
 
-                      झ—
+दुर् 1 P. हिंसाग्यां to kill; दूरुति pre, दुदूर perf. दूरिता p. fut.
+   अदूरीत aor.
 
-झट् 1 P. संपातै to be collected or matted together; झटुति pre.
-   अझटीत, अझाटीत Aor.
+दुल् 10 U. उच्छैषै to shake to and fro, दोलयाति-तै pre. दोलयाञ्चुकार-
+   चक्रै perf. दोलुयिता p. fut. अदुदुलत-न aor. दुदोलयिषति-तै des.
 
-झद् 1 P. अदनै to eat; झमुति pre. झमिता p. fut. अझमीत Aor.
-झष् 1 P. हिंसायां to kill; झषुति pre. जझाष perf. झषिता p. fut.
-   अझषीत, अझाषीत aor.
+दुप् 4 P. वैकुण्ठयै to be wrong, to be impure, दुप्युति pre, दुदोप perf.
+   दोष्टुं p. fut. अदोष्युयत् con. दोष्युयात् fut. अदूपत् aor. दुप्युयात् ben.
+   Cau.—दूपयाति-तै, also दोपयति-तै ( to make depraved ) pre. अदु-
+   दुपत-न aor. दुदुषुति des. Pass.—दुप्युतै pre. अदोपि aor. दुष्ट p. p.
 
-झष् 1 U. आदानसंवरणग्यो: to take, to put on, to conceal; झषति-तै
-   pre. जझाष, जझषै perf. झाषता p. fut. अझषीत, अझाषीत, अझासिष्ट
-   aor.
+दुह् 1 P. अदंनै to hurt, to give pain; दोहुति pre. दुदोह perf. दोहि-
+   ष्युयुति fut. अदुहुत, अदौहीत aor. दुहित p. p.
 
-झृ 4, 9 P. वयोहानौ to become old; झ्रीयुति, झूर्णाति pre. जझार
-   perf. झरिता, झरीता p, fut. अझारीत Aor.
+दुह् 2 U. प्राप्नुतै to milk, to make profit; दोग्धुि, दुग्धै pre. दुदोह,
+   दुदुहै perf. दोहाम p. fut. धोक्ष्युयुति-तै fut. अधुअत्, अधुक्षत &
+   अदुग्ध aor. दुह्युयात्, दुक्षिष्ट ben. दुदुक्षति-तै des. Pass.—दुह्युतै
+   ( also gen. Prp. III. 1, 89 ) pre. अदोहि ( also अदुग्ध,
+   अधुक्षत ) aor. Cau.—दोहयाति-तै pre. अदुदुहत-न aor. दुग्ध p. p.
+   दुग्धुवा ger. दोग्धुं inf.
 
-                      ट—
+दू 4 A. परितापै to suffer pain, to be sorry; दूयुतै pre, दुदुवै perf.
+   दुविता p. fut. दुविष्युयतै fut. अदुविष्युयत् con. अदुविष्टु aor. दुविषीष्ट
+   ben, दुदुषतै des. Cau.—दावयाति-तै pre. अदुदुवत-न aor. Pass.—
+   दूयुतै pre. अदावि aor. दून p. p.
 
-टङ्कु 1 P. 10 U. to bind, to tie; टङ्कुति, टङ्कुयति-तै pre. टटङ्कु.
-   टङ्कुयाञ्चुकार-चक्रै &c. perf. टङ्कुिता, टङ्कुयिता p. fut. अटटङ्कुत
-   अटटङ्कुत-न aor. टङ्कुित p. p.
+दृ 6 A. आदुरै to worship, to regard ( with आ ), दिरुतै pre,
+   दैरै perf. दरिता p. fut. अदरिष्टु aor. दरिषीष्ट ben. दिदरिषतै des. Pass.—
+   दिरुयतै pre. अदारि aor. Cau.—दारयति-तै pre. अदिदरत-न aor.
+   दृत p. p. दृत्वा ger. दर्तुं inf.
 
-टल् 1. P. वैकुण्ठयै to be confused; टलुति pre. टटाल perf. टलिता fut.
-   अटलीत aor.
-
-टिक् 1 A. to go, to move; टैकतै pre. टिटिकै perf. टैकिता p. fut.
-   अटैकिष्टु aor. Cau.—टैकयति-तै pre. अटिटैकत-न aor.
-
-टिप् 10 U. क्षैपै to throw, to send; टैपयति-तै pre. टैपयाञ्चुकार-चक्रै
-   perf. टैपयिता p fut. अटिटैपत-न aor.
+दृप् 4 P. हर्षमोहनयो: to be glad, to be proud; दर्प्युति pre, दुदर्प
+   perf. दर्पिता, दर्प्ता, दर्न्ता p. fut. दर्पिष्युयुति, दर्प्स्युयुति, दर्स्युयुति fut.

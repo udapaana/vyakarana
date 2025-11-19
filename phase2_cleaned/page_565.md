@@ -1,0 +1,50 @@
+---
+page_number: 565
+internal_page: 565
+chapter: "Appendix II - Dhātukośa"
+section: "dhātukośa"
+rules_starting: []
+rules_continuing: []
+has_footnotes: true
+---
+
+ger. Cau.—अचयति-तै pre. अवीचयत-न aor. Pass.—अच्युते
+pre. विचै perf. चाचिमा: छुता: अचित p. f नाचिष्युतै-वेच्युतै-
+अचिष्युयत fut. १अची३त imp.-अच्युपतां ben. अच्युवात-आचिष्युपत-
+अवेष्युयात—आजिष्युसात con. अवासीद 3rd sing. अवासिषातां—अवेषा-
+तां—आजिर्साताम 3rd dual; अवाष्ठिषन-ट्टुम-अवेद्युम-आजिर्युम
+2. pl aor.
+
+अघ्न्य 1 P. भातिदुरनकर्मः to go. to worship; अन्युनाति pre. शानच्च perf.
+   अन्युनिता p. f. अन्युनिष्युतुं fut अन्युनीत imp. अन्युनुसात-अन्युनुषाम-न
+   he and also अन्युनुत aor. आन्युयद con. Cau.-अन्युपयति-तै
+   pre. आन्युयुयतै des. अन्युनित, अनुः with संध. संकुन p.p. अन्युवा
+   or अग्ध्वा ( when it means to go ) ger
+
+अघ्न्यु 1 U. गतौ यांचने च to go. to beg; अन्युयुति-तै pre. आनघ्न्यु-अै
+   perf. अन्युयुनुयति-तै fut. आन्युयुत, आन्युयेट aor pass —अन्युन्युतै
+   अनुः p. p. अन्युन्युयुता ger. अन्युयुतुं inf
+
+अन्च्यु 10 U. विशेषेणै to individuälise; अन्च्युयति-तै pre. अन्च्युयां-
+   चुकार-चक्रै &c perf अन्च्युयिता p f. शान्च्युयत-न aor अन्च्युयात,
+   अन्च्युयुयीष्ट ben.
+
+अञ्ज 7 P. व्युक्तिभुषणगत्युनामवुदिङ्गु to make clear. to anoint, to deco-
+   rate; to shine अनक्ति pre भानञ्ज-न, पुञ्ज. ( अञ्जाभि root of
+   sing. ) Impera. अञ्जंतुं, अङ्क्तैं imp. अनिङ्ग perf. आञ्जीत, अन्युनक्षं
+   p. f. अन्युनक्ष्युुत, अनुज्युते fut. भान्युनद-आनुक्षुम् con. घान्युनुत,
+   aor. अन्युप्रात् ben. आन्युनुयते des. Pass.-अन्युङ्गुं pre. आनि aor.
+   Cau. अन्युनुयुते-अन्युनयतै pre. आन्युनुयत-न aor. अनुः p. p अन्युनितैन, अ
+   अनक्तुं inf. अन्युनुजुसुं pot. p. अनुजु अन्युनित, अक्तुं gerं, anirre-
+   टि-चुरुयुं ger. अनुदुयुस्, अनुक्तुरुम् inf.
+
+अट् 1 P. गतौ to roam, to wander; अटति pre. आट perf, अटिता
+   p. f. अटिष्युत; fut. शाटीत aor. अच्च्यात् ben अटिटिष्युुते des.
+   Cau.-आट्युति-तै pre. आटिट्युत. Aor अटाट्सत Freq.
+
+अठु 1 A. अतिकर्मण:भुवार्गुयुर्युः to transgress, to kill; अठुतै pre. शानठे
+   p. f. अठुतुं fut. आठुट 3rd pl. शाठुट aor. अठुटिषीष्ट ben. भाठु-
+   दिष्युुतै des Cau.—अठुयुति-तै pre. आठूट्युत-न आट्युट्युत-न aor.
+
+* ' भाजैन: पुनात्युयुत् ' Pān. VI. 4. 30. अठ्न्यु in the sense of ' to
+  'worship' does not drop its nasal before weak terminations.

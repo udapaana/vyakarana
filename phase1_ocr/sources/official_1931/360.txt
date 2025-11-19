@@ -1,40 +1,47 @@
-[Internal page: 346]
+[Internal page: 360]
 
-346                    SANSKRIT GRAMMAR.                     [ § 563
+360                    SANSKRIT GRAMMAR                     [ § 590-592
 
-                      PARADIGMS.
+§ 590.  There are three kinds of Passive Verbs:—( 1 ) the
+Passive properly so called ( कर्मणि प्र० ), as राघेण क्रयं दीयते;
+( 2 ) an Impersonal Passive ( भावे प्र० ), as गच्यते ' it is gone; '
+and ( 3 ) a Reflexive (अात्मनेपदी प्र० ), as आस्तां पच्यते ' rice
+is cooked '
 
-                      दिक्ष् P. Â.
+                 CONJUGATIONAL TENSES.
 
-1 अदिक्षम्  अदिक्षाव  अदिक्षाम  1 अदिक्षि   अदिक्षावहि   अदिक्षामहि
-2 अदिक्षः  अदिक्षतम् अदिक्षत  2 अदिक्षथाः अदिक्षाथाम्   अदिक्षध्वम्
-3 अदिक्षत् अदिक्षताम् अदिक्षन्  3 अदिक्षत   अदिक्षाताम्   अदिक्षन्त
+§ 591.  Formation of base:—
 
-                      दिह् P. Â.
+( a ) य is added to the root, which is weak i. e. no Guṇa or
+Vrddhi substitute takes place before it ; नी—नीय, चिद्—चिद्य.
 
-1 अधिक्षम्  अधिक्षाव  अधिक्षाम  1 अधिक्षि   अधिक्षावहि   अधिक्षामहि
-                                    अदिह्रहि
-2 अधिक्षः  अधिक्षतम् अधिक्षत  2 अधिक्षथाः अधिक्षाथाम्   अधिक्षध्वम्
-                                    अदिषाः                अधिद्ध्वम्
-3 अधिक्षत् अधिक्षताम् अधिक्षन्  3 अधिक्षत   अधिक्षाताम्   अधिक्षन्त
-                                    अदिषत्
+( b ) Before य roots undergo the same changes as they do
+before the Âtmanepadi terminations of the Benedictive; चि—चीय, छ—
+छिद्य, स्तृ—स्तर्य,  ऋ—अर्य, क्—कार्य, पु—पूय, कच्-कच्य, ( but नित्य-
+तिर्य ), वच्-उच्य, यह्—यह्य, &c.
 
-दुह् is to be similarly conjugated.
+( c ) The final आ ( original or substituted ) of दा ' to give, '
+दे, दो, धा, ग्, ग्ला, मा, गे, प्रा ' to drink, ' ग्रा and हा ' to abandon' is
+changed to ई in other cases it remains unchanged; दा and हा—
+दीय, गेगीय, हा— ह्रीय; but दा ' to cut, to purify '—द्यात्, हा—
+ज्ञाय. ग्य—यायात्.
 
+§ 592.  The passive base is conjugated like a root of the 4th
+class in the Âtm., i. e.
 
-1 अलिक्षम्  अलिक्षाव  अलिक्षाम  1 अलिक्षि   अलिक्षावहि   अलिक्षामहि
-                                    अलिह्रहि
-2 अलिक्षः  अलिक्षतम् अलिक्षत  2 अलिक्षथाः अलिक्षाथाम्   अलिक्षध्वम्
-                                    अलीढ़ाः                अलीढ़म्
-3 अलिक्षत् अलिक्षताम् अलिक्षन्  3 अलिक्षत   अलिक्षाताम्   अलिक्षन्त
-                                    अलीढ
+" It might even be suspected, that the occasional assumption of
+an Intransitive signification and a Parasmaipada inflexion by a
+passive verb, was the cause which gave rise to a 4th class of Primi-
+tive verbs as distinct from the Passive. Instances of passively
+found of passive verbs taking Parasmaipada terminations, and some
+passive verbs ( e. g. jāyate ' is born,' tr. jan; pūryate, ' is
+filled,' tr. pṛ ; and upyate ' is heated,' tr. tap ) are regard-
+ed by native grammarians as Âtmanepada verbs of cl. 4. Again,
+many roots appear in class 4 as Intransitive verbs, which also
+appear in some one of the other nine as Transitive.  For example,
+yuj, ' to join ' when used in a Transitive sense, is conjugated
+either in cl.  7, or in the Causal; when in an Intransitive, in cl.
+4. So also puṣh, ' to nourish, ' kṣubh, ' to agitate; ' Kliśh ' to vex ';
+Ślāh, ' to accomplish, ' &c.
 
-                      यघुह्* P. Â.
-
-1 अयघुक्षम् अयघुक्षाव  अयघुक्षाम  1 अयघुक्षि  अयघुक्षावहि   अयघुक्षामहि
-                                    अयुह्रहि
-2 अयघुक्षः अयघुक्षतम् अयघुक्षत  2 अयघुक्षथाः अयघुक्षाथाम्  अयघुक्षध्वम्
-                                    अयुढ़ाः                अयुद्ध्वम्
-
-* यघुह् being a  Wet root optionally takes the Fifth Variety.
-अयुहिषम्, अयुहिषि, &c.
+                                            Monier Williams.

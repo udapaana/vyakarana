@@ -1,49 +1,43 @@
-[Internal page: 623]
+[Internal page: 637]
 
-                     DHĀTUKOŚA.                               61
+                     DHĀTUKOŚA.                               75
 
-दष् 4 P. उपक्षयै to perish; दुष्युति pre. ददास perf. दसिता p. fut.
-   अदसत् aor.
+पठ् 1 P. स्वकाग्यां वाचि लिखितानुशरणादनै च to read. to study, to
+   describe; पठुति pre. पपाठ perf पठिता p fut. पठिष्युयुति fut. अप-
+   ठिष्युयत् con. अपठीत or अपाठीत aor. पिपठिषति des. Pass.—पठ्युतै
+   pre. अपाठि aor. Cau.—पाठुयति-तै pre. अपीपठत-न aor. पठित
+   p.p. पठित्वा ger. पठितुं inf.
 
-दंस् 1 P. 10 U. दशनैदंशनयो: to see, to bite. दंसुति, दंसुयतै pre.
-   ददंस, दंसुयाचक्रै &c. perf. अदंसीत, अददंसत Aor.
+पण् 1 A. गतौ to go; पणुतै pre ष्पणै perf. अपणिष्टु aor. पणित p.p.
 
-दंस् 1 P. 10 U भाषाग्यां to speak; दंसति, दंसयति-तै pre.
+पण् 10 U. नाशनै to destroy; 1 P. संदृतौ च to heap together,
+   to collect; पणुयति-तै, पणुति pre.
 
-दह् 1 P. भर्त्सुकरणै to burn, to pain; दहुति pre. दहुत perf. दग्धुं p.
-   fut. पेक्ष्युयुति fut. अधाक्षीत ( अदग्धुभाम dual ) aor. दह्युयात् ben.
-   दिधक्षति des. Cau.—दाहयति-तै pre. अदीदहत-न aor. Pass.—दुह्युतै
-   pre. अदाहि aor. दग्ध p.p दग्धुवा ger दग्धुं inf.
+पण् 1 A. व्युयुवहारै to bargain, to bet or stake at pler; पणतै pre.
+   पैणै perf. पणिता p. fut. अपणिष्टु aor पणीष्ट ben. पिपणिषतै
+   des. Cau.—पाणयाति-तै pre. अपीपणत-न aor. पणित p p
 
-दा 1 P. दानै to give; दच्छुति pre. ददौ perf. दाता p. fut. दास्युयति
-   fut. अदास्युयत् con. अदासीत् aor. दद्युयात् ben. दिदासति des. Pass.—
-   दीयुतै pre. अदायि aor. Cau—दापयति-तै pre. अदीददत-न aor. दत्त
-   p. p. दत्त्वा ger. दातुं inf.
+पण् 1 A. ( Parasm. with आत्म ) स्तुतौ to praise; पणायाति-रणातै pre.
+   पणायाञ्चुकार &c. पण perf. पणायिता-पणिता. p fut. पणायिष्युयुति-
+   पणिष्युयत् fut. अपणायीत-अपणीत aor पण्युयात्, पणीष्ट ben.
+   Cau.—पणयाति-तै, पणायुति-तै pre. अपीपणत-न, अपीपणायत-न
+   aor. पिपणायिषति, पिपणिषतै des. पणायित p.p.
 
-दा 2 P. दवनै to cut; दाति pre. (for perf. and fut. see above,
-   अदासीत aor द्युयात् ben. दिदासति des. Pass.—द्युयुतै. दात p. p.
+पत् 1 P. to fly, to alight, to fall, पतुति pre, पपात perf. पतिता p.
+   fut. पतिष्युयुति, fut. अपतिष्युयत् con. अपपत् aor. पत्युयात् ben. पित्सुति,
+   पिपतिषति des. Pass.—पत्युतै pre. अपाति aor. Cau.—पातयाति-तै
+   pre. अपीपतत-न aor. पतायतै, पतीपताति. पतीपति freq. पतित
+   p. p. पतित्वा ger. पतितुं inf.
 
-दा 3 U. दानै to give, to put, ददाति, दत्तै pre. ददौ, ददै perf. दाता
-   p. fut. दास्युयति-तै fut अदास्युयत-न con. अदात्, अदि aor. द्युयात्,
-   द्यासीष्ट ben. दित्सति-तै des. Cau —दापयति-तै p. p. दत्त्वा ger. दातुं inf. दत्ता-
-   दीयुतै pre. अदायि aor.
+पद् 4 A. ऐश्वर्यै to be master of, to rule; पद्युतै pre पैदै perf. अप-
+   दिष्टु aor.
 
-दान् 1 U. दुषुदुनै आत्नौ च to cut, to make straight; दुंतसति-तै
-   pre. दोदंसाचकार-चक्रै &c. perf. अदीदांसीत, अदीदंसिष्टु Aor.
-   दीदांसिषति-तै des.
+पथ् 1 P. to go; पथुति pre. पपाथु perf. अपथीत aor.
 
-दान् 10 U. छैदनै to cut. दानयति-तै pre. अदीदानत-न Aor.
+पथ् 10 U. प्रेक्षै to throw, to send; पाथुयति-तै pre. अपीपथत-
+   न aor.
 
-दास् 1 A. भावै to give; दासतै pre. ददासै, दासिष्युयतै fut. अदासिष्टु
-   aor.
-
-दाश् 1 U. दानै to give; दाशुति-तै pre. ददाश, ददाशै perf. अदाशीत,
-   अदाशिष्टु aor.
-
-दाष् 5 P. हिंसाग्यां to kill, to injure; दाषोति pre. ( Vedic ).
-
-दास् 1 U. दानै to give; दासुति-तै pre. अदासीत, अदासिष्टु aor.
-
-दिव् 4 P. क्रीडाविजिगीषाग्यांव्युयुवहारद्युुतिमोदुमदस्वप्नुकान्तिगतिषु to
-   play, to sell, to shine, to wish; to conquer, to trifle with, to
-   II. S. G. 40.
+पद् 4 A. गतौ to go; to attain; पद्युतै pre पैदै perf. पत्ता p. fut.
+   पत्स्युयतै fut. अपत्स्युयत् con. अपादि aor. पत्सीष्ट ben. पित्सतै des.
+   Pass.—पद्युतै pre. अपादि aor. Cau.—पादुयति-तै pre. अपीपदत्
+   aor. पन्न p. p पत्त्वा ger. पत्तुं inf.

@@ -1,41 +1,45 @@
-[Internal page: 473]
+[Internal page: 487]
 
-§ 793–797 ]                SYNTAX.                    475
+§ 828–829 ]                SYNTAX.                    489
 
-Obs:—Sometimes the antecedent  noun  or pronoun is omitted
-and  has  to  be inferred  from  the  gender  and  number  of  the
-relative; e. g. धोनिनं किं भो न दुर्गुति पानकं i. e  तस्य धोनिनं,  &c. what
-is the use of wealth to him  who  does  not  bestow  it on men-
-dicants, &c.
+§  828.  * The  object  governed  by  an  infinitive  mood  not
+actually used but implied, is put in the Dative; फुलुत्युयो  यात्युति  i. e.
+(फुटुयु)  हुयुरु  'goes for (in  order  to  bring)  fruits;'  हुहुकुयुयु
+प्रयुछुगुयुः (i. e  युट्युदुयुमुयुट्युदुट्युट्युलुयुदुदुङु)  'We  bow  down  to  Nṛisiṁha
+(so  propitiate  him  )'
 
+(a)  The  Dative of an abstract noun formed from a root may
+be  used  to  express  the  sense  of  the  Infinitive  of  the  same  root;
+शुयुयुयु  यात्युति  'goes  to  perform  a  sacrifice;'  त्युयुयुयु  संचुयुत्युयुर्णों
+(Rag.  I.  7.  )  'who  had  amassed  wealth  in  order  to  give  it
+away,'  &c.
 
-                          SECTION II.
-                         GOVERNMENT.
+§  829.  † The particles  नमुः,  स्युहु,  स्युयुहु,  and  सयुयु  (exclama-
+tions  used  in offering oblations to  gods and manes  respectively),
+अलं  meaning  'equal  to,  a  match  for  '  and  वयुयुट्  (an  exclamation
+accompanying  an  oblation  to  a  deity)  govern  the  Dative  case;
+तस्युयुं  नमुः  संभुवं  'bow to that Sambhu;'  पुञ्युयुस्युः  स्युहु  'may it be
+well with the  subjects,'  स्युस्युरुयुतु  (Rag.  V.  17.)  'a  farewell  to
+thee;'  अग्रुयुयुङु  स्युयुहु  'this  offering  to  Agni,'  similarly  पितृयुयुयुुः  स्युयुयुः
+देवोभुयो  हरिं  अलं  'Hari  is  a  match  for  the  demons;'  so  अलं  मद्युयो
+मद्युयु  (Mah.  Bhā,  )  'one  wrestler  is  a  match  for  another;  (see
+Bhat.  II  39,  Bhatti.  VIII.  98.)  इस्युरु  वयुयुट्  'this  oblation
+to Indra,  '
 
-§ 794.  The  only  portion  of  Syntax  treated  separately  in
-Sanskrit grammars is the Kārakavivechanam  or  the  chapter  on
-Government.   Kāraka  is  the  name given  to  the  relation
-subsisting between a noun and a verb in  a  sentence.   There  are
-six  Kārakas  in  Sanskrit  belonging  to  the  first  seven  cases,
-except the Genitive,  which  is,  therefore,  not  a  Kāraka  case.
-There are प्रति, क्तु, अ्वु, सम्, अ्वा, अरुङ् and अ Kāraka.
+(a)  But  when  कुच्  is  used  with  नमुः,  it  becomes  the  principal
+verb  ‡  and  therefore  governs  the  Accusative  case;'  नमुस्युकुरोति
+देवुयुयुच् 'bows down to gods'  (when the  sense  of  an  infinitive  is
+suppressed,  of  course  the  Dative  will  be  used;  see  § 828).
 
-§ 795.  There are several indeclinables in Sanskrit which also
-govern cases.   Cases governed  by indeclinables are called Upa-
-padavibhaktis, as  distinguished  from  those governed  by  verbs
-which are  called  Kārakavibhaktis.   In cases  where  both  are
-possible the latter predominates  over  the  former  (उपपदवित्युतुकुः
-क्तुरुकुयुवित्युक्तुरुदुतुयुत्युङु)  as  is  क्तुते  स्वरोष्युत्युङु  although  verb  also
-would govern the Dative.
+(b)  Words  having  the  sense of  अर्युं,  such  as  यघुट्,  सम्युर्युं,  शुट्युंग,
+&c.  and  also  the  verb  युच्यु,  are  used  with  the  Dative  (Sid  Kau.)
+देवोभुयो  हरिं  यघुः  संनुयुयुः  शुकुङो  वा;  यघुट्—समुयुर्युं-शुट्युंग:  मुद्युयो  मद्युयुयुः
+यभुवति  मद्युयो  मद्युयुयु।  विविरुरिनं  न  यघुट्युः  यभुवति  (Bhar.  II,  94.);  यघु  and
+यच्यु  are  also  found  used  with  the  Genitive  (Sid.  Kan.)
 
-§ 796.  The  Nominative,  as  in English  and  other languages
-is simply the  naming  case,  its office,  when  used  by  itself, is  to
-express the crude form of a  word,  gender,  measure and  number
-and  nothing more.*  When  used  with a verb it forms its subject.
+* प्रियुयुयुर्णोयुयुदुरुयुच्  च  कुर्मुणि  स्युयुत्युदुनुः । दुयुयुयुर्युंङु  यावुवुचुनानुट् । Pāṇ.
+II.  3,  14,  15.
 
-THE ACCUSATIVE CASE.
+† नमुः  स्युहुस्युयुस्युहुस्युयुयुयुछुदुवुचुनोयुयुच् । Pāṇ  II  3,  16
 
-§ 797.  The  Accusative  denotes the object i. e.  the  person or
-thing upon whom or which the effect of an  action  takes  place:
-
-* भूतिसिद्युदुशोक्तिकुरुपुरिमाणुचुचुनामुङ्ङ  प्रथमा  Pāṇ. II  3. 46.
+‡ उयुयुयुदुरिनुर्युनुकं  कुयुरुकुविवुयुकुनुत्रोदीयुसो  । Vārt.

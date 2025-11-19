@@ -1,45 +1,21 @@
-[Internal page: 352]
+[Internal page: 366]
 
-                         SANSKRIT GRAMMAR.
+366                    SANSKRIT GRAMMAR.                     [ § 598
 
-1 समगंसि        समगंस्वहि        समगंस्महि
-2 समगंस्थाः      समगंसाथाम्       समगंध्वम्
-3 ममगत         समगसाताम्       समगसत
+              2nd Future.         Conditional.       Aorist.
 
-With उप् to be similarly conjugated ; उपाग-
-पायंस्वहि, उपायस्वहि 1 dual, उपायंस्थाः, उपायस्थ
-                   छुघ्.
+1 बोधिष्ये  बोधिष्यावहे   बोधिष्यामहे  1 अबोधिष्ये  अबोधिष्यावहि  अबोधिष्याम
+2 बोधिष्यसे बोधिष्येथे    बोधिष्यध्वे  2 अबोधिष्यथाः अबोधिष्येथाम्  अबोधिष्यध्
+3 बोधिष्यते बोधिष्येते    बोधिष्यन्ते  3 अबोधिष्यत  अबोधिष्येताम्  अबोधिष्य
 
-1 अघुत्सि        अघुत्स्वहि        अघुत्स्महि
-2 अघुदाः        अघुत्साथाम्       अघुध्वम्
-3 अघुद्द, अघोधि  अघुत्साताम्      अघुत्सत
+                     Benedictive.
 
-                   पद्.
+         1 बुध्यासीय  बुध्यासीवहि   बुध्यासीमहि
+         2 बुध्यासीष्ठाः बुध्यासीयाथाम्  बुध्यासीध्वम्
+         3 बुध्यासीष्ट  बुध्यासीयाताम्  बुध्यासीरन्
 
-1 अपत्सि        अपत्स्वहि        अपत्स्महि
-2 अपत्स्थाः      अपत्साथाम्       अपत्सध्वम्
-3 अपादि         अपत्साताम्       अपत्सत
-
-              इ with अधि *
-
-1 अध्यगौषि      अध्यगौष्वहि      अध्यगौष्महि
-2 अध्यगौष्ठाः    अध्यगाथाम्       अध्यगौद्धम्
-3 अध्यगैष्ट      अध्यगाताम्       अध्यगत
-
-1 अध्येषि       अध्येष्वहि        अध्येष्महि
-2 अध्येष्ठाः     अध्येषाथाम्       अध्येध्वम्
-3 अध्यैष्ट      अध्येषाताम्       अध्येषत
-
-स्था—         समस्थियषि          1 sing
-दा—          अदिषि              "
-धा—          अधिषि             "
-नी—          अमासि             "
-
-
-              FIFTH VARIETY OR FORM.
-
-§ 572.  Terminations:—These are obtained by
-ix्त् इ to the terminations of the Fourth Varie
-in the case of the 2nd and 3rd per. sing.; e. g
-
-le § 486
+There are other passive forms of बुध् ; e g. बोभविष्ये 1 sing.
+These two forms alternate, i. e. with बुध्य may be compounded a
+perfect passive form, which produces बुबोध and which is conjugated as
+the ordinary passive, but there is no mention of such forms in standard
+works.

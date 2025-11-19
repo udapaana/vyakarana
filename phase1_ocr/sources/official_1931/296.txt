@@ -1,27 +1,28 @@
-[Internal page: 282]
+[Internal page: 296]
 
-282                    SANSKRIT GRAMMAR.                    [ § 444-449
+296                    SANSKRIT GRAMMAR.                    [ § 458
 
-    Note—The first syllable of a  reduplicated  root is called 'the reduplicative syllable; e. g. the first व in पपत्, or first इ in उउत्.
+चा, च्यु, ग्लै, दो, द्यै, कि, क्रीड् IX.  cl  A. and इ V.  cl.  P.  A. are Set; of the excepting three,  all  monosyllabic  roots ending in a vowels are Anit).
 
-§ 445.  If a conjunct consonant begins a root,  the  first consonant only with the following vowel is reduplicated; e. g. प्रच्छ्-पप्रच्छ्.
+    ( c ) Of monosyllabic roots ending in a consonant the following 102 are Anit; and the remaining Set
 
-    (:) If the first member of a conjunct consonant, however, be a sibilant ( श, ष or स ) and the second a hard consonant, the hard consonant is reduplicated. स्तुड्-तुष्टुड्; स्कुत्-चुस्कुत्; but स्वन्-सुस्वन् &c.
+    * शक्नट् पच्च भोञ्च ततञ्च कुञ्च खिञ्च । तिवृञ्च प्राञ्च मिञ्च निन्जभिञ्च ।
+       भञ्ज्चतृ भुज्जमिञ्च वञ्च युञ्च स्वञ्ज् । स्त्रञ्जोनितिनुसविज्ञालिलोम्क्षालिष्यः ॥
+       अङ्क् धुञ्ज् धूषटृ भिष्टृ आङ् स्यू श्लिष् धुज्ञ सृप्तृ । मूष् तरू भरू भरू
+       क्षुद्रुटृ । शण् तुष्टु स्यूष्टृ तम् शष्टः स्रष्टः सकाष्टः छट्टः ॥
+       मनम्धामस्थिरू यूष्टृ सप् । तितेन्मुपन्निदश्यामः ॥
+       किरड् तरृ मरृ खरृ ग्लूषृ घिषृ शिष् शूषृ वोड्टृ शंसृ । रसृ तुज्ञ दुज्ञ दिङ्खृ शृञ्जे
+       बसेदहृहृ द्रिश्रुयं दिलिप्सन्तोषु घटिः ।
+       अङ्कातना इदताडेम्छै पातको ॥
 
-§ 446.  A radical aspirate ( 2nd or 4th letter of a  class ) is changed  to  its corresponding  unaspirate in the reduplicative syllable; as किद्-चिकित्, धुड्-दुधुड्, धुघ्-बुधुघ्, &c.
+    ( d ) The following roots are Wet:—
 
-§ 447.  The guttural of the reduplicative syllable is changed to  the corresponding  palatal ( subject  to  the  above rule ) and इ to च; e g. कम-चकम्-चकस, पवि-सिपव्-ससक्त्-चसक्त्, इुरुड् &c.
+       म्रानितं सूयं सूतं पुष्टोतृ नमीइ घुसृ ।
+       तनान्केधावत्थाल्नानीगितक्ष तनोति॥                          ।। ९ ॥
 
-§ 448.  A radical long vowel becomes short and ऋ is changed to अ in the reduplicative syllable; as पा-पपा, वी-विवी, छ-चछ &c.
+    * The following couplet gives the endings of these roots and their number in each:—
 
-§ 449  The penultimate स or य and आ or ओ become इ and उ respectively in the reduplicative syllable; सेध्-तिसेध्, शोक—जुशोक, &c.
+       फरच्चजतृ दृपङ्गाचू गम्भाः नुमताः क्रमात् ।
+       द्वेत्रीदशार्कपञ्चेरेको" गयलोदिशदुसतूनं ॥
 
-                          Paradigms.
-
-                   कि P. ' to know.'
-
-         Present                        Imperfect.
-
-1. चिकेमि     चिकिवः    चिकिमः        अचिकेम्     अचिकिव्     अचिकिम्
-2. चिकेषि     चिकिथः    चिकिथ         अचिकेः     अचिकितम्   अचिकित
-3. चिकेति     चिकितः    चिक्यति       अचिकेत्     अचिकिताम् अचिक्युः
+The couplet gives the ending consonants  and thus enables the students to know at once which root is Set  and  which is Anit; e. g. कुट् may be at once known to be a set root  as  ट् does not occur in the first line.   The second line  gives  the  number of roots ending in each consonant. Thus  roots  ending  in  य in कुट् are कु i. e. one ( कु being the first  consonant ) in  number; roots ending in च are च i. e. 5, ( च being the 5th consonant ); roots ending in त are त i. e. one, in number, and so on.

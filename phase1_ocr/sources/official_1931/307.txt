@@ -1,41 +1,24 @@
-[Internal page: 293]
+[Internal page: 307]
 
-§ 456 ]              CONJUGATION OF VERBS.                     293
+§ 493-497 ]         CONJUGATION OF VERBS.                     307
 
-                          Imperative.
+2. थ       अथुः      अ                2. से      आथे      अे
+3. अ       अतुः      उः               3. ए      आते      इरे
 
-1. युनजानि    युनजाव   युनजाम       युञ्जै      युनजावहै     युनजामहै
-2. युङ्ढ्धि    युङ्क्तम्  युङ्क्त       युङ्क्ष्व   युञ्जाथाम्    युङ्क्ध्वम्
-3. युनक्तु    युङ्क्ताम् युञ्जन्तु    युङ्क्ताम्  युञ्जाताम्   युञ्जताम्
+§ 494.  The Parasmaipada  singular terminations  are strong; the rest weak.   Before the strong terminations the penultimate short vowel takes its Guṇa  substitute.  The  final  vowel  and penultimate  अ  take  Vṛddhi  necessarily  in  the  third  and optionally in the first person singular.  In  the  2nd  person singular the final  vowel  takes  Guṇa  and  the  penultimate  अ remains unchanged.
 
-                          Potential.
+§ 495.  *Special rules about the admission  of the intermediate इ before the terminations व, म, व, से, वहे, महे; see (§457 ).
 
-1. युञ्ज्याम्  युञ्ज्याव  युञ्ज्याम    युञ्जीय    युञ्जीवहि    युञ्जीम
-2. युञ्ज्याः  युञ्ज्यातम् युञ्ज्यात    युञ्जीथाः  युञ्जीयाथाम् युञ्जीध्
-3. युञ्ज्यात् युञ्ज्याताम् युञ्ज्युः   युञ्जीत    युञ्जीयाताम् युञ्जीर
+    ( a )  All Set roots admit it, whether set  or  anit, except इ, य, य, हु, व; i, य, इ, य; ग्रु, permit इ इ or अ; But इ with समु, and इ admit  it only as तस्करीय, वस्तीय.
 
-Conjugate similarly भञ्ज् P. ' to break,' भुज् P ' to enjoy ' A. ' to eat,' विञ्ज् P. ' to shake, to ramble,' and भुज् P ' to avoid
+    ( b )  Anit roots ending in short  अ,  except  अ.  reject it before य; as तस्तय् from स्य; but आरिय from इ.
 
-                   रिच् P. Â. ' to evacuate.'
+    ( c ) Anit roots with a final vowel or with  a  penultimate अ admit it optionally before य.
 
-                          Present.
+§ 496.  When initial इ or य of a root takes  Guṇa or Vṛddhi substitute, the reduplicative इ or य  is  changed  to  इय  or  उय; otherwise the two  vowels  combine  to  form  long  इ  or  उ; as इयय्+अ=इयेय, उच्चोय्+अ=उचोय; इविध्, &c.
 
-1. रिणक्मि     रिञ्च्वः   रिञ्च्मः      रिञ्चे      रिञ्च्वहे     रिञ्च्महे
-2. रिणक्षि     रिङ्क्यः   रिङ्क्य       रिङ्क्षे    रिञ्चाथे      रिङ्क्ध्वे
-3. रिणक्ति     रिङ्क्तः   रिञ्चन्ति     रिङ्क्ते    रिञ्चाते      रिञ्चते
+§ 497.  The final ग्, short or long,  is  changed  to  सय before a vowel weak termiation and इ to इय or य as  it is  preceded  by  a conjunct consonant or not; as इयय्+इव=इयेयव ! dual; तितिर्+इव=तितिर्+इव=तितिक्व, लिभिर्+इरे=लिभिरिरे, &c.
 
-                          Imperfect.
-
-1.            अरिञ्च्व   अरिञ्च्म      अरिञ्चि    अरिञ्च्वहि    अरिञ्च्महि
-2. अरिणक्-ग्  अरिङ्क्तम्  अरिङ्क्त      अरिङ्क्याः  अरिञ्चाथाम्  अरिङ्क्ध्वम्
-3. अरिणक्-ग् अरिङ्क्ताम् अरिञ्चन्     अरिङ्क्त   अरिञ्चाताम्  अरिञ्चत
-
-                          Imperative.
-
-1. रिणचानि    रिणचाव   रिणचाम      रिञ्चै      रिणचावहै     रिणचामहै
-2. रिङ्ढ्धि    रिङ्क्तम्  रिङ्क्त       रिङ्क्ष्व   रिञ्चाथाम्    रिङ्क्ध्वम्
-3. रिणक्तु    रिङ्क्ताम् रिञ्चन्तु    रिङ्क्ताम्  रिञ्चाताम्   रिञ्चताम्
-
-                          Potential.
-
-1. रिञ्च्याम्  रिञ्च्याव  रिञ्च्याम    रिञ्चीय    रिञ्चीवहि
+    * इङ्वुड्सदृत्कूढ्मा लिटि । Pāṇ.  VII.  2.  13,
+      अन्तानुवातोनानुपदस्य्ताद्मिते पूर्वः वेधयति ।
+      सद्वन् इदेदीनवार्चितेनादेव कामद्यो लिटि पोरैव परे ॥ ( Sid. Kau. )

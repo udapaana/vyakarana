@@ -1,0 +1,56 @@
+---
+page_number: 705
+internal_page: 705
+chapter: "Appendix II - Dhātukośa"
+section: "dhātukośa"
+rules_starting: []
+rules_continuing: []
+has_footnotes: false
+---
+
+                    DHĀTUKOŚA.                               143
+
+सृज् 6 P. विसर्गै to create, to let loose, to shed; सृजुति pre. ससर्ज
+  perf. स्रष्टा p. fut. स्रक्ष्युति fut. अस्राक्षीत् aor. सृज्युयात् ben. सिसृ-
+  क्षाति des. सृष्ट p.p. सृज्यु, सृष्ट्वा, सृष्टुं ger.
+
+सृप् 1 P गतौ to creep, to go; सर्पुति pre. ससर्प perf. सर्पं. स्रष्टा p.
+  fut असर्पत् aor. सृप्युयात् ben. सिसृस्पति des. Cau.—सर्पयाति-तै
+  pre. असुसर्पत-न, असीसृपत-न aor. सृप p.p.
+
+सृष् सृभु 1 P. हिंसायां to kill, to injure; सर्षुति: सृभुति pre. ससर्ष,
+  सस्राभु perf. असर्षीत्, असृभुीत् Aor.
+
+सैक् 10 A. to go, to move; सैकतै pre. सिसैकै perf. सैकिता p. fut.
+  असैकीष्ट aor.
+
+सेल् 1 P. to go, to move, सेलति pre. सिसेल perf. सेलिता p. fut. असै-
+  लीत् aor.
+
+सैव् 1 A. सैवनै to serve, to pursue, to enjoy; सैवतै pre सिसैवै perf.
+  सैविष्युतै fut. असैविष्ट aor. विसैविषतै des. Cau,—सैवयाति-तै
+  pre. असीसैवत aor सैवित p.p.
+
+सै 1 P. क्षयै to waste away, to decline; सायुति pre. सासुति fut.
+  असायीत् Aor.
+
+सौ 4 P अन्तुकर्मै to destroy, to bring to an end; स्यति pre.
+  ससौ perf. साता p. fut. असात् , असासीत् aor सायुयात् ben. सिसा-
+  याति des. Pass,—सीयुतै pre. Cau.—सावयाति-तै pre. सित p. p.
+
+स्कन्द् 1 P गतिशोषणयो: to go, to jump, to be dried, to perish;
+  स्कन्दुति pre. चस्कन्द perf. स्कन्ता p. fut. अस्कन्दत्, अस्कन्धीत्
+  aor. स्कन्दुयाति ben. स्कन्दिष्युति-तै fut. Pass—स्कद्युतै pre. Cau,—
+  स्कन्दयाति-तै pre. अचस्कन्दत-न aor. स्कन्न p.p.
+
+स्कभु 10 U. to collect; स्कभुयाति-तै pre. स्कभुयाचकार-चक्रै perf.
+
+स्कभु 1 A. प्रतिबन्धनै to stop; स्कभुतै pre. चस्कभुै perf. अस्कभुीष्ट aor.
+
+स्कम्ब् 5, 9 P रोधसम्भुनयो:. to create, to hinder, to restrain;
+  स्कम्भुोति, स्कम्भुाति pre. चस्कम्भु perf. स्कम्भुिता p. fut. अस्कम्बत् ,
+  अस्कम्भुीत् aor. स्कभुयुयात् ben. स्कम्भु p.p.
+
+स्कु 5 & 9. U. आप्लवनै to go by leaps, to approach, to cover, to
+  lift; स्कुनाति, स्कुनुतै, स्कुनाति, स्कुनीतै pre. चुस्काव, चुस्कुवै perf.
+  स्कोता p. fut. अस्काषीत्, अस्काष्ट aor. चुस्कूषाति des.

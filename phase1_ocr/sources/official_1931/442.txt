@@ -1,44 +1,40 @@
-[Internal page: 428]
+[Internal page: 442]
 
-430                  SANSKRIT GRAMMAR.                   [ § 701-705
+444                  SANSKRIT GRAMMAR.                   [ § 749-752
 
-Roots.          P. P. Ptc.     Roots.           P. P. Ptc.
+(c) Roots ending in चु such as  भुच् ,  रञ्च् ,  सङ्ज् ,  स्पृश् &c.  and
+the root तुञ्ज् optionally drop their nasal before स्या;  भुयु—भुक्त्वा
+or भुक्त्वा,  रञ्च्-रक्त्वा or रक्षवा;  अञ्ज्—भक्तित्वा,  अटु स्वा or  अक्त्वा.
 
-त्रिह् 'to go, to become dry.' त्रुत   स्पृङ् with य          प्रस्पीत or प्रस्तीत
-ह्राङ् 'to delight'              ह्रेष्ट                     'sounded, '
-व्या to cook (also     शत  'boiled'  स्ञा with हि           तिङ्गीत   ' clever.'
-ळुर् cau. of वृत् ) ( when it quali-      with नदौ        नदीष्णा, ' skilful,
-                      fies क्षीर or पुहुं )                 experienced, cle-
-                      घुषशूण, अपिक्त.                       ver.' ( lit.  one
-स्मर् with प्रति      प्रतिस्मुर, तिन्त-                      who knows the
-    and वि           स्मर् where the य                    dangerous spots
-                      is not changed                      in a river );  but
-                      to यु ).                             निवेवात,  नवीस्मात
-स्मार् 'to grow '                 स्फीत                     in other cases.
+(b) मृञ्ज् and नञ्च् insert a nasal optionally;  मार्क्त्वा or  मृत्त्वा;
+नश्कित्वा, नूढ्वा or नष्ट्वा.
 
-§ 702.  ( a ) The roots  इङ् and  यङुच्  take  the affix वत्  like त्
-in an active sense; इङ्दुचुर् ' one who extracted Soma juice;
-वङुच्चुर् ' one who has offered a sacrifice;' अत् is added to यु
-optionally  in  the  same  sense;  जीर्ण  or  जतुर्   ' one who has
-become old' ( also जीविवत् ).
+§ 750   Guṇa is optionally  substituted  for the penultimate
+इ and उ, roots  beginning  with  any  consonant and  ending  in
+any except ऋ or व when स्या has इ prefixed to it  सिङु—क्षुधित्वा
+or क्षुद्धित्वा;  रुज़न्  क्षिदुरि or किदुरित्वा । also  किरित्त्वा ।;  क्षुयु—6.  P.
+क्षुधित्वा or  क्षुधित्वा;  स्पृशु  यादुनों or  निदूयोतिवसा;  पिष्-तिषित्वा,  गुनित्वा and
+तिपु, or रुपु, &c., but  विद्-वेदित्वा, पुत्वा.
 
-§ 703.  The participles in त् or  न  follow the  Declension of
-nouns in अ.
+    2.  Indeclinable Participles formed with य.
 
-§ The P. P. participles have not always a passive force:—
+§ 751.  When a root is  compounded  with one or more pre-
+positions or  words  prefixed  to  verbs  like  prepositions,  the
+indeclinable  participle  is formed  by  affixing य immediately to
+it ; the य is  changed  to  त्य  after  a  short  radical vowel ( even
+when  it  combines  with the final vowel  of a  preposition  to a
+long vowel ) ; e g.
 
-§ 704. *  The  affix  त्  added  to  roots  having the  sense of
-'staying, ' or going' shows the place where  the  action usually
-takes place; द्रु मुकुन्दुस्य आसितं ' this is the place where Mukunda
-to sit; ' इदं गतं त्सुतार्ः ' this is the path by which the husband
-of Rāmā used to pass; ' अत्रुकै एतत् अनतेस्य ' this is the place where
-Anaṅta took his food, ' &c.
+    दा with आ—आदाय              इु with यू—प्रेत्य
+    वि with विस्-विज्ञस्य           छु with स्तु—संस्कृत्य
+    जि with परा—पराजित्य          छु with विशु—विभाछुत्य
+    नी with वि—विनीय             पिपु with तिपु—तिवाच्य
+    भू with अनु—अनुभूय            प्युदु with उद्-उत्पद्य
+    इु with अभि—अभीत्य           &c.    &c.    &c.
 
-§ 705.  ( a )  The P. P.  Participles  of  roots implying motion, of
-intransitive roots, and of the roots शिय् , घुत्, स्था, आस्, चुल् 'to dwell,'
-जन् , रुङ्, and यु 4. cl. have an active sense; गतोऽङुं मद्रापुरम् 'I went to
-Madras;' स्थाजनौ चास्: 'the boy has become languid,' छक्षामीमात्रुर्येट ह्रारि:
-' Hari embraced Lakshmi; ' शेषुमपिशयात्रि: ' slept on Sesha; ' वैशुङ्य-
+§ 752.  The rules given at § § 394, 395, 459,  502 and 587
+apply to the roots also in the gerund in य :—
 
-_________________________________________________
-* अधिकरणे च घोषेयौतिस्मुयसुर्तादुपर्युत्स्म: । Pāṇ. III. 4, 48.
+    विद्य with यू—प्रवीद्य         अत्च् with यू—प्राच्य
+    कृ  with अव—अवकोर्णुं         वस् with यू—प्रोष्य
+    युज्  with आ—आयुष्यं         शहुङ् with वि—विशक्ष्य

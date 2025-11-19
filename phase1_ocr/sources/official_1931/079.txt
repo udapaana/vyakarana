@@ -1,29 +1,37 @@
-[Internal page: 62]
-62                        SANSKRIT GRAMMAR.                    [ § 103-104
+[Internal page: 79]
+§ 128-129 ]                    DECLENSION.                    79
 
-                    अवयाज्.
+words as पञ्चयुवन् ( containing or aggregating five youths ). In
+the nom. sing. स् is dropped, the अ of युवन् is changed to आ
+by virtue of the rule युवोरनाकौ ( Pan. VII. 1. 1 ) thus युवा. So
+also is the voc. sing. formed: युवन्, युवन् + आ = युवा + आ = युवाः in
+which the substitute-आ takes the place of स्, but it is not dropped
+like स्, and so the terminations ओस्, आम्, ए, आम्, following
+it, do not occasion the dropping of न् by the rule नाम्यन्ते
+( Pan. VI. 4. 3 ). So also we have युवानौ ( dual ), युवानः ( plu. ),
+युवाने, युवानाम् and the loc. sing. युवानि which is like the form
+made from the base युवन् ॥ So also युवना ( ins. sं० ) in which
+न् is retained. Before the case-affixes beginning with consonants,
+न् may be changed to ण् or otherwise ; thus युवभिः or युवणभिः,
+युवभ्यः or युवणभ्यः, युवभ्याम् or युवणभ्याम्, युवसु or युवणसु, युवनाम्; युवनि
+or युवानि ॥ Before न्, अम्, न् is generally dropped, and thus we
+have युवानम्, युवनोः, युवनः ( gen. sं० ) which is also युवनः ( loc. sं०)॥
+The fem. is युवती, which is declined like the fem. of भगवत्; and
+this base is not used in the neuter.
 
-  N. V.   अवयाः         अवयाजौ              अवयाजः
-    A.    अवयाजम्         ,,                   ,,
-    I.    अवयाजा        अवयोभ्याम्           अवयोभिः
-    L.    अवयाजि        अवयाजौः             अवयत्सु
+§ 129. Tabular representation of युवन् ( a youth ).
 
-                    Bases derived from the root अञ्च् 'to go' to worship.
+                        MASCULINE.
 
-§ 104. Nouns derived form the root अञ्च् ( to go ' by means of such affixes as किप्, किप् &c. such as प्राञ्च् ( प्र-अञ्च् ) eastern, प्रत्यञ्च् ( प्रति-अञ्च् ) western, सम्यञ्च् ( सम्-अञ्च् ) a companion, तिर्यञ्च् ( तिरद्-अञ्च् ) going away, सम्यञ्च् ( सम्-अञ्च् ) going with or well, विष्वञ्च् ( विष्वब्-अञ्च् ) following, देवयञ्च् ( देव-अञ्च् )adoring a deity, सर्वयञ्च् ( सर्वे-अञ्च् ) going every-where, उदञ्च् northen,, अन्वञ्च् following, उद्यञ्च्, अदह्युयञ्च्, असम्युयञ्च् going to that ( all the:e derived from अद्स्+अञ्च् ), गोअञ्च् &c.
+Singular.
 
-  (a)  In the Nom sing. अञ्च् becomes अङ्.  The nasal of अञ्च् is dropped before all terminations beginning with the Acc. plu. and the preceding semi-vowel is changed to its corresponding long vowel before the vowel terminations after which अ is dropped. When अञ्च् is not preceded by a semi-vowel, its अ is changed to ई if not preceded by a long vowel; otherwise it remains unchanged.  तिर्यञ्च् becomes तिरश्च् under similar circumstances. In other respects these words are declined like words ending in च्.
+    Nom.        युवा            Voc.            युवन् or युवाः
+    Acc.        युवानम्        Ins.            युवना
+    Dat.        युवने            Abl.            युवनः
+    Gen.        युवनः            Loc.            युवनि or युवानि
 
-                    प्राञ्च् mas.
+Dual.
 
-N. V.  प्राङ्         प्राञ्चौ              प्राञ्चः
-  A.   प्राञ्चम्        ,,                  प्राचः
-  I.   प्राचा          ,,                  प्राग्भिः
-  D.   प्राचे        प्राग्भ्याम्            प्राग्भ्यः
- Ab.   प्राचः          ,,                   ,,
-  G.    ,,          प्राचौः               प्राचाम्
-  L.   प्राचि          ,,                  प्राक्सु
-                    प्रत्यञ्च् mas.
-
-N V.  प्रत्यङ्        प्रत्यञ्चौ             प्रत्यञ्चः
-  A.   प्रत्यञ्चम्       ,,                 प्रतीचः
+    Nom., voc., and acc.        युवानौ        Ins., dat., and abl.    युवभ्याम्
+                                                        or युवणभ्याम्
+    Gen. and loc.            युवनोः

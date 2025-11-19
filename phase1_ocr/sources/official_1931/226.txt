@@ -1,25 +1,40 @@
-[Internal page: 212]
+[Internal page: 226]
 
-SANSKRIT GRAMMAR                                        [ § 342-343
+226                    SANSKRIT GRAMMAR.                [ § 366
 
-लक्ष्मीवद्‌, पशस्वद्‌. भारुद्वद, &c. ;* राजन्‌+वद्‌=राजन्वद्‌; as राजन्वाद् देशः ' a country having a good or just king'; ( cf. Rag. VI. 22. )=राज्ञवद्‌; as राज्ञवाद् देशः ' a country governed by a king'; उदक्‌+वद्‌=उदन्वद्‌ m. ' the sea'; उदकुवद्‌ as उदकुवान्‌ ( घटः: ' a jar ' ) containing water.
+आ—' up to, towards, all round, a little,' &c ; आच्छाद् ' to cover
+        all round,' आकार: 'form or shape ( within due bounds ),
+        आकाश: ' that which shines all round' i. e. ' the ether ';
+        आकम्प ' to shake a little,' &c.
 
-Exceptions :—म is not changed to व in the case of the words यव, रलिय, ऊमि, भूमि, छमि, कुञ्च्म्, ब्रश; इक्षु, भज्र, त्रजि, द्यरित्‌, कन्तुद्‌, इश्चुः and मनु, as यवमान्‌, ऊमिमान्‌, &c.
+उद्—इ—' upon,' &c.; उद्गम् ' to go up,' उद्यम: ' industry,' उत्सर्ग:
+        ' pouring out, hence a gift, a general rule,' &c.
 
-(b) † मत्‌ also becomes वत्‌ when added to words ending in any of the first four letters of a class ; विद्युद्वान्‌, तडिद्वाद्‌ m. 'possessing lightning' i. e. ' a cloud ', &c The न of विद्युद्‌ &c. is not changed to द्‌ as it is not at the end of a पद्‌.
+उप—'near to, towards, by the side of,' &c.; उपया ' to go near
+        to,' उपकृति f. 'an obligation,' उपरति f. ' death,' उपस्थानं
+        'praise, worship,' उपमिति f. 'comparison,' &c.
 
-( c ) and when the whole expresses a संज्ञा ( a name ); अहीवती; मुनीवती &c.
+दुष्—र—' bad, hard to be done,' &c.; दुराचार: ' bad conduct,' दुष्कर
+        ' hard to be done,' दुःसह 'difficult to be borne,' &c.
 
-§ 343. When added to words denoting qualities मत्‌ is dropped; ‡ e. g. शुहौ धुणीऽस्य्रास्तीति शुक्लः पदः a white ( i. e. possessed of the white colour ) garment, so द्युष्णं. &c
+नि—' in, into, great, opposed to,' &c.; निङ ' to insult,' निकेत ' a
+        house,' निचय ' a heap, a great collection,' निपीत 'drunk
+        in,' निदेश ' a command,' &c.
 
-य ( यद्‌ )—is added to रुप in the sense of ' a stamped coin, or beautiful '; रूप्य ' possessing snow, snowy', यूण्यः ' possessing merits '.
+निस्—र—'out of, away from, without,' &c.;  निःसृ 'to issue out,'
+        निर्गम ' a passage out,' निर्दोष: ' out of i. e. free from
+        blame,' निः शुकु ' without doubt,' &.
 
-सुष—is added to ऊर्णां, शुभ्, अहं, and ञौ; ऊर्णसुः ' woolen ', शुभसुः ' possessing bliss, fortunate ', अर्हसुः ' proud '; द्रोषुः ' happy '.
+परा—'away, back, opposed to,' &c.; पराकृ ' to reject, to despise,'
+        पराक्रम 'to act bravely,' परागम ' gone away,' पराञ्चु 'turn
+        back,' पराजय 'what is opposed to victory, defeat,' &c.
 
-र—is added to पाण्डु, सषु, इषि, ऊर्ध, नय, मुष्क, पाडु, स, मुस्‌,
+परि—'all round, about,' &c.; परिये 'to place all round i. e. to put
+        on or wear,' परिधि: 'a wall &c. that surrounds,' परिणाम:
+        'ripening, maturity,' परिगणना ' counting all round, i. e.
+        a complete enumeration,' &c.
 
-* राजन्वान्यौराज्येि । Pān. VIII. 2. 14. राजवान्न्यत्र । Sid. Kau.
-
-† इयः । संञायाम् । Pān. VIII. 2. 10, 11.
-
-‡ शुणवचनेभ्यो मतुबो लुगिष्टः । Vārt.
+प्रति—' towards, back, in return, in opposition to,' &c.; प्रतिगम्
+        'to go towards,' प्रतिभाषण 'a speech in return, an ans-
+        wer,' प्रति—सी—कार: ' an act in opposition to i. e.
+        a remedy' &c.

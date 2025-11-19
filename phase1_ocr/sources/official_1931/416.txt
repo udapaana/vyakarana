@@ -1,42 +1,43 @@
-[Internal page: 402]
+[Internal page: 416]
 
-404                  SANSKRIT GRAMMAR.                   [ § 664
+418                  SANSKRIT GRAMMAR                   [ § 667-671
 
-क्रीड़्*—'to play' is Atm. after the prepositions अव्, आ,  परि
-and सम्, अव्-आ-परि-सं-क्रीडते, but not when अव् governs a noun, as
-मायाप्रकृतीनक्रीड़ति i. c.  'plays with Mānavaka.'  संऊ with सत्य is
-Par. when it means 'to play  ( or ) 'to gamble' सत्येन संऊ सङ्-
-क्रीड़ति
+( c ) When affixed to अड्ङ् it has the sense of ' fitness, respect;'
+अड्ङात् ' one deserving respect, respectable.'
 
-क्षिप्†—'to throw' is Par when preceded by the prepositions
-अनि, परि and अति; अतिक्षिपति 'throws up;' आतिक्षिपति ' throws out,'
-क्षिपति 'throws back.'
+( d ) यु 2 P. and यु cau. take the affix अत् when the idea  of  di-
+fficulty is not present; अयोवद् 'studying without experiencing any
+difficulty,' परयावद् 'looking or hearing with ease;' but कुञ्चुण अधीते,
+छ्वाय: पूर्तिति.
 
-युध्—with सम् is  Atm;  सुंषुते षत्रं  ' whets or sharpens his
-weapon,' उत्कुद्धो संयुधते ' fight fiercely.'
+§ 668.  The declension of the Participles  in  अत्  has  been
+treated of in § 116.
 
-घुव्‡—with सम् is Atm. in the sense of 'to be proper, unite
-with, join'; वाक्यं संयुज्यते, सर्वौ नि: संयुज्यते, &c., but ग्राम् संयुयच्छति
-स्वेष स्थ उपहियात् ' In the Causal it takes the Atm. in the sense of
-' having patience or waiting,' आनसुयस्त ताव् ' have patience first'.
+§ 669.   The participles of the Present  Atm. is formed by
+adding आन्  to  the  root which undergoes  the same changes
+before it, as before the termination अते or अन्ते  of the  3rd  pl.
+pre. आन् is changed to मान, in the case of roots of the 1st, 4th,
+6th and 10th classes ( i.e. and in derived verbs; see § 482 ). If the
+base ends in अ,  before which  the  अ of the  base  remains  un-
+changed; e. g एच् ( 1. cl. ) एचुमान ' growing;' वन्द् ( 1 cl. ) वन्दुमान
+' saluting'; षट् ( 2. cl. ) शयुन ' lying down;' द्विष् ( 2. cl. ) द्विषाण,
+दूव with आ ( 2. cl. ) आप्राम ' killing;' भु ( 3. cl. ) दुधान 'holding;
+हु ( 3. cl. ) ङोङ्वुरूग 'sacrificing,' दू ( 4 cl. ) धृष्याणमान ' desirous of
+' extracting;' दुर् ( 6. cl. )  दुद्यमान  ' giving pain;' रूच् ( 7. cl.  )
+रूज्यान ' obstructing;' हु ( 8. cl. ) कुवुमाण ' doing;' तन् ( 8 cl. ) तन्वुमान
+' stretching;' क्री ( 9. cl. ) क्रीणान ' buying;' चुर् (10, cl ) चोरयुमाण
+' stealing, ' &c. दूश् or  चुस् ( 1. cl.  )—cau.  वोध्यमान—बोषयुमाण ' causing
+to know;'—desiderative  वुवोषियमाते—वूवूषयुमाण  'being  desirous
+to know,' &c.
 
-त्र्प्—'to be greedy' is Atm in the Cau. when the sense is 'to
-deceive,' मानवकं मत्तुजेते ' he deceives Māṇavaka;' but श्वानं गत्तर्पयति
-'he makes the dog greedy. '
+§ 670.   ( a ) The आ of आन् is  changed to इ  in  the  case of
+the root आस् ( 2. cl. ) ' to sit;' Pre. P. आसीन.
 
-दृश्—with सम् is Atm.   when the meaning is 'to pledge one's
-word, to promise, to proclaim;' सतिसते शब्दं 'he pledges his word;
-सतं सतिसते 'he promises 100 (Rupees, &c.),' सतिसते स्वातिनो छुणान्
-'proclaims the merits of his master;' but संतिसति द्राघं 'he swallows
-down a mouthful.'  If it ( i. e वृ 6 Cou. ) be preceded by अप्, it
-is Atm. अपतिसति शोनितं निशान: ' the fiend drinks blood.'
+. ( b ) आन added to the roots  यु  and  वज्  forms  nouns;  e.  g.
+पवमान: ' that which purifies, hence, the wind' (cf. Rāg. VIII. 9,)
+also, 'one of the sacred fires;' प्रजमान: 'one who sacrifices.'
 
-चर्§—'to walk'  with उद्  is Atm. when used transitively,
+§ 671.  * The termination आन  may  be added  to  any  root
 
 _________________________________________________
-* क्रीडॉत्कर्षर्विरम्भद्या Pāṇ., 1. 3. 21. अनो: कर्मोष्चत्रौयाम। Sid.Kau.
-† आरिप्रतिपरेषु: तिय: । Pāṇ. 1. 3. 80.
-‡ सज्ञो गच्यायौउड्युर्य्गृष्म । Pāṇ. 1. 3. 23,
-§ सज्ञङुख्यसं नेम: प्रतिनाङोऽ । Pāṇ. 1. 3. 51–52,
-§ उद्यच्छारं सङ्कर्मोकाय । समत्कूतौपयादुकाय । सूथायाइन वा वैवबुत्र्ये ।
-Pāṇ. 1, 3, 63–75.
+* तास्छीत्वुवुयैद्ववुचुर्षैकिप्कङु चानमुत् । Pāṇ. III. 2, 126.

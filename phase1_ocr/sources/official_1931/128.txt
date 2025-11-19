@@ -1,42 +1,22 @@
-[Internal page: 110]
-110                    SANSKRIT GRAMMAR.                    [ § 169-171
+[Internal page: 128]
+128                    SANSKRIT GRAMMAR.                    [ § 212-215
 
-( c ) एकशः one by one; द्विशो : two and two, by twos; so त्रिशः
-शतशः &c.
+the first हानीषर्णा, among pupils, अर्धं पिप्पलीनाम् half of a number of pippalis &c. and not पूर्वेछात्रः &c.
 
-§ 170.  Other derivatives from the numerals:—
+§ 213. A word expressive of a part is compounded with another signifying a period of time and is placed first; मध्यं अह्नः मध्याह्न: mid-day; सायाह्नः, मध्यराज्ञं &c.
 
-( a )  by the Taddhita affix क which is added to numerals
-ending in शत् and ति e. g. पञ्चकः bought for five ( rupees &c. )
-चत्वारिंशत्कः bought for forty; वैशतिकः bought for twenty
-( coins, &c. )
+§ 214.* A word expressive of a period of time that has passed since a certain occurrence is compounded with another expressive of the occurrence; as मासौ जातस्य यस्य स मासजातः 'one since whose birth a month has elapsed'; so द्रुग्मजातः, संवत्सरसृत: &c.
 
-( b ) *by means of the Tad. affix तय in the sense of " consisting
-of parts" or "collection"; e. g. चतुष्टयं ( चतुष्टयी fem. ) consist-
-ing of four parts or a collection of four; so पञ्चत्य ( fem. यी);
-तय is optionally changed to अय after द्वि and त्रि  e g. द्वय or
-द्वितय (-यी fem. ) twofold, consisting of two parts,  or a pair;
-त्रय or त्रितय (-यी fem. ) threefold  or consisting of three  parts, a
-collection of three, a triad.
+§ 215† Instances of the Aluk of the Gen. The noun in the Genitive may retain its case ending—
 
-( c ) by means of क and अच् e. g. षट् a collection of six, पञ्चन्
-collection of five, दशत् a collection of ten, a decade, &c.
+(a) when reproach is to be implied, as चोरस्पकुलम्, but ब्राह्मणकुलम्. Also when देवानां is followed by प्रिय and the whole means a fool; otherwise देवप्रिय:.
 
+(b) when the words वाचु, दिना and पन्यदू are followed by शुक्ति, दृष्ट and हर respectively; as वाचौयुक्तिः 'skilful speech,' दिञो-द्रष्टः 'a particular appearance of stars in the shape of a staff in the sky,' पन्यदतोहर: 'one who robs another in his very presence while he is looking on,' hence 'a goldsmith, a rogue.'
 
-Chapter VI.
+(c) in the following cases:—दिवोदासः 'a king of Kāshi,' दिवस्पतिः: 'Indra,' वाचस्पतिः lord of speech, Brihaspati; घुनन्भोषः, शुनःशुच्चः and शुनौलाइपुलः 'sons of Ajigarta.'
 
-DEGREE OF COMPARISON.
+(d) and optionally when followed by पुत्र and censure is implied; द्रास्याः पुत्रः or द्रास्योपुत्रः a bastard, a knave; but ब्राह्मणोपुत्रः
 
-§ 171. तर and तम are the most common terminations of the
-comparative and the superlative degrees respectively.| They
-are added to that crude form of words which they assume, be-
-fore the Inst. dual termination; e. g. भयमतयोरतिशयेन लघुः
-लघुतरः, अयमेषामतिशयेन लघुतमः; similarly युवन् ,—युवतर, युवतम ;
-
-* See Chap. IX. Intro. rules.
-* अतिशायने तमविप्रनौ । द्विवचनविभज्येऽप्ययोपपदे तरबोयुनो । तिङ्श्च ।
-तरसमा पौ घः Pān. V. 3. 55. 57. 56, I  1. 22.  When atis'aya or
-excess of the one thing over many is to be shown तम and ईष्
-are the affixes used; and when out of two things one is to be
-separated as possessing some quality in excess तर and ईयस्
-are affixed.  तर and तम may also added to verbs.
+* कालाः पर्यामिणा । Pān. II. 2. 5.
+†. पट्य आत्रोधे । Pān VI. 3. 21. देवानां प्रियं इति च दुत्तै । वाचिद-क्मच्यन्दयौ यत्किदष्टहरेषु । शोपएच्छलाडुलैय शुनः । दिव्य ह्यारौ ।
+Vārtikaa. 'पूर्वेस्त्यन्तरस्याद्' Pān. VI. 3. 22.

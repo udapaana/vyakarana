@@ -1,22 +1,21 @@
-[Internal page: 3]
-§3]                         THE ALPHABET.                         3
+[Internal page: 19]
+§23-24]                      RULES OF SANDHI.                    19
 
-§3. The nine primary vowels consist of five simple vowels viz. अ, इ, उ, ऋ and ऌ, and four diphthoughs viz. ए, ऐ, ओ and औ.
+(b) अ, इ, उ and ऌ, short or long, at the end of a word :followed by a short ऋ, are also optionally not combined, and when not combined are shortened if long*; e. g. ब्रह्मा+ऋषिः:=ब्रह्मर्षिः A Brâhmana ssaint, and ब्रह्म ऋषिः; सप्तर्षिणाम् of the seven sages, and ससऋ र्षीणाम् (a comp. expression).
 
-(a) A vowel may be ह्रस्व or short, दीर्घ or long, and प्लुत or protracted (also called prolated by some) according to the time required to pronounce it. * The vowels are thus divided into—
+§24. ए, ओ, ऐ and औ, when followed by a vowel, are changed to अय्, अव्, आय्, and आव respectively†; e.g. हरे+ए=हरये for Hari; विष्णो+ए=विष्णवे for Vishnu; ने+अकः:=नायकः A leader; पौ+अकः:=पावकः the purifier i.e. fire,
 
-(1) Short vowels—अ a, इ i, उ u, ऋ r, ऌ, l;
+(a) य or व at the end of a word and preceded by अ or आ is optionally dropped when followed by a vowel or a soft consonant§; e.g. हरे+एहि=हरयेहि or हर एहि; विष्णो+इह=विष्णविह or विष्ण इह; भिये+इयतः:=भियायियतः or भिया इयतः intent on getting money; प्रारौ+उत्कः:=प्रारावुत्कः or प्रारा उत्कः longing to see the preceptor.
 
-(2) Long vowels—आ â, ई î, ऊ û, ॠ ṝ' ए e, ऐ ai. ओ o, औ au; and.
+Note—Two vowels brought together by the disappearance of an intervening consonant or visarga do not coalesce.
 
-(3) Protracted vowels आ ३ â 3, इ ३ i 3, ऊ ३, ए ऋ ३ r' 3 ऌ २ ! 3, ए ३ e 3, ऐ ३ ai 3, ओ ३ o 3, and औ ३ au 3.
+(b) ओ and औ, when followed by a termination beginning with य्, become अव् and आव् respectively ‡; e.g. गो+यं=गव्यम् produced from a cow as milk, ghee &c. गौ+यं=गाव्यम् accessible by a boat, navigable.
 
-N.B.—As the Pluta or protracted vowels are not commonly to be met with in classical Sanskrit, the vowels are usually given as thirteen, represented by the thirteen signs given above under (1) and (2).
+N.B. This rule holds good, in the case of roots, only when the ओ or औ is brought in by virtue of a termination, × e. g. लु+यं=लों+यं=लव्यम् fit to be lopped off. अश्वयल+यं=अश्वयलो+यं=अश्वयलव्यम् which ought necessarily to be cut off.
 
-(b) Each of these vowels may be again of two kinds, अनु-नासिक or nasalised, and अनुनासिक or without a nasal sound.†
+(c) The औ of the word गो is also changed to अव् when followed
 
-(c) Vowels are also further discriminated into उदात्त or acute, अनुदात्त or grave, and स्वरित or circumflex. उदात्त is particular vowel: e.g. अ means अ, आ and आ ३, but अत् means अ (of six kinds) only; so ईत् means ई and nothing else.
+* ऋत्यकः Pân VII. 1. 127.
 
-* उ३कालोजह्वत्वीर्घैभुतः। Pân. I. 2. 27. The crowing of the cock in the morning represents in its three stages these three kinds of vowels. The time required to pronounce a short vowel is called a mâtrâ. A long vowel has two mâtrâs and a Pluta vowel three.
-
-† मुखनासिकावचनोऽनुनासिकः Pân. I. 1. 8.
+† एचोऽयवायावः Pân. VI. 1. 78. § लोपः ज्ञाकल्यस्य। Pân. VIII.3.19.
+‡ यान्तो भि प्रत्ययेऽ। × धातोऽत्तिक्रामिनिचस्थोः। Pân. VI. 1. 79. 80.

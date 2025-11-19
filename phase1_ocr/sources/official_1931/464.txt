@@ -1,35 +1,41 @@
-[Internal page: 450]
+[Internal page: 464]
 
-452                  SANSKRIT GRAMMAR.                   [ § 777
+468                  SANSKRIT GRAMMAR.                   [ § 777–778
 
-अ—denoting 'the agent' is added to—अय and other roots;
-यु with स्तु ' one who cooks; ' योष्ट्र्: ' who drinks, &c.,' पा ' who
-cuts;' सुष: 'who sleeps; ' भुवु: 'who are; ' असुते: ' an orator.' Affixes
-are prefixed to them respectively; अयुर्न: ' an adulterer; '
-चुर् in a Athānite, denotes agent by the addition of अ;
-it used prepositionally and when the idea of difficulty is not
-present or when the whole compound denotes 'one' तिन्प (अन्ते-
-पात) प्रद्युवा: ' one who has seen the elephan;' आथासुर: ' a child
-bearer' ( मरु इु+यु: ); भुपुरु: ' a young child; ' also when
-it is prefixed to the base denoting ' a chief' पौर्वर्युण:  ' one
-ing or sprinkling holy water ' ( and similarly गान: ' one who fills the
-' an utterer with a pear; ' &c; अवुरोन:
-इंहै: ' a master' तूणागुयु: ' he who is ' ; अवुरोन: ' one who fills the
-gland ' द्वुवुदुर्युय: ' one whose knowledge is perfect;' also when
-it is prefixed to the base denoting ' a sense,' यु: ' one given to
-भुपुरुते: कुरुयुहुकै स्वर्दुन्रोदुयुं मुम्युरु: ' a Brāhmaṇa deserving worship;'
-नी with सुमु ' one who enlightens ;'  हिंसुते: ' one addicted to
-बोधनैनै: ' one who whispers into  the  ear, a spy;' त—to any  root
-when it stands for the agent or when difficulty is implied to
-when a word showing the place of action precedes, as नौ  so-
-तुकुर् ' dwelling in the air,'  in some  dwellings in air; ' also when
-a prepositional word precedes, as प्रकुर: ' going ' ( प्रख्युतनुत्तरो:
-सुद्युरो, &c.  precede, युष्-प्रयु—प्र-युष्: ' blazing on the
-उत् with र्तुरु यूरुयुं शुण:रुकुषिर:तैखुर्वुर् स्थु: ' the
-यू ' dwelling, standing, &c.,' यूर्ये सूरुत्तुरै पुत्रे पुत्रे तदुरु दै. ) ; ' with the
-face downwards,'  When  affixed  to  स्था,  its  forms  the  ई
-सुथुरैते: &c., it forms  भू उस्थुरुत्य: ' the top of the
-दो—पीरु, भो—पेरु, वु—वौत्तो: ' a shower of rain,' &c.
+र—is affixed to नम्, कम्पु_, तिम, कम्, हिंस्, and दीप्; नम् bowing
+down, yielding, कम्पु shaking, tremulous, तिम smiling, कम्
+desirous, beautiful, हिं injurious, murderous, दीप् shining.
+The word अञ्चु adi. is also derived from जुस् (जुत changed
+to युट्) and त
 
-भर् —is added to roots,  when the words देश्याय &c  are
-prefixed to them; भुम्यु: ' a potter, ' सात्युर—When a sū-
+तृ—is added to द्या, घे वि, शोङु and दङु: द्या—त्रास: 'one who gives
+or eats;' घे—पातृ. one who drinks;' तेत्र: ' one who finds,'
+शोटृ: 'one who goes or destroys:' वट्: ' one who goes or takes
+rest.'
+
+वट्—(कुरित)—पारेद्युश्युत from द्युसु ' one who has seen the other
+side, hence adept in,' राङ्क्तशुत, ' one who has fought with a
+king'; similarly राङ्क्तवुत, सहस्यवुत, and सहड्युवुर.
+
+वर—(कुरुत) is affixed to the roots ङ्, जि, नमु and द्युट्: ङ्वर go-
+ing, cruel, विज्वर victorious, नम्वर perishable, fleeting, it is
+also added to गम्; गत्वर transient, going.
+
+
+                           CHAPTER XV.
+                             ‌‌‌~~⚘⚘⚘⚘~~
+
+                            SYNTAX.
+
+§ 778.  Syntax des's with the mode of arranging words in
+sentences.  Of the three divisions of Syntax—Concord, Govern-
+ment and Order, the Syntax of Sanskrit is mainly concerned
+with the first two. Syntax in English depends principally
+upon the best. In Sanskrit and other cognate languages
+which are rich in inflection, the relation, which one word
+bears to another in a sentence is determined by its grammatical
+form, and no change occurs in the meaning of the sentences,
+how-so-ever the order of words be changed.  But in English
+and other languages, deficient in inflection, 'order' is every-
+thing.  Change the order of words and there is a corresponding
+change in the meaning.  In Sanskrit, therefore, the mere order

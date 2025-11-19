@@ -1,0 +1,53 @@
+---
+page_number: 490
+internal_page: 490
+chapter: "Syntax"
+section: "syntax"
+rules_starting: ["§ 835", "§ 836", "§ 837"]
+rules_continuing: ["§ 834"]
+has_footnotes: true
+---
+
+of this (kind of) piety saves one from great fear; कुपेरुच्युदिष्युयुनु-
+वुयुट् (Bhaṭṭi IX. 11.) were afraid of the roar of the monkey.
+
+(a) * That from which one is kept off is also put in the
+Ablative; यापुयुविवुयुयुरुति wards off from sin; युवुरुथुयुयो गां वारुयुति
+keeps off the cow from barley.
+
+§ 835. † In the case of जि with पत्युर the thing unbearable is
+put in the Ablative and the context alone shows the acceptable
+or difficult; तां यरुजुयुयुयुनों न मीते: (Bhatti. VIII. 71,) who got
+disgusted with the love (of Rāvaṇa); but वाचुद् पराजुयुते ।
+
+§ 836. ‡ When concealment is to be had recourse to, that
+whose sight one desires to avoid is put in the Ablative case;
+मातुयुर्निहितोन्युयुन छुयुयुयुः 'Kṛṣṇa conceals himself from his mother;
+but युरुयुयु (दूरुतो।
+
+§ 837 (a) § The teacher from whom something is learnt
+regularly is put in the Ablative case; उग्रुयुयुयुयुयुदुनेत learns from
+the preceptor; but नट्युस्य गायुर्थों युयुणोति.
+
+(b) Similarly the prime or original cause in the case of जन्युच्
+to be born, and the source in the case of यु are put in the Abla-
+tive; ब्रद्युयुणुः युनुजुः भुजुयुयुन्युत the creation proceeds from Brahman;
+गोनुरुयुद्युत्युकुट्युछो जायुते the devotion is born from cowdung; हियुयुवुतो
+गङ्गा युदुति the Gaṅgās rises from the Himālayas; असूयुयुयुत्युट्
+भिन्नुयुयुते from desire anger is prodceed.
+
+Note:—Verbs meaning 'to be born' or 'to be begotten upon'
+are often used with the Loc.; तस्युयुयुयुं शुतानन्युदु आवित्रोसोऽजुयुयुत from
+her was born Śatānanda Aṅgirasa; नैनुकुयुयुयुट्युयुज्ञों begotten upon
+Menakā, &c.; Manu Smr. IX. I. 9.
+
+---
+
+*वुयुरुणोअतेनुयुयुयुस्युत्युतुः । Pāṇ. I. 4, 27.
+
+†पराजिनुर्युयुनैः । Pāṇ. I. 4 26.
+
+‡गुयुतुयोर्युनो येनुयुवुनैरुयुन्युच्युछुट्युति । Pāṇ. I. 4, 28.
+
+§आष्युयुयुतोऽयुयुयुयुते । Pāṇ. I. 4 29. ज्ञानेकुयुटुः युकुतिः । युयुकुः युयुभुवु. ।
+Pāṇ. I. 4. 30. 31.

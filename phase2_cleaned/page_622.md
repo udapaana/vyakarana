@@ -1,0 +1,51 @@
+---
+page_number: 622
+internal_page: 622
+chapter: "Appendix II - Dhātukośa"
+section: "dhātukośa"
+rules_starting: []
+rules_continuing: []
+has_footnotes: false
+---
+
+दच् 5 P. घातनै पालनै च to kill, to protect; दच्छुति pre. ददाच perf.
+   दच्छिता p fut अदच्छीत, अदाचीत, aor. ( Vedic ).
+
+दण्ड् 10 U. दण्डुनिधानै दमनै च to fine, to punish; दण्डुयाति-तै.
+   दण्डुयाञ्चुकार-चक्रै. &c. perf दण्डयिता p. fut. दण्डयिष्युयुति-तै
+   fut. अददण्डुत-न aor. दण्डयिषीष्ट des. दण्डित p.p.
+
+दद् 1 A. दानै to give, दयतै pre ददै perf. दयिता p fut. दयिष्युयतै
+   fut. अदयिष्टु aor. दयिषीष्ट ben. दिदयिषतै des. Cau —दापयाति-तै.
+   pre. अदीदयत-न aor.
+
+दप् 1 A. प्रासै to hold, to present; दपतै pre. दैपै perf दपिता p.
+   fut. अदपिष्टु aor दपिषीष्ट ben. दिदपिषतै des. Cau.—दाप्युयति-तै
+   pre. Pass —दप्युतै pre.
+
+दम्भ् 5 P. दम्भुनै to hurt, to deceive; दृम्भुनोति pre ददम्भ perf. दम्भिता
+   p. fut. दम्भुिष्युयुति fut अदम्भुीत aor पिष्मुति, प्रीष्मुति, दिदम्भुिष-
+   ति des. Pass.—दम्भुुुतै pre. अदम्भुि aor. दम्भु p p दम्भुित्वा-दम्भुुत्वा
+   ger.
+
+दम्भु 10 U प्रैषणै to send: दम्भुयति-तै pre. दम्भुयाञ्चुकार-चक्रै, &c.
+   perf. अददम्भुत-न Aor. दम्भुयात् दम्भुयिषीष्ट ben Pass —दम्भुयुतै.
+
+दश् 4 P. उपक्षयै to be tamed: दश्युति pre ददाश perf. दशिता p.
+   fut. दश्निष्युयुति fut. अदश्निष्युयत् con. अदशत् aor. Cau.—दंशयति only
+   fut. दंशयिष्युयुति fut. अदीदशत, अदंशीत aor. दशित p. p. दांत
+   p. p. दशित्वा, दान्त्वा ger.
+
+दय् 1 A. दानपातिरक्षातिदानेषु to give, to be pity, to protect, to
+   injure, to take; दयतै pre. दयाञ्चक्रै. &c. perf. दयिता p. fut.
+   दयिष्युयतै fut. अदयिष्टु aor. दयिषीष्ट ben. दिदयिषतै des. दयित p.p.
+
+दरिद् 2 P. दुर्गुतौ to be poor or needy; दरिद्राति pre. दरिद्राञ्चुकार.
+   ददरीद perf दरिद्रता p fut अदरिद्रीत, अदरैद्रासीत aor. दरि-
+   द्राप्युयात् ben. दरिद्रिषति, दिदरिद्रिषति des. दरिद्र p.p.
+
+दल् 1 P. विचारणै to burst open, to expand; दलुति pre, ददाल perf.
+   दलिता p. fut. अदालीत aor. दलित p.p. Cau.—to cut, to tear
+   दलयति, दालयाति pre. दिदलिषति des.
+
+दव् 10 U. विदारणै to tear; दालुयति pre. अदीदवत-न Aor.

@@ -1,43 +1,38 @@
-[Internal page: 98]
-98                    SANSKRIT GRAMMAR.                    [ § 148-150
+[Internal page: 116]
+116                    SANSKRIT GRAMMAR.                    [ § 187-189
 
-सर्व mas. 'all.'
+§ 187.  When the several members of a Dwandwa compound
+are viewed separately, it is called Itaretara Dwandwa, e. g.
+धवखदिरौ छिन्नौ, 'cut down the Dhava and the Khadira trees '
+In this species each member is of equal importance i. e. has its
+own independent meaning.  It takes the dual or the plural
+according as the objects denoted by it are two or more in num-
+ber; the gender of the final noun is the gender of the whole;* as
+कुक्कुटमर्घं a cock मयूरी a pea-hen च कुक्कुटमयूर्यौ इमे ( fem. dual of
+हरस ); but मयूरी  च  कुक्कुटमश्च मयूरीकुक्कुटौ इमौ; रामश्च लक्ष्मणश्च
+भरतश्च शत्रुघ्नश्च रामलक्ष्मणभरतशत्रुघ्नाः. &c.
 
-N        सर्वः        सर्वौ        सर्वे
-A.        सर्वम्        सर्वौ        सर्वान्
-I.        सर्वेण        सर्वाभ्याम्    सर्वैः
-D.        सर्वस्मै        ,,            सर्वेभ्यः
-Ab.        सर्वस्मात्    ,,            ,,
-G.        सर्वस्य        सर्वयोः        सर्वेषाम्
-L.        सर्वस्मिन्
+Exceptions—अश्वश्च वडवा च अश्ववडवौ ( mas. dual ) a horse and
+a mare; अहश्च रात्रिश्च अहोरात्रः ( mas. sing. day and night ).
 
-Fem.
+§  188   Samāhāra Dwandwa is that species of Dwandwa
+which implies an aggregate or the things enumerated in which
+constitute a complex idea.  It is always singular and neuter.
+Thus आहारनिद्राभयम् does not merely mean 'food, sleep and fear'
+but all that characterises animal life.  In this species the
+meaning of the different members is subordinate to the
+collective sense of the whole compound.
 
-N.        सर्वा        सर्वे        सर्वाः
-A        सर्वाम्        ,,            ,,
-I.        सर्वया        सर्वाभ्याम्    सर्वाभिः
-D.        सर्वस्यै                    सर्वाभ्यः
-Ab.        सर्वस्याः    ,,            ,,
-G.        ,,            सर्वयोः        सर्वासाम्
-L.        सर्वस्याम्                    सर्वासु
+§  189.  †A Dwandwa compound of words denoting limbs of
+the body of an animal, players on musical instruments, parts of
+an army, inanimate objects ( things or द्रव्यs and not qualities )
+names of rivers differing in gender, as also of countries ( and
+not villages ), and insects, and animals between which there is
+natural antipathy, is always of this nature;पाणी च पादौ च पाणिपादम्
+hands and feet; रथिकाश्च अश्वारोहाश्च रथिकाश्वारोहम् chariot-warriors
+and horse-men मार्दंगिकाश्च पाणविकाश्च मार्दंगिकपाणविकम् players on
 
-Neu.
-
-N. & A.    सर्वम्        सर्वे        सर्वाणि
-The rest like the mas.
-
-(a)—सम when it means 'equal' is not a pronoun and is
-declined like nouns in अ; e. g. समः समौ समाः Nom., समाय D.
-sing., समानाम् G. plu. as in the Sutra of Pāṇ. ग्रयासौस्ख्यमसुद्देशः
-समानाम् । 1. 3. 10.
-
-§ 149. Obs :—उद and उद ( the 10th and 11th सर्वादि० ) the one
-उदात्त ( udātta ), the other अनुदात्त ( anudātta ), both synonyms of
-अन्य are declined like सर्व. The former is of the form उत्त
-according to some and then it is declined regularly by adding
-the terminations; e. g. स्वत् स्वतौ स्वत् Nom. &c.
-
-§ 150. स्व when it does not mean "a class" or "wealth" is
-a pronoun and is declined like सर्व* m. f. n.; but it forms its
-
-* स्वमज्ञातिधेनाख्यायाम् । Pān. I. 1. 35.
+* पुरवहिङ्गौं द्विङ्वहुत्तरपयोः । Pān. II. 4. 26.
+† द्वंश्च प्राणितूरसेनानां नानाम् । Pān. II. 4. 2, ज्ञातिदेशप्राणिनाम् Pān. II.
+4. 6.; विविधैश्वर्श्चङ्गौ नदीदैशोऽग्रामसः । Pān. II. 4. 7., क्षुद्रजन्तवः Pān. II.
+4. 8. घेपां च विरोधः ज्ञात्मतिकः Pān. II. 4. 9.

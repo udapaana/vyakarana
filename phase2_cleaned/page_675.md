@@ -1,0 +1,58 @@
+---
+page_number: 675
+internal_page: 675
+chapter: "Appendix II - Dhātukośa"
+section: "dhātukośa"
+rules_starting: []
+rules_continuing: []
+has_footnotes: false
+---
+
+                    DHĀTUKOŚA.                               113
+
+रुप् 1 P. स्वुरासुप to adorn, to decorate, to anoint; रूपुति pre.
+  रुरूप perf. रूपिता p. fut. अरूपीत aor. रूपित p.p.
+
+रेख् 1 P. शब्दुयो: to doubt, to suspect; रेखति pre. रिरेख perf. रेखिष्युति
+  fut. अरैखीत aor.
+
+रेप् 1 A. to shine, to shake; रेपतै pre.
+
+रेष् 1 U. पवामाणै to speak, to ask; रेषति pre. रिरेष perf. अरैषीत्-
+  aor.
+
+रैष् 1 A. to go; रैषतै pre. रैषिष्युतै fut. अरैषीषीट aor.
+
+रेष् 1 A. शब्दै to sound, to low; रैषतै pre.
+
+रे 1 A. अव्युयक्तै शब्दै to utter an indistinct sound, to neigh; रैषतै
+  pre रिरै perf. रैता p. fut. अरैषीषीट aor. रैता p.p. ( Also
+  written as रै ).
+
+रै 1 P. to sound, to bark at; रायुति pre. ररौ perf. अरायीत aor.
+
+रोद् 1 P. अनादरै रुदम्बै च to despise, रोदुति pre. रुरोद perf. अरोदीत्
+  aor.
+
+रोद् ( रोद् also ) 1 P. to despise, रोदुति, रोदाति pre.
+
+                             ल—
+
+लक्ष् 10 U. आलोचनै यातौ च to taste, to obtain; लाक्षयति-तै pre.
+  लाक्षयाचकार-चक्रै perf. लाक्षयिता p. fut. अलुलक्षत-न aor.
+
+लक्ष् 1 A. आलोचनै to perceive, to observe; लक्षतै pre. ललक्षै perf.
+  लक्षिता p. fut. अलक्षीषीट aor. लक्षयिषीष्ट ben.
+
+लक्ष् 10 U. दर्शानाङवननै. to notice, to define, to regard; लक्षयति-तै
+  pre. लक्षयाचकार-चक्रै &c. perf. लक्षयिता p. fut. अललक्षत-न aor
+  लक्षित p.p. लिलक्षयिषति-तै des.
+
+लख् or लङ्ग् 1 P. to go; लखति or लङ्गुति pre.
+
+लग् 1 P. साङै to attach oneself to, to touch, to meet, to follow
+  closely; लगुति pre. ललाग perf. लग्धिता p. fut. अलगीत aor. लिल-
+  गिषति-तै des. लग्ध p.p.
+
+लप् 10 U. आलापनै यातौ च to taste, to obtain; लापयति-तै pre.
+  लापयाचकार-चक्रै perf. लापयिता p. fut. अललपत-न aor.

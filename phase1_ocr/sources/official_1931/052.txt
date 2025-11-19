@@ -1,16 +1,31 @@
-[Internal page: 33]
-§ 53-56 ]                    DECLENSION.                    33
+[Internal page: 52]
+                    SANSKRIT GRAMMAR.                    [ §
 
-§ 53. A noun has three genders: masculine gender (mas.), a feminine gender (fem.), and the neuter (neu.). The ques-tion about the determination of the gender of nouns will be considered in a separate chapter.
+                            गम्ल m.
 
-§ 54. There are three numbers:—Singular (sing.), dual (du.) and plural (pl.). The singular number denotes one, the dual two and the plural three or more. *
+  N.    गम्ला           गम्लौ                 गम्लः
+  V.    गम्लद्           ,,                    ,,
+  A.    गम्लम्          ,,                   गम्लून्
+  I.    गम्ला        गम्लभ्याम्              गम्लभिः
+  D    गम्ले           ,,                   गम्लभ्यः
+ Ab.    गम्लः          ,,                     ,,
+  G.     ,,          गम्लोः                गम्लनाम्
+  L.    गम्लि          ,,                   गम्लषु
+       Decline शक्ल similarly.
 
-§ 55. There are eight cases in each number:—Nominative (Nom. or N.), Vocative (Voc. or V.), Accusative (Acc. or A.) Instrumental (Ins. or I ), Dative (Dat. or D.), Ablative (Abl. or Ab.), Genitive (Gen. or G ), and Locative (Loc or L.). These express nearly all relations between words in a sentence.
+        Words ending in ए and ओ.
 
-N. B. These genders, numbers and cases will, for the sake of convenience, be denoted by their abbreviations enclosed into brackets after each.
+§ 85. Here simply the terminations should be added and Sandhi rules observed.
 
-§ 56. Sup (सुप्) is the technical term for a case termination in Sanskrit. Declension consists in adding the case termination to the crude form or base.
+        सै ( सह इना कोमैन वर्तैतेऽस्सौ )  रै m. f. wealth.
 
-* त्रयेकमौद्विवचनेकवचने । बहुषु बहुवचनम् । Pan. I. 4. 22. 21.
+  N.    सै.           सयौ       सय         N. V. रा.    रायौ    रायः
+  V.    सै*           ,,        ,,           A.     रायम्    ,,      ,,
+  A     सयम्          ,,        ,,           I.     राया   राभ्याम् राभिः
+  I.    सया        सैभ्याम्   सैभिः          D.     रायै     ,,     राभ्यः
+  D.    सयै          ,,       सैभ्यः        Ab.    रायः     ,,       ,,
+ Ab.    सै.           ,,        ,,           G.      ,,     रायोः   रायाम
+  G.    ,,          सयोः     सयाम्          L.     राये     ,,      रायु
+  L.    सये           ,,       सैषु
 
-† The general terminations as given by Pāṇini are—स्वौजसमौट्छष्टाभ्याम्भिस्ङेभ्याम्भ्यस्ङसिभ्याम्भ्यस्ङसोसाम्ङ्योस्सुप् । IV. 1. 2. i. e. Nom. सु औ जस्; Acc. अम् औट् शस्; Ins. टा भ्याम् भिस्; Dat. ङे. भ्याम् भ्यस् ; Ab. ङसि भ्याम् भ्यस् ; Gen. ङस औस् आम्; Loc. ङि औस् सुप्. Some of these terminations, as in common with Pāṇini's system of nomen-clature, have certain Its ( servile letters ) added or prefixed to them; e.g. ङ in सु,ङ in जस् &c. It will be easily seen that the term सुप् is obtained by taking the first letter and the last It in the
+*The Kau. does not specially mention this form. Just as stops after giving the Nom. forms in the case of words lik रै, गौ, स्यौ &c., so does it do in the case of सै also, implyin thereby that the Voc. forms of सै are also like the Nom. one But the Sutra एङ्-हृस्वात्सङ्ऊुदै: Pān. VI. 1. 69 (एङ्-ऋनात् हृस्वान् अङ्गात् हल् छुयते सम्बुद्धै: चर्) (Kau.) seems to apply in the prese case and by dropping the final स् we get the form सै.

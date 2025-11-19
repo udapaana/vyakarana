@@ -1,72 +1,43 @@
-[Internal page: 364]
+[Internal page: 378]
 
-364                    SANSKRIT GRAMMAR.                     [ § 595-596
+378                  SANSKRIT GRAMMAR                   [ § 617-618
 
-            NON-CONJUGATIONAL TENSES AND MOODS.
+§ 617.  To this स् the augment इ is to be prefixed after Set
+roots, optionally after Wet ones and not after those that are
+Anit, subject to the following exceptions:—
 
-§ 595.  ( a ) The Reduplicative Perfect of a rott in the
-Passive is formed like that of the Active, except in that the Auxili-
-ary verb भू is used instead of अस्; e. g. कीयते—कीयां बभूव &c.
+(1)  Roots ending in इ or ई, ऋ and ॠ short, and the roots
+मृज् and मृड् do not take इ; इ-इयिष् Vide § 618. ( 2 ); ऋ-ईर्य, &c.
 
-( b ) The Periphrastic Perfect of the Passive does not differ
-from that of the Active, except in that the Auxiliary verb भू—
-चकार is used; e. g. कीयते कीयां चकार, पूज्यते—पुजां चकार and befo
-it is used.
+Exceptions:—ऋ 'to go,' भृ A.  ' to repeat,' भृ 6 A. 'to hold,'
+and भृ A. 'to purify,' admit of इ  ( see also 4 below )
 
-§ 596.  ( a ) The forms of the two Futures, Conditional and
-also the Benedictive ( especially  भावे—Passive, briefly
-stated below.
+(2)  स्मि, अञ्जर्, भञ्ज्, अञ्च् take इ necessarily.
 
-( b ) The Aorist optionally forms the Futures, Conditional as
-well as the Benedictive of the Passive by changing their vowels to Vrddh
-and then by a garded to them invariably ; in the case of roots ending
-in a vowel, the vowel is lengthened before इ; and the य् inserted
-between the root and this इ; दा-स्तयिष्यते, वाच्य, चाच्य; वच्य
-च्यते, युज्यते-युज्+यु, चाक्रे ' to do'—कारिष्य, घायि, कार्यते इस्-सम् &c. करि-
-कारिष्यते, मेधे हूल्-चूहीषाति, दुसते; चारिते, मिनो, सूयसाते,
-वधैत्, सूत्रायते, अवच्छुम्, स्वाच्छुम्, वद्धित etc. हूल्-चूहीवर्षतु,
-सूयोत्सवस्य &c , सूयते ' to fill. to accomplish'—सूर्यते, सूयिस्त; but strictly
-forbildden with them ; see 4 68; वु these doea only.
+(3)  ईड्, वृप्, वृध्, स्पृह् and कृत्स् do not admit of इ in the
+Par.  ( see § 484 )   In the Atm. they admit इ, the last two do
+so optionally; दाद्-विदृक्षति, विवर्तिषते, &c.
 
-(c) The First Future; Conditional and the 5th Variety of th
-Aorist containing a nasal or a , t, s of the Passive, &c.
+(4)  Roots ending in long ऋ and ॠ and the roots हरास्, त्रि.
+जड्, ड, ष, ढ, स्, हू, कृष् ' to prosper,' कृष्, भर्ज, इङ् ( i. e. गम्, of
+the 3rd cl. and optional Cas. Base of ज्ञा ), सृ ' to give,' पन्, पुन्,
+टन, चुट्, हुर्, दुर्, and युक् ( Vide § 485. ) take इ optionally.
 
-§ 597.  (a) The Passive of the  Aorist of roots belonging to
-the first variety is formed by dropping इ and the अ and append-
-ing the Ātmanepada terminations to the base; स्-अधायि; क्-
-अकारि; धा-अधायि; पच्-अपचि; दिश्-अदेशि; क्षिण्-अक्षेशि, &c.
+Exceptions:—कृ 'to scatter,' पृ  'to swallow,' take इ  neces-
+sarily The intermediate इ is not lengthened in the case of these
+roots; चिकाषिष् , &c.
 
-(b) Roots belonging to the first, second, third and sixth
-Varieties take the fourth, fifth or seventh Variety in the Passive,
-in accordance with the general rules; स्था-अस्थायि 1 sing.; स्था-
-अस्थायि; ट-अट्ट् ; ट्यगिसि; चि-अचायि; चल्-अचेषि; नश्-अनशि, &c.
+(5)  The roots कृष्, गृह् and ढृ take इ in the Par. and reject
+it in the Atm.
 
-(c) The third per.  sung.  of the Aorist Passive of all roots is
-formed by adding ष्ट—
+§ 618.  The radical vowels undergo the following changes
+before स्—
 
-(1) Before this ष् the penultimate ( prosodially ) short vowel
-takes its Guṇa substitute and  penulitmate अ except that of चद्
-and of Set roots ending in अल् except चद् with आ, कृष् , and वृत्.
-and of the short vowel remain their Guṇa; छिद्-अछेदि; छुर्-अछोदि;
-but निन्द्—मनिन्दि; तुर्-अतारि; छर्-अकारि; सह्-अस्रारि; पस्-
-अपारि; but चद्-अनेक्षि; गम्-अगमि; but वद्-अवदि; &c.  चद्
-with आ—आचेदि; कृष्-अकारि; &c.  शी-अनाहि; स्तु-अस्तारि;
-ळू-अलारि; कू or छ—अकारि.
+(a)  The स् with इ is strong and without इ weak.
 
-(2) Roots ending in आ original or substituted ( i. e. of roots
-in घ् , औ , औ ) first च् before this ष्; दा—अदायि; घे—अधायि; धे
-अधायि; शो—अश्रायि, &c.
+The usual rule as to Guṇa substitute holds good in the
+one case and does not in the other; दुष्-विदूषिष्,  विदुष्:
+इ-दिदीषिष्, &c.
 
-(3) स्तध्, जघ् and स्तज् insert a nasal before their final consonant,
-so that their penultimate अ cannot take Guṇa or Vṛddhi
-substitute; असनङ्क्ति, अजनङ्क्ति, असनङ्क्ति.
-
-(4) छम् without a preposition does the same optionally and-
-with a preposition necessarily; अक्रामि, अचक्रमि; but अङ्-अक्रामि.
-
-(5) हृज् ' to break ' forms स्त्रास्चि or स्त्रास्छि; शाच्-शाचयि and
-अवाचयि in the sense of 'to observe ( 10 Â.).'
-
-(6) हुच् takes Vrddhi; यच् lengthens its vowel; अयाचि, अयाचि.
-
-(7) इ ' to go ' has अगामि; with अधि Â., अध्यगामि or अध्यषामि.
+(b)  The final इ  and उ  and the penultimate अ  of मृत्  and
+गह् ( substituted for इ 2 Par. 'to go,' and for इ with आधि 'to

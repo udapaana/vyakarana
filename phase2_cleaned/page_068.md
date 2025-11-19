@@ -1,0 +1,56 @@
+---
+page_number: 68
+internal_page: 60
+chapter: "Subanta or Declension"
+section: "declension"
+rules_starting: ["§ 98", "§ 99", "§ 100"]
+rules_continuing: ["§ 97"]
+has_footnotes: true
+---
+
+Neu.
+
+The neu. forms of these have no peculiarities other than
+those mentioned above; e. g.
+
+                         N. V. A.
+
+युतयुक्    युतयुकौ    युतयुकि    धुक्र    धुकौ    धुकि
+सत्यवाक्    सत्यवाचौ    सत्यवाचि    धुज्    धुजौ    धुजि
+लिह्    लिहौ    लिहि    दधुक्    दधुकौ    दधुकि
+विश्वधृर्    विश्वधृजौ    विश्वधृजि    प्राह्    प्राह्चौ    प्राह्चि
+                                        or        or
+                                        प्राषौ    प्राषिच
+
+The remaining forms like those of the mas. or fem.
+
+                    IRREGULAR BASES.
+
+§ 98. (1) The स् of तुरासाह् 'Indra' is changed to ष् before
+the consonantal terminations;* e. g.
+
+N. V. तुरासाह् तुरासाहौ तुरासाहः I. तुरासाहा तुरासाड्भ्याम् तुरासाड्भिः
+A.    तुरासाहम् "    "    L. तुरासाहि तुरासाहोः तुरासाड्षु-स्सु
+
+§ 99. विश्व becomes विष्व when followed by राज्† (that
+particular form of the root-noun राज्)—
+
+N. V. विष्वराज्     विष्वराजौ     विष्वराजः
+A.    विष्वराजम्     "           "
+I.    विष्वराजा     विष्वराजभ्याम्  विष्वराजभिः
+L.    विष्वराजि     विष्वराजोः     विष्वराजषु-स्सु
+
+§ 100. The वा of root-nouns ending in वाह् is changed to ऊ
+before the vowel terminations beginning with the Acc. plu.‡;
+e. g. विश्ववाह् = the sustainer of the universe, a lord:—
+
+---
+
+## Footnotes
+
+* Pāṇ. VIII. 3. 56.
+
+† विश्वस्य वसुतायै । Pāṇ. VI. 3. 128.
+
+‡ वाह् उट् । सप्रसारणाच्च । Pāṇ. VI. 4. 132. VI. 1. 108. आ and उ
+combine into ओ by Pāṇ. VI. 1. 89. See § 20.

@@ -1,37 +1,42 @@
-[Internal page: 79]
-§ 128-129 ]                    DECLENSION.                    79
+[Internal page: 99]
+§ 150-154 ]    PRONOUNS AND THEIR DECLENSION.                    99
 
-words as पञ्चयुवन् ( containing or aggregating five youths ). In
-the nom. sing. स् is dropped, the अ of युवन् is changed to आ
-by virtue of the rule युवोरनाकौ ( Pan. VII. 1. 1 ) thus युवा. So
-also is the voc. sing. formed: युवन्, युवन् + आ = युवा + आ = युवाः in
-which the substitute-आ takes the place of स्, but it is not dropped
-like स्, and so the terminations ओस्, आम्, ए, आम्, following
-it, do not occasion the dropping of न् by the rule नाम्यन्ते
-( Pan. VI. 4. 3 ). So also we have युवानौ ( dual ), युवानः ( plu. ),
-युवाने, युवानाम् and the loc. sing. युवानि which is like the form
-made from the base युवन् ॥ So also युवना ( ins. sं० ) in which
-न् is retained. Before the case-affixes beginning with consonants,
-न् may be changed to ण् or otherwise ; thus युवभिः or युवणभिः,
-युवभ्यः or युवणभ्यः, युवभ्याम् or युवणभ्याम्, युवसु or युवणसु, युवनाम्; युवनि
-or युवानि ॥ Before न्, अम्, न् is generally dropped, and thus we
-have युवानम्, युवनोः, युवनः ( gen. sं० ) which is also युवनः ( loc. sं०)॥
-The fem. is युवती, which is declined like the fem. of भगवत्; and
-this base is not used in the neuter.
+Nom plu. and Ab. and Loc sing. optionally like राम when
+mas ; as स्वे or स्वाः 'one's own' Nom plu.; but स्वाः 'people of
+one's class' only ( declined like राम ).
 
-§ 129. Tabular representation of युवन् ( a youth ).
+§ 151. अन्तर is a pronoun ( and therefore declined like सर्व* m.
+n f ) when it means " exterior, outer; or what is to be worn
+out-side, as a garment"* except when followed by पर ; it is
+optionally declined like nouns ending in अ in the Nom. pl. and
+Ab. and Loc. sing. of the mas, e. g अन्तरे अन्तरा वा यदः;
+अन्तरे-अन्तरा वा शाट्कः ( garments ). But अन्तरायां पुरे.
 
-                        MASCULINE.
+§ 152. नेम meaning 'half' is a pronoun, but it is optionally
+declined like राम in the Nom. plu. mas ; in other respects it is
+declined like सर्व.
 
-Singular.
+§ 153. पूर्व 'prior, eastern', अवर 'posterior, western', दक्षिण
+'southern,' उत्तर 'superior, northern, subsequent', अपर 'other,'
+and अधर 'inferior, lower,' when they denote relation in space,
+time or person with reference to a particular thing or point of
+time &c. and are not a name, are pronouns† and are then declin-
+ed like सर्व; but they are optionally declined like राम in the
+Nom. plu. and Ab and Loc. sing. when mas; e. g. Nom. पूर्वे:
+पूर्वे पूर्वे or पूर्वाः Ab. पूर्वाद्-पूर्वस्मात् पूर्वाभ्याम् पूर्वेभ्यः; Loc. पूर्वे-पूर्वस्मिन्;
+&c.; but दक्षिणा: गायकाः ( skilful musicians ) only, and not दक्षिणे,
+for दक्षिण does not show any relation here; so उत्तराः कुरवः and
+not उत्तरे, as उत्तराः is a name here.
 
-    Nom.        युवा            Voc.            युवन् or युवाः
-    Acc.        युवानम्        Ins.            युवना
-    Dat.        युवने            Abl.            युवनः
-    Gen.        युवनः            Loc.            युवनि or युवानि
+§ 154. एक when a numeral is declined in the sing. and द्वि
+in the dual only, द्वि. is considered as द्व, and they are both
+declined like सर्व in all the three genders; o g
 
-Dual.
+            एक                        द्वि.
+        Mas.        fem.        mas        fem. &c. neu.
+N.    एकः        एका        द्वौ            द्वे
+V.    एक        एके        ,,            ,,
 
-    Nom., voc., and acc.        युवानौ        Ins., dat., and abl.    युवभ्याम्
-                                                        or युवणभ्याम्
-    Gen. and loc.            युवनोः
+* अन्तरे बहिर्योगोपसंख्यानयोः । Pān. I. 1, 36. अन्तरं बहिर्योगिति
+गणसुत्रेऽडपूरिति वक्तव्यम् । Vārt
+† पूर्वपरवदक्षिणोत्तरापराणि ख्वस्थापुगामसंज्ञायाम् । Pān.        34

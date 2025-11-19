@@ -1,33 +1,37 @@
-[Internal page: 56]
-56                        SANSKRIT GRAMMAR.                    [ § 92-94
+[Internal page: 75]
+§ 122-123 ]                    DECLENSION.                    75
 
-                Nom. sing.  Nom. dual.  I.  dual.  Loc. plu.
+syllable ). Thus by the former accentuation, the स् of the nom.
+affix is dropped, ङ् being substituted for स् by the rule
+नामाखरे ( वा० II. 3. 48 ; Pan. VI. 1. 168 ), and accordingly we
+have दिङ्मुक् = दिङ् or दिङ्, ङ् being changed to ं before the initial
+letter of the following words by व्यत्ययस्य ( Pan. VII. 4. 87 );
+thus दिङ्मुखम् ( facing the quarter ), दिङ्मूढ ( bewildered as regards
+direction ). If, however, we accent the last syllable, then
+we have दिङ्मुक् + स् by नामाखरे ( Pan. VI. 1. 168 ), and we get
+दिङ्मुक् + स् → विसृजनीय → दिङ्मुक् or दिङ्मुट् ॥ The voc. of दिश्
+( without मुट् is दिक् ॥ )
 
-सर्वेज्ञक      सर्वेज्ञक-ग्      सर्वेज्ञग्कौ      सर्वेज्ञग्भ्याम्  सर्वेज्ञक्षु
-चित्रलिङ्      चित्रलिङ्-ग्      चित्रलिङ्गौ      चित्रलिङ्भ्याम् चित्रलिङ्षु
-क्षुभूत्       क्षुभूत्-द्       क्षुभूतौ         क्षुभ्द्भ्याम्   क्षुभ्दषु
-अग्निमध्      अग्निमद्-द्      अग्निमधौ        अग्निमद्भ्याम्  अग्निमत्सु
-तमोङ्गुद्     तमोङ्गुद्-द्     तमोङ्गुदौ        तमोङ्गुद्भ्याम्  तमोङ्गुत्सु
-गुष्          गुष्-द्         गुषौ            गुष्भ्याम्
+( 3 ) Neuter दिश् adds मुट् before the case-affixes of the
+nom., voc., and acc. sing. ( पूर्वमुडगमः, Pan. VII. 1. 98 ), and thus
+we have दिम् + क् । = दिम्क् or दिमुक्, but it is not in use in the सं०
+॥ It is customary to use in this sense, the neuter उदक् ( 'water',
+Lat. "udo") derived from the root उन्द् by the affix क्विप् ( उद्गति
+उदक्, Pan. III. 2. 61 ). Before the case-affixes beginning with
+a consonant this base becomes उदग्, and before case-affixes
+beginning with non-nasal mutes, it becomes उदग् ( उदग्भिः or
+उदङ्भिः, उदग्भ्यः or उदङ्भ्यः, उदक्षु ) By the special rule उदपस्सु ततो
+लोपः सकारस्य च ( Pan. VIII. 3. 7 Vart. ) the स्-विसर्ग in the nom. pl.
+is dropped, and we have उदञ्च्, उदञ् च or उदगि ( nom. plu. = northern
+quarters). Similarly the acc. pl. is उदचः or उदङ्, &c.
 
-                            Neu.
+§ 123. Tabular representation of the declension of दिश्.
 
-                N. V. A.
+                        FEMININE.
 
-सर्वेज्ञक्    सर्वेज्ञकी   सर्वेज्ञङ्कि  अग्निमद्   अग्निमदी   अग्निमन्धि
-हरित्       हरिती      हरिन्ति     तमोङ्गुद्   तमोङ्गुदी   तमोङ्गुन्धि
-सुश्रुत्      सुश्रुती     सुश्रुन्धि    प्राङ्        प्राञ्ची     प्राञ्चि
-                                            or          or
-                                           प्राशी       प्राशिन्
+Singular.
 
-            The rest like the mas.         So चेन्छिदि N. V. A. pl. &c.
-
-§ 93. Bases ending in च् , छ् , ज् , or झ् and ब्, प्, ह्.
-
-§ 94. (a) च् or ज् is changed to क् when followed by a hard consonant or by nothing, and to ग् when followed by a soft consonant.*
-
-  (b) The ending स्र् or ड्र् of root-nouns and the final of त्रक्ष्, भ्रज्, डुग्र्, यज्, यज्, राज्. and भ्राज् are changed to ग् when followed by any consonant except a nasal or a semi-vowel or by nothing†; the ग् is changed to ङ् or ङ् when at the end of a word, and to ड् when followed by a soft consonant. The ड् of परित्राज् is similarly changed to ङ् or ङ्.
-
-  (c)  But the स्र् of the root-nouns द्विट् . इट् , स्फुट् and मुट्  is changed to क् as also the प् of द्युगु ' a bold or impudent man ' and the क्ष् of such words as विषक्ष् &c. The ड्र् of नड्र् is optionally changed to ङ् or क् , as also the क्ष् of तड्र् and गारक्ष् . The ड्र् of ऋत्विज् is changed to क्
-
-* चोः कुः । Pán VIII 2. 30  † त्रक्षभ्रज्स्र्      गजराजभ्राजच्छशोषिः। Pān. VIII. 2. 36.
+    Nom.    दिक् or दिङ्        Voc.        दिक्
+    Acc.    दिशम्            Ins.        दिशा
+    Dat.    दिशे            Abl.        दिशः
+    Gen.    दिशः            Loc.        दिशि or दिक्

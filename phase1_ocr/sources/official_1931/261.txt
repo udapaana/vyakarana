@@ -1,41 +1,25 @@
-[Internal page: 247]
+[Internal page: 261]
 
-§ 393 ]              CONJUGATION OF VERBS.                     247
+§ 412-416 ]         CONJUGATION OF VERBS.                     261
 
-                          10th Class.
+assume  the forms  ज्ञ  and  जि  respectively;  as  जानाति-नीते, जिनाति , &c.
 
-                   चुर् P. A. ' to steal.'
+§  413.  The न of गृह is changed  to  क; as  यहाति;  अयहाम ,  अयहीत, अयहीम, &c. Imperf  1st,  pers.
 
-    P.              Present.                A.
+§  414.   The roots री, ली, ल्ली,  श्री,  ध्र, घृ, द्र,  बृ,  क,  ग्र,  चू,  सू, वू, च, ष, इ, ब and  स्य have  their finals  shortened  necessarily, and क्ती, भ्री, and क्री optionally in the Special Tenses;  as  धुनाति-नीते, रवुणाति-णीते, इणाति-णीते, &c. क्तीणाति, शिणाति, &c.
 
-1. चोरयामि     चोरयावः    चोरयामः      चोरये      चोरयावहे     चोरयामहे
-2. चोरयसि     चोरयथः    चोरयथ       चोरयसे     चोरयेथे      चोरयध्वे
-3. चोरयति     चोरयतः    चोरयन्ति     चोरयते     चोरयेते      चोरयन्ते
+§  415  The  roots  स्कु ' to go by leaps,  to raise, ' स्तम्भ् ' to obstruct, ' स्तम्भ् ' to stop, ' स्कम्भ् and स्कुम्भ् ' to obstruct ' belong to the 5th and 9th classes;  as स्कुनाति, स्कुनीते, स्कुनीते, स्कुञ्जे, &c.
 
-                          Imperfect.
+              Second, Third and Seventh Classes.
 
-                            Par.
+§  416.   Special rules of Sandhi of the  finals  of  roots  and the initial letters of terminations:—
 
-            1. अचोरयम्              अचोरयाव             अचोरयाम
-            2. अचोरयः              अचोरयतम्            अचोरयत
-            3. अचोरयत्             अचोरयताम्           अचोरयन्
+    ( 1 )  The ending इ of  a  root  takes  its  Vṛddhi substitute when followed  by a consonantal  strong  termination ;  as इ+ति=नीति.
 
-                            Atm.
+    ( 2 )  The final इ or उ. short  or  long, of a root  is  changed to इस् or उस् before a vowel weak termination.
 
-            1. अचोरये              अचोरयावहि           अचोरयामहि
-            2. अचोरयथाः            अचोरयेथाम्          अचोरयध्वम्
-            3. अचोरयत              अचोरयेताम्          अचोरयन्त
+    ( 3 )  The ending द् of roots is changed  to  ढ  when  followed by any consonant, except a nasal or a semivowel, or by nothing; and that of roots beginning with द् to त् under the same circumstances.
 
-    P.              Imperative.                A.
+    ( 4 )  The initial त  or  य of  a termination is changed to च after a soft aspirate ( 4th letter of a class ).
 
-1. चोरयाणि     चोरयाव    चोरयाम      चोरयै      चोरयावहै     चोरयामहै
-2. चोरय       चोरयतम्   चोरयत       चोरयस्व    चोरयेथाम्    चोरयध्वम्
-3. चोरयतु     चोरयताम्  चोरयन्तु    चोरयताम्   चोरयेताम्    चोरयन्ताम्
-
-                          Potential.
-
-1. चोरयेयम्   चोरयेव    चोरयेम      चोरयेय     चोरयेवहि     चोरयेमहि
-2. चोरयेः     चोरयेतम्  चोरयेत      चोरयेथाः   चोरयेयाथाम्  चोरयेध्वम्
-3. चोरयेत्    चोरयेताम् चोरयेयुः    चोरयेत     चोरयेयाताम्  चोरयेरन्
-
-    The forms of other roots should be similarly made up
+    ( 5 )  द् or य followed by स is changed to क्.

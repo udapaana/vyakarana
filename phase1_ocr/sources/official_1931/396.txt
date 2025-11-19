@@ -1,43 +1,45 @@
-[Internal page: 382]
+[Internal page: 396]
 
-384                  SANSKRIT GRAMMAR.                   [ § 624-626
+398                  SANSKRIT GRAMMAR.                   [ § 661-663
 
-Roots. 3 sirg  Pre         Roots, 3 sing. Pre
+           ( h ) No affixes added to certain nominal bases.
 
-वर—विवर्षति, विवर्षन्    ङु,  विमानविषति-ते, पुमानविषति-ते
-स्पर्श्—सिस्पर्षति, सिस्पर्शयिषते.  ड्,  विड्भ्रावविषति-ते, पुड्भ्रावविषति-ते
-     सिस्पर्शते                  स्ठुु,  चिच्छानविषति ते, चुच्छानवि-
-झाम्—चिकल्पसति, चिकल्पिषते,         षति-ते         &c.         &c.
-     चिकल्पते                ड्c.
+§ 661.  A few nominal stems are used as verbs without the
+addition of any special affix as given above. They are called
+' कर्मण्यर्घ वर्णाः'
 
+§ 662.  The notion of ' desiring ' is expressed by adding
+a root to a root; e. g. ' to eat salt,' विष्कुप्यति = विप+यु. यु
+meaning ' to take ' or ' to desire ', so पुष्पयति, विषगर्भयति =
+विप+गृध्, similarly मुष्कर्षयति, &c.
 
-                    III. FREQUENTATIVES.
+§ 663.  Verbs may be formed optionally from the words,
+स्फायति, चयायति, भूरि, and अथ by means of regular affixes, or
+without the help of any affixes as given in the last para.
+The special affixes are क्वच्, चङ्कृच् or णिङ्; so these four words
+may be used in three ways:— 1. as nominal verbs with the
+affixes added, 2. as verbs used transitively without affixes,
+and 3. as nominal verbal bases not requiring any affixes for
+their use. Thus स्फायि भाद्रये, स्फायति, स्फाययति,' to use salt.' so
+from आत्मन् we have आत्मति, मितायति, आत्मायते respectively.
+In the same way from other three also stems may be formed
+Similarly from अम्भस्, पयस्, शुद्धे we get णिङन्ति, पयस्यति,
+&c. In all these cases the root affix may be taken to be गुर्
+or किर्.
 
-§ 625.  A Frequentative or Intensive form may be derived
-from any monosyllabic root of the first nine classes,  beginning
-with a consonant   The Frequentative or Intensive is used to
-signify the repetition or the intensity of the action denoted
-by the verb from which it is derived  *
+§ 664.  By means of the suffixes कुय, क्रिय, णिङ् and कौय
+the sense of reproach is conveyed; e. g. स्तेनङ्कुयति, स्तेनङ्क्रियति
+means ' to call a person a thief, ' भृत्येयति means ' to call a
+person a servant;' so किंकरेयति.
 
-Exceptions:—
+__________________________________________________________
 
-§ 626   ( a ) † A Frequentative may be formed from अद्
-' to go,' ‡ ऋ ' to go, अन् ' to eat ' and जुप् ' to conceal, ' though
-these begin with a vowel: and from सत्त् cl. 10 ' to hint, ' दूष्
-cl. 10 ' to string together ', and मुख् cl. 10. though they belong
-to the 10th cl.
+                   CHAPTER XIII
 
-( b )  The Frequentative of roots signifying.motion conveys
-the notion of tortuous motion and not of repetition, † The
-Frequentative of roots छुअ्.' to cut, ' सद् ' to sink down, ' वत्
-' to go ' गम्.' to mutter prayers, ' यच्.' to yawn, ' दह् ' to burn, '
-दंश् ' to bite, ' and गृ ' to swallow, ' imply reproach on the
-manner of doing the act § अडोलच्छति ' he cuts awkardly, '
-सासत्यते ' falls down badly, ' संवद्यते, &c. &c.
+                  CONJUGATION OF ROOTS
 
-______________________________________________________
-* घातोत्कर्षा हलादे: किंयाक्सर्मनिहोरे वद्य। Paṇ III 1. 23 पानुत्क
-वङाथाये किंयाक्सनिहोरः । तत्किन्योपेषु वद्य स्याद् । Sid. Kau
-† दुडिर्धातुसम्यपावादु:पार्वम् Pan. III, 1. 22, vide above.
-‡ तिर्वै डोटादेर् गते। Pan. III, 1. 23,
-* हुस्वदेवरजनावंर्दाष्पूर्भी भाषणहारा। Pan III, 1 24
+§ 665.  In the following pages roots have been arranged
+according to their initial letters. It will be convenient to follow
+an alphabetical arrangement in stating the order in which they
+would be given in this chapter. This chapter will follow the
+following sequence.

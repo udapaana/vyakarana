@@ -1,16 +1,11 @@
-[Internal page: 194]
-194                                     SANSKRIT GRAMMAR                         [ § 337-339
+[Internal page: 208]
 
-Chapter IX.
+SANSKRIT GRAMMAR.                                        [ § 340-341
 
-SECONDARY NOMINAL BASES DERIVED BY THE ADDITION OF THE TADDHITA OR SECONDARY AFFIXES.
+अ ) fr. उरस्‌; इन्द्रुं ' wholesome to the teeth ' ( in this sense it is added to words denoting the limbs of the body ; as कण्ठ्यं ' good for the neck,' &c. ); इज्वन्-इज्व्यं 'fit for a dog' fr. भ्रुव; नाम्य ' fit for being the central part of a wheel ' fr. नामि ' the nave of a wheel;' द्रस ' fit for the nose' from नासिका; रथ्य ' drawing a chariot, a horse, ' युग्य ' harnessed to the yoke, a bull'; वग्यस्य ' of equal age, a friend '; तुल्य ' what is weighed in a balance and found equal', hence ' equal,' fr. तुला; न्याय्य ( न्यायादन-पैत् )just; पथ्ये (पथेरे माधु) ' wholesome,' हृद्य ( हृदि स्पृधुरुते मनाञ्जिदत्वाद्‌ ) 'agreeable to the heart', यन्यः ( घनं लंबवा ) obtaining wealth, धन्यं ( धर्मंदनपतैं लब्ध्वा वा ) ' consistent with dharma ', or ' obtained justly '; ज्ञस्यं 'talk of the people,' वद्य 'capable of being controlled, obedient ', &c. द्रव्य ( द्रोविकार. ) ' wooden or of a tree ,; मूल्यं ( मूलेनात्यै Pán. IV. 4. 49. ) ' price '; &c यञ्जस्यः ( यञ्जसा युतः ) 'glorious, leading to glory'; ( नाम्यं नाबा तार्यं )' fit to be crossed over in a boat'; धुरैः ( धुरे बहतीति ' a horse or bullock yoked to the pole of a carriage'; गव्यं ( गवे / हितं ) ' proper or fit for a cow, got from a cow'; &c.
 
-§ 337. The terminations used to form derivative bases, in Sanskrit are distinguished into two classes, (1) Krit ( कृत् ) or Primary Affixes and (2) Taddhita ( तद्धित ) or Secondary affixes Krit are those affixes that are added to verbs, and the Nominal Bases formed by their means are called PRIMARY NOMINAL BASES ; while TADDHITA affixes are those that are added to substantives, primary or derived from roots, and the bases formed with them are called SECONDARY NOMINAL BASES ( vide § 179 )
+* is added to कुदो, शामो and इण्ड, as a diminutive term,; हस्वा कुदो-कुदोर m. n. ' a small hut,' शामोरः a small S'ami tree', इण्डारः 'the trunk of a young elephant'.
 
-§ 338. In this chapter we will treat of the more general secondary nominal bases formed by means of the Taddhita affixes, reserving for a future chapter the formation of the primary nominal bases derived by means of the Krit affixes from roots.
+द and शाल-are affixed to त्रि in the sense of 'largeness,' विड्काद् 'great, large'; विशाल 'extensive,' 'spacious,' &c.
 
-§ 339. The Taddhita affixes are added in various senses. They occasion various changes in the words to which they are added. The following general observations should be paid attention to.
-
-(a) As a general rule the first vowel of a word takes its Vṛiddhi substitute before the terminations अ, य, इक, ईन, ए०य, स्य. &c. ; as अभषति+अ=आभषति+अ.
-
-(b) Before terminations beginning with a vowel or य (1) the final अ, आ, इ, and ई are rejected ; (2) ए and ऊ take their Guṇa substitute ; (3) औ and औ obey the ordinary rules of sandhi ; आष्यपति+अ=आष्यपत 'belonging to Asvapati,' &c, m. n.; मनु+ अ=मानव: ' a descendant of Manu '; गो+य=गाव्य 'belonging to a cow', so नाव्य fr. नौ &c.
+. The मत्व०र्थीय affixes or affixes expressive of possession have the following additional senses:—भूमन्‌ or ' greatness, eminence विद्या or ' depreciation,' प्रकोशा or ' praise,; निष्प्रयोग or ntconnection, अतिशायन or ' excess over, ' सम्बन्ध or ' being ection with,' and अर्तिविदक्षा or 'to express the meaning

@@ -1,0 +1,50 @@
+---
+page_number: 613
+internal_page: 613
+chapter: "Appendix II - Dhātukośa"
+section: "dhātukośa"
+rules_starting: []
+rules_continuing: []
+has_footnotes: false
+---
+
+तक्र् 1 P. तरुकरणै to pare, to cut; तक्रुति, तक्रुणोति pre. ( belongs
+   to 5th conj. optionally in the Conj. Tenses ) तताक्र perf.
+   तक्रिष्युयुति, तक्रोता, तक्रुयिता fut. अताक्रीत aor. तक्रुयात ben.
+   तत्र p. p. तक्रिता, तद्रुं, तक्ष्युं inf. तक्रिष्युयत, तत्र p. p.
+
+तकु 1 P. गतौ रथुलनै कम्पनै च to go, to stumble, to shake; तकुति
+   pre. तताकु perf. तकुिता p. fut. अतकुीत aor. तकित p. p.
+
+तञ्ज् 1 P. to go; तञ्जुति pre. तताञ्ज perf. तञ्जिता p. fut. अतञ्जीत
+   aor. to move.
+
+तञ्च् 7 P. संकोचनै to contract, to shrink; तनक्ति pre. तताञ्च perf.
+   तंक्ता p. fut. तंक्ष्युयुति, तन्चिष्युयुति fut; अतन्क्ष्युत,
+   अतताञ्जीत Aor. Cau.—तञ्चुयति-तै, तितन्चुषति, तितद्चुषति des.
+
+तञ्च् same as तञ्च्.
+
+तत् 1 P. उञ्छुलायै to grow; तदुति pre. तताद perf. तदिता p. fut.
+   अतदीत, अतादीत aor.
+
+तस्10 U. आभाषनै भाषाग्यां च to beat; ताडयति-तै pre. ताडयाञ्चुकार-
+   चक्रै &c. perf. ताडयिता p. fut. ताडयिष्युयति-तै fut. अतीतडत-न
+   aor. Pass.—ताड्युतै pre. ताडित p. p.
+
+तड्र् 1 A. ताडनै to beat; तड्रतै pre. तताड्रै perf. तड्रिता p. fut.
+   अतड्रिष्टु aor.
+
+तत् 3 U. वितर्कै to spread, to go; तनाति, तनतै pre. ततान, तेनै perf.
+   तनिता p. fut. तनिष्युयुति-तै -त, अतनीत, अतनीत & अतन्युयु, अतत
+   aor. सुरून, सुतनुर्यत्, सुतनीष्टु aor. tan. तन्युयात् & तनिषीष्ट ben. तितनिषति-तै
+   des. Pass.—तन्युतै & तायतै pre. अतानि aor. Cau.—तानयाति-तै
+   pre. अतितनत-न aor. तत p. p. तनित्वा, तत्वा ger.
+
+तत् 1 P. 10. U. अङ्कोपकायो: to believe, to subserve; तनुति,
+   तानयति-तै pre. अतानीत, अतानात, अतीतनत-न Aor.
+
+तन्त् 10 A. कुड़ुम्भुधारणै to support, to govern; तन्वुयतै pre
+   तन्वुयाञ्चक्रै perf. अतीतन्वुत Aor. तितन्वुयिषतै des. Pass-तन्वुयतै.
+
+तप् 1 P. सन्तापै to shine, to heat; तपुति pre. तताप, perf. तप्ता

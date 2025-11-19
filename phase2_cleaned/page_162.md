@@ -1,0 +1,28 @@
+---
+page_number: 162
+internal_page: 154
+chapter: "Compounds"
+section: "compounds"
+rules_starting: ["§ 255"]
+rules_continuing: ["§ 254"]
+has_footnotes: true
+---
+
+द्विऊः 'one who has no thighs,' दुःसक्थयः द्विऊः 'one having deformed thighs'; द्वसक्थय:-द्विऊः; &c. शक्ति is another reading for सक्थि in the sūtra; so अशक्ः-क्तिः; &c.
+
+(f) *प्रजा and मेधा under similar circumstances drop their आ and take अस्; as अविद्यमाना प्रजा यस्य अस्तो अप्रजाः having no progeny, दुष्टा प्रजा यस्य स दुष्प्रजाः having bad progeny, शोभना मेधा यस्य स सुमेधाः of good intellect; similarly दुर्मेधाः, अमेधाः.
+
+§ 255. (a) † धर्म when preceded by a single member in a Bahuvrīhi becomes धर्मन्; कल्याणी धर्मः यस्य स कल्याणधर्मा; similarly समानधर्मी ( see Māl. Māḍ. Act. I Intro. ); but परमः स्वः धर्म यस्य स परमस्वधर्मा;; परस्परधर्मी may also be correct if परस्पर be regarded as one word compounded in a Karmadhāraya. संहिष्णुतात्पर्यधर्मी, तिलुचिषधर्मी, अत्रनिष्ठतिधर्मी are to be similarly explained.
+
+(b) धनुस् at the end of a Bah. becomes धन्वन्, as अजिज्यं धनुरस्य स अजिज्यधन्वा 'one whose bow is strung'; so शार्ङ्गधन्वा ( शृङ्गस्य इदं शार्ङ्गं ) 'one whose bow is made of horn'; i. e. the god Vishṇu. This change is optional when the whole compound is a name; शातधन्वा-धुः.
+
+(c) Similarly जन्भ 'a tooth,' 'food,' &c. becomes जन्भन् when preceded by शु, हरित, शुभ्र or सोम; as शोभनः जन्भः अस्य शुजन्भा one having beautiful teeth; similarly हरितजन्भा m.; पूर्णं भक्ष्यं यस्य, हृण्यमिव दन्ता यस्येति वा पूर्णजन्भा, सोमजन्भा one whose food is the holy soma juice; but पतितजन्भाः.
+
+(d) The word इर्म n. a wound, preceded by दक्षिण becomes इर्मन् when the wound is inflicted by a hunter; दक्षिणे इर्म यस्य दक्षिणेर्मा हरः a stag wounded on the right side by a hunter. See Bhaṭṭi VI. 44.
+
+---
+
+## Footnotes
+
+* नित्यमस्त्रिच् प्रजामेधयोः । Pāṇ. V. 4. 122.
+† धर्मादिनिचु केवलात् । Pāṇ. V. 4. 124. धनुरप्रच् । अः सञ्ज्ञायाम् । जम्भा शुहरितशुभ्रसोमेभ्यः । दक्षिणेर्मा लुब्धयोगे । Pāṇ. V. 4. 132, 133, 125, 126.

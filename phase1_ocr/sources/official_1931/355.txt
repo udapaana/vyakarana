@@ -1,42 +1,70 @@
-[Internal page: 341]
+[Internal page: 355]
 
-§ 548-549 ]          CONJUGATION OF VERBS.                   341
+§ 575-578 ]          CONJUGATION OF VERBS.                   355
 
-tnted for the long one (र् and ऋ being shortened to इ, and औ
-and भै to उ ).
+§ 576  Roots of the 8th class ending in त् or त् drop their
+nasal and substitute optionally यास् and त् for the terminations
+हृष्ठाः and हृष् of the 2nd and 3rd person sing.  Âtm  हृत्
+lengthens its vowel after dropping त्. Ātm.
 
-The base so modified is then reduplicated according to the
-general rules; शाच्य ( Cau  B  of छ् ) =शाद-शूद-शद्द् after
-reduplication; चकम् ( from कम् )=कम-पक्त-चक्कर्.
+§ 577.  The vowel of ऊर्ण् takes Vrddhi optionally in the
+Parasm,  i e optionally takes Guṇa substitute; also it option-
+ally remains unchanged before इ ( Vide § § 466, 518 ).
 
-( b ) इ is substituted for the अ of the reduplicative syllable if
-the vowel following it is short, or of the base if the vowel long; the
-इ of the reduplicative syllsble is lengthened if not followed by
-a long syll. or a conjunct consonant; thus चक्षम्-विक्षम्-वीक्षम्;
-चिचित्-चिचित्; त्रकर्-चत्रकद्-चित्रकद्, the इ is not lengthened
-as it is followed by a conjunct consonant; स्पुर्-स्पुस्पुर् only,
-as प is followed by a syllable prosodially long.
+§ 578.  The अ of कृत्तत् is optionally dropped in the Aorist;
+consequently it takes the Sixth and the Fifth Varieties.
 
-( c ) Roots having a penultimate ऋ, short or long, optionally
-preserve it, the long ऋ te ng changed to the short one; यदत्
-causal base वर्तय-वर्तय after cropping अय and वदत् by this: वर्त्-
-चुद्-वुद्-विवर्द्-शीचद्; कुत्-कोत्तय-कोत्तद् and कुत् by this; कात्-
-विकोत्; कूत्-वाहद्.
+                     PARADIGMS.
 
-( d ) To the base so prepared the augment अ is to be prefixed
-and the terminations added; अविक्षमत् from ऋ; अचीकमत् from
-सघुम्; अचीचित् from चित्; अविचर्द् or अचविर्द्त् from चर् ; अविकोत्य्त् from
-स्पुर्; अस्पुस्पुरत् from स्पुर्; अचविर्द्त्, अचविकत्त्य् from हृद्,
-अविकोत्त्य्,अचविकुत्त् १†,वुद्;अस्पुस्पुद्,वेछुद्यद्त् from हूद्,&c.
+                       कृण्
+                     Parasm.
 
-N. B.  The Ātm.  form in ऋ when no: given should be
-supposed to bs understood.
+         1 और्णीषम्      और्णीष्व        और्णीष्म
+         2 और्णीः        और्णीष्टम्      और्णीष्ट
+         3 और्णीत्        और्णीष्टाम्      और्णीषुः
+1 और्णविषम्  और्णविष्व   और्णविष्म  और्णविषम   और्णविष्व   और्णविष्म
+2 और्णवीः   और्णविष्टम् और्णविष्ट और्णवीः    और्णविष्टम् और्णविष्ट
+3 और्णवीत्  और्णविष्टाम् और्णविषुः और्णबीत्   और्णविष्टाम् और्णविषुः
 
-§ 549.  Bases with initial vowels:—
+                       Ātm.
 
-( a ) If a root begins with a vowel and ends in a single con-
-sonant, the consonant is reduplicated and इ added to it in the
-reduplicative syllable: शद्-शौ-पद्-स्पौविद्द्त्; आद्छू-आप्जर-आपजिहूद्त्; &c.
+         1 और्णीषि      आर्णीष्वहि      और्णीष्महि
+         2 और्णीष्ठाः    आर्णीषाथाम्     और्णीढ्-त्ृम्
+         3 और्णीष्ट      आर्णीषाताम्     और्णीषत
+         1 और्णविषि     आर्णविष्वहि     और्णविष्महि
+         2 और्णविष्ठाः   आर्णविषाथाम्    और्णविष्ध्वम्
+         3 और्णविष्ट     आर्णविषाताम्    और्णविषत
 
-( b ) If it ends in a conjunct consonant with द्, इ or द् for
-its first member,  the second member of the conjunct is redupl-
+तरिष्ट-अतरिदिषम् , अतरिदीव्    ताय्—आतायिषि , आतायिव् , अतानिः
+जन्-अजनिषि : अजनिट , अजनिः    चर्-अजनाष्ट , अजोनिष्ठ , अजनि.
+चिण्-अचेणीषम् 1 sing. Par.       अवृत् 2 & 3 sing. Ātm.
+  अचेणिषि   1  sing.  Ātm.
+  अचेणीष्ठाः, अचेणीषाः अचेणीष्ट,   चर्-अचारिषम् 1 sing.
+  अचेण 2 & 3 sing. Ātm.           अचत्संथा, अचर्त 2 & 3 sing.
+गुण-अगुणीषम्  1 sing.  Par.       स्-अचारिषम् , अबनिषम् 1 sing.
+  अगुणीषि    1  sing.  Ātm.       Par. Âtm, अवर्णीः अवर्णिः 2 sing.
+  अगुणीष्ठाः, अगुणीषाः अगुणीष्ट,   अवर्णीत्, असूर्तीःत्, 3 sing. Ātm.
+  अगुण 2 & 3 sing. Ātm.
+तुष्-अतुणीषम्  1 sing.  Par.       स्-असारिषम् , अवनिषम् 1 sing.
+  अतुणीषि  1  sing.  Ātm.         Par. असारिति 1 sing.  Ātm.
+  अतुणीष्ठाः, अतुणाठाः अतुणीष्ट,   अबर्णीत्: असबाद् अवरिठ्,
+  अतुण 2 & 3 sing. Ātm.           असत् 2 & 3 sing. Ātm.
+
+     ( 6 ) THE BENEDICTIVE ( आशीर्लिङ्ग ).
+
+§ 579.  The Parasmaipada terminations of this mood may
+be obtained by prefixing पार्ष to those of the Imperative after
+dropping its final स् before स्त् and त् of the 2nd and 3rd per.
+sings.; and the Ātmanepada ones by prefixing स् to the
+terminations of the Âtm.  Potential and also to the त् and थ्
+occurring in them.  These, therefore, are:—
+
+           Parasm.                          Âtmane.
+
+1 यासम्     यास     यास्म            1 सीय      सीयाहि     सीमहि
+2 याः       यास्तम्  यास्त             2 सीष्ठाः   सीयास्थाम्   सीध्यम्
+3 यात्       यास्ताम्  यास्ःः           3 सीष्ट     सीयास्ताम्   सीरन्
+
+(a) Parasmaipadā.
+
+§ 580. The Par. terminations are weak and therefore occasion

@@ -1,21 +1,20 @@
-[Internal page: 165]
-अव्ययीभावः                                                           165
+[Internal page: 182]
+182                                     SANSKRIT GRAMMAR.                         [ § 307
 
-षष्ठ्यादनुकर्षे पौर्वापर्ययुप्पदे च स्याद्विभक्तित्वात् ।
+termination ) the preceding अ is changed to इ ; साबिका, कारिका, &c; the words मानुष, नरक, and those ending in the Tad affix त्य with क suffixed to it, changed their अ to इ similarly; मानिका, नराद् क्रायति calls out to इति नरिका, द्राक्षणास्पिका, इहत्यिका a woman of this place.
 
-प्रातिकूल्येऽनुषङ्गः स्यात्कार्यसिद्ध्यनुकारिता ।
-आधिक्ये सप्तम्या योग उपमान्तः पुनर्गुणे ॥ २७१ ॥
+Exceptions:—*The अ is not changed to इ when the क is added to the pronouns यद्‌ and तद्‌, or when it is a part of the Tad. affix त्यका, or when there is a compound, or when there is a word included in the Kshipaka group † ( क्षिपकरण ); as यका, सका, अभिमयका: ' a tableland ', उपत्यका ' the land at the foot of a mountain ', बहुपरिव्राजको नगरी, क्षिपका, धुर्बका, कन्यका, &c.
 
-Obs. This is a general observation on the Avyayībhāva compounds. षष्ठी has been mentioned in the preceding section. Now, as regards the other case-relations, the Genitive is found where there is अनुकर्ष 'superiority' and in compounds with पूर्व and अपर. प्रातिकूल्य means 'opposition' or 'contradiction'. अनुषङ्ग means 'connection' or 'conjunction'. सिद्धि means 'accomplishment', and अनुकारिता is 'imitation'. When there is आधिक्य i. e. 'excess' or 'superiority', the Locative is used. उपमा means 'resemblance' and गुण means 'quality'; these are also attended with the Locative.
+( b ) ‡ अ is optionally changed to इ in the following cases.—
 
-§ 272. गमनार्थेभ्यो विभक्तितो रुट् । अनुपसर्गात् साद्यसम्पत्योर्लुक् ॥
+( 1 ) तारका ' a star', तारिका ' able to protect ', वर्णका ' a cloak, a garment,' वर्णिका ( in other cases ), वत्क-वत्त्का शङ्कुनो प्राचाद् उद्रीचां च वर्तिका; अटका ' kind of Shrāddha,' अष्टिका ( in other cases ).
 
-Obs. रुट् is a technical name for the first member of a compound being in the Accusative. After roots meaning 'to go' with a preposition prefixed, the first member is in the Accusative. But when सा (with) is prefixed, the compound has the sense of accomplishment, and the Accusative is dropped. Similarly, when अनु is prefixed, the sense being 'conformity', the Accusative is dropped.
+( 2 ) सूतिका-सूतका, a woman recently delivered; सुत्रिका or सुप्रका, इन्द्राड्का or इन्द्रारिका, a goddess.
 
-Examples:— अनुगङ्गम् 'along the Ganges', प्रतिकूलम् 'against the current', समुद्रम् (not समुद्रम्) 'along with the ocean' (सम्+उदन्), अनुरथम् 'after or according to the chariot'.
+( 3 ) when the क follows upon the fem. termination आ shortened to अ and is preceded by य or क; as आर्यां+क=आर्यक+आ=आर्यिका or आर्यका; चटका+क-चटकक+आ=चटकिका or चटकका &c. but संकाचये महा सांकादिमका, अदिका, धुमैभयानि धुमैभया; अज्ञाता धुमैभया: धुमैभयिका.
 
-§ 273. विभक्त्यलोपे सम्पन्नार्थे लुक् ।
+* न यास्मौ । Pān. VII. 3. 45. स्वकनभ्र निषेधः । क्षिपकादीनां च । Vārtikas.
 
-When the case-ending is not dropped, and the compound has the sense of 'accomplishment' or 'completion', the Accusative sign is dropped.
+† The following words are included in the क्षिपकरण:—क्षिपकु ' an archer.' धुत्रक, चरकु ' a spy,' सेवक, करकु ' a kind of bird, hail,' चटक; अबक ' a kind of plant,' इटुक, अलक, कन्यका, and पट्टक.
 
-Example:— सजलम् 'together with water', समुद्रम् 'along with the ocean'.
+‡ तारका ज्योतिषि । वर्णका तान्तवे । वत्त्का शङ्कुनो प्राचादि । सूतिकासु-निकासन्दाकाणां वेति वत्कब्यम् । Vārtika. सुत्रिचामातः स्थाने यकपुवियाः Pān. VII. 3. 46. यात्मन्तयकोरस्तु निषेयम् । Vārtika.

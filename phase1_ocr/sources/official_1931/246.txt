@@ -1,35 +1,39 @@
-[Internal page: 232]
+[Internal page: 246]
 
-232                    SANSKRIT GRAMMAR.                [ § 373
+246                    SANSKRIT GRAMMAR.                    [ § 393
 
-ज्योक् Soon.                        नकिम्
-झटिति  }                            नकिर्      Not so.
-झङ्गिति } Quickly, at once.         नक्तम् By night.
-तद् Therefore.                      न Nor.
-ततस् Therefore, consequently.      नवरम् But.
-तत्र Then, in that case, &c.        नह     }
-तदा Then, at that time, in that    नहि     } Not so, not at all.
-    case.
-तदानीं Then, at that time.         नाना In various ways, distinct-
-नथा So, in that manner, as             ly, separately.
-    surely as.                      नाम By name; indeed, certain-
-तयाहि As for instance, to be           ly, probably, perhaps.
-    more plain, &c.                 निकषा Near, close by.
-तस्मात् From that therefore.        निकामम् Very much, exceeding-
-तर्हि Then, at that time.               ly,  to  one's  satisfaction,
-ताव In the first place, &c.             agreeably to desire.
-तिरस्    } Crookedly, across, in-   दूतम् Certainly, assuredly,
-तियंकु   } directly, badly.              most probably.
-तूष्णीम्  } Silently,  without      नो Not.
-तूष्णीम्  } speaking or noise.      परम् Then, over, out of.
-तेन By that, on that account.       परस्य: Day after to-morrow.
-दिवा By day.                        परित: Around, on all sides, all
-दिष्ट्या Fortunately, luckily.           round.
-                                    परेयुवि  } The other day,
-दुस्तम्           Ill, wickedly.    परेयु:    } to-morrow.
-दूरम् To a distance, deeply,        पर्यांस् To one's satisfaction,
-    highly.                              sufficiently; willingly.
-दोषा At night.                      पश्चा Well, behold ! see !
-शाकु   } Quickly, forthwith,        पश्चाद् Behind, backwards,  at
-शाड्   } immediately.                    last, afterwards.
-धुवं Certainly.                     पुनः Again.
+                          Potential.
+
+1. तुष्येयम्    तुष्येव      तुष्येम       युध्येय     युध्येवहि     युध्येमहि
+2. तुष्येः     तुष्येतम्    तुष्येत       युध्येथाः   युध्येयाथाम्  युध्येध्वम्
+3. तुष्येत्    तुष्येताम्   तुष्येयुः     युध्येत     युध्येयाताम्  युध्येरन्
+
+                          6th Class.
+
+                   क्षिप् P. Â. ' to throw.'
+
+    P.              Present.                A.
+
+1. क्षिपामि    क्षिपावः    क्षिपामः      क्षिपे      क्षिपावहे     क्षिपामहे
+2. क्षिपसि    क्षिपथः    क्षिपथ       क्षिपसे     क्षिपेथे      क्षिपध्वे
+3. क्षिपति    क्षिपतः    क्षिपन्ति     क्षिपते     क्षिपेते      क्षिपन्ते
+
+                          Imperfect.
+
+1. अक्षिपम्   अक्षिपाव   अक्षिपाम     अक्षिपे     अक्षिपावहि    अक्षिपामहि
+2. अक्षिपः   अक्षिपतम्  अक्षिपत      अक्षिपथाः अक्षिपेथाम्   अक्षिपध्वम्
+3. अक्षिपत्  अक्षिपताम् अक्षिपन्     अक्षिपत    अक्षिपेताम्   अक्षिपन्त
+
+                          Imperative.
+
+1. क्षिपाणि*  क्षिपाव    क्षिपाम      क्षिपै      क्षिपावहै     क्षिपामहै
+2. क्षिप      क्षिपतम्   क्षिपत       क्षिपस्व    क्षिपेथाम्    क्षिपध्वम्
+3. क्षिपतु    क्षिपताम्  क्षिपन्तु    क्षिपताम्   क्षिपेताम्    क्षिपन्ताम्
+
+                          Potential.
+
+1. क्षिपेयम्  क्षिपेव    क्षिपेम      क्षिपेय     क्षिपेवहि     क्षिपेमहि
+2. क्षिपेः    क्षिपेतम्   क्षिपेत      क्षिपेथाः   क्षिपेयाथाम्  क्षिपेध्वम्
+3. क्षिपेत्   क्षिपेताम्  क्षिपेयुः    क्षिपेत     क्षिपेयाताम्  क्षिपेरन्
+
+                  ' For the change of न् to ण् see § 41.

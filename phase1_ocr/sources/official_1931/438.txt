@@ -1,45 +1,44 @@
-[Internal page: 424]
+[Internal page: 438]
 
-426                  SANSKRIT GRAMMAR.                   [ § 690-692
+440                  SANSKRIT GRAMMAR.                   [ § 740-745
 
+तिवुद्धुत्युं: तिवुदुत: ( fr  वि  with हि );  शुसीदेत  अनेन  संत्रिदूयुते  घाश्या
+( fr.  धा )  चरुख:; कुपुष्यन  पाषुते  ( अनिमुत्र  सोम: )  कुपुष्यायुख:  कष्टु:;
+संद्याषैविरोर्य: संज्यास्यु: ( a  sacrifice);  परिज्ञात्युं ,  उपुत्युत्युं;  स्वयूत्युं:
+पुविष्पाषैविकायिनौकुयुं ते ( rites for depositing the  sacrificial  fire);  पनिचुत्युत् ,
+डुयुचुयुद् , तंवूत्युद् in  other  cases;  चौवते  अतीं  चिस्युत:  आद्रुते ;  अतीरे
+चयनं आश्ङाचिस्युत्.
 
-Roots            P  P. Ptc.         Roots.         P. P  Ptc.
+§ 741.  The  roots  भू  and भै take  the  affix  यत् ;  भव्य and स्था
+take अनीय;  and चत् , यु  and  पच्  take  घ्यत् ,  in an  active  sense;
+अदुर्तोतो भव्युं ( also  भव्युभुनुनं );  भायुवातो  गेव: ' one who sings'
+( also गेयुं राम अनेनै ); प्रवुचनौय: 'one who speaks' उरु , वानौय: ' one
+who stands for,' स्तुयु , पुचोय युरितिर्यै:, पात्युयुं ' food.'
 
-री  to flow, to move  रीण           जू  to grow old       जीर्ण
-ली  to melt, etc.    लीन ·          च   to tear            दीर्ण
-द्ली to go, to hold   द्लीन           नी  to lead            नीर्ण
-श्ली  to go, to move  श्लीन          पू  to fill, to gratify   पूर्ण
-धू   to shake        धून           भू  to bear, to nourish  भूर्ण
-दू   to destroy       दून ·          मू  to hurt, to kill     मूर्ण
-लू   to cut           लून           –ङ्  to choose           वूर्ण
-इ   to go            ईण            म्या to tear asunder      शीर्ण
-कू   to scatter       कीर्ण          स्तृ to scatter          स्तीर्ण
-यू   to utter a sound,                ज्या to grow old        जीन
-       to praise, etc.  यीर्ण
+                ( 3 ) By means of के'लिमुर् ( एलिम् ).
 
-§ 691. हू and यू 'to sound indistinctly,' substitute न for त् and
-lengthen their vowels ; हून 'gone,' गून.
+§ 742.  A  few  transitive  roots  take  the  affix  एलिमुर्  having
+the same force as the affix यु; पचेलिमु fr.  पच् , 'fit to  ripen or to
+be cooked; as पचेलिमा भावान:; भिदेलिमाः ( fr. भिद् ) स्तृम्बा: ' the pine
+tress ought  to be felled,' &c.
 
-§ 692. The following roots substitute न् for त्:—
+§ 743.  The  declension of these  Participles follows  that  of
+nouns ending in अ.
 
-Roots.         P. P. Ptc.                    Roots.         P. P. Ptc.
+            II  INDECLINABLE PARTICIPLES
 
-ङौ 4 A. to fly  ङीन. उङ्गीन                  वै to dry, to be languid   वान
-हु to torment   हून                          त्री 4 A. to move, to cover  त्राण
-धी to hold, to   धीन                         स्पि 1. P, to grow, to swell  स्पान
-   accomplish                                 स् 4. A  to bring forth.
-                                                  to produce              सून
-ली 4. A.        लीन                          भञ्ज् to break             भग्न
-मी 4 A. to give मीन                          सुज् 6 P.                  सुग्न
-   pain                                      मञ्ज् 6 P.                 मग्न
-दौ „, to perish,  दीन                        रुज् „ to break           रुग्न
-   to waste
-                                             लज् 6. A.                  लग्न
-री „, hurt       रीण                         लञ्ज् to be ashamed        „
-ह्या to go       ह्यान
-हा to abandon    हीन                         स्कन्दु—with वि            विस्कन
-                                                with परि            परिस्कन्-स्कुण
-विज्—            विग्न, उद्विग्न
-                                             विद् 4. A                 विन
-त्रुस्यु—         त्रुग्न
-स्थूर्ङ् 1. P.     स्फुर्ण
+                ( a ) Indeclinable Past Participles.
+
+§ 744.  The Indeclinable  Past Participles are  of  the  nature
+of gerunds.  They  fall under two  heads:—( 1 ) Those  derived
+by affixing  स्या to the simple  root,  and ( 2 )  Those  derived by
+means of य affixed to the  root  compounded with prepositions or
+words used prepositionally;  गस्-गत्वा  'having  gone,'  भू  with
+यश्यस्त्र ' having ' having served;' &c.
+
+        I  Indeclinable Participles formed with स्या.
+
+§ 745.  The Indeclinable  Past Participle or  gerund  in स्या  is
+formed  of all roots or  derivative verbal bases  to  which a pre-
+position ( nor a prepositional word ) is prefixed.  The affix स्या is
+of the same nature  as the त् of the Past  Passive  Participle, so

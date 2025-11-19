@@ -1,24 +1,17 @@
-[Internal page: 145]
-§ 238-239 ]                    TATPURUSHA COMPOUNDS.                    145
+[Internal page: 163]
+§ 268-269 ]                    AVYAYIBHA'VA.                    163
 
-GENERAL RULES APPLICABLE TO THE
+Exception:—(a) This change in the first member does not take place, when it is followed by an ordinal (fem.) or any of the words प्रिया, मनीषा, कल्याणी, सुभगा, भक्ति, सचिवा, स्वसा, कान्ता, प्रन्तिका, समा, चपला, द्रुहिता, वाम्, अवला and तनया; as कल्याणी प्रिया, यस्य स कल्याणीप्रियाः, पश्चमीभार्या, सुकेशीभार्या, ङुद्राभार्या, रसिकाभार्या, पाञ्चिकाभार्या, &c.; but अकेशा भार्या यस्य स अकेशभार्यः as the first word does not end in ई; पाकां भार्यां यस्य स पाकभार्यः &c.
 
-TATPURUSHA COMPOUNDS.
 
-§ 238. *The word अकुलि at the end of a Tatpurusha compound changes its final to अं when preceded by a numeral or an indeclinable, as द्वै अङ्गुली प्रमाणमस्य द्वयङ्गुलं दारु 'a piece of wood measuring two fingers,' निर्भेतमङ्गुलिभ्यो निरङ्गुलम् &c.
+IV. AVYAYIBHA'VA OR THE ADVERBIAL COMPOUNDS.
 
-§ 239. The following words, when at the end of a Tatpurusha, drop the final vowel, together with the following consonant if there be any, and add अ under the circumstances mentioned:—
+§ 268. An Avyayibhāva comp. consists of two members the first of which is, in most cases, an indeclinable (a preposition or an adverb) and the second a noun, the whole being treated like the Nom. sing. of neu. nouns. the comp so formed is indeclinable; e. g. अधिहरि 'in Hari'; अन्तार्गिरि 'in a mountain,' &c.
 
-(a)† रात्रि when preceded by a numeral, an indeclinable, a word expressive of a part of the whole, such as पूर्व, अपर, &c., or by the words सर्व, संख्यात and षुण्यः as द्वयोः रात्र्योः समाहारः द्विराश्र an aggregate of two nights (Dwi.); अतिक्रान्तो रात्रिमति-रात्रः that has passed a night, the dead of night; पूर्वं रात्रेः पूर्वरात्रः the first part of the night; सर्वां रात्रेः सर्वरात्रः, सर्वैरात्रः संख्यातरात्रः; संख्यातरात्रः; षुण्यरात्रः an auspicious night.
+§ 269. In forming the Avyayibhāva compounds the following rules should be observed:—
 
-The same happens when रात्रि is preceded by अह्न in a Dwandwa; as अह्नश्च रात्रिश्च अहोरात्र.
+(a) The final long vowel is shortened, and the ending ण or र् is changed to इ and औ to उ; गोपायति गां: पातीति वा गोपाः । तत्स्मिन्नति अधिगोषम्, अनविष्णु after Vishnu, उपय near a cow, &c.
+(b) †The final न of mas. and fem. nouns in अन् is dropped; and optionally that of neuter nouns ending in अन्; उपराज्ञम्; उपचम्भर्म-र्मं.
 
-(b)‡ राजन्, अहन् and साक्षि; as परमः राजा परमराजः a great king; महाराणां राजा महाराजः, उत्तमं अहः उत्तमाहः an excellent day, एकं च तद्धः एकाहः; द्वयोरहोः समाहारः द्वयहं, so त्र्यहं; सप्ताहं; &c. षुण्यं अहः षुण्याहं a holy day, सुदिनाहम्, (vide § 245, b.), कृणस्य सक्षा कृणासक्ष; &c.
-
-(c) Exceptions§—अहन् when preceded by an indeclinable, or a
-
-* तत्पुरुषस्याङ्गुल्युंलः संख्याव्ययादेः । Pān. V. 4. 86.
-† अहः सर्वैकदैश्चासंख्यातषुण्याञ्च रात्रेः । Pān. V. 4. 87.
-‡ राजाहः साक्षिष्यष्टच । Pān. V. 4. 91.
-§ अव्ययेऽद् एतैभेक्रः । Pān. V. 4. 88.
-H. S. G. 10.
+* क्षौत्त्रविवक्षायां तु इहाभक्तिः । Sid. Kau. लिइकूविशेषविवक्षायां तु इहाभक्तिरित्यादि-सिद्धच्चै पियादिछु भक्तिशब्दभाट: । Tb.
+† अनश्र । नपुंसकादन्यतरस्याम् । Pān. V. 4. 108, 109.

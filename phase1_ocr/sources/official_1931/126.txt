@@ -1,43 +1,14 @@
-[Internal page: 108]
-108                    SANSKRIT GRAMMAR.                    [ § 163-166
+[Internal page: 126]
+126                    SANSKRIT GRAMMAR.                    [ § 211
 
-सप्तति, अशीति and नवति form their ordinals in the first way
-only; as एकषष्टः or एकषष्टितमः, but षष्टितम only. शत has invari-
-ably शततम.
+ending in तृ and अक and denoting the agent of the action; अर्थं दद्या and not अर्थदद्या; घटस्य कर्ता, सोदनस्य पाचकः &c.; but इष्यूणां भक्षणिका as the अक here does not denote the agent.
 
-DECLENSION OF THE NUMERALS ( CARDINALS AND ORDINALS )
+Exception*.—But a compound is allowed in the case of the words यज्ञक one who employs as sacrificing priests, पूजक, परि-ञ्चारक, परिदेषक a waiter at meals, स्नापक a servant who bathes his master or brings bathing water for him, अध्यापक, उत्सादक one who destroys, हेतु, भर्तृ, when it does not mean 'a holder,' and others not very important: त्राक्षणयाजकः, देवपूजकः; राजपरि-चारकः &c.; अग्निहोता, स्योर्ता, &c. but वृत्रस्य भर्ता 'the thunder bolt-bearer'.
 
-§ 164  एक ( एका fem.), द्वि ( द्वा fem. ), त्रि ( तिस्र* fem. ), and
-चतुर् ( चतस्र fem. ), are all adjectives and takes the gender, num-
-ber and case of the nouns they qualify.
+(b)† A specific Genitive (i. e from which a singling out is made) is not compounded with any other words, as वृणां द्विजः भेङः
 
-§ 165.  एक is declined in the sing. ( though it may have the
-dual and plural also ), and द्वि in the dual alone. For further
-particulars see § 154.  त्रि and चतुर् are declined in the plu
-alone. E. g.
+(c)‡ A noun in the Genitive is not compounded with ordinal numbers, words denoting qualities, words implying satisfaction present participles, past participles meaning 'honoured or approved of' or showing the place of the act, verbal indeclinables and verbal nouns ending in तव; e. g. सर्वं पञ्चः त्राह्मणस्य झुङ्ञः (रन्तः); कांस्य काणर्व; फलानां सुहितः 'satisfied with fruits' (an Inst. Tat. is, of course, allowed in these cases); हितस्य कुर्वेँ कुर्णो वा किकुरः; सर्वं मत: esteemed by the good; राज्ञौं पुजितः इदर्ना आसितं (place of sitting) गर्तं सुक्तं वा; ब्राह्मणस्य छत्वा, नरस्य कर्तव्यम् &c.
 
-        त्रि                            चतुर्
-
-mas.        fem.                mas.        fem.
-N.    त्रयः        तिस्रः    N.    चत्वारः        चतस्रः
-A.    त्रीन्        ,,       A.    चतुरः        ,,
-I.    त्रिभिः        तिसृभिः  I.    चतुर्भिः        चतसृभिः
-D. Ab. त्रिभ्यः    तिसृभ्यः D. Ab. चतुर्भ्यः    चतसृभ्यः
-G.    त्रयाणाम्    तिसृणाम् G.    चतुर्णाम्        चतसृणाम्
-L.    त्रिषु        तिसृषु   L.    चतुर्षु        चतसृषु
-
-                    neu.
-        त्रि                            चतुर्
-N. V. A.    त्रीणि            N. V. A.    चत्वारि
-The rest like the mas.            The rest like the mas.
-
-§  166.  पञ्चन्—नवद्विषत्. These are also adjectives agreeing
-in case with the nouns to which they are applied. They are
-declined in the pl. and are uniform in all the three genders.
-
-            पञ्च        षष्        अष्टन्
-N V. A.    पञ्च        षट्-ड्        भष्टन्
-I.        पञ्चभिः        षड्भिः        अष्टभिः-अष्टाभिः
-Dat. & Ab. पञ्चभ्यः    षड्भ्यः        अष्टभ्यः-अष्टाभ्यः
-
-* त्रिचतुरोः स्त्रियां तिसृचतसृ । Pān. VII. 2. 99.
+* राजकादिभेक्ष्रः । Pān. II. 2. 9.
+† न निर्धारणे । Pān. II. 2. 10.
+‡ पुरायणाङुरहिताप्रस्सदव्यसमाना घेकरणेन । केन च पूजायां अभि-करणवाचिना च । Pān. II. 2. 11-13. The prohibition with respect to a word expressive of a quality (गुण) is not obligatory, remarks Dikshita; as Pān. himself uses such compounds as संत्राग्यमणाब &c. Hence compounds like अर्थेगौरवम्, झुद्धिमान्चम्, &c. are justified (अनिलोगे यणेन निषेध. तदृषेष्यं संत्राग्यमाणत्वादिदयादिनेदर्शात् । तेनार्थेगौरवं झुद्धिमान्यसेत्यादि सिद्धम् ।).

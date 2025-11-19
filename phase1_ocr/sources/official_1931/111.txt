@@ -1,43 +1,39 @@
-[Internal page: 93]
-§ 135-138 ]        PRONOUNS AND THEIR DECLENSION.                    93
+[Internal page: 111]
+§ 171-176 ]        DEGREE OF COMPARISON.                    111
 
-Fem.
+विद्वस्-विद्वत्तर, विद्वत्तमः; प्राच्-प्राक्तर, प्राक्तमः; धनिन्-धनित्तर, धनित्तमः
+धर्मीयस्—धर्मीयस्तर, धर्मीयस्तमः; यश् - यश्तर, यश्तमः, &c; आति-आतितर
+आतितमः; उद्-उत्तर, उत्तम, &c.
 
-N   असौ        अमू        अमूः
-A   अमुम्       ,,         ,,
-I   अमुया       अमूभ्याम्    अमूभिः
-D   अमुष्यै      ,,         अमूभ्यः
-Ab. अमुष्याः     ,,         ,,
-G.  ,,         अमुयोः      अमूषाम्
-L.  अमुष्याम्    ,,         अमूषु
+§ 172.  Before these the final ई and ऊ of a prātipadika are
+optionally shortened, e g  श्रीतरा or श्रित्रा, श्रीतमा or श्रित्मा;
+घेष्ठरा ( more lame ) or घेष्ठुरा, घेष्ठतमा, घेष्ठुतमा, &c.
 
-Neu.
+§ 173.  तर and तम when attached to verbs, and indeclinables
+forming adverbs, assume the forms of तराम् and तमाम्*; पत्तरितराम्, पत्तितत्तमाम् ; उच्चैस्तराम् ; उच्चैस्तमाम् ; नितराम् नितमाम् ; or सुतराम्
+&c ; but उच्चैस्तरः adj. ( higher )
 
-N. & A. अदः     अमू        अमूनि
-The rest like the mas.
+§ 174.  ईयस् is another termination of the comparative degree
+and ईष् of the superlative.  These are added  to adjectives of
+quality only †   Before these the last vowel of a word with the
+following consonant if any is dropped; e g. लघु-लघीयस् , लघिष्ठ ;
+यट्, पटीयस् , पटिष्ठ; महत् महीयस् , महिष्ठ; &c. but पाच्कतर, पाच्कतम
+only.
 
-§ 136   The following couplet ( Kārikā ) gives a rule for th
-correct use of these pronouns :—
+§ 175.  The possessive affixes at the end of words and the
+affix न्  are dropped before ईयस् and ईष्‡ and then these
+terminations are applied subject to the above rule;  e. g. मतिमत्
+talented  मतीयस् , मतिष्ठ; मेधाविन्-मेधीयस् , मेधिष्ठ; धानिन्-धनीयस्-
+धनिष्ठ. कृते-करीयस् , कारिष् ( अतिशयेन कर्तो ); स्तोढ-स्तवीयस् , स्तविष्ठ;
+so स्रजीयस् , स्राजिष् from स्रग्विन् one having a garland &c.
 
-इदमुत्तु सन्निकर्षं सर्वपततवीति चैतद्रो रूपम् ।
-अदस्तु विप्रकृष्टं तत्द्रेति परोक्ष विजानीयात् ॥
+§ 176.  § र is substituted for the ऋ ( short ) of a base
+preceded by a consonant before ईयस् , ईष् and the Tad aff.
+इमन् e. g.
 
-इदम् is used with reference to a person or thing near at hand
-and एतद् to one nearer still ; अदस् is used of a person or thin
-at a distance, while तद् is used of one that is absent.
-
-§ 137.  The optional forms of इदम् and एतद् in the Acc
-Inst. Sing. and Gen. & Loc. Duals are to be used when the
-is anvādes'a* i. e. their proper forms have already been used i
-a previous clause; e. g. अनेन व्याकरणमधीतं एनं छन्दोऽध्यापय '
-has studied grammar, teach him prosody,' अनयोः पतित्रं कुरु
-एनयोः प्रस्तं स्वस्व , 'The family of them both is pure, and the
-wealth ample.'
-
-3—The Relative Pronouns.
-
-§ 138.  The pronouns यद् 'who, which'; mas. fem. and ne
-mas. base य; fem. base या.
-
-* किञ्चित्कार्यं विषाङ्कुमुपात्तस्य     कार्यान्तरं विषाशू     पुनरुपादानमन्वादेशः
-Sid. Kau.
+* किमेतिङ्ङन्यङ्घ:दाम्न्द्रव्यप्रकुषै । Pān V. 4 11. आपु is added
+to तर and तम after क्रिय , or a word ending in ए or a subanta or
+unantá ( तिङ्न्त ) except when they form adjectives.
+†  अजादी ( i. e. ईयस् and ईष् ) गुणवचनादेव । Pān. V. 3. 58.
+‡  विनमतेह्वृक । सुरिष्ठेमेयु घ । Pān. VI  4, 154.
+§  र ऋतो हलादेः।Pān. VI. 4. 151

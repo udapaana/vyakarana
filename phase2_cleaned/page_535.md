@@ -1,0 +1,53 @@
+---
+page_number: 535
+internal_page: 535
+chapter: "Appendix - Prosody"
+section: "prosody"
+rules_starting: ["§ 1", "§ 2", "§ 3", "§ 4", "§ 5"]
+rules_continuing: []
+has_footnotes: true
+---
+
+PROSODY. *
+
+§ 1. ‡ Poetical composition in Sanskrit may be in the
+form of 'युयु' prose, or 'युयू' verse or metrical composition.
+
+§ 2. Prosody treats of the laws of versification or metri-
+cal composition. Sanskrit verse is regulated by quantity, not
+by accent.
+
+§ 3. A युयू or stanza consists of four lines each called a
+pāda or quarter. A pāda is regulated either by the number of
+syllables (अक्षुरु) or by the number of syllabic instants (युयूत्रुयू).
+
+(a) A syllable is as much of a word as can be uttered
+distinctly by one effort of the voice †. e. a single vowel with
+or without one or more consonants.
+
+(b) A mātrā (युयूत्रुयू) is the measure of time required to
+pronounce a short vowel.
+
+§ 4. A syllable is छुयु 'light,' or युयू 'heavy' according as
+its vowel is short or long.
+
+(a) The vowels अ, इ, दु, कु and लु are short; and the
+vowels आ, ई, ऊ, कू, ए, ओ, औ, and औ are long. ‡ When a short
+vowel is followed by an anusvāra or Visarga or by a conjunct
+consonant, it is converted into what is called 'a prosodially
+long vowel;' as युयू, अच्छुयु, &c.
+
+§ 5. The last syllable of a pāda is either heavy or light
+according as the exigence of the metre requires it, whatever be
+
+---
+
+* The earliest writer on Prosody is Pingalāchārya His word
+is known as "The Pingalachhandas-śāstra." It is written in
+Sūtras and is divided into eight books. The Agni Purāṇa also
+deals with the subject very fully. The present chapter, however,
+is chiefly based on the Vṛittaratnākāra and Chandomanjari.
+
+† कुयूयूयुनुयुयूयुनै च युयूयूनै च तद्युदुशुयूच्युयु च्युयुयुस्युरुयूनुयूयु । Dandin Kāv. Pr. I.
+
+‡ सुयूदुच्युयूयूयू दोरोयुयूनै निरुयूयूर्णों च दुयूत्युनैदुदुयु ।

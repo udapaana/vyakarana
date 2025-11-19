@@ -1,40 +1,15 @@
-[Internal page: 112]
-112                    SANSKRIT GRAMMAR.                    [ § 176-177
+[Internal page: 130]
+130                    SANSKRIT GRAMMAR.                    [ § 216
 
-हृश thin'        comp. हृशीयस्        superl. हृशिष्ठ
-दृढ 'strong, firm'    ,,  दृढीयस्        ,,    दृढिष्ठ
-परिदृढ 'head, chief'  ,,  परित्रढीयस्      ,,    परित्रढिष्ठ
-पृथु 'broad'      ,,  पृथीयस्        ,,    पृथिष्ठ
-भृश 'much'        ,,  भृशीयस्        ,,    भृशिष्ठ
-मृदु 'soft'        ,,  मृदीयस्        ,,    मृदिष्ठ
+outside the pale of his own village; so कूपे-उदुपान-मण्डूकः; उदुम्बरइमि-मशकः lit. an insect in the fruit of the Udumbara tree; metaphorically it means the same as कूपमण्डूकः; हूपकच्छपः &c. In some cases there is an aluk of the Loc.; as शैद्रूरः 'a boasting coward', गेहेन्माढः 'a braggadocio'; गेहोनर्दी 'a house-hero', 'a carpet knight', पाच्वेकुशलः 'clever in eating only' i. e. 'a good-for-ncthing fellow', पाञ्चेवलित्तः; गोष्टेकूरः; गोष्टेविज्ञर्यीः; गेहेग्रृष्टः, &c.
 
-§ 177.  The following is an alphabetical list of the irregular
-comparatives and superlatives that are commonly met with:.
+Note:—Words of this class do not enter into further combination with other words.
 
-    Positive            Comparative        Superlative
-अन्तिक 'near'*         नेदियस्            नेदिष्ठ
-अल्प 'little'†         अल्पीयस्            अल्पिष्ठ
-                    कनीयस्            कनिष्ठ
-उरु 'wide'†          वरीयस्            वरिष्ठ
-क्षिप 'quick'§        क्षेपीयस्            क्षेपिष्ठ
-क्षुद्र 'mean,' 'small'    क्षोदीयस्            क्षोदिष्ठ
-युरु 'heavy'         गरीयस्            गरिष्ठ
-त्वम् 'restless or anxious'  }  त्वरीयस्            त्वरिष्ठ
-    'satisfied'        }
-दीर्घ 'long'          द्राघीयस्            द्राघिष्ठ
-दूर 'distant'         दवीयस्            दविष्ठ
-प्रशस्य 'praiseworthy' ×    श्रेयस् or ज्यायस्    श्रेष् or ज्येष्ठ
-प्रिय 'dear'          प्रेयस्            प्रेष्ठ
+(c)* with another, when they both imply a name (संज्ञा); there is an aluk of the Loc. term when the noun ends in a consonant or अ; as अरण्येतिलकाः lit 'wild sesamum yielding no oil, hence anything not answering to one's expectations;' similarly चनेकसरुकाः; स्वाचित्सारः 'a bamboo' (also स्वकुत्तारः, vide Si. IV. 61.). These compounds are nitya (obligatory) as remarked by Bhattoji (वावधेन संज्ञानवभमाद्रियसमाबोयम्).
 
-* अन्तिकञ्ञाढ्यर्नेदृसाधौ । Pān. V. 3  36.
-† युवाल्पयोः कननन्यतरस्याम् । Pān. 3. 64.
-‡ प्रियार्थरिकिरउरुब्रह्मरुट्डुरुष्रुत्दुर्भमर्ये        प्रथमपं
-दैहिगर्तिन्यपदग्रषिह्न्दराः । Pān. VI. 4  157. प्र, स्थ, स्फ, दुर &c. a
-substituted for प्रिय, स्थिर, स्फिर, &c. respectively.
+(d) with potential p. participles in य implying an obligation; मासिदेयं (ऋण); पुत्रोदेयं (साम); the aluk by § 217 (b) below.
 
-§ स्थुलइश्वरवन्तह्वस्वेक्षिभुश्ख्रमाणां यणादिषर्वं प्रवेस्य च गुणः । Pān. VI
-156. The words स्थूल &c. drop their final portion beginnin
-with यण् ( य् , र् , न् or व् ) and the preceding vowel takes guṇa
+(e)† with p. p. participles when it expresses a part of the day or night; तद may take the place of the Loc.; as पूर्वाहे छन्नं पूर्वाहृछन्नं; अपराह्नेछन्नः तत्रश्च्छुत्कम् &c; but आह्ने इदं; and with the p. p. participles when reproach is implied, with an aluk of the Loc; as 'अवतसेनकुलास्येर्तं तवेतद् ' 'this thy action is similar to that of a mungoose on the hot ground.' अवतसैनकुलास्थितं is used to express the inconstancy of a person.
 
-×प्रशस्यस्य श्रः । ज्य च । टुट्स्य च Pān. V. 3. 60-62.
-बहोल्पोपै यू च बहोः । इष्यस्य सिद च । Pān. VI. 4. 158-159.
+* संज्ञायाम् । इछदन्तात्सम्यः संज्ञायाम् । गविसुग्रियधाः स्थिरः । Pān. II I. 44. VI. 3. 9. VIII. 3. 9. 5.
+† केनाहोरात्रुयवाः । तत्र । क्षेपे । Pān. II. 2. 45-47.

@@ -1,0 +1,48 @@
+---
+page_number: 387
+internal_page: 387
+chapter: "Conjugation of Verbs"
+section: "conjugation-of-verbs"
+rules_starting: ["§ 638"]
+rules_continuing: ["§ 637"]
+has_footnotes: false
+---
+
+
+follow the conjugation of the special base of a root of the 3rd
+class, इ is optionally prefixed to the terminations of the singulars
+of the Present, of the 2nd and 3rd singulars of the Imperf.
+and of the 3rd sing of the Impera; when इ is prefixed to these,
+a penultimate short vowel does not take Guṇa; दृर्-दादृति or
+द्रादृति; द्रुर्-चवर्ति or चरिवर्ति or चरीवर्ति or चवेतीति or चरिवुतीति or
+चरीवृतीति, कृ-चकर्ति or चकरीति, चरिक्ति or चरिकरीति, चरीकृति
+or चरीकरीति.
+
+§ 638 As regards the formation of the Non-conjugational
+tenses grammarians seem to be at variance, The Perfect follows
+the usual rules for the polysyllabic roots. In the remaining
+tenses the augment इ is always prefixed except in the Benedictive.
+
+As this form of the Freq. is mostly confined to the Veda
+details are not given here.
+
+
+                       Paradigms.
+
+           बोभू or बोभव् from the root भू.
+
+     Present.                          Imperfect.
+
+1 बोभोमि or    बोभुवः    बोभुवः    अबोभवम्    अबोभूव    अबोभूम
+  बोभवामि
+2 बोभोषि      बोभूथः    बोभुथ     अबोभो: or  अबोभूतम्  अबोभूत
+  or बोभवीषि                        अबोभवीः
+3 बोभोति      बोभूतः    बोभूवति    अबोभोत् or अबोभूताम् अबोभूवुः
+  बोभवीति                          अबोभवीत्
+
+     Imperative                       Potential.
+
+1 बोभवानि     बोभवाव    बोभवाम     1 बोभूयाम्   बोभूयाव   बोभूयाम
+2 बोभूहि      बोभूतम्   बोभूत      2 बोभूयाः    बोभूयातम् बोभूयात
+3 बोभोतु or   बोभूताम्  बोभूवतु    3 बोभूयात्   बोभूयाताम् बोभूयुः
+  बोभवीत

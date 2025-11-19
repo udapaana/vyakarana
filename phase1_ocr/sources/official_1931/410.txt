@@ -1,45 +1,33 @@
-[Internal page: 396]
+[Internal page: 410]
 
-398                  SANSKRIT GRAMMAR.                   [ § 661-663
+412                  SANSKRIT GRAMMAR.                   [ § 664
 
-           ( h ) No affixes added to certain nominal bases.
-
-§ 661.  A few nominal stems are used as verbs without the
-addition of any special affix as given above. They are called
-' कर्मण्यर्घ वर्णाः'
-
-§ 662.  The notion of ' desiring ' is expressed by adding
-a root to a root; e. g. ' to eat salt,' विष्कुप्यति = विप+यु. यु
-meaning ' to take ' or ' to desire ', so पुष्पयति, विषगर्भयति =
-विप+गृध्, similarly मुष्कर्षयति, &c.
-
-§ 663.  Verbs may be formed optionally from the words,
-स्फायति, चयायति, भूरि, and अथ by means of regular affixes, or
-without the help of any affixes as given in the last para.
-The special affixes are क्वच्, चङ्कृच् or णिङ्; so these four words
-may be used in three ways:— 1. as nominal verbs with the
-affixes added, 2. as verbs used transitively without affixes,
-and 3. as nominal verbal bases not requiring any affixes for
-their use. Thus स्फायि भाद्रये, स्फायति, स्फाययति,' to use salt.' so
-from आत्मन् we have आत्मति, मितायति, आत्मायते respectively.
-In the same way from other three also stems may be formed
-Similarly from अम्भस्, पयस्, शुद्धे we get णिङन्ति, पयस्यति,
-&c. In all these cases the root affix may be taken to be गुर्
-or किर्.
-
-§ 664.  By means of the suffixes कुय, क्रिय, णिङ् and कौय
-the sense of reproach is conveyed; e. g. स्तेनङ्कुयति, स्तेनङ्क्रियति
-means ' to call a person a thief, ' भृत्येयति means ' to call a
-person a servant;' so किंकरेयति.
-
-__________________________________________________________
-
-                   CHAPTER XIII
-
-                  CONJUGATION OF ROOTS
-
-§ 665.  In the following pages roots have been arranged
-according to their initial letters. It will be convenient to follow
-an alphabetical arrangement in stating the order in which they
-would be given in this chapter. This chapter will follow the
-following sequence.
+सोचेति ( Mah. I. 36 ) 'fearing its outrage does not abide by
+our do in truth, we (let , i. e. ) shall think ( Śak. II. 2L ); युट्-
+उद्यास्यथौ वैयुदसोक्यथौ ( S ak. V. 1 ); परिवधुर्तीः त्रयत्रेष-
+स्तीक्षार: । Hair ); पुमार्थस्यानो भवः ( कालु: ) ' if a being
+qualified breathing is there;' संसूयुते गोविन्द: ( Sak. I. 4 ); Kir. XVI
+दृहितहुते स्तसाङूगोऽ ( Sid. II.  24-  See the Rāg.  IV.  6); Kāli.
+I. 26 it occurs with परि ' to consider;' सुन्दरीपरिघ्नातां हे बुध्रुतो
+मर्त्त्या: क्वचित् संस्वुथे, सुन्द्र-पोस्थु+घुदो, हुत धूत सुवाने: त्रुव
+solemsly.' मत्तौ तिर्वै सातिते ' Affirms that sound is eternal. '
+and सुवते संसृते संश्यलौ' संश्वुतेते ' speaking about his life, ' सुनातै
+उत् भुसुवन्ते सुषट्युवासर्घयुङ घुदो, रूपा प्रसाव सुवते इत्यर्थ: सुवायसौ
+तिधेर्: बुर्दयते ' chiding '; ' ङावै सुख्युम तिष्ठ,  अपाप ह्यप्यागसौं सुव; '
+( सोध्य, मुयुसद्यसुउनैनाति ' (a hindred is yielded to them by
+तौ सुट: सुयुदुवुनेङ्काष्प ' ( द्वावर । for a hundred ), सुषेयता: स्वातेद-
+ड्वाद् ' With इष्वु it is Atm. except in the sense of ' getting or
+obtaining,' ( See Kir. XI. 15.  and Śis. XIV.  17  );  but *सुञ-
+वौधेरि, मुसुयसुउनैनाति  ' a  hundred  is yielded to them  by
+hand :' With घुष् or ' reciting for,' दीनुनाघुथु, समुग्युषेत्वत्यो
+( 1 ) ' worshipping with the recital of holy texts;' प्रत्यग्युयर्घ-
+सुद्धु+र्ध्वमेत् or ' worshipping '; but घुदुषोत्यर्घणित्यो घुदुषुयर्घ इत्यप-
+वने; b सुङुष्प्युङशोच्यते यया: Bh. VIII. 13, but आदुग्युकीत्वोर्प सुष-
+णोङुयू-र्द of ' disproving (words, &c.) ' घुषायुषोत्यर्घेणो युथु
+svocv, worshipping 'a divine being' ) सुङुष्प्युङ्शुसूत ( the Atm.
+is to be legislated; tenses Stative); Drinking, by the fact that the
+त्स्तौद be to be conidered ' worshipping by means of speech,
+डृदुषुयुवर्घ' ( Sid. Kau.) so also ' to swear solemnly for' संप्रतिथुङ
+ज्ञे तिदित्वेणोपत: ( Sid. Kau.); and (7) 'to laud to' every gol ग्न-
+द्रा पेवाष्यातिताः संघुषायुते । When used in any other sense
+it implied here with इष व base either Pada; (भेङेर्ष  सुघुसुउनैनाति
