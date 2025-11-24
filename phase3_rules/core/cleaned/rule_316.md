@@ -22,7 +22,7 @@ source_pages:
 internal_pages:
   - "185"
 image_files:
-  - "193.png"
+  - "185.png"
 ---
 
 The feminine of words expressive of relationship is irregular; @deva[श्वशुर-श्वश्रू], @deva[पितृ-मातृ], &c.

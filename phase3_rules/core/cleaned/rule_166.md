@@ -34,8 +34,8 @@ internal_pages:
   - "106"
   - "107"
 image_files:
-  - "114.png"
-  - "115.png"
+  - "106.png"
+  - "107.png"
 ---
 
 @deva[पञ्चन्]—@deva[नवदशन्]. These are also adjectives agreeing in case with the nouns to which they are applied. They are declined in the pl. and are uniform in all the three genders.

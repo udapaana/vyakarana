@@ -85,8 +85,8 @@ internal_pages:
   - "181"
   - "182"
 image_files:
-  - "189.png"
-  - "190.png"
+  - "181.png"
+  - "182.png"
 ---
 
 **(a)** A prātipadika ending in @deva[कर], except @deva[धक्कर], @deva[तक्कर], @deva[स्किकर] and @deva[बहुकर]; @deva[भ]. @deva[सर], preceded by @deva[यत्]; @deva[अमर]: @deva[अमे] and @deva[तुद्]; and @deva[खर] preceded by @deva[सेवा]. @deva[द्वाप] and words expressive of place; the words @deva[नद], @deva[चोर], @deva[देव], @deva[भाइ], @deva[भर]. @deva[व्छय], and @deva[नह्], nominal bases ending in @deva[ण्य], nominal and verbal derivatives formed by the affix @deva[अ] causing Vṛddhi or Guṇa, such as @deva[ओढनः], @deva[ओसन:], @deva[कुम्भकारः], @deva[भावहारः], @deva[पाठ्यः], @deva[ताइम:], &c. and words ending in the Tad. affixes @deva[इयस्], @deva[दुह], @deva[माच] and @deva[इक] (with some exceptions) and in the kṛit affix @deva[स्वर] form their feminine in @deva[ई] when they are not used adjectively;[^1] e. g. @deva[भोगकरी] conducing to pleasures; @deva[एककरी] &c.; @deva[पतिसी], @deva[सिनसी], &c.; @deva[अविसरी], &c.; @deva[सेनाखरी], @deva[कुरुखरी], a woman of the Kuru country; @deva[मत्स्यखरी], &c.; @deva[नदी], @deva[देवी], @deva[सटी], &c.; @deva[सौपर्णी], @deva[वैनतेयी], &c.; @deva[ऐन्द्री], @deva[औरसी], &c.; @deva[कुम्भकारी], @deva[नगरकारी], &c.; @deva[उरुद्यसी-दुही-माचां] measuring or reaching as far as the knee; &c. @deva[आशिथकी], @deva[छागणकी], &c.; @deva[पाटसी], @deva[ताइसी], @deva[स्वरी], evanescent, an unchaste woman &c., @deva[गल्वरी] &c., but @deva[स्किकरा]. @deva[बहुकुरारा नगरी].

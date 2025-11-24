@@ -22,7 +22,7 @@ source_pages:
 internal_pages:
   - "27"
 image_files:
-  - "035.png"
+  - "027.png"
 ---
 
 Before an unvoiced guttural or labial consonant @deva[स्], @deva[ष्], and @deva[र्] at the end of a word are changed to Visarga (@deva[ः]); @deva[हरिः] + @deva[पचति] = @deva[हरिः पचति] Hari cooks; @deva[हविः] + @deva[क्रियते] = @deva[हविः क्रियते] an oblation is made.

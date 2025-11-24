@@ -22,7 +22,7 @@ source_pages:
 internal_pages:
   - "192"
 image_files:
-  - "200.png"
+  - "192.png"
 ---
 
 # Chapter IX. Secondary Nominal Bases Derived by the Addition of the Taddhita or Secondary Affixes

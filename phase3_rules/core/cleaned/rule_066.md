@@ -20,7 +20,7 @@ source_pages:
 internal_pages:
   - "36"
 image_files:
-  - "044.png"
+  - "036.png"
 ---
 
 Decline all other fem. nouns ending in @deva[आ] similarly.

@@ -32,7 +32,7 @@ source_pages:
 internal_pages:
   - "140"
 image_files:
-  - "148.png"
+  - "140.png"
 ---
 
 Those Tatpurusha compounds whose first member is a preposition are termed Prâdi by Sanskrit grammarians;[^1] some of these prepositions combine with a following noun in the Nom., with a noun in the Acc. &c., e. g. @deva[प्रगतः आचार्यः प्राचार्यः] 'an eminent teacher', @deva[संगतः अध्वाने समध्वः] 'taken to a path-way' (vide Bhatti. III. 45). @deva[प्रढ्ढो वातः प्रवातः] 'strong or excessive wind,' &c.; @deva[अतिक्रान्तो मालां अतिमालः] 'excelling a garland' (in fragrance or beauty), @deva[अतिक्रान्तो रथं राथ्यैर्वा अतिरथः] 'a chariot-warrior who has no rival or equal'; so @deva[अतिमात्र] 'exceeding measure,' @deva[अतिसर्व] &c. @deva[अवष्टब्धः कोकिलया अवकोकिलः] 'attracted by the cuckoo;' @deva[परिश्लान्तः अध्ययनात् पर्येध्ययनः] 'tired of studying,' @deva[निष्क्रान्तः कौशाम्ब्याः निष्कौशाम्बिः] 'gone out of Kauśâmbî;' so @deva[निर्लुब्ध] &c. A compound with prepositions which govern cases (@deva[कर्मप्रवचनीय]) is forbidden, @deva[दृशं प्रति].

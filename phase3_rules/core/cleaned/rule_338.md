@@ -20,7 +20,7 @@ source_pages:
 internal_pages:
   - "192"
 image_files:
-  - "200.png"
+  - "192.png"
 ---
 
 In this chapter we will treat of the more general secondary nominal bases formed by means of the Taddhita affixes, reserving for a future chapter the formation of the primary nominal bases derived by means of the Kṛit affixes from roots.

@@ -41,8 +41,8 @@ internal_pages:
   - "3"
   - "4"
 image_files:
-  - "011.png"
-  - "012.png"
+  - "003.png"
+  - "004.png"
 ---
 
 The nine primary vowels consist of five simple vowels viz. @deva[अ], @deva[इ], @deva[उ], @deva[ऋ] and @deva[ऌ], and four diphthongs viz. @deva[ए], @deva[ऐ], @deva[ओ] and @deva[औ].

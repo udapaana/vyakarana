@@ -42,8 +42,8 @@ internal_pages:
   - "109"
   - "110"
 image_files:
-  - "117.png"
-  - "118.png"
+  - "109.png"
+  - "110.png"
 ---
 
 @deva[इ] is substituted for the @deva[अ] (short) of a base preceded by a consonant before @deva[ईयस्], @deva[इष्ठ] and the Tad. aff. @deva[इमन्] e. g.[^1]

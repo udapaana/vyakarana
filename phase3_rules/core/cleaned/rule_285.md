@@ -30,7 +30,7 @@ source_pages:
 internal_pages:
   - "169"
 image_files:
-  - "177.png"
+  - "169.png"
 ---
 
 The finals of compounds having for their first member @deva[सु] or @deva[अति] in the sense of 'praise' and @deva[द्वि] in the sense of 'censure', remain unchanged; @deva[सुराजा] 'a good king' @deva[अतिराजा] 'a pre-eminent king': @deva[अतिगौ] 'an excellent bull' @deva[अतिवृष] &c: but @deva[परमराजः]; @deva[भाववासयः अतिभुवः]; @deva[कुत्सितो राजा द्विराजा] 'a bad king', @deva[द्विवला] 'a bad friend'; but @deva[द्विराजः], @deva[द्विवलः] in other cases. This prohibition does not apply to Bah. compounds @deva[सुभक्ष्य]; @deva[सुहृत्].

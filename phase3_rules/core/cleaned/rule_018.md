@@ -27,7 +27,7 @@ source_pages:
 internal_pages:
   - "12"
 image_files:
-  - "020.png"
+  - "012.png"
 ---
 
 By Sandhi (from @deva[सम्] together, and @deva[धा] to join) is meant the coalescence of two letters coming in immediate contact with each other.[^1]

@@ -32,8 +32,8 @@ internal_pages:
   - "177"
   - "178"
 image_files:
-  - "185.png"
-  - "186.png"
+  - "177.png"
+  - "178.png"
 ---
 
 **Obs.**— The @deva[न] of @deva[वन] is changed to @deva[ण] necessarily when preceded by @deva[प्र], and optionally when compounded with names of herbs or plants containing two or three vowels[^1] @deva[प्रवणम्], @deva[काद्रम्बीवणम्], &c. @deva[पूतीवणम्-वनम्], @deva[तिंबीवणम्-वनम्]; but @deva[देववाचनम्]: (if the word contains more than three vowels); exceptions:—@deva[हरिवाचनम्], @deva[गिरिवाचनम्], and @deva[तिमिराचनम्].

@@ -39,8 +39,8 @@ internal_pages:
   - "164"
   - "165"
 image_files:
-  - "172.png"
-  - "173.png"
+  - "164.png"
+  - "165.png"
 ---
 
 **(a)** The prepositions @deva[अप], @deva[परि] and @deva[बहिः] and words derived from the root @deva[अञ्च्] (@deva[प्राङ्], @deva[प्रत्यङ्], @deva[उदङ्], @deva[अवाङ्], @deva[तिर्यङ्], &c.), are optionally compounded with a noun in the Ablative;[^1] @deva[अपविष्णु] or @deva[अपविष्णोः] 'away from Vishṇu'; @deva[परिविष्णु] or @deva[परिविष्णोः]; @deva[बहिर्वनम्] or @deva[बहिर्वनात्]; @deva[प्राग्वनम्] or @deva[प्राग्वनात्] 'to the east of the forest' &c.

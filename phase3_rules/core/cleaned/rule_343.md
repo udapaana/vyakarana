@@ -56,11 +56,11 @@ internal_pages:
   - "213"
   - "214"
 image_files:
-  - "218.png"
-  - "219.png"
-  - "220.png"
-  - "221.png"
-  - "222.png"
+  - "210.png"
+  - "211.png"
+  - "212.png"
+  - "213.png"
+  - "214.png"
 ---
 
 The affixes @deva[च्विन्] and @deva[सात्] form adverbial words (@deva[अव्यय]).

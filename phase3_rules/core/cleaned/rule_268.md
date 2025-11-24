@@ -20,7 +20,7 @@ source_pages:
 internal_pages:
   - "161"
 image_files:
-  - "169.png"
+  - "161.png"
 ---
 
 An Avyayībhāva comp. consists of two members the first of which is, in most cases, an indeclinable (a preposition or an adverb) and the second a noun, the whole being treated like the Nom. sing. of ses. nouns. the comp. so formed is indeclinable; e. g. @deva[आदिहरि] 'in Hari'; @deva[अन्ताद्रि] 'in a mountain,' &c.

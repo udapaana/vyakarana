@@ -22,7 +22,7 @@ source_pages:
 internal_pages:
   - "48"
 image_files:
-  - "056.png"
+  - "048.png"
 ---
 
 @deva[स्त्री] fem. a woman.[^1]

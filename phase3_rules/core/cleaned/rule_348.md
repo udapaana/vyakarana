@@ -25,8 +25,8 @@ internal_pages:
   - "216"
   - "217"
 image_files:
-  - "224.png"
-  - "225.png"
+  - "216.png"
+  - "217.png"
 ---
 
 The words @deva[दाराः] 'a wife', @deva[अक्षताः] 'uninjured rice', @deva[लाजाः] 'fried rice', @deva[असवः] 'life (the vital airs in the body)' and @deva[गृहः] 'a house', which are always used in the plural.

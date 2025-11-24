@@ -26,8 +26,8 @@ internal_pages:
   - "235"
   - "236"
 image_files:
-  - "243.png"
-  - "244.png"
+  - "235.png"
+  - "236.png"
 ---
 
 **(a)** The preceding @deva[अ] is lengthened before a conjugational termination beginning with a semivowel, a nasal or @deva[म्] or @deva[य्]; e. g. @deva[नयामि] &c.[^1]

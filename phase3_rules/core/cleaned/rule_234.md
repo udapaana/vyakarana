@@ -24,8 +24,8 @@ internal_pages:
   - "141"
   - "142"
 image_files:
-  - "149.png"
-  - "150.png"
+  - "141.png"
+  - "142.png"
 ---
 
 The @deva[द्विग] formations (see Chap. XI.) are also classed as prepositional Tatpurusha compounds; as @deva[शुक्लीकृत्य] having turned white what was not so before.

@@ -51,8 +51,8 @@ internal_pages:
   - "55"
   - "56"
 image_files:
-  - "063.png"
-  - "064.png"
+  - "055.png"
+  - "056.png"
 ---
 
 Paradigms:—

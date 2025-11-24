@@ -28,7 +28,7 @@ source_pages:
 internal_pages:
   - "109"
 image_files:
-  - "117.png"
+  - "109.png"
 ---
 
 Before these the final @deva[ई] and @deva[ऊ] of a prātipadika are optionally shortened, e. g. @deva[श्रीतरा] or @deva[श्रीतरा], @deva[श्रीतमा] or @deva[श्रीतमा]; @deva[धेनुतरा] (more lame) or @deva[धेनुतरा], @deva[धेनुतमा], @deva[धेनुतमा], &c.

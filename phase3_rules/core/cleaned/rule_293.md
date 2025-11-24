@@ -21,7 +21,7 @@ source_pages:
 internal_pages:
   - "172"
 image_files:
-  - "180.png"
+  - "172.png"
 ---
 
 @deva[रात्रि] followed by a kṛit affix inserts a nasal optionally; @deva[रात्रिञ्चरः] or @deva[रात्रिचरः], 'a night-rover,' 'a demon;' @deva[रात्रिष्टहः] or @deva[रात्रिष्टहः] &c.

@@ -32,9 +32,9 @@ internal_pages:
   - "14"
   - "15"
 image_files:
-  - "021.png"
-  - "022.png"
-  - "023.png"
+  - "013.png"
+  - "014.png"
+  - "015.png"
 ---
 
 When @deva[अ] or @deva[आ] is followed by @deva[इ], @deva[उ], @deva[ऋ], @deva[ऌ], short or long, the @deva[गुण] letter corresponding to the latter takes the place of both[^1] e.g. @deva[उप] + @deva[इन्द्र] = @deva[उपेन्द्र:] Vishnu; @deva[परम] + @deva[ईश्वर:] = @deva[परमेश्वर:] the great lord; @deva[रमा] + @deva[इच्छा] = @deva[रमेच्छा] the wish of Ramā; @deva[यथा] + @deva[इच्छित] = @deva[यथेच्छितम्] according to wish or desire; @deva[हित] + @deva[उपदेश:] = @deva[हितोपदेश:] a friendly instruction; @deva[तव] + @deva[ऊरु] = @deva[तवोरु:] Kṛṣṇa's thigh; @deva[गङ्गा] + @deva[उदक] = @deva[गङ्गोदक], @deva[मङ्ग] + @deva[ऊरु] = @deva[मङ्गोरु]; @deva[कृष्ण] + @deva[ऋद्धि:] = @deva[कृष्णर्द्धि:] Kṛṣṇa's prosperity; @deva[महा] + @deva[ऋषि:] = @deva[महर्षि:] a great sage; @deva[तव] + @deva[ऌकार:] = @deva[तवल्कार:] The ḷkāra pronounced by you.

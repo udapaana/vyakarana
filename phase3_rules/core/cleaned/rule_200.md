@@ -19,7 +19,7 @@ source_pages:
 internal_pages:
   - "119"
 image_files:
-  - "127.png"
+  - "119.png"
 ---
 
 When a compound consists of two members and the first determines the sense of the other, that is called Tatpurusha.

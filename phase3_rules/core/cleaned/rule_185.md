@@ -22,7 +22,7 @@ source_pages:
 internal_pages:
   - "113"
 image_files:
-  - "121.png"
+  - "113.png"
 ---
 
 Compounds are divided into four principal classes:—(1) Dwandwa or Copulative, (2) Tatpurusha or Determinative, (3) Bahurīhi or Attributive, and (4) Avyayībhāva or Adverbial.

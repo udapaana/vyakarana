@@ -36,8 +36,8 @@ internal_pages:
   - "185"
   - "186"
 image_files:
-  - "193.png"
-  - "194.png"
+  - "185.png"
+  - "186.png"
 ---
 
 The feminine of @deva[पति] is @deva[पत्नी] meaning 'the sharer with her husband in the fruit of the sacrifices performed by him;[^1] but if it end a compound it may optionally remain unchanged[^2] except when preceded by @deva[समान], @deva[एक], @deva[चोर], @deva[पिण्ड], @deva[त्व धात्र], @deva[मह], and @deva[पुत्र] &c. before which this change is necessary; @deva[गृहपति] or @deva[गृहपत्नी], the mistress of the house; or @deva[इन्द्रपति] or @deva[इन्द्रपत्नी]; @deva[उषलपति] or @deva[उषलपत्नी] &c. but @deva[समानः पतिर्यस्याः सा सपत्नी] a co-wife, @deva[एकपत्नी], @deva[चोरपत्नी].

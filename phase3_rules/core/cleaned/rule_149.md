@@ -26,7 +26,7 @@ source_pages:
 internal_pages:
   - "96"
 image_files:
-  - "104.png"
+  - "096.png"
 ---
 
 **Obs:**—@deva[स्व] and @deva[स्व] (the 10th and 11th @deva[सर्वादिगणs]) the one @deva[उद्दात्त] (uddātta), the other @deva[अनुदात्त] (anudātta), both synonyms of @deva[अन्य] are declined like @deva[सर्व]. The former is of the form @deva[स्वत्] according to some and then it is declined regularly by adding the terminations; e. g. @deva[स्वत् स्वतौ स्वतः] Nom. &c.

@@ -63,11 +63,11 @@ internal_pages:
   - "84"
   - "85"
 image_files:
-  - "089.png"
-  - "090.png"
-  - "091.png"
-  - "092.png"
-  - "093.png"
+  - "081.png"
+  - "082.png"
+  - "083.png"
+  - "084.png"
+  - "085.png"
 ---
 
 The words @deva[पाद्], @deva[दन्त्], @deva[नासिका], @deva[मास], @deva[हृदय], @deva[निशा], @deva[अवस्], @deva[दोस्], @deva[पञ्चन्], @deva[शकुन्], @deva[उदुक], @deva[आस्य][^1]; @deva[मांस], @deva[पृतना], and @deva[शाखु] optionally assume the forms @deva[पद्], @deva[दत्], @deva[नस्], @deva[मास्], @deva[हृद्], @deva[निश्], @deva[अवस्थय्], @deva[दोषण्], @deva[पञ्चय्], @deva[शकुय्], @deva[उदय्], @deva[आसय्], @deva[मांय्], @deva[पृत्], and @deva[श्वु] before all terminations beginning with the Acc. plu.

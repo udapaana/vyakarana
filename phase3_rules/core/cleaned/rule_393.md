@@ -36,9 +36,9 @@ internal_pages:
   - "247"
   - "248"
 image_files:
-  - "244.png"
-  - "245.png"
-  - "246.png"
+  - "236.png"
+  - "237.png"
+  - "238.png"
   - "247.png"
   - "248.png"
 ---

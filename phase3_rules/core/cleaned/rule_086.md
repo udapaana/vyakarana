@@ -31,8 +31,8 @@ internal_pages:
   - "53"
   - "54"
 image_files:
-  - "061.png"
-  - "062.png"
+  - "053.png"
+  - "054.png"
 ---
 
 Vṛddhi (@deva[औ]) is substituted for the @deva[ओ] of words ending in @deva[ओ] in the first five inflections except the Acc. sing.; @deva[आ] is substituted for @deva[ओ] in the Acc. sing. and plural.[^1] Nouns ending in @deva[औ] are regularly declined.

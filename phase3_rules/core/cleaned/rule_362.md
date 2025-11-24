@@ -23,7 +23,7 @@ source_pages:
 internal_pages:
   - "221"
 image_files:
-  - "229.png"
+  - "221.png"
 ---
 
 That in an Avyaya whose form remaining the same in all the genders, numbers and cases, undergoes no change.[^1] The Avyayas may be divided into simple and compound ones. The latter are treated of in the chapter on compounds (Avyayībhāvas and a few Bahuvrīhis and Tatpurusha).

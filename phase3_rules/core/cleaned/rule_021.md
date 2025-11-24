@@ -35,9 +35,9 @@ internal_pages:
   - "16"
   - "17"
 image_files:
-  - "023.png"
-  - "024.png"
-  - "025.png"
+  - "015.png"
+  - "016.png"
+  - "017.png"
 ---
 
 When @deva[अ] or @deva[आ] is followed by @deva[ए] or @deva[ऐ] and @deva[ओ] or @deva[औ], @deva[ऐ] and @deva[औ] are respectively substituted for both;[^1] @deva[छुन्न] + @deva[एकान्त] = @deva[छुन्नैकान्त्य]; @deva[देव] + @deva[ऐश्वर्य] = @deva[दैवैश्वर्य] the majesty of god; @deva[सा] + @deva[एव] = @deva[सैव] she alone; @deva[भव] + @deva[औषधम्] = @deva[भवौषधम्] medicine against birth and re-birth. @deva[विद्या] + @deva[औत्सुक्यं] = @deva[विद्यौत्सुक्यं] longing for knowledge.

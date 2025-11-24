@@ -22,8 +22,8 @@ internal_pages:
   - "48"
   - "49"
 image_files:
-  - "056.png"
-  - "057.png"
+  - "048.png"
+  - "049.png"
 ---
 
 Mas. words ending in @deva[उ] not derived from roots; e. g. @deva[पृहु] name of a Gandharva.

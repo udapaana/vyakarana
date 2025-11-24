@@ -27,8 +27,8 @@ internal_pages:
   - "209"
   - "210"
 image_files:
-  - "217.png"
-  - "218.png"
+  - "209.png"
+  - "210.png"
 ---
 
 The @deva[म्] of @deva[मत्] is changed to @deva[व्] before soft letters and vowels.[^1] Thus @deva[धनवत्] 'rich', Nom. @deva[धनवान्], or @deva[धनमत्]; @deva[गुणवत्] 'virtuous' Nom. @deva[गुणवान्] or @deva[गुणमत्], &c.

@@ -42,8 +42,8 @@ internal_pages:
   - "170"
   - "171"
 image_files:
-  - "178.png"
-  - "179.png"
+  - "170.png"
+  - "171.png"
 ---
 
 **(a)** @deva[उदक] becomes @deva[उद्] necessarily (1) when it forms a proper name, also when it is final; or (2) when followed by the words @deva[पूर्], @deva[वास], @deva[वाहन], and @deva[धि]:[^1] @deva[उदमेघः] 'a particular cloud filled with water'; @deva[उदधिः], @deva[क्षीरोदः] the sea of milk; @deva[उडुपोदः] &c.; @deva[उदवर्षं तिष्ठति], @deva[उदवासः] standing in water; @deva[उदवाहनम्]; @deva[उदधिः] 'a vessel for holding water' @deva[घटः], @deva[संज्ञाये तु पूर्णेण सिद्धम्] Sid. Kau.;

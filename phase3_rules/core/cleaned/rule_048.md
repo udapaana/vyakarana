@@ -21,7 +21,7 @@ source_pages:
 internal_pages:
   - "28"
 image_files:
-  - "036.png"
+  - "028.png"
 ---
 
 Visarga after @deva[आ] may be dropped before a soft consonant;[^1] e.g. @deva[पुराः] + @deva[भव] = @deva[पुराः भव] and @deva[पुरा भव] go in advance; @deva[धनुराः] + @deva[धरः] = @deva[धनुराः धरः] and @deva[धनुरा धरः] bow-bearer.

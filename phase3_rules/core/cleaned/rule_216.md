@@ -64,9 +64,9 @@ internal_pages:
   - "128"
   - "129"
 image_files:
-  - "135.png"
-  - "136.png"
-  - "137.png"
+  - "127.png"
+  - "128.png"
+  - "129.png"
 ---
 
 A noun in the Locative is compounded—

@@ -30,7 +30,7 @@ source_pages:
 internal_pages:
   - "109"
 image_files:
-  - "117.png"
+  - "109.png"
 ---
 
 @deva[तर] and @deva[तम] when attached to verbs, and indeclinables forming adverbs, assume the forms of @deva[तराम्] and @deva[तमाम्][^1]; @deva[प्रवर्ततराम्], @deva[प्रवर्ततमाम्]; @deva[उच्चैस्तराम्]; @deva[उच्चैस्तमाम्]; @deva[नितराम्] @deva[नितमाम्]; @deva[अक्षुतराम्] &c.; but @deva[उच्चैस्तरः] adj. (higher).

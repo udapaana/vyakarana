@@ -29,8 +29,8 @@ internal_pages:
   - "5"
   - "6"
 image_files:
-  - "013.png"
-  - "014.png"
+  - "005.png"
+  - "006.png"
 ---
 
 In addition to the characters given above there are in Sanskrit two nasal sounds:—the one called @deva[अनुस्वार] (@[Anusvāra]), is denoted by ं i.e. a dot placed above the letter after which it is to be pronounced, e.g. @deva[कं]; the other, called @deva[अनुनासिक] (@[Anunāsika]) is denoted by ँ i.e. a dot within a semi-circle placed above the letter after which it is to be pronounced e.g. @deva[कँ].

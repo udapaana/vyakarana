@@ -31,8 +31,8 @@ internal_pages:
   - "119"
   - "120"
 image_files:
-  - "127.png"
-  - "128.png"
+  - "119.png"
+  - "120.png"
 ---
 
 The final vowel of a feminine noun ending in any of the affixes @deva[आ], @deva[ई] or @deva[ऊ] and forming the second member of a compound used adjectively is shortened; the @deva[औ] of @deva[गौ] is changed to @deva[उ] under the same circumstances[^1]; e. g. @deva[प्राक्+जीविका=प्राग्जीविकः] (Tat.), @deva[आदिमाः] (Tat.); @deva[पञ्चगुः] something bought for five cows; @deva[बहुयो नाड्यो यस्मिन् बहुनाडिः] many-veined @deva[देहः] (Bah.); @deva[चित्रा गावो यस्य चित्रगुः] having variegated cows, &c - but @deva[कल्याणपञ्चमीकः] as the @deva[ई] is not final.

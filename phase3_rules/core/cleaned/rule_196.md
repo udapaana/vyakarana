@@ -39,7 +39,7 @@ source_pages:
 internal_pages:
   - "117"
 image_files:
-  - "125.png"
+  - "117.png"
 ---
 
 The following compounds are instances of irregular Dwandwas:—

@@ -33,7 +33,7 @@ source_pages:
 internal_pages:
   - "123"
 image_files:
-  - "131.png"
+  - "123.png"
 ---
 
 A noun in the Ablative case is compounded—

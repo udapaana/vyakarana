@@ -52,9 +52,9 @@ internal_pages:
   - "72"
   - "73"
 image_files:
-  - "079.png"
-  - "080.png"
-  - "081.png"
+  - "071.png"
+  - "072.png"
+  - "073.png"
 ---
 
 Participial bases ending in @deva[अत्]:-

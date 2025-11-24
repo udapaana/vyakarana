@@ -23,7 +23,7 @@ source_pages:
 internal_pages:
   - "107"
 image_files:
-  - "115.png"
+  - "107.png"
 ---
 
 The ordinals are declined regularly except:—

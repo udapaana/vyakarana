@@ -31,10 +31,10 @@ internal_pages:
   - "10"
   - "11"
 image_files:
-  - "016.png"
-  - "017.png"
-  - "018.png"
-  - "019.png"
+  - "008.png"
+  - "009.png"
+  - "010.png"
+  - "011.png"
 ---
 
 The forms which the vowel signs assume when added to consonants and the changes which some letters undergo when compounded are given below, under (a) and (b).

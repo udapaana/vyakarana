@@ -65,8 +65,8 @@ internal_pages:
   - "129"
   - "130"
 image_files:
-  - "137.png"
-  - "138.png"
+  - "129.png"
+  - "130.png"
 ---
 
 Additional instances of the aluk of the Loc.

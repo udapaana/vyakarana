@@ -27,7 +27,7 @@ source_pages:
 internal_pages:
   - "177"
 image_files:
-  - "185.png"
+  - "177.png"
 ---
 
 When the words @deva[पुराज], @deva[मित्रक], @deva[सिंहक], @deva[सारिक] and @deva[कौटर] are followed by @deva[वन] in a compound they lengthen their ending vowel, and the @deva[न] of @deva[वन] is changed to @deva[ण] ( also after @deva[अग्र] );[^1] @deva[पुराजावणम्], @deva[मित्रकावणम्], @deva[सिंहकावणम्], @deva[सारिकावणम्], @deva[कौटरावणम्]; but @deva[अवित्रवनम्]; @deva[वनस्पतौ अद्रेवनम्].

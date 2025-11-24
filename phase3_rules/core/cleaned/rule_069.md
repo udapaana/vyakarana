@@ -34,9 +34,9 @@ internal_pages:
   - "38"
   - "39"
 image_files:
-  - "045.png"
-  - "046.png"
-  - "047.png"
+  - "037.png"
+  - "038.png"
+  - "039.png"
 ---
 
 @deva[हरि] mas. Hari.

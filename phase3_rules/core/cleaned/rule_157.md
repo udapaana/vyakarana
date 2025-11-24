@@ -103,8 +103,8 @@ internal_pages:
   - "98"
   - "99"
 image_files:
-  - "106.png"
-  - "107.png"
+  - "098.png"
+  - "099.png"
 ---
 
 The pronominal adverbs that are most commonly met with are derived from the pronouns @deva[तद्], @deva[एतद्], @deva[यद्], @deva[इदम्], @deva[किम्], and @deva[सर्व] and the pronominal adjectives @deva[पूर्व्], @deva[पर] &c, by means of such affixes as @deva[तस्], @deva[त्र], [^1]@deva[ह], @deva[क] &c. added in the sense of the Ab. or the Loc., @deva[दा], [^2]@deva[दानीम्], @deva[हि] &c. showing time, [^3]@deva[तात्] showing point of time, place or direction, @deva[आ], @deva[आत्], @deva[आदि] &c. expressing direction, @deva[था], @deva[थ][^4] &c. expressing way or manner &c.; e. g.

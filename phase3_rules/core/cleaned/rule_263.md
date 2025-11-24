@@ -24,7 +24,7 @@ source_pages:
 internal_pages:
   - "159"
 image_files:
-  - "167.png"
+  - "159.png"
 ---
 
 And as a general rule, when the final word of a Bah. comp. does not undergo any additions or alterations mentioned in the foregoing rules, it optionally takes the affix @deva[क].[^1] @deva[महायशस्कः=महायशाः] 'of mighty glory'; but @deva[उत्तरपूर्वी], @deva[व्याघ्रपाद्], @deva[छगलिकः] &c.

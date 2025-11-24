@@ -19,7 +19,7 @@ source_pages:
 internal_pages:
   - "139"
 image_files:
-  - "147.png"
+  - "139.png"
 ---
 
 When the first member of a Karmadharaya compound is a numeral it is called 'Dwigu'.

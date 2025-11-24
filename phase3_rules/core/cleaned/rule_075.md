@@ -27,8 +27,8 @@ internal_pages:
   - "41"
   - "42"
 image_files:
-  - "049.png"
-  - "050.png"
+  - "041.png"
+  - "042.png"
 ---
 
 @deva[नदी] f. a river; @deva[वधू] f. a woman, a bride.

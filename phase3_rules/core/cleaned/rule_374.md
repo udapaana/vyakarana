@@ -25,7 +25,7 @@ source_pages:
 internal_pages:
   - "227"
 image_files:
-  - "235.png"
+  - "227.png"
 ---
 
 ## Particles as Expletives and Intensives

@@ -25,7 +25,7 @@ source_pages:
 internal_pages:
   - "234"
 image_files:
-  - "242.png"
+  - "234.png"
 ---
 
 @deva[अ] (@deva[शप्]) is added on to the roots of the First or @deva[भ्वादि] class[^1] before the terminations. Before this @deva[अ] the penultimate short and the final vowel of a root take their Guṇa substitute; e. g.

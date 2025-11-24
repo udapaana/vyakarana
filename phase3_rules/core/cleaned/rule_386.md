@@ -21,7 +21,7 @@ source_pages:
 internal_pages:
   - "233"
 image_files:
-  - "241.png"
+  - "233.png"
 ---
 
 These ten classes may again be conveniently divided into two groups, the first comprising the 1st, 4th, 6th and 10th classes, and the second the remaining. In the first the base ends in @deva[अ] and remains unchanged throughout; while in the second it does not end in @deva[अ] and is changeable.

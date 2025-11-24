@@ -30,8 +30,8 @@ internal_pages:
   - "146"
   - "147"
 image_files:
-  - "154.png"
-  - "155.png"
+  - "146.png"
+  - "147.png"
 ---
 
 All the rules given above for the change of the finals of the Tat. compounds do not hold good in the case of the Neg. Tat.;[^1] e. g. @deva[न राजा अराजा] one not a king; @deva[न सखा: असखा], &c.

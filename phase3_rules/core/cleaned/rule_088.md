@@ -19,7 +19,7 @@ source_pages:
 internal_pages:
   - "54"
 image_files:
-  - "062.png"
+  - "054.png"
 ---
 
 Bases ending @deva[र्], @deva[न्], and @deva[स्].

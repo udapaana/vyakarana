@@ -21,7 +21,7 @@ source_pages:
 internal_pages:
   - "5"
 image_files:
-  - "013.png"
+  - "005.png"
 ---
 
 The first two letters of the five classes and the sibilants are called surds or hard consonants. The rest are called sonants or soft consonants.

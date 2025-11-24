@@ -32,7 +32,7 @@ source_pages:
 internal_pages:
   - "171"
 image_files:
-  - "179.png"
+  - "171.png"
 ---
 
 **Obs.**— The fem. affix @deva[आ] or @deva[ई] at the end of a word forming the first member of a compound is shortened in most cases when the whole is a name or in the Veda; @deva[रेवतिपुत्रः], @deva[अजनिपुत्रः], @deva[कुमारिदासः], @deva[पदविदा], @deva[अजक्षीरम्] (as @deva[अजक्षीरेण जुहोति]), @deva[शिलप्रथम्], &c.; but @deva[नान्दीकरः], @deva[नान्दीघोषः], @deva[फाल्गुनीपौर्णमासी], @deva[जगतीच्छन्दः], @deva[लोमकारपदम्], &c. The @deva[आ] or @deva[ई] is optionally shortened when followed by @deva[त्व]; @deva[अजत्वे], @deva[अजात्वम्], @deva[रोहिणिभीत्वम्].

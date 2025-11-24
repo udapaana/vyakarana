@@ -28,8 +28,8 @@ internal_pages:
   - "54"
   - "55"
 image_files:
-  - "062.png"
-  - "063.png"
+  - "054.png"
+  - "055.png"
 ---
 
 **(a)** After final @deva[न्] the @deva[सु] of the loc. is changed to @deva[षु].

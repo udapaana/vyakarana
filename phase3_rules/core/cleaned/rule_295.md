@@ -39,8 +39,8 @@ internal_pages:
   - "173"
   - "174"
 image_files:
-  - "181.png"
-  - "182.png"
+  - "173.png"
+  - "174.png"
 ---
 
 @deva[समान] becomes @deva[स]—[^1]

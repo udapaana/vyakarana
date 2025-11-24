@@ -29,8 +29,8 @@ internal_pages:
   - "113"
   - "114"
 image_files:
-  - "121.png"
-  - "122.png"
+  - "113.png"
+  - "114.png"
 ---
 
 A Dwandwa compound consists of two or more nouns which, if not compounded, would be connected by the copulative particle @deva[च] (and),[^1] as @deva[राजदेवौ] which is equal to @deva[राजश्च देवश्च]; @deva[पाणिपादौ] which is the same as @deva[पाणी च पादौ च]. There are three species of the Dwandwa; viz. @deva[इतरेतरद्वन्द्व], @deva[समाहारद्वन्द्व] and @deva[एकशेष].[^2]

@@ -38,8 +38,8 @@ internal_pages:
   - "104"
   - "105"
 image_files:
-  - "112.png"
-  - "113.png"
+  - "104.png"
+  - "105.png"
 ---
 
 The cardinal numbers between @deva[विंशति] and @deva[त्रिंशत्], @deva[त्रिंशत्] and @deva[चत्वारिंशत्], it will be seen, are made up by prefixing @deva[एक], @deva[द्वि], &c. up to @deva[नवन्] to the lower. The ninth intermediate number may also be made up by prefixing @deva[एकोन], @deva[ऊन] or @deva[एकान्] to the higher. In these compounds @deva[द्वि], @deva[त्रि] and @deva[अष्ट] are changed to @deva[द्वा], @deva[त्रयः], and @deva[अष्टा] necessarily before @deva[विंशति] and @deva[त्रिंशत्], and optionally before the rest except @deva[अशीति] before which they remain unchanged.[^1]

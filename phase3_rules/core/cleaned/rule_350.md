@@ -28,7 +28,7 @@ source_pages:
 internal_pages:
   - "217"
 image_files:
-  - "225.png"
+  - "217.png"
 ---
 
 Verbal derivatives formed by the terminations @deva[आनि], @deva[मि], @deva[नि], @deva[ति], @deva[ई] and @deva[ऊ]; as @deva[अवनिः], @deva[क्षमिः], @deva[ग्लानिः], @deva[गतिः], @deva[लक्ष्मीः], @deva[वधूः], &c.

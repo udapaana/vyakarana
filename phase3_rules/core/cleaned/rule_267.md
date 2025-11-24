@@ -39,8 +39,8 @@ internal_pages:
   - "160"
   - "161"
 image_files:
-  - "168.png"
-  - "169.png"
+  - "160.png"
+  - "161.png"
 ---
 
 In the formation of a @deva[समानाधिकरणबहुव्रीहि], if the first member be a fem. noun derived from the mas. the affix @deva[आ] or @deva[ई], the mas. is restored if followed by another fem. noun[^1]; @deva[विद्या गावः यस्य स विद्यगुः]; @deva[जरती गौः यस्य स जरद्गुः], @deva[रूपवती भार्या यस्य स रूपवद्भार्यः]; but @deva[गंगा भार्या यस्य स गंगाभार्यः]; @deva[शारदोत्सार्यः]; @deva[कल्याणी प्रजावै यस्य स कल्याणीप्रजावानः] ।

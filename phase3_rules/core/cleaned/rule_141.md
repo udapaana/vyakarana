@@ -30,7 +30,7 @@ source_pages:
 internal_pages:
   - "93"
 image_files:
-  - "101.png"
+  - "093.png"
 ---
 
 Indefinite pronouns are formed by the addition of @deva[चित्] or @deva[चन] or @deva[अपि] and sometimes of @deva[स्विद्] to the various cases of the pronoun @deva[किम्] in all the genders; g. @deva[कश्चित्], @deva[कश्चन] a certain one, @deva[कोपि], @deva[केनापि], @deva[कयाचन], @deva[कस्यापि]; @deva[कस्विद्], &c.

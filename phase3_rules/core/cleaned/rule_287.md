@@ -28,7 +28,7 @@ source_pages:
 internal_pages:
   - "170"
 image_files:
-  - "178.png"
+  - "170.png"
 ---
 
 @deva[हृदय] becomes @deva[हृद्] necessarily when followed by @deva[लेष] (formed with the affix @deva[अण्]), and @deva[लास] and the Tad. affixes @deva[य] (@deva[यत्]) and @deva[अ] (@deva[अण्]), and optionally when followed by @deva[शोक] and @deva[रोग] and the Tad. @deva[य] (@deva[ष्यञ्]),[^1] @deva[हृदयं लिखतीति हृल्लेखः] 'heart-ache', (@deva[विपरीति हृदयलेखः] Sid. Kau.), @deva[हृल्लासः] 'disquietude,' 'hiccough'; @deva[हृदयस्य प्रियं हृद्यम्] 'agreeable to the heart'; @deva[हृदयस्येव हार्दम्], @deva[हृच्छोकः] or @deva[हृदयशोकः] 'the pang of the heart;' @deva[हृदयरोगः]; @deva[हृद्रोगः].

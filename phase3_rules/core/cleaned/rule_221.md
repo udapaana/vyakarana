@@ -34,8 +34,8 @@ internal_pages:
   - "131"
   - "132"
 image_files:
-  - "139.png"
-  - "140.png"
+  - "131.png"
+  - "132.png"
 ---
 
 **(a)**[^1] A word expressive of the standard of comparison (@deva[उपमान]) may be compounded in a Karmadhāraya with another denoting the common quality or ground of comparison; as @deva[घन इव श्यामः घनश्यामः] dark like a cloud. Such compounds are called @deva[उपमानपूर्वपदकर्मधारय].

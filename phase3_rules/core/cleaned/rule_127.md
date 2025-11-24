@@ -21,7 +21,7 @@ source_pages:
 internal_pages:
   - "80"
 image_files:
-  - "088.png"
+  - "080.png"
 ---
 
 @deva[अप्] f. water, is declined in the plural; it lengthens its @deva[अ] in the N. and changes its @deva[प्] to @deva[द्] before consonantal terminations. @deva[आपः-आपः-आप्भिः-आद्भ्यः-आद्भ्यः-आपाम्-आप्सु].

@@ -21,7 +21,7 @@ source_pages:
 internal_pages:
   - "55"
 image_files:
-  - "063.png"
+  - "055.png"
 ---
 
 Bases ending in @deva[क्], @deva[ख्], @deva[ग्], @deva[ट्], @deva[ठ्], @deva[ड्], @deva[ङ्], @deva[छ्], @deva[त्], @deva[थ्], @deva[द्], @deva[ध्], and @deva[प्], @deva[फ्], @deva[ब्], @deva[भ्].

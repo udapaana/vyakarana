@@ -25,7 +25,7 @@ source_pages:
 internal_pages:
   - "178"
 image_files:
-  - "186.png"
+  - "178.png"
 ---
 
 # Chapter VIII. Formation of Feminine Bases

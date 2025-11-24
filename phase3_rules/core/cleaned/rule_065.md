@@ -21,7 +21,7 @@ source_pages:
 internal_pages:
   - "36"
 image_files:
-  - "044.png"
+  - "036.png"
 ---
 
 @deva[रमा] fem. the goddess of wealth.

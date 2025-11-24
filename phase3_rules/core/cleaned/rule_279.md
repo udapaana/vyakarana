@@ -44,8 +44,8 @@ internal_pages:
   - "165"
   - "166"
 image_files:
-  - "173.png"
-  - "174.png"
+  - "165.png"
+  - "166.png"
 ---
 
 The following Avya. compounds are anomalous[^1]:-

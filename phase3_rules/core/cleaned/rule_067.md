@@ -24,8 +24,8 @@ internal_pages:
   - "36"
   - "37"
 image_files:
-  - "044.png"
-  - "045.png"
+  - "036.png"
+  - "037.png"
 ---
 
 Irregular bases:—The Voc. sing. of @deva[अम्बा], @deva[अम्बा] and @deva[अम्बा], all meaning 'a mother' is @deva[अम्ब], @deva[अम्ब] and @deva[अम्ब] respectively.

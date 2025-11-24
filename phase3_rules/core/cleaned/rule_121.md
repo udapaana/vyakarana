@@ -22,7 +22,7 @@ source_pages:
 internal_pages:
   - "76"
 image_files:
-  - "084.png"
+  - "076.png"
 ---
 
 @deva[अर्वन्] m. a horse, except when preceded by the negative particle @deva[अन्] (forming a neg. Tat.) is declined like a word ending in @deva[न्] in all cases except the Nom. and Voc. singulars; e. g. N. @deva[अर्वा] @deva[अर्वन्तौ] @deva[अर्वन्तः]; V. @deva[अर्वन्] @deva[अर्वन्तौ], @deva[अर्वन्तः]; A. @deva[अर्वन्तम्], @deva[अर्वन्तौ], @deva[अर्वतः] &c. But @deva[अनर्वन्] (@deva[न विद्यतेऽर्वास्य]) is regularly declined like @deva[युवन्]; @deva[अनर्वा] @deva[अनर्वाणौ] &c.

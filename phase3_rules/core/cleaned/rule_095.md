@@ -28,7 +28,7 @@ source_pages:
 internal_pages:
   - "57"
 image_files:
-  - "065.png"
+  - "057.png"
 ---
 
 **(a)** @deva[च्] is changed to @deva[क्] when at the end of a pada or when followed by a consonant except a nasal or a semi-vowel.

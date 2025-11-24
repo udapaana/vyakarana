@@ -28,8 +28,8 @@ internal_pages:
   - "149"
   - "150"
 image_files:
-  - "157.png"
-  - "158.png"
+  - "149.png"
+  - "150.png"
 ---
 
 Bahuvrīhi compounds are divided into two classes, @deva[समानाधिकरणबहुब्रीहि] and @deva[व्यधिकरणबहुब्रीहि].[^1]

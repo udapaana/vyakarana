@@ -23,7 +23,7 @@ source_pages:
 internal_pages:
   - "26"
 image_files:
-  - "034.png"
+  - "026.png"
 ---
 
 If the final consonant of a word be @deva[ण] its preceding vowel @deva[ऋ], @deva[ॠ], @deva[ऌ] and following consonant be @deva[न], the latter @deva[न] is changed into @deva[ण] (being affected by the influence of its preceding letters)[^1]; e.g. @deva[सुतृण्] + @deva[नेता] = @deva[सुतृण्णेता] good judge of straw; @deva[सुतॄण्] + @deva[नयः] = @deva[सुतॄण्णयः] leading well over straw.

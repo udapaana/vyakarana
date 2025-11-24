@@ -30,7 +30,7 @@ source_pages:
 internal_pages:
   - "174"
 image_files:
-  - "182.png"
+  - "174.png"
 ---
 
 @deva[स्] is changed to @deva[ष्] when the following words are compounded:[^1]

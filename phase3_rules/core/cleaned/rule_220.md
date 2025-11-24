@@ -20,7 +20,7 @@ source_pages:
 internal_pages:
   - "131"
 image_files:
-  - "139.png"
+  - "131.png"
 ---
 
 Panini defines a 'Karmadhāraya' as @deva[समानाधिकरण तत्पुरुषः] or Tatpurusha both the members of which are in the same case relation i. e. have the same case when dissolved.

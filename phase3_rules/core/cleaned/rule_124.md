@@ -32,8 +32,8 @@ internal_pages:
   - "78"
   - "79"
 image_files:
-  - "086.png"
-  - "087.png"
+  - "078.png"
+  - "079.png"
 ---
 
 Bases ending in @deva[वत्] or @deva[ईवत्]—

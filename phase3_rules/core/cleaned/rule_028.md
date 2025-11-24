@@ -28,8 +28,8 @@ internal_pages:
   - "22"
   - "23"
 image_files:
-  - "030.png"
-  - "031.png"
+  - "022.png"
+  - "023.png"
 ---
 
 When @deva[स्] or a consonant of the dental class comes in contact with:—

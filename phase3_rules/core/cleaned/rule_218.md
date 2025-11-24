@@ -25,7 +25,7 @@ source_pages:
 internal_pages:
   - "130"
 image_files:
-  - "138.png"
+  - "130.png"
 ---
 
 **(a)** The negative particle @deva[न] changes to @deva[अ] before a consonant and @deva[अन्] before a vowel, may be compounded with any noun to form the Negative-Tatpurusha;[^1] as @deva[न ब्राह्मणः अब्राह्मणः], one not a Brāhmaṇa, @deva[न सत्यः असत्य], @deva[असत्], non-existent, or not good, &c.

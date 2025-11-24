@@ -40,8 +40,8 @@ internal_pages:
   - "120"
   - "121"
 image_files:
-  - "128.png"
-  - "129.png"
+  - "120.png"
+  - "121.png"
 ---
 
 **(a)** A noun in the Accusative case is compounded with @deva[श्रित], @deva[अतीत], @deva[पतित], @deva[गत], @deva[अत्यस्त], @deva[प्राप्त], @deva[आपन्न], @deva[गमी], @deva[बुभुक्षु], and others[^1]; as @deva[कृष्णं श्रितः कृष्णश्रितः] one who has resorted to Kṛishṇa ( as his refuge); @deva[दुःखमतीतः दुःखातीतः] one who has overcome pain; @deva[सुखं आपन्नः सुखापन्नः] one who has obtained happiness, @deva[ग्रामं गमी ग्रामगमी] going to a village, a passenger; @deva[अन्नं बुभुक्षुः अन्नबुभुक्षुः] &c.

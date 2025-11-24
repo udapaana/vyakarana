@@ -88,10 +88,10 @@ internal_pages:
   - "134"
   - "135"
 image_files:
-  - "140.png"
-  - "141.png"
-  - "142.png"
-  - "143.png"
+  - "132.png"
+  - "133.png"
+  - "134.png"
+  - "135.png"
 ---
 
 An adjective may be compounded with the noun it qualifies in most cases[^1] as @deva[नीलं च उत्पलं च नीलोत्पलं], a blue lotus &c.; @deva[कृष्णश्चासौ सर्पश्च कृष्णसर्पः] where the comp. is necessary; but @deva[कामदत्तो रामः] Such compounds are called @deva[विशेषणपूर्वपदकर्मधारयs].

@@ -36,7 +36,7 @@ source_pages:
 internal_pages:
   - "158"
 image_files:
-  - "166.png"
+  - "158.png"
 ---
 
 Two nouns alike in from in the Loc. and meaning 'something that can be seized,' or in the Instrumental, meaning 'weapons or things used as weapons,' may be compounded in a Bah. when the sense is 'the fight thus began' and the idea of an exchange of action is to be implied.[^1] In such compounds the final vowel of the first member is lengthened and that of the second is changed to @deva[इ]. The compounds so formed are of the nature of Avyayîbhâvas and are indeclinable. The final @deva[इ] takes Guna substitute before the final @deva[इ].[^2] e. g. @deva[केशोइ केशोइ युधि स्वैर्यं युध्दं प्रवृत्तं केशाकेशि] 'a battle in which the warriors fight seizing each other's hair'; @deva[दण्डेश्व दण्डेश्व प्रहरत्येषं युध्दं प्रवृत्तं दण्डादण्डि]; similarly @deva[मुष्टीमुष्टि], @deva[हस्ताहस्ति], @deva[बाहुबाहवि], @deva[हस्तलाहस्तलि], &c.; but if the instruments used by both the parties be not the same, no compound is possible; @deva[हस्ताखड्गि] will, therefore, be wrong.

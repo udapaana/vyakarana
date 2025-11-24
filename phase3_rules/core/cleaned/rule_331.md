@@ -23,7 +23,7 @@ source_pages:
 internal_pages:
   - "190"
 image_files:
-  - "198.png"
+  - "190.png"
 ---
 
 A Bah. ending in @deva[नख] and @deva[मुख] and used as proper names forms fem. in @deva[आ];[^1] @deva[सुवर्णनखा], @deva[गौरमुखा]; but @deva[ताम्रमुखी] a girl having a ruddy face.

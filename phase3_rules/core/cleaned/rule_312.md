@@ -44,8 +44,8 @@ internal_pages:
   - "183"
   - "184"
 image_files:
-  - "191.png"
-  - "192.png"
+  - "183.png"
+  - "184.png"
 ---
 
 The words @deva[इन्द्र], @deva[वरुण], @deva[भव], @deva[शर्व], @deva[रुद्र], @deva[मृड], and @deva[आचार्य]. @deva[हिम] and @deva[अरण्य] both implying 'vastness'; @deva[यव] meaning 'bad or spoiled barley', @deva[यवन] when the feminine denotes the alphabet of the Yavanas, @deva[मातुल] and @deva[आचार्य] form their fem in @deva[ई] but insert @deva[आन्] before this @deva[ई][^1] e.g. @deva[इन्द्राणी] 'the wife of Indra;' @deva[वरुणाणी] 'the wife of Varuṇa', &c.; @deva[हिमानी] 'a vast sheet of ice,' @deva[अरण्यानी] 'an immense expanse of forests,' @deva[दुषो यवो यवानी], @deva[यवनानी लिपिविशयानी], but @deva[यवनी] 'the wife of a Yavana or Yavana woman;' @deva[आचार्याणी] (and not @deva[णी])[^2] 'the wife of an Achārya or a holy teacher', but @deva[आचार्या] 'a woman who teaches; a spiritual preceptress'.

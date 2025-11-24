@@ -29,8 +29,8 @@ internal_pages:
   - "171"
   - "172"
 image_files:
-  - "179.png"
-  - "180.png"
+  - "171.png"
+  - "172.png"
 ---
 
 **Obs.**— The words @deva[इष्टका], @deva[इषीका] and @deva[माला] shorten their final when followed by @deva[चित्], @deva[तूल] and @deva[मालिन्] respectively;[^1] @deva[इष्टकाचितम्] made of bricks; @deva[पकेष्टकाचितम्]; @deva[इषीकतूलम्] 'the point of a reed,' @deva[पजेषीकतूलम्], @deva[मालमालिन्] having or wearing garlands; @deva[उत्सवमालमालिन्], (cf. Māl. Mād. IX. 2.) &c.

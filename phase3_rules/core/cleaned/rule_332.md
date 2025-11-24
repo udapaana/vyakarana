@@ -20,7 +20,7 @@ source_pages:
 internal_pages:
   - "190"
 image_files:
-  - "198.png"
+  - "190.png"
 ---
 
 Names of the limbs of the body, preceded by words denoting a cardinal point in a compound, form their fem. in @deva[ई][^1] @deva[उदक्मुखी], &c.

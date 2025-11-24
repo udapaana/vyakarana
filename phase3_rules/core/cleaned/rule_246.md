@@ -23,7 +23,7 @@ source_pages:
 internal_pages:
   - "149"
 image_files:
-  - "157.png"
+  - "149.png"
 ---
 
 A Bahuvrīhi compound consists of two or more nouns in apposition to each other the attributive member being placed first and denotes or refers to something else than what is expressed by its members.[^1] It generally attributes that which is expressed by its second member, determined or modified by what is denoted by its first member, to something denoted by neither of the two; e. g, @deva[महाबाहुः] 'one whose arm is great;' @deva[पीताम्बरः] 'one whose garment is yellow.' When dissolved it must have the pronoun @deva[यत्] in any one of the oblique cases; as @deva[महान् बाहुः यस्य स महाबाहुः] [ @deva[नटः] ]; @deva[पीतं अम्बरं यस्य स पीताम्बरः] [ @deva[हरिः] ]. A Bahuvrīhi compound partakes of the nature of an adjective and assumes the gender of the substantive it qualifies.

@@ -24,8 +24,8 @@ internal_pages:
   - "112"
   - "113"
 image_files:
-  - "120.png"
-  - "121.png"
+  - "112.png"
+  - "113.png"
 ---
 
 The expounding of a Samāsa (i. e. giving its Vigrahavākya) consists in the expression of the various relations existing between the objects or ideas denoted by the various members of a Samāsa by means of the proper cases or subordinate sentences.

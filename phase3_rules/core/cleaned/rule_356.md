@@ -26,7 +26,7 @@ source_pages:
 internal_pages:
   - "219"
 image_files:
-  - "227.png"
+  - "219.png"
 ---
 
 Words denoting fruits, and all numerals from @deva[शत] upwards, except @deva[शाड] mas., @deva[लक्ष] which is also fem. and @deva[कोटि] fem.; @deva[आम्रं], @deva[आमलकं], &c. @deva[शतं], @deva[सहस्रं] &c.

@@ -24,7 +24,7 @@ source_pages:
 internal_pages:
   - "77"
 image_files:
-  - "085.png"
+  - "077.png"
 ---
 
 @deva[अहन्] n. meaning 'a day' changes its final @deva[न्] (which becomes visarga finally to visarga) when followed by consonantal terminations or by nothing; in other cases it is declined like @deva[नामन्].

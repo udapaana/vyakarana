@@ -41,9 +41,9 @@ internal_pages:
   - "223"
   - "224"
 image_files:
-  - "230.png"
-  - "231.png"
-  - "232.png"
+  - "222.png"
+  - "223.png"
+  - "224.png"
 ---
 
 ## List of Common Sanskrit Prepositions

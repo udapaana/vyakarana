@@ -27,7 +27,7 @@ source_pages:
 internal_pages:
   - "186"
 image_files:
-  - "194.png"
+  - "186.png"
 ---
 
 Adjectives ending in @deva[उ] not preceded by a conjunct consonant, except @deva[स्वक्], take @deva[ई] optionally; e.g. @deva[मृदुः-मृदुः-दी]. @deva[पटुः-वी]. @deva[बहुः-वी]:; but @deva[स्वकः] 'a girl who chooses her husband' (@deva[पतिवरा कन्या] Sid. Kau.); @deva[पाण्डुः] and not @deva[पाण्डुई] as the @deva[उ] is preceded by a conjunct consonant; @deva[आयुः] as it is a noun.

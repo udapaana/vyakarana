@@ -51,8 +51,8 @@ internal_pages:
   - "184"
   - "185"
 image_files:
-  - "192.png"
-  - "193.png"
+  - "184.png"
+  - "185.png"
 ---
 
 Nouns ending in @deva[अ] and not having @deva[य] for their penultimate, except @deva[हय], @deva[गवय] a wild ox, @deva[शुक्रय], @deva[मनुष्य] and @deva[मत्स्य] take @deva[ई] when 'class' is implied[^1] e. g. @deva[शूद्री] 'A Sudra female' (also the wife of a @deva[शूद्र], see @ref[311]. above); similarly @deva[माद्रवी], @deva[महाराष्ट्री], &c., @deva[हरिणी], @deva[दृष्टी], @deva[औरणी] 'a woman of the @deva[औपव] class of Brāhmaṇas,' @deva[कटी] 'a woman of the @deva[कट] class of Brāhmaṇas', &c., @deva[हयी]; @deva[गवयी], @deva[शुक्रयी], @deva[मनुषी], and @deva[मत्सी] (vide @ref[306]. d.); but @deva[देवदत्ता] 'a woman of that name'; @deva[अश्वा] as it is one of the words included in the Ajādi group; (see @ref[307]. and foot-note); @deva[शूद्रा] 'a woman of the Śūdra class (see @ref[307] above).'

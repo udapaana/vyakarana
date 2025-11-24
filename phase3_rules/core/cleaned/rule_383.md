@@ -22,7 +22,7 @@ source_pages:
 internal_pages:
   - "232"
 image_files:
-  - "240.png"
+  - "232.png"
 ---
 
 When a root is capable of taking either pada, the Parasmaipada (lit: word for another) should be used when the fruit or result of the action of the verb accrues to any other person or thing than the agent, and the Ātmanepada (lit. word for self) when it refers to the agent. Thus @deva[देवदत्तः यजति] will mean 'Devadatta sacrifices for another (his Yajamāna);' while @deva[देवदत्तः यजते] will mean 'Devadatta sacrifices for himself.'

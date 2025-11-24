@@ -24,7 +24,7 @@ source_pages:
 internal_pages:
   - "150"
 image_files:
-  - "158.png"
+  - "150.png"
 ---
 
 A Vyadhikaraṇa Bah. is that whose members are not in apposition to each other i. e. are in different cases when dissolved. A Vyadhikaraṇa Bah. is not allowed in any case except in the Genitive and the Locative:[^1] as @deva[चक्रं पाणौ यस्य स चक्रपाणिः हरिः], @deva[चन्द्रस्य इव कान्तिर्यस्य स चन्द्रकान्तिः][^2]; so @deva[पद्मगन्धः], @deva[ब्राह्मपाणिः], &c. @deva[शशिनो शंशरे यस्य असौ शशिशेखरः] &c.; but @deva[पद्मगन्धिकन्यस्य पद्मगन्धः] is not allowed.

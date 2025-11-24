@@ -29,7 +29,7 @@ source_pages:
 internal_pages:
   - "41"
 image_files:
-  - "049.png"
+  - "041.png"
 ---
 
 **Obs.** **(a)** @deva[औडुलोमि] a descendant of Uduloman (@deva[उदुलोमः अपत्यं पुमान्]) is declined like @deva[हरि] in the sing. and dual and like @deva[ब्राह्म] in the plural, the original word @deva[उदुलोम] being substituted;[^1]

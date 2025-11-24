@@ -53,8 +53,8 @@ internal_pages:
   - "155"
   - "156"
 image_files:
-  - "163.png"
-  - "164.png"
+  - "155.png"
+  - "156.png"
 ---
 
 At the end of a Bah. compound—

@@ -51,8 +51,8 @@ internal_pages:
   - "161"
   - "162"
 image_files:
-  - "169.png"
-  - "170.png"
+  - "161.png"
+  - "162.png"
 ---
 
 In forming the Avyayībhāva compounds the following rules should be observed:—

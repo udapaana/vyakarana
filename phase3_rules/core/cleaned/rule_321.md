@@ -36,8 +36,8 @@ internal_pages:
   - "186"
   - "187"
 image_files:
-  - "194.png"
-  - "195.png"
+  - "186.png"
+  - "187.png"
 ---
 
 A prātipadika ending in @deva[उ] not preceded by @deva[य] and denoting mankind forms its feminine in @deva[ऊ]:;[^1] e.g. @deva[कुरुः] 'a woman of the Kuru country'; but @deva[अध्वर्युः] 'the wife of an Adhvaryu'; also when it does not denote animal-kind; as @deva[अक्षाहुः]. @deva[कुक्कुटुः]; except in the case of @deva[रज्जु] and @deva[हनु];[^2] @deva[रज्जूः]; @deva[हनूः].

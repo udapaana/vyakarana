@@ -25,7 +25,7 @@ source_pages:
 internal_pages:
   - "85"
 image_files:
-  - "093.png"
+  - "085.png"
 ---
 
 A few nouns such as @deva[भूर्] 'the lowest world,' @deva[स्वर्] 'heaven,' @deva[संवत्] 'a year of an era', @deva[अस्तम्] 'setting,' @deva[शम्] 'ease,' @deva[नमस्] 'a bow', @deva[स्वस्ति] 'hail, farewell' &c. are indeclinables.

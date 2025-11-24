@@ -28,8 +28,8 @@ internal_pages:
   - "221"
   - "222"
 image_files:
-  - "229.png"
-  - "230.png"
+  - "221.png"
+  - "222.png"
 ---
 
 ## Definition and Function of Prepositions (Upasarga)

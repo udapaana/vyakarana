@@ -20,7 +20,7 @@ source_pages:
 internal_pages:
   - "37"
 image_files:
-  - "045.png"
+  - "037.png"
 ---
 
 Several adjectives ending in @deva[अ] follow the declension of pronouns, for which see the chap. on pronouns.

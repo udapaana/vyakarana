@@ -41,7 +41,7 @@ source_pages:
 internal_pages:
   - "106"
 image_files:
-  - "114.png"
+  - "106.png"
 ---
 
 @deva[एक] is declined in the sing. (though it may have the dual and plural also), and @deva[द्वि] in the dual alone. For further particulars see @ref[154]. @deva[त्रि] and @deva[चतुर्] are declined in the plu. alone. E. g.

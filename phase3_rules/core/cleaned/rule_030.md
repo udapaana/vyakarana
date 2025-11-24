@@ -22,7 +22,7 @@ source_pages:
 internal_pages:
   - "23"
 image_files:
-  - "031.png"
+  - "023.png"
 ---
 
 If a consonant, except @deva[र्] or @deva[ह्], coming at the end of a word, be followed by a nasal, the nasal of its class is optionally substituted for it[^1]; @deva[एतत्] + @deva[मुरारिः] = @deva[एतन्मुरारिः] and @deva[एतत्मुरारिः] (see @ref[22] sec. b.) this Murāri; @deva[षट्] + @deva[मासाः] = @deva[षण्मासाः] and @deva[षट्मासाः] six months.

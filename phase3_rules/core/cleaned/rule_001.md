@@ -27,8 +27,8 @@ internal_pages:
   - "1"
   - "2"
 image_files:
-  - "009.png"
-  - "010.png"
+  - "001.png"
+  - "002.png"
 ---
 
 Sanskrit, or the refined language, is the language of @deva[देव] (@[deva]) or gods,[^1] and the alphabet in which it is written is called @deva[देवनागरी] (@[devanāgarī]), or that employed in the cities of gods.

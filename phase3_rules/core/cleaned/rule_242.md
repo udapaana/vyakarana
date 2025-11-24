@@ -28,7 +28,7 @@ source_pages:
 internal_pages:
   - "146"
 image_files:
-  - "154.png"
+  - "146.png"
 ---
 
 The word @deva[महत्] is changed to @deva[महा] when it forms the first member of a Karmadharaya or a Bahuvrihi compound, or when the termination @deva[जातीय] follows,[^1] as @deva[महादेव:] the great god, @deva[महाबाहु:] a great arm (Tat.) or one having a great arm (Bah.), @deva[महाजातीय:]; but @deva[महत्: सेवा महत्सेवा] (Gen. Tat.).

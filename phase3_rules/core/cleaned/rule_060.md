@@ -23,8 +23,8 @@ internal_pages:
   - "34"
   - "35"
 image_files:
-  - "042.png"
-  - "043.png"
+  - "034.png"
+  - "035.png"
 ---
 
 The declension of adjectives does not, in general, differ from that of substantives. It will not, therefore, be given here separately; the points of difference only will be noted.

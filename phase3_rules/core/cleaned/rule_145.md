@@ -25,7 +25,7 @@ source_pages:
 internal_pages:
   - "94"
 image_files:
-  - "102.png"
+  - "094.png"
 ---
 
 Reciprocity is expressed by the repetition of the pronominal adjectives @deva[अन्य], @deva[इतर] and @deva[पर]; e. g. @deva[अन्योन्य], @deva[इतरेतर], and @deva[परस्पर]. These are generally used in the sing. and also adverbially e. g. @deva[परस्परेण स्पृहणीयशोभौ] &c. (Rag. VII. 14); @deva[परस्परं विवद्न्ते] &c. They are more commonly used as the first members of compounds; as @deva[अन्योन्यक्रोधाजननात् बभूव] &c. (Ku. I, 44; @deva[इतरेतरयोगात्] (Sis. X. 24.) &c.

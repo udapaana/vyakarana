@@ -84,8 +84,8 @@ internal_pages:
   - "233"
   - "234"
 image_files:
-  - "241.png"
-  - "242.png"
+  - "233.png"
+  - "234.png"
 ---
 
 **Terminations:**—

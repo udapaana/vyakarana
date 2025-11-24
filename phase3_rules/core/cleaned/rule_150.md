@@ -23,8 +23,8 @@ internal_pages:
   - "96"
   - "97"
 image_files:
-  - "104.png"
-  - "105.png"
+  - "096.png"
+  - "097.png"
 ---
 
 @deva[स्व] when it does not mean "a class" or "wealth" is a pronoun and is declined like @deva[सर्व][^1] m. f. n.; but it forms its Nom plu. and Ab. and Loc. sing. optionally like @deva[राम] when mas.; as @deva[स्वे] or @deva[स्वाः] 'one's own' Nom plu.; but @deva[स्वाः] 'people of one's class' only (declined like @deva[राम]).

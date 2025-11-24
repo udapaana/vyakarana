@@ -28,7 +28,7 @@ source_pages:
 internal_pages:
   - "105"
 image_files:
-  - "113.png"
+  - "105.png"
 ---
 
 The Tad. affix @deva[अ][^1] may be used, instead of @deva[अधिक], in the case of the cardinal numbers ending in @deva[दशन्‌], the numeral @deva[विंशति] and those ending in @deva[शत्] i. e. in the case of the numerals 111-159, 211-259, 311-359, &c. and qualifying the numerals @deva[शत] and @deva[सहस्र] before which the final @deva[अन्‌], @deva[अति] and @deva[अत्] are dropped e. g. @deva[एकादशं शतम्] 111, @deva[विंशं शतं] 120, @deva[पञ्चाशं शतं] 150, @deva[सप्तदशं द्विशतं] 217, @deva[त्रिंशं त्रिशतं] 330 and so on.

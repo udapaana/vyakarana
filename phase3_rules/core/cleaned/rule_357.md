@@ -40,7 +40,7 @@ source_pages:
 internal_pages:
   - "219"
 image_files:
-  - "227.png"
+  - "219.png"
 ---
 
 The words @deva[हल], @deva[नयन], @deva[लोह], @deva[धन], @deva[मांस], @deva[रचित], @deva[काष्ठक] 'a bow', &c., @deva[विवर], @deva[जल], @deva[हल], @deva[धन], @deva[चल], @deva[अक्ष], @deva[कुड्मल], @deva[शुल्व] 'copper', @deva[पत्तन], @deva[रण], and their synonyms.

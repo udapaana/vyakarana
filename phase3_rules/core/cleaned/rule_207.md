@@ -29,8 +29,8 @@ internal_pages:
   - "122"
   - "123"
 image_files:
-  - "130.png"
-  - "131.png"
+  - "122.png"
+  - "123.png"
 ---
 
 A noun in the Dative is compounded[^1]—

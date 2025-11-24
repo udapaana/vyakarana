@@ -28,8 +28,8 @@ internal_pages:
   - "52"
   - "53"
 image_files:
-  - "060.png"
-  - "061.png"
+  - "052.png"
+  - "053.png"
 ---
 
 Here simply the terminations should be added and Sandhi rules observed.

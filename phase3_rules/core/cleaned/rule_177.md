@@ -98,8 +98,8 @@ internal_pages:
   - "110"
   - "111"
 image_files:
-  - "118.png"
-  - "119.png"
+  - "110.png"
+  - "111.png"
 ---
 
 The following is an alphabetical list of the irregular comparatives and superlatives that are commonly met with:-

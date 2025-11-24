@@ -22,7 +22,7 @@ source_pages:
 internal_pages:
   - "138"
 image_files:
-  - "146.png"
+  - "138.png"
 ---
 
 Words ending in the terminations @deva[तलय], @deva[अभीय], @deva[य] and @deva[धन्य] and words having a similar meaning, may be compounded with any subanta not importing a particular kind;[^1] e. g. @deva[भोज्यो-पाय्] 'any hot eatable', @deva[तुल्यश्वेतः] 'of a similar white colour,' @deva[सदृशसुभ्रतः], &c.; but @deva[भोज्यः भोजनः] as the latter word refers to a kind of food here.

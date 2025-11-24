@@ -27,7 +27,7 @@ source_pages:
 internal_pages:
   - "171"
 image_files:
-  - "179.png"
+  - "171.png"
 ---
 
 **(a)** When the first member of a compound ends in @deva[इ] or @deva[उ] not capable of changing into @deva[इय्] or @deva[उव्] and not belonging to a fem. termination or an indeclinable, the @deva[इ] or @deva[उ] is optionally shortened; @deva[ग्रामणिपुत्रः] or @deva[ग्रामणिपुत्रः] the son of a leader of a village; &c.; but @deva[गौरिपतिः], @deva[श्रीमत्], @deva[भ्रूकः], @deva[शुक्रोपास] &c.

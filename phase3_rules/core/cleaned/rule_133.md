@@ -62,8 +62,8 @@ internal_pages:
   - "86"
   - "87"
 image_files:
-  - "094.png"
-  - "095.png"
+  - "086.png"
+  - "087.png"
 ---
 
 The pronouns @deva[अस्मद्] 'I,' @deva[युष्मद्] 'thou', and @deva[भवत्] 'your honour.'—

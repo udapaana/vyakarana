@@ -22,7 +22,7 @@ source_pages:
 internal_pages:
   - "22"
 image_files:
-  - "030.png"
+  - "022.png"
 ---
 
 The particle @deva[उ], preceded by a letter of the first five classes except @deva[अ] and followed by any vowel, is optionally changed to @deva[व][^1]; @deva[किंव उक्ते] @deva[किंतु उक्ते] and @deva[किंव उक्ते] (by @ref[26] c.).

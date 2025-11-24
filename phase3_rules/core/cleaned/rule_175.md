@@ -37,7 +37,7 @@ source_pages:
 internal_pages:
   - "109"
 image_files:
-  - "117.png"
+  - "109.png"
 ---
 
 The possessive affixes at the end of words and the affix @deva[व्] are dropped before @deva[ईयस्] and @deva[इष्ठ][^1] and then these terminations are applied subject to the above rule; e. g. @deva[मतिमत्] talented @deva[मतीयस्], @deva[मतिष्ठ]; @deva[मेधाविन्]-@deva[मेधीयस्], @deva[मेधिष्ठ]; @deva[धनिन्]-@deva[धनीयस्]-@deva[धनिष्ठ]; @deva[कवे]-@deva[कवीयस्], @deva[कविष्ठ] (@deva[आतिशयन कर्ता]); @deva[स्रोम]-@deva[स्रवीयस्], @deva[स्रविष्ठ]; so @deva[स्रजीयस्], @deva[स्रजिष्ठ] from @deva[स्रजिन्] one having a garland &c.

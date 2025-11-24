@@ -25,7 +25,7 @@ source_pages:
 internal_pages:
   - "68"
 image_files:
-  - "076.png"
+  - "068.png"
 ---
 
 The Nom. sing. of @deva[अनेहस्] time, @deva[पुरूहस्] name of Indra, and @deva[उशनस्] name of Śukrāchārya is @deva[अनेहा], @deva[पुरूहा] and @deva[उशना] respectively; the Voc. sing. of @deva[उशनस्] is @deva[उशनस], @deva[उशन्] and @deva[उशन]; the other forms are regular.

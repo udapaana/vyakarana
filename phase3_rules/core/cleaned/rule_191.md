@@ -21,7 +21,7 @@ source_pages:
 internal_pages:
   - "115"
 image_files:
-  - "123.png"
+  - "115.png"
 ---
 
 The names of fruits, parts of an army, herbs, deer, birds, insects, corn and grass form a Samāhāra-Dwandwa, only when they are taken in the plural;[^1], as @deva[बदराणि च आमलकानि च बदरामलकम्], but @deva[बदरं च आमलकं च बदरामलके]; @deva[रथिनाश्च अश्वारोहाश्च रथिनाश्वारोहम्], &c.

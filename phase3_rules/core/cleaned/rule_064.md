@@ -25,7 +25,7 @@ source_pages:
 internal_pages:
   - "36"
 image_files:
-  - "044.png"
+  - "036.png"
 ---
 
 Decline similarly @deva[विश्वपा] the protector of the world, @deva[शङ्खध्मा] a conch-shell-blower, @deva[सोमपा] one who quaffs the some-juice, @deva[धूमपा] one who inhales smoke, @deva[बलदा] strength-giver or Indra, and other comp. nouns derived from roots ending in @deva[आ].

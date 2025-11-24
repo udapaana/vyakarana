@@ -33,7 +33,7 @@ source_pages:
 internal_pages:
   - "178"
 image_files:
-  - "186.png"
+  - "178.png"
 ---
 
 The @deva[न] of @deva[पान] is changed to @deva[ण] necessarily when the compound implies a country and optionally when it signifies merely the act of drinking; as @deva[सुरापाणः]: (@deva[पाण्डयः]); @deva[क्षीरपाणः]: (@deva[द्वायणर्देशः]); but @deva[क्षीरपानम्] or @deva[पाणम्].

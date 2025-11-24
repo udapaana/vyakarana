@@ -21,7 +21,7 @@ source_pages:
 internal_pages:
   - "216"
 image_files:
-  - "224.png"
+  - "216.png"
 ---
 
 ## Five Categories of Indeclinables

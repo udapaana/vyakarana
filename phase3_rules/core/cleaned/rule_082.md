@@ -31,7 +31,7 @@ source_pages:
 internal_pages:
   - "50"
 image_files:
-  - "058.png"
+  - "050.png"
 ---
 
 Nouns expressive of relationship like @deva[पितृ] m. a father, @deva[मातृ] f. a mother, @deva[देवृ] m. a husband's brother, &c. with the exception of @deva[नप्तृ] a grandson, @deva[भर्तृ] a husband and @deva[स्वसृ] a sister, as also the words @deva[स्तोतृ] one who praises (Un. II, 92), @deva[नृ] a man (Un.II. 98) and @deva[सप्तेतृ] a charioteer, do not change their @deva[ऋ] to @deva[आर्] in the N. dual and plural and Acc. sing. and dual; e. g.

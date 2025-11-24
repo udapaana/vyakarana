@@ -20,7 +20,7 @@ source_pages:
 internal_pages:
   - "178"
 image_files:
-  - "186.png"
+  - "178.png"
 ---
 
 The @deva[न] of @deva[वाहन] is changed to @deva[ण] when preceded by a word denoting an object that can be borne; @deva[पुष्पवाहणम्]; but @deva[इन्द्रवाहनम्] (@deva[इन्द्रस्वामिके वाहनमित्यर्थः]: Sid. Kau.).

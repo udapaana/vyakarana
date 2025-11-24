@@ -20,7 +20,7 @@ source_pages:
 internal_pages:
   - "93"
 image_files:
-  - "101.png"
+  - "093.png"
 ---
 
 The sense of the reflexive pronoun is, in Sanskrit, expressed by the word @deva[आत्मन्] 'self' which is invariably used in the masculine gender and singular number, and by the reflexive adverb @deva[स्वयम्] e.g. @deva[गुप्तं ददृशुरात्मानं सर्वाः स्वप्नेषु वामनैः] "they all (the wives of Das'aratha) saw in dreams that they were guarded by dwarfs; " @deva[सः] or @deva[सा कृतापराधमिव आत्मानमवगच्छति ।] @deva[राजा स्वयं समरभूमि जगाम], &c.

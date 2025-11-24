@@ -20,7 +20,7 @@ source_pages:
 internal_pages:
   - "97"
 image_files:
-  - "105.png"
+  - "097.png"
 ---
 
 @deva[द्वेष] meaning 'half' is a pronoun, but it is optionally declined like @deva[राम] in the Nom. plu. mas.; in other respects it is declined like @deva[सर्व].

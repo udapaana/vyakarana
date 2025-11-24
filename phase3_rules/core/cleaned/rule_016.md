@@ -22,7 +22,7 @@ source_pages:
 internal_pages:
   - "12"
 image_files:
-  - "020.png"
+  - "012.png"
 ---
 
 The three semivowels @deva[य्], @deva[र्] and @deva[ल्] are sometimes nasalised and then they are written with the @deva[अनुनासिक] sign over them, as @deva[य̐], @deva[र̐], @deva[ल̐].

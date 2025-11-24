@@ -30,7 +30,7 @@ source_pages:
 internal_pages:
   - "232"
 image_files:
-  - "240.png"
+  - "232.png"
 ---
 
 With reference to the various moods the verbs are divided into ten conjugational classes by Sanskrit grammarians, each class being denominated after the root which begins it viz. (1) @deva[भ्वादि] (2) @deva[अदादि] (3) @deva[जुहोत्यादि], (4) @deva[दिवादि], (5) @deva[स्वादि], (6) @deva[तुदादि], (7) @deva[रुधादि], (8) @deva[तनादि] (9) @deva[क्र्यादि] and (10) @deva[चुरादि].

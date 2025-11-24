@@ -28,8 +28,8 @@ internal_pages:
   - "19"
   - "20"
 image_files:
-  - "027.png"
-  - "028.png"
+  - "019.png"
+  - "020.png"
 ---
 
 @deva[ए], @deva[ओ], @deva[ऐ] and @deva[औ], when followed by a vowel, are changed to @deva[अय्], @deva[अव्], @deva[आय्], and @deva[आव्] respectively[^1]; e.g. @deva[हरे] + @deva[ए] = @deva[हरय] for Hari; @deva[विष्णो] + @deva[ए] = @deva[विष्णव] for Viṣṇu; @deva[नै] + @deva[अकः] = @deva[नायकः] A leader; @deva[पौ] + @deva[अकः] = @deva[पावकः] the purifier i.e. fire.

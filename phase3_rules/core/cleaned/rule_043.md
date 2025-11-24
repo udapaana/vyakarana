@@ -25,8 +25,8 @@ internal_pages:
   - "26"
   - "27"
 image_files:
-  - "034.png"
-  - "035.png"
+  - "026.png"
+  - "027.png"
 ---
 
 **Obs. I.** We here give the different forms which @deva[सस्], @deva[पुंस्] and @deva[कांस्] when combined with different consonants and vowels can take. One hundred and eight forms in all:—

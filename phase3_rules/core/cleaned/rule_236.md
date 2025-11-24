@@ -22,7 +22,7 @@ source_pages:
 internal_pages:
   - "142"
 image_files:
-  - "150.png"
+  - "142.png"
 ---
 
 Sometimes the second member of an Upapada Tat. my be a Namulanta or the verbal indeclinable in @deva[अप्]; as @deva[स्वादुकृत्य भुङ्क्ते] 'he eats having sweetened the food;' @deva[अग्रेभोजं] 'having dined first;' sometimes this compound is optional. @deva[मूलकोपदंशं] or @deva[मूलकेन उपदंशं भुङ्क्ते] 'he eats the condiment with a raddish,' &c.

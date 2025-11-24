@@ -36,8 +36,8 @@ internal_pages:
   - "118"
   - "119"
 image_files:
-  - "126.png"
-  - "127.png"
+  - "118.png"
+  - "119.png"
 ---
 
 The following rules should be observed in arranging the various members of a Dwandwa Compound:—

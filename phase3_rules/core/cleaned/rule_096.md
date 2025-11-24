@@ -19,7 +19,7 @@ source_pages:
 internal_pages:
   - "57"
 image_files:
-  - "065.png"
+  - "057.png"
 ---
 
 When a mono-syllabic root (or root-noun) begins with @deva[व्], @deva[य्] or @deva[च्] and ends with @deva[च्], @deva[छ्], @deva[थ्], @deva[भ्] or @deva[ह्], the @deva[च्], @deva[य्] or @deva[च्] is respectively changed to @deva[अ], @deva[व्] or @deva[य्] before @deva[च्] or @deva[च्ह्] or when followed by nothing or when the final soft aspirate is changed to an unaspirate letter[^1].

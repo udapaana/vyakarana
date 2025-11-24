@@ -59,8 +59,8 @@ internal_pages:
   - "224"
   - "225"
 image_files:
-  - "232.png"
-  - "233.png"
+  - "224.png"
+  - "225.png"
 ---
 
 ## Formation of Adverbs from Various Cases

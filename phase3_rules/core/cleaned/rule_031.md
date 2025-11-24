@@ -25,8 +25,8 @@ internal_pages:
   - "23"
   - "24"
 image_files:
-  - "031.png"
-  - "032.png"
+  - "023.png"
+  - "024.png"
 ---
 
 A letter of the dental class, followed by @deva[ल्] is changed to @deva[ल्], the nasalised @deva[ल्] taking the place of @deva[न्][^1]; @deva[तत्] + @deva[लयः] = @deva[तल्लयः] the destruction of that; @deva[विद्वान्] + @deva[लिखति] = @deva[विद्वाँल्लिखति] a learned man writes.

@@ -54,10 +54,10 @@ internal_pages:
   - "208"
   - "209"
 image_files:
-  - "214.png"
-  - "215.png"
-  - "216.png"
-  - "217.png"
+  - "206.png"
+  - "207.png"
+  - "208.png"
+  - "209.png"
 ---
 
 The affixes given in §. 340 are added in the following senses also, and are therefore called @deva[मत्वर्थीय] 'affixes expressing possession.' These affixes are @deva[मतुप्] (@deva[मत्], @deva[वत्]), @deva[इनि], @deva[इलच्] and @deva[विनि].[^1]

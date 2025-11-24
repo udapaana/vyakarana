@@ -28,8 +28,8 @@ internal_pages:
   - "65"
   - "66"
 image_files:
-  - "073.png"
-  - "074.png"
+  - "065.png"
+  - "066.png"
 ---
 
 @deva[कुञ्च्] a heron &c. (derived from @deva[कुञ्च् क्रौडित्यार्थे योः]), @deva[खञ्च्] a lame man, and @deva[हुवल्न्] beautifully bounding become @deva[कुङ्], @deva[खञ्] and @deva[हुवन्] before consonantal terminations; e. g.

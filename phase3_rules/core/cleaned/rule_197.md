@@ -34,8 +34,8 @@ internal_pages:
   - "117"
   - "118"
 image_files:
-  - "125.png"
-  - "126.png"
+  - "117.png"
+  - "118.png"
 ---
 
 When several words of the same form ( or dissimilar in form but of the same import[^1] ) are compounded together, only one of them is retained with the necessary number-

@@ -35,8 +35,8 @@ internal_pages:
   - "187"
   - "188"
 image_files:
-  - "195.png"
-  - "196.png"
+  - "187.png"
+  - "188.png"
 ---
 
 A prātipodika ending in short @deva[क] or @deva[द] forms its feminine by the addition of @deva[ई];[^1] @deva[कर्क-कर्की], @deva[दण्डयु-दण्डयुनी], @deva[स्वनी], @deva[मञ्जनी], @deva[परिदेवयु-परिदेवनी]; &c.

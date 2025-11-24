@@ -19,7 +19,7 @@ source_pages:
 internal_pages:
   - "55"
 image_files:
-  - "063.png"
+  - "055.png"
 ---
 
 **(a)** As a general rule the @deva[स्] of the nom. singular is dropped. If there be a conjunct consonant at the end of a word the first consonant only is retained.

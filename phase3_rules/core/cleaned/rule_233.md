@@ -71,8 +71,8 @@ internal_pages:
   - "140"
   - "141"
 image_files:
-  - "148.png"
-  - "149.png"
+  - "140.png"
+  - "141.png"
 ---
 
 Compounds of the following words with verbal indeclinables are called Gati.

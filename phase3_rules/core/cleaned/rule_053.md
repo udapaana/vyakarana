@@ -23,7 +23,7 @@ source_pages:
 internal_pages:
   - "33"
 image_files:
-  - "041.png"
+  - "033.png"
 ---
 
 A noun has three genders: masculine gender (mas.), a feminine gender (fem.), and the neuter (neu.). The question about the determination of the gender of nouns will be considered in a separate chapter.

@@ -89,11 +89,11 @@ internal_pages:
   - "103"
   - "104"
 image_files:
-  - "108.png"
-  - "109.png"
-  - "110.png"
-  - "111.png"
-  - "112.png"
+  - "100.png"
+  - "101.png"
+  - "102.png"
+  - "103.png"
+  - "104.png"
 ---
 
 Cardinals and Ordinals

@@ -79,9 +79,9 @@ internal_pages:
   - "180"
   - "181"
 image_files:
-  - "187.png"
-  - "188.png"
-  - "189.png"
+  - "179.png"
+  - "180.png"
+  - "181.png"
 ---
 
 A Prâtipadika ending in @deva[अ] and the words included in the Ajâdi group[^1] form their feminine in @deva[आ];[^2] as @deva[भुञ्जान-भुञ्जाना] ; @deva[अज-अजा], @deva[एडका], @deva[अभा], @deva[चटका], @deva[मूषिका]; @deva[बाला], @deva[बत्सा], @deva[होडा], @deva[मन्दा], @deva[विडाला], all meaning 'a young girl'; (of these the first five form an exception to @ref[313], and the second to @ref[308], a°); @deva[आ] is also added to @deva[फल] when compounded with @deva[सत्], @deva[भद्र], @deva[अर्जुन], @deva[पद्म] and @deva[पिण्ड]; to @deva[पुष्प] when compounded with @deva[सत्], words ending in @deva[अच्], to @deva[काण्ड], @deva[प्रान्त], @deva[शत] and @deva[एक]; to @deva[शूद्र] not preceded by @deva[महत्], when class is implied, and to @deva[मल] preceded by @deva[अ]; @deva[संस्फला]; @deva[भद्रफला], @deva[पुणयफला], &c all 'kinds of creeper'; @deva[सत्-पाक्-काण्ड-प्रान्त-शत-एक-पुष्पा], 'kinds of creeper' @deva[शूद्रा] 'a woman of the @deva[शूद्र] class;' @deva[अमला].

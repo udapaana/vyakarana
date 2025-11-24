@@ -27,8 +27,8 @@ internal_pages:
   - "231"
   - "232"
 image_files:
-  - "239.png"
-  - "240.png"
+  - "231.png"
+  - "232.png"
 ---
 
 The first six lakāras are to be distinguished into two groups, the Special or Conjugational (@deva[विकरण]) or general. In the former the characteristic marks and terminations of each are mostly added to a special base formed from the roots in various ways, while in the latter they are combined with the root itself.[^1]

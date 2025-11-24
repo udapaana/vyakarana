@@ -25,8 +25,8 @@ internal_pages:
   - "28"
   - "29"
 image_files:
-  - "036.png"
-  - "037.png"
+  - "028.png"
+  - "029.png"
 ---
 
 @deva[अः] at the end of a word is changed to @deva[र्] before @deva[र्];[^1] e.g. @deva[पुनः] + @deva[रमते] = @deva[पुनर्रमते] he again rejoices.

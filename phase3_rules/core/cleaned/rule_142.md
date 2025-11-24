@@ -22,7 +22,7 @@ source_pages:
 internal_pages:
   - "93"
 image_files:
-  - "101.png"
+  - "093.png"
 ---
 
 The terminations given above are also added to interrogative adverbs in the sense of indefiniteness; as @deva[कदाचित्] at some time, @deva[कदाचन], @deva[कतिचित्] some, @deva[क्वचित्] somewhere, &c.

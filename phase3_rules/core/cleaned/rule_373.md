@@ -115,9 +115,9 @@ internal_pages:
   - "226"
   - "227"
 image_files:
-  - "233.png"
-  - "234.png"
-  - "235.png"
+  - "225.png"
+  - "226.png"
+  - "227.png"
 ---
 
 ## Alphabetical List of Sanskrit Adverbs

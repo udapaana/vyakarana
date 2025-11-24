@@ -18,7 +18,7 @@ source_pages:
 internal_pages:
   - "54"
 image_files:
-  - "062.png"
+  - "054.png"
 ---
 
 ## SECTION II.

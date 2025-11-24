@@ -23,7 +23,7 @@ source_pages:
 internal_pages:
   - "6"
 image_files:
-  - "014.png"
+  - "006.png"
 ---
 
 Some consonants are pronounced with a slight aspiration and are designated as @deva[अल्पप्राण] (@[Alpa-prāṇa]), while others which are pronounced with a stronger aspiration are called @deva[महाप्राण] (@[Mahā-prāṇa]). The first and third letters of each class, the nasals and the semi-vowels belong to the first class; the rest belong to the second class. For the sake of convenience the first and third letters of each class are sometimes called "unaspirates."

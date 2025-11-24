@@ -40,8 +40,8 @@ internal_pages:
   - "121"
   - "122"
 image_files:
-  - "129.png"
-  - "130.png"
+  - "121.png"
+  - "122.png"
 ---
 
 A noun in the Instrumental may be compounded—

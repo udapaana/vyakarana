@@ -22,7 +22,7 @@ source_pages:
 internal_pages:
   - "97"
 image_files:
-  - "105.png"
+  - "097.png"
 ---
 
 @deva[अन्तर] is a pronoun (and therefore declined like @deva[सर्व] m. n. f.) when it means "exterior, outer; or what is to be worn out-side, as a garment"[^1] except when followed by @deva[पुर]; it is optionally declined like nouns ending in @deva[अ] in the Nom. pl. and Ab. and Loc. sing. of the mas. e. g. @deva[अन्तरे अन्तराः वा पटाः]; @deva[अन्तरे-अन्तराः वा झटकाः] (garments). But @deva[अन्तरायां पुरि].

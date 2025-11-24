@@ -25,7 +25,7 @@ source_pages:
 internal_pages:
   - "111"
 image_files:
-  - "119.png"
+  - "111.png"
 ---
 
 Sometimes the terminations @deva[तर] and @deva[तम] are added to the comp. and super. in @deva[ईयस्] and @deva[इष्ठ] to intensify the meaning; as @deva[पापीयस्तर], @deva[पापीयस्तम]; @deva[श्रेष्ठतर], @deva[श्रेष्ठतम].

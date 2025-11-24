@@ -21,7 +21,7 @@ source_pages:
 internal_pages:
   - "66"
 image_files:
-  - "074.png"
+  - "066.png"
 ---
 
 Nouns ending in @deva[ऋ्]. There are a few nouns derived from the roots ending in @deva[ऋ्]. They have no other peculiarity than this, that they change their @deva[ऋ्] to @deva[र्] before consonantal terminations. e. g. @deva[प्रशाऋ्] m. f. one who is tranquil.

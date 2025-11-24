@@ -41,7 +41,7 @@ source_pages:
 internal_pages:
   - "224"
 image_files:
-  - "232.png"
+  - "224.png"
 ---
 
 ## Other Words Used Prepositionally (Gati)

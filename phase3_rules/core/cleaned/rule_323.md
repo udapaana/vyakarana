@@ -27,7 +27,7 @@ source_pages:
 internal_pages:
   - "187"
 image_files:
-  - "195.png"
+  - "187.png"
 ---
 
 The fem. of @deva[उशकपि], Vishṇu or Shiva, @deva[आर्धि], @deva[कुसित] or @deva[कुसिद] 'a usurer' is formed in @deva[ई] before which the final vowel of these is changed to @deva[ऐ];[^1] @deva[उशकऐपयी], @deva[भगायी], @deva[कुसितायी] or @deva[कुसिदायी].

@@ -25,7 +25,7 @@ source_pages:
 internal_pages:
   - "33"
 image_files:
-  - "041.png"
+  - "033.png"
 ---
 
 There are three numbers:—Singular (sing.), dual (du.) and plural (pl.). The singular number denotes one, the dual two and the plural three or more.[^1]

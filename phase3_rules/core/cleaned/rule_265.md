@@ -21,7 +21,7 @@ source_pages:
 internal_pages:
   - "160"
 image_files:
-  - "168.png"
+  - "160.png"
 ---
 
 The final @deva[आ] is optionally shortened before @deva[क्]; as @deva[बहुमाक्षः-मालाक्षः-मालकः], &c.

@@ -26,7 +26,7 @@ source_pages:
 internal_pages:
   - "98"
 image_files:
-  - "106.png"
+  - "098.png"
 ---
 
 The various meanings of @deva[एक] are:—

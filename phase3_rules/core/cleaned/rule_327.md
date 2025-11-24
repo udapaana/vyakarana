@@ -28,7 +28,7 @@ source_pages:
 internal_pages:
   - "188"
 image_files:
-  - "196.png"
+  - "188.png"
 ---
 
 A Bahuvrīhi ending in @deva[अन्] forms its fem. in @deva[आ] optionally; as @deva[श्र+पर्वन्=श्रपर्वन्-नी], @deva[बहु+भजन्=न्जा], &c. but if the word ending in @deva[अन्] be such as drops its @deva[अ] before the @deva[आ] of the Inst. sing. it takes @deva[ई] also optionally; e.g. @deva[बहु+राजन्=बहुराजन्-राजा-राज्ञी] &c.

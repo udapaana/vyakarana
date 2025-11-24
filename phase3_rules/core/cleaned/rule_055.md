@@ -28,7 +28,7 @@ source_pages:
 internal_pages:
   - "33"
 image_files:
-  - "041.png"
+  - "033.png"
 ---
 
 There are eight cases in each number:—Nominative (Nom. or N.), Vocative (Voc. or V.), Accusative (Acc. or A.) Instrumental (Ins. or I.), Dative (Dat. or D.), Ablative (Abl. or Ab.), Genitive (Gen. or G.), and Locative (Loc or L.). These express nearly all relations between words in a sentence.

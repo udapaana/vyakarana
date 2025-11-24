@@ -37,8 +37,8 @@ internal_pages:
   - "69"
   - "70"
 image_files:
-  - "077.png"
-  - "078.png"
+  - "069.png"
+  - "070.png"
 ---
 
 The penultimate @deva[र] or @deva[उ] of the words @deva[पिपठिष्] wishing to read, @deva[सजुष्] m.f. a companion, @deva[चिकीर्ष्] wishing to do, @deva[डहिष्] one stepping well, @deva[आशिष्] f. a blessing, @deva[छतुष्], cutting well, and also of @deva[गिर्], speech, @deva[पुर्] a yoke, @deva[पुर्] a town all fem. is lengthened before consonantal terminations; their final is changed to visarga in the Nom. Sing. e. g. @deva[पिपठिष्]—

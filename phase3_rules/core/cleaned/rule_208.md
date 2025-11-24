@@ -23,7 +23,7 @@ source_pages:
 internal_pages:
   - "123"
 image_files:
-  - "131.png"
+  - "123.png"
 ---
 
 Instances of the Aluk of the Dat. @deva[पुत्रायैतत्यम्], @deva[पुत्रायभाग्या]; @deva[आत्मनेपदम्], @deva[आत्मनेभाग्या].

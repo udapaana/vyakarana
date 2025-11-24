@@ -35,7 +35,7 @@ source_pages:
 internal_pages:
   - "175"
 image_files:
-  - "183.png"
+  - "175.png"
 ---
 
 A certain number of compounds and other words of irregular formation are classed under the head of @deva[पृषोदरादि].[^1] Any word whose formation cannot be properly explained is included into this group. These are to be taken as found in the language. The principal of these are:—@deva[पवते उदरं पृषोदरम्] 'wind, air', @deva[हन्ति गच्छतीति हस्तीति वा हस्तः] (either from @deva[हन्] or @deva[हस्]); @deva[हिनस्तीति सिंहः] (fr. @deva[हिंस्] conj. ? to kill). @deva[परेभ्यातो आत्मा परात्मा] the soul that is concealed from the external senses; @deva[वारिणां वाहकाः बलाहकाः] 'clouds' @deva[जीवनस्य धरः] (a bag) @deva[जीमूतः] 'a cloud'; @deva[श्मशानः] (dead bodies) @deva[शेरते अत्र श्मशानं] or @deva[श्मशानं शापनं] (Kāś.); @deva[उल्व्यै च ततं र्वं च कुर्वं तत् वातीति उलूखलम्], 'a wooden mortar'; @deva[पिशितमाचामयतीति पिशाचः]; @deva[मुक्तोऽस्य शीर्धीति मुणि] 'the seat of ascetics or holy sages discussing philosophical subjects'; @deva[मयते असौ, मयां करोतीति वा, मयूरः] 'a peacock.'

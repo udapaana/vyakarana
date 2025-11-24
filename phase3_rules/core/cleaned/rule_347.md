@@ -48,7 +48,7 @@ source_pages:
 internal_pages:
   - "216"
 image_files:
-  - "224.png"
+  - "216.png"
 ---
 
 The words @deva[देव], @deva[दैत्य], @deva[मनुष्य], @deva[पर्वत], @deva[समुद्र], @deva[स्वर्ग], @deva[नेत्र], @deva[किरण], @deva[दिवस], @deva[अरि], @deva[शार], @deva[यन्त्र], @deva[आत्मा], @deva[नखः] (also neu.), @deva[केश], @deva[दन्त], @deva[कण्ठ], @deva[पाद], @deva[स्तन], @deva[युग्म], @deva[यल्क], and their synonyms, and words expressive of the measures of corn &c., such as @deva[कुडव], &c.

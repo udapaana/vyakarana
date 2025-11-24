@@ -46,8 +46,8 @@ internal_pages:
   - "108"
   - "109"
 image_files:
-  - "116.png"
-  - "117.png"
+  - "108.png"
+  - "109.png"
 ---
 
 @deva[तर] and @deva[तम] are the most common terminations of the comparative and the superlative degrees respectively.[^1] They are added to that crude form of words which they assume, before the Inst. dual termination; e. g. @deva[प्रयत्नयोरतिशयेन लघु-लघुतरः], @deva[अप्रयत्नेनातिशयेन लघुतमः]; similarly @deva[युवन्],-@deva[युवतर], @deva[युवतम्]; @deva[विद्वत्]-@deva[विद्वत्तर], @deva[विद्वत्तम]; @deva[प्राच्]-@deva[प्राक्तर], @deva[प्राक्तम]; @deva[पवित्र]-@deva[पवित्रतर], @deva[पवित्रतम]; @deva[धर्मिष्ठ]-@deva[धर्मिष्ठतर], @deva[धर्मिष्ठतम]; @deva[शुद्ध] - @deva[शुद्धतर], @deva[शुद्धतम], &c; @deva[आदि]-@deva[आदितर] @deva[आदितम]; @deva[उच्च]-@deva[उच्चतर], @deva[उच्चतम], &c.

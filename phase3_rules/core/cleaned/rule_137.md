@@ -26,7 +26,7 @@ source_pages:
 internal_pages:
   - "91"
 image_files:
-  - "099.png"
+  - "091.png"
 ---
 
 The optional forms of @deva[इदम्] and @deva[एतद्] in the Acc., Inst. Sing. and Gen. & Loc. Duals are to be used when there is anōddeś'a[^1] i. e. their proper forms have already been used in a previous clause; e. g. @deva[अनेन व्याकरणमधीतं एनं छन्दोऽध्यापय] 'he has studied grammar, teach him prosody,' @deva[अनयोः पवित्रं कुले, एनयोः प्रभूतं स्वम्], 'The family of them both is pure, and their wealth ample.'

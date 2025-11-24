@@ -30,8 +30,8 @@ internal_pages:
   - "99"
   - "100"
 image_files:
-  - "107.png"
-  - "108.png"
+  - "099.png"
+  - "100.png"
 ---
 
 When a pronominal word is used as the subordinate member of a compound, or is at the end of an Inst. Tat., or of sentence having the sense of the Inst. Tat., or at the end of a Dwandwa, it is not declined like a pronoun[^1]; e. g. @deva[अतिक्रान्तः ये अतिसर्वेः], @deva[तस्मै अतिसर्वस्मै] and not @deva[सर्वस्मै]; so @deva[अतिकतरे कुलम् स्वप्रीय] or @deva[मासेन पुत्रस्मै] and not @deva[मासपुत्रस्मै]; @deva[वर्णाभिमेतराणां] &c. In the case of a Dwandwa comp., however, it is optionally declined like a pronoun in the Nom. plu.,[^2] as @deva[वर्णाभिमेतरै] or @deva[वर्णाभिमेतराः ।]

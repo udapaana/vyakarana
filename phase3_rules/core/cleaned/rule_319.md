@@ -20,7 +20,7 @@ source_pages:
 internal_pages:
   - "186"
 image_files:
-  - "194.png"
+  - "186.png"
 ---
 
 Adjectives ending in @deva[इ] short or long, have no other form for the feminine; as @deva[शुचिः शुचीः] &c.

@@ -32,7 +32,7 @@ source_pages:
 internal_pages:
   - "188"
 image_files:
-  - "196.png"
+  - "188.png"
 ---
 
 If prātipadika end in @deva[वन्] it changes its @deva[न्] to @deva[र्] before @deva[ई];[^1] @deva[शक्वन्-शक्वरी] the strong one; @deva[पीवन्-पीवरी], @deva[शर्वन्-शर्वरी] the night, @deva[सुत्वानमतिक्रान्ता अतिशर्वरी], @deva[अतिपीवरी], &c.

@@ -26,8 +26,8 @@ internal_pages:
   - "68"
   - "69"
 image_files:
-  - "076.png"
-  - "077.png"
+  - "068.png"
+  - "069.png"
 ---
 
 @deva[जस्] that falls, @deva[ध्वस्] a destroyer, @deva[हिंस्] one who kills well, @deva[जिघांस्] desirous of killing. The first two change their @deva[स्] to @deva[त्] before consonantal terminations while the last two change their @deva[स्] to @deva[द्] under the same circumstances, the preceding nasal being dropped.

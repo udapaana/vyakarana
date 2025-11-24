@@ -25,7 +25,7 @@ source_pages:
 internal_pages:
   - "80"
 image_files:
-  - "088.png"
+  - "080.png"
 ---
 
 @deva[अस्थि] n. a bone, @deva[दधि] n. curds, @deva[सक्थि] n. a thigh and @deva[अक्षि] n. an eye, become @deva[अस्थ्न्], @deva[दध्न्], @deva[सक्थ्न्], and @deva[अक्ष्न्] respectively before the vowel terminations beginning with the I. sing.[^1] and then they follow the declension of nouns in @deva[न्]; in other respects they are declined like @deva[वारि].

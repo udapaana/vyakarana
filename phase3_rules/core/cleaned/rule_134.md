@@ -36,8 +36,8 @@ internal_pages:
   - "87"
   - "88"
 image_files:
-  - "095.png"
-  - "096.png"
+  - "087.png"
+  - "088.png"
 ---
 
 **(a)** The optional shorter forms of the pronouns @deva[अस्मद्] and @deva[युष्मद्] are never used at the beginning of a sentence or of a foot of a metre;[^1] nor can they be used immediately before the particles @deva[च], @deva[वा], @deva[ह] or @deva[हा], @deva[अह] and @deva[एव]; as @deva[मम गृहं] my house, and not @deva[मे गृहम्]; @deva[वेदैःसर्वैः संयतोऽस्मान् कृष्णः सर्वदापातु] (Sid. Kau.), 'may Kṛṣṇa, revered throughout or capable of being known properly from all the Vedas, always protect us; and not @deva[नः कृष्णः] &c.; @deva[तवैव कर्मैतत्] 'this is surely your deed,' and not @deva[ते एव] &c. But if these particles do not connect these forms they may be used with them‡; as @deva[हरो हरिश्च मे स्वामी] (Sid. Kau.) Hara and Hari are my lords, &c.

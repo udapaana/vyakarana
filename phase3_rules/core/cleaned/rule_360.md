@@ -248,16 +248,16 @@ internal_pages:
   - "228"
   - "229"
 image_files:
+  - "220.png"
+  - "221.png"
+  - "222.png"
+  - "223.png"
+  - "224.png"
+  - "225.png"
+  - "226.png"
+  - "227.png"
   - "228.png"
   - "229.png"
-  - "230.png"
-  - "231.png"
-  - "232.png"
-  - "233.png"
-  - "234.png"
-  - "235.png"
-  - "236.png"
-  - "237.png"
 ---
 
 @deva[यक्ष्], @deva[भूष], @deva[मुस्त] 'a kind of grass (also @deva[मुस्ता])', @deva[देललित] 'play, joke, tremor', @deva[एरावत], @deva[पुत्त] 'a wooden or earthen doll', @deva[चुल्ब] 'roasted meat', @deva[लोहित] 'blood', @deva[शुष्क], @deva[अन्न], @deva[निदाघ], @deva[उद्यम], @deva[शाल्य], @deva[इह], @deva[व्रज] 'the name of Gokula', @deva[कुम्भ], @deva[कूष], @deva[कूर्च] 'a peacock's feather, the beard', &c., @deva[कवच], @deva[दर्प], @deva[अञ्ज] 'a kind of eye disease', @deva[अर्म], @deva[दर्श], @deva[पुच्छ], @deva[कवन्ध], @deva[ओषध], @deva[आयुध], @deva[अनद्], @deva[दण्ड], @deva[मण्ड] 'the scum of boiled rice', @deva[खण्ड], @deva[शव], @deva[सैन्धव], @deva[पार्श्व], @deva[आकाश], @deva[कुश], @deva[काश], @deva[अङ्कुश], @deva[कुलिश], @deva[यह], @deva[मेह], @deva[बर्ह] 'a peacock's feather', @deva[रेह], @deva[पट], @deva[पटह], @deva[अष्टापद] 'gold', @deva[अम्बुद], @deva[देव], @deva[कटुव], @deva[मद्गु] 'name of an aquatic bird', @deva[मधु], @deva[सीधु], @deva[शीधु], @deva[साधु], @deva[कमण्डलु], @deva[सक्तु] 'the flour of barley first fried and then ground' (used in the pl.), @deva[शालूक] 'the root of the water lily', @deva[कण्टक], @deva[अनीक], @deva[सरक], @deva[मोदक] 'spirituous liquor', also 'the act of drinking liquor (vide. Śiś. XV. 80)', @deva[मौदक], @deva[चषक] 'a drinking cup', @deva[मस्तक], @deva[पस्तक], @deva[तटाक], @deva[निष्क], @deva[शुष्क], @deva[मर्चस्क] 'lustre, vigour', @deva[पिनाक] 'a bow, the bow of Śiva', @deva[भाण्डक], @deva[पिण्डक] 'incense', &c., @deva[पुलाक] 'a lump of boiled rice', @deva[वट], @deva[लोष्ट], @deva[कूट], @deva[पट], @deva[कपट], @deva[कपाट], @deva[कोट] 'a rage', @deva[नट] 'a kind of plant', @deva[कोट], @deva[हट], @deva[रण], @deva[तोरण], @deva[कार्षापण] 'a particular coin', @deva[स्वर्ण], @deva[सुवर्ण], @deva[त्रण], @deva[चरण], @deva[विषण], @deva[विषाण], @deva[तृण], @deva[तीर्थं] (n.) 'a holy place' 'a descent into water, the stairs of a landing place, &c. (m.) a respectable person' (generally used as an affix, as @deva[भारतीतीर्थ], &c.), @deva[प्रोथ] 'the nose or nostrils of a horse', @deva[युथ], @deva[यूथ], @deva[मान], @deva[यान], @deva[अभिधान], @deva[नलिन], @deva[पुलिन], @deva[उद्यान], @deva[शयन], @deva[आसन], @deva[स्थान], @deva[चैवदन], @deva[आलान] 'the tie-post or the tie-chain of an elephant', @deva[समान] m. a friend, n. a letter having the same organ of utterance, @deva[भवन], @deva[वसन], @deva[संभावन], @deva[वितान] 'a canopy', @deva[विमान], @deva[शूर्प] 'a winnowing basket', @deva[कृतघ्न][^1] 'the eighth muhūrta of the day, (mostly mas.), 'a musical instrument'; @deva[कुणप] 'a corpse', @deva[द्वीप], @deva[विटप], @deva[उडुप] 'a small boat or the moon'; @deva[तल्प] 'a bed', @deva[जृम्भ] 'yawning', @deva[बिम्ब], @deva[संग्राम], @deva[दाडिम] m. the pomegranate tree; n. its fruit, @deva[कुटुम्ब], @deva[आश्रम], @deva[क्षेम], @deva[क्षोम], @deva[होम], @deva[उद्याम] (m.) 'Varuṇa', @deva[गोमय], @deva[कषाय] 'astringent flavour or taste', @deva[मल्य], @deva[अन्वय], @deva[अत्यय], @deva[किसलय], @deva[चक्र], @deva[वध], @deva[वज्र], @deva[सार], @deva[वार] n. a vessel for holding liquor, a mass of water; @deva[पार], @deva[क्षीर], @deva[तोमर] 'an iron club, a javelin', @deva[भूकर] 'a kind of vessel' (Mar. झारी), @deva[मन्दार], @deva[उशीर] 'a kind of fragrant grass' (Mar. वाळा), @deva[तिमिर] m. n. darkness, blindness iron-rust; @deva[हिरिर], @deva[कन्दर], @deva[वष], @deva[करीष] 'dry cowdung', @deva[मिष], @deva[विन्ध], @deva[वर्ष], @deva[चमस] 'sacrificial vessel of a particular shape', @deva[अर्थ], @deva[रस], @deva[निर्यास] 'exudation of trees', @deva[उपवास], @deva[कार्पास] 'anything made of cotton', @deva[वास], @deva[साप], @deva[कास], @deva[कंस] 'a drinking cup', @deva[मांस], @deva[द्रोण] n. a wooden vessel or cup, @deva[आटक], @deva[वाण], @deva[काण्ड], @deva[वक्म], @deva[अरण्य], @deva[गाण्डीव] 'the bow of Arjuna', @deva[शूल] m. 'a large serpent', @deva[भूल], @deva[मङुल], @deva[साल], @deva[कमल] m. the sārasa bird, name of Brahmā; @deva[तल], @deva[धुसल], @deva[कुण्डल], @deva[पलल] m. 'a demon n. flesh', @deva[शृणाल], @deva[बाल], @deva[निगाल] 'a horse's neck', @deva[यत्नाल] 'forage', @deva[विडाल] 'a cat, the eye-ball', @deva[सिल] 'a piece of waste or uncultivated land', @deva[चूल], @deva[पञ्], @deva[उत्पल] m. a kind of plant, @deva[शस्त], @deva[अमृत], @deva[प्रभुत], @deva[पत्र] 'the blade of a sword, a knife', @deva[पात्र], @deva[पवित्र], @deva[सूत्र], and @deva[छत्र] m. a mushroom; m. a parasol, an umbrella.

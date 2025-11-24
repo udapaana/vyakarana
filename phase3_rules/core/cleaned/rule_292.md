@@ -31,7 +31,7 @@ source_pages:
 internal_pages:
   - "172"
 image_files:
-  - "180.png"
+  - "172.png"
 ---
 
 **Obs.**— A nasal is inserted in the case of the following words:—[^1]@deva[सत्य], @deva[भवत्] and @deva[अद्य] followed by @deva[कार]; @deva[वेद्य] by @deva[अक्ष]; @deva[लोक] by @deva[पृथि]; @deva[अनभ्यास] by @deva[हव]; @deva[आङ्] and @deva[अधि] by @deva[इन्ध], @deva[तिमि] by @deva[तिङ्] or @deva[तिङ्गिल]; and @deva[उन्न] and @deva[भद्] by @deva[करण]; as @deva[सत्यङ्कारः], 'making true, earnest money,' &c; cf. Kir. XI. 50. @deva[भवदङ्कारः] 'a physician,' @deva[सन्तङ्कारः], 'efficacious,' 'admittance' ( @deva[अनुपगमः] Tat. B. ), @deva[वेद्यङ्क्षया] ( @deva[भविष्यती भयः] Tat. B. ); @deva[लोकम्पृथ्] 'pervading or filling the world,' @deva[अनभ्यासांहित्वम्] 'not to be approached, to be shunned from afar,' ( @deva[दूरतः परिहर्तव्य इत्यर्थः] Sid. Kan. ); @deva[आङ्गिन्धः], 'one who fries or roasts in a frying-pan,' @deva[अधिगिन्धः], 'one who kindles fire,' @deva[तिमितिङ्गः] 'a monstrous fish that swallows down Timi (a large fish said to be 100 Yojanas in length ),' @deva[तिमितिङ्गिलः] 'a very large fish that swallows even a Timingila;'[^2] @deva[उन्नङ्करणम्] heating; @deva[भद्रङ्करणम्] conferring prosperity.

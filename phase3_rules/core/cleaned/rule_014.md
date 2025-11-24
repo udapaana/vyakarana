@@ -22,7 +22,7 @@ source_pages:
 internal_pages:
   - "11"
 image_files:
-  - "019.png"
+  - "011.png"
 ---
 
 Short vowels when followed by a conjunct consonant are said to be prosodially long.

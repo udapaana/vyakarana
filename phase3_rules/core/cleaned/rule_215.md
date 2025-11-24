@@ -47,8 +47,8 @@ internal_pages:
   - "126"
   - "127"
 image_files:
-  - "134.png"
-  - "135.png"
+  - "126.png"
+  - "127.png"
 ---
 
 Instances of the Aluk of the Gen. The noun in the Genitive may retain its case ending—[^1]

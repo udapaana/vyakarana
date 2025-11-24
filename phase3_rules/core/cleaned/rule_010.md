@@ -29,8 +29,8 @@ internal_pages:
   - "7"
   - "8"
 image_files:
-  - "015.png"
-  - "016.png"
+  - "007.png"
+  - "008.png"
 ---
 
 A @deva[स्वर] (@[svara]) or vowel is that which can be pronounced without the help of any other letter; a @deva[व्यञ्जन] (@[vyañjana]) or consonant is that which is pronounced with the help of a vowel. The consonants, therefore, are written with a slanting nether stroke to denote their imperfect character.

@@ -49,9 +49,9 @@ internal_pages:
   - "67"
   - "68"
 image_files:
-  - "074.png"
-  - "075.png"
-  - "076.png"
+  - "066.png"
+  - "067.png"
+  - "068.png"
 ---
 
 The penultimate @deva[अ] of nouns ending in @deva[ऋ्] is lengthened in the Nom. sing. if it does not belong to root nouns.[^1]

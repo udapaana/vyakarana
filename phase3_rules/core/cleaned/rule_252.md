@@ -34,8 +34,8 @@ internal_pages:
   - "151"
   - "152"
 image_files:
-  - "159.png"
-  - "160.png"
+  - "151.png"
+  - "152.png"
 ---
 
 A compound of an indeclinable or a numeral or of @deva[आह्], @deva[स], @deva[अहर्] or @deva[अधिक] with a numeral is a Bahuvrīhi.[^1] In the formation of such compounds the final vowel except that of @deva[बहु] and @deva[गण], or the final consonant with the preceding vowel of the latter numeral and the @deva[स्थिति] of @deva[विंशति][^2] are dropped and @deva[अ] added; @deva[दशानां समीपे ये सन्ति ते उपदशाः] 'about ten' i. e. nine or eleven; @deva[द्वौ वा त्रयो वा त्रिद्वाः] 'two or three'; @deva[द्वे वा त्रीणि वा त्रिद्वाणि]; @deva[द्विः आवृत्ता दश द्विदशाः] 'ten repeated twice i. e. twenty; so @deva[त्रिदशाः] &c., @deva[विंशतेः आसन्नाः आसन्नविंशाः] 'nearly twenty', @deva[त्रिंशतः अदूराः अदूरत्रिंशाः] 'not far from thirty', @deva[अधिकचत्वारिंशाः] 'more than forty'; but @deva[उपचत्वः], @deva[उपचत्वाः].[^3] @deva[चतुर] preceded by @deva[उप] or @deva[त्रि] does not drop any letter but simply has an @deva[अ] added to it; @deva[त्रयो वा चत्वारो वा त्रिचतुराः], @deva[चतुर्णां समीपे ये सन्ति ते उपचतुराः].

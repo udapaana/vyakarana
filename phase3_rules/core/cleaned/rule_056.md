@@ -25,8 +25,8 @@ internal_pages:
   - "33"
   - "34"
 image_files:
-  - "041.png"
-  - "042.png"
+  - "033.png"
+  - "034.png"
 ---
 
 Sup (@deva[सुप्]) is the technical term for a case termination in Sanskrit. Declension consists in adding the case termination to the crude form or base.[^1]

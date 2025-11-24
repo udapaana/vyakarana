@@ -54,8 +54,8 @@ internal_pages:
   - "218"
   - "219"
 image_files:
-  - "226.png"
-  - "227.png"
+  - "218.png"
+  - "219.png"
 ---
 
 Words ending in @deva[इस्] and @deva[उस्]; in @deva[मन्], and @deva[अस्], and having two vowels in them; in @deva[त्र] and such as have @deva[ल] for their penultimate; @deva[वर्पिस्] 'liquid ghee', @deva[ज्योतिस्], @deva[धनुस्], @deva[चर्मन्], @deva[वर्मन्] 'an armour', @deva[पक्ष्मन्], @deva[मनस्], @deva[यत्र], @deva[छत्र], &c., @deva[कूल], @deva[कुल], @deva[स्थल], &c.

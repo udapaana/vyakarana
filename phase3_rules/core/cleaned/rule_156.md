@@ -24,7 +24,7 @@ source_pages:
 internal_pages:
   - "98"
 image_files:
-  - "106.png"
+  - "098.png"
 ---
 
 @deva[प्रथम], @deva[चरम], @deva[अल्प], @deva[अर्ध], @deva[कतिपय], and words ending in the termination @deva[तय] optionally form their Nom. plu. like that of pronouns; e. g. @deva[प्रथमे-प्रथमाः], @deva[कतिपये-कतिपयाः], @deva[द्वितये-द्वितयाः] &c.

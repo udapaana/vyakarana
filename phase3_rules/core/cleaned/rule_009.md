@@ -25,7 +25,7 @@ source_pages:
 internal_pages:
   - "7"
 image_files:
-  - "015.png"
+  - "007.png"
 ---
 
 Those letters are called @deva[सवर्ण] (@[savarṇa]) or homogeneous whose place of pronunciation in the mouth and the effort required to pronounce them is the same or equal.[^1] Letters which are not @deva[सवर्ण] or similar are called @deva[असवर्ण] (@[asavarṇa]) or heterogeneous.

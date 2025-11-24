@@ -30,8 +30,8 @@ internal_pages:
   - "95"
   - "96"
 image_files:
-  - "103.png"
-  - "104.png"
+  - "095.png"
+  - "096.png"
 ---
 
 Decline @deva[सर्व], @deva[विश्व], @deva[सम] and @deva[सिम] all having the same meaning, @deva[उभ] (declined in the dual only) and @deva[उभय] (which has no dual according to Kaiyata and other grammarians) both meaning 'both,' @deva[इतर] and @deva[एकतर] 'one of two,' like @deva[यद्] except in the Nom. and Acc. sing. of the neu. which is formed by adding @deva[म्], e. g.

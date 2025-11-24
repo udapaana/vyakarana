@@ -34,8 +34,8 @@ internal_pages:
   - "135"
   - "136"
 image_files:
-  - "143.png"
-  - "144.png"
+  - "135.png"
+  - "136.png"
 ---
 
 Names of quarters and numerals form a Karm. compound with any subanta ( a declinable word ) but only when the whole compound is an appellation;[^1] e. g. @deva[सप्तर्षिः]: 'Name of a constellation of stars,' 'Ursa Major;' @deva[पञ्चजनाः]:[^2] &c., @deva[पूर्वेयुकामशर्मी] 'Name of a town in the east;' @deva[उत्तरा वृक्षाः] 'Northern trees; @deva[पञ्च ब्राह्मणाः] &c. The compound is forbidden in other cases.

@@ -29,7 +29,7 @@ source_pages:
 internal_pages:
   - "167"
 image_files:
-  - "175.png"
+  - "167.png"
 ---
 
 The @deva[अ] of the word @deva[अप्] is changed to @deva[ई] when preceded by @deva[द्वि], @deva[अन्तर्], or a preposition; and to @deva[ऊ] when preceded by @deva[अप्] and the compound is the name of a country;[^1] as @deva[द्वीपोऽग्रो पश्चिमद् इति द्वीपम्] " peninsula; @deva[अन्तरीपो आपोऽधेति अन्तरीपम्] 'an island.' @deva[प्रतीपम्] 'in opposition to the force of waters;' @deva[समीपम्]; @deva[अद्वुपः][^2] ( @deva[अद्वगताः आपोऽत्र] ) 'name of a place or country.' The change of @deva[अ] to @deva[ई] is optional if the preposition end in @deva[अ]; @deva[प्रछद्व आपः][^3] @deva[प्रतिद्वप् प्रपद्व-आपम्]; @deva[पैरपद्व-परापम्] 'a pond or a tank, a passage for water.'

@@ -40,7 +40,7 @@ source_pages:
 internal_pages:
   - "221"
 image_files:
-  - "229.png"
+  - "221.png"
 ---
 
 ## Nouns with Single Inflection Treated as Indeclinables

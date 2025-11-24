@@ -27,7 +27,7 @@ source_pages:
 internal_pages:
   - "106"
 image_files:
-  - "114.png"
+  - "106.png"
 ---
 
 @deva[एक] (@deva[एका] fem.), @deva[द्वि] (@deva[द्वी] fem.), @deva[त्रि] (@deva[तिस्र] fem.), and @deva[चतुर्] (@deva[चतस्र] fem.), are all adjectives and takes the gender, number and case of the nouns they qualify.

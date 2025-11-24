@@ -63,8 +63,8 @@ internal_pages:
   - "143"
   - "144"
 image_files:
-  - "151.png"
-  - "152.png"
+  - "143.png"
+  - "144.png"
 ---
 
 The following words, when at the end of a Tatpurusha, drop the final vowel, together with the following consonant if there be any, and add @deva[अ] under the circumstances mentioned:—

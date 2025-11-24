@@ -43,8 +43,8 @@ internal_pages:
   - "115"
   - "116"
 image_files:
-  - "123.png"
-  - "124.png"
+  - "115.png"
+  - "116.png"
 ---
 
 The following compounds are always what they are laid down to be ( though they do not conform to the proper rules ); viz.

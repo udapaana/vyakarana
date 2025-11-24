@@ -49,9 +49,9 @@ internal_pages:
   - "74"
   - "75"
 image_files:
-  - "081.png"
-  - "082.png"
-  - "083.png"
+  - "073.png"
+  - "074.png"
+  - "075.png"
 ---
 
 @deva[त्] is dropped in the Nom. sing. and before all consonantal terminations. In the case of mas. nouns the preceding @deva[अ] is lengthened in the first five inflections and @deva[इ] in the Nom. sing. only. The @deva[अ] and @deva[इ] are lengthened in the plu. of the Nom. Voc. and Acc. of neuter nouns. The @deva[अ] is dropped before the vowel terminations beginning with that of the Acc. plu. except when it is preceded by a conjunct consonant having @deva[य] or @deva[व] for its latter member; it is optionally dropped in the Loc. sing. of mas. and neuter nouns and optionally in the Nom. Voc. and Acc. dual of the latter.

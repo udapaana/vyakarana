@@ -63,8 +63,8 @@ internal_pages:
   - "85"
   - "86"
 image_files:
-  - "093.png"
-  - "094.png"
+  - "085.png"
+  - "086.png"
 ---
 
 The following 35 words are termed 'Pronouns' in Sanskrit:—@deva[सर्व], @deva[विश्व], @deva[उभ], @deva[उभय], @deva[इतर], @deva[इतम] (i. e. the word formed by the addition of the terminations @deva[इतर] and @deva[इतम] to the pronouns @deva[किम्], @deva[यद्], and @deva[तद्] which become @deva[क], @deva[य] and @deva[त] respectively before these; e. g. @deva[कतर], @deva[कतम], @deva[यतर], @deva[यतम], and @deva[ततर], @deva[ततम्]) @deva[अन्य], @deva[अन्यतर], @deva[त्यत्], @deva[त्वत्], @deva[त्व], @deva[नेम], @deva[सम], @deva[सिम], @deva[पूर्व], @deva[पर], @deva[अवर], @deva[दक्षिण], @deva[उत्तर], @deva[अपर], @deva[अधर], @deva[स्व], @deva[अन्तर]; @deva[त्यद्], @deva[तद्], @deva[एतद्], @deva[इदम्], @deva[अदस्], @deva[एक], @deva[द्वि], @deva[युष्मद्], @deva[अस्मद्], @deva[भवत्] and @deva[किम्].

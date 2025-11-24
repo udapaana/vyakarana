@@ -23,7 +23,7 @@ source_pages:
 internal_pages:
   - "34"
 image_files:
-  - "042.png"
+  - "034.png"
 ---
 
 The following are the normal case-terminations:—

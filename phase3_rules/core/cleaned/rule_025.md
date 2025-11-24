@@ -22,7 +22,7 @@ source_pages:
 internal_pages:
   - "20"
 image_files:
-  - "028.png"
+  - "020.png"
 ---
 
 When @deva[ए] or @deva[ओ] at the end of a word is followed by @deva[अ] the latter merges into the former[^1] and the sign ऽ is sometimes written in its place; e.g. @deva[हरे] + @deva[अव] = @deva[हरेऽव] protect, Oh Hari; @deva[विष्णो] + @deva[अव] = @deva[विष्णोऽव].

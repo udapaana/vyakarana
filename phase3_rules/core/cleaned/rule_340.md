@@ -284,16 +284,16 @@ internal_pages:
   - "201"
   - "202"
 image_files:
+  - "193.png"
+  - "194.png"
+  - "195.png"
+  - "196.png"
+  - "197.png"
+  - "198.png"
+  - "199.png"
+  - "200.png"
   - "201.png"
   - "202.png"
-  - "203.png"
-  - "204.png"
-  - "205.png"
-  - "206.png"
-  - "207.png"
-  - "208.png"
-  - "209.png"
-  - "210.png"
 ---
 
 The following is a list of such of the Taddhita affixes as are commonly to be met with.

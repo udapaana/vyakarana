@@ -26,8 +26,8 @@ internal_pages:
   - "12"
   - "13"
 image_files:
-  - "020.png"
-  - "021.png"
+  - "012.png"
+  - "013.png"
 ---
 
 If a simple vowel, short or long, be followed by a similar vowel, short or long, the substitute for them both is the similar long vowel[^1] e.g. @deva[देव] + @deva[अरि:] = @deva[देवारि:]; @deva[यज्ञ] + @deva[आसीत्] = @deva[यज्ञासीत्]; @deva[पद्म] + @deva[अभवत्] = @deva[पद्माभवत्]; @deva[विद्या] + @deva[आतुर:] = @deva[विद्यातुर:] eager to gain knowledge; @deva[इति] + @deva[ईश] = @deva[इतीश]; @deva[अपि] + @deva[ईश्वरे] = @deva[अपीश्वरे]; @deva[श्री] + @deva[ईश:] = @deva[श्रीश:]; @deva[भानु] + @deva[उदय] = @deva[भानूदय:]; @deva[साधु] + @deva[ऊरु:] = @deva[साधूरु:]; @deva[चमू] + @deva[ऊर्जि:] = @deva[चमूर्जि:] the strength of the army; @deva[कवि] + @deva[ऋजु:] = @deva[कवीर्जु:], @deva[कृ] + @deva[ऋकार:] = @deva[कॄकार:]; @deva[होतृ] + @deva[ॠकार:] = @deva[होतॄकार:] the ṛkāra pronounced by the sacrificer (since there is no long @deva[ऌ] long @deva[ऋ] is substituted for both).

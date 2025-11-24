@@ -34,8 +34,8 @@ internal_pages:
   - "4"
   - "5"
 image_files:
-  - "012.png"
-  - "013.png"
+  - "004.png"
+  - "005.png"
 ---
 
 The consonants are divided into @deva[स्पर्श] (@[sparśa]) or mutes (those involving a complete closure or contact and not an approximate one of the organs of pronunciation), @deva[अन्तस्थ] (@[antastha]) (or intermediate, i.e. the Semivowels,) and @deva[ऊष्मन्] (@[ūṣman]) or sibilants.

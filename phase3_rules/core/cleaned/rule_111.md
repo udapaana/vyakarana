@@ -20,7 +20,7 @@ source_pages:
 internal_pages:
   - "68"
 image_files:
-  - "076.png"
+  - "068.png"
 ---
 
 **Obs.** The @deva[सा] of @deva[उक्थशास्] uttering hymns, becomes @deva[स] before the consonantal terminations, except that of the Nom. sing.; e.g. Nom. @deva[उक्थशाः] sing. @deva[उक्थशासौ] dual.; Instr. sing. @deva[उक्थशासा]; dual @deva[उक्थशोभ्याम्]; Loc. plu. @deva[उक्थशाःसु].

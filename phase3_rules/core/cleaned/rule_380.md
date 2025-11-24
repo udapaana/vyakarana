@@ -22,7 +22,7 @@ source_pages:
 internal_pages:
   - "231"
 image_files:
-  - "239.png"
+  - "231.png"
 ---
 
 In @ref[378] (b) the first four are marked @deva[विकरण]; the last six are called the Special Tenses (@deva[विकरणलकाराः]) and the rest the Common Tenses or Lakāras (@deva[सकारान्तलकाराः]). The Special Tenses undergo peculiar modifications (@deva[विकरण]) and these are therefore called Vikaraṇa-lakāras; the others Sakārānta-lakāras (@deva[सकारान्त]).

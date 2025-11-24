@@ -23,7 +23,7 @@ source_pages:
 internal_pages:
   - "35"
 image_files:
-  - "043.png"
+  - "035.png"
 ---
 
 | | @deva[राम] m. Rāma | | | @deva[ज्ञान] n. knowledge | | |

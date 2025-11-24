@@ -22,7 +22,7 @@ source_pages:
 internal_pages:
   - "91"
 image_files:
-  - "099.png"
+  - "091.png"
 ---
 
 The following couplet (Kārikā) gives a rule for the correct use of these pronouns:—

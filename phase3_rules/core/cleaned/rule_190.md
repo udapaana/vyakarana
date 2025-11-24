@@ -30,7 +30,7 @@ source_pages:
 internal_pages:
   - "115"
 image_files:
-  - "123.png"
+  - "115.png"
 ---
 
 Names of trees, deer, grass, corn, condiments, beasts, birds, the pairs of words—@deva[भभ] and @deva[वह्व], @deva[पूर्व] and @deva[अपर], @deva[उत्तर] and @deva[अधर]—and words of opposite import not qualifying things (द्रव्यs), are optionally compounded into a Samāhāra-Dwandwa; instances in order—@deva[इक्षुश्च न्यग्रोधश्च इक्षन्यग्रोधम्-वौ]; similarly @deva[रुरुप्रभम्-वौ] (kinds of deer), @deva[कुशकाशम्-वौ] kinds of grass, @deva[व्रीहियवम्-वौ] kinds of corn, @deva[दधिघृतम्-ते], @deva[गोमहिषम्-षौ]; @deva[शुककारम्-टौ]; @deva[अधरवरम्-रौ], @deva[पूर्वापरम्-रे], @deva[भयोत्तरम्-रे]; but @deva[शीतोष्णे जले।]

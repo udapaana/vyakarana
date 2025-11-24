@@ -23,7 +23,7 @@ source_pages:
 internal_pages:
   - "165"
 image_files:
-  - "173.png"
+  - "165.png"
 ---
 
 **(a)** A numeral may optionally be compounded with a noun, showing relation by blood or by some kind of learning, to form an Avya. comp.;[^1] @deva[द्वौ मुनी बन्धवौ विद्वांते], @deva[व्याकरणस्य विद्वांते]; e. g. @deva[त्रिमुनि व्याकरणम्], 'Sans. Grammar of which the three sages-Pânini, Kâtyâyana and Patanjali, are the authors in succession.'

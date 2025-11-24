@@ -24,8 +24,8 @@ internal_pages:
   - "25"
   - "26"
 image_files:
-  - "033.png"
-  - "034.png"
+  - "025.png"
+  - "026.png"
 ---
 
 If @deva[ह्] and @deva[ण्] be followed by a sibilant, @deva[क्] and @deva[ट्] respectively are suffixed to them optionally; and hard unaspirates are optionally changed into hard aspirates when followed by a sibilant @deva[ष्];[^1] @deva[षष्] + @deva[ठः] = @deva[षष्ठः], @deva[षाड्ढः], @deva[षाड्ढुकः] the sixth man gone before; @deva[सुगण्] + @deva[ठः] = @deva[सुगण्ठः], @deva[सुगण्ढः], @deva[सुगण्ढुकः] the sixth good counter.

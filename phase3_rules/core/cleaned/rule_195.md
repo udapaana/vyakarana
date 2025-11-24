@@ -24,7 +24,7 @@ source_pages:
 internal_pages:
   - "117"
 image_files:
-  - "125.png"
+  - "117.png"
 ---
 
 When a Samāhāra-Dwandwa ends in a consonant of the palatal class or @deva[इ], @deva[ई], or @deva[ए], @deva[अ] is added to it: @deva[वाक् च त्वक् च वाक्त्वचम्] speech and skin, @deva[त्वक्स्रजम्] a bark and a garland, @deva[छत्रोपानहम्], @deva[नाहि-क्षवम्], @deva[छत्रोपानहम्] an umbrella and shoes, &c, But @deva[भावधशास्त्रौ] ( as it is not a Sam. Dwa. ).

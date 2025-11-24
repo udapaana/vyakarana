@@ -28,7 +28,7 @@ source_pages:
 internal_pages:
   - "217"
 image_files:
-  - "225.png"
+  - "217.png"
 ---
 
 **(a)** All the numerals from 20-99, monosyllabic words in @deva[ई] and such as are formed by the affix @deva[ता]; @deva[विंशतिः], @deva[श्रीः]; @deva[नम्रता] &c.

@@ -44,8 +44,8 @@ internal_pages:
   - "56"
   - "57"
 image_files:
-  - "064.png"
-  - "065.png"
+  - "056.png"
+  - "057.png"
 ---
 
 **(a)** @deva[च्] or @deva[ज्] is changed to @deva[क्] when followed by a hard consonant or by nothing, and to @deva[ग्] when followed by a soft consonant.[^1]

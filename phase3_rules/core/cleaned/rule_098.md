@@ -21,7 +21,7 @@ source_pages:
 internal_pages:
   - "60"
 image_files:
-  - "068.png"
+  - "060.png"
 ---
 
 **(1)** The @deva[स्] of @deva[तुरासाह्] 'Indra' is changed to @deva[ष्] before the consonantal terminations[^1]; e. g.

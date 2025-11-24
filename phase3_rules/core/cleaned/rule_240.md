@@ -45,8 +45,8 @@ internal_pages:
   - "144"
   - "145"
 image_files:
-  - "152.png"
-  - "153.png"
+  - "144.png"
+  - "145.png"
 ---
 
 The following words have an @deva[अ] added to them when at the end of a Tatpurusha compound:—

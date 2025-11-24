@@ -19,7 +19,7 @@ source_pages:
 internal_pages:
   - "112"
 image_files:
-  - "120.png"
+  - "112.png"
 ---
 
 Final vowels or consonants (modified as mentioned above) of preceding members of compounds combine with the initial letters of the succeeding members according to the usual rules of Sandhi.

@@ -49,8 +49,8 @@ internal_pages:
   - "176"
   - "177"
 image_files:
-  - "184.png"
-  - "185.png"
+  - "176.png"
+  - "177.png"
 ---
 
 @deva[नुम्] is inserted in the case of the following compounds:—[^1]

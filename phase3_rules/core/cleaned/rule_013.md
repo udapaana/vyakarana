@@ -25,7 +25,7 @@ source_pages:
 internal_pages:
   - "11"
 image_files:
-  - "019.png"
+  - "011.png"
 ---
 
 As sandhi is of primary importance in Sanskrit, @deva[विराम] (@[virāma]) or pause can be indicated only at the end of a sentence. The signs of punctuation, therefore, are only two, । and ॥. The former is used to mark the close of a sentence or the first half of a śloka or poetical stanza; the latter is employed to denote the close of a śloka.

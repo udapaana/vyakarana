@@ -20,7 +20,7 @@ source_pages:
 internal_pages:
   - "40"
 image_files:
-  - "048.png"
+  - "040.png"
 ---
 
 Decline all other nouns and adjectives ending @deva[इ] or @deva[उ] mas. fem. and neu. similarly.

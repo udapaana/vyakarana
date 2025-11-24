@@ -36,8 +36,6 @@ internal_pages:
   - "562"
 image_files:
   - "559.png"
-  - "560.png"
-  - "561.png"
   - "562.png"
 ---
 

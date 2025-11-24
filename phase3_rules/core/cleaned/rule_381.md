@@ -17,7 +17,7 @@ source_pages:
 internal_pages:
   - "231"
 image_files:
-  - "239.png"
+  - "231.png"
 ---
 
 *

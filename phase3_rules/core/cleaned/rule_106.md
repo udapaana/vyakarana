@@ -20,7 +20,7 @@ source_pages:
 internal_pages:
   - "66"
 image_files:
-  - "074.png"
+  - "066.png"
 ---
 
 @deva[ऊर्ज्] s. n. strength, is regularly declined; e. g. s. @deva[ऊर्जे-ण] @deva[ऊर्जौ] @deva[ऊर्जः] N.; @deva[ऊर्जा] @deva[ऊर्ज्भ्याम्] @deva[ऊर्ज्भिः] I.; @deva[ऊर्जि] @deva[ऊर्जोः] @deva[ऊर्जु] L.

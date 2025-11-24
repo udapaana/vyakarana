@@ -59,9 +59,9 @@ internal_pages:
   - "153"
   - "154"
 image_files:
-  - "160.png"
-  - "161.png"
-  - "162.png"
+  - "152.png"
+  - "153.png"
+  - "154.png"
 ---
 
 The following words drop their final vowel or the final consonant with the preceding vowel and take @deva[अ] when at the end of a Bah. compound:—

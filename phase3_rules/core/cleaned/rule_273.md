@@ -22,7 +22,7 @@ source_pages:
 internal_pages:
   - "164"
 image_files:
-  - "172.png"
+  - "164.png"
 ---
 
 The words @deva[अक्ष], and @deva[शलाका] and a numeral, are compounded with @deva[परि] and placed first to express 'loss in a game';[^1] @deva[अक्षेण विपरीतं दृष्टे अक्षपरि], 'so as to be a loser by an unlucky throw of dice'; @deva[शलाकापरि] 'an unlucky throw or movement of one of the pieces at a game played with Śalākas'; @deva[एकपरि] 'loss of one throw of dice', &c.

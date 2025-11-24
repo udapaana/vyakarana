@@ -49,8 +49,8 @@ internal_pages:
   - "107"
   - "108"
 image_files:
-  - "115.png"
-  - "116.png"
+  - "107.png"
+  - "108.png"
 ---
 
 **(a)** @deva[सकृत्] once, @deva[द्विः] twice, @deva[त्रिः] thrice, @deva[चतुः] four times; from @deva[पञ्चन्] onwards adverbs of frequency are formed by adding @deva[कृत्वः] before which final @deva[न्] is dropped e. g. @deva[पञ्चकृत्वः] five times, @deva[सप्तकृत्वः] seven times, &c.

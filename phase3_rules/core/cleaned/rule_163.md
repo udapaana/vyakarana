@@ -39,8 +39,8 @@ internal_pages:
   - "105"
   - "106"
 image_files:
-  - "113.png"
-  - "114.png"
+  - "105.png"
+  - "106.png"
 ---
 
 The ordinals from @deva[एक], @deva[द्वि], @deva[त्रि], @deva[चतुर्] and @deva[षष्][^1] are irregularly formed. The ordinal from other numerals up to @deva[दशन्] inclusive are formed by dropping the final @deva[न्] and adding @deva[म] and after @deva[दशन्] up to @deva[नवदशन्] by simply dropping the @deva[न्]. The ordinals from @deva[विंशति][^2] above are formed by adding @deva[तम] or by dropping the @deva[ति] of @deva[विंशति] and the final consonant of the rest; the compound numerals, in this latter case, change the final vowel to @deva[अ], while the simple ones ending in a vowel i. e. @deva[एका-सपति], @deva[अशीति] and @deva[नवति] form their ordinals in the first way only; as @deva[एकपशः] or @deva[एकपष्टितमः], but @deva[षष्टितम] only. @deva[शत] has invariably @deva[शततम].

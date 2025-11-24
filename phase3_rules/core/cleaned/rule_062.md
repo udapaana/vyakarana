@@ -22,7 +22,7 @@ source_pages:
 internal_pages:
   - "35"
 image_files:
-  - "043.png"
+  - "035.png"
 ---
 
 Decline all nouns ending in @deva[अ] mas. and neu. similarly.

@@ -24,7 +24,7 @@ source_pages:
 internal_pages:
   - "24"
 image_files:
-  - "032.png"
+  - "024.png"
 ---
 
 Any consonant, except a nasal or a semi-vowel, is changed to the first of its class, when followed by a hard consonant, and to the first or third when followed by nothing;[^1] @deva[वाक्], @deva[वाग्].

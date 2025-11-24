@@ -24,8 +24,8 @@ internal_pages:
   - "51"
   - "52"
 image_files:
-  - "059.png"
-  - "060.png"
+  - "051.png"
+  - "052.png"
 ---
 
 There are no words ending in @deva[कृ] or @deva[खृ]; therefore, the imitative sounds of the roots @deva[कृ] and @deva[खृ] and @deva[शक्कृ] and @deva[डक्खृ] are taken to show what the forms of such words will be, if there be need to use such words.

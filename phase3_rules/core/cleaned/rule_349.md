@@ -85,7 +85,7 @@ source_pages:
 internal_pages:
   - "217"
 image_files:
-  - "225.png"
+  - "217.png"
 ---
 
 The words @deva[नासाप्रस्रवः] 'sinus, a kind of ulcer', @deva[अपाङ्गः] 'the corner of the eye', @deva[जघनम्], @deva[मरुत्], @deva[पक्षन्] 'a wing', @deva[जनिचर], @deva[ऋषि], @deva[राशि], @deva[अग्नि], @deva[सोम], @deva[ध्वान], @deva[बलि], @deva[मौलि], @deva[रवि], @deva[कवि], @deva[हानि], @deva[ध्वज], @deva[गज], @deva[मुञ्ज] 'a kind of grass (of which the girdle of a Brāhmaṇa ought to be made)', @deva[पुञ्ज], @deva[हस्त], @deva[कुन्त] 'a spear', @deva[अन्त], @deva[त्रात] 'a collection', @deva[वात], @deva[द्रुत], @deva[दृत्त], @deva[सूत], @deva[चूत] 'the mango tree', @deva[मुहूर्त], @deva[षण्ड] 'a eunuch', @deva[करण्ड], @deva[मुण्ड] 'name of a demon', @deva[पाषण्ड] 'a heretic', @deva[शिखण्ड] 'a lock of hair, a peacock's tail', @deva[वंश], @deva[अण्ड], @deva[पुरोडाश] 'a kind of sacrificial offering', @deva[चन्द्र], @deva[कन्द], @deva[कुन्द] 'name of Viṣṇu, a kind of flower (also neu. in this sense, sometimes)', @deva[विशेष], @deva[वृहद्बुद], @deva[शब्द], @deva[अर्थ], @deva[मथित्र], @deva[मथिन्] 'a churning handle', @deva[कुसुमधिन्] 'name of Indra', @deva[स्तम्ब], @deva[निस्तम्ब], @deva[पूग] 'a multitude, the betel-nut tree', @deva[पह्र], @deva[कफ], @deva[रेख], @deva[कटाह] 'large frying pan' &c., @deva[मठ], @deva[माणि], @deva[तरुष], @deva[तरुण], @deva[गम्य], @deva[स्कन्य], @deva[अरुष], @deva[षट्], @deva[पुंख] 'the butt-end of an arrow to which the feathers are attached', @deva[आतिथ्य], @deva[कृषि] and @deva[अक्षति].

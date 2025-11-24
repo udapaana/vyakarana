@@ -70,8 +70,8 @@ internal_pages:
   - "156"
   - "157"
 image_files:
-  - "164.png"
-  - "165.png"
+  - "156.png"
+  - "157.png"
 ---
 
 The following words lose their final vowel when at the end of a Bahuvrihi:-

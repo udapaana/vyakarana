@@ -25,8 +25,8 @@ internal_pages:
   - "145"
   - "146"
 image_files:
-  - "153.png"
-  - "154.png"
+  - "145.png"
+  - "146.png"
 ---
 
 The @deva[न्] of @deva[ब्राह्मण] is optionally dropped when preceded by @deva[कु] and @deva[महत्];[^1] @deva[कुब्राह्मण:] a bad Brāhmaṇa, @deva[महाब्राह्मण:]. The @deva[र्] is dropped necessarily when the compound implies the country in which the Brāhmaṇa dwells; e. g. @deva[सुराष्ट्रवश] a Brāhmaṇa dwelling in Surāshtra.

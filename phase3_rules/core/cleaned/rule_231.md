@@ -30,8 +30,8 @@ internal_pages:
   - "139"
   - "140"
 image_files:
-  - "147.png"
-  - "148.png"
+  - "139.png"
+  - "140.png"
 ---
 
 A Dwigu compound is possible[^1] (a) under the circumstances mentioned in @ref[223] (a) i. e.-

@@ -29,8 +29,8 @@ internal_pages:
   - "158"
   - "159"
 image_files:
-  - "166.png"
-  - "167.png"
+  - "158.png"
+  - "159.png"
 ---
 
 The following Bahuvrîhis are laid down as irregular.[^1] @deva[शोभनं प्रातरस्य सुप्रातः] m. 'one having an auspicious morning or a day having an auspicious dawn'; see Bhattî. II. 49. @deva[शोभनं श्वः अस्य सुश्वः] 'having an auspicious morrow;' @deva[शोभनं दिवास्य सुदिवः] 'one who has passed a happy day', @deva[शारीरिक कुक्षितस्य शारिकुक्षः] 'having a round belly;' @deva[चतुरश्रयोरस्य चतुरश्र] 'four-cornered, quadrangular,' @deva[एण्या] (of a female black deer) @deva[इव पादौ अस्य एणीपद्] @deva[अजपद्], @deva[गोष्स्य इव पादौ अस्य गोष्पद्] 'having the feet like those of a bull'.

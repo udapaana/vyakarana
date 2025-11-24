@@ -34,8 +34,8 @@ internal_pages:
   - "166"
   - "167"
 image_files:
-  - "174.png"
-  - "175.png"
+  - "166.png"
+  - "167.png"
 ---
 
 The words @deva[ऋच्], @deva[डर्], @deva[अप्], @deva[धुर्] when is does not mean 'the yoke of a carriage', and @deva[पथ्],[^1] at the end of any compound take the suffix @deva[अ];[^2] @deva[अर्धर्चं-चैक] 'half a Rik'; @deva[विष्णुपुरं][^3] 'the town of Vishnu;' @deva[विमलाप् सरः] 'a lake with pure water;' @deva[राज्यधुरा] 'the yoke of a kingdom', i. e. 'the heavy responsibilities of governing it' &c. @deva[रम्यपथो देशः] 'a country with pleasant roads', &c.

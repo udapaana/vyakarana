@@ -40,8 +40,8 @@ internal_pages:
   - "178"
   - "179"
 image_files:
-  - "186.png"
-  - "187.png"
+  - "178.png"
+  - "179.png"
 ---
 
 Before the affix @deva[ई]—[^1]

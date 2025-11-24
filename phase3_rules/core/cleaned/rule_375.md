@@ -33,8 +33,8 @@ internal_pages:
   - "227"
   - "228"
 image_files:
-  - "235.png"
-  - "236.png"
+  - "227.png"
+  - "228.png"
 ---
 
 ## Particles Used with Certain Words

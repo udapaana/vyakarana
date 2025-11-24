@@ -60,8 +60,8 @@ internal_pages:
   - "94"
   - "95"
 image_files:
-  - "102.png"
-  - "103.png"
+  - "094.png"
+  - "095.png"
 ---
 
 Possessive pronouns are formed by means of the secondary affix @deva[ईय] added to @deva[तद्], @deva[एतद्], @deva[अस्मद्], and @deva[युष्मद्]; and @deva[अ] and @deva[ईन] added to @deva[अस्मद्], and @deva[युष्मद्], changed respectively to @deva[मामक्] and @deva[तावक्] in the sing. and @deva[आस्माक्] and @deva[यौष्माक्] in the plu. before these; e. g.

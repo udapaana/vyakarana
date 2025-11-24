@@ -27,8 +27,8 @@ internal_pages:
   - "163"
   - "164"
 image_files:
-  - "171.png"
-  - "172.png"
+  - "163.png"
+  - "164.png"
 ---
 
 **(a)** @deva[यावत्] showing a definite measure may be compounded with any word;[^1] e. g. @deva[वाक्पतः सुश्लोकः वाक्पतः अच्युतमधावास्त्वाक्पञ्चीशम् अच्युतमधावातः] 'bowing down to Achyuta as many times as there are Slokas;' so @deva[वाग्वद् अत्वीश्वरः वाग्वद् अपवाह वाग्वदुरोयम् मध्यातः] &c.

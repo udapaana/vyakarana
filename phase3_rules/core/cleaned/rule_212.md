@@ -28,8 +28,8 @@ internal_pages:
   - "125"
   - "126"
 image_files:
-  - "133.png"
-  - "134.png"
+  - "125.png"
+  - "126.png"
 ---
 
 @deva[पूर्व], @deva[अपर], @deva[अधर] @deva[उत्तर] and @deva[अर्ध] n. are compounded with nouns in the Genitive expressive of the whole and are placed first;[^1] e. g. @deva[पूर्वं कायस्य पूर्वकायः] the forepart of the body; @deva[अपरकायः] @deva[अधरकायः] &c. @deva[अर्धं पिप्पल्याः अर्धपिप्पली]; but @deva[ग्रामार्धः] as ( @deva[अर्ध] is mas. here ).

@@ -58,11 +58,11 @@ internal_pages:
   - "46"
   - "47"
 image_files:
-  - "051.png"
-  - "052.png"
-  - "053.png"
-  - "054.png"
-  - "055.png"
+  - "043.png"
+  - "044.png"
+  - "045.png"
+  - "046.png"
+  - "047.png"
 ---
 
 Root nouns in @deva[ई] or @deva[ऊ] M. F. N.

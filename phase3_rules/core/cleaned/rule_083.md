@@ -26,8 +26,8 @@ internal_pages:
   - "50"
   - "51"
 image_files:
-  - "058.png"
-  - "059.png"
+  - "050.png"
+  - "051.png"
 ---
 
 The word @deva[क्रोष्टृ] a jackal, is declined like a word ending in @deva[ऋ] necessary in the first five inflections and optionally before the vowel terminations beginning with the Inst. sing. except that of the Gen. plu.[^1] e. g.

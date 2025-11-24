@@ -20,7 +20,7 @@ source_pages:
 internal_pages:
   - "68"
 image_files:
-  - "076.png"
+  - "068.png"
 ---
 
 To feminine nouns ending in @deva[स्] simply add the terminations.

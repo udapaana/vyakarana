@@ -34,8 +34,8 @@ internal_pages:
   - "49"
   - "50"
 image_files:
-  - "057.png"
-  - "058.png"
+  - "049.png"
+  - "050.png"
 ---
 
 Words derived from roots with the affix @deva[तृ] (@deva[तवृ] and @deva[तृन्] [?.f.f. 1. 133. and 2. 135]), such as @deva[कर्तृ] a maker, &c. and the words @deva[स्वसृ] f, @deva[नप्तृ], @deva[नेष्टृ], @deva[क्षत्तृ], @deva[होतृ], @deva[पोतृ], and @deva[प्रशास्तृ] as also @deva[उद्गातृ] change their @deva[तृ] to @deva[आर्] in the Nom. sing. and to @deva[आर्] in the first five inflections. The @deva[तृ] is lengthened in the Acc. and Gen. pl. and changed to @deva[उर्] before the Ab. and Gen. sing; the Voc. sing. ends in @deva[अर्].

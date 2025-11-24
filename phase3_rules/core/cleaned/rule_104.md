@@ -55,10 +55,10 @@ internal_pages:
   - "64"
   - "65"
 image_files:
-  - "070.png"
-  - "071.png"
-  - "072.png"
-  - "073.png"
+  - "062.png"
+  - "063.png"
+  - "064.png"
+  - "065.png"
 ---
 
 Nouns derived form the root @deva[अञ्च्] 'to go' by means of such affixes as @deva[क्रिन्], @deva[क्रिप्] &c. such as @deva[प्राञ्च्] (@deva[प्रा-अञ्च्]) eastern, @deva[प्रत्यञ्च्] (@deva[प्रति-अञ्च्]) western, @deva[सम्यङ्] (@deva[सह्-अञ्च्]) a companion, @deva[तिर्यञ्च्] (@deva[तिरस्-अञ्च्]) going away, @deva[सम्यञ्च्] (@deva[सम्-अञ्च्]) going with or well, @deva[विष्वञ्च्] (@deva[विश्वञ्च्-अञ्च्]) following, @deva[देवव्रञ्च्] (@deva[देव-अञ्च्])adoring a deity, @deva[सर्वञ्च्] (@deva[सर्व-अञ्च्]) going everywhere, @deva[उदञ्च्] northen,, @deva[अन्वञ्च्] following, @deva[उद्भ्रञ्च्], @deva[भ्रद्भ्यञ्च्], @deva[अद्भ्यञ्च्] going to that( all these derived from @deva[भ्रद्स्+अञ्च्]), @deva[गोष्ठञ्च्] &c.

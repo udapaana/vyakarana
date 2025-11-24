@@ -38,7 +38,7 @@ source_pages:
 internal_pages:
   - "189"
 image_files:
-  - "197.png"
+  - "189.png"
 ---
 
 When a compound has for its second member a word denoting a limb of the body of an animal and having no conjunct consonant preceding its final vowel, the fem. is formed by the addition of @deva[आ] or @deva[ई];[^1] @deva[अतिकेशा-शी]; 'a women having abundant hair;' @deva[सुकेशा-शी]; @deva[चन्द्रमुखा-खी]; but @deva[सुगुल्फा] having beautiful ankles; @deva[हस्तनी] or @deva[हस्तना] (@deva[आ वा प्रतिषेधा वा];) @deva[हट्टका शाला] 'an edifice with a beautiful front'.

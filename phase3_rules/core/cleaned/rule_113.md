@@ -22,7 +22,7 @@ source_pages:
 internal_pages:
   - "69"
 image_files:
-  - "077.png"
+  - "069.png"
 ---
 
 @deva[पुरुष्] m. a man.

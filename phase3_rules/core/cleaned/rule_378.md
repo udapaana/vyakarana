@@ -53,8 +53,8 @@ internal_pages:
   - "230"
   - "231"
 image_files:
-  - "238.png"
-  - "239.png"
+  - "230.png"
+  - "231.png"
 ---
 
 There are in Sanskrit—

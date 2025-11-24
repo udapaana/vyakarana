@@ -36,8 +36,8 @@ internal_pages:
   - "189"
   - "190"
 image_files:
-  - "197.png"
-  - "198.png"
+  - "189.png"
+  - "190.png"
 ---
 
 Of Bah. compounds having for their last member one of the words @deva[नासिका], @deva[उदर], @deva[ओष्ठ], @deva[जङ्घ], @deva[दन्त], @deva[कर्ण], @deva[रूप], @deva[अङ्गुल], @deva[गात्र], @deva[कण्ठ] and @deva[पुच्छ] the fem. is fomed either in @deva[आ] or @deva[ई];[^1] @deva[तुङ्गनासिका का]; @deva[कनोष्ठी-ष्ठी] 'a woman having a slender waist;' @deva[बिम्बौष्ठी-ष्ठा] 'with a lip as red as the bimba fruit,' @deva[दीर्घे जङ्घे यस्या: सा दीर्घे- जङ्घ-ही] 'one having long legs,' hence 'a she-camel;' @deva[स्वङ्गा सी] ( @deva[शोभने अङ्गे यस्याः सा] ) fair-bodied; @deva[शुपुच्छा-च्छी]: &c.

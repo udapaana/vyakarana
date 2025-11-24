@@ -155,8 +155,8 @@ internal_pages:
   - "215"
   - "216"
 image_files:
-  - "223.png"
-  - "224.png"
+  - "215.png"
+  - "216.png"
 ---
 
 Words ending in @deva[उ] and those having @deva[क], @deva[ट], @deva[ण], @deva[थ], @deva[प], @deva[ष], @deva[ख], @deva[घ], @deva[र], or @deva[स], for their penultimate; as @deva[प्रभुः], @deva[भानुः], @deva[इक्षुः], @deva[स्तबकः] 'a bunch of flowers' &c; @deva[घटः], @deva[पाषाणः], @deva[शोथः] 'a swelling', @deva[फेनः]; @deva[दीपः]; @deva[स्तम्भः]; @deva[रोमः]; @deva[समयः]; @deva[क्षुरः] 'a razor', @deva[अङ्कुरः], @deva[धरः], @deva[वायसः] &c.

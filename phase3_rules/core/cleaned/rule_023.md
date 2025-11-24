@@ -25,8 +25,8 @@ internal_pages:
   - "18"
   - "19"
 image_files:
-  - "026.png"
-  - "027.png"
+  - "018.png"
+  - "019.png"
 ---
 
 **(a)** @deva[इ], @deva[उ], @deva[ऋ] or @deva[ऌ], short or long, at the end of a word followed by a dissimilar vowel except in a compound, are optionally not combined, and when so they are shortened if long[^1] e.g. @deva[चक्रि] + @deva[अत्र] = @deva[चक्रित्र], Viṣṇu here, and @deva[चक्रि अत्र]; but @deva[वापी] + @deva[अम्बुः] = @deva[वाप्यम्बुः] a horse in a well. @deva[गौरी] + @deva[औ] (a term.) = @deva[गौर्यौ].

@@ -23,7 +23,7 @@ source_pages:
 internal_pages:
   - "187"
 image_files:
-  - "195.png"
+  - "187.png"
 ---
 
 The feminine of @deva[मनु] is optionally formed by adding @deva[ई] before which the final @deva[उ] is changed to @deva[ओ] or @deva[ऐ];[^1] @deva[मनावी]. @deva[मनायी] or @deva[मनुः] ।

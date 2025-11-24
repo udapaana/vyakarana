@@ -21,7 +21,7 @@ source_pages:
 internal_pages:
   - "112"
 image_files:
-  - "120.png"
+  - "112.png"
 ---
 
 In a few cases, the intermediate members retain their case endings in which case the compounds are called 'Aluk' (@deva[अलुक्]); e. g. @deva[देवानांप्रियः] a fool, @deva[युधिष्ठिरः] name of the eldest Pāṇḍava &c.

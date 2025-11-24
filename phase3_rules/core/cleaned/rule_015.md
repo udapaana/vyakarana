@@ -27,8 +27,8 @@ internal_pages:
   - "11"
   - "12"
 image_files:
-  - "019.png"
-  - "020.png"
+  - "011.png"
+  - "012.png"
 ---
 
 The vowels @deva[अ], @deva[ए], @deva[ओ] and the syllables @deva[अर्] and @deva[अल्] are called @deva[गुण] (@[Guṇa]); the vowels @deva[आ], @deva[ऐ], @deva[औ] and the syllables @deva[आर्] and @deva[आल्] are called @deva[वृद्धि] (@[Vṛddhi]).[^1] The Guṇa and Vṛddhi vowels and syllables that are substituted for the simple vowels will appear from the following table:

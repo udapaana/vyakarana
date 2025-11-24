@@ -28,7 +28,7 @@ source_pages:
 internal_pages:
   - "114"
 image_files:
-  - "122.png"
+  - "114.png"
 ---
 
 When the several members of a Dwandwa compound are viewed separately, it is called Itaretara Dwandwa, e. g. @deva[धवखदिरौ छिन्धि], 'cut down the Dhava and the Khadira trees' In this species each member is of equal importance i. e. has its own independent meaning. It takes the dual or the plural according as the objects denoted by it are two or more in number; the gender of the final noun is the gender of the whole;[^1] as @deva[कुक्कुटश्च मयूरी च कुक्कुटमयूर्यौ इमे] (fem. dual of @deva[इमद्]); but @deva[मयूरी च कुक्कुटश्च मयूरीकुक्कुटौ इमौ]; @deva[रामश्च लक्षमणश्च भरतश्च शत्रुघ्नश्च रामलक्षमणभरतशत्रुघ्नाः] &c.

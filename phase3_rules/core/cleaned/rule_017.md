@@ -20,7 +20,7 @@ source_pages:
 internal_pages:
   - "12"
 image_files:
-  - "020.png"
+  - "012.png"
 ---
 
 The numerical figures in Sanskrit are:

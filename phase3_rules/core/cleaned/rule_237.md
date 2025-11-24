@@ -27,8 +27,8 @@ internal_pages:
   - "142"
   - "143"
 image_files:
-  - "150.png"
-  - "151.png"
+  - "142.png"
+  - "143.png"
 ---
 
 Some upapadas such as @deva[उच्चै], @deva[नीचै], @deva[तिर्यक्], @deva[छसत्], &c. also optionally form compounds with the verbal indeclinable in @deva[त्वा] (changeable to @deva[य]); as @deva[उच्चैःकृत्य] (or @deva[उच्चैः कृत्वा]), @deva[तिर्यक्कृत्य], @deva[छसतीक्षय], @deva[नानाकृत्य], @deva[एकधाकृत्य], &c. For further particulars vide the Chapter on verbal derivatives.

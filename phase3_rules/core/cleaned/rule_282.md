@@ -38,8 +38,8 @@ internal_pages:
   - "167"
   - "168"
 image_files:
-  - "175.png"
-  - "176.png"
+  - "167.png"
+  - "168.png"
 ---
 
 The following words take the suffix @deva[अ] before which the final vowel, with the following consonant, if any, is dropped.[^1]

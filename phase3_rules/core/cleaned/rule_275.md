@@ -25,7 +25,7 @@ source_pages:
 internal_pages:
   - "165"
 image_files:
-  - "173.png"
+  - "165.png"
 ---
 
 The words @deva[पार] and @deva[मध्य] optionally form Avya. compounds with any nominal base, and are placed first, the final @deva[अ] being changed to @deva[ए] when thus compounded;[^1] e. g. @deva[पारे-मध्ये-गङ्गाम्] from the middle of the Gangetic stream; optionally of course, the Gen. Tat.; also @deva[पङ्गापारात्], @deva[गङ्गामध्यात्]. In this case the Ab. termination is irregularly retained. If the final noun has the sense of the Loc. the final vowel may be changed to @deva[अक्]; as @deva[पारे-मध्ये-गङ्गक्]; cf. @deva[पारेसहद्रम्] Bhatti. V. 4.

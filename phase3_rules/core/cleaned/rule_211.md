@@ -41,9 +41,9 @@ internal_pages:
   - "124"
   - "125"
 image_files:
-  - "131.png"
-  - "132.png"
-  - "133.png"
+  - "123.png"
+  - "124.png"
+  - "125.png"
 ---
 
 **(a)** It is not compounded with verbal derivatives[^1] ending in @deva[तृ] and @deva[अक्] and denoting the agent of the action; @deva[कर्तृसखा] and not @deva[कर्तृसखा]; @deva[घटस्य कर्ता], @deva[ओदनस्य पाचकः] &c.; but @deva[हृदयं भक्षयति स्तूकभक्षिका] as the @deva[अक्] here does not denote the agent.

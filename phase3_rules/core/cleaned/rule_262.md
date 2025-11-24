@@ -25,7 +25,7 @@ source_pages:
 internal_pages:
   - "159"
 image_files:
-  - "167.png"
+  - "159.png"
 ---
 
 A fem. Bah. ending in @deva[इन्] takes this @deva[क] necessarily;[^1] as @deva[बहुतपस्विका नगरी] 'a city having many ascetics'; @deva[बहुवाग्मिका सभा] 'an assembly having many eloquent speakers in it'; but @deva[बहुदण्डी] or @deva[बहुदण्डिको ग्रामः] (vide @ref[263] below), as it is mas.

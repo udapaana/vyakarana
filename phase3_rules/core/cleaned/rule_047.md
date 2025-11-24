@@ -21,7 +21,7 @@ source_pages:
 internal_pages:
   - "28"
 image_files:
-  - "036.png"
+  - "028.png"
 ---
 
 Final @deva[अः] may be changed to @deva[ओ] before @deva[उ];[^1] @deva[पुनः] + @deva[उक्तम्] = @deva[पुनरुक्तम्] and @deva[पुनोऽक्तम्] said again (by change of @deva[रः] into @deva[ओ]); @deva[मनः] + @deva[उत्तमम्] = @deva[मनरुत्तमम्] and @deva[मनोऽत्तमम्] the best mind.

@@ -26,7 +26,7 @@ source_pages:
 internal_pages:
   - "142"
 image_files:
-  - "150.png"
+  - "142.png"
 ---
 
 When the second member of a Tat. Comp. is a root-noun derived from a root which takes a particular Krit affix by virtue of the presence of the first member, it is called an Upapada Tat.; as @deva[कुम्भं करोतीति कुम्भकारः] 'a potter,' so @deva[साम गायतीति सामगः] 'one who chants a verse of the Sàman Veda,' @deva[मांसं कामयती मांसकामा] 'desirous of meat'; similarly @deva[अश्वक्रीति] (@deva[अश्वेन क्रीता]) 'bought for a horse,' @deva[कच्छपी] 'a female tortoise,' &c. The noun prefixed to the last member, such as @deva[कुम्भ], is called an upapada.

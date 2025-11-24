@@ -21,7 +21,7 @@ source_pages:
 internal_pages:
   - "231"
 image_files:
-  - "239.png"
+  - "231.png"
 ---
 
 **(h)** In each tense and mood there are three numbers, singular, dual and plural, with three persons in each.

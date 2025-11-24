@@ -19,7 +19,7 @@ source_pages:
 internal_pages:
   - "8"
 image_files:
-  - "016.png"
+  - "008.png"
 ---
 
 A vowel by itself or a consonant, simple or conjunct, with a vowel added to it, is called an @deva[अक्षर] (@[Akṣara]) or a syllable.

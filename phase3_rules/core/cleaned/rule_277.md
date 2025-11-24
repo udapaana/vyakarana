@@ -21,7 +21,7 @@ source_pages:
 internal_pages:
   - "165"
 image_files:
-  - "173.png"
+  - "165.png"
 ---
 
 Any noun may be compounded with the name of a river, into an Avya. comp. to form a name;[^1] @deva[उन्मत्तगङ्गम्], 'a place where the Ganges is very boisterous,' so @deva[लोहितगङ्गम्], &c.

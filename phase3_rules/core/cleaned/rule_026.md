@@ -40,9 +40,9 @@ internal_pages:
   - "21"
   - "22"
 image_files:
-  - "028.png"
-  - "029.png"
-  - "030.png"
+  - "020.png"
+  - "021.png"
+  - "022.png"
 ---
 
 No sandhi is possible in the case of[^1]—

@@ -35,8 +35,8 @@ internal_pages:
   - "168"
   - "169"
 image_files:
-  - "176.png"
-  - "177.png"
+  - "168.png"
+  - "169.png"
 ---
 
 @deva[अ] is added to the finals of the following—[^1]

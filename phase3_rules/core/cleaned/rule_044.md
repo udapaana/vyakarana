@@ -21,7 +21,7 @@ source_pages:
 internal_pages:
   - "27"
 image_files:
-  - "035.png"
+  - "027.png"
 ---
 
 When the final consonant of a word is followed by the initial letter @deva[छ्], @deva[च्] is inserted;[^1] e.g. @deva[तत्] + @deva[छात्रः] = @deva[तच्छात्रः] that scholar.

@@ -21,7 +21,7 @@ source_pages:
 internal_pages:
   - "143"
 image_files:
-  - "151.png"
+  - "143.png"
 ---
 
 The word @deva[अङ्गुलि] at the end of a Tatpurusha compound changes its final to @deva[अ] when preceded by a numeral or an indeclinable,[^1] as @deva[द्वे अङ्गुली प्रमाणमस्य द्विङ्गुलं दारु] 'a piece of wood measuring two fingers,' @deva[निर्गतमङ्गुलिभ्यो निरङ्गुलम्] &c.

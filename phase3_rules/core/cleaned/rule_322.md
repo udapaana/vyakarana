@@ -26,7 +26,7 @@ source_pages:
 internal_pages:
   - "187"
 image_files:
-  - "195.png"
+  - "187.png"
 ---
 
 If a compound has for its last member @deva[ऊरु] and for its first, words signifying a standard of comparison, or one of the words @deva[सहित], @deva[शक्], @deva[क्षमण], @deva[वाम], @deva[महित] and @deva[सह], it forms its feminine in @deva[ऊः];[^1] @deva[रम्भोरुः रम्भे इव ऊरु यस्याः] plantain-thighed; @deva[करभोरुः] having thighs ( beautifully tapering ) like the fore-arm or the trunk of an elephant; @deva[दृढितोरुः] having well-turned thighs; @deva[शक्तो खुरौ वातृविव संनियच्छत्यादूरु यस्याः सा शक्तोरुः]; [ @deva[हितेन सह सहितो ऊरु यस्याः सा] ] @deva[सहितोरुः]; [ @deva[सहते इति सहो ऊरु यस्याः सा] ] @deva[सहोरुः] 'a woman whose thighs are capable of enduring great fatigue or pain'; or 'one having excellent thighs.'

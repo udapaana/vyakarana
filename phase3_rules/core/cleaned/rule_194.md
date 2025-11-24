@@ -30,8 +30,8 @@ internal_pages:
   - "116"
   - "117"
 image_files:
-  - "124.png"
-  - "125.png"
+  - "116.png"
+  - "117.png"
 ---
 
 **(a)** When the names of deities well known to be in constant association with each other are compounded, @deva[आ] is substituted for the final vowel of the preceding word, except in the case of the word @deva[वायु];[^1] e.g. @deva[मित्रावरुणौ], @deva[सूर्याचन्द्रमसौ], @deva[अग्निमरुतौ], &c. but @deva[अग्निवायू] or @deva[वाय्वग्नी].

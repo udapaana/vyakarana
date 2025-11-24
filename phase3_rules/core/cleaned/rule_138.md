@@ -36,8 +36,8 @@ internal_pages:
   - "91"
   - "92"
 image_files:
-  - "099.png"
-  - "100.png"
+  - "091.png"
+  - "092.png"
 ---
 
 The pronouns @deva[यद्] 'who, which'; mas. fem. and neu.; mas. base @deva[य], fem. base @deva[या].

@@ -25,8 +25,8 @@ internal_pages:
   - "157"
   - "158"
 image_files:
-  - "165.png"
-  - "166.png"
+  - "157.png"
+  - "158.png"
 ---
 
 @deva[हृदय] is changed to @deva[हृद्] when preceded by @deva[सु] or @deva[दुस्] meaning 'a friend', or an 'enemy' respectively;[^1] @deva[शोभनं हृदयं यस्य स सुहृद्] 'a friend', @deva[दुहृद्] 'an enemy'; but @deva[सुहृदयः] 'one who has got a good heart' i.e. 'one who is able to appreciate merits', &c.; @deva[दुहृदयः] 'a man of wicked intentions.'

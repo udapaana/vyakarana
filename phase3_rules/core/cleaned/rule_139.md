@@ -36,8 +36,8 @@ internal_pages:
   - "92"
   - "93"
 image_files:
-  - "100.png"
-  - "101.png"
+  - "092.png"
+  - "093.png"
 ---
 
 The pronoun @deva[किम्] mas. fem. & neu.; m. base @deva[क]; fem. base @deva[का].

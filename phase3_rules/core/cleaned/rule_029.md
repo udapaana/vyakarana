@@ -20,7 +20,7 @@ source_pages:
 internal_pages:
   - "23"
 image_files:
-  - "031.png"
+  - "023.png"
 ---
 
 If a letter of the @deva[ट] group be followed by @deva[क्] it does not substitute its corresponding lingual; @deva[षट्] + @deva[कः] = @deva[षट्कः] sixth good man.

@@ -32,8 +32,8 @@ internal_pages:
   - "6"
   - "7"
 image_files:
-  - "014.png"
-  - "015.png"
+  - "006.png"
+  - "007.png"
 ---
 
 In the following table is given a complete classification of these letters according to the organs with which they are pronounced.

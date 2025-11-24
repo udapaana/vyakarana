@@ -35,7 +35,7 @@ source_pages:
 internal_pages:
   - "108"
 image_files:
-  - "116.png"
+  - "108.png"
 ---
 
 Other derivatives from the numerals:—

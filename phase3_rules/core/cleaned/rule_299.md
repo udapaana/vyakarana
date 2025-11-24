@@ -49,8 +49,8 @@ internal_pages:
   - "175"
   - "176"
 image_files:
-  - "183.png"
-  - "184.png"
+  - "175.png"
+  - "176.png"
 ---
 
 The vowel of the first member is lengthened in the following cases:—[^1]

@@ -55,8 +55,8 @@ internal_pages:
   - "229"
   - "230"
 image_files:
-  - "237.png"
-  - "238.png"
+  - "229.png"
+  - "230.png"
 ---
 
 ## Interjections Expressing Emotions

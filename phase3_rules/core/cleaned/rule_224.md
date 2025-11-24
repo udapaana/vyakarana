@@ -45,8 +45,8 @@ internal_pages:
   - "136"
   - "137"
 image_files:
-  - "144.png"
-  - "145.png"
+  - "136.png"
+  - "137.png"
 ---
 
 The particle @deva[कु] forms a Karm. compound with any other word, @deva[कुपुरुषः] ( @deva[कुत्सितः पुरुषः] ) a bad man; @deva[कुयवः] &c.

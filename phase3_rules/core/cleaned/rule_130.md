@@ -30,7 +30,7 @@ source_pages:
 internal_pages:
   - "85"
 image_files:
-  - "093.png"
+  - "085.png"
 ---
 
 The following suffixes are sometimes added to nominal bases to express the meanings of cases.

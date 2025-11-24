@@ -22,8 +22,8 @@ internal_pages:
   - "32"
   - "33"
 image_files:
-  - "040.png"
-  - "041.png"
+  - "032.png"
+  - "033.png"
 ---
 
 The crude form of a noun (any declinable word) not yet inflected is technically called a Prātipadika (@deva[प्रातिपदिक]).

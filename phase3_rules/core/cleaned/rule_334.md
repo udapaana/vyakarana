@@ -22,7 +22,7 @@ source_pages:
 internal_pages:
   - "191"
 image_files:
-  - "199.png"
+  - "191.png"
 ---
 
 A Dwigu ending in @deva[अ] forms its fem. in @deva[ई]; as @deva[त्रिलोकी]; but if the ending word be one of those included in the Ajadi group ( see foot-note on p. 108 ) its fem. is formed in @deva[आ]; @deva[सेना]., @deva[त्रिसेना] ( consisting of three battalions ) @deva[सेना], &c.

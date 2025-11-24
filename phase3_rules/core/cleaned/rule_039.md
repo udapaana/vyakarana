@@ -22,7 +22,7 @@ source_pages:
 internal_pages:
   - "26"
 image_files:
-  - "034.png"
+  - "026.png"
 ---
 
 If @deva[ट्] or @deva[स्] at the end of a word be followed by @deva[त्], @deva[ट्] (changed to @deva[ड्]) is optionally inserted between them;[^1] e.g. @deva[षष्] + @deva[सन्तः] = @deva[षट्सन्तः] or @deva[षट्] + @deva[ट्] + @deva[सन्तः] = @deva[षट्ट्सन्तः] six good men; so @deva[सत्] + @deva[सः] = @deva[सत्सः] or @deva[सत्त्सः] that good man.

@@ -25,8 +25,8 @@ internal_pages:
   - "97"
   - "98"
 image_files:
-  - "105.png"
-  - "106.png"
+  - "097.png"
+  - "098.png"
 ---
 
 @deva[एक] when a numeral is declined in the sing. and @deva[द्वि] in the dual only, @deva[द्वि]. is considered as @deva[द्वि], and they are both declined like @deva[सर्व] in all the three genders; e g.

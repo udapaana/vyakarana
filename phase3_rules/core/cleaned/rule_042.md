@@ -23,7 +23,7 @@ source_pages:
 internal_pages:
   - "26"
 image_files:
-  - "034.png"
+  - "026.png"
 ---
 
 If @deva[स्] be the last letter of a word, and its vowel or consonant next to it, or consonant of the preceding syllable be a cerebral letter or @deva[ऋ], @deva[ॠ], @deva[ऌ], this @deva[स्] is changed to the cerebral @deva[ष्];[^1] e.g. @deva[अग्निष्] + @deva[टः] = @deva[अग्निष्ठः] the fire burnt; @deva[हविः] + @deva[भिः] = @deva[हविर्भिः] by oblations (changed to @deva[ष्] by this rule before being changed to @deva[र्] by @ref[32]); @deva[धनुः] + @deva[टङ्कारः] = @deva[धनुष्टङ्कारः] the twang of a bow; @deva[नृ] + @deva[सु] = @deva[नृष्षु] (loc. pl.) in men.

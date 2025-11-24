@@ -31,7 +31,7 @@ source_pages:
 internal_pages:
   - "95"
 image_files:
-  - "103.png"
+  - "095.png"
 ---
 
 @deva[अन्य] 'another,' @deva[अन्यतर] 'either of two,' @deva[इतर] 'other,' @deva[एकतम] 'one of many,' @deva[कतर] 'who or which of two,' @deva[कतम] 'who or which of many,' @deva[यतर] 'who or which of two,' @deva[यतम] 'who or which of many,' @deva[ततर] 'that one (of two),' @deva[ततम] 'that one (of many),' are declined in all the three genders like @deva[यद्] e. g.

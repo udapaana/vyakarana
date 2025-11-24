@@ -28,7 +28,7 @@ source_pages:
 internal_pages:
   - "183"
 image_files:
-  - "191.png"
+  - "183.png"
 ---
 
 The feminine of nouns denoting 'a male' is formed by adding @deva[ई] when the wife of that male is meant;[^1] @deva[गोपस्य स्त्री गोपी]; @deva[शूद्री] (sometimes @deva[शूद्राणी] also) 'wife of a Sudra'.

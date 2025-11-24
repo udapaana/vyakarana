@@ -23,7 +23,7 @@ source_pages:
 internal_pages:
   - "215"
 image_files:
-  - "223.png"
+  - "215.png"
 ---
 
 ## I. Masculine

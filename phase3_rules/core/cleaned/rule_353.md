@@ -24,7 +24,7 @@ source_pages:
 internal_pages:
   - "218"
 image_files:
-  - "226.png"
+  - "218.png"
 ---
 
 @deva[अप्], @deva[सुमन्] when it means 'a flower', @deva[समा] 'a year', @deva[सिक्ता], @deva[वर्षा] and @deva[अप्सरस्] which are always used in the plural.[^1]

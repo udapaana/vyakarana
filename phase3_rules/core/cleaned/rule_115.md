@@ -37,8 +37,8 @@ internal_pages:
   - "70"
   - "71"
 image_files:
-  - "078.png"
-  - "079.png"
+  - "070.png"
+  - "071.png"
 ---
 
 @deva[अ] is lenthened in the Nom. sing.[^1], and @deva[न्] is inserted between @deva[अ] and the final @deva[त्] in the first five inflections. The final @deva[त्] is dropped in the Nom. sing.; the @deva[अ] of @deva[मवत्] is lengthened before this @deva[न्] except in the Voc. sing.

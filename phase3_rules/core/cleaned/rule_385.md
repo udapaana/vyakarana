@@ -30,8 +30,8 @@ internal_pages:
   - "232"
   - "233"
 image_files:
-  - "240.png"
-  - "241.png"
+  - "232.png"
+  - "233.png"
 ---
 
 The roots contained in the first nine classes and a few of the tenth are primitive roots, while almost all roots of the tenth class, the Causals, Desideratives, Frequentatives, Denominatives, and the roots @deva[णुच्], @deva[लुट्], @deva[किट्], @deva[पुट्], @deva[पुट्], @deva[चुट्], and @deva[चुण्], are comprised under the head of Derivative roots.

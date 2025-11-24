@@ -20,7 +20,7 @@ source_pages:
 internal_pages:
   - "61"
 image_files:
-  - "069.png"
+  - "061.png"
 ---
 
 The @deva[ह्‌] of @deva[उपानह्‌] f. 'a shoe' is changed to @deva[त्‌] before @deva[सू] and to @deva[द्‌] before the @deva[स्‌] of the termination; e. g. Nom. plu. @deva[उपानहौ], @deva[उपानह्‌ः]; Ins. sing. and dual @deva[उपानहा], @deva[उपानह्‌भ्याम्] @deva[उपानहि], @deva[उपानहैः]; @deva[उपानत्सु].

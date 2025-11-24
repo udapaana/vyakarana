@@ -20,7 +20,7 @@ source_pages:
 internal_pages:
   - "32"
 image_files:
-  - "040.png"
+  - "032.png"
 ---
 
 In the present chapter Declension or the inflection of nouns, substantive and adjective, is considered.

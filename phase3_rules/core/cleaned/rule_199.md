@@ -28,7 +28,7 @@ source_pages:
 internal_pages:
   - "119"
 image_files:
-  - "127.png"
+  - "119.png"
 ---
 
 In the case of words of the @deva[राजदन्तादि] class that which ought to be placed first is placed last; while in the case of words of the @deva[धर्मादि] group (a sub-division of @deva[राजदन्तादि]) the rule is observed optionally; @deva[शूद्रार्यम्] a Śudra and an Arya, @deva[धर्मोऽर्थ] or @deva[धर्मार्थौ] or @deva[अर्थधर्मौ]; so @deva[अर्थशब्दौ] or @deva[शब्दार्थौ], @deva[अर्थकामौ] or @deva[कामार्थौ], &c.

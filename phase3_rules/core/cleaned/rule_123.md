@@ -28,8 +28,8 @@ internal_pages:
   - "67"
   - "68"
 image_files:
-  - "075.png"
-  - "076.png"
+  - "067.png"
+  - "068.png"
 ---
 
 Tabular representation of the declension of @deva[दिश्].

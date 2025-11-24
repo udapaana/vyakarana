@@ -24,7 +24,7 @@ source_pages:
 internal_pages:
   - "215"
 image_files:
-  - "223.png"
+  - "215.png"
 ---
 
 @deva[स्थूण]—@deva[णा] 'the post or pillar of a house', @deva[अर्चिस्] 'light', and @deva[लक्ष्]—@deva[क्षा] 'one hundred thousand' (according to some n. also).

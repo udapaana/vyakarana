@@ -1239,5 +1239,3 @@
 - **Prosody**: 14 rules
 
 ---
-
-*Generated from production-ready rule metadata (Phase 3C)*

@@ -80,10 +80,10 @@ internal_pages:
   - "59"
   - "60"
 image_files:
-  - "065.png"
-  - "066.png"
-  - "067.png"
-  - "068.png"
+  - "057.png"
+  - "058.png"
+  - "059.png"
+  - "060.png"
 ---
 
 Paradigms—@deva[वाच्] f. speech, @deva[राज्] shining, @deva[छह्] becoming faint &c.

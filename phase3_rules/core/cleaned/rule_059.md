@@ -23,7 +23,7 @@ source_pages:
 internal_pages:
   - "34"
 image_files:
-  - "042.png"
+  - "034.png"
 ---
 
 Declension is for the sake of convenience divided into two classes:—

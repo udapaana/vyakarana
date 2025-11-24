@@ -28,7 +28,7 @@ source_pages:
 internal_pages:
   - "159"
 image_files:
-  - "167.png"
+  - "159.png"
 ---
 
 The words @deva[उरस्], @deva[सर्पिस्], @deva[अपनह्], @deva[द्वि], @deva[त्रि], @deva[शालि-ली] and @deva[संध्], @deva[गन्धहु], @deva[पत्], @deva[गो] and @deva[लक्ष्मी] when used in the singular, have a @deva[क] added to them, when they form the latter member of a Bah. comp.;[^1] @deva[उरुक] (expanded, well-developed) @deva[उरः यस्य उरुकोरस्कः], @deva[सिप्रसर्पिकः] 'one fond of ghee', &c. @deva[एकः उद्गात् यस्य असौ एकुद्गातृकः] 'having one man only', &c.; when @deva[द्वि] and the words following it are used in the dual and the plural they take @deva[क] optionally. @deva[द्विशालक] or @deva[द्विशालः] &c.

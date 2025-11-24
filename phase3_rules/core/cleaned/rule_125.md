@@ -30,8 +30,8 @@ internal_pages:
   - "79"
   - "80"
 image_files:
-  - "087.png"
-  - "088.png"
+  - "079.png"
+  - "080.png"
 ---
 
 Bases in @deva[यस्] or @deva[ईयस्]

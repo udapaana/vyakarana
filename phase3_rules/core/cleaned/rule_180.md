@@ -19,7 +19,7 @@ source_pages:
 internal_pages:
   - "112"
 image_files:
-  - "120.png"
+  - "112.png"
 ---
 
 In Sanskrit simple words, whether substantives, adjectives, verbs or indeclinables, have the power of entering into combination with one another and forming what are called 'Samāsas', compound words or, in short, compounds.

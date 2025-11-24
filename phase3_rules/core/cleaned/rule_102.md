@@ -21,7 +21,7 @@ source_pages:
 internal_pages:
   - "61"
 image_files:
-  - "069.png"
+  - "061.png"
 ---
 
 @deva[अनडुह्‌] m. an ox.

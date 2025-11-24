@@ -42,7 +42,7 @@ source_pages:
 internal_pages:
   - "160"
 image_files:
-  - "168.png"
+  - "160.png"
 ---
 
 No @deva[क] is affixed[^1]

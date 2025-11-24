@@ -26,7 +26,7 @@ source_pages:
 internal_pages:
   - "151"
 image_files:
-  - "159.png"
+  - "151.png"
 ---
 
 The particle @deva[सह] may be compounded with a noun in the Instrumental case in a Bahuvrīhi when there is equal participation in some action; in this case @deva[सह] optionally becomes @deva[स];[^1] as @deva[पुत्रेण सह सहपुत्रः] or @deva[सपुत्रः].

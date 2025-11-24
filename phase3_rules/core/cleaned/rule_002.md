@@ -30,8 +30,8 @@ internal_pages:
   - "2"
   - "3"
 image_files:
-  - "010.png"
-  - "011.png"
+  - "002.png"
+  - "003.png"
 ---
 
 The Devanāgarī alphabet consists of forty-two letters or @deva[वर्ण] (@[varṇa]), nine vowels or @deva[स्वर] (@[svara]), and thirty-three consonants or @deva[व्यञ्जन] (@[vyañjana]).[^1]

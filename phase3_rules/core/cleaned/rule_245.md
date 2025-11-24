@@ -72,9 +72,9 @@ internal_pages:
   - "148"
   - "149"
 image_files:
-  - "155.png"
-  - "156.png"
-  - "157.png"
+  - "147.png"
+  - "148.png"
+  - "149.png"
 ---
 
 As a general rule a Tatpurusha compound follows the gender of the final noun.[^1]

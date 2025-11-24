@@ -23,7 +23,7 @@ source_pages:
 internal_pages:
   - "186"
 image_files:
-  - "194.png"
+  - "186.png"
 ---
 
 The words @deva[अन्तर्वत्] and @deva[पतिवत्] form their feminine in @deva[ई] but have a @deva[न्] prefixed to the @deva[ई], @deva[अन्तर्वत्नी] 'a woman big with a child'. @deva[पतिवत्नी] 'a woman whose husband is living'. But if the word @deva[पति] means 'a lord or master of' @deva[ई] only is added; as @deva[पतिमती पृथ्वी] (the earth having a king).

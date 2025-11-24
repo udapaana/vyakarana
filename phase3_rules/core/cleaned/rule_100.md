@@ -31,8 +31,8 @@ internal_pages:
   - "60"
   - "61"
 image_files:
-  - "068.png"
-  - "069.png"
+  - "060.png"
+  - "061.png"
 ---
 
 The @deva[वा] of root-nouns ending in @deva[वाह्] is changed to @deva[ऊ] before the vowel terminations beginning with the Acc. plu.[^1]; e. g. @deva[विश्ववाह्] = the sustainer of the universe, a lord:—

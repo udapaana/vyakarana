@@ -49,8 +49,8 @@ internal_pages:
   - "219"
   - "220"
 image_files:
-  - "227.png"
-  - "228.png"
+  - "219.png"
+  - "220.png"
 ---
 
 @deva[गो], @deva[मणि], @deva[यष्टि], @deva[छुटि], @deva[पाटलि] 'a trumpet sounder', @deva[वस्ति] 'the pelvis', @deva[शाल्मलि], @deva[मषि] 'ink, a kind of black powder', @deva[मसूरि], @deva[धन्यु], @deva[सिन्धु], @deva[करन्धु], @deva[किन्धु] 'a measure of one hand in length', @deva[कण्डु], @deva[रेणु], @deva[रज्जु] (when at the end of a comp.), @deva[नेत्रभि], @deva[नाभि], @deva[कृषि], @deva[इङ्गु], @deva[बाहु], @deva[अशनि], @deva[अरणि], @deva[मरणि], @deva[इति] 'a leather strap', @deva[भूणि], @deva[यानि], and @deva[ऊर्मि].

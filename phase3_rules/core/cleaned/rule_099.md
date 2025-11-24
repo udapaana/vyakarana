@@ -22,7 +22,7 @@ source_pages:
 internal_pages:
   - "60"
 image_files:
-  - "068.png"
+  - "060.png"
 ---
 
 @deva[विश्व] becomes @deva[विष्व] when followed by @deva[राज्][^1] (that particular form of the root-noun @deva[राज्])—

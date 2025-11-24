@@ -21,8 +21,8 @@ internal_pages:
   - "214"
   - "215"
 image_files:
-  - "222.png"
-  - "223.png"
+  - "214.png"
+  - "215.png"
 ---
 
 # Chapter X. Gender

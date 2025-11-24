@@ -22,7 +22,7 @@ source_pages:
 internal_pages:
   - "138"
 image_files:
-  - "146.png"
+  - "138.png"
 ---
 
 The word @deva[ईषत्] 'little' is compounded with any other word except a verbal derivative, and even with a verbal derivative when it expresses a quality;[^1] as @deva[ईषद्विपुलः] 'a little brown', @deva[ईषत्कपिः] 'reddish.' &c.

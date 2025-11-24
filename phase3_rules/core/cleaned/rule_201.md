@@ -25,7 +25,7 @@ source_pages:
 internal_pages:
   - "119"
 image_files:
-  - "127.png"
+  - "119.png"
 ---
 
 According to the grammatical nature of the first or attributive member the Tatpurusha is divided into six varieties:-(1) Tatpurusha proper or the Inflectional, (2) Nañ or the Negative Tatpurusha, (3) Karmadhāraya or the Appositional including 'Dwigu', (4-5) Prādi and Gati or the Prepositional compounds, and (6) Upapada. These are either nouns, adjectives or adverbs.

@@ -26,8 +26,8 @@ internal_pages:
   - "39"
   - "40"
 image_files:
-  - "047.png"
-  - "048.png"
+  - "039.png"
+  - "040.png"
 ---
 
 Adjectives ending in @deva[इ] and @deva[उ] when used with neuter nouns are optionally declined like mas. nouns in @deva[इ] and @deva[उ] in the Da. Ab. Gen. and Loc. singulars and Gen. Loc. duals, e.g. @deva[शुचि] neu. white, pure; @deva[गुरु] neu. heavy:—

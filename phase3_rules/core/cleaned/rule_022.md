@@ -29,8 +29,8 @@ internal_pages:
   - "17"
   - "18"
 image_files:
-  - "025.png"
-  - "026.png"
+  - "017.png"
+  - "018.png"
 ---
 
 When @deva[इ], @deva[उ], @deva[ऋ] and @deva[ऌ], short or long, are followed by a dissimilar vowel, @deva[य्], @deva[व्], @deva[र्] and @deva[ल्] are respectively substituted for them[^1]; e.g. @deva[इति] + @deva[आह] = @deva[इत्याह]; @deva[बुधी] + @deva[उपास्यः] = @deva[बुध्युपास्यः] adored by the wise; @deva[मधु] + @deva[अरिः] = @deva[मध्वरिः] the enemy of @deva[मधु] i.e. Viṣṇu, @deva[पितृ] + @deva[अंशः] = @deva[पित्रंशः] a portion of the creator; @deva[ऌ] + @deva[आकृतिः] = @deva[लाकृतिः] a figure like that of @deva[ऌ] &c.

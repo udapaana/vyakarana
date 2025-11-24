@@ -39,8 +39,8 @@ internal_pages:
   - "154"
   - "155"
 image_files:
-  - "162.png"
-  - "163.png"
+  - "154.png"
+  - "155.png"
 ---
 
 **(a)** @deva[धर्म] when preceded by a single member in a Bahuvrīhi becomes @deva[धर्मन्];[^1] @deva[कल्याणी धर्मः यस्य स कल्याणधर्मा]; similarly @deva[समानधर्मी] ( see Māl. Māḍ. Act. I Intro. ); but @deva[परमः स्वः धर्म यस्य स परमस्वधर्मा]; @deva[परस्परधर्मी] may also be correct if @deva[परस्पर] be regarded as one word compounded in a Karmadhāraya. @deva[संहिष्णुतात्पर्यधर्मी], @deva[तिलुचिषधर्मी], @deva[अत्रनिष्ठतिधर्मी] are to be similarly explained.

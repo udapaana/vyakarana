@@ -31,8 +31,8 @@ internal_pages:
   - "27"
   - "28"
 image_files:
-  - "035.png"
-  - "036.png"
+  - "027.png"
+  - "028.png"
 ---
 
 When @deva[अः] at the end of a word is followed by soft letter, it is changed to @deva[ओ];[^1] e.g. @deva[रामः] + @deva[गच्छति] = @deva[रामो गच्छति] Rāma goes.

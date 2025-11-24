@@ -28,8 +28,8 @@ internal_pages:
   - "24"
   - "25"
 image_files:
-  - "032.png"
-  - "033.png"
+  - "024.png"
+  - "025.png"
 ---
 
 @deva[म्] at the end of a word is changed into an Anusvāra when followed by a consonant;[^1] e.g. @deva[हरिम्] + @deva[वन्दे] = @deva[हरिं वन्दे] I salute Hari. But @deva[गम्] + @deva[य्] + @deva[ते] = @deva[गम्यते] as @deva[म्] is not at the end of a word. The word @deva[सञ्जिह्वः] is an exception (see Pāṇ. VIII. 3. 23).

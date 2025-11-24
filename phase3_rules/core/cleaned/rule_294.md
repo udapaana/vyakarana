@@ -26,8 +26,8 @@ internal_pages:
   - "172"
   - "173"
 image_files:
-  - "180.png"
-  - "181.png"
+  - "172.png"
+  - "173.png"
 ---
 
 @deva[सह] forming the first member of a compound, is changed to @deva[स]—[^1]

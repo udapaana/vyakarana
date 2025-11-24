@@ -27,8 +27,8 @@ internal_pages:
   - "76"
   - "77"
 image_files:
-  - "084.png"
-  - "085.png"
+  - "076.png"
+  - "077.png"
 ---
 
 The @deva[श्व] or @deva[श्वन्] mas. 'a dog,' @deva[युवन्] mas. 'a young man,' @deva[मघवन्] mas. 'name of Indra' is changed to @deva[शु] before vowel terminations beginning with that of the Acc. plu.[^1]

@@ -22,7 +22,7 @@ source_pages:
 internal_pages:
   - "126"
 image_files:
-  - "134.png"
+  - "126.png"
 ---
 
 A word expressive of a part is compounded with another signifying a period of time and is placed first; @deva[मध्यं अह्नः]; @deva[मध्याह्नः] mid-day; @deva[सायाह्नः]; @deva[मध्यरात्रं] &c.

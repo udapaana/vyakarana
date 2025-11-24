@@ -17,7 +17,7 @@ source_pages:
 internal_pages:
   - "76"
 image_files:
-  - "084.png"
+  - "076.png"
 ---
 
 Words ending in @deva[इन्]—

@@ -40,8 +40,8 @@ internal_pages:
   - "137"
   - "138"
 image_files:
-  - "145.png"
-  - "146.png"
+  - "137.png"
+  - "138.png"
 ---
 
 Two adjectives may also be compounded into what is called the @deva[विशेषणोभयपदकर्मधारयः] as @deva[शुक्लकृष्णः], @deva[कृष्णसारंगः].

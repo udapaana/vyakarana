@@ -22,7 +22,7 @@ source_pages:
 internal_pages:
   - "234"
 image_files:
-  - "242.png"
+  - "234.png"
 ---
 
 @deva[य] (@deva[श्यन्]) is added on to the final of a root of the Fourth or @deva[दिवादि] class before the terminations; the radical vowel remains unchanged; e. g. @deva[तुष्+ति=तुष्+य+ति=तुष्यति].

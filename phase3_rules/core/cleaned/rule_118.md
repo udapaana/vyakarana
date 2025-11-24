@@ -28,8 +28,8 @@ internal_pages:
   - "75"
   - "76"
 image_files:
-  - "083.png"
-  - "084.png"
+  - "075.png"
+  - "076.png"
 ---
 
 @deva[पूषन्], @deva[अर्यमन्] and nouns ending in @deva[इन्] lengthen @deva[आ] in the Nom. sing. only; the @deva[न्] of @deva[इन्] is changed to @deva[र्], e. g.

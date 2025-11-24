@@ -27,7 +27,7 @@ source_pages:
 internal_pages:
   - "185"
 image_files:
-  - "193.png"
+  - "185.png"
 ---
 
 The Feminine of @deva[नृ] and @deva[नर] is @deva[नारी] and that of words included in the Shārṅgaravādi ( @deva[शार्ङ्गरवादिगण] ) group is formed by adding @deva[ई]; as @deva[शार्ङ्गरवी], @deva[गौतमी], @deva[आतिथेयी], @deva[आश्रौकेयी], @deva[वैद्यी], @deva[पुत्री], &c.

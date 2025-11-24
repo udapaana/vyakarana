@@ -26,8 +26,8 @@ internal_pages:
   - "42"
   - "43"
 image_files:
-  - "050.png"
-  - "051.png"
+  - "042.png"
+  - "043.png"
 ---
 
 Mas. nouns ending in @deva[ई]:—

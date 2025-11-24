@@ -23,8 +23,8 @@ internal_pages:
   - "61"
   - "62"
 image_files:
-  - "069.png"
-  - "070.png"
+  - "061.png"
+  - "062.png"
 ---
 
 The words @deva[अध्यास्] 'a kind of priest' and @deva[पुरोडाश्] 'sacrificial food' change their final to @deva[स्] before consonantal terminations the preceding @deva[आ] becoming @deva[अ]:—

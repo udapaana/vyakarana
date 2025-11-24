@@ -31,8 +31,8 @@ internal_pages:
   - "190"
   - "191"
 image_files:
-  - "198.png"
-  - "199.png"
+  - "190.png"
+  - "191.png"
 ---
 
 A Bah. ending in @deva[पाद्] (substituted for @deva[पाद] ) optionally forms its fem. in @deva[ई] before which it is changed to @deva[पद्];[^1] @deva[व्याघ्रस्य इव पादौ यस्याः सा व्याघ्रपाद्-पदी], @deva[सिंहपाद्-पदी] and in @deva[आ] when @deva[पाद्] means 'a foot of a Vedic verse'; @deva[द्विपदा छन्द्], @deva[एकपदा] &c.

@@ -26,8 +26,8 @@ internal_pages:
   - "40"
   - "41"
 image_files:
-  - "048.png"
-  - "049.png"
+  - "040.png"
+  - "041.png"
 ---
 
 Irregular bases:—

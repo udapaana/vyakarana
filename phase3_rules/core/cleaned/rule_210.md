@@ -19,7 +19,7 @@ source_pages:
 internal_pages:
   - "123"
 image_files:
-  - "131.png"
+  - "123.png"
 ---
 
 A noun in the Genitive may, as a general rule, be compounded with any other noun; @deva[राज्ञः पुरुषः राजपुरुषः] the king's man ( an officer or a servant ).

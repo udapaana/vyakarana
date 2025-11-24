@@ -22,7 +22,7 @@ source_pages:
 internal_pages:
   - "182"
 image_files:
-  - "190.png"
+  - "182.png"
 ---
 
 Some prātipadikas ending in the Tad. affix @deva[य] insert @deva[आयन्] before @deva[ई];[^1] @deva[भार्गायणी] ( the grand-daughter of @deva[भृगु] ), @deva[लोहितायनी], @deva[काश्यायनी], &c.

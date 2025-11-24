@@ -40,8 +40,8 @@ internal_pages:
   - "192"
   - "193"
 image_files:
-  - "200.png"
-  - "201.png"
+  - "192.png"
+  - "193.png"
 ---
 
 The Taddhita affixes are added in various senses. They occasion various changes in the words to which they are added. The following general observations should be paid attention to.

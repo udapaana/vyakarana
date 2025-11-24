@@ -21,7 +21,7 @@ source_pages:
 internal_pages:
   - "120"
 image_files:
-  - "128.png"
+  - "120.png"
 ---
 
 The first variety consists of such Tatpurusha compounds as have the attributive member in any one of the oblique cases when dissolved. There are six sub-varieties of this corresponding to the six oblique cases

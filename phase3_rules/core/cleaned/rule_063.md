@@ -23,8 +23,8 @@ internal_pages:
   - "35"
   - "36"
 image_files:
-  - "043.png"
-  - "044.png"
+  - "035.png"
+  - "036.png"
 ---
 
 @deva[गोपा] mas. a cow-herd.

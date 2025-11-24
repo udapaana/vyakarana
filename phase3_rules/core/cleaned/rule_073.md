@@ -20,7 +20,7 @@ source_pages:
 internal_pages:
   - "41"
 image_files:
-  - "049.png"
+  - "041.png"
 ---
 
 Compound nouns ending with @deva[पति] such as @deva[भूपति] &c. are declined like @deva[हरि] regularly. @deva[त्रिपत्रि] (@deva[त्रिषु ऋतुषु यस्य यस्या वा]) is declined like @deva[हरि] mas. & @deva[मति] fem.; the Gen. plu. is optionally like that of @deva[त्रि]; @deva[परमत्रीणाम्], or @deva[°व्यपाणाम्].

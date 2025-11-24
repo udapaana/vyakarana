@@ -59,8 +59,8 @@ internal_pages:
   - "228"
   - "229"
 image_files:
-  - "236.png"
-  - "237.png"
+  - "228.png"
+  - "229.png"
 ---
 
 ## Principal Conjunctions in Sanskrit

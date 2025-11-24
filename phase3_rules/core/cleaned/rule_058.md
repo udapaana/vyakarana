@@ -21,7 +21,7 @@ source_pages:
 internal_pages:
   - "34"
 image_files:
-  - "042.png"
+  - "034.png"
 ---
 
 The Vocative is considered to be a different aspect of the nom. and is identical with it in the dual and plural, It is, therefore, supposed to have no separate terminations of its own. In the sing. it sometimes coincides with the original stem, sometimes with the nom., at others, it differs from both.

@@ -35,8 +35,8 @@ internal_pages:
   - "188"
   - "189"
 image_files:
-  - "196.png"
-  - "197.png"
+  - "188.png"
+  - "189.png"
 ---
 
 If a Bah. end in @deva[ऊधस्] it takes the suffix @deva[ई] in the fem. before which @deva[न्] is substituted for the final @deva[अस्];[^1] @deva[पीन ऊधः यस्याः सा पीनोधनी] having a large udder; @deva[कुण्डोधनी] (see Rag. I. 84.); also when it is preceded by a numeral or an indeclinable; @deva[अद् बृहती], @deva[अत्यती] having an udder exceedingly large; but @deva[ऊघः अतिकान्ता अत्यघा].

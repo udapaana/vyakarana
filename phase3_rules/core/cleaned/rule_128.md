@@ -28,8 +28,8 @@ internal_pages:
   - "80"
   - "81"
 image_files:
-  - "088.png"
-  - "089.png"
+  - "080.png"
+  - "081.png"
 ---
 
 The words @deva[जरा] f. old age, @deva[अजर] m. one not getting old and @deva[निजर] a god, optionally assume the forms @deva[जरस्], @deva[अजरस्] and @deva[निजरस्] before the vowel terminations:—
