@@ -56,11 +56,17 @@ These are represented by thirty-three syllabic signs arranged as below:—
 
 These are also called the five classes designated as @deva[कवर्ग] (@[kavarga]), @deva[चवर्ग] (@[cavarga]), @deva[टवर्ग] (@[ṭavarga]), @deva[तवर्ग] (@[tavarga]), and @deva[पवर्ग] (@[pavarga]) respectively.
 
-**(b) Semivowels**—@deva[य] @[y], @deva[र] @[r], @deva[ल] @[l], @deva[व] @[v].
+**(b) Semivowels**
 
-**(c) Sibilants**—@deva[श] @[ś], @deva[ष] @[ṣ], @deva[स] @[s].
+@deva[य] @[y], @deva[र] @[r], @deva[ल] @[l], @deva[व] @[v].
 
-**(d) Sonant Aspirate**—@deva[ह] @[h].
+**(c) Sibilants**
+
+@deva[श] @[ś], @deva[ष] @[ṣ], @deva[स] @[s].
+
+**(d) Sonant Aspirate**
+
+@deva[ह] @[h].
 
 Besides these we have two more characters occurring in the Veda, viz. @deva[ळ] and @deva[ऴ] (often substituted for @deva[ल] and @deva[ळ]; as @deva[कॆळ] for @deva[कॆलॆ], @deva[सीळूरॆ] for @deva[सीलूरॆ] &c.). In Marāthi @deva[ळ] is generally substituted for the final @deva[ल] of Sanskrit words.
 

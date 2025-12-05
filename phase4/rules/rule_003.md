@@ -49,11 +49,14 @@ The nine primary vowels consist of five simple vowels viz. @deva[अ], @deva[इ
 
 A vowel may be @deva[ह्रस्व] (@[hrasva]) or short, @deva[दीर्घ] (@[dīrgha]) or long, or @deva[प्लुत] (@[pluta]) or protracted (also called prolated by some) according to the time required to pronounce it.[^1] The vowels are thus divided:
 
-(1) Short vowels—@deva[अ] @[a], @deva[इ] @[i], @deva[उ] @[u], @deva[ऋ] @[ṛ], @deva[ऌ] @[ḷ];
+(1) Short vowels
+  @deva[अ] @[a], @deva[इ] @[i], @deva[उ] @[u], @deva[ऋ] @[ṛ], @deva[ऌ] @[ḷ];
 
-(2) Long vowels—@deva[आ] @[ā], @deva[ई] @[ī], @deva[ऊ] @[ū], @deva[ॠ] @[ṝ], @deva[ए] @[e], @deva[ऐ] @[ai], @deva[ओ] @[o], @deva[औ] @[au]; and
+(2) Long vowels
+  @deva[आ] @[ā], @deva[ई] @[ī], @deva[ऊ] @[ū], @deva[ॠ] @[ṝ], @deva[ए] @[e], @deva[ऐ] @[ai], @deva[ओ] @[o], @deva[औ] @[au]; and
 
-(3) Protracted vowels @deva[आ३] @[ā3], @deva[ई३] @[ī3], @deva[ऊ३] @[ū3], @deva[ॠ३] @[ṝ3], @deva[ऌ३] @[ḷ3], @deva[ए३] @[e3], @deva[ऐ३] @[ai3], @deva[ओ३] @[o3], and @deva[औ३] @[au3].
+(3) Protracted vowels
+  @deva[आ३] @[ā3], @deva[ई३] @[ī3], @deva[ऊ३] @[ū3], @deva[ॠ३] @[ṝ3], @deva[ऌ३] @[ḷ3], @deva[ए३] @[e3], @deva[ऐ३] @[ai3], @deva[ओ३] @[o3], and @deva[औ३] @[au3].
 
 **N.B.** As the @deva[प्लुत] or protracted vowels are not commonly to be met with in classical Sanskrit, the vowels are usually given as thirteen, represented by the thirteen signs given above under (1) and (2).
 
